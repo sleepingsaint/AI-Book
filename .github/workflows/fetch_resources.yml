@@ -30,6 +30,9 @@ jobs:
             python3 -m scrappers.python.$filename
           done
       
+      - name: adding the new resources to database
+        run: python3 build_script.py
+
       - name: clearing all the source code
         run: |
           rm -rf .github/
