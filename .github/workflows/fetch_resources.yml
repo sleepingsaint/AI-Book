@@ -1,0 +1,47 @@
+name: Fetch new resources of the sources
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  pythonSources:
+    name: Handling all the python based sources
+    runs-on: ubuntu-latest
+    steps:
+      - name: checking out the repo
+        uses: actions/checkout@v3
+      
+      - name: setting up python dependecies
+        run: pip3 install -r requirements.txt
+      
+      - name: download database
+        run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/database.db
+      
+      - name: download log file
+        run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.db
+
+      - name: fetching the new resources of the sources
+        run: |
+          for file in sources/python/[a-zA-Z0-9]*.py; do
+            baseFilename="$(basename $file)"
+            filename="${baseFilename%.*}"
+            python3 -m scrappers.python.$filename
+          done
+      
+      - name: clearing all the source code
+        run: |
+          rm -rf .github/
+          rm -rf scrappers/
+          rm -rf utils/
+          rm -rf build_script.py
+          rm -rf README.md
+          rm -rf requirements.txt
+          rm -rf .gitignore
+
+      - name: update the database with new resources
+        uses: EndBug/add-and-commit@v9
+        with:
+          new_branch: db
+          message: 'Updated database of python sources'
