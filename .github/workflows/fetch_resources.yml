@@ -24,7 +24,7 @@ jobs:
 
       - name: fetching the new resources of the sources
         run: |
-          for file in sources/python/[a-zA-Z0-9]*.py; do
+          for file in scrappers/python/[a-zA-Z0-9]*.py; do
             baseFilename="$(basename $file)"
             filename="${baseFilename%.*}"
             python3 -m scrappers.python.$filename
