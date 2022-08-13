@@ -21,7 +21,7 @@ jobs:
       - name: download database
         run: |
           database_url="https://media.githubusercontent.com/${{github.repository}}/db/database.db"
-          if curl -I -s -f $database_url --output /dev/null:
+          if curl -I -s -f $database_url --output /dev/null;
             then:
               curl -s $database_url -o database.db
           fi 
