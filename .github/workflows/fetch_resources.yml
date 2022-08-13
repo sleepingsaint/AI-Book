@@ -24,7 +24,7 @@ jobs:
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
-              curl -s $database_url -o database.db
+              curl -s $DATABASE_URL -o database.db
               echo "file downloaded"
             else
               echo "database doesn't exists"
