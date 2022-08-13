@@ -19,10 +19,20 @@ jobs:
         run: pip3 install -r requirements.txt
       
       - name: download database
-        run: curl https://media.githubusercontent.com/${{ github.repository }}/db/database.db -o database.db
+        run: |
+          database_url="https://media.githubusercontent.com/${{github.repository}}/db/database.db"
+          if curl -I -s -f $database_url --output /dev/null:
+            then:
+              curl -s $database_url -o database.db
+          fi 
       
       - name: download log file
-        run: curl https://media.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log -o resource_scrapper.log
+        run: |
+          logfile_url="https://media.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log"
+          if curl -I -s -f $logfile_url --output /dev/null;
+            then:
+              curl -s $logfile_url -o resource_scrapper.log
+          fi
       
       - name: checking dirs
         run: tree .
