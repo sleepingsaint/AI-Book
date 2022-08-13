@@ -22,7 +22,7 @@ jobs:
         run: |
           database_url="https://media.githubusercontent.com/${{github.repository}}/db/database.db"
           if curl -I -s -f $database_url --output /dev/null;
-            then:
+            then
               curl -s $database_url -o database.db
           fi 
       
@@ -30,7 +30,7 @@ jobs:
         run: |
           logfile_url="https://media.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log"
           if curl -I -s -f $logfile_url --output /dev/null;
-            then:
+            then
               curl -s $logfile_url -o resource_scrapper.log
           fi
       
