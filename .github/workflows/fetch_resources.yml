@@ -37,7 +37,9 @@ jobs:
       
       - name: adding the new resources to database
         run: python3 build_script.py
-
+        
+      - name: checking post dirs
+        run: tree .
       - name: clearing all the source code
         run: |
           rm -rf .github/
