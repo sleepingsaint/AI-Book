@@ -1,6 +1,9 @@
 name: Fetch new resources of the sources
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 * * * *'
 
@@ -19,7 +22,7 @@ jobs:
         run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/database.db
       
       - name: download log file
-        run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.db
+        run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log
 
       - name: fetching the new resources of the sources
         run: |
