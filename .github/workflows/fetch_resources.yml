@@ -28,6 +28,7 @@ jobs:
               echo "file downloaded"
             else
               echo "database doesn't exists"
+              echo $DATABASE_URL
           fi 
       
       - name: download log file
