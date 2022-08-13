@@ -64,7 +64,7 @@ class GoogleAIClient(ResourceClient):
                 continue
             else:
                 print("[Return from db]", title)
-                return
+#                 return
 
         olderPostsLink = soup.find("a", class_="blog-pager-older-link", href=True)
 
