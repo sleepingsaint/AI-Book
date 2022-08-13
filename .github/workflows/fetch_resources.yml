@@ -45,11 +45,12 @@ jobs:
             python3 -m scrappers.python.$filename
           done
       
-      - name: adding the new resources to database
+      - name: building json files from database
         run: python3 build_script.py
         
       - name: checking post dirs
         run: tree .
+        
       - name: clearing all the source code
         run: |
           rm -rf .github/
