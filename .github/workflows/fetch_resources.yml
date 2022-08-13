@@ -20,7 +20,7 @@ jobs:
       
       - name: download database
         env:
-          DATABASE_URL: https://media.githubusercontent.com/${{github.repository}}/db/database.db
+          DATABASE_URL: https://media.githubusercontent.com/media/${{github.repository}}/db/database.db
         run: |
           if curl -I -s -f $DATABASE_URL -o /dev/null;
             then
@@ -32,11 +32,15 @@ jobs:
           fi 
       
       - name: download log file
+        env:
+          LOGFILE_URL: https://media.githubusercontent.com/media/${{github.repository}}/db/resource_scrapper.log
         run: |
-          logfile_url="https://media.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log"
-          if curl -I -s -f $logfile_url --output /dev/null;
+          if curl -I -s -f $LOGFILE_URL -o /dev/null;
             then
-              curl -s $logfile_url -o resource_scrapper.log
+              curl -s $LOGFILE_URL -o resource_scrapper.log
+            else
+              echo "Log file doesn't exists"
+              echo $LOGFILE_URL
           fi
       
       - name: checking dirs
