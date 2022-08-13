@@ -23,7 +23,10 @@ jobs:
       
       - name: download log file
         run: curl -s https://raw.githubusercontent.com/${{ github.repository }}/db/resource_scrapper.log
-
+      
+      - name: checking dirs
+        run: tree .
+        
       - name: fetching the new resources of the sources
         run: |
           for file in scrappers/python/[a-zA-Z0-9]*.py; do
