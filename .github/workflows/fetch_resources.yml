@@ -1,9 +1,6 @@
 name: Fetch new resources of the sources
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '0 * * * *'
 
