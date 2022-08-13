@@ -42,9 +42,6 @@ jobs:
               echo "Log file doesn't exists"
               echo $LOGFILE_URL
           fi
-      
-      - name: checking dirs
-        run: tree .
         
       - name: fetching the new resources of the sources
         run: |
@@ -54,11 +51,8 @@ jobs:
             python3 -m scrappers.python.$filename
           done
       
-      - name: building json files from database
+      - name: building json files (resources and sources) from database
         run: python3 build_script.py
-        
-      - name: checking post dirs
-        run: tree .
         
       - name: clearing all the source code
         run: |
@@ -70,15 +64,10 @@ jobs:
           rm -rf requirements.txt
           rm -rf .gitignore
 
-      - name: update the database with new resources
+      - name: update the database branch with new resources
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated database of python sources"
           branch: db
           push_options: '--force'
-          create_branch: true 
-
-        # uses: EndBug/add-and-commit@v9
-        # with:
-        #   new_branch: db
-        #   message: 'Updated database of python sources'
+          create_branch: true
