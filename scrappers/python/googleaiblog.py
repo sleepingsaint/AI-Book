@@ -55,6 +55,7 @@ class GoogleAIClient(ResourceClient):
                 continue
             
             if not self.db.resourceExists(title): 
+                print("[DB doesn't contains]", title)
                 result = self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn)
                 if not result:
                     print(f"Resource cannot be handled : {title}")
@@ -62,6 +63,7 @@ class GoogleAIClient(ResourceClient):
             elif self.refetch:
                 continue
             else:
+                print("[Return from db]", title)
                 return
 
         olderPostsLink = soup.find("a", class_="blog-pager-older-link", href=True)
