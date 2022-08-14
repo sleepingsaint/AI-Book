@@ -33,20 +33,27 @@ const ResourcesList = () => {
   if (isLoading) return <div> Loading ...</div>;
 
   return (
-    <div>
+    <div style={{display: "flex", width: "100vw", height: "100vh"}}>
+      <div style={{width: "30%", height: "100vh", overflow: "hidden", overflowY: "scroll"}}>
       {data &&
         data.pages &&
         data.pages.map((group, idx) => (
           <Fragment key={idx}>
             {group.map((res) => (
-              <ResourceTile resource={res} key={res.resource_db_id} />
+              <p onClick={() => setResourceURL(res.url)} style={{cursor: "pointer"}}>
+                <ResourceTile resource={res} key={res.resource_db_id} />
+              </p>
             ))}
           </Fragment>
         ))}
       {isFetching && isFetchingNextPage && <div>Loading More resources</div>}
       {hasNextPage && (
         <button onClick={() => fetchNextPage()}>Load More</button>
-      )}
+        )}
+        </div>
+        <div style={{height: "100vh", overflow: "hidden", overflowY: "scroll", width: "100%"}}>
+          {resourceURL ? <iframe src={resourceURL} style={{width: "100%", height: "100%"}}/> : <p>No resource selected</p>}
+        </div>
     </div>
   );
 };
