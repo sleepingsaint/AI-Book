@@ -57,9 +57,11 @@ class GoogleAIClient(ResourceClient):
             if not self.db.resourceExists(title): 
                 result = self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn)
                 if not result:
-                    print(f"Resource cannot be handled : {title}")
+                    print(f"Resource cannot be created : {title}")
                     print(url, tags, authors, publishedOn, sep="\n")
             elif self.refetch:
+                if not self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn):
+                    print(f"Resource cannot be updated : {title}")
                 continue
             else:
                 return
