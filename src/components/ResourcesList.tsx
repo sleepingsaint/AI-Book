@@ -52,7 +52,7 @@ const ResourcesList = () => {
         )}
         </div>
         <div style={{height: "100vh", overflow: "hidden", overflowY: "scroll", width: "100%"}}>
-          {resourceURL ? <iframe src={resourceURL.replace("http", "https")} style={{width: "100%", height: "100%"}}/> : <p>No resource selected</p>}
+          {resourceURL ? <iframe src={resourceURL} style={{width: "100%", height: "100%"}}/> : <p>No resource selected</p>}
         </div>
     </div>
   );
