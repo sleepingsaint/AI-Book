@@ -53,7 +53,8 @@ class GoogleAIClient(ResourceClient):
             
             if title is None or url is None:
                 continue
-            
+                
+            url = url.replace("http://", "https://")
             if not self.db.resourceExists(title): 
                 result = self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn)
                 if not result:
