@@ -1,5 +1,5 @@
 {
-  "name": "resource_scrapper_frontend",
+  "name": "testing",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,16 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-query": "^3.34.19"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.2"
   },
   "devDependencies": {
-    "@types/react": "^17.0.33",
-    "@types/react-dom": "^17.0.10",
-    "@vitejs/plugin-react": "^1.0.7",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.0",
-    "vite-tsconfig-paths": "^3.4.1"
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7",
+    "vite-tsconfig-paths": "^3.5.0"
   }
 }
