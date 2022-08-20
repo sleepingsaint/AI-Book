@@ -4,12 +4,8 @@ import { useInfiniteQuery } from "react-query";
 import { ResourceType } from "types";
 import ResourceTile from "./ResourceTile";
 import { FiDownload, FiLoader, FiExternalLink } from "react-icons/fi";
-
-// const fetchResources = async ({ pageParam = 0 }) => {
-//   const endpoint = `https://raw.githubusercontent.com/sleepingsaint/resource_scrapper_test/db/resources/googleaiblog/${pageParam}.json`;
-//   const resp = await fetch(endpoint);
-//   return resp.json();
-// };
+import SelectSourceSVG from 'assets/select_source.svg';
+import {MdOutlineErrorOutline} from 'react-icons/md';
 
 const ResourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) => {
   const { source } = useResource();
@@ -25,7 +21,7 @@ const ResourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =>
     [source]
   );
 
-  const { data, isLoading, isError, hasNextPage, fetchNextPage, isFetching, isFetchingNextPage } = useInfiniteQuery<
+  const { data, isLoading, isError, hasNextPage, fetchNextPage, isFetching, isFetchingNextPage, refetch } = useInfiniteQuery<
     ResourceType[]
   >("getResources", fetchResources, {
     getNextPageParam: (lastPage, pages) => {
@@ -38,10 +34,24 @@ const ResourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =>
   });
 
   if (!source) {
-    return <div {...props}>Select source</div>;
+    return <div {...props}>
+      <div className="w-full h-full flex flex-col justify-center items-center">
+        <img src={SelectSourceSVG} className="w-2/3" alt="select source" />
+        <p className="mt-4">Select a source</p>
+      </div>
+    </div>;
   }
-  if (isError) return <div>Oops something went wrong</div>;
-  if (isLoading) return <div> Loading ...</div>;
+  if (isError) return <div {...props}>
+    <div className="w-full h-full flex flex-col justify-center items-center ">
+      <p><MdOutlineErrorOutline className="text-red-300 text-2xl font-bold inline-block mr-2" /> Oops! something went wrong</p>
+      <button onClick={() => refetch()}>Retry</button>
+    </div>
+</div>;
+  if (isLoading) return <div {...props}>
+    <div className="w-full h-full flex flex-col justify-center items-center">
+      <p><FiLoader className="inline-block mr-2" /> Loading</p>
+    </div>
+  </div>;
 
   return (
     <div {...props}>
