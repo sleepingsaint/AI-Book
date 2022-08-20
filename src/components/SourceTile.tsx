@@ -3,7 +3,7 @@ import { SourceType } from "types";
 
 const SourceTile: React.FC<{ source: SourceType } & React.HTMLAttributes<HTMLDivElement>> = (props) => {
   const {source, setSource} = useResource();
-  const selectedStyle = source && source.source_id === props.source.source_id ? "bg-slate-200 p-2 box-content rounded-xl" : "";
+  const selectedStyle = source && source.source_id === props.source.source_id ? "bg-slate-200 p-2 rounded-xl" : " rounded";
   return (
     <img
       src={props.source.icon}
