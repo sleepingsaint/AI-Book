@@ -1,9 +1,17 @@
 import { useResource } from "hooks/useResource";
-import React from "react";
+import React, { useState, useEffect } from "react";
 import SelectResourceSVG from "assets/select_resource.svg";
+import { FiLoader } from "react-icons/fi";
 
 const ResourceViewer: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) => {
   const { resource } = useResource();
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    if (resource) {
+      setLoading(true);
+    }
+  }, [resource]);
 
   if (!resource)
     return (
@@ -15,7 +23,16 @@ const ResourceViewer: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =
       </div>
     );
 
-  return <iframe src={resource.url} frameBorder="0" {...props}></iframe>;
+  return (
+    <div className={props.className + " relative"}>
+      {loading && (
+        <div className="w-full h-full bg-slate-50/75 flex justify-center items-center absolute">
+          <FiLoader className="text-xl mr-2" /> loading
+        </div>
+      )}
+      <iframe src={resource.url} onLoad={(e) => setLoading(false)} frameBorder="0" className="w-full h-full"></iframe>;
+    </div>
+  );
 };
 
 export default ResourceViewer;
