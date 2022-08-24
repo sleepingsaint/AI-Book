@@ -1,7 +1,6 @@
-from utils.python.db_client import DBClient
-from utils.python.resource_client import ResourceClient
 import requests
 from bs4 import BeautifulSoup
+from utils.python.resource_client import ResourceClient
 
 class GoogleAIClient(ResourceClient):
     def __init__(self, title: str, url: str, icon: str, dateFormat: str) -> None:
@@ -73,5 +72,10 @@ class GoogleAIClient(ResourceClient):
             self.getResources(olderPostsLink['href'])
 
 if __name__ == "__main__":
-    googleaiblog_client = GoogleAIClient("Google AI Blog", "https://ai.googleblog.com/", "https://cdn.worldvectorlogo.com/logos/google-ai-1.svg", "%A, %B %d, %Y")
-    googleaiblog_client.getResources("https://ai.googleblog.com/")
+    title = "Google AI Blog"
+    url = "https://ai.googleblog.com/"
+    icon = "https://cdn.worldvectorlogo.com/logos/google-ai-1.svg"
+    dateFormat = "%A, %B %d, %Y"
+
+    googleaiblog_client = GoogleAIClient(title, url, icon, dateFormat)
+    googleaiblog_client.getResources(url)
