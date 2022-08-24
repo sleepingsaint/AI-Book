@@ -1,4 +1,5 @@
-import React from "react";
+import { useResource } from "hooks/useResource";
+import React, { useEffect } from "react";
 import { FiLoader } from "react-icons/fi";
 import { useQuery } from "react-query";
 import { SourceType } from "types";
@@ -12,7 +13,15 @@ const getSources = async ({ pageParam = 0 }) => {
 };
 
 const SourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) => {
+  const {source, setSource} = useResource();
   const { data, isError, isLoading, error } = useQuery<SourceType[]>("getSources", getSources);
+
+  useEffect(() => {
+    if(!source && data && data.length > 0){
+      setSource(data[0]);
+    }
+  }, [data])
+
   if (isLoading)
     return (
       <div {...props}>

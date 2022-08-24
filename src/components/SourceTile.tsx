@@ -7,7 +7,7 @@ const SourceTile: React.FC<{ source: SourceType } & React.HTMLAttributes<HTMLDiv
   return (
     <img
       src={props.source.icon}
-      className={"h-12 w-12 my-2 mx-auto " + selectedStyle} 
+      className={"h-12 w-12 my-2 mb-4 mx-auto " + selectedStyle} 
       alt={props.source.title}
       title={props.source.title}
       {...props}

@@ -23,7 +23,7 @@ const ResourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =>
 
   const { data, isLoading, isError, hasNextPage, fetchNextPage, isFetching, isFetchingNextPage, refetch } = useInfiniteQuery<
     ResourceType[]
-  >("getResources", fetchResources, {
+  >(["getResources", source], fetchResources, {
     getNextPageParam: (lastPage, pages) => {
       if (pages.length < 37) {
         return pages.length;
