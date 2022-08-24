@@ -25,7 +25,7 @@ const SourcesList: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) => {
   if (isLoading)
     return (
       <div {...props}>
-        <div className="w-full h-full flex justify-center items-center">
+        <div className="w-full h-full flex justify-center mt-4">
           <FiLoader />
         </div>
       </div>
