@@ -83,7 +83,8 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
                 continue
             else:
                 return
-        
+        if num_posts == len(posts):
+            return
         num_posts = len(posts)
         load_more_btn = self.driver.find_element(By.CLASS_NAME, 'load-more-wrapper')
         if load_more_btn is not None:
