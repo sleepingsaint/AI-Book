@@ -94,7 +94,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         if load_more_btn is not None:
             self.actions.move_to_element(load_more_btn).perform()
             load_more_btn.click()
-            self.getResources(num_posts) 
+#             self.getResources(num_posts) 
 
 if __name__ == "__main__":
     title = "Nvidia Deep Learning Blog"
