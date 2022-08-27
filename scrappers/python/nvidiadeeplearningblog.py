@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.service import Service
 
 class NvidiaDeepLearningBlogClient(ResourceClient):
     def __init__(self, title: str, url: str, icon: str, dateFormat: str) -> None:
@@ -14,17 +13,14 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
 
         options = Options()
         options.add_argument("--headless")
-#         service = Service(executable_path="/home/runner/work/resource_scrapper_test/resource_scrapper_test/chromedriver")
         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-#         self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(url)
 
         post_container_xpath = "/html/body/div[1]/div[2]/div/div/main/div/div[2]/div[1]"
-        print("Loading Page")
+
         while True:
             try:
                 self.driver.find_element(By.XPATH, post_container_xpath)
-                print("Page Loaded")
                 break
             except NoSuchElementException:
                 pass
@@ -54,7 +50,6 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         return self.formatPublishedOn(publishedOnDate[0])
 
     def getResources(self, num_posts=0):
-        print(num_posts)
         while True:
             try:
                 if len(self.container.find_elements(By.TAG_NAME, "article")) > num_posts:
@@ -94,8 +89,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         if load_more_btn is not None:
             self.actions.move_to_element(load_more_btn).perform()
             load_more_btn.click()
-            if num_posts < 100:
-                self.getResources(num_posts) 
+            self.getResources(num_posts) 
 
 if __name__ == "__main__":
     title = "Nvidia Deep Learning Blog"
