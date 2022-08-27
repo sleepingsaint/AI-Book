@@ -14,8 +14,8 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
 
         options = Options()
         options.add_argument("--headless")
-        service = Service(executable_path="/home/runner/work/resource_scrapper_test/resource_scrapper_test/chromedriver")
-#         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+#         service = Service(executable_path="/home/runner/work/resource_scrapper_test/resource_scrapper_test/chromedriver")
+        self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
         self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(url)
 
@@ -94,7 +94,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         if load_more_btn is not None:
             self.actions.move_to_element(load_more_btn).perform()
             load_more_btn.click()
-            if num_posts < 500:
+            if num_posts < 100:
                 self.getResources(num_posts) 
 
 if __name__ == "__main__":
