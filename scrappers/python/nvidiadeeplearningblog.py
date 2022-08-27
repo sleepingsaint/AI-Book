@@ -14,7 +14,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
 
         options = Options()
         options.add_argument("--headless")
-        service = Service(executable_path="../chromedriver")
+        service = Service(executable_path="/home/runner/work/resource_scrapper_test/resource_scrapper_test/chromedriver")
 #         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
         self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(url)
