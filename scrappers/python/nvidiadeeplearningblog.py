@@ -51,6 +51,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         return self.formatPublishedOn(publishedOnDate[0])
 
     def getResources(self, num_posts=0):
+        print(num_posts)
         while True:
             try:
                 if len(self.container.find_elements(By.TAG_NAME, "article")) > num_posts:
