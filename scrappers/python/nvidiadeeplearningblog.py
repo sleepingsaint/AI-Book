@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 class NvidiaDeepLearningBlogClient(ResourceClient):
     def __init__(self, title: str, url: str, icon: str, dateFormat: str) -> None:
@@ -13,11 +14,13 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
 
         options = Options()
         options.add_argument("--headless")
-
-        self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+        service = Service(executable_path="../chromedriver")
+#         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+        self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(url)
 
         post_container_xpath = "/html/body/div[1]/div[2]/div/div/main/div/div[2]/div[1]"
+        print("Loading Page")
         while True:
             try:
                 self.driver.find_element(By.XPATH, post_container_xpath)
