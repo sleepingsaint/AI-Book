@@ -37,7 +37,13 @@ jobs:
               echo "Log file doesn't exists"
               echo $LOGFILE_URL
           fi
-        
+      - name: download chrome driver
+        run: |
+          wget https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_linux64.zip
+          unzip chromedriver_linux64.zip
+          rm chromedriver_linux64.zip
+          pwd
+          
       - name: fetching the new resources of the sources
         env:
           REFETCH: 1
