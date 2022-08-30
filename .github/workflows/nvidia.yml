@@ -47,7 +47,7 @@ jobs:
       - name: fetching the new resources of the sources
         env:
           REFETCH: 1
-        run: python3 -m scrappers.python.nvidiadeeplearningblog
+        run: python3 -m scrappers.python.weightsandbiases
       
       - name: building json files (resources and sources) from database
         run: python3 build_script.py
