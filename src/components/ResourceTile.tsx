@@ -11,7 +11,7 @@ const ResourceTile: React.FC<{resource: ResourceType}> = ({resource}) => {
     <div className={"p-2 shadow-md my-2 cursor-pointer" + selectedStyle} onClick={() => setResource({...resource})}>
       <p className="mb-2 font-bold">{resource.title}</p>
       {resource.authors && <p className="truncate" title={resource.authors}><FiUsers className="inline-block mr-2"/> {resource.authors}</p>}
-      {resource.tags && <p><AiOutlineTags className="inline-block mr-2"/> {resource.tags}</p>}
+      {resource.tags && <p className="truncate" title={resource.tags}><AiOutlineTags className="inline-block mr-2"/> {resource.tags}</p>}
       {resource.publishedOn && <p><MdDateRange className="inline-block mr-2"/> {(new Date(resource.publishedOn)).toDateString()}</p>}
     </div>
   )
