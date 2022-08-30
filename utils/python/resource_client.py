@@ -1,5 +1,6 @@
 import os
 from datetime import datetime
+from typing import List, Union
 from utils.python.db_client import DBClient
 import logging
 
@@ -40,15 +41,18 @@ class ResourceClient:
 
         return publishedOn
 
-    def formatAuthors(self, authors: str) -> str:
+    def formatAuthors(self, authors: Union[str, List[str], None]):
         if authors is None:
             return authors
-
-        return authors.strip()
-
-    def formatTags(self, tags: str) -> str:
+        
+        if type(authors) is str:
+            return authors.strip()
+        return ",".join(list(map(lambda x: x.strip(), authors)))
+        
+    def formatTags(self, tags: Union[str, List[str], None] = None) -> str:
         if tags is None:
             return ",".join([])
-
-        tags = tags.strip().split(',')
+        
+        if type(tags) is str:
+            tags = tags.strip().split(',')
         return ",".join(list(map(lambda x: x.strip(), tags)))
