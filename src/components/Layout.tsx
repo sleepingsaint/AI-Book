@@ -9,10 +9,10 @@ import { useResource } from "hooks/useResource";
 
 const Layout = () => {
   const [openMenu, setOpenMenu] = useState(false);
-  const {resource} = useResource();
+  const { resource } = useResource();
 
   useEffect(() => {
-    if(resource && window.innerWidth <= 640) {
+    if (resource && window.innerWidth <= 640) {
       setOpenMenu(true);
     }
   }, [resource]);
@@ -21,7 +21,7 @@ const Layout = () => {
     <div className="w-screen h-screen flex flex-col">
       <div className="bg-gray-800 text-gray-50 flex justify-between px-8 py-4">
         <div className="flex items-center">
-          <HiMenu className="text-white text-2xl mr-4" onClick={() => setOpenMenu(menu => !menu)} />
+          <HiMenu className="text-white text-2xl mr-4" onClick={() => setOpenMenu((menu) => !menu)} />
           <h1 className="text-xl">
             <img src={Logo} alt="Logo" className="w-8 h-8 inline-block mr-2" /> Resource Scrapper
           </h1>

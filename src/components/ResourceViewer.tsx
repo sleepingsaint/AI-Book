@@ -1,19 +1,28 @@
 import { useResource } from "hooks/useResource";
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import SelectResourceSVG from "assets/select_resource.svg";
-import { FiLoader } from "react-icons/fi";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const ResourceViewer: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) => {
   const { resource } = useResource();
-  const [loading, setLoading] = useState(false);
+
+  const truncateString = (str: string) => {
+    const len = 100;
+    if (str.length > len) {
+      return `Loading '${str.substring(0, len)}'...`;
+    }
+    return `Loading '${str}'`;
+  };
 
   useEffect(() => {
+    toast.dismiss();
     if (resource) {
-      setLoading(true);
+      toast.info(truncateString(resource.title));
     }
   }, [resource]);
 
-  if (!resource)
+  if (!resource) {
     return (
       <div {...props}>
         <div className="w-full h-full flex flex-col justify-center items-center">
@@ -22,15 +31,21 @@ const ResourceViewer: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =
         </div>
       </div>
     );
+  }
 
   return (
     <div className={props.className + " relative"}>
-      {loading && (
-        <div className="w-full h-full bg-slate-50/75 flex justify-center items-center absolute">
-          <FiLoader className="text-xl mr-2" /> loading
-        </div>
-      )}
-      <iframe src={resource.url} onLoad={(e) => setLoading(false)} frameBorder="0" className="w-full h-full"></iframe>;
+      <ToastContainer
+        position="top-right"
+        autoClose={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss={false}
+        draggable={false}
+        theme="colored"
+      />
+      <iframe src={resource.url} onLoad={() => toast.dismiss()} frameBorder="0" className="w-full h-full"></iframe>;
     </div>
   );
 };
