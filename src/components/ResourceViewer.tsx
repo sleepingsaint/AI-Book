@@ -32,11 +32,11 @@ const ResourceViewer: React.FC<React.HTMLAttributes<HTMLDivElement>> = (props) =
       </div>
     );
   }
-
+  
   return (
     <div className={props.className + " relative"}>
       <ToastContainer
-        position="top-right"
+        position={window.innerWidth < 600 ? "bottom-center" : "top-right"}
         autoClose={false}
         newestOnTop={false}
         closeOnClick
