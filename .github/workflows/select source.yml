@@ -1,6 +1,14 @@
-name: ReFetch or Update resources of the nvidia
+name: Select source
 
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
+    inputs:
+      source:
+        type: string
+        required: true
+        description: source id to run the scrapper
+      refetch:
+        type: boolean
 
 jobs:
   pythonSources:
@@ -46,8 +54,8 @@ jobs:
           
       - name: fetching the new resources of the sources
         env:
-          REFETCH: 1
-        run: python3 -m scrappers.python.googleaiblog
+          REFETCH: ${{ inputs.refetch }}
+        run: python3 -m scrappers.python.${{ inputs.source }}
       
       - name: building json files (resources and sources) from database
         run: python3 build_script.py
