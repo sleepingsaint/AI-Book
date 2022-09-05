@@ -54,7 +54,7 @@ jobs:
           
       - name: fetching the new resources of the sources
         env:
-          REFETCH: ${{ inputs.refetch == 'true' }}
+          REFETCH: 0
         run: python3 -m scrappers.python.${{ inputs.source }}
       
       - name: building json files (resources and sources) from database
