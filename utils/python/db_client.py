@@ -114,13 +114,13 @@ class DBClient:
             return False
 
         source_id = self.__formatId(title)
-        if url is not None:
+        if icon is not None:
             sql = """UPDATE sources SET icon = ? WHERE source_id = ?"""
             if not self.__handleDBTransaction(sql, (icon, source_id)):
                 self.logger.error(f"[SOURCE]:[UPDATE] {title}")
                 return False
         
-        if icon is not None:
+        if url is not None:
             sql = """UPDATE sources SET url = ? WHERE source_id = ?"""
             if not self.__handleDBTransaction(sql, (url, source_id)):
                 self.logger.error(f"[SOURCE]:[UPDATE] {title}")
