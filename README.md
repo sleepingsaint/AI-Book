@@ -11,6 +11,7 @@
 | [MarkTechPost](https://www.marktechpost.com/category/technology/) | Success | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Meta AI](https://ai.facebook.com/) | Dropped | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not available on testing devices |
 | [Open AI](https://openai.com/blog) | Success | [sleepingsaint](https://github.com/sleepingsaint) | None |
+| [DeepMind](https://deepmind.com/blog) | Success | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Analytics Vidya]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Machine Learning Mastery]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Distill.pub]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
@@ -22,7 +23,6 @@
 | [ML@CMU]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Neptune.ai]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [hunch.net]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
-| [DeepMind]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [MiT]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [Colah's Blog]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
 | [O'Reilly Blog]() | Planned | [sleepingsaint](https://github.com/sleepingsaint) | None |
