@@ -22,7 +22,7 @@ class OpenAIClient(ResourceClient):
 
         try:
             a = tag.find("h5").find("a")
-            return self.formatURL(a["href"])
+            return self.formatURL("https://openai.com" + a["href"])
         except:
             return None
     
