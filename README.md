@@ -6,8 +6,9 @@ ML Pot is a open source project to show all the awesome ML, AI Blogs under one r
 
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
-![added](https://img.shields.io/badge/Resources%20Added-8-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-17-informational) 
+![added](https://img.shields.io/badge/Resources%20Added-9-brightgreen)
+![planned](https://img.shields.io/badge/Planned%20to%20add-16-informational) 
+
 ## Sources Table
 
 | Source | Status | Author | Issue (if any) |
@@ -22,7 +23,7 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [DeepMind](https://deepmind.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Deepmind won't allow embedding of their posts |
 | [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Scrapper stops at 51st page |
 | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Distill.pub]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Distill.pub](https://distill.pub/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [BAIR]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Amazon ML Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Apple ML Research]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
