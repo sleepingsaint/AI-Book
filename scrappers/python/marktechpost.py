@@ -92,7 +92,7 @@ class MarkTechPostClient(ResourceClient):
             publishedOn = self.getPublishedOn(post)
             tags = self.getTags(None)
 
-            if not self.db.resourceExists(title): 
+            if not self.db.resourceExists(url): 
                 result = self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn)
                 if not result:
                     print(f"Resource cannot be created : {title}")
