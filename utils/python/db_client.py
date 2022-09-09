@@ -142,10 +142,9 @@ class DBClient:
         return True
 
     # resource util functions
-    def __checkResource(self, title):
-        resource_id = self.__formatId(title)
-        sql = """SELECT * FROM resources WHERE resource_id = ?"""
-        res = self.__handleDBQuery(sql, (resource_id,))
+    def __checkResource(self, url):
+        sql = """SELECT * FROM resources WHERE url = ?"""
+        res = self.__handleDBQuery(sql, (url,))
         if res is None or len(res) == 0:
             return False
         return True
@@ -160,44 +159,36 @@ class DBClient:
         self.logger.info(f"[RESOURCE]:[ADD] {title}")
         return True
 
-    def __updateResource(self, source_id, title, url=None, authors=None, tags=None, publishedOn=None):
-        if not self.__checkResource(title):
+    def __updateResource(self, source_id, title, url, authors=None, tags=None, publishedOn=None):
+        if not self.__checkResource(url):
             return False
 
-        resource_id = self.__formatId(title)
-        if url is not None:
-            sql = """UPDATE resources SET url = ? WHERE resource_id = ?"""
-            if not self.__handleDBTransaction(sql, (url, resource_id)):
-                self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
-                return False
-
         if authors is not None:
-            sql = """UPDATE resources SET authors = ? WHERE resource_id = ?"""
-            if not self.__handleDBTransaction(sql, (authors, resource_id)):
+            sql = """UPDATE resources SET authors = ? WHERE url = ?"""
+            if not self.__handleDBTransaction(sql, (authors, url)):
                 self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
                 return False
 
         if tags is not None:
-            sql = """UPDATE resources SET tags = ? WHERE resource_id = ?"""
-            if not self.__handleDBTransaction(sql, (tags, resource_id)):
+            sql = """UPDATE resources SET tags = ? WHERE url = ?"""
+            if not self.__handleDBTransaction(sql, (tags, url)):
                 self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
                 return False
 
         if publishedOn is not None:
-            sql = """UPDATE resources SET publishedOn = ? WHERE resource_id = ?"""
-            if not self.__handleDBTransaction(sql, (publishedOn, resource_id)):
+            sql = """UPDATE resources SET publishedOn = ? WHERE url = ?"""
+            if not self.__handleDBTransaction(sql, (publishedOn, url)):
                 self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
                 return False
         
         self.logger.info(f"[RESOURCE]:[UPDATE] {title}")
         return True
 
-    def __deleteResource(self, title):
-        if not self.__checkResource(title):
+    def __deleteResource(self, title, url):
+        if not self.__checkResource(url):
             return True
-        sql = """DELETE FROM resources WHERE resource_id = ?"""
-        resource_id = self.__formatId(title)
-        if not self.__handleDBTransaction(sql, (resource_id,)):
+        sql = """DELETE FROM resources WHERE url = ?"""
+        if not self.__handleDBTransaction(sql, (url,)):
             self.logger.error(f"[RESOURCE]:[DELETE] {title}")
             return False
 
@@ -209,8 +200,8 @@ class DBClient:
             return False
 
         if delete:
-            return self.__deleteSource(title)
-        if not self.__checkSource(title):
+            return self.__deleteSource(title, url)
+        if not self.__checkSource(url):
             return self.__addSource(title, url, icon)
         return self.__updateSource(title, url, icon)
         
@@ -219,8 +210,8 @@ class DBClient:
             return False
 
         if delete:
-            return self.__deleteResource(title)        
-        if not self.__checkResource(title):
+            return self.__deleteResource(title, url)        
+        if not self.__checkResource(url):
             return self.__addResource(source_id, title, url, authors, tags, publishedOn)
         return self.__updateResource(source_id, title, url, authors, tags, publishedOn)
     
@@ -232,5 +223,5 @@ class DBClient:
             return None
         return res[0][0]
     
-    def resourceExists(self, title):
-        return self.__checkResource(title)
+    def resourceExists(self, url):
+        return self.__checkResource(url)

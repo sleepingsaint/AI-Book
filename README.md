@@ -66,7 +66,3 @@ Contributions of any kind is appreciated :)
 ## Heads Up
 
  Since the project is still in development stage, the site name and hosting address might change frequently. So please refer to this repo untill further updates.
-
-## TODO
-
-* Change resource id from lowercase text to resource url
