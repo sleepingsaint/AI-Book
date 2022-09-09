@@ -20,7 +20,7 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Meta AI](https://ai.facebook.com/) | ![dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not available on testing devices |
 | [Open AI](https://openai.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | |
 | [DeepMind](https://deepmind.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Deepmind won't allow embedding of their posts |
-| [Analytics Vidya]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Scrapper stops at 51st page |
 | [Machine Learning Mastery]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Distill.pub]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [BAIR]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
