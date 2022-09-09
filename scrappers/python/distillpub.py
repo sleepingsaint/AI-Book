@@ -24,7 +24,7 @@ class DistillPubBlogClient(ResourceClient):
         
         try:
             a = tag.findChildren("a", recursive=False)[0]
-            return self.formatURL(a['href'])
+            return self.formatURL(self.url + a['href'])
         except:
             return None
 
