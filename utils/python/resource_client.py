@@ -16,10 +16,14 @@ class ResourceClient:
         self.url = url
         self.icon = icon
 
-        self.db.handleSource(self.title, self.url, self.icon)
-        self.source_id = self.db.getSourceId(self.title)
-        self.dateFormat = dateFormat
+        # flag to refetch the entire posts or just check for new posts
+        # if source is not added yet or manually enter
         self.refetch = int(os.environ.get("REFETCH", 0)) == 1
+        self.refetch = self.refetch or not self.db.sourceExists(title)
+
+        self.db.handleSource(self.title, self.url, self.icon)
+        self.dateFormat = dateFormat
+        self.source_id = self.db.getSourceId(self.title)
 
     def formatTitle(self, title: str) -> str:
         return title.strip()

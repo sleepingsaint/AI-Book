@@ -201,7 +201,7 @@ class DBClient:
 
         if delete:
             return self.__deleteSource(title, url)
-        if not self.__checkSource(url):
+        if not self.__checkSource(title):
             return self.__addSource(title, url, icon)
         return self.__updateSource(title, url, icon)
         
@@ -223,5 +223,8 @@ class DBClient:
             return None
         return res[0][0]
     
+    def sourceExists(self, title):
+        return self.__checkSource(title)
+
     def resourceExists(self, url):
         return self.__checkResource(url)
