@@ -7,7 +7,7 @@ ML Pot is a open source project to show all the awesome ML, AI Blogs under one r
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
 ![added](https://img.shields.io/badge/Resources%20Added-21-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-4-informational) 
+![planned](https://img.shields.io/badge/Planned%20to%20add-5-informational) 
 
 ## Sources Table
 
@@ -28,18 +28,22 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Amazon ML Blog](https://aws.amazon.com/blogs/machine-learning) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Amazon Science](https://www.amazon.science/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Apple ML Research](https://machinelearning.apple.com/research/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [ML@CMU](https://blog.ml.cmu.edu/) | ![planned](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Towards AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [ML@CMU](https://blog.ml.cmu.edu/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Neptune.ai](https://neptune.ai/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [hunch.net](https://hunch.net/) | ![planned](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [MiT]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Colah's Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [hunch.net](https://hunch.net/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [O'Reilly Blog](https://www.oreilly.com/radar/topics/ai-ml/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Dragan Rocks](https://dragan.rocks/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Koaning.io](https://koaning.io/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Depends on the Definition](https://www.depends-on-the-definition.com/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Mastercard AI Garage]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Neural Magic](https://neuralmagic.com/blog/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Jarvis Labs AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Hugging Face Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Towards AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Microsoft AI Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [OnPassive AI Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Colah's Blog](https://colah.github.io/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Need to work on how to structure the scrapping of the site |
+| [MiT](https://news.mit.edu/topic/research) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The articles seems more like news articles than blog posts |
+| [Mastercard AI Garage](https://www.mastercard.com/global/en/business/overview/ai-garage/research-and-publications.html) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Contains the research publications not blog based content |
 
 ### Status Badges
 
