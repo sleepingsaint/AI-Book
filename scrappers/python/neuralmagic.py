@@ -10,7 +10,7 @@ class NeuralMagicBlogClient(ResourceClient):
         super().__init__(title, url, icon, dateFormat)
 
         options = Options()
-        # options.add_argument("--headless")
+        options.add_argument("--headless")
         # options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36")
         
         service = Service(ChromeDriverManager().install())
