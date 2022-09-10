@@ -10,7 +10,7 @@ class OReillyRadarBlogClient(ResourceClient):
         if tag is None:
             return None
         try:
-            title_tag = tag.find("h2", class_="blog-post-title")
+            title_tag = tag.find("h2")
             return self.formatTitle(title_tag.text)
         except:
             return None
@@ -20,9 +20,18 @@ class OReillyRadarBlogClient(ResourceClient):
             return None
         
         try:
-            title_tag = tag.find("h2", class_="blog-post-title")
+            title_tag = tag.find("h2")
             a = title_tag.find("a")
             return self.formatURL(a['href'])
+        except:
+            return None
+    
+    def getPostDate(self, url):
+        try:
+            page = requests.get(url)
+            soup = BeautifulSoup(page.content, "html.parser")
+            span = soup.find("span", {"class": "radar-post-page-date"})
+            return span.text.strip()
         except:
             return None
 
@@ -31,9 +40,10 @@ class OReillyRadarBlogClient(ResourceClient):
             return None
 
         try:
-            meta = tag.find("footer", class_="blog-post-meta")
-            publishedOn = meta.find("time", {"property": "datePublished"})
-            return self.formatPublishedOn(publishedOn.text)
+            title_tag = tag.find("h2")
+            a = title_tag.find("a")
+            publishedOn = self.getPostDate(a['href'])
+            return self.formatPublishedOn(publishedOn)
         except:
             return None
 
@@ -42,12 +52,13 @@ class OReillyRadarBlogClient(ResourceClient):
             return None
 
         try:
-            meta = tag.find("footer", class_="blog-post-meta")
-            spans = meta.find_all("span", {"property": "author"})
+            meta_container = tag.find("div", {"class": "radar-card-meta"})
+            author_tags = meta_container.find_all("a")
             authors = []
-            for span in spans:
-                authors.append(span.text)
+            for author_tag in author_tags:
+                authors.append(author_tag.text.strip())
             return self.formatAuthors(authors)
+
         except:
             return None
 
@@ -55,34 +66,73 @@ class OReillyRadarBlogClient(ResourceClient):
         if tag is None:
             return None
 
-        try:
-            meta = tag.find("footer", class_="blog-post-meta")
-            categories_tag = meta.find("span", {"class": "blog-post-categories"})
-            tag_elements = categories_tag.find_all("span", {"property": "articleSection"})
-            
-            tags = []
-            for ele in tag_elements:
-                tags.append(ele.text)
-            
-            return self.formatTags(tags)
-        except:
-            return self.formatTags(None)
+        return self.formatTags(None)
 
     def nextPageUrl(self, soup):
         try:
-            pagination_container = soup.find("div", {"class": "blog-pagination"})
-            older_posts = pagination_container.find("a", {"class": "blog-btn-a"})
-            if older_posts.text.find("Older posts") != -1:
-                return older_posts['href']
-            return None
+            pagination_container = soup.find("div", {"class": "radar-categoryPagination"})
+            older_posts = pagination_container.find("span", {"class": "radar-categoryPagination-next"})
+            a = older_posts.find("a")
+            return a['href']
         except:
             return None
+
+    def getFeaturedPosts(self):
+        
+        def getAuthorsAndPublishedOn(url):
+            page = requests.get(url)
+            soup = BeautifulSoup(page.content, 'html.parser')
+
+            authors = []
+            try:
+                authors_container = soup.find("span", {"class": "radar-post-page-author"})
+                author_tags = authors_container.find_all("a")
+                for tag in author_tags:
+                    authors.append(tag.text.strip())
+            except:
+                pass
+
+            publishedOn = None
+            try:
+                span = soup.find("span", {"class": "radar-post-page-date"})
+                publishedOn = span.text.strip()
+            except:
+                pass
+
+            return self.formatAuthors(authors), self.formatPublishedOn(publishedOn)
+
+        page = requests.get(self.url)
+        soup = BeautifulSoup(page.content, 'html.parser')
+        
+        posts = soup.find_all("article", {"class": "featureGrid-card"})
+
+        for post in posts:
+            title = self.getTitle(post)
+            url = post.find("a")['href']
+            
+            if title is None or url is None:
+                continue
+            
+            authors, publishedOn = getAuthorsAndPublishedOn(url)
+            tags = self.getTags(post)
+
+            if not self.db.resourceExists(url): 
+                result = self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn)
+                if not result:
+                    print(f"Resource cannot be created : {title}")
+                    print(url, tags, authors, publishedOn, sep="\n")
+            elif self.refetch:
+                if not self.db.handleResource(self.source_id, title, url, authors, tags, publishedOn):
+                    print(f"Resource cannot be updated : {title}")
+                continue
+            else:
+                continue 
 
     def getResources(self, page_url):
         page = requests.get(page_url)
         soup = BeautifulSoup(page.content, 'html.parser')
         
-        posts = soup.find_all("article", class_="blog-post")
+        posts = soup.find_all("article", {"class": "radar-card"})
 
         for post in posts:
             title = self.getTitle(post)
@@ -115,7 +165,8 @@ if __name__ == "__main__":
     title = "O`Reilly AI & ML Radar Blog"
     url = "https://www.oreilly.com/radar/topics/ai-ml/"
     icon = "https://cdn.oreillystatic.com/oreilly/images/radar-blog-social-1200x630.jpg"
-    dateFormat = "%d %b %Y"
+    dateFormat = "%B %d, %Y"
 
     oreillyradarblog_client = OReillyRadarBlogClient(title, url, icon, dateFormat)
+    oreillyradarblog_client.getFeaturedPosts()
     oreillyradarblog_client.getResources(url)
