@@ -6,8 +6,8 @@ ML Pot is a open source project to show all the awesome ML, AI Blogs under one r
 
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
-![added](https://img.shields.io/badge/Resources%20Added-18-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-7-informational) 
+![added](https://img.shields.io/badge/Resources%20Added-19-brightgreen)
+![planned](https://img.shields.io/badge/Planned%20to%20add-6-informational) 
 
 ## Sources Table
 
@@ -35,7 +35,7 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [MiT]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Colah's Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [O'Reilly Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Dragan Rocks]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Dragan Rocks](https://dragan.rocks/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Koaning.io](https://koaning.io/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Depends on the Definition](https://www.depends-on-the-definition.com/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Mastercard AI Garage]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
