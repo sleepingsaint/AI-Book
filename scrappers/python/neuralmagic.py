@@ -116,4 +116,4 @@ if __name__ == "__main__":
 
     neuralmagicblog_client = NeuralMagicBlogClient(title, url, icon, dateFormat)
     neuralmagicblog_client.getResources()
-    # neuralmagicblog_client.driver.close()
+    neuralmagicblog_client.driver.close()
