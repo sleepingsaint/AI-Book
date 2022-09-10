@@ -51,7 +51,7 @@ class ResourceClient:
         
         if type(authors) is str:
             return authors.strip()
-        return ",".join(list(map(lambda x: x.strip(), authors)))
+        return ", ".join(list(map(lambda x: x.strip(), authors)))
         
     def formatTags(self, tags: Union[str, List[str], None] = None) -> str:
         if tags is None:
@@ -59,4 +59,4 @@ class ResourceClient:
         
         if type(tags) is str:
             tags = tags.strip().split(',')
-        return ",".join(list(map(lambda x: x.strip(), tags)))
+        return ", ".join(list(map(lambda x: x.strip(), tags)))

@@ -6,8 +6,8 @@ ML Pot is a open source project to show all the awesome ML, AI Blogs under one r
 
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
-![added](https://img.shields.io/badge/Resources%20Added-13-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-12-informational) 
+![added](https://img.shields.io/badge/Resources%20Added-14-brightgreen)
+![planned](https://img.shields.io/badge/Planned%20to%20add-11-informational) 
 
 ## Sources Table
 
@@ -28,8 +28,8 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Amazon ML Blog](https://aws.amazon.com/blogs/machine-learning) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Amazon Science](https://www.amazon.science/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Apple ML Research](https://machinelearning.apple.com/research/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [ML@CMU](https://blog.ml.cmu.edu/) | ![planned](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Towards AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [ML@CMU]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Neptune.ai]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [hunch.net]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [MiT]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
