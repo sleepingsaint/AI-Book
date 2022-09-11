@@ -39,7 +39,7 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Jarvis Labs AI](https://jarvislabs.ai/blogs/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Hugging Face Blog](https://huggingface.co/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Towards AI](https://towardsai.net/p) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Authors for all the posts can't be scrapped since they are structured differently for every type of post |
-| [OnPassive AI Blog](https://onpassive.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Contains more posts related to marketing and other domains |
+| [OnPassive AI Blog](https://onpassive.com/blog) | ![drafted](https://img.shields.io/badge/-drafted-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Contains more posts related to marketing and other domains |
 | [Nvidia Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not scrapped properly |
 | [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Scrapper stops at 51st page |
 | [Microsoft AI Blog](https://blogs.microsoft.com/ai/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The posts seems to be more of a news rather than informative blog posts |
@@ -55,7 +55,9 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
 ![issue](https://img.shields.io/badge/-issue-orange) - Scrapper is running but with some issues
 
-![dropped](https://img.shields.io/badge/-dropped-critical) - Scrapper is no longer maintained or supported
+![drafted](https://img.shields.io/badge/-drafted-orange) - Scrapper is running but not included in the database because of some reasons
+
+![dropped](https://img.shields.io/badge/-dropped-inactive) - Scrapper is no longer maintained or supported
 
 ![planned](https://img.shields.io/badge/-planned-informational) - Scrapper will be added in the future
 
