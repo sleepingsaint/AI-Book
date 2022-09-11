@@ -6,8 +6,8 @@ ML Pot is a open source project to show all the awesome ML, AI Blogs under one r
 
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
-![added](https://img.shields.io/badge/Resources%20Added-21-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-5-informational) 
+![added](https://img.shields.io/badge/Resources%20Added-23-brightgreen)
+![planned](https://img.shields.io/badge/Planned%20to%20add-3-informational) 
 
 ## Sources Table
 
@@ -36,9 +36,9 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Koaning.io](https://koaning.io/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Depends on the Definition](https://www.depends-on-the-definition.com/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Neural Magic](https://neuralmagic.com/blog/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Jarvis Labs AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Hugging Face Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
-| [Towards AI]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Jarvis Labs AI](https://jarvislabs.ai/blogs/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Hugging Face Blog](https://huggingface.co/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Towards AI](https://towardsai.net/p) | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Microsoft AI Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [OnPassive AI Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Colah's Blog](https://colah.github.io/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Need to work on how to structure the scrapping of the site |
