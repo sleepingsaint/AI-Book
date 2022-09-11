@@ -55,6 +55,7 @@ jobs:
         run: |
           rm -rf .github/
           rm -rf scrappers/
+          rm -rf drafts/
           rm -rf utils/
           rm -rf build_script.py
           rm -rf README.md

@@ -8,7 +8,7 @@ Hope this project helps you in your ML AI journey, happy learning.
 
 ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 
-![added](https://img.shields.io/badge/Resources%20Added-25-brightgreen)
+![added](https://img.shields.io/badge/Resources%20Added-24-brightgreen)
 ![planned](https://img.shields.io/badge/Planned%20to%20add-0-informational) 
 
 > The sites included here are only a few of the many awesome blogs out on the internet. If you know any interesting blog which you want to include in this project, please feel free to raise a PR :). I will try to add it to the site.
@@ -39,7 +39,7 @@ ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
 | [Jarvis Labs AI](https://jarvislabs.ai/blogs/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Hugging Face Blog](https://huggingface.co/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Towards AI](https://towardsai.net/p) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Authors for all the posts can't be scrapped since they are structured differently for every type of post |
-| [OnPassive AI Blog](https://onpassive.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [OnPassive AI Blog](https://onpassive.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Contains more posts related to marketing and other domains |
 | [Nvidia Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not scrapped properly |
 | [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Scrapper stops at 51st page |
 | [Microsoft AI Blog](https://blogs.microsoft.com/ai/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The posts seems to be more of a news rather than informative blog posts |
