@@ -23,7 +23,7 @@ const Layout = () => {
         <div className="flex items-center">
           <HiMenu className="text-white text-2xl mr-4" onClick={() => setOpenMenu((menu) => !menu)} />
           <h1 className="text-xl">
-            <img src={Logo} alt="Logo" className="w-8 h-8 inline-block mr-2" /> Resource Scrapper
+            <img src={Logo} alt="Logo" className="w-8 h-8 inline-block mr-2" /> AI Book
           </h1>
         </div>
         <div className="flex space-x-4">
