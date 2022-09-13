@@ -1,12 +1,10 @@
-# ML Pot (Resource Scrapper)
+# AI Book 
 
-> This project will be renamed to ML Pot in next few days.
-
-ML Pot is a open source project to show all the awesome ML, AI Blogs under one roof. With this project you can go through all your favourite blog posts, tutorials (provided by the respective sources) in a single place.
+AI Book is a open source project to show all the awesome ML, AI Blogs under one roof. With this project you can go through all your favourite blog posts, tutorials (provided by the respective sources) in a single place.
 
 Hope this project helps you in your ML AI journey, happy learning. 
 
-ML Pot can be accessed from [here](https://resource-scrapper-test.pages.dev/).
+AI Book can be accessed from [here](https://aibook.pages.dev/).
 
 ![added](https://img.shields.io/badge/Resources%20Added-24-brightgreen)
 ![planned](https://img.shields.io/badge/Planned%20to%20add-0-informational) 
