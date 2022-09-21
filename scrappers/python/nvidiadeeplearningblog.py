@@ -51,6 +51,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         return self.formatPublishedOn(publishedOnDate[0])
 
     def getResources(self, num_posts=0):
+        
         time.sleep(0)
         while True:
             try:
@@ -85,6 +86,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
                 continue
             else:
                 return
+        return
         if num_posts == len(posts):
             return
         num_posts = len(posts)
