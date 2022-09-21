@@ -1,4 +1,5 @@
-import re 
+import re
+import time
 from utils.python.resource_client import ResourceClient
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -50,6 +51,7 @@ class NvidiaDeepLearningBlogClient(ResourceClient):
         return self.formatPublishedOn(publishedOnDate[0])
 
     def getResources(self, num_posts=0):
+        time.sleep(0)
         while True:
             try:
                 if len(self.container.find_elements(By.TAG_NAME, "article")) > num_posts:
