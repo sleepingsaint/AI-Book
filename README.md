@@ -1,5 +1,7 @@
 # AI Book 
 
+> This project is discontinued because the managing of so many scrappers becomes difficult and I hope this project helped you in one way or another. Thanks for checking out. In case if you want to take over the maintainance of the project, I am more than happy to help you with the getting started.
+
 AI Book is a open source project to show all the awesome ML, AI Blogs under one roof. With this project you can go through all your favourite blog posts, tutorials (provided by the respective sources) in a single place.
 
 Hope this project helps you in your ML AI journey, happy learning. 
