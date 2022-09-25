@@ -86,6 +86,7 @@ Contributions of any kind is appreciated :)
 
 ## TODO
 
+- [ ] Setup Github actions
 - [ ] Create a discord channel and send notification for source, resources addition to notion.
 - [ ] Create a custom frontend using notion backend
 - [ ] Add a custom domain for the notion webpage
