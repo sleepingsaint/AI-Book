@@ -1,0 +1,29 @@
+name: Select source
+
+on: 
+  workflow_dispatch:
+    inputs:
+      source:
+        type: string
+        required: true
+        description: source id to run the scrapper
+      refetch:
+        type: boolean
+
+jobs:
+  pythonSources:
+    name: Handling all the python based sources
+    runs-on: ubuntu-latest
+    steps:
+      - name: checking out the repo
+        uses: actions/checkout@v3
+      
+      - name: setting up python dependecies
+        run: pip3 install -r requirements.txt
+      
+      - name: fetching the new resources of the sources
+        env:
+          REFETCH: 1
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python3 -m scrappers.python.${{ inputs.source }}
