@@ -9,6 +9,8 @@ Hope this project helps you in your ML AI journey, happy learning.
 
 New AI Book Notion WebPage can be accessed from here [ai-book](https://ai-book.notion.site/ai-book/d3d26c3147ed42d6861f0c05a317f443?v=7d79b30473a141d39c3e3a6d3290fd64)
 
+Join the discord channel from [here](https://discord.gg/G5Fcb57b64)
+
 ![added](https://img.shields.io/badge/Resources%20Added-24-brightgreen)
 ![planned](https://img.shields.io/badge/Planned%20to%20add-0-informational) 
 
