@@ -87,6 +87,8 @@ class BAIRBlogClient(ResourceClient):
                 if not result:
                     print(f"Resource cannot be created : {title}")
                     print(url, tags, authors, publishedOn, sep="\n")
+                elif not self.refetch:
+                    self.discordSendResourceNotification(url)
             elif self.refetch:
                 result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                 if not result:
@@ -112,3 +114,5 @@ if __name__ == "__main__":
 
     bairblog_client = BAIRBlogClient(title, dateFormat)
     bairblog_client.getResources(url)
+    if bairblog_client.new_source:
+        bairblog_client.discordSendSourceNotification(title, url)

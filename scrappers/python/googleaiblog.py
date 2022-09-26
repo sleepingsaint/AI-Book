@@ -63,6 +63,9 @@ class GoogleAIClient(ResourceClient):
                     if not result:
                         print(f"Resource cannot be created : {title}")
                         print(url, tags, authors, publishedOn, sep="\n")
+                    elif not self.refetch:
+                        self.discordSendResourceNotification(url)
+
                 elif self.refetch:
                     result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                     if not result:
@@ -90,3 +93,5 @@ if __name__ == "__main__":
 
     googleaiblog_client = GoogleAIClient(title, dateFormat)
     googleaiblog_client.getResources(url)
+    if googleaiblog_client.new_source:
+        googleaiblog_client.discordSendSourceNotification(title, url)

@@ -4,14 +4,11 @@ import json
 import requests
 from urllib.parse import urljoin
 
-
 class NotionClient:
     def __init__(self) -> None:
-        self.notion_secret = os.environ.get(
-            "NOTION_SECRET", "secret_qjSxb7ZfRAnkt34usnWzlmeEOSCtUpJL3iMipRtSToi")
+        self.notion_secret = os.environ.get("NOTION_SECRET", None)
         self.notion_version = "2022-06-28"
-        self.database_id = os.environ.get(
-            "NOTION_DATABASE_ID", "d3d26c3147ed42d6861f0c05a317f443")
+        self.database_id = os.environ.get("NOTION_DATABASE_ID", None)
 
         self.headers = self.getHeaders()
         self.api_endpoint = "https://api.notion.com/v1/"
@@ -60,12 +57,18 @@ class NotionClient:
     def _tags(self, tags):
         if tags is None or len(tags) == 0:
             return {"multi_select": []}
-        return {"multi_select": [{"name": tag.replace(",", "")} for tag in tags]}
+        tags = [tag.replace(",", "") for tag in tags]
+        while "" in tags:
+            tags.remove("")
+        return {"multi_select": [{"name": tag} for tag in tags]}
     
     def _authors(self, authors):
         if authors is None or len(authors) == 0:
             return {"multi_select": []}
-        return {"multi_select": [{"name": author.replace(",", "")} for author in authors]}
+        authors = [author.replace(",", "") for author in authors]
+        while "" in authors:
+            authors.remove("")
+        return {"multi_select": [{"name": author} for author in authors]}
 
     def _url(self, url):
         if url is None:
