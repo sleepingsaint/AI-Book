@@ -19,7 +19,8 @@ jobs:
         env:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_SOURCES_WEBHOOK_URL: ${{ secrets.DISCORD_SOURCES_WEBHOOK_URL }}
+          DISCORD_RESOURCES_WEBHOOK_URL: ${{ secrets.DISCORD_RESOURCES_WEBHOOK_URL }}
         run: |
           for file in scrappers/python/[a-zA-Z0-9]*.py; do
             baseFilename="$(basename $file)"
