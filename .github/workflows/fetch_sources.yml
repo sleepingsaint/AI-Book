@@ -1,6 +1,7 @@
 name: Fetch new resources
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
 
