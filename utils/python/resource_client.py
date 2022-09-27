@@ -6,6 +6,8 @@ from utils.python.social_client import SocialClient
 
 class ResourceClient(SocialClient):
     def __init__(self, source: str, dateFormat: str) -> None:
+        super().__init__()
+
         self.db = NotionClient()
         self.source = source 
         self.dateFormat = dateFormat
