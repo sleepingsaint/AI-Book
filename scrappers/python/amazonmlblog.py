@@ -105,7 +105,7 @@ class AmazonMLBlogClient(ResourceClient):
                         print(f"Resource cannot be created : {title}")
                         print(url, tags, authors, publishedOn, sep="\n")
                     elif not self.refetch:
-                        self.discordSendResourceNotification(url)
+                        self.sendResourceNotification(url)
 
                 elif self.refetch:
                     result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
@@ -135,4 +135,4 @@ if __name__ == "__main__":
     amazonmlblog_client.getResources(url)
 
     if amazonmlblog_client.new_source:
-        amazonmlblog_client.discordSendSourceNotification(title, url)
+        amazonmlblog_client.sendSourceNotification(title, url)

@@ -92,7 +92,7 @@ class AmazonScienceBlogClient(ResourceClient):
                         print(f"Resource cannot be created : {title}")
                         print(url, tags, authors, publishedOn, sep="\n")
                     elif not self.refetch:
-                        self.discordSendResourceNotification(url)
+                        self.sendResourceNotification(url)
                 elif self.refetch:
                     result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                     if not result:
@@ -120,4 +120,4 @@ if __name__ == "__main__":
     amazonscienceblog_client = AmazonScienceBlogClient(title, dateFormat)
     amazonscienceblog_client.getResources(url)
     if amazonscienceblog_client.new_source:
-        amazonscienceblog_client.discordSendSourceNotification(title, url)
+        amazonscienceblog_client.sendSourceNotification(title, url)

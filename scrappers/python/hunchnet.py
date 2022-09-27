@@ -83,7 +83,7 @@ class HunchNetBlogClient(ResourceClient):
                         print(f"Resource cannot be created : {title}")
                         print(url, tags, authors, publishedOn, sep="\n")
                     elif not self.refetch:
-                        self.discordSendResourceNotification(url)
+                        self.sendResourceNotification(url)
                 elif self.refetch:
                     result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                     if not result:
@@ -111,4 +111,4 @@ if __name__ == "__main__":
     hunchnetblog_client = HunchNetBlogClient(title, dateFormat)
     hunchnetblog_client.getResources(url)
     if hunchnetblog_client.new_source:
-        hunchnetblog_client.discordSendSourceNotification(title, url)
+        hunchnetblog_client.sendSourceNotification(title, url)

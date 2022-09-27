@@ -68,7 +68,7 @@ class DraganRocksBlogClient(ResourceClient):
                 if not result:
                     print(f"Resource cannot be created : {title}")
                 elif not self.refetch:
-                    self.discordSendResourceNotification(url)
+                    self.sendResourceNotification(url)
             elif self.refetch:
                 result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                 if not result:
@@ -92,4 +92,4 @@ if __name__ == "__main__":
     draganrocksblog_client = DraganRocksBlogClient(title, url, dateFormat)
     draganrocksblog_client.getResources(url)
     if draganrocksblog_client.new_source:
-        draganrocksblog_client.discordSendSourceNotification(title, url)
+        draganrocksblog_client.sendSourceNotification(title, url)

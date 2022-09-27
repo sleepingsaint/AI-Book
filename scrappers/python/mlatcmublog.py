@@ -111,7 +111,7 @@ class MLAtCMUBlogClient(ResourceClient):
                         print(f"Resource cannot be created : {title}")
                         print(url, tags, authors, publishedOn, sep="\n")
                     elif not self.refetch:
-                        self.discordSendResourceNotification(url)
+                        self.sendResourceNotification(url)
                 elif self.refetch:
                     result = self.db.updateResource(page_id=resourceExists, title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
                     if not result:
@@ -140,4 +140,4 @@ if __name__ == "__main__":
     mlatcmublog_client = MLAtCMUBlogClient(title, dateFormat)
     mlatcmublog_client.getResources(url)
     if mlatcmublog_client.new_source:
-        mlatcmublog_client.discordSendSourceNotification(title, url)
+        mlatcmublog_client.sendSourceNotification(title, url)
