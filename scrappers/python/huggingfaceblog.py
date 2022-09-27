@@ -136,7 +136,6 @@ class HuggingFaceBlogClient(ResourceClient):
                         print(f"Resource cannot be deleted : {title}")
                     continue
                 else:
-                    print("Something went wrong!!")
                     return
             
             nextPageURL = self.nextPageUrl(soup)

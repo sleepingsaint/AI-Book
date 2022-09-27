@@ -80,7 +80,6 @@ class DraganRocksBlogClient(ResourceClient):
                     print(f"Resource cannot be deleted : {title}")
                 continue
             else:
-                print("Something went wrong")
                 return
 
 if __name__ == "__main__":

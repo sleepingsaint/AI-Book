@@ -87,7 +87,6 @@ class OpenAIClient(ResourceClient):
                     print(f"Resource cannot be deleted : {title}")
                 continue
             else:
-                print("Helllo")
                 return
 
 

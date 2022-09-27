@@ -106,7 +106,7 @@ class OReillyRadarBlogClient(ResourceClient):
         soup = BeautifulSoup(page.content, 'html.parser')
         
         posts = soup.find_all("article", {"class": "featureGrid-card"})
-
+        
         for post in posts:
             title = self.getTitle(post)
             url = post.find("a")['href']
@@ -116,7 +116,7 @@ class OReillyRadarBlogClient(ResourceClient):
             
             authors, publishedOn = getAuthorsAndPublishedOn(url)
             tags = self.getTags(post)
-
+            
             resourceExists = self.db.resourceExists(url)
             if not resourceExists:
                 result = self.db.addResource(title=title, url=url, publishedOn=publishedOn, authors=authors, tags=tags, source=self.source)
@@ -173,7 +173,8 @@ class OReillyRadarBlogClient(ResourceClient):
                     if not result:
                         print(f"Resource cannot be deleted : {title}")
                     continue
-
+                else:
+                    return
             nextPageURL = self.nextPageUrl(soup)
             if nextPageURL is None:
                 break
@@ -187,6 +188,6 @@ if __name__ == "__main__":
 
     oreillyradarblog_client = OReillyRadarBlogClient(title, url, dateFormat)
     oreillyradarblog_client.getFeaturedPosts()
-    oreillyradarblog_client.getResources(url)
+    # oreillyradarblog_client.getResources(url)
     if oreillyradarblog_client.new_source:
         oreillyradarblog_client.sendSourceNotification(title, url)

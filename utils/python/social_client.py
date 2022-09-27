@@ -5,7 +5,7 @@ class SocialClient:
     def __init__(self) -> None:
         # discord keys
         self.discord_sources_webhook_url = os.environ.get("DISCORD_SOURCES_WEBHOOK_URL", None)
-        self.discord_resources_webhook_url = os.environ.get("DISCORD_RESOURCES_WEBHOOK_URL", "https://discord.com/api/webhooks/1024299514678493326/NCUpSnAEEHUu-bKUdWUaAHbppAsaO522lwIL2n8YXi_gIk2fwt2NbaJ4L-A5oBBJB7mS")
+        self.discord_resources_webhook_url = os.environ.get("DISCORD_RESOURCES_WEBHOOK_URL", None)
 
         # twitter keys
         

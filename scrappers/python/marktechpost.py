@@ -70,7 +70,6 @@ class MarkTechPostClient(ResourceClient):
             next_page_btn.click()
             return True
         except Exception as e:
-            print(e)
             return False
 
     def getResources(self):
@@ -115,7 +114,6 @@ class MarkTechPostClient(ResourceClient):
                         print(f"Resource cannot be deleted : {title}")
                     continue
                 else:
-                    print("Hell owrol")
                     return
             if not self.hasNextPage():
                 return
