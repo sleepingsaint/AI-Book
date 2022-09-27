@@ -78,12 +78,12 @@ class MarkTechPostClient(ResourceClient):
         while True:
             while True:
                 try:
-                    posts = self.driver.find_elements(By.CLASS_NAME, "td-block-span4")
+                    # posts = self.driver.find_elements(By.CLASS_NAME, "td-block-span4")
+                    posts = self.driver.find_elements(By.CLASS_NAME, "td_module_wrap")
                     if len(posts) > 0 and posts != prev:
                         break
                 except NoSuchElementException:
                     pass
-
             for post in posts:
                 title = self.getTitle(post)
                 url = self.getURL(post)
@@ -94,7 +94,7 @@ class MarkTechPostClient(ResourceClient):
                 authors = self.getAuthors(post)
                 publishedOn = self.getPublishedOn(post)
                 tags = self.getTags(None)
-
+                
                 resourceExists = self.db.resourceExists(url)
 
                 if not resourceExists:
@@ -117,9 +117,9 @@ class MarkTechPostClient(ResourceClient):
                 else:
                     print("Hell owrol")
                     return
-
             if not self.hasNextPage():
                 return
+            prev = posts
 
 if __name__ == "__main__":
     title = "MarkTechPost"
