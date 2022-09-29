@@ -17,7 +17,6 @@ class SocialClient:
         self.twitter_access_token_secret = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET", None)
 
         self.twitter_client = self._getTwitterClient()
-
         # reddit keys
     
     def _getTwitterClient(self) -> Union[tweepy.Client, None]:
@@ -28,6 +27,7 @@ class SocialClient:
             self.twitter_access_token,
             self.twitter_access_token_secret
         ]
+        
         for key in secret_keys:
             if key is None:
                 return None
@@ -74,8 +74,8 @@ class SocialClient:
     # twitter notification handlers
     def sendTwitterSourceNotification(self, source, url):
         if self.twitter_client is not None:
-            self.twitter_client.create_tweet(f"{source} Added\n{url}")
+            self.twitter_client.create_tweet(text=f"{source} Added\n{url}")
     
     def sendTwitterResourceNotification(self, resource_url):
         if self.twitter_client is not None:
-            self.twitter_client.create_tweet(f"{resource_url}\n{resource_url}")
+            self.twitter_client.create_tweet(text=f"{resource_url}\n{resource_url}")
