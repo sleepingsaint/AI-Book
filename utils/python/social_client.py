@@ -1,6 +1,7 @@
 import os
 import tweepy
 from discord_webhook import DiscordWebhook
+from typing import Union
 
 class SocialClient:
     def __init__(self) -> None:
@@ -19,7 +20,7 @@ class SocialClient:
 
         # reddit keys
     
-    def _getTwitterClient(self) -> tweepy.Client | None:
+    def _getTwitterClient(self) -> Union[tweepy.Client, None]:
         secret_keys = [
             self.twitter_api_key,
             self.twitter_api_key_secret,
