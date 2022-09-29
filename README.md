@@ -35,6 +35,7 @@ If you want to search for older posts or a particular category, author use the b
 | [Open AI](https://openai.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | |
 | [DeepMind](https://deepmind.com/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Deepmind won't allow embedding of their posts |
 | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
+| [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Distill.pub](https://distill.pub/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [BAIR](https://bair.berkeley.edu/blog/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Amazon ML Blog](https://aws.amazon.com/blogs/machine-learning) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
@@ -51,29 +52,29 @@ If you want to search for older posts or a particular category, author use the b
 | [Jarvis Labs AI](https://jarvislabs.ai/blogs/) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Hugging Face Blog](https://huggingface.co/blog) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) |  |
 | [Towards AI](https://towardsai.net/p) | ![success](https://img.shields.io/badge/-success-brightgreen) | [sleepingsaint](https://github.com/sleepingsaint) | Authors for all the posts can't be scrapped since they are structured differently for every type of post |
-| [OnPassive AI Blog](https://onpassive.com/blog) | ![drafted](https://img.shields.io/badge/-drafted-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Contains more posts related to marketing and other domains |
-| [Nvidia Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not scrapped properly |
-| [Analytics Vidya](https://www.analyticsvidhya.com/blog-archive/) | ![issue](https://img.shields.io/badge/-issue-orange) | [sleepingsaint](https://github.com/sleepingsaint) | Scrapper stops at 51st page |
-| [Microsoft AI Blog](https://blogs.microsoft.com/ai/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The posts seems to be more of a news rather than informative blog posts |
-| [Weights and Biases](https://wandb.ai/fully-connected) | ![dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Posts cannot be obtained by scrapping and via network tab we can't obtain the meta data like date, tags |
-| [Meta AI](https://ai.facebook.com/) | ![dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not available on testing devices |
-| [Colah's Blog](https://colah.github.io/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Need to work on how to structure the scrapping of the site |
-| [MiT](https://news.mit.edu/topic/research) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The articles seems more like news articles than blog posts |
-| [Mastercard AI Garage](https://www.mastercard.com/global/en/business/overview/ai-garage/research-and-publications.html) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Contains the research publications not blog based content |
-| [Intel AI Blog]() | | | |
-| [Analytics Insight]() | | | |
+| [Intel AI Blog]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) | |
+| [Analytics Insight]() | ![planned](https://img.shields.io/badge/-planned-informational) | [sleepingsaint](https://github.com/sleepingsaint) | |
+| [OnPassive AI Blog](https://onpassive.com/blog) | ![drafted](https://img.shields.io/badge/-drafted-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Contains more posts related to marketing and other domains |
+| [Nvidia Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | ![drafted](https://img.shields.io/badge/-drafted-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Having issues with clicking on load more posts btn |
+| [Microsoft AI Blog](https://blogs.microsoft.com/ai/) | ![Dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | The posts seems to be more of a news rather than informative blog posts |
+| [Weights and Biases](https://wandb.ai/fully-connected) | ![dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Posts cannot be obtained by scrapping and via network tab we can't obtain the meta data like date, tags |
+| [Meta AI](https://ai.facebook.com/) | ![dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Posts are not available on testing devices |
+| [Colah's Blog](https://colah.github.io/) | ![Dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Need to work on how to structure the scrapping of the site |
+| [MiT](https://news.mit.edu/topic/research) | ![Dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | The articles seems more like news articles than blog posts |
+| [Mastercard AI Garage](https://www.mastercard.com/global/en/business/overview/ai-garage/research-and-publications.html) | ![Dropped](https://img.shields.io/badge/-dropped-inactive) | [sleepingsaint](https://github.com/sleepingsaint) | Contains the research publications not blog based content |
 
 ### Status Badges
 
 ![success](https://img.shields.io/badge/-success-brightgreen) - Scrapper is running successfully
 
+![planned](https://img.shields.io/badge/-planned-informational) - Scrapper will be added in the future
+
 ![issue](https://img.shields.io/badge/-issue-orange) - Scrapper is running but with some issues
 
-![drafted](https://img.shields.io/badge/-drafted-orange) - Scrapper is running but not included in the database because of some reasons
+![drafted](https://img.shields.io/badge/-drafted-critical) - Scrapper is running but not included in the database because of some reasons
 
 ![dropped](https://img.shields.io/badge/-dropped-inactive) - Scrapper is no longer maintained or supported
 
-![planned](https://img.shields.io/badge/-planned-informational) - Scrapper will be added in the future
 
 ## Contributions
 
