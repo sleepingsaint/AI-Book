@@ -5,14 +5,23 @@ AI Book is a open source project to show all the awesome ML, AI Blogs under one 
 
 Hope this project helps you in your ML AI journey, happy learning. 
 
-![unmaintained](https://img.shields.io/badge/Not%20Maintained%20Any%20More-critical) AI Book Website can be accessed from [here](https://aibook.pages.dev/)
-
-New AI Book Notion WebPage can be accessed from here [ai-book](https://ai-book.notion.site/ai-book/d3d26c3147ed42d6861f0c05a317f443?v=7d79b30473a141d39c3e3a6d3290fd64)
-
-Join the discord channel from [here](https://discord.gg/G5Fcb57b64)
-
+## Status
 ![added](https://img.shields.io/badge/Resources%20Added-24-brightgreen)
-![planned](https://img.shields.io/badge/Planned%20to%20add-0-informational) 
+![planned](https://img.shields.io/badge/Planned%20to%20add-2-informational) 
+
+## Links
+
+New posts will be updated in the below social platforms
+
+[![](https://dcbadge.vercel.app/api/server/G5Fcb57b64)](https://discord.gg/INVITEIDG5Fcb57b64)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AIBookDev) 
+
+If you want to search for older posts or a particular category, author use the below notion website link
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ai-book.notion.site/ai-book/d3d26c3147ed42d6861f0c05a317f443?v=7d79b30473a141d39c3e3a6d3290fd64)
+
+
+## Note
 
 > The sites included here are only a few of the many awesome blogs out on the internet. If you know any interesting blog which you want to include in this project, please feel free to raise a PR :). I will try to add it to the site.
 
@@ -51,6 +60,8 @@ Join the discord channel from [here](https://discord.gg/G5Fcb57b64)
 | [Colah's Blog](https://colah.github.io/) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Need to work on how to structure the scrapping of the site |
 | [MiT](https://news.mit.edu/topic/research) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | The articles seems more like news articles than blog posts |
 | [Mastercard AI Garage](https://www.mastercard.com/global/en/business/overview/ai-garage/research-and-publications.html) | ![Dropped](https://img.shields.io/badge/-dropped-critical) | [sleepingsaint](https://github.com/sleepingsaint) | Contains the research publications not blog based content |
+| [Intel AI Blog]() | | | |
+| [Analytics Insight]() | | | |
 
 ### Status Badges
 
@@ -90,5 +101,7 @@ Contributions of any kind is appreciated :)
 
 - [x] Setup Github actions
 - [x] Create a discord channel and send notification for source, resources addition to notion.
+- [ ] Add Dynamic Workflow
+- [ ] Set concurrent workflows to 1
 - [ ] Create a custom frontend using notion backend
 - [ ] Add a custom domain for the notion webpage
