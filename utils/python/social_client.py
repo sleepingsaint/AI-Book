@@ -46,12 +46,12 @@ class SocialClient:
     def sendSourceNotification(self, source, url):
         self.sendDiscordSourceNotification(source, url)
         self.sendRedditSourceNotification(source, url)
-        self.sendTwitterSourceNotification(source, url)
+#         self.sendTwitterSourceNotification(source, url)
 
     def sendResourceNotification(self, resource_url):
         self.sendDiscordResourceNotification(resource_url)
         self.sendRedditResourceNotification(resource_url)
-        self.sendTwitterResourceNotification(resource_url)    
+#         self.sendTwitterResourceNotification(resource_url)    
 
     # discord notification handlers
     def sendDiscordSourceNotification(self, source, url):
