@@ -40,7 +40,7 @@ class NotionClient:
             headers=self.headers)
         if resp.status_code == 200:
             data = resp.json()
-            if len(data['results']) == 1:
+            if len(data['results']) > 0:
                 return data["results"][0]["id"]
         return False
 
