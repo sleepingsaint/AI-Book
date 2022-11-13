@@ -42,7 +42,7 @@ class Builder(DBClient):
             }
             path = os.path.join(self.sources_dir, "0.json")
             with open(path, "w+") as f:
-                json.dump(data)
+                json.dump(data, f, indent=4)
             
             return
 
@@ -92,7 +92,7 @@ class Builder(DBClient):
                     "data": []
                 }
                 with open(path, "w+") as f:
-                    json.dump(data)
+                    json.dump(data, f, indent=4)
                 
                 continue
 
