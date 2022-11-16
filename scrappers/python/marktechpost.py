@@ -85,7 +85,9 @@ class MarkTechPostClient(AIBookClient):
             publishedOn = self.getPublishedOn(post)
             tags = self.getTags(None)
 
-            if not self.handleResource(title, url, authors, tags, publishedOn):
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
         if self.hasNextPage():

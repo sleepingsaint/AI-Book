@@ -116,6 +116,8 @@ class Builder(DBClient):
                     resource['authors'] = resources[i][3]
                     resource['tags'] = resources[i][4]
                     resource['publishedOn'] = resources[i][5]
+                    resource['description'] = resources[i][6]
+                    resource['thumbnail'] = resources[i][7]
 
                     data["data"].append(resource)
 
@@ -158,7 +160,7 @@ class Builder(DBClient):
         resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
 
         if len(resources) == 0:
-            past_time = past_time - datetime.timedelta(days=1)
+            past_time = past_time - datetime.timedelta(days=2)
             resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
 
         self.ensureDir(self.latestResources_dir)
@@ -171,7 +173,7 @@ class Builder(DBClient):
                 "data": []
             }
             with open(path, "w+") as f:
-                json.dump(data)
+                json.dump(data, f)
             
             return 
 
@@ -195,6 +197,9 @@ class Builder(DBClient):
                 resource['authors'] = resources[i][3]
                 resource['tags'] = resources[i][4]
                 resource['publishedOn'] = resources[i][5]
+                resource['description'] = resources[i][6]
+                resource['thumbnail'] = resources[i][7]
+
                 resource['sourceId'] = resources[i][-3]
                 resource['source'] = resources[i][-2]
 

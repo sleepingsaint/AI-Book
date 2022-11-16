@@ -109,7 +109,9 @@ class AppleMLResearchBlogClient(AIBookClient):
                 publishedOn = self.getPublishedOn(post)
                 tags = self.getTags(post)
 
-                if not self.handleResource(title, url, authors, tags, publishedOn):
+                preview = self.getPreview(url)
+
+                if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                     return
 
             if not self.hasNextPage():

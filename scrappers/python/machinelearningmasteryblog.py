@@ -98,7 +98,9 @@ class MachineLearningMasteryBlogClient(AIBookClient):
                 tags = self.getTags(article)
                 publishedOn = self.getPublishedOn(article)
                 
-                if not self.handleResource(title, url, authors, tags, publishedOn):
+                preview = self.getPreview(url)
+
+                if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                     return
 
             if not self.hasNextPage():

@@ -81,7 +81,9 @@ class AnalyticsVidhyaBlogClient(AIBookClient):
                 tags = self.getTags(post)
                 publishedOn = self.getPublishedOn(post)
 
-                if not self.handleResource(title, url, authors, tags, publishedOn):
+                preview = self.getPreview(url)
+
+                if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                     return
 
             if soup.find("a", class_="next") is not None:

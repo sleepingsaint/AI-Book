@@ -38,7 +38,9 @@ class GoogleAIClient(AIBookClient):
         authors = self.getAuthors(hero)
         tags = self.getTags(hero)
 
-        if not self.handleResource(title, url, authors, tags, publishedOn):
+        preview = self.getPreview(url)
+
+        if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
             return
 
     def getResources(self, url):
@@ -57,7 +59,9 @@ class GoogleAIClient(AIBookClient):
             tags = self.getTags(post)
             publishedOn = self.getPublishedOn(post)
             
-            if not self.handleResource(title, url, authors, tags, publishedOn):
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
         olderPostsLink = soup.find("a", id="olderPostsBtn", href=True)

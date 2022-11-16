@@ -69,7 +69,9 @@ class RoboflowBlog(AIBookClient):
                 if title is None or url is None:
                     continue
 
-                if not self.handleResource(title, url, authors, tags, publishedOn): 
+                preview = self.getPreview(url)
+
+                if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                     return
             
             olderPostsLink = soup.find("a", class_="w-pagination-next")

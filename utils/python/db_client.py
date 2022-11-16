@@ -46,6 +46,8 @@ class DBClient:
                 authors TEXT,
                 tags TEXT,
                 publishedOn TEXT,
+                description TEXT,
+                thumbnail TEXT,
                 source_id INTEGER NOT NULL,
                 FOREIGN KEY (source_id) REFERENCES sources (id) ON DELETE CASCADE
             );
@@ -132,16 +134,16 @@ class DBClient:
             return False
         return True
     
-    def __addResource(self, source_id, title, url, authors, tags, publishedOn):
-        sql = """INSERT INTO resources (title, url, authors, tags, publishedOn, source_id) VALUES (?, ?, ?, ?, ?, ?)"""
-        if not self.__handleDBTransaction(sql, (title, url, authors, tags, publishedOn, source_id)):
+    def __addResource(self, source_id, title, url, authors, tags, publishedOn, description, thumbnail):
+        sql = """INSERT INTO resources (title, url, authors, tags, publishedOn, source_id, description, thumbnail) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"""
+        if not self.__handleDBTransaction(sql, (title, url, authors, tags, publishedOn, source_id, description, thumbnail)):
             self.logger.error(f"[RESOURCE]:[ADD] {title}")
             return False
 
         self.logger.info(f"[RESOURCE]:[ADD] {title}")
         return True
 
-    def __updateResource(self, source_id, title, url, authors=None, tags=None, publishedOn=None):
+    def __updateResource(self, source_id, title, url, authors=None, tags=None, publishedOn=None, description=None, thumbnail=None):
         if not self.__checkResource(url):
             return False
 
@@ -163,6 +165,18 @@ class DBClient:
                 self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
                 return False
         
+        if description is not None:
+            sql = """UPDATE resources SET description = ? WHERE url = ?"""
+            if not self.__handleDBTransaction(sql, (description, url)):
+                self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
+                return False
+
+        if thumbnail is not None:
+            sql = """UPDATE resources SET thumbnail = ? WHERE url = ?"""
+            if not self.__handleDBTransaction(sql, (thumbnail, url)):
+                self.logger.error(f"[RESOURCE]:[UPDATE] {title}")
+                return False
+        
         self.logger.info(f"[RESOURCE]:[UPDATE] {title}")
         return True
 
@@ -177,15 +191,15 @@ class DBClient:
         self.logger.info(f"[RESOURCE]:[DELETE] {title}")
         return True
 
-    def handleResource(self, source_id, title, url, authors, tags, publishedOn, delete=False):
+    def handleResource(self, source_id, title, url, authors, tags, publishedOn, description, thumbnail, delete=False):
         if url is None:
             return False
 
         if delete:
             return self.__deleteResource(title, url)        
         if not self.__checkResource(url):
-            return self.__addResource(source_id, title, url, authors, tags, publishedOn)
-        return self.__updateResource(source_id, title, url, authors, tags, publishedOn) 
+            return self.__addResource(source_id, title, url, authors, tags, publishedOn, description, thumbnail)
+        return self.__updateResource(source_id, title, url, authors, tags, publishedOn, description, thumbnail) 
     
 
     def getSourceId(self, url):

@@ -58,7 +58,9 @@ class DraganRocksBlogClient(AIBookClient):
             publishedOn = self.getPublishedOn(post)
             tags = self.getTags(post)
 
-            if not self.handleResource(title, url, authors, tags, publishedOn):
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
 if __name__ == "__main__":

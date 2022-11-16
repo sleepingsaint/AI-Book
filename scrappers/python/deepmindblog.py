@@ -85,7 +85,9 @@ class DeepmindBlogClient(AIBookClient):
         publishedOn = self.formatPublishedOn(publishedOn)
         tags = self.formatTags(tags)
 
-        if not self.handleResource(title, url, authors, tags, publishedOn):
+        preview = self.getPreview(url)
+
+        if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
             return
     
     def getContentPosts(self):
@@ -108,7 +110,9 @@ class DeepmindBlogClient(AIBookClient):
             publishedOn = self.formatPublishedOn(publishedOn)
             tags = self.formatTags(tags)
 
-            if not self.handleResource(title, url, authors, tags, publishedOn):
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
     def getResources(self, page_num=0):
@@ -135,7 +139,9 @@ class DeepmindBlogClient(AIBookClient):
             publishedOn = self.formatPublishedOn(date)
             tags = self.formatTags(tags)
 
-            if not self.handleResource(title, url, authors, tags, publishedOn):
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
         if self.hasNextPage():
