@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+import datetime
 from utils.python.db_client import DBClient
 
 class Builder(DBClient):
@@ -9,6 +10,7 @@ class Builder(DBClient):
         super().__init__(logger)
         self.sources_dir = os.environ.get("sources_dir", "sources/")
         self.resources_dir = os.environ.get("resources_dir", "resources/")
+        self.latestResources_dir = os.environ.get("latestResources_dir", "latestResources/")
 
         self.source_page_size = os.environ.get("sources_page_size", 30)
         self.resource_page_size = os.environ.get("resources_page_size", 30)
@@ -26,7 +28,7 @@ class Builder(DBClient):
         return self._DBClient__handleDBQuery(sql, (source_id,))[0][0]
 
     def getAllResources(self, source_id):
-        sql = """SELECT * FROM resources where source_id = ?"""
+        sql = """SELECT * FROM resources where source_id = ? ORDER BY publishedOn DESC"""
         return self._DBClient__handleDBQuery(sql, (source_id,))
 
     def buildSources(self):
@@ -42,7 +44,7 @@ class Builder(DBClient):
             }
             path = os.path.join(self.sources_dir, "0.json")
             with open(path, "w+") as f:
-                json.dump(data, f, indent=4)
+                json.dump(data)
             
             return
 
@@ -92,7 +94,7 @@ class Builder(DBClient):
                     "data": []
                 }
                 with open(path, "w+") as f:
-                    json.dump(data, f, indent=4)
+                    json.dump(data, f)
                 
                 continue
 
@@ -125,9 +127,92 @@ class Builder(DBClient):
                 if not hasNextPage:
                     break
 
+    def getTotalSources(self):
+        sql = """SELECT count(*) FROM sources"""
+        return self._DBClient__handleDBQuery(sql, ())
+    
+    def getTotalReSources(self):
+        sql = """SELECT count(*) FROM resources"""
+        return self._DBClient__handleDBQuery(sql, ())
+
+    def buildInfo(self):
+        total_sources = self.getTotalSources()[0][0]
+        total_resources = self.getTotalReSources()[0][0]
+        data = {
+            "title": "AI Book",
+            "numSources": total_sources,
+            "numResources": total_resources
+        } 
+        with open("info.json", "w+") as f:
+            json.dump(data, f, indent=4)
+
+    def buildLatestResources(self):
+        current_time = datetime.datetime.now()
+        past_time = current_time - datetime.timedelta(days=1)
+
+        sql = """SELECT * FROM resources 
+                INNER JOIN sources 
+                ON resources.source_id=sources.id 
+                WHERE publishedOn BETWEEN ? AND ? 
+                ORDER BY publishedOn DESC"""
+        resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
+
+        if len(resources) == 0:
+            past_time = past_time - datetime.timedelta(days=1)
+            resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
+
+        self.ensureDir(self.latestResources_dir)
+        total = len(resources)
+
+        if total == 0:
+            path = os.path.join(self.latestResources_dir, "0.json")
+            data = {
+                "hasNextPage": False,
+                "data": []
+            }
+            with open(path, "w+") as f:
+                json.dump(data)
+            
+            return 
+
+        idx = 0
+        while True:
+            start = idx * self.resource_page_size
+            end = start + self.resource_page_size
+            hasNextPage = (end < total)
+            end = min(end, total)
+
+            data = {}
+            data["hasNextPage"] = hasNextPage
+            data["data"] = []
+
+            for i in range(start, end):
+                
+                resource = {}
+                resource["id"] = resources[i][0]
+                resource['title'] = resources[i][1]
+                resource['url'] = resources[i][2]
+                resource['authors'] = resources[i][3]
+                resource['tags'] = resources[i][4]
+                resource['publishedOn'] = resources[i][5]
+                resource['sourceId'] = resources[i][-3]
+                resource['source'] = resources[i][-2]
+
+                data["data"].append(resource)
+
+            path = os.path.join(self.latestResources_dir, f"{idx}.json") 
+            with open(path, "w+") as f:
+                json.dump(data, f, indent=4)
+
+            idx += 1
+            if not hasNextPage:
+                break
+
     def build(self):
         self.buildSources()
         self.buildResources()
-            
+        self.buildInfo()
+        self.buildLatestResources()
+
 builder = Builder()
 builder.build()
