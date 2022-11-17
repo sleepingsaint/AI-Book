@@ -1,6 +1,7 @@
 import 'package:aibook/widgets/banner_cards.dart';
 import 'package:aibook/widgets/latest_resources_list.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_sticky_header/flutter_sticky_header.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -13,36 +14,55 @@ class HomeScreen extends StatelessWidget {
         elevation: 0.0,
         title: Padding(
           padding: const EdgeInsets.only(top: 8.0),
-          child: Text(
-            "AI Book",
-            style: TextStyle(
-              color: Colors.black87,
-              fontSize: MediaQuery.of(context).textScaleFactor * 36,
-            ),
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.start,
+            children: [
+              IconButton(
+                onPressed: () {},
+                icon: Image.asset("assets/icons/icon.png"),
+              ),
+              Text(
+                "AI Book",
+                style: TextStyle(
+                  color: Colors.black87,
+                  fontSize: MediaQuery.of(context).textScaleFactor * 32,
+                ),
+              ),
+            ],
           ),
         ),
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const BannerCards(),
-            const SizedBox(height: 12.0),
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Text(
-                "Latest Resources",
-                style: TextStyle(
-                  fontSize: MediaQuery.of(context).textScaleFactor * 24,
+      body: NestedScrollView(
+        headerSliverBuilder: (context, innerBoxIsScrolled) => [
+          SliverStickyHeader(
+            sticky: false,
+            header: const Padding(
+              padding: EdgeInsets.only(left: 8.0, right: 8.0, top: 8.0),
+              child: BannerCards(),
+            ),
+          ),
+        ],
+        body: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  "Latest Resources",
+                  style: TextStyle(
+                    fontSize: MediaQuery.of(context).textScaleFactor * 24,
+                  ),
                 ),
               ),
-            ),
-            const Expanded(
-              child: LatestResourcesList(),
-            ),
-          ],
+              const Expanded(
+                child: LatestResourcesList(),
+              ),
+            ],
+          ),
         ),
       ),
     );

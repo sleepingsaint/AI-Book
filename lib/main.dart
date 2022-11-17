@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         }
       },
       routes: {
-        "/": (context) => HomeScreen(),
+        "/": (context) => const HomeScreen(),
         "/sources": (context) => const SourcesScreen(),
         "/allResources": (context) => const AllResourcesScreen(),
       },
