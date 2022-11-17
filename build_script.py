@@ -160,9 +160,14 @@ class Builder(DBClient):
                 ORDER BY publishedOn DESC"""
         resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
 
-        if len(resources) == 0:
+        check_counter = 0
+        while len(resources) <= 10:
             past_time = past_time - datetime.timedelta(days=2)
             resources = self._DBClient__handleDBQuery(sql, (past_time.isoformat(), current_time.isoformat()))
+
+            check_counter += 1
+            if check_counter > 100:
+                break
 
         self.ensureDir(self.latestResources_dir)
         total = len(resources)
