@@ -30,8 +30,10 @@ class _LatestResourcesListState extends State<LatestResourcesList> {
     return PagedListView<int, Resource>(
       pagingController: _pagingController,
       builderDelegate: PagedChildBuilderDelegate<Resource>(
-        itemBuilder: (context, resource, index) =>
-            ResourceItem(resource: resource),
+        itemBuilder: (context, resource, index) => ResourceItem(
+          resource: resource,
+          showSource: true,
+        ),
       ),
     );
   }
