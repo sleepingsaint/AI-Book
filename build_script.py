@@ -11,6 +11,7 @@ class Builder(DBClient):
         self.sources_dir = os.environ.get("sources_dir", "sources/")
         self.resources_dir = os.environ.get("resources_dir", "resources/")
         self.latestResources_dir = os.environ.get("latestResources_dir", "latestResources/")
+        self.allResources_dir = os.environ.get("allResources_dir", "allResources/")
 
         self.source_page_size = os.environ.get("sources_page_size", 30)
         self.resource_page_size = os.environ.get("resources_page_size", 30)
@@ -212,10 +213,58 @@ class Builder(DBClient):
             idx += 1
             if not hasNextPage:
                 break
+    
+    def buildAllResources(self):
+        self.ensureDir(self.allResources_dir)
+
+        sql = """SELECT * FROM resources 
+                INNER JOIN sources 
+                ON resources.source_id=sources.id
+                ORDER BY resources.publishedOn DESC
+            """
+        resources = self._DBClient__handleDBQuery(sql, ())
+        total = len(resources)
+
+        idx = 0
+        while True:
+            start = idx * self.resource_page_size
+            end = start + self.resource_page_size
+            hasNextPage = (end < total)
+            end = min(end, total)
+
+            data = {}
+            data["hasNextPage"] = hasNextPage
+            data["data"] = []
+
+            for i in range(start, end):
+                
+                resource = {}
+                resource["id"] = resources[i][0]
+                resource['title'] = resources[i][1]
+                resource['url'] = resources[i][2]
+                resource['authors'] = resources[i][3]
+                resource['tags'] = resources[i][4]
+                resource['publishedOn'] = resources[i][5]
+                resource['description'] = resources[i][6]
+                resource['thumbnail'] = resources[i][7]
+
+                resource['sourceId'] = resources[i][-3]
+                resource['source'] = resources[i][-2]
+
+                data["data"].append(resource)
+
+            path = os.path.join(self.allResources_dir, f"{idx}.json") 
+            with open(path, "w+") as f:
+                json.dump(data, f, indent=4)
+
+            idx += 1
+            if not hasNextPage:
+                break
 
     def build(self):
         self.buildSources()
         self.buildResources()
+        self.buildAllResources()
         self.buildInfo()
         self.buildLatestResources()
 

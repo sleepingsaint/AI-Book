@@ -107,7 +107,10 @@ class OReillyRadarBlogClient(AIBookClient):
             authors, publishedOn = getAuthorsAndPublishedOn(url)
             tags = self.getTags(post)
             
-            self.handleResource(title, url, authors, tags, publishedOn)
+            preview = self.getPreview(url)
+
+            if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
+                return
     
     def getResources(self, initial_url):
         page_url = initial_url
