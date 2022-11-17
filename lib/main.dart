@@ -1,6 +1,9 @@
-import 'package:aibook/screens/resources_list.dart';
-import 'package:aibook/screens/sources_list.dart';
-import 'package:aibook/utils/resources_screen_arguments.dart';
+import 'package:aibook/screens/all_resources_screen.dart';
+import 'package:aibook/screens/home_screen.dart';
+import 'package:aibook/screens/source_resources_screen.dart';
+import 'package:aibook/screens/sources_screen.dart';
+
+import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -21,17 +24,16 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       onGenerateRoute: (settings) {
         if (settings.name == "/resources") {
-          final args = settings.arguments as ResourceScreenArgs;
+          final args = settings.arguments as Source;
           return MaterialPageRoute(builder: (context) {
-            return ResourcesList(
-              source: args.source,
-              color: args.color,
-            );
+            return SourceResourcesScreen(source: args);
           });
         }
-        return MaterialPageRoute(builder: (context) {
-          return const SourcesList();
-        });
+      },
+      routes: {
+        "/": (context) => HomeScreen(),
+        "/sources": (context) => const SourcesScreen(),
+        "/allResources": (context) => const AllResourcesScreen(),
       },
     );
   }

@@ -1,26 +1,19 @@
 import 'dart:convert';
 
-import 'package:aibook/screens/resource_item.dart';
+import 'package:aibook/widgets/resource_item.dart';
 import 'package:aibook/utils/resource.dart';
-import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:http/http.dart' as http;
+import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 
-class ResourcesList extends StatefulWidget {
-  final Source source;
-  final Color color;
-  const ResourcesList({
-    Key? key,
-    required this.source,
-    required this.color,
-  }) : super(key: key);
+class LatestResourcesList extends StatefulWidget {
+  const LatestResourcesList({Key? key}) : super(key: key);
 
   @override
-  State<ResourcesList> createState() => _ResourcesListState();
+  State<LatestResourcesList> createState() => _LatestResourcesListState();
 }
 
-class _ResourcesListState extends State<ResourcesList> {
+class _LatestResourcesListState extends State<LatestResourcesList> {
   final PagingController<int, Resource> _pagingController =
       PagingController(firstPageKey: 0);
 
@@ -34,28 +27,20 @@ class _ResourcesListState extends State<ResourcesList> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.source.title),
-        backgroundColor: widget.color,
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: PagedListView<int, Resource>(
-          pagingController: _pagingController,
-          builderDelegate: PagedChildBuilderDelegate<Resource>(
-            itemBuilder: (context, resource, index) =>
-                ResourceItem(resource: resource),
-          ),
-        ),
+    return PagedListView<int, Resource>(
+      pagingController: _pagingController,
+      builderDelegate: PagedChildBuilderDelegate<Resource>(
+        itemBuilder: (context, resource, index) =>
+            ResourceItem(resource: resource),
       ),
     );
   }
 
   Future<void> _fetchPage(int pageKey) async {
+    String endpoint =
+        "https://raw.githubusercontent.com/sleepingsaint/AI-Book/db/latestResources/$pageKey.json";
     try {
-      final response = await http.get(Uri.parse(
-          "https://raw.githubusercontent.com/sleepingsaint/AI-Book/db/resources/${widget.source.id}/$pageKey.json"));
+      final response = await http.get(Uri.parse(endpoint));
       if (response.statusCode == 200) {
         List<Resource> resources = [];
         Map<String, dynamic> data = jsonDecode(response.body);

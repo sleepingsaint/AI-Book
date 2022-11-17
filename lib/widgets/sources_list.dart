@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:aibook/screens/source_item.dart';
+import 'package:aibook/widgets/source_item.dart';
 import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
@@ -25,47 +25,18 @@ class _SourcesListState extends State<SourcesList> {
     super.initState();
   }
 
-  final List<int> colors = [
-    0xFF493657,
-    0xFF328543,
-    0xFF8C5A7E,
-    0xFFA6B5A9,
-    0xFFE85E4D,
-    0xFF9F877F,
-    0xFF5B6761,
-    0xFF682747,
-    0xFFF55200,
-    0xFF3A3C41
-  ];
-
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text(
-          "Sources",
-          style: TextStyle(
-            color: Colors.black54,
-          ),
-        ),
-        elevation: 0.0,
-        backgroundColor: Colors.white,
+    return PagedGridView<int, Source>(
+      pagingController: _pagingController,
+      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 2,
+        crossAxisSpacing: 4.0,
+        mainAxisSpacing: 4.0,
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: PagedGridView<int, Source>(
-          pagingController: _pagingController,
-          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 2,
-            crossAxisSpacing: 4.0,
-            mainAxisSpacing: 4.0,
-          ),
-          builderDelegate: PagedChildBuilderDelegate(
-            itemBuilder: (context, source, idx) => SourceItem(
-              source: source,
-              color: Color(colors[idx % colors.length]),
-            ),
-          ),
+      builderDelegate: PagedChildBuilderDelegate(
+        itemBuilder: (context, source, idx) => SourceItem(
+          source: source,
         ),
       ),
     );

@@ -4,15 +4,23 @@ class Resource {
   final String url;
   final String? authors;
   final String? tags;
-  final String publishedOn;
+  final String? description;
+  final String? thumbnail;
+  final String? publishedOn;
+  final int? sourceId;
+  final String? source;
 
   Resource({
     required this.id,
     required this.title,
     required this.url,
-    required this.publishedOn,
+    this.publishedOn,
     this.authors,
     this.tags,
+    this.description,
+    this.thumbnail,
+    this.sourceId,
+    this.source,
   });
 
   factory Resource.fromJSON(Map<String, dynamic> json) {
@@ -23,6 +31,10 @@ class Resource {
       authors: json["authors"],
       tags: json["tags"],
       publishedOn: json["publishedOn"],
+      description: json["description"],
+      thumbnail: json["thumbnail"],
+      sourceId: json["sourceId"],
+      source: json["source"],
     );
   }
 }

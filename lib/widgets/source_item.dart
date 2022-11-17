@@ -1,21 +1,19 @@
-import 'package:aibook/utils/resources_screen_arguments.dart';
+import 'package:aibook/constants.dart';
 import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 
 class SourceItem extends StatelessWidget {
   final Source source;
-  final Color color;
   const SourceItem({
     Key? key,
     required this.source,
-    required this.color,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
       child: Card(
-        color: color,
+        color: colorPallete[source.id % colorPallete.length],
         child: Align(
           alignment: Alignment.bottomLeft,
           child: Container(
@@ -54,10 +52,7 @@ class SourceItem extends StatelessWidget {
       ),
       onTap: () => Navigator.of(context).pushNamed(
         "/resources",
-        arguments: ResourceScreenArgs(
-          source: source,
-          color: color,
-        ),
+        arguments: source,
       ),
     );
   }
