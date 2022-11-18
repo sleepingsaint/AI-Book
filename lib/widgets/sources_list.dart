@@ -5,6 +5,7 @@ import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:http/http.dart' as http;
+import 'package:shimmer/shimmer.dart';
 
 class SourcesList extends StatefulWidget {
   const SourcesList({Key? key}) : super(key: key);
@@ -38,6 +39,32 @@ class _SourcesListState extends State<SourcesList> {
         itemBuilder: (context, source, idx) => SourceItem(
           source: source,
         ),
+        firstPageProgressIndicatorBuilder: (context) {
+          return Shimmer.fromColors(
+            baseColor: Colors.grey[300]!,
+            highlightColor: Colors.grey[100]!,
+            child: GridView.builder(
+              itemCount: 30,
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+              ),
+              itemBuilder: (context, idx) => const Card(),
+            ),
+          );
+        },
+        newPageProgressIndicatorBuilder: (context) {
+          return Shimmer.fromColors(
+            baseColor: Colors.grey[300]!,
+            highlightColor: Colors.grey[100]!,
+            child: GridView.builder(
+              itemCount: 10,
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+              ),
+              itemBuilder: (context, idx) => const Card(),
+            ),
+          );
+        },
       ),
     );
   }

@@ -3,6 +3,7 @@ import 'package:aibook/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
+import 'package:shimmer/shimmer.dart';
 
 class BannerCardTile extends StatelessWidget {
   final int title;
@@ -94,15 +95,19 @@ class BannerCards extends StatelessWidget {
               ),
             ],
           );
-          // return BannerCardTile(
-          //   title: snapshot.data!["numSources"].toString(),
-          //   subtitle: "Sources",
-          // );
         }
         if (snapshot.hasError) {
           return const Text("Oops! Something went wrong");
         }
-        return const Center(child: CircularProgressIndicator());
+        return Shimmer.fromColors(
+          baseColor: Colors.grey[300]!,
+          highlightColor: Colors.grey[100]!,
+          child: GridView.count(
+            crossAxisCount: 2,
+            shrinkWrap: true,
+            children: const [Card(), Card()],
+          ),
+        );
       },
     );
   }

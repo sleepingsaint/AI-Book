@@ -6,6 +6,7 @@ import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:http/http.dart' as http;
+import 'package:shimmer/shimmer.dart';
 
 class SourceResourcesList extends StatefulWidget {
   final Source source;
@@ -37,6 +38,30 @@ class _SourceResourcesListState extends State<SourceResourcesList> {
       builderDelegate: PagedChildBuilderDelegate<Resource>(
         itemBuilder: (context, resource, index) =>
             ResourceItem(resource: resource),
+        firstPageProgressIndicatorBuilder: (context) {
+          return Shimmer.fromColors(
+            baseColor: Colors.grey[300]!,
+            highlightColor: Colors.grey[100]!,
+            child: ListView.builder(
+              itemCount: 30,
+              itemBuilder: (context, idx) => const Card(
+                child: ListTile(),
+              ),
+            ),
+          );
+        },
+        newPageProgressIndicatorBuilder: (context) {
+          return Shimmer.fromColors(
+            baseColor: Colors.grey[300]!,
+            highlightColor: Colors.grey[100]!,
+            child: ListView.builder(
+              itemCount: 10,
+              itemBuilder: (context, idx) => const Card(
+                child: ListTile(),
+              ),
+            ),
+          );
+        },
       ),
     );
   }
