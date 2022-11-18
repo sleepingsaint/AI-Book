@@ -27,13 +27,13 @@ class ResourceItem extends StatelessWidget {
       child: Slidable(
         key: ValueKey(resource.id),
         endActionPane: ActionPane(motion: const ScrollMotion(), children: [
-          SlidableAction(
-            onPressed: (context) {},
-            backgroundColor: const Color.fromARGB(255, 76, 116, 151),
-            foregroundColor: Colors.white,
-            icon: Icons.bookmark_add,
-            label: 'Save',
-          ),
+          // SlidableAction(
+          //   onPressed: (context) {},
+          //   backgroundColor: const Color.fromARGB(255, 76, 116, 151),
+          //   foregroundColor: Colors.white,
+          //   icon: Icons.bookmark_add,
+          //   label: 'Save',
+          // ),
           SlidableAction(
             onPressed: (context) {
               Share.share(
