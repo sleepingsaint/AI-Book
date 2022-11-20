@@ -37,6 +37,8 @@ class HomeScreen extends StatelessWidget {
             onPressed: () =>
                 Navigator.of(context).pushNamed("/bookmarkedResources"),
             icon: const Icon(Icons.bookmark, color: Color(0xFF3A3C41)),
+            iconSize: MediaQuery.of(context).textScaleFactor * 28.0,
+            padding: const EdgeInsets.only(right: 8.0, top: 8.0),
           ),
         ],
       ),
