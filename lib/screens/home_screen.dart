@@ -32,6 +32,13 @@ class HomeScreen extends StatelessWidget {
             ],
           ),
         ),
+        actions: [
+          IconButton(
+            onPressed: () =>
+                Navigator.of(context).pushNamed("/bookmarkedResources"),
+            icon: const Icon(Icons.bookmark, color: Color(0xFF3A3C41)),
+          ),
+        ],
       ),
       body: NestedScrollView(
         headerSliverBuilder: (context, innerBoxIsScrolled) => [

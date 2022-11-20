@@ -7,8 +7,8 @@ class Resource {
   final String? description;
   final String? thumbnail;
   final String? publishedOn;
-  final int? sourceId;
-  final String? source;
+  int? sourceId;
+  String? source;
 
   Resource({
     required this.id,

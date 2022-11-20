@@ -36,8 +36,11 @@ class _SourceResourcesListState extends State<SourceResourcesList> {
     return PagedListView<int, Resource>(
       pagingController: _pagingController,
       builderDelegate: PagedChildBuilderDelegate<Resource>(
-        itemBuilder: (context, resource, index) =>
-            ResourceItem(resource: resource),
+        itemBuilder: (context, resource, index) {
+          resource.sourceId = widget.source.id;
+          resource.source = widget.source.title;
+          return ResourceItem(resource: resource);
+        },
         firstPageProgressIndicatorBuilder: (context) {
           return Shimmer.fromColors(
             baseColor: Colors.grey[300]!,
