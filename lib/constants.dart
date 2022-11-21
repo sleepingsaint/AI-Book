@@ -12,3 +12,5 @@ const List<Color> colorPallete = [
   Color(0xFFF55200),
   Color(0xFF3A3C41)
 ];
+
+enum PathNames { home, sources, resources, bookmarked }

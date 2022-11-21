@@ -1,13 +1,37 @@
+import 'package:hive/hive.dart';
+
+part 'resource.g.dart';
+
+@HiveType(typeId: 1)
 class Resource {
+  @HiveField(0)
   final int id;
+
+  @HiveField(1)
   final String title;
+
+  @HiveField(2)
   final String url;
+
+  @HiveField(3)
   final String? authors;
+
+  @HiveField(4)
   final String? tags;
+
+  @HiveField(5)
   final String? description;
+
+  @HiveField(6)
   final String? thumbnail;
+
+  @HiveField(7)
   final String? publishedOn;
+
+  @HiveField(8)
   int? sourceId;
+
+  @HiveField(9)
   String? source;
 
   Resource({

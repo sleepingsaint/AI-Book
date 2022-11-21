@@ -1,15 +1,17 @@
 import 'dart:convert';
 import 'package:aibook/constants.dart';
+import 'package:aibook/utils/screen.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
+import 'package:provider/provider.dart';
 import 'package:shimmer/shimmer.dart';
 
 class BannerCardTile extends StatelessWidget {
   final int title;
   final String subtitle;
   final int colorIdx;
-  final String path;
+  final PathNames path;
 
   const BannerCardTile({
     Key? key,
@@ -63,7 +65,9 @@ class BannerCardTile extends StatelessWidget {
           ),
         ),
       ),
-      onTap: () => Navigator.of(context).pushNamed(path),
+      onTap: () => Provider.of<ScreenProvider>(context, listen: false)
+          .moveToScreen(path.index),
+      // onTap: () => Navigator.of(context).pushNamed(path),
     );
   }
 }
@@ -85,13 +89,13 @@ class BannerCards extends StatelessWidget {
                 title: snapshot.data!["numSources"],
                 subtitle: "Sources",
                 colorIdx: 0,
-                path: "/sources",
+                path: PathNames.sources,
               ),
               BannerCardTile(
                 title: snapshot.data!["numResources"],
                 subtitle: "Resources",
                 colorIdx: 1,
-                path: "/allResources",
+                path: PathNames.resources,
               ),
             ],
           );

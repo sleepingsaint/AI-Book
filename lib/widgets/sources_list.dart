@@ -28,43 +28,46 @@ class _SourcesListState extends State<SourcesList> {
 
   @override
   Widget build(BuildContext context) {
-    return PagedGridView<int, Source>(
-      pagingController: _pagingController,
-      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-        crossAxisCount: 2,
-        crossAxisSpacing: 4.0,
-        mainAxisSpacing: 4.0,
-      ),
-      builderDelegate: PagedChildBuilderDelegate(
-        itemBuilder: (context, source, idx) => SourceItem(
-          source: source,
+    return Padding(
+      padding: const EdgeInsets.all(8.0),
+      child: PagedGridView<int, Source>(
+        pagingController: _pagingController,
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+          crossAxisCount: 2,
+          crossAxisSpacing: 4.0,
+          mainAxisSpacing: 4.0,
         ),
-        firstPageProgressIndicatorBuilder: (context) {
-          return Shimmer.fromColors(
-            baseColor: Colors.grey[300]!,
-            highlightColor: Colors.grey[100]!,
-            child: GridView.builder(
-              itemCount: 30,
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
+        builderDelegate: PagedChildBuilderDelegate(
+          itemBuilder: (context, source, idx) => SourceItem(
+            source: source,
+          ),
+          firstPageProgressIndicatorBuilder: (context) {
+            return Shimmer.fromColors(
+              baseColor: Colors.grey[300]!,
+              highlightColor: Colors.grey[100]!,
+              child: GridView.builder(
+                itemCount: 30,
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                ),
+                itemBuilder: (context, idx) => const Card(),
               ),
-              itemBuilder: (context, idx) => const Card(),
-            ),
-          );
-        },
-        newPageProgressIndicatorBuilder: (context) {
-          return Shimmer.fromColors(
-            baseColor: Colors.grey[300]!,
-            highlightColor: Colors.grey[100]!,
-            child: GridView.builder(
-              itemCount: 10,
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
+            );
+          },
+          newPageProgressIndicatorBuilder: (context) {
+            return Shimmer.fromColors(
+              baseColor: Colors.grey[300]!,
+              highlightColor: Colors.grey[100]!,
+              child: GridView.builder(
+                itemCount: 10,
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                ),
+                itemBuilder: (context, idx) => const Card(),
               ),
-              itemBuilder: (context, idx) => const Card(),
-            ),
-          );
-        },
+            );
+          },
+        ),
       ),
     );
   }

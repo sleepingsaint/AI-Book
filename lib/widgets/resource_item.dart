@@ -4,38 +4,21 @@ import 'package:aibook/utils/resource.dart';
 import 'package:aibook/utils/source.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:hive/hive.dart';
 import 'package:intl/intl.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-class ResourceItem extends StatefulWidget {
+class ResourceItem extends StatelessWidget {
   final Resource resource;
   final bool showSource;
-  const ResourceItem({
+  ResourceItem({
     Key? key,
     required this.resource,
     this.showSource = false,
   }) : super(key: key);
 
-  @override
-  State<ResourceItem> createState() => _ResourceItemState();
-}
-
-class _ResourceItemState extends State<ResourceItem> {
-  bool bookmarked = false;
-
-  @override
-  void initState() {
-    setState(() {
-      DatabaseHelper helper = DatabaseHelper();
-      helper.checkResource(widget.resource).then((value) {
-        setState(() {
-          bookmarked = value;
-        });
-      });
-    });
-    super.initState();
-  }
+  final DatabaseClient client = DatabaseClient();
 
   @override
   Widget build(BuildContext context) {
@@ -46,37 +29,34 @@ class _ResourceItemState extends State<ResourceItem> {
         right: 8.0,
       ),
       child: Slidable(
-        key: ValueKey(widget.resource.id),
+        key: ValueKey(resource.id),
         endActionPane: ActionPane(motion: const ScrollMotion(), children: [
-          SlidableAction(
-            onPressed: (context) async {
-              DatabaseHelper helper = DatabaseHelper();
-              if (!bookmarked) {
-                bool result = await helper.addResource(widget.resource);
-                setState(() {
-                  bookmarked = result;
-                });
-              } else {
-                bool result = await helper.removeResource(widget.resource);
-                if (result) {
-                  setState(() {
-                    bookmarked = false;
-                  });
-                }
-              }
+          ValueListenableBuilder<Box<Resource>>(
+            valueListenable: client.getListenable(resource.id),
+            builder: (context, box, child) {
+              Resource? result = box.get(resource.id);
+              return SlidableAction(
+                onPressed: (context) async {
+                  if (box.get(resource.id) == null) {
+                    box.put(resource.id, resource);
+                  } else {
+                    box.delete(resource.id);
+                  }
+                },
+                backgroundColor: result != null
+                    ? const Color.fromARGB(255, 76, 116, 151)
+                    : const Color.fromARGB(100, 76, 116, 151),
+                foregroundColor: Colors.white,
+                icon: Icons.bookmark_add,
+                label: result != null ? "Saved" : "Save",
+              );
             },
-            backgroundColor: bookmarked
-                ? const Color.fromARGB(255, 76, 116, 151)
-                : const Color.fromARGB(100, 76, 116, 151),
-            foregroundColor: Colors.white,
-            icon: Icons.bookmark_add,
-            label: 'Save',
           ),
           SlidableAction(
             onPressed: (context) {
               Share.share(
-                widget.resource.url,
-                subject: widget.resource.title,
+                resource.url,
+                subject: resource.title,
               );
             },
             backgroundColor: const Color.fromARGB(255, 66, 176, 79),
@@ -94,54 +74,52 @@ class _ResourceItemState extends State<ResourceItem> {
               children: [
                 GestureDetector(
                   onTap: () => launchUrl(
-                    Uri.parse(widget.resource.url),
+                    Uri.parse(resource.url),
                     mode: LaunchMode.externalApplication,
                   ),
                   child: ListTile(
                     contentPadding: const EdgeInsets.all(0.0),
                     title: Text(
-                      widget.resource.title,
+                      resource.title,
                       style: const TextStyle(fontWeight: FontWeight.w700),
                     ),
-                    trailing: (widget.resource.thumbnail != null &&
-                            widget.resource.thumbnail!.isNotEmpty)
-                        ? Image.network(widget.resource.thumbnail!)
+                    trailing: (resource.thumbnail != null &&
+                            resource.thumbnail!.isNotEmpty)
+                        ? Image.network(resource.thumbnail!)
                         : const SizedBox.shrink(),
                   ),
                 ),
-                widget.resource.description != null &&
-                        widget.resource.description!.isNotEmpty
+                resource.description != null && resource.description!.isNotEmpty
                     ? Padding(
                         padding: const EdgeInsets.symmetric(vertical: 6.0),
                         child: Text(
-                          widget.resource.description!,
+                          resource.description!,
                           maxLines: 2,
                           overflow: TextOverflow.ellipsis,
                         ),
                       )
                     : const SizedBox.shrink(),
-                widget.showSource && widget.resource.source != null
+                showSource && resource.source != null
                     ? GestureDetector(
                         onTap: () => Navigator.of(context).pushNamed(
                           "/resources",
                           arguments: Source(
-                            id: widget.resource.sourceId!,
-                            title: widget.resource.source!,
+                            id: resource.sourceId!,
+                            title: resource.source!,
                             url: "",
                             numResources: -1,
                           ),
                         ),
                         child: Chip(
-                          label: Text(widget.resource.source!),
+                          label: Text(resource.source!),
                           backgroundColor: _getBackgroundColor(colorPallete[
-                              widget.resource.sourceId! % colorPallete.length]),
+                              resource.sourceId! % colorPallete.length]),
                         ),
                       )
                     : const SizedBox.shrink(),
-                widget.resource.publishedOn != null &&
-                        widget.resource.publishedOn!.isNotEmpty
+                resource.publishedOn != null && resource.publishedOn!.isNotEmpty
                     ? Text(
-                        "Published On ${DateFormat('d MMMM, y').format(DateTime.parse(widget.resource.publishedOn!))}",
+                        "Published On ${DateFormat('d MMMM, y').format(DateTime.parse(resource.publishedOn!))}",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           color: Colors.grey.shade600,

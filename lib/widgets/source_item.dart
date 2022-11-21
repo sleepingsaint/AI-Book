@@ -1,5 +1,6 @@
 import 'package:aibook/constants.dart';
 import 'package:aibook/utils/source.dart';
+import 'package:aibook/widgets/source_resources_list.dart';
 import 'package:flutter/material.dart';
 
 class SourceItem extends StatelessWidget {
@@ -50,9 +51,15 @@ class SourceItem extends StatelessWidget {
           ),
         ),
       ),
-      onTap: () => Navigator.of(context).pushNamed(
-        "/resources",
-        arguments: source,
+      // onTap: () => Navigator.of(context).pushNamed(
+      //   "/resources",
+      //   arguments: source,
+      // ),
+      onTap: () => Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) =>
+              Scaffold(body: SourceResourcesList(source: source)),
+        ),
       ),
     );
   }
