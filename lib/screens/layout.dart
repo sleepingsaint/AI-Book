@@ -1,8 +1,13 @@
 import 'package:aibook/constants.dart';
+import 'package:aibook/screens/all_resources_screen.dart';
+import 'package:aibook/screens/bookmarked_resources_screen.dart';
 import 'package:aibook/screens/home_screen.dart';
+import 'package:aibook/screens/sources_screen.dart';
 import 'package:aibook/utils/screen.dart';
+import 'package:aibook/utils/source.dart';
 import 'package:aibook/widgets/all_resources_list.dart';
 import 'package:aibook/widgets/bookmarked_resources_list.dart';
+import 'package:aibook/widgets/source_resources_list.dart';
 import 'package:aibook/widgets/sources_list.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -10,52 +15,70 @@ import 'package:provider/provider.dart';
 class ScreenConfig {
   final String title;
   final Color color;
-  final Widget body;
 
   ScreenConfig({
     required this.title,
     required this.color,
-    required this.body,
   });
+}
+
+class NavigatorPage extends StatelessWidget {
+  final Widget child;
+  final GlobalKey globalKey;
+  const NavigatorPage({
+    Key? key,
+    required this.child,
+    required this.globalKey,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Navigator(
+      key: globalKey,
+      onGenerateRoute: (settings) {
+        return MaterialPageRoute(builder: (context) => child);
+      },
+    );
+  }
 }
 
 class Layout extends StatelessWidget {
   Layout({Key? key}) : super(key: key);
 
-  final List<ScreenConfig> screenConfigs = [
-    ScreenConfig(
-      title: "AI Book",
-      color: colorPallete[0],
-      body: const HomeScreen(),
-    ),
-    ScreenConfig(
-      title: "Sources",
-      color: colorPallete[1],
-      body: const SourcesList(),
-    ),
-    ScreenConfig(
-      title: "Resources",
-      color: colorPallete[2],
-      body: const AllResourcesList(),
-    ),
-    ScreenConfig(
-      title: "Bookmarked Resources",
-      color: colorPallete[8],
-      body: BookmarkedResourcesList(),
-    ),
+  final List<GlobalKey> globalKeys = [
+    GlobalKey(),
+    GlobalKey(),
+    GlobalKey(),
+    GlobalKey(),
   ];
 
   @override
   Widget build(BuildContext context) {
     int selectedIndex = Provider.of<ScreenProvider>(context).selectedIndex;
     return Scaffold(
-      appBar: AppBar(
-        title: Text(screenConfigs[selectedIndex].title),
-        backgroundColor: screenConfigs[selectedIndex].color,
-      ),
-      body: IndexedStack(
-        index: selectedIndex,
-        children: screenConfigs.map((config) => config.body).toList(),
+      body: WillPopScope(
+        onWillPop: () async {
+          return !await Navigator.maybePop(
+              globalKeys[selectedIndex].currentState!.context);
+        },
+        child: IndexedStack(index: selectedIndex, children: [
+          NavigatorPage(
+            globalKey: globalKeys[0],
+            child: const HomeScreen(),
+          ),
+          NavigatorPage(
+            globalKey: globalKeys[1],
+            child: const SourcesScreen(),
+          ),
+          NavigatorPage(
+            globalKey: globalKeys[2],
+            child: const AllResourcesScreen(),
+          ),
+          NavigatorPage(
+            globalKey: globalKeys[3],
+            child: const BookmarkedResourcesScreen(),
+          ),
+        ]),
       ),
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
@@ -80,7 +103,7 @@ class Layout extends StatelessWidget {
         currentIndex: selectedIndex,
         showUnselectedLabels: true,
         unselectedItemColor: Colors.grey.shade900,
-        selectedItemColor: screenConfigs[selectedIndex].color,
+        selectedItemColor: Colors.blueGrey.shade500,
         onTap: (value) {
           Provider.of<ScreenProvider>(
             context,

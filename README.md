@@ -6,4 +6,3 @@
 - [ ] Add svg image viewer for network image
 
 - [ ] Route from internal of screen
-- [ ] Persist route data

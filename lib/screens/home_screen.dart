@@ -8,31 +8,37 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return NestedScrollView(
-      headerSliverBuilder: (context, innerBoxIsScrolled) => [
-        SliverStickyHeader(
-          sticky: false,
-          header: const Padding(
-            padding: EdgeInsets.only(left: 8.0, right: 8.0, top: 8.0),
-            child: BannerCards(),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("AI Book"),
+        backgroundColor: const Color(0xFF493657),
+      ),
+      body: NestedScrollView(
+        headerSliverBuilder: (context, innerBoxIsScrolled) => [
+          SliverStickyHeader(
+            sticky: false,
+            header: const Padding(
+              padding: EdgeInsets.only(left: 8.0, right: 8.0, top: 8.0),
+              child: BannerCards(),
+            ),
           ),
-        ),
-        SliverStickyHeader(
-          sticky: true,
-          header: Padding(
-            padding: const EdgeInsets.only(top: 8.0, left: 12.0, bottom: 8.0),
-            child: Text(
-              "Latest Resources",
-              style: TextStyle(
-                fontSize: MediaQuery.of(context).textScaleFactor * 24,
+          SliverStickyHeader(
+            sticky: true,
+            header: Padding(
+              padding: const EdgeInsets.only(top: 8.0, left: 12.0, bottom: 8.0),
+              child: Text(
+                "Latest Resources",
+                style: TextStyle(
+                  fontSize: MediaQuery.of(context).textScaleFactor * 24,
+                ),
               ),
             ),
           ),
+        ],
+        body: const Padding(
+          padding: EdgeInsets.all(6.0),
+          child: LatestResourcesList(),
         ),
-      ],
-      body: const Padding(
-        padding: EdgeInsets.all(6.0),
-        child: LatestResourcesList(),
       ),
     );
   }

@@ -51,14 +51,15 @@ class SourceItem extends StatelessWidget {
           ),
         ),
       ),
-      // onTap: () => Navigator.of(context).pushNamed(
-      //   "/resources",
-      //   arguments: source,
-      // ),
       onTap: () => Navigator.of(context).push(
         MaterialPageRoute(
-          builder: (context) =>
-              Scaffold(body: SourceResourcesList(source: source)),
+          builder: (context) => Scaffold(
+            appBar: AppBar(
+              title: Text(source.title),
+              backgroundColor: colorPallete[source.id % colorPallete.length],
+            ),
+            body: SourceResourcesList(source: source),
+          ),
         ),
       ),
     );
