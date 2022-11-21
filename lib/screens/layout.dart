@@ -53,7 +53,10 @@ class Layout extends StatelessWidget {
         title: Text(screenConfigs[selectedIndex].title),
         backgroundColor: screenConfigs[selectedIndex].color,
       ),
-      body: screenConfigs[selectedIndex].body,
+      body: IndexedStack(
+        index: selectedIndex,
+        children: screenConfigs.map((config) => config.body).toList(),
+      ),
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
         items: const <BottomNavigationBarItem>[

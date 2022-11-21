@@ -31,21 +31,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Layout(),
-      // initialRoute: "/",
-      // onGenerateRoute: (settings) {
-      //   if (settings.name == "/resources") {
-      //     final args = settings.arguments as Source;
-      //     return MaterialPageRoute(builder: (context) {
-      //       return SourceResourcesScreen(source: args);
-      //     });
-      //   }
-      // },
-      // routes: {
-      //   "/": (context) => const HomeScreen(),
-      //   "/sources": (context) => const SourcesScreen(),
-      //   "/allResources": (context) => const AllResourcesScreen(),
-      //   "/bookmarkedResources": (context) => const BookmarkedResourcesScreen(),
-      // },
     );
   }
 }
