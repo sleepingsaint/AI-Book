@@ -3,7 +3,6 @@ import 'package:aibook/utils/resource.dart';
 import 'package:aibook/widgets/resource_item.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:shimmer/shimmer.dart';
 
 class BookmarkedResourcesList extends StatelessWidget {
   BookmarkedResourcesList({Key? key}) : super(key: key);

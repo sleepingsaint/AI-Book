@@ -1,14 +1,8 @@
-import 'package:aibook/constants.dart';
 import 'package:aibook/screens/all_resources_screen.dart';
 import 'package:aibook/screens/bookmarked_resources_screen.dart';
 import 'package:aibook/screens/home_screen.dart';
 import 'package:aibook/screens/sources_screen.dart';
 import 'package:aibook/utils/screen.dart';
-import 'package:aibook/utils/source.dart';
-import 'package:aibook/widgets/all_resources_list.dart';
-import 'package:aibook/widgets/bookmarked_resources_list.dart';
-import 'package:aibook/widgets/source_resources_list.dart';
-import 'package:aibook/widgets/sources_list.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
