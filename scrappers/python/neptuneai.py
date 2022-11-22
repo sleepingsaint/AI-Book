@@ -146,7 +146,7 @@ class NeptuneAIBlogClient(AIBookClient):
             return None
         return next_url_tag['href']
 
-    def getResources(self, page_num = 37):
+    def getResources(self, page_num = 1):
         endpoint = f"{self.url}/page/{page_num}"
         page = requests.get(endpoint)
         soup = BeautifulSoup(page.content, "html.parser")
@@ -163,6 +163,7 @@ class NeptuneAIBlogClient(AIBookClient):
             publishedOn = self.getPublishedOn(post)
             tags = self.getTags(post)
             preview = self.getPreview(url)
+
             if not self.handleResource(title, url, authors, tags, publishedOn, preview.description, preview.image):
                 return
 
