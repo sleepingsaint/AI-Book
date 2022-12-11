@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14542,
+            "title": "Time Series Prediction: How Is It Different From Other Machine Learning? [ML Engineer Explains]",
+            "url": "https://neptune.ai/blog/time-series-prediction-vs-machine-learning",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Time-series is kind of a problem that every Data Scientist/ML Engineer will encounter in the span of their careers, more often than they think. So, it\u2019s an important concept to understand in-out. You see, time-series is a type of data that is sampled based on a time-based dimension like days, months, years, etc. We term\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Time-series-vs-machine-learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14543,
+            "title": "What\u2019s So Modern About the Modern Data Stack?",
+            "url": "https://neptune.ai/blog/modern-data-stack",
+            "authors": "Merelda Wu",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Over the Christmas break, I finally had some time to catch up on all the bookmarked articles, saved podcasts, and starred GitHub repositories. While going over them, I noticed that there was one recurring trend that was present in all of them.\u00a0 All of the new shiny data product ads had the same theme going:\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Modern-Data-Stack.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14544,
+            "title": "How to Build MLOps Pipelines with GitHub Actions [Step by Step Guide]",
+            "url": "https://neptune.ai/blog/build-mlops-pipelines-with-github-actions-guide",
+            "authors": "Ander Fernandez Jauregui",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "For a while now, MLOps has become a crucial process for all companies that are using Machine Learning and Deep Learning on a daily basis. In fact, there are already many solutions specifically built for solving problems related to MLOps pipelines. However, for many companies that just have a few models into production, the cost\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-pipeline-with-Github-Actions.jpg?fit=1200%2C628"
+        },
+        {
+            "id": 14545,
+            "title": "The Best Vertex ML Metadata Alternatives",
+            "url": "https://neptune.ai/blog/vertex-ml-metadata-alternatives",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Last year, Google announced Vertex AI, a new managed machine learning platform aimed at making it easier for developers to deploy and maintain AI models. So, what are the benefits and drawbacks of Vertex AI? In this article, we\u2019ll discuss Vertex AI and take a look at its alternatives, but first, let\u2019s see why is\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Vertex-ML-Metadata-alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14546,
+            "title": "Best DataRobot Alternatives for Model Registry",
+            "url": "https://neptune.ai/blog/datarobot-alternatives-for-model-registry",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "DataRobot is an enterprise AI platform that provides tools for building, managing, and deploying models at scale for businesses, and automating end-to-end ML lifecycles. It contains different kinds of models, data, latest open-source algorithms that can be used on-premise, or as a fully managed AI service, DataRobot gives you the power of AI to drive\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/DataRobot-Model-Registry-alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14547,
+            "title": "How to Deal With Imbalanced Classification and Regression Data",
+            "url": "https://neptune.ai/blog/how-to-deal-with-imbalanced-classification-and-regression-data",
+            "authors": "Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Data imbalance is predominant and inherent in the real world. Data often demonstrates skewed distributions with a long tail. However, most of the machine learning algorithms currently in use were designed around the assumption of a uniform distribution over each target category (classification).\u00a0 On the other hand, we must not forget that many tasks involve\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Imbalanced-data.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14548,
+            "title": "The Best Amazon SageMaker Alternatives [for Experiment Tracking and Model Management]",
+            "url": "https://neptune.ai/blog/amazon-sagemaker-alternatives",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning projects are far more complex than a typical software project. Compared to a software project, which primarily involves writing and testing some code, ML projects follow an iterative process and require intense experimentation. More than a code error, ML projects fail due to concept drift, poorly tuned values of hyperparameters, and faulty model\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Amazon-SageMaker-alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14549,
+            "title": "Distributed Training: Guide for Data Scientists",
+            "url": "https://neptune.ai/blog/distributed-training",
+            "authors": "Mirza Mujtaba",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Have you ever wondered how complex models with millions to billions of parameters are trained on terabytes of data? In fact, the size of such models can get so large that they may not even fit in the memory of a single processor. Thus training such models becomes impossible via conventional means and we need\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Distributed-training-guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14550,
+            "title": "When to Choose CatBoost Over XGBoost or LightGBM [Practical Guide]",
+            "url": "https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Boosting algorithms have become one of the most powerful algorithms for training on structural (tabular) data. The three most famous boosting algorithm implementations that have provided various recipes for winning ML competitions are: In this article, we will primarily focus on CatBoost, how it fares against other algorithms and when you should choose it over\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Catboost-over-XGBoost-and-LightGBM.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14551,
+            "title": "Data-Centric Approach vs Model-Centric Approach in Machine Learning",
+            "url": "https://neptune.ai/blog/data-centric-vs-model-centric-machine-learning",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Code and data are the foundations of the AI system. Both of these components play an important role in the development of a robust model but which one should you focus on more? In this article, we\u2019ll go through the data-centric vs model-centric approaches, and see which one is better, we would also talk about\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-centric-vs-model-centric.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14552,
+            "title": "Best Practices When Working With Docker for Machine Learning",
+            "url": "https://neptune.ai/blog/best-practices-docker-for-machine-learning",
+            "authors": "Dairenkon Majime",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Application containers may be created, deployed, and executed using the Docker tool. It\u2019s just a packed bundle of application code and the libraries and other dependencies that are needed for it to run. Once executed, a Docker Image turns into a Container and contains all the components required to run an application. However, what\u2019s the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Docker-for-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14553,
+            "title": "7 Cross-Validation Mistakes That Can Cost You a Lot [Best Practices in ML]",
+            "url": "https://neptune.ai/blog/cross-validation-mistakes",
+            "authors": "Shahul ES",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "We all want our models to generalize well so that they remain at their peak performance on any kind of dataset. To ensure such demands we often rely on cross-validation in our machine learning projects, a resampling procedure used to evaluate machine learning models on limited data samples. It could be a nightmare to realize\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Cross-validation-mistakes.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14554,
+            "title": "Pix2pix: Key Model Architecture Decisions",
+            "url": "https://neptune.ai/blog/pix2pix-key-model-architecture-decisions",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Generative Adversarial Networks or GANs is a type of neural network that belongs to the class of unsupervised learning. It is used for the task of deep generative modeling.\u00a0 In deep generative modeling, the deep neural networks learn a probability distribution over a given set of data points and generate similar data points. Since it\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Pix2Pix-model.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14555,
+            "title": "XGBoost vs LightGBM: How Are They Different",
+            "url": "https://neptune.ai/blog/xgboost-vs-lightgbm",
+            "authors": "Sumit Saha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Gradient Boosted Machines and their variants offered by multiple communities have gained a lot of traction in recent years. This has been primarily due to the improvement in performance offered by decision trees as compared to other machine learning algorithms both in products and machine learning competitions. Two of the most popular algorithms that are\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/XGBoost-vs-LightGBM.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14558,
+            "title": "Moving From TensorFlow To PyTorch",
+            "url": "https://neptune.ai/blog/moving-from-tensorflow-to-pytorch",
+            "authors": "Bharath K",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The concept of Deep Learning frameworks, libraries, and numerous tools exist to reduce the large amounts of manual computations that must otherwise be calculated. TensorFlow and PyTorch are currently two of the most popular frameworks to construct neural network architectures.\u00a0 While TensorFlow was released a year before PyTorch, most developers are tending to shift towards\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/TensorFlow-to-PyTorch.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14559,
+            "title": "K-Means Clustering Explained",
+            "url": "https://neptune.ai/blog/k-means-clustering",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Clustering was introduced in 1932 by H.E. Driver and A.L.Kroeber in their paper on \u201cQuantitative expression of cultural relationship\u201d. Since then this technique has taken a big leap and has been used to discover the unknown in a number of application areas eg. Healthcare. Clustering is a type of unsupervised learning where the references need\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/K-means-clustering.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14560,
+            "title": "Top Model Versioning Tools for Your ML Workflow",
+            "url": "https://neptune.ai/blog/top-model-versioning-tools",
+            "authors": "Akinwande Komolafe",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In recent times, Machine Learning has gained importance due to its ability to guide businesses in making precise and accurate decisions. Under the hood, Machine Learning is an iterative and repetitive process. Series of training jobs are done to optimize a model\u2019s predictive performance.\u00a0 Without the right methods, it is easy to lose track of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-versioning-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14561,
+            "title": "Arize AI & Neptune AI Partnership: Continuous Monitoring, Continuous Improvements for ML Models",
+            "url": "https://neptune.ai/blog/arize-partnership",
+            "authors": "Patrycja Jenkner",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Delivering the best machine learning model to production should be as easy as training, testing, and deploying \u2014 right? Not quite! Models are far from perfect as they move from research to production, and maintaining model performance once in production is even more challenging.\u00a0Once out of the offline research environment, the data a model consumes\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Arize-and-Neptune.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14562,
+            "title": "Dimensionality Reduction for Machine Learning",
+            "url": "https://neptune.ai/blog/dimensionality-reduction",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Data forms the foundation of any machine learning algorithm, without it, Data Science can not happen. Sometimes, it can contain a huge number of features, some of which are not even required. Such redundant information makes modeling complicated. Furthermore, interpreting and understanding the data by visualization gets difficult because of the high dimensionality. This is\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Dimensionality-reduction-for-ML.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14563,
+            "title": "Deploying Your Next Image Classification on Serverless (AWS Lambda, GCP Cloud Function, Azure Automation)",
+            "url": "https://neptune.ai/blog/deploying-image-classification-on-serverless",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Arguably, deploying ML applications has fundamentally been an infrastructure problem that has mostly slowed down how many ML models make it to production. The thought of configuring your infrastructure, long-term maintenance of your application in production, scalability, and saving costs, are all challenges that prevent many ML models from making it into production.\u00a0 As ML\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deploying-image-classification-serverless.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14564,
+            "title": "Azure ML (AML) Alternatives for MLOps",
+            "url": "https://neptune.ai/blog/azure-ml-alternatives-for-mlops",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Azure Machine Learning (AML) is a cloud-based machine learning service for data scientists and ML engineers. You can use AML to manage the machine learning lifecycle\u2014train, develop, and test models, but also run MLOps processes with speed, efficiency, and quality. For organizations that want to scale ML operations and unlock the potential of AI, tools\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Azure-ML-alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14565,
+            "title": "ML Engineer vs Data Scientist",
+            "url": "https://neptune.ai/blog/ml-engineer-vs-data-scientist",
+            "authors": "Sundeep Teki",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In 2010, DJ Patil and Thomas Davenport famously proclaimed Data Scientist (DS) to be the \u201cSexiest Job of the 21st century\u201d [1]. The progress in data science and machine learning over the last decade has been monumental. Data science has successfully empowered global businesses and organizations with predictive intelligence and data-driven decision-making to the extent\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-engineer-Data-Scientist.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14566,
+            "title": "Continuous Control With Deep Reinforcement Learning",
+            "url": "https://neptune.ai/blog/continuous-control-with-deep-reinforcement-learning",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This time I want to explore how deep reinforcement learning can be utilized e.g. making a humanoid model walk. This kind of task is a continuous control task. A solution to such a task differs from the one you might know and use to play Atari games, like Pong, with e.g. Deep Q-Network (DQN). I\u2019ll\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Continuous-control-RL.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14567,
+            "title": "Version Control for Machine Learning and Data Science",
+            "url": "https://neptune.ai/blog/version-control",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Version control tracks and manages changes in a collection of related entities. It records changes and modifications over time, so you can recall, revert, compare, reference, and restore anything you want. Version control is also known as source control or revision control. Each version is associated with a timestamp, and the ID of the person\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Version-control.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14568,
+            "title": "Transformer Models for Textual Data Prediction",
+            "url": "https://neptune.ai/blog/transformer-models-for-textual-data-prediction",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Transformer models such as Google\u2019s BERT and Open AI\u2019s GPT3 continue to change how we think about Machine Learning (ML) and Natural Language Processing (NLP). Look no further than GitHub\u2019s recent launch of a predictive programming support tool called Copilot. It\u2019s trained on billions of lines of code, and claims to understand \u201cthe context you\u2019ve\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Transformer-models-for-textual-prediction.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14569,
+            "title": "Tips for MLOps Setup\u2014Things We Learned From 7 ML Experts",
+            "url": "https://neptune.ai/blog/tips-for-mlops-setup",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The term \u2018MLOps\u2019 has gained much more traction now compared to just two years ago when it was mostly considered a \u201cbuzzword\u201d. Today, machine learning (ML) developers usually have a clear idea of the term instead of a vague interpretation by comparing it with the concept of DevOps.\u00a0 This development can be credited to the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-setup-tips-from-experts.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14570,
+            "title": "9 Steps of Debugging Deep Learning Model Training",
+            "url": "https://neptune.ai/blog/debugging-deep-learning-model-training",
+            "authors": "Konstantin Kutzkov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The first computer bug was literally a bug. A moth entered one of the computing machines at Harvard University in 1947 and caused a disruption in the computations. When engineers opened the computer box, they quickly detected the bug that was causing the problems. Nowadays, it is very unlikely that a bug will crawl into\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Debugging-Deep-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14571,
+            "title": "Knowledge Distillation: Principles, Algorithms, Applications",
+            "url": "https://neptune.ai/blog/knowledge-distillation",
+            "authors": "Sundeep Teki",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Large-scale machine learning and deep learning models are increasingly common. For instance, GPT-3 is trained on 570 GB of text and consists of 175 billion parameters. However, whilst training large models helps improve state-of-the-art performance, deploying such cumbersome models especially on edge devices is not straightforward. Additionally, the majority of data science modeling work focuses\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Knowledge-distillation.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14572,
+            "title": "The Best Open-Source MLOps Tools You Should Know",
+            "url": "https://neptune.ai/blog/best-open-source-mlops-tools",
+            "authors": "Yulia Gavrilova",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You don\u2019t need to spend a lot on MLOps tools to bring the magic of DevOps to your machine learning projects. There is plenty of open-source tools to choose from. It\u2019s a good solution when you\u2019re trying to address unique problems and a community to rely on is needed. But there are some prons to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-open-source-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14573,
+            "title": "How to Choose a Learning Rate Scheduler for Neural Networks",
+            "url": "https://neptune.ai/blog/how-to-choose-a-learning-rate-scheduler",
+            "authors": "Katherine (Yi) Li",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Researchers generally agree that neural network models are difficult to train. One of the biggest issues is the large number of hyperparameters to specify and optimize. The number of hidden layers, activation functions, optimizers, learning rate, regularization\u2014the list goes on. Tuning these hyperparameters can improve neural network models greatly. For us, as data scientists, building\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Learning-rate-scheduler.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

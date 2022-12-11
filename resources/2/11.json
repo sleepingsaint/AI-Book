@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1916,
+            "title": "Amazon Mentors Help UMass Graduate Students Make Concrete Advances on Vital Machine Learning Problems",
+            "url": "https://www.amazon.science/blog/amazon-mentors-help-umass-graduate-students-make-concrete-advances-on-vital-machine-learning-problems",
+            "authors": "Larry Hardesty",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-06-27T00:00:00",
+            "description": "Earlier this month, Varun Sharma and Akshit Tyagi, two master\u2019s students from the University of Massachusetts Amherst, began summer internships at Amazon, where, like many other scientists in training, they will be working on Alexa\u2019s spoken-language-understanding systems.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1917,
+            "title": "How to do fast, accurate multi-category classification",
+            "url": "https://www.amazon.science/blog/how-to-do-fast-accurate-multi-category-classification",
+            "authors": "Jinseok Nam",
+            "tags": "Machine learning",
+            "publishedOn": "2019-06-25T00:00:00",
+            "description": "Many of today\u2019s most useful AI systems are multilabel classifiers: they map input data into multiple categories at once. An object recognizer, for instance, might classify a given image as containing sky, sea, and boats but not desert or clouds.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1918,
+            "title": "Active learning: Algorithmically selecting training data to improve Alexa\u2019s natural-language understanding",
+            "url": "https://www.amazon.science/blog/active-learning-algorithmically-selecting-training-data-to-improve-alexas-natural-language-understanding",
+            "authors": "Stanislav Peshterliev",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-06-13T00:00:00",
+            "description": "Alexa\u2019s ability to respond to customer requests is largely the result of machine learning models trained on annotated data. The models are fed sample texts such as \u201cPlay the Prince song 1999\u201d or \u201cPlay River by Joni Mitchell\u201d. In each text, labels are attached to particular words \u2014 SongName for\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1919,
+            "title": "Adapting Alexa to regional language variations",
+            "url": "https://www.amazon.science/blog/adapting-alexa-to-regional-language-variations",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-06-11T00:00:00",
+            "description": "As Alexa expands into new countries, she usually has to be trained on new languages. But sometimes, she has to be re-trained on languages she\u2019s already learned. British English, American English, and Indian English, for instance, are different enough that for each of them, we trained a new machine\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1920,
+            "title": "Teaching Alexa to Follow Conversations",
+            "url": "https://www.amazon.science/blog/teaching-alexa-to-follow-conversations",
+            "authors": "Arpit Gupta",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-06-06T00:00:00",
+            "description": "n order to engage customers in longer, more productive conversations, Alexa needs to solve the problem of reference resolution. If Alexa says, \u201c\u2018Believer\u2019 is by Imagine Dragons\u201d, for instance, and the customer replies, \u201cPlay their latest album\u201d, Alexa should be able to deduce that \u201ctheir\u201d refers to\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1921,
+            "title": "Amazon Unveils Novel Alexa Dialog Modeling for Natural, Cross-Skill Conversations",
+            "url": "https://www.amazon.science/blog/amazon-unveils-novel-alexa-dialog-modeling-for-natural-cross-skill-conversations",
+            "authors": "Alexa Science Team",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-06-05T00:00:00",
+            "description": "Today, customer exchanges with Alexa are generally either one-shot requests, like \u201cAlexa, what\u2019s the weather?\u201d, or interactions that require multiple requests to complete more complex tasks.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1922,
+            "title": "Using adversarial training to recognize speakers\u2019 emotions",
+            "url": "https://www.amazon.science/blog/using-adversarial-training-to-recognize-speakers-emotions",
+            "authors": "Viktor Rozgic",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-05-21T00:00:00",
+            "description": "A person\u2019s tone of voice can tell you a lot about how they\u2019re feeling. Not surprisingly, emotion recognition is an increasingly popular conversational-AI research topic.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1923,
+            "title": "Should Alexa read \u201c2/3\u201d as \u201ctwo-thirds\u201d or \u201cFebruary Third\u201d?: The science of text normalization",
+            "url": "https://www.amazon.science/blog/should-alexa-read-2-3-as-two-thirds-or-february-third-the-science-of-text-normalization",
+            "authors": "Ming Sun",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-05-16T00:00:00",
+            "description": "Text normalization is an important process in conversational AI. If an Alexa customer says, \u201cbook me a table at 5:00 p.m.\u201d, the automatic speech recognizer will transcribe the time as \u201cfive p m\u201d. Before a skill can handle this request, \u201cfive p m\u201d will need to be converted to \u201c5:00PM\u201d. Once Alexa\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1924,
+            "title": "Training a Machine Learning Model in English Improves Its Performance in Japanese",
+            "url": "https://www.amazon.science/blog/training-a-machine-learning-model-in-english-improves-its-performance-in-japanese",
+            "authors": "Judith Gaspers",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-05-13T00:00:00",
+            "description": "Recently, we published a paper showing that training a neural network to do language processing in English, then retraining it in German, drastically reduces the amount of German-language training data required to achieve a given level of performance.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1925,
+            "title": "How We Add New Skills to Alexa\u2019s Name-Free Skill Selector",
+            "url": "https://www.amazon.science/blog/how-we-add-new-skills-to-alexas-name-free-skill-selector",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-05-03T00:00:00",
+            "description": "In the past year, we\u2019ve introduced what we call name-free skill interaction for Alexa. In countries where the service has rolled out, a customer who wants to, say, order a car can just say, \u201cAlexa, get me a car\u201d, instead of having to specify the name of a ride-sharing provider.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1926,
+            "title": "\u201cAlexa, Turn Down the Lights and Play Music\u201d: The Science of Handling Compound Requests",
+            "url": "https://www.amazon.science/blog/alexa-turn-down-the-lights-and-play-music-the-science-of-handling-compound-requests",
+            "authors": "Rahul Goel",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-05-02T00:00:00",
+            "description": "Traditionally, Alexa has interpreted customer requests according to their intents and slots. If you say, \u201cAlexa, play \u2018What\u2019s Going On?\u2019 by Marvin Gaye,\u201d the intent should be PlayMusic, and \u201c\u2018What\u2019s Going On?\u2019\u201d and \u201cMarvin Gaye\u201d should fill the slots SongName and ArtistName.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1927,
+            "title": "Training Speech Synthesizers on Data from Multiple Speakers",
+            "url": "https://www.amazon.science/blog/training-speech-synthesizers-on-data-from-multiple-speakers-improves-performance-stability",
+            "authors": "Jakub Lachowicz",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-25T00:00:00",
+            "description": "When a customer asks Alexa to play \u201cHey Jude\u201d, and Alexa responds, \u201cPlaying 'Hey Jude' by the Beatles,\u201d that response is generated by a text-to-speech (TTS) system, which converts textual inputs into synthetic-speech outputs.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1928,
+            "title": "Using wake word acoustics to filter out background speech improves speech recognition by 15%",
+            "url": "https://www.amazon.science/blog/using-wake-word-acoustics-to-filter-out-background-speech-improves-speech-recognition-by-15-percent",
+            "authors": "Xing Fan",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-22T00:00:00",
+            "description": "One of the ways that we\u2019re always trying to improve Alexa\u2019s performance is by teaching her to ignore speech that isn\u2019t intended for her.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1929,
+            "title": "Two new papers discuss how Alexa recognizes sounds",
+            "url": "https://www.amazon.science/blog/two-new-papers-discuss-how-alexa-recognizes-sounds",
+            "authors": "Ming Sun",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-18T00:00:00",
+            "description": "Last year, Amazon announced the beta release of Alexa Guard, a new service that lets customers who are leaving the house instruct their Echo devices to listen for glass breaking or smoke and carbon dioxide alarms going off.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1930,
+            "title": "Signal processor improves Echo\u2019s bass response, loudness, and speech recognition accuracy",
+            "url": "https://www.amazon.science/blog/signal-processor-improves-echos-bass-response-loudness-and-speech-recognition-accuracy",
+            "authors": "Jun Yang",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-11T00:00:00",
+            "description": "Multiband dynamics processing, which separately modifies volume in different frequency bands of an audio signal, is known to improve listeners\u2019 audio experiences. But in the context of voice-controlled systems like the Amazon Echo family of products, it can also improve automatic speech recognition\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1931,
+            "title": "Cross-lingual transfer learning for bootstrapping AI systems reduces new-language data requirements",
+            "url": "https://www.amazon.science/blog/cross-lingual-transfer-learning-for-bootstrapping-ai-systems-reduces-new-language-data-requirements",
+            "authors": "Quynh Ngoc Thi Do, Judith Gaspers",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-08T00:00:00",
+            "description": "Transfer learning is the technique of adapting a machine learning model trained on abundant data to a new context in which training data is sparse.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1932,
+            "title": "New speech recognition experiments demonstrate how machine learning can scale",
+            "url": "https://www.amazon.science/blog/new-speech-recognition-experiments-demonstrate-how-machine-learning-can-scale",
+            "authors": "Sree Hari Krishnan Parthasarathi",
+            "tags": "Machine learning",
+            "publishedOn": "2019-04-04T00:00:00",
+            "description": "Customer interactions with Alexa are constantly growing more complex, and on the Alexa science team, we strive to stay ahead of the curve by continuously improving Alexa\u2019s speech recognition system.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1933,
+            "title": "Joint training on speech signal isolation and speech recognition improves performance",
+            "url": "https://www.amazon.science/blog/joint-training-on-speech-signal-isolation-and-speech-recognition-improves-performance",
+            "authors": "Kenichi Kumatani",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-04-01T00:00:00",
+            "description": "The idea of using arrays of microphones to improve automatic speech recognition (ASR) is decades old. The acoustic signal generated by a sound source reaches multiple microphones with different time delays. This information can be used to create virtual directivity, emphasizing a sound arriving\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1934,
+            "title": "Audio watermarking algorithm is first to solve \"second-screen problem\" in real time",
+            "url": "https://www.amazon.science/blog/audio-watermarking-algorithm-is-first-to-solve-second-screen-problem-in-real-time",
+            "authors": "Yuan-Yen Tai",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-03-28T00:00:00",
+            "description": "Audio watermarking is the process of adding a distinctive sound pattern \u2014 undetectable to the human ear \u2014 to an audio signal to make it identifiable to a computer. It\u2019s one of the ways that video sites recognize copyrighted recordings that have been posted illegally.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1935,
+            "title": "Adversarial training produces synthetic data for machine learning",
+            "url": "https://www.amazon.science/blog/adversarial-training-produces-synthetic-data-for-machine-learning",
+            "authors": "Rahul Gupta",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-03-21T00:00:00",
+            "description": "Sentiment analysis is the attempt, computationally, to determine from someone\u2019s words how he or she feels about something. It has a host of applications, in market research, media analysis, customer service, and product recommendation, among other things.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1936,
+            "title": "Machine-labeled data + artificial noise = better speech recognition",
+            "url": "https://www.amazon.science/blog/machine-labeled-data-artificial-noise-better-speech-recognition",
+            "authors": "Minhua Wu",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-03-20T00:00:00",
+            "description": "Although deep neural networks have enabled accurate large-vocabulary speech recognition, training them requires thousands of hours of transcribed data, which is time-consuming and expensive to collect. So Amazon scientists have been investigating techniques that will let Alexa learn with minimal\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1937,
+            "title": "To correct imbalances in training data, don\u2019t oversample: Cluster",
+            "url": "https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster",
+            "authors": "Ming Sun",
+            "tags": "Machine learning",
+            "publishedOn": "2019-03-11T00:00:00",
+            "description": "In experiments involving sound recognition, technique reduces error rate by 15% to 30%.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a35785a/2147483647/strip/true/crop/543x285+856+13/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F51%2Fcf%2F94a24f114604b2f5d3f4ab365d52%2Fimbalanced-data.png._CB468753003_.png"
+        },
+        {
+            "id": 1938,
+            "title": "Innovations from the 2018 Alexa Prize",
+            "url": "https://www.amazon.science/blog/innovations-from-the-2018-alexa-prize",
+            "authors": "Behnam Hedayatnia",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-03-05T00:00:00",
+            "description": "March 4 marked the kickoff of the third Alexa Prize Socialbot Grand Challenge, in which university teams build socialbots capable of conversing on a wide range of topics and make them available to millions of Alexa customers through the invitation \u201cAlexa, let\u2019s chat\u201d. Student teams may begin\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1939,
+            "title": "AI tools let Alexa Prize participants focus on science",
+            "url": "https://www.amazon.science/blog/ai-tools-let-alexa-prize-participants-focus-on-science",
+            "authors": "Anushree Venkatesh",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-02-27T00:00:00",
+            "description": "March 4 marks the kickoff of the third Alexa Prize Socialbot Grand Challenge, in which university teams build socialbots capable of conversing on a wide range of topics and make them available to millions of Alexa customers through the invitation \u201cAlexa, let\u2019s chat\u201d. Student teams can begin\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1940,
+            "title": "Why Alexa won't wake up when she hears her name in Amazon's Super Bowl ad",
+            "url": "https://www.amazon.science/blog/why-alexa-wont-wake-up-when-she-hears-her-name-in-amazons-super-bowl-ad",
+            "authors": "Mike Rodehorst",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-01-31T00:00:00",
+            "description": "This Sunday's Super Bowl between the New England Patriots and the Los Angeles Rams is expected to draw more than 100 million viewers, some of whom will have Alexa-enabled devices within range of their TV speakers. When Amazon's new Alexa ad airs, and Forest Whitaker asks his Alexa-enabled electric\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/d08e642/2147483647/strip/true/crop/2724x1430+71+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F3a%2F39%2Fe0c9a8f64c6cb9afc4d57da28b83%2Famazon-alexa-super-bowl-commercial-2022.jpg"
+        },
+        {
+            "id": 1941,
+            "title": "Updating neural networks to recognize new categories, with minimal retraining",
+            "url": "https://www.amazon.science/blog/updating-neural-networks-to-recognize-new-categories-with-minimal-retraining",
+            "authors": "Alessandro Moschitti",
+            "tags": "Machine learning",
+            "publishedOn": "2019-01-30T00:00:00",
+            "description": "Many of today\u2019s most popular AI systems are, at their core, classifiers. They classify inputs into different categories: this image is a picture of a dog, not a cat; this audio signal is an instance of the word \u201cBoston\u201d, not the word \u201cSeattle\u201d; this sentence is a request to play a video, not a song.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1942,
+            "title": "More-efficient \u201ckernel methods\u201d dramatically reduce training time for natural-language-understanding systems",
+            "url": "https://www.amazon.science/blog/more-efficient-kernel-methods-dramatically-reduce-training-time-for-natural-language-understanding-systems",
+            "authors": "Alessandro Moschitti",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-01-24T00:00:00",
+            "description": "Machine learning systems often act on \u201cfeatures\u201d extracted from input data. In a natural-language-understanding system, for instance, the features might include words\u2019 parts of speech, as assessed by an automatic syntactic parser, or whether a sentence is in the active or passive voice.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1943,
+            "title": "Leveraging unannotated data to bootstrap Alexa functions more quickly",
+            "url": "https://www.amazon.science/blog/leveraging-unannotated-data-to-bootstrap-alexa-functions-more-quickly",
+            "authors": "Anuj Goyal",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-01-22T00:00:00",
+            "description": "Developing a new natural-language-understanding system usually requires training it on thousands of sample utterances, which can be costly and time-consuming to collect and annotate. That\u2019s particularly burdensome for small developers, like many who have contributed to the library of more than\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1944,
+            "title": "New method for compressing neural networks better preserves accuracy",
+            "url": "https://www.amazon.science/blog/new-method-for-compressing-neural-networks-better-preserves-accuracy",
+            "authors": "Anish Acharya, Rahul Goel",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2019-01-15T00:00:00",
+            "description": "Neural networks have been responsible for most of the top-performing AI systems of the past decade, but they tend to be big, which means they tend to be slow. That\u2019s a problem for systems like Alexa, which depend on neural networks to process spoken requests in real time.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1945,
+            "title": "How Alexa may learn to retrieve stored \"memories\"",
+            "url": "https://www.amazon.science/blog/how-alexa-may-learn-to-retrieve-stored-memories",
+            "authors": "Rasool Fakoor",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2018-12-21T00:00:00",
+            "description": "In May 2018, Amazon launched Alexa\u2019s Remember This feature, which enables customers to store \u201cmemories\u201d (\u201cAlexa, remember that I took Ben\u2019s watch to the repair store\u201d) and recall them later by asking open-ended questions (\u201cAlexa, where is Ben\u2019s watch?\u201d).",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        }
+    ]
+}

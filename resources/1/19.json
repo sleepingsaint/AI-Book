@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 524,
+            "title": "Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry",
+            "url": "https://aws.amazon.com/blogs/machine-learning/patterns-for-multi-account-hub-and-spoke-amazon-sagemaker-model-registry/",
+            "authors": "Andrea Di Simone, Bruno Pistone, Matteo Calabrese, Giuseppe Angelo Porcelli",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-08-17T00:00:00",
+            "description": "Data science workflows have to pass multiple stages as they progress from the experimentation to production pipeline. A common approach involves separate accounts dedicated to different phases of the AI/ML workflow (experimentation, development, and production). In addition, issues related to data access control may also mandate that workflows for different AI/ML applications be hosted on [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3798-image003.jpg"
+        },
+        {
+            "id": 525,
+            "title": "Deploy multiple serving containers on a single instance using Amazon SageMaker multi-container endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-multiple-serving-containers-on-a-single-instance-using-amazon-sagemaker-multi-container-endpoints/",
+            "authors": "Vikesh Pandey, Sean Morgan",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-08-16T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models built on different frameworks. SageMaker real-time inference endpoints are fully managed and can serve predictions in real time with low latency. This post introduces SageMaker support for direct multi-container endpoints. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ml-2800-img1-1089x630.png"
+        },
+        {
+            "id": 526,
+            "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
+            "authors": "Josh Coen, Mani Khanuja",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Outposts",
+            "publishedOn": "2021-08-16T00:00:00",
+            "description": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases. With other critical use-cases, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png"
+        },
+        {
+            "id": 527,
+            "title": "Getting started with Amazon SageMaker Feature Store",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/",
+            "authors": "Zoe Ma, Courtney McKay",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-08-11T00:00:00",
+            "description": "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text values to vectorized representation, aggregating log data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/1-3856-Diagram.jpg"
+        },
+        {
+            "id": 528,
+            "title": "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+            "authors": "Raj Kadiyala, Nida Beig",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS IoT Greengrass, AWS Snowball Edge, Internet of Things, Storage",
+            "publishedOn": "2021-08-11T00:00:00",
+            "description": "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected nature of these devices, deploying and managing ML models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 529,
+            "title": "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
+            "authors": "Yanwei Cui",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2021-08-10T00:00:00",
+            "description": "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This is due in part to the amount of experimentation required before finalizing a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg"
+        },
+        {
+            "id": 530,
+            "title": "How Cortica used Amazon HealthLake to get deeper insights to improve patient care",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-cortica-used-amazon-healthlake-to-get-deeper-insights-to-improve-patient-care/",
+            "authors": "Ernesto DiMarino, Satadal Bhattacharjee",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence, Healthcare, Healthcare, Industries",
+            "publishedOn": "2021-08-10T00:00:00",
+            "description": "This is a guest post by Ernesto DiMarino, who is Head of Enterprise Applications and Data at Cortica. Cortica is on a mission to revolutionize healthcare for children with autism and other neurodevelopmental differences. Cortica was founded to fix the fragmented journey families typically navigate while seeking diagnoses and therapies for their children. To bring [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/1-5225-Architecture.jpg"
+        },
+        {
+            "id": 531,
+            "title": "Attendee matchmaking at virtual events with Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
+            "authors": "Shu Jackson, Luis Lopez Soria",
+            "tags": "Amazon Machine Learning, Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2021-08-09T00:00:00",
+            "description": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations\u2014no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of personalization experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing. Besides [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4033-IMG1.png"
+        },
+        {
+            "id": 532,
+            "title": "Accurately predicting future sales at Clearly using Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
+            "authors": "Fernando Rocha Silva, Alex Thoreux, Dr. Ziv Pollak",
+            "tags": "Amazon Forecast, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-08-09T00:00:00",
+            "description": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thoreux, Web Analyst at Clearly. A pioneer in online shopping, Clearly launched their first site in 2000. Since then, they\u2019ve grown to become one of the biggest online eyewear retailers in the world, providing customers across Canada, the US, Australia and New [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/image001-850x630.png"
+        },
+        {
+            "id": 533,
+            "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+            "authors": "Prem Ranga, Chethan Krishna, Mona Mona",
+            "tags": "Amazon Comprehend, Amazon Machine Learning, Announcements, Artificial Intelligence",
+            "publishedOn": "2021-08-09T00:00:00",
+            "description": "Update August 3, 2022: Minimum requirements for training entity recognizers have been further reduced. You can now build a custom entity recognition model with as few as three documents and 25 annotations per entity type. Additional details available in the Amazon Comprehend Guidelines and quotas webpage and in the blog post announcing the limit reduction. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png"
+        },
+        {
+            "id": 534,
+            "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
+            "authors": "Bob Strahan, Abhinav Jawadekar",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2021-08-06T00:00:00",
+            "description": "Updated September 2021 (v0.2.0): MediaSearch Finder now supports optional user authentication and support for Amazon Kendra OpenID token based access control. The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png"
+        },
+        {
+            "id": 535,
+            "title": "Detect anomalies in operational metrics using Dynatrace and Amazon Lookout for Metrics",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-operation-metrics-using-dynatrace-and-amazon-lookout-for-metrics/",
+            "authors": "Sumeeth Siriyur",
+            "tags": "Amazon AppFlow, Amazon Lookout for Metrics, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-08-06T00:00:00",
+            "description": "Organizations of all sizes and across all industries gather and analyze metrics or key performance indicators (KPIs) to help their businesses run effectively and efficiently. Operational metrics are used to evaluate performance, compare results, and track relevant data to improve business outcomes. For example, you can use operational metrics to determine application performance (the average [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4682-image001.png"
+        },
+        {
+            "id": 536,
+            "title": "Accenture promotes machine learning growth with world\u2019s largest private AWS DeepComposer Battle of the Bands League",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league/",
+            "authors": "Sameer Goel, Marc DeMory, Maryam Rezapoor",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2021-08-06T00:00:00",
+            "description": "Accenture is known for pioneering innovative solutions to achieve customer success by using artificial intelligence (AI) and machine learning (ML) powered solutions with AWS services. To keep teams updated with latest ML services, Accenture seeks to gamify hands-on learning. One such event, AWS DeepComposer Battle of the Bands, hosted by Accenture, is the world\u2019s first [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3095-image001-1087x630.png"
+        },
+        {
+            "id": 537,
+            "title": "Scale your Amazon Kendra index",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scale-your-amazon-kendra-index/",
+            "authors": "Andrew Kane, Juan Bustos, Jean-Pierre Dodel, Tapodipta Ghosh",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-08-05T00:00:00",
+            "description": "Amazon Kendra is a fully managed, intelligent search service powered by machine learning. Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they\u2019re looking for. Using keyword or natural language queries, employees and customers can find the right content even when it\u2019s scattered across [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4823-IMG2.jpg"
+        },
+        {
+            "id": 538,
+            "title": "Reimagine knowledge discovery using Amazon Kendra\u2019s Web Crawler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-discovery-using-amazon-kendras-web-crawler/",
+            "authors": "Tapodipta Ghosh, Juan Bustos, Vijai Gandikota",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-08-04T00:00:00",
+            "description": "When you deploy intelligent search in your organization, two important factors to consider are access to the latest and most comprehensive information, and a contextual discovery mechanism. Many companies are still struggling to make their internal documents searchable in a way that allows employees to get relevant information knowledge in a scalable, cost-effective manner. A [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/28/1-4821-WebcrawlerIndex.jpg"
+        },
+        {
+            "id": 539,
+            "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
+            "authors": "Mick McCluskey, Vijay Niles",
+            "tags": "Amazon Machine Learning, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2021-08-03T00:00:00",
+            "description": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators across Set Top Boxes (STBs), media players, and mobile devices. A [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/29/esp-diagram-1260x447.png"
+        },
+        {
+            "id": 540,
+            "title": "Upgrade your Amazon Polly voices to neural with one line of code",
+            "url": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+            "authors": "Marta Smolarek",
+            "tags": "Amazon Machine Learning, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2021-08-03T00:00:00",
+            "description": "In 2019, Amazon Polly launched neural text-to-speech (NTTS) voices in US English and UK English. Neural voices use machine learning and provide a richer, more lifelike speech quality. Since the initial launch of NTTS, Amazon Polly has extended its neural offering by adding new voices in US Spanish, Brazilian Portuguese, Australian English, Canadian French, German [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 541,
+            "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+            "authors": "Shelbee Eigenbrode, Sofian Hamiti, Payton Staub, Randy DeFauw",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Glue, AWS Lambda",
+            "publishedOn": "2021-08-03T00:00:00",
+            "description": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines to include steps for tasks performed outside of Amazon SageMaker by taking advantage [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png"
+        },
+        {
+            "id": 542,
+            "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+            "authors": "Anubhav Mishra, Jessica Ho",
+            "tags": "Amazon Lex, Amazon Machine Learning, Artificial Intelligence, Retail",
+            "publishedOn": "2021-08-03T00:00:00",
+            "description": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel contact centers so that they can provide simple mechanisms for their customers to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif"
+        },
+        {
+            "id": 543,
+            "title": "Simplify and automate anomaly detection in streaming data with Amazon Lookout for Metrics",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-automate-anomaly-detection-in-streaming-data-with-amazon-lookout-for-metrics/",
+            "authors": "Babu Srinivasan",
+            "tags": "Amazon Kinesis, Amazon Lookout for Metrics, Amazon Machine Learning, Amazon Simple Storage Service (S3), Artificial Intelligence, AWS Glue, AWS Lambda",
+            "publishedOn": "2021-08-02T00:00:00",
+            "description": "Do you want to monitor your business metrics and detect anomalies in your existing streaming data pipelines? Amazon Lookout for Metrics is a service that uses machine learning (ML) to detect anomalies in your time series data. The service goes beyond simple anomaly detection. It allows developers to set up autonomous monitoring for important metrics [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/22/ML4418-image001.png"
+        },
+        {
+            "id": 544,
+            "title": "Analyze customer churn probability using call transcription and customer profiles with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker/",
+            "authors": "Nick Minaie, Ehsan M. Kermani, Li Zhang",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-07-30T00:00:00",
+            "description": "Regardless of the industry or product, customers are the most important component in a business\u2019s success and growth. Businesses go to great lengths to acquire and more importantly retain their existing customers. Customer satisfaction links directly to revenue growth, business credibility, and reputation. These are all key factors in a sustainable and long-term business growth [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/27/ML-4213-image003-1092x630.png"
+        },
+        {
+            "id": 545,
+            "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
+            "authors": "Juan Bustos, Vijai Gandikota",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Amazon WorkDocs, Artificial Intelligence",
+            "publishedOn": "2021-07-29T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they\u2019re looking for, even when it\u2019s scattered across multiple locations and content repositories within your organization. With Amazon Kendra, you can search through [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 546,
+            "title": "Orchestrate XGBoost ML Pipelines with Amazon Managed Workflows for Apache Airflow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
+            "authors": "Justin Leto, David Ehrlich, Shreyas Subramanian",
+            "tags": "Amazon Machine Learning, Amazon Managed Workflows for Apache Airflow (Amazon MWAA), Artificial Intelligence",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "The ability to scale machine learning operations (MLOps) at an enterprise is quickly becoming a competitive advantage in the modern economy. When firms started dabbling in ML, only the highest priority use cases were the focus. Businesses are now demanding more from ML practitioners: more intelligent features, delivered faster, and continually maintained over time. An [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ml-4775-image007-1002x630.png"
+        },
+        {
+            "id": 547,
+            "title": "Announcing specialized support for extracting data from invoices and receipts using Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-expanded-support-for-extracting-data-from-invoices-and-receipts-using-amazon-textract/",
+            "authors": "Dhawalkumar Patel, Raj Copparapu, Manish Chugh",
+            "tags": "Amazon Machine Learning, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "Receipts and invoices are documents that are critical to small and medium businesses (SMBs), startups, and enterprises for managing their accounts payable processes. These types of documents are difficult to process at scale because they follow no set design rules, yet any individual customer encounters thousands of distinct types of these documents. In this post, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ML3911-image023.png"
+        },
+        {
+            "id": 548,
+            "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+            "authors": "Alexa Giftopoulos, Akash Patwal, Sarvesh Bhagat",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it\u2019s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that contain checkmarks or shaded circles, the size ratio [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 549,
+            "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
+            "authors": "Vinay Hanumaiah",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn\u2019t behave the same way as it did during the training phase. This concept is generally called data drift or [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg"
+        },
+        {
+            "id": 550,
+            "title": "Detect defects and augment predictions using Amazon Lookout for Vision and Amazon A2I",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-defects-and-augment-predictions-using-amazon-lookout-for-vision-and-amazon-a2i/",
+            "authors": "Dennis Thurmon, Amit Gupta, Neel Sendas",
+            "tags": "Amazon Augmented AI, Amazon Lookout for Vision, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "With machine learning (ML), more powerful technologies have become available that can automate the task of detecting visual anomalies in a product. However, implementing such ML solutions is time-consuming and expensive because it involves managing and setting up complex infrastructure and having the right ML skills. Furthermore, ML applications need human oversight to ensure accuracy [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/23/thumbnail-1.png"
+        },
+        {
+            "id": 551,
+            "title": "Automate annotation of image training data with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+            "authors": "Samantha Finley, Woodrow Bogucki, Jerry Mullis, Quentin Morris",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Every machine learning (ML) model demands data to train it. If your model isn\u2019t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process\u2014second only to data cleaning. What data cleaning looks like varies from dataset to dataset. For example, the following is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png"
+        },
+        {
+            "id": 552,
+            "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
+            "authors": "David Qiu, Manish Agarwal, Navneet Srivastava",
+            "tags": "Amazon Lex, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician\u2019s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record for each patient. That record is stored in the hospital electronic health [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/09/ML1957-image001.png"
+        },
+        {
+            "id": 553,
+            "title": "TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
+            "authors": "Paul Ngo",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "This is a guest post authored by Paul Ngo, US Gas Technical and Operational Services Data Team Lead at TC Energy. TC Energy operates a network of pipelines, including 57,900 miles of natural gas and 3,000 miles of oil and liquid pipelines, throughout North America. TC Energy enables a stable network of natural gas and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/21/TC-Energy.jpg"
+        }
+    ]
+}

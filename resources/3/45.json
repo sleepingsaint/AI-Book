@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3294,
+            "title": "Facial Emotion Detection Using CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/facial-emotion-detection-using-cnn/",
+            "authors": "Thetechwriters",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "This article demonstrates to you how to build a facial detection model using Tensorflow, which can tell you emotion using your picture",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/37704featured-768x440.gif"
+        },
+        {
+            "id": 3295,
+            "title": "A Beginner\u2019s Introduction to NER (Named Entity Recognition)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-beginners-introduction-to-ner-named-entity-recognition/",
+            "authors": "Adwait Dathan R",
+            "tags": "Advanced, NLP, Python, Text",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "NER(Named Entity recognition), a popular method that is used for recognizing entities that are present in a text document.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image2.png"
+        },
+        {
+            "id": 3296,
+            "title": "Startups profit prediction using Multiple Linear Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/startups-profit-prediction-using-multiple-linear-regression/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Python",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "The difference between linear and multiple linear regression is that in Multiple linear regression there is more than one independent variable",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/13.png"
+        },
+        {
+            "id": 3297,
+            "title": "Exploratory Data Analysis on UBER Stocks Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/exploratory-data-analysis-on-uber-stocks-dataset/",
+            "authors": "Ayush Gupta",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "Exploratory data analysis is a great way of understanding and analyzing the data sets. This technique is extensively used by data scientists.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/nyctaxi-scaled.jpg"
+        },
+        {
+            "id": 3298,
+            "title": "Implementing Particle Swarm Optimization using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/implementing-a-particle-swarm-optimization-with-python/",
+            "authors": "B_95_Ankita Roy",
+            "tags": "Beginner, Particle Swarm Optimization, Python",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Learn about the mechanism, variants, and application of Particle Swarm Optimization in different fields. Implement it in Python with PySwarm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/65153james-wainscoat-b7MZ6iGIoSI-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3299,
+            "title": "PCA(Principal Component Analysis) on MNIST Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/pca-on-mnist-dataset/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "PCA is the technic of dimensionality reduction. Here we are going to learn about PCA and its implementation on the MNIST dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/61908pythonpackage.jpg"
+        },
+        {
+            "id": 3300,
+            "title": "Plotting Images Using Matplotlib Library in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/plotting-images-using-matplotlib-library-in-python/",
+            "authors": "Nasima Tamboli",
+            "tags": "Beginner, Data Visualization, Image Analysis, Python",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Learn how to convert images to NumPy array and plot them using the image sub-module of Matplotlib library in Python to create visualizations",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/matplot.png"
+        },
+        {
+            "id": 3301,
+            "title": "TensorFlow for Beginners With Examples and Python Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/tensorflow-for-beginners-with-examples-and-python-implementation/",
+            "authors": "Prashant Sharma",
+            "tags": "Advanced, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "TensorFlow is an end-to-end open-source machine learning platform with a focus on deep neural networks. It is one of the most common tools.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/TENSORFLOW-chilli.png"
+        },
+        {
+            "id": 3302,
+            "title": "Deploying a Flask App on AWS Elastic Beanstalk",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/deploying-a-flask-app-on-aws-elastic-beanstalk/",
+            "authors": "Mimi Dutta",
+            "tags": "AWS, Beginner, Model Deployment, Python",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "This article is a quick introductory guide to building your own Flask app and deploying the application using AWS Elastic Beanstalk.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 3303,
+            "title": "Learn how to build your Discord bot using DailoGPT and HuggingFace API",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/learn-how-to-build-your-discord-bot/",
+            "authors": "Abid Ali Awan",
+            "tags": "Advanced, chatbot, Libraries, NLP, Python",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "In this article, Create your own Discord Bot with DailoGPT and HuggingFace API in Python and deploy it on Replit server for free",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/bot.png"
+        },
+        {
+            "id": 3304,
+            "title": "Laptop Price Prediction \u2013 Practical Understanding of Machine learning project lifecycle",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/laptop-price-prediction-practical-understanding-of-machine-learning-project-lifecycle/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Guide, Machine Learning, Model Deployment, Project, Python",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "In this article, get a thorough understanding of machine learning project lifecycle with laptop price prediction project in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Web-Application-for-Prediction.jpg"
+        },
+        {
+            "id": 3305,
+            "title": "Building a Real-time Short News App using HuggingFace Transformers and Streamlit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/building-a-real-time-short-news-app-using-huggingface-transformers-and-streamlit/",
+            "authors": "UPPU RAJESH KUMAR",
+            "tags": "MLops, NLP, Project, Python, Streamlit, Text",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "Learn how to use Newspaper3k, HuggingFace transformers and Streamlit to create and deploy your short news app in Python, in a few simple steps",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/news.png"
+        },
+        {
+            "id": 3306,
+            "title": "The Ultimate Guide To Setting-Up An ETL (Extract, Transform, and Load) Process Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/the-ultimate-guide-to-setting-up-an-etl-extract-transform-and-load-process-pipeline/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Engineering, Python",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "ETL is a process that extracts data from multiple source systems, changes it , and then puts it into the Data Warehouse system.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/1kSw-njRsFwVlqbTElIX8oQ-scaled-e1635756426668.jpeg"
+        },
+        {
+            "id": 3307,
+            "title": "A Code Walk Through to Deploying a Container on Heroku Platform",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-code-walk-through-to-deploying-a-container-on-heroku-platform/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Advanced, Data Engineering, Model Deployment, Python",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "A Walk through for model deployment process to deploy a container containing a simple flask app on the cloud platform Heroku",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/13.png"
+        },
+        {
+            "id": 3308,
+            "title": "Employee Attrition Prediction \u2013 A Comprehensive Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/employee-attrition-prediction-a-comprehensive-guide/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Guide, Machine Learning, Project, Python",
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "Employee attrition prediction i.e. predicting that employee will leave the current company using several machine learning algorithms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/25302High-employee-turnover.jpg"
+        },
+        {
+            "id": 3309,
+            "title": "Beginner\u2019s Guide to AutoML with an Easy AutoGluon Example",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/beginners-guide-to-automl-with-an-easy-autogluon-example/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Automl, Beginner, Guide, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-10-31T00:00:00",
+            "description": "First section deals with the background information on AutoML while the second section covers an end-to-end example use case for AutoGluon",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/15047Business-Process-Automation.jpg"
+        },
+        {
+            "id": 3310,
+            "title": "An Introduction to Particle Swarm Optimization (PSO) Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-particle-swarm-optimization-algorithm/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Advanced, Maths",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "The most exciting part of particle-swarm optimization is there is a stable topology where particles are able to communicate with each other",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/07/ever_case-compressed.jpg"
+        },
+        {
+            "id": 3311,
+            "title": "Ensemble Modeling for Neural Networks using large datasets \u2013 Simplified!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/ensemble-modeling-for-neural-networks-using-large-datasets-simplified/",
+            "authors": "Aishwarya Sen",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "Ensemble modeling is the process by which neural networks combine distinct base models to generate generalized predictions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 3312,
+            "title": "An Intuition about Kalman Filter for Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-intuition-about-kalman-filter/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Advanced, Computer Vision, Maths, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "The importance of the Kalman filter relies on removing the noise from input data. It is one of the great tools for data capturing process",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/email_filtering_machine_learning.png"
+        },
+        {
+            "id": 3313,
+            "title": "Understanding Transfer Learning for Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/understanding-transfer-learning-for-deep-learning/",
+            "authors": "Pranshu Sharma",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "The reuse of a pre-trained model on a new problem is called the transfer learning in machine learning and deep learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/55880asyaevloeva_feature_transformation.png"
+        },
+        {
+            "id": 3314,
+            "title": "A comprehensive guide for Camera calibration in computer vision",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-for-camera-calibration-in-computer-vision/",
+            "authors": "Dulari Bhatt",
+            "tags": "Advanced, Computer Vision, Guide, Image, Image Analysis, Maths, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "Camera calibration is the process of determining specific camera parameters in order to complete operations with specified measurements.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/10/09074827/pexels-photo-114820.jpeg"
+        },
+        {
+            "id": 3315,
+            "title": "A Complete Guide to Dealing with Missing values in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/",
+            "authors": "Premanand S",
+            "tags": "Beginner, Data Cleaning, Machine Learning, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "Dealing with missing values is important in order to efficiently manage data, which is a component of the data pre-processing module.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3316,
+            "title": "A Detailed Study on Covid-19 Vaccination Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-detailed-study-on-vaccination-data-with-tableau/",
+            "authors": "Yash Khandelwal",
+            "tags": "Beginner, Data Visualization, Guide, Tableau",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "Learn data analysis, visualization and story telling in Tableau from scratch using Covid-19 vaccination data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/88644Untitled-design-e1635597790273.png"
+        },
+        {
+            "id": 3317,
+            "title": "An Effective Approach To Hyper-Parameter Tuning \u2013 A Beginners Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-effective-approach-to-hyper-parameter-tuning-a-beginners-guide/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-10-30T00:00:00",
+            "description": "In this article, we will explain the tool and required knowledge to help you gain an edge in the field of Hyper-Parameter tuning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/articles_img_main.jpg"
+        },
+        {
+            "id": 3318,
+            "title": "All You Need To Know About Different Types Of Missing Data Values And How To Handle It",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/",
+            "authors": "Nasima Tamboli",
+            "tags": "Beginner, Data Exploration, Python",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Learn about various type of missing value and how to treat them using different approaches to increase the efficacy of your model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Data-Science-Blogathon-Share-Your-Knowledge-and-Win-Prizes.jpg"
+        },
+        {
+            "id": 3319,
+            "title": "Understanding Polynomial Regression Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/understanding-polynomial-regression-model/",
+            "authors": "Premanand S",
+            "tags": "Advanced, Machine Learning, Python, Regression",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "In Polynomial Regression the relationship between the independent and the dependent variable y is described as an nth degree polynomial in x.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-1.jpg"
+        },
+        {
+            "id": 3320,
+            "title": "End to End Statistics for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/end-to-end-statistics-for-data-science/",
+            "authors": "Gunjan Agarwal",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Statistics is a type of mathematical analysis that employs quantified models and representations to analyse a set of experimental data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg"
+        },
+        {
+            "id": 3321,
+            "title": "A Comprehensive Guide on Advanced Microsoft Excel for Data Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-advanced-microsoft-excel-for-data-analysis/",
+            "authors": "Hinal Patel",
+            "tags": "Beginner, Excel",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "This is a guide data analysis in Excel. Learn how to use filtering, sorting, pivot tables, and in-built analytics tool packs to get insights",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/skills-required-to-excel.png"
+        },
+        {
+            "id": 3322,
+            "title": "Beginner\u2019s guide on How to Train a Classification Model with TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/beginners-guide-on-how-to-train-a-classification-model-with-tensorflow/",
+            "authors": "Arnab Mondal",
+            "tags": "Beginner, Classification, Deep Learning, Python",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "In this article, we will cover everything from gathering data to preparing the steps for training classification model with TensorFlow",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 3323,
+            "title": "End-to-End Introduction to Evaluating Regression Models",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/evaluation-metric-for-regression-models/",
+            "authors": "Padhma M",
+            "tags": "Beginner, Guide, Machine Learning, Python, Regression",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "Learn how to choose the right evaluation metric for your regression model with the exhaustive knowledge of their pros and cons.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/15535Evaluation-metric-feature-image.png"
+        }
+    ]
+}

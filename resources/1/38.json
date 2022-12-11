@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1094,
+            "title": "Introducing medical speech-to-text with Amazon Transcribe Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-medical-speech-to-text-with-amazon-transcribe-medical/",
+            "authors": "Vasi Philomin",
+            "tags": "Amazon Transcribe, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2019-12-03T00:00:00",
+            "description": "We are excited to announce Amazon Transcribe Medical, a new HIPAA-eligible, machine learning automatic speech recognition (ASR) service that allows developers to add medical speech-to-text capabilities to their applications. Transcribe Medical provides accurate and affordable medical transcription, enabling healthcare providers, IT vendors, insurers, and pharmaceutical companies to build services that help physicians, nurses, researchers, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg"
+        },
+        {
+            "id": 1095,
+            "title": "Introducing Amazon SageMaker Operators for Kubernetes",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/",
+            "authors": "Cade Daniel, Alex Chung, Aditya Bindal, Nicholas Thomson",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2019-12-02T00:00:00",
+            "description": "AWS is excited to introduce Amazon SageMaker Operators for Kubernetes in general availability. This new feature makes it easier for developers and data scientists that use Kubernetes to train, tune, and deploy machine learning (ML) models in Amazon SageMaker. You can install these operators on your Kubernetes cluster to create Amazon SageMaker jobs natively using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png"
+        },
+        {
+            "id": 1096,
+            "title": "AWS DeepRacer Evo is coming soon, enabling developers to race their object avoidance and head-to-head models in exciting new racing formats",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-is-coming-soon-enabling-developers-to-race-their-object-avoidance-and-head-to-head-models-in-exciting-new-racing-formats/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence, AWS DeepRacer, AWS re:Invent",
+            "publishedOn": "2019-12-02T00:00:00",
+            "description": "Since the launch of AWS DeepRacer, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console, by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the 2019 AWS DeepRacer League Champion. The League [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/Site-Merch_reInvent_DeepRacerX-League_SocialMedia_2.png"
+        },
+        {
+            "id": 1097,
+            "title": "Amazon Forecast now supports the generation of forecasts at a quantile of your choice",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-the-generation-of-forecasts-at-a-quantile-of-your-choice/",
+            "authors": "Rohit Menon, Ammar Chinoy",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2019-11-27T00:00:00",
+            "description": "We are happy to announce that Amazon Forecast can now generate forecasts at a quantile of your choice. Launched at re:Invent 2018, and generally available since Aug 2019, Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/forecast-custom-quantile-3.gif"
+        },
+        {
+            "id": 1098,
+            "title": "Save on inference costs by using Amazon SageMaker multi-model endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/save-on-inference-costs-by-using-amazon-sagemaker-multi-model-endpoints/",
+            "authors": "Mark Roy, Urvashi Chowdhary",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-11-26T00:00:00",
+            "description": "Businesses are increasingly developing per-user machine learning (ML) models instead of cohort or segment-based models. They train anywhere from hundreds to hundreds of thousands of custom models based on individual user data. For example, a music streaming service trains custom models based on each listener\u2019s music history to personalize music recommendations. A taxi service trains [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/26/multi-model-endpoints-1.gif"
+        },
+        {
+            "id": 1099,
+            "title": "Automating financial decision making with deep reinforcement learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-decision-making-with-deep-reinforcement-learning/",
+            "authors": "Jeremy Curuksu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-11-26T00:00:00",
+            "description": "Machine learning (ML) is routinely used in every sector to make predictions. But beyond simple predictions, making decisions is more complicated because non-optimal short-term decisions are sometimes preferred or even necessary to enable long-term, strategic goals. Optimizing policies to make sequential decisions toward a long-term objective can be learned using a family of ML models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/11/automated-decision-making-5.gif"
+        },
+        {
+            "id": 1100,
+            "title": "Building an NLP-powered search index with Amazon Textract and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/",
+            "authors": "Mona Mona, Saurabh Shrivastava",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2019-11-26T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Organizations in all industries have a large number of physical documents. It can be difficult to extract text from a scanned document when it contains formats such as tables, forms, paragraphs, and check boxes. Organizations have been addressing these problems [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/25/architectureTextractUpdated-800.gif"
+        },
+        {
+            "id": 1101,
+            "title": "How AWS is putting machine learning in the hands of every developer and BI analyst",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-is-putting-machine-learning-in-the-hands-of-every-developer-and-bi-analyst/",
+            "authors": "Matt Asay",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-11-26T00:00:00",
+            "description": "Today AWS announced new ways for you to easily add machine learning (ML) predictions to applications and business intelligence (BI) dashboards using relational data in your Amazon Aurora database and unstructured data in Amazon S3, by simply adding a few statements to your SQL (structured query language) queries and making a few clicks in Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1102,
+            "title": "Amazon Transcribe now supports speech-to-text in 31 languages",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-speech-to-text-in-31-languages/",
+            "authors": "Shelbee Eigenbrode",
+            "tags": "Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-11-25T00:00:00",
+            "description": "We recently announced that\u00a0Amazon Transcribe now supports transcription for audio and video for\u00a07 additional languages\u00a0including\u00a0Gulf Arabic, Swiss German, Hebrew, Japanese, Malay, Telugu, and Turkish languages.\u00a0 Using Amazon Transcribe, customers can now take advantage of 31 supported languages for transcription use cases such as improving customer service, captioning and subtitling, meeting accessibility requirements, and cataloging audio [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/25/transcribe-31-2.gif"
+        },
+        {
+            "id": 1103,
+            "title": "Engage listeners with Amazon Polly\u2019s Conversational speaking style voices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/engage-listeners-with-amazon-pollys-conversational-speaking-style-voices/",
+            "authors": "Chiao-ting Fang",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-11-25T00:00:00",
+            "description": "Update: As of June 28, 2021, the Conversational speaking-style version of Matthew and Joanna voices is now the default for both NTTS voices. SSML syntax is no longer required to trigger Conversational NTTS quality. For more details, see Polly documentation. All voices are unique, yet speakers tend to adjust their delivery, or speaking style, according [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1104,
+            "title": "Announcing Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/",
+            "authors": "Anushri Mainthia",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2019-11-25T00:00:00",
+            "description": "Today, Amazon Web Services (AWS) announced Amazon Rekognition Custom Labels, a new feature of Amazon Rekognition that enables customers to build their own specialized machine learning (ML) based image analysis capabilities to detect unique objects and scenes integral to their specific use case. For example, customers using Amazon Rekognition to detect machine parts from images [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/25/SiteMerch_Rekognition-Custom-Labels_SocialMedia_2.png"
+        },
+        {
+            "id": 1105,
+            "title": "Designing conversational experiences with sentiment analysis in Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/designing-conversational-experiences-with-sentiment-analysis-in-amazon-lex/",
+            "authors": "Anubhav Mishra, Kevin Cho",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-11-21T00:00:00",
+            "description": "To have an effective conversation, it is important to understand the sentiment and respond appropriately. In a customer service call, a simple acknowledgment when talking to an unhappy customer might be helpful, such as, \u201cSorry to hear you are having trouble.\u201d Understanding sentiment is also useful in determining when you need to hand over the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/21/lex-sentiment-analysis-2.gif"
+        },
+        {
+            "id": 1106,
+            "title": "Real-time music recommendations for new users with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/real-time-music-recommendations-for-new-users-with-amazon-sagemaker/",
+            "authors": "Matt Fielder, Jordan Rosenblum",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-11-21T00:00:00",
+            "description": "This is a guest post from Matt Fielder and Jordan Rosenblum at iHeartRadio. In their own words, \u201ciHeartRadio is a streaming audio service that reaches tens of millions of users every month and registers many tens of thousands more every day.\u201d Personalization is an important part of the user experience, and we aspire to give [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/20/iheartradio-1-1.jpg"
+        },
+        {
+            "id": 1107,
+            "title": "Chaining Amazon SageMaker Ground Truth jobs to label progressively",
+            "url": "https://aws.amazon.com/blogs/machine-learning/chaining-amazon-sagemaker-ground-truth-jobs-to-label-progressively/",
+            "authors": "Priyanka Gopalakrishna, Zahid Rahman",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-11-20T00:00:00",
+            "description": "Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning. It can reduce your labeling costs by up to 70% using automatic labeling. This blog post explains the Amazon SageMaker Ground Truth chaining feature with a few examples and its potential in labeling your datasets. Chaining reduces time and cost significantly [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/14/chaining-sagemaker-ground-truth-8.gif"
+        },
+        {
+            "id": 1108,
+            "title": "Subtitling videos accurately and easily with CaptionHub and AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/subtitling-videos-accurately-and-easily-with-captionhub-and-aws/",
+            "authors": "James Jameson, Graham Pengelly",
+            "tags": "Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-11-19T00:00:00",
+            "description": "This is a guest post from Graham Pengelly, CTO, and James Jameson, the Commercial Lead, at CaptionHub. CaptionHub is a London-based company that focuses on video captioning and subtitling production for enterprise organizations. While the act of captioning\u2014that is, taking video files and making sure the text on the screen reflects what\u2019s being said accurately [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/19/captionhub-image-949x630.jpg"
+        },
+        {
+            "id": 1109,
+            "title": "Exploring images on social media using Amazon Rekognition and Amazon Athena",
+            "url": "https://aws.amazon.com/blogs/machine-learning/exploring-images-on-social-media-using-amazon-rekognition-and-amazon-athena/",
+            "authors": "Veronika Megler, Chris Ghyzel",
+            "tags": "Amazon Athena, Amazon Rekognition, Analytics, Artificial Intelligence",
+            "publishedOn": "2019-11-18T00:00:00",
+            "description": "If you\u2019re like most companies, you wish to better understand your customers and your brand image. You\u2019d like to track the success of your marketing campaigns, and the topics of interest\u2014or frustration\u2014for your customers. Social media promises to be a rich source of this kind of information, and many companies are beginning to collect, aggregate, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/12/eye-of-the-customer-twitter-1.gif"
+        },
+        {
+            "id": 1110,
+            "title": "Adding AI to your applications with ready-to-use models from AWS Marketplace",
+            "url": "https://aws.amazon.com/blogs/machine-learning/adding-ai-to-your-applications-with-ready-to-use-models-from-aws-marketplace/",
+            "authors": "Kanchan Waikar",
+            "tags": "Amazon Rekognition, Amazon SageMaker, Artificial Intelligence, AWS Marketplace",
+            "publishedOn": "2019-11-15T00:00:00",
+            "description": "Machine learning (ML) lets enterprises unlock the true potential of their data, automate decisions, and transform their business processes to deliver exponential value to their customers. To help you take advantage of ML, Amazon SageMaker provides the ability to build, train, and deploy ML models quickly. Until recently, if you used Amazon SageMaker, you could [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/04/output-f.jpg"
+        },
+        {
+            "id": 1111,
+            "title": "Custom deep reinforcement learning and multi-track training for AWS DeepRacer with Amazon SageMaker RL Notebook",
+            "url": "https://aws.amazon.com/blogs/machine-learning/custom-deep-reinforcement-learning-and-multi-track-training-for-aws-deepracer-with-amazon-sagemaker-rl-notebook/",
+            "authors": "Neal McFee, Don Barber, Sahika Genc, Sunil Mallya",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-11-14T00:00:00",
+            "description": "AWS DeepRacer, launched at re:Invent 2018, helps developers get hands on with reinforcement learning (RL).\u00a0 Since then, thousands of people have developed and raced their models at 21 AWS DeepRacer League events at AWS Summits across the world, and virtually via the AWS DeepRacer console. Beyond the summits there have been several events at AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif"
+        },
+        {
+            "id": 1112,
+            "title": "Developing a business strategy by combining machine learning with sensitivity analysis",
+            "url": "https://aws.amazon.com/blogs/machine-learning/developing-a-business-strategy-by-combining-machine-learning-with-sensitivity-analysis/",
+            "authors": "Jeremy Curuksu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-11-13T00:00:00",
+            "description": "Machine learning (ML) is routinely used by countless businesses to assist with decision making. In most cases, however, the predictions and business decisions made by ML systems still require the intuition of human users to make judgment calls. In this post, I show how to combine ML with sensitivity analysis to develop a data-driven business [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/12/Covariances.gif"
+        },
+        {
+            "id": 1113,
+            "title": "AWS DeepRacer League: The Championship lineup is complete, making for an exciting re:Invent 2019 final!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-the-championship-lineup-is-complete-making-for-an-exciting-reinvent-2019-final/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-11-08T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first autonomous racing league, open to anyone. Announced at re:Invent 2018, it puts machine learning in the hands of every developer in a fun and exciting way. Since March 2019, thousands of developers of all skill levels have competed for the chance to advance to the Championship Cup [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/08/deepracer-1.gif"
+        },
+        {
+            "id": 1114,
+            "title": "Building an interactive and scalable ML research environment using AWS ParallelCluster",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-interactive-and-scalable-ml-research-environment-using-aws-parallelcluster/",
+            "authors": "Alex Ford",
+            "tags": "Artificial Intelligence, AWS ParallelCluster, Compute",
+            "publishedOn": "2019-11-06T00:00:00",
+            "description": "When it comes to running distributed machine learning (ML) workloads, AWS offers you both managed and self-service offerings. Amazon SageMaker is a managed service that can help engineering, data science, and research teams save time and reduce operational overhead. AWS ParallelCluster is an open-source, self-service cluster management tool for customers who wish to maintain more [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1115,
+            "title": "Accenture drives machine learning growth in one of the world\u2019s largest private AWS DeepRacer Leagues",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accenture-drives-machine-learning-growth-in-one-of-the-worlds-largest-private-aws-deepracer-leagues/",
+            "authors": "Todd Escalona",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-11-06T00:00:00",
+            "description": "Accenture has a rich history of helping customers all over the world build artificial intelligence (AI) and machine learning (ML) powered solutions with AWS services. In doing so, they always look for new and engaging ways to develop their teams with the appropriate level of enablement and hands-on training. Accenture\u2019s next ML initiative is rolling [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/06/dr-1-social.png"
+        },
+        {
+            "id": 1116,
+            "title": "AWS Machine Learning Research Awards Call for Proposal",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-research-awards-call-for-proposal/",
+            "authors": "An Luo",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-11-01T00:00:00",
+            "description": "Collaborating with scientists around the globe to fund research, share knowledge and encourage innovation.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/78630dd/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa6%2F84%2Fe766d8f84e95baa7e1c96169448d%2Famazon-research-awards-logo.png"
+        },
+        {
+            "id": 1117,
+            "title": "Optimizing portfolio value with Amazon SageMaker automatic model tuning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-portfolio-value-with-amazon-sagemaker-automatic-model-tuning/",
+            "authors": "Scott Gregoire, Veronika Megler",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-10-31T00:00:00",
+            "description": "Financial institutions that extend credit face the dual tasks of evaluating the credit risk associated with each loan application and determining a threshold that defines the level of risk they are willing to take on. The evaluation of credit risk is a common application of machine learning (ML) classification models. The determination of a classification [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/17/sagemaker-portfolio-value-2.gif"
+        },
+        {
+            "id": 1118,
+            "title": "Your guide to artificial Intelligence and machine learning at re:Invent 2019",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2019/",
+            "authors": "Shyam Srinivasan",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2019-10-24T00:00:00",
+            "description": "With less than 40 days to re:Invent 2019, the excitement is building up and we are looking forward to seeing you all soon! Continuing our journey on artificial intelligence and machine learning, we are bringing a lot of technical content this year, with over 200 breakout sessions, deep-dive chalk talks, hands-on exercises with workshops featuring [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/24/reInvent_400.png"
+        },
+        {
+            "id": 1119,
+            "title": "US Spanish and Brazilian Portuguese neural voices join Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/us-spanish-and-brazilian-portuguese-neural-voices-join-amazon-polly/",
+            "authors": "Marta Smolarek",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-10-23T00:00:00",
+            "description": "Amazon Polly turns text into lifelike speech. In July 2019, AWS launched eight US English and three UK English voices in Neural Text-to-Speech (NTTS) technology, which delivers ground-breaking improvements in speech quality through a new machine learning approach. Polly is now adding the first non-English NTTS voices, in US Spanish and Brazilian Portuguese. Introducing Lupe [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1120,
+            "title": "AWS supports the Deepfake Detection Challenge with competition data and AWS credits",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-supports-the-deepfake-detection-challenge-with-competition-data-and-aws-credits/",
+            "authors": "Michelle K. Lee",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-10-21T00:00:00",
+            "description": "Today AWS is pleased to announce that it is working with Facebook, Microsoft, and the Partnership on AI on the first Deepfakes Detection Challenge. \u00a0The competition, to which we are contributing up to $1 million in AWS credits to researchers and academics over the next two years, is designed to produce technology that can be [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png"
+        },
+        {
+            "id": 1121,
+            "title": "The AWS DeepRacer League and countdown to the re:Invent Championship Cup 2019",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deepracer-league-and-countdown-to-the-reinvent-championship-cup-2019/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "The AWS DeepRacer League is the world's first autonomous racing league, open to anyone. Announced at re:Invent 2018, it puts machine learning in the hands of every developer in a fun and exciting way. Throughout 2019, developers of all skill levels have competed in the League at 21 Amazon events globally, including Amazon re:MARS and select AWS Summits, and put their skills to the test in the League's virtual circuit via the AWS DeepRacer console. The League concludes at re:Invent 2019. Log in today and start racing\u2014time is running out to win an expenses paid trip to re:Invent!",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/15/DeepRacerReInvent2.jpg"
+        },
+        {
+            "id": 1122,
+            "title": "Calculating new stats in Major League Baseball with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/calculating-new-stats-in-major-league-baseball-with-amazon-sagemaker/",
+            "authors": "Hussain Karimi, Travis Petersen (MLB), Priya Ponnapalli",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Sports",
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "This post looks at the role machine learning plays in providing fans with deeper insights into the game. We also provide code snippets that show the training and deployment process behind these insights on Amazon SageMaker.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/08/aws-mlb-1.jpg"
+        },
+        {
+            "id": 1123,
+            "title": "Managing multi-topic conversation flows with Amazon Lex Session API checkpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-multi-topic-conversation-flows-with-amazon-lex-session-api-checkpoints/",
+            "authors": "Shahab Shekari",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-10-10T00:00:00",
+            "description": "In daily conversations, you often jump back and forth between multiple topics. For example, when discussing a home improvement project related to new windows and curtains, you might have questions like, \u201cHow about closing out on curtain styles and then revisiting colors?\u201d When AWS launched Amazon Lex Session API, you learned how to address such [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/lex-session-api-1.gif"
+        }
+    ]
+}

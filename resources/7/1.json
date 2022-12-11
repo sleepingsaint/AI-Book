@@ -1,0 +1,155 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 7014,
+            "title": "Explain neural networks with keras and eli5",
+            "url": "https://www.depends-on-the-definition.com/keras-and-eli5/",
+            "authors": null,
+            "tags": "Xai, Nlp, Algorithms, Deep learning",
+            "publishedOn": "2018-06-02T00:00:00",
+            "description": "In this post, I\u2019m going to show you how you can use a neural network from keras with the LIME algorithm implemented in the eli5 TextExplainer class. For this we will write a scikit-learn compatible wrapper for a keras bidirectional LSTM model. The wrapper will also handle the tokenization and the storage of the vocabulary.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7015,
+            "title": "PyData Amsterdam 2018",
+            "url": "https://www.depends-on-the-definition.com/pydata-amsterdam-2018/",
+            "authors": null,
+            "tags": "Conference",
+            "publishedOn": "2018-05-08T00:00:00",
+            "description": "Last weekend I participated at the PyData Amsterdam 2018 Conference in, you guess it, in Amsterdam. It has been a great conference and I meet a lot of great people and had a very good time in Amsterdam.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7016,
+            "title": "Enhancing LSTMs with character embeddings for Named entity recognition",
+            "url": "https://www.depends-on-the-definition.com/lstm-with-char-embeddings-for-ner/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Deep learning",
+            "publishedOn": "2018-04-15T00:00:00",
+            "description": "This is the fifth post in my series about named entity recognition. If you haven\u2019t seen the last four, have a look now. The last time we used a CRF-LSTM to model the sequence structure of our sentences.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7017,
+            "title": "Guide to word vectors with gensim and keras",
+            "url": "https://www.depends-on-the-definition.com/guide-to-word-vectors-with-gensim-and-keras/",
+            "authors": null,
+            "tags": "Nlp, Machine learning, Kaggle",
+            "publishedOn": "2018-03-16T00:00:00",
+            "description": "Word vectors Today, I tell you what word vectors are, how you create them in python and finally how you can use them with neural networks in keras. For a long time, NLP methods use a vectorspace model to represent words.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7018,
+            "title": "How to build a smart product: Transfer Learning for Dog Breed Identification with keras",
+            "url": "https://www.depends-on-the-definition.com/transfer-learning-for-dog-breed-identification/",
+            "authors": null,
+            "tags": "Computer vision, Deep learning, Kaggle",
+            "publishedOn": "2018-02-03T00:00:00",
+            "description": "This time I will show you how to build a simple \u201cAI\u201d product with transfer learning. We will build a \u201cdog breed identification chat bot\u201d. In this first post, I will show how to build a good model using keras, augmentation, pre-trained models for transfer learning and fine-tuning.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7019,
+            "title": "Detecting Network Attacks with Isolation Forests",
+            "url": "https://www.depends-on-the-definition.com/detecting-network-attacks-with-isolation-forests/",
+            "authors": null,
+            "tags": "Anomaly detection, Machine learning",
+            "publishedOn": "2018-01-27T00:00:00",
+            "description": "In this post, I will show you how to use the isolation forest algorithm to detect attacks to computer networks in python.\nThe term isolation means separating an instance from the rest of the instances. Since anomalies are \u2018few and different\u2019 and therefore they are more susceptible to isolation.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7020,
+            "title": "A strong and simple baseline to classify toxic comments on wikipedia with keras",
+            "url": "https://www.depends-on-the-definition.com/classify-toxic-comments-on-wikipedia/",
+            "authors": null,
+            "tags": "Kaggle, Nlp, Machine learning",
+            "publishedOn": "2017-12-23T00:00:00",
+            "description": "This time we\u2019re going to discuss a current machine learning completion on kaggle. In this competition, you\u2019re challenged to build a multi-headed model that\u2019s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7021,
+            "title": "Sequence tagging with LSTM-CRFs",
+            "url": "https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Deep learning",
+            "publishedOn": "2017-11-27T00:00:00",
+            "description": "This is the fourth post in my series about named entity recognition. If you haven\u2019t seen the last three, have a look now. The last time we used a recurrent neural network to model the sequence structure of our sentences.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7022,
+            "title": "Guide to sequence tagging with neural networks",
+            "url": "https://www.depends-on-the-definition.com/guide-sequence-tagging-neural-networks-python/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Deep learning",
+            "publishedOn": "2017-10-22T00:00:00",
+            "description": "This is the third post in my series about named entity recognition. If you haven\u2019t seen the last two, have a look now. The last time we used a conditional random field to model the sequence structure of our sentences.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7023,
+            "title": "Named entity recognition with conditional random fields in python",
+            "url": "https://www.depends-on-the-definition.com/named-entity-recognition-conditional-random-fields-python/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Machine learning",
+            "publishedOn": "2017-09-10T00:00:00",
+            "description": "This is the second post in my series about named entity recognition. If you haven\u2019t seen the first one, have a look now. Last time we started by memorizing entities for words and then used a simple classification model to improve the results a bit.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7024,
+            "title": "Introduction to named entity recognition in python",
+            "url": "https://www.depends-on-the-definition.com/introduction-named-entity-recognition-python/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp",
+            "publishedOn": "2017-08-26T00:00:00",
+            "description": "In this post, I will introduce you to something called Named Entity Recognition (NER). NER is a part of natural language processing (NLP) and information retrieval (IR). The task in NER is to find the entity-type of words.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7025,
+            "title": "Classifying genres of movies by looking at the poster - A neural approach",
+            "url": "https://www.depends-on-the-definition.com/classifying-genres-of-movies-by-looking-at-the-poster-a-neural-approach/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Computer vision",
+            "publishedOn": "2017-08-12T00:00:00",
+            "description": "In this article, we will apply the concept of multi-label multi-class classification with neural networks from the last post, to classify movie posters by genre. First we import the usual suspects in python.\nimport numpy as np import pandas as pd import glob import scipy.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7026,
+            "title": "Guide to multi-class multi-label classification with neural networks in python",
+            "url": "https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning",
+            "publishedOn": "2017-08-11T00:00:00",
+            "description": "Often in machine learning tasks, you have multiple possible labels for one sample that are not mutually exclusive. This is called a multi-class, multi-label classification problem. Obvious suspects are image classification and text classification, where a document can have multiple topics.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7027,
+            "title": "Efficient AWS usage for deep learning",
+            "url": "https://www.depends-on-the-definition.com/efficient-aws-for-deep-learning/",
+            "authors": null,
+            "tags": "Deep learning, Aws",
+            "publishedOn": "2017-08-01T00:00:00",
+            "description": "When running experiments with deep neural nets you want to use appropriate hardware. Most of the time I work on a thinkpad laptop with no GPU. This makes experimenting painfully slow. A convenient way is to use an AWS instance, for example the p2.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7028,
+            "title": "Getting started with Multivariate Adaptive Regression Splines",
+            "url": "https://www.depends-on-the-definition.com/getting-started-with-multivariate-adaptive-regression-spline/",
+            "authors": null,
+            "tags": "Algorithms, Machine learning",
+            "publishedOn": "2017-07-30T00:00:00",
+            "description": "In this post we will introduce multivariate adaptive regression splines model (MARS) using python. This is a regression model that can be seen as a non-parametric extension of the standard linear model.\nThe multivariate adaptive regression splines model MARS builds a model of the from",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        }
+    ]
+}

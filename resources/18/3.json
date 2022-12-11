@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10127,
+            "title": "Roboflow\u2019s Python Pip Package For Computer Vision",
+            "url": "https://blog.roboflow.com/pip-install-roboflow/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2022-05-11T00:00:00",
+            "description": "Regardless of whether your project is a new product line, a new industrial production system, a research project, or a personal one to help you learn what computer vision is all about, you'll want to add \"pip install roboflow\" to your code - and here's why.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/python_pip_package_computer_vision.webp"
+        },
+        {
+            "id": 10128,
+            "title": "Roboflow Changelog: April 2022",
+            "url": "https://blog.roboflow.com/changelog-april-2022/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-05-06T00:00:00",
+            "description": "April showers brings May flowers, and here's a bouquet of flower datasets from Roboflow Universe you can use today!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/Roboflow-Changelog-April-2022-1.jpg"
+        },
+        {
+            "id": 10129,
+            "title": "Cinco de Mayo, Beer and Taco Dataset with Multi-Label Classification",
+            "url": "https://blog.roboflow.com/cinco-de-mayo-beer-and-taco-dataset-with-multi-label-classification/",
+            "authors": "Mohamed Traore, Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-05-05T00:00:00",
+            "description": "A multi-label classification dataset to detect some favorite Cinco de Mayo food used to celebrate the holiday here in the United States",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/multi-label-classification.webp"
+        },
+        {
+            "id": 10130,
+            "title": "Machine vision applications with wearable devices",
+            "url": "https://blog.roboflow.com/machine-vision-applications/",
+            "authors": "Jay Lowe",
+            "tags": null,
+            "publishedOn": "2022-05-03T00:00:00",
+            "description": "XR Tech uses a body mounted camera, and streams media to machine vision models trained using Roboflow to produce a \u201csmart\u201d safety system.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/rf_xrtech_machine_vision_wearable_devices.jpg"
+        },
+        {
+            "id": 10131,
+            "title": "Art Recognition with a Computer Vision Model",
+            "url": "https://blog.roboflow.com/computer-vision-art-recognition/",
+            "authors": "Lukas Kelsey-Friedemann",
+            "tags": null,
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "This model predicts what artistic movement and style a painting falls within. Predictions span from Early Renaissance to Pop Art. Try it yourself",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/roboflow_art.webp"
+        },
+        {
+            "id": 10132,
+            "title": "What is Instance Segmentation? A Guide with Roboflow.",
+            "url": "https://blog.roboflow.com/instance-segmentation-roboflow/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-04-13T00:00:00",
+            "description": "We are excited to release support for instance segmentation projects on Roboflow.  Instance segmentation allows your computer vision model to know the specific outline of an object in an image, unlocking new use cases for Roboflow in your application.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/04/roboflow_launch_instance_segmentation.jpg"
+        },
+        {
+            "id": 10133,
+            "title": "How to Train Detectron2 for Custom Instance Segmentation",
+            "url": "https://blog.roboflow.com/detectron2-custom-instance-segmentation/",
+            "authors": "Paul Guerrie, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-04-13T00:00:00",
+            "description": "A walk through on how to train Detectron2 to segment your custom objects from any image by providing our model with example training data.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/04/custom_segmentation_detectron2.jpg"
+        },
+        {
+            "id": 10134,
+            "title": "Roboflow Changelog: March 2022",
+            "url": "https://blog.roboflow.com/changelog-march-2022/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-04-04T00:00:00",
+            "description": "Spring is finally here and there is computer vision in the air! Each month, we share a recap of product and company updates, read more here.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/Roboflow-Changelog-March-2022.jpg"
+        },
+        {
+            "id": 10135,
+            "title": "Launch: End to End Multi-Label Classification",
+            "url": "https://blog.roboflow.com/multi-label-classification/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-04-03T00:00:00",
+            "description": "Multi-label classification lets your model learn and predict multiple classes for a given image instead of just one.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/04/rf_multilabel_classification.jpg"
+        },
+        {
+            "id": 10136,
+            "title": "The Ultimate Computer Vision Deployment Guide (Which Computer Vision Deployment Method is Best for You?)",
+            "url": "https://blog.roboflow.com/computer-vision-deployment-method/",
+            "authors": "Jay Lowe, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2022-04-02T00:00:00",
+            "description": "The data you work with will greatly influence how you deploy your model. Selecting the correct deployment method is a simple decision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/computer-vision-deployment-method.webp"
+        },
+        {
+            "id": 10137,
+            "title": "Computer Vision Saves 4.95 Billion Internet Users from Rickrolling",
+            "url": "https://blog.roboflow.com/rick-realtime-intrusion-checker-kernel/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-04-01T00:00:00",
+            "description": "Roboflow, a software business that builds tools for developers to use computer vision, is releasing Real-time Intrusion Checker Kernel (RICK)",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/04/rf_RICK_model6.jpg"
+        },
+        {
+            "id": 10138,
+            "title": "How many images do you need to train a model?",
+            "url": "https://blog.roboflow.com/images-train-model/",
+            "authors": "Jacob Rosenbacher",
+            "tags": null,
+            "publishedOn": "2022-03-24T00:00:00",
+            "description": "A model can work with 100 images or with 10,000. It  depends on what you are doing and the level of accuracy required for you to use your model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/how_many_images_to_train.jpg"
+        },
+        {
+            "id": 10139,
+            "title": "Improving Computer Vision Datasets and Models",
+            "url": "https://blog.roboflow.com/improve-computer-vision-model/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2022-03-24T00:00:00",
+            "description": "Common tips and tricks to improve your computer or machine vision dataset, including using Roboflow Train and the Dataset Health Check tools.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/09/big-mohamed.001.jpeg"
+        },
+        {
+            "id": 10140,
+            "title": "CVAT - Getting Started with  Computer Vision Annotation Tool",
+            "url": "https://blog.roboflow.com/cvat/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-03-21T00:00:00",
+            "description": "In this post, learn about CVAT's ability to make object detection annotations on images. See the steps used to annotate a public aerial dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/cvat_labeling-1.webp"
+        },
+        {
+            "id": 10141,
+            "title": "Convert Annotation Formats EASY (26 available Formats \ud83d\ude31)",
+            "url": "https://blog.roboflow.com/convert-annotation-formats/",
+            "authors": "Lukas Kelsey-Friedemann",
+            "tags": null,
+            "publishedOn": "2022-03-16T00:00:00",
+            "description": "Computer vision datasets come in many formats, and sometimes they\u2019re less than ideal. We solve this problem by offering 26 annotations formats.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/roboflow_convert_format-1.webp"
+        },
+        {
+            "id": 10142,
+            "title": "Introducing New and Improved Roboflow Train",
+            "url": "https://blog.roboflow.com/new-and-improved-roboflow-train/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-03-09T00:00:00",
+            "description": "We incorporated advancements in computer vision research and learnings from users to create new training and deployment infrastructure.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/new_improved_roboflow_train.webp"
+        },
+        {
+            "id": 10143,
+            "title": "What to Think About When Choosing Model Sizes",
+            "url": "https://blog.roboflow.com/computer-vision-model-tradeoff/",
+            "authors": "Jacob Solawetz, Paul Guerrie",
+            "tags": null,
+            "publishedOn": "2022-03-08T00:00:00",
+            "description": "When training any machine learning model, you must trade off inference speed for accuracy. Larger models with more parameters are uniformly more accurate, and smaller models with fewer parameters are uniformly faster to infer.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/roboflow_model_size_tradeoffs.webp"
+        },
+        {
+            "id": 10144,
+            "title": "Building a U.S. License Plate Detection Model And Sharing It On Roboflow Universe",
+            "url": "https://blog.roboflow.com/license-plate-detection-model/",
+            "authors": "Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-03-08T00:00:00",
+            "description": "Building a U.S. license plate object detection model with open source dataset using Roboflow and computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/license-plate-model-detection.webp"
+        },
+        {
+            "id": 10145,
+            "title": "Roboflow Changelog: February 2022",
+            "url": "https://blog.roboflow.com/changelog-february-2022/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-03-07T00:00:00",
+            "description": "Even though it's the shortest month of the year, we accomplished a lot!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/Roboflow-Changelog-February-2022.webp"
+        },
+        {
+            "id": 10146,
+            "title": "Precision and Recall in Machine Learning",
+            "url": "https://blog.roboflow.com/precision-and-recall/",
+            "authors": "Jay Lowe",
+            "tags": null,
+            "publishedOn": "2022-03-03T00:00:00",
+            "description": "Understand how precision and recall affect your model's performance and choose when to optimize between precision or recall.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/rf_blog_precision_and_recall.webp"
+        },
+        {
+            "id": 10147,
+            "title": "Testing A Computer Vision Model In 10 Seconds Or Less",
+            "url": "https://blog.roboflow.com/testing-a-computer-vision-model-in-10-seconds-or-less/",
+            "authors": "Lukas Kelsey-Friedemann",
+            "tags": null,
+            "publishedOn": "2022-02-23T00:00:00",
+            "description": "You can test a model by selecting either a file from your device or dragging and dropping one on the screen",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/testing-computer-vision-models-in-10-seconds-or-less--1--1.webp"
+        },
+        {
+            "id": 10148,
+            "title": "How To Avoid Bias In Computer Vision Models",
+            "url": "https://blog.roboflow.com/how-to-avoid-bias-in-computer-vision-models/",
+            "authors": "Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-02-14T00:00:00",
+            "description": "Today we\u2019re going to dive into the technical side of avoiding bias in computer vision models, to give you an introduction into the topic.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/How-To-Avoid-Bias-In-Computer-Vision-Models-2.png"
+        },
+        {
+            "id": 10149,
+            "title": "Identifying Chocolates With Computer Vision",
+            "url": "https://blog.roboflow.com/identifying-chocolates-with-computer-vision/",
+            "authors": "Karen Weiss",
+            "tags": null,
+            "publishedOn": "2022-02-09T00:00:00",
+            "description": "It\u2019s Valentine\u2019s Day, and your sweetheart has given you a beautiful box of chocolates. You pick out a delicious looking bonbon, bite into it, and\u2026it\u2019s your least favorite filling. How disappointing! To avoid this type of heartbreak, some people resort to nibbling corners, or poking a",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/roboflow_valentines_day_computer_vision.png"
+        },
+        {
+            "id": 10150,
+            "title": "How to Train Computer Vision Models on Aerial Imagery",
+            "url": "https://blog.roboflow.com/how-to-use-roboflow-with-aerial-imagery/",
+            "authors": "Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-02-07T00:00:00",
+            "description": "Aerial imagery are images taken from aircrafts like drones, planes, and helicopters. With these images we can train a model to detect objects like fires, buildings, solar panels, rooftops, maritime search and rescue, and more. A good use case example is when maritime search and rescue (SAR) teams search for",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/twitterCardAerialResize-1.png"
+        },
+        {
+            "id": 10151,
+            "title": "Roboflow Changelog: January 2022",
+            "url": "https://blog.roboflow.com/changelog-january-2022/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-02-04T00:00:00",
+            "description": "It might be cold outside, but Roboflow is bringing the heat to kick off 2022! Each month, we share a recap of product and company updates; if you missed last month's edition of the Roboflow Changelog, you can find it here. Roboflow Organize Major update to the Annotations workflow making",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/January-2022.jpg"
+        },
+        {
+            "id": 10152,
+            "title": "Launch: Collaborative Annotations",
+            "url": "https://blog.roboflow.com/annotation-workflow/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "Roboflow Annotate has become an essential tool used by tens of thousands of developers to label images of everything from planes to petri dishes. Since its launch just over a year ago, it has made creating training data for your computer vision models simple and fast. But there's more to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/roboflow_collaborative_annotations.png"
+        },
+        {
+            "id": 10153,
+            "title": "Introducing the Roboflow Universe Dataset Research Internship",
+            "url": "https://blog.roboflow.com/roboflow-universe-dataset-internship/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-01-18T00:00:00",
+            "description": "We are seeking an intern who would be interested in first-authoring the paper that introduces the Roboflow Universe Datasets.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/01/Blog-Image-Template--Fall-2021---6-.jpg"
+        },
+        {
+            "id": 10154,
+            "title": "Roboflow Changelog: December 2021",
+            "url": "https://blog.roboflow.com/changelog-december-2021/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-01-06T00:00:00",
+            "description": "Even though the year was coming to a close and holidays gave us the chance to spend time with family and friends, we kept our focus right up to the end in order to make Roboflow even better. Each month, we share a recap of product and company updates to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/01/Blog-Image-Template--Fall-2021-.jpg"
+        },
+        {
+            "id": 10155,
+            "title": "SageMaker Studio Lab vs Google Colab",
+            "url": "https://blog.roboflow.com/sagemaker-studio-lab-vs-google-colab/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-12-27T00:00:00",
+            "description": "Recently, AWS released SageMaker Studio Lab, its competitor service to Google Colab. I dove into comparing Google Colab to Studio Lab and here is what I found.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/12/studio_lab_comparison.001.jpeg"
+        },
+        {
+            "id": 10156,
+            "title": "Introducing the Roboflow Inference Widget",
+            "url": "https://blog.roboflow.com/introducing-the-roboflow-inference-widget/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-12-22T00:00:00",
+            "description": "Now, you can easily test any model that has been trained with Roboflow Train by dragging an image file onto your dataset version page.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/12/Blog-Image-Template--Fall-2021---5-.jpg"
+        }
+    ]
+}

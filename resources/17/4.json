@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10009,
+            "title": "Requests for Research 2.0",
+            "url": "https://openai.com/blog/requests-for-research-2/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-01-31T00:00:00",
+            "description": "We're releasing a new batch of seven unsolved problems which have come up in the\ncourse of our research at OpenAI. Like our original Requests for Research\n[https://github.com/openai/requests-for-research] (which resulted\n[http://lstm.seas.harvard.edu/latex/] in [http://kvfrans.com/static/trpo.pdf] \nseveral [https://github.",
+            "thumbnail": "https://openai.com/content/images/2018/01/openai-logo.png"
+        },
+        {
+            "id": 10010,
+            "title": "Scaling Kubernetes to 2,500 Nodes",
+            "url": "https://openai.com/blog/scaling-kubernetes-to-2500-nodes/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-01-18T00:00:00",
+            "description": "We've been running [https://blog.openai.com/infrastructure-for-deep-learning/] \nKubernetes [https://kubernetes.io/] for deep learning research for over two\nyears. While our largest-scale workloads manage bare cloud VMs directly,\nKubernetes provides a fast iteration cycle, reasonable scalability, and a lack\nof boilerplate which makes it ideal for most of our",
+            "thumbnail": "https://openai.com/content/images/2018/01/disk-latency-alt-1-1.png"
+        },
+        {
+            "id": 10011,
+            "title": "Block-Sparse GPU Kernels",
+            "url": "https://openai.com/blog/block-sparse-gpu-kernels/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-12-06T00:00:00",
+            "description": "We\u2019re releasing highly-optimized GPU kernels for an underexplored class of neural network architectures: networks with block-sparse weights. Depending on the chosen sparsity, these kernels can run orders of magnitude faster than cuBLAS or cuSPARSE.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10012,
+            "title": "Learning a Hierarchy",
+            "url": "https://openai.com/blog/learning-a-hierarchy/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-10-26T00:00:00",
+            "description": "We've developed a hierarchical reinforcement learning algorithm that learns\nhigh-level actions useful for solving a range of tasks, allowing fast solving of\ntasks requiring thousands of timesteps. Our algorithm, when applied to a set of\nnavigation problems, discovers a set of high-level actions for walking and\ncrawling in different directions,",
+            "thumbnail": "https://openai.com/content/images/2017/10/mlsh_hierarchy.png"
+        },
+        {
+            "id": 10013,
+            "title": "Generalizing from Simulation",
+            "url": "https://openai.com/blog/generalizing-from-simulation/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-10-19T00:00:00",
+            "description": "Our latest robotics techniques allow robot controllers, trained entirely in\nsimulation and deployed on physical robots, to react to unplanned changes in the\nenvironment as they solve simple tasks. That is, we've used these techniques to\nbuild closed-loop\n[https://en.wikipedia.org/wiki/Control_theory#Classical_control_theory] systems\nrather",
+            "thumbnail": "https://openai.com/content/images/2017/10/test046.png"
+        },
+        {
+            "id": 10014,
+            "title": "Meta-Learning for Wrestling",
+            "url": "https://openai.com/blog/meta-learning-for-wrestling/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-10-11T00:00:00",
+            "description": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to physical malfunction.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10015,
+            "title": "Competitive Self-Play",
+            "url": "https://openai.com/blog/competitive-self-play/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-10-11T00:00:00",
+            "description": "We've found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with these skills in mind.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10016,
+            "title": "Nonlinear Computation in Deep Linear Networks",
+            "url": "https://openai.com/blog/nonlinear-computation-in-linear-networks/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-09-29T00:00:00",
+            "description": "We've shown that deep linear networks \u2014 as implemented using floating-point\narithmetic \u2014 are not actually linear and can perform nonlinear computation. We\nused evolution strategies to find parameters in linear networks that exploit\nthis trait, letting us solve non-trivial problems.\n\nNeural networks consist of stacks of a linear layer followed by",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10017,
+            "title": "Learning to Model Other Minds",
+            "url": "https://openai.com/blog/learning-to-model-other-minds/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-09-14T00:00:00",
+            "description": "We're releasing an algorithm which accounts for the fact that other agents are\nlearning too, and discovers self-interested yet collaborative strategies like \ntit-for-tat\n[https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/axelrod.html] \nin the iterated prisoner's dilemma. This algorithm, Learning with\nOpponent-Learning Awareness (LOLA), is a",
+            "thumbnail": "https://openai.com/content/images/2017/09/Screenshot-2017-09-14-09.13.44.png"
+        },
+        {
+            "id": 10018,
+            "title": "OpenAI Baselines: ACKTR & A2C",
+            "url": "https://openai.com/blog/baselines-acktr-a2c/",
+            "authors": null,
+            "tags": "Research, Milestones, OpenAI Baselines",
+            "publishedOn": "2017-08-18T00:00:00",
+            "description": "We're releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we've found gives equal performance.",
+            "thumbnail": "https://openai.com/content/images/2017/08/2x-no-mark--2-.jpg"
+        },
+        {
+            "id": 10019,
+            "title": "More on Dota 2",
+            "url": "https://openai.com/blog/more-on-dota-2/",
+            "authors": null,
+            "tags": "Research, OpenAI Five",
+            "publishedOn": "2017-08-16T00:00:00",
+            "description": "Our Dota 2 result [https://blog.openai.com/dota-2/] shows that self-play can\ncatapult the performance of machine learning systems from far below human level\nto superhuman, given sufficient compute. In the span of a month, our system went\nfrom barely matching a high-ranked player to beating the top pros",
+            "thumbnail": "https://openai.com/content/images/2017/08/chart-1-1.png"
+        },
+        {
+            "id": 10020,
+            "title": "Dota 2",
+            "url": "https://openai.com/blog/dota-2/",
+            "authors": null,
+            "tags": "Research, OpenAI Five",
+            "publishedOn": "2017-08-11T00:00:00",
+            "description": "We've created a bot which beats the world's top professionals at 1v1 matches of \nDota 2 [http://www.dota2.com/] under standard tournament rules. The bot learned\nthe game from scratch by self-play, and does not use imitation learning or tree\nsearch. This is a step towards building AI systems",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10021,
+            "title": "OpenAI at The International",
+            "url": "https://openai.com/blog/the-international/",
+            "authors": null,
+            "tags": "Events, OpenAI Five",
+            "publishedOn": "2017-08-11T00:00:00",
+            "description": "We've created an AI which beats the world's top professionals at 1v1 matches of Dota 2. Watch us play on main stage during The International.",
+            "thumbnail": "https://openai.com/content/images/2021/06/openai-the-international-social.jpg"
+        },
+        {
+            "id": 10022,
+            "title": "Gathering Human Feedback",
+            "url": "https://openai.com/blog/gathering_human_feedback/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-08-03T00:00:00",
+            "description": "RL-Teacher [https://github.com/nottombrown/rl-teacher] is an open-source\nimplementation of our interface to train AIs via occasional human feedback\nrather than hand-crafted reward functions. The underlying technique was \ndeveloped\n[https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/] as\na step towards safe AI systems, but also applies to reinforcement learning\nproblems with",
+            "thumbnail": "https://openai.com/content/images/2017/08/ballerina_ui.jpg"
+        },
+        {
+            "id": 10023,
+            "title": "Better Exploration with Parameter Noise",
+            "url": "https://openai.com/blog/better-exploration-with-parameter-noise/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-07-27T00:00:00",
+            "description": "We've found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it's worth trying on any problem.",
+            "thumbnail": "https://openai.com/content/images/2017/07/2x-1.jpg"
+        },
+        {
+            "id": 10024,
+            "title": "Proximal Policy Optimization",
+            "url": "https://openai.com/blog/openai-baselines-ppo/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-07-20T00:00:00",
+            "description": "We\u2019re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune.",
+            "thumbnail": "https://openai.com/content/images/2017/07/Screenshot-2017-07-20-08.45.19.png"
+        },
+        {
+            "id": 10025,
+            "title": "Robust Adversarial Inputs",
+            "url": "https://openai.com/blog/robust-adversarial-inputs/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-07-17T00:00:00",
+            "description": "We've created images that reliably fool neural network classifiers when viewed\nfrom varied scales and perspectives. This challenges a claim\n[https://arxiv.org/abs/1707.03501] from last week that self-driving cars would\nbe hard to trick maliciously since they capture images from multiple scales,\nangles, perspectives, and the like.",
+            "thumbnail": "https://openai.com/content/images/2017/07/Screen-Shot-2017-07-17-at-8.59.33-AM.png"
+        },
+        {
+            "id": 10026,
+            "title": "Faster Physics in Python",
+            "url": "https://openai.com/blog/faster-robot-simulation-in-python/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-28T00:00:00",
+            "description": "We're open-sourcing a high-performance Python library for robotic simulation\nusing the MuJoCo [http://www.mujoco.org/changelist.html] engine, developed over\nour past year of robotics research.\n\nView Code [https://github.com/openai/mujoco-py]View Docs\n[https://openai.github.io/mujoco-py/build/html/index.html]This library is one of",
+            "thumbnail": "https://openai.com/content/images/2019/03/robospin.gif"
+        },
+        {
+            "id": 10027,
+            "title": "Learning from Human Preferences",
+            "url": "https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-13T00:00:00",
+            "description": "One step towards building safe AI systems is to remove the need for humans to\nwrite goal functions, since using a simple proxy for a complex goal, or getting\nthe complex goal a bit wrong, can lead to undesirable and even dangerous\nbehavior [https://arxiv.org/abs/1606.06565]. In",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10028,
+            "title": "Learning to Cooperate, Compete, and Communicate",
+            "url": "https://openai.com/blog/learning-to-cooperate-compete-and-communicate/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-08T00:00:00",
+            "description": "Multiagent environments where agents compete for resources are stepping stones\non the path to AGI. Multiagent environments have two useful properties: first,\nthere is a natural curriculum\u2014the difficulty of the environment is determined by\nthe skill of your competitors (and if you're competing against clones of\nyourself, the environment",
+            "thumbnail": "https://blog.openai.com/content/images/2017/06/chase_gif_final.gif"
+        },
+        {
+            "id": 10029,
+            "title": "OpenAI Baselines: DQN",
+            "url": "https://openai.com/blog/openai-baselines-dqn/",
+            "authors": null,
+            "tags": "Research, Milestones, OpenAI Baselines",
+            "publishedOn": "2017-05-24T00:00:00",
+            "description": "We're open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We'll release the algorithms over upcoming months; today's release includes DQN and three of its variants.",
+            "thumbnail": "https://openai.com/content/images/2017/05/2x-2.jpg"
+        },
+        {
+            "id": 10030,
+            "title": "Robots that Learn",
+            "url": "https://openai.com/blog/robots-that-learn/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-05-16T00:00:00",
+            "description": "We've created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.",
+            "thumbnail": "https://openai.com/content/images/2017/05/twitter_card_cover_4inits.png"
+        },
+        {
+            "id": 10031,
+            "title": "Roboschool",
+            "url": "https://openai.com/blog/roboschool/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-05-15T00:00:00",
+            "description": "We are releasing Roboschool [https://github.com/openai/roboschool]: open-source\nsoftware for robot simulation, integrated with OpenAI Gym\n[https://github.com/openai/gym].\n\nYour browser does not support the video tag. Three control policies running on\nthree different robots, racing each other in Roboschool. You can re-enact this\nscene by",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10032,
+            "title": "Unsupervised Sentiment Neuron",
+            "url": "https://openai.com/blog/unsupervised-sentiment-neuron/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-04-06T00:00:00",
+            "description": "We\u2019ve developed an unsupervised system which learns an excellent representation of sentiment, despite being trained only to predict the next character in the text of Amazon reviews.",
+            "thumbnail": "https://openai.com/content/images/2017/04/2x.jpg"
+        },
+        {
+            "id": 10033,
+            "title": "Spam Detection in the Physical World",
+            "url": "https://openai.com/blog/spam-detection-in-the-physical-world/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-04-01T00:00:00",
+            "description": "We've created the world's first Spam-detecting AI trained entirely in simulation and deployed on a physical robot.",
+            "thumbnail": "https://openai.com/content/images/2017/04/spam.jpg"
+        },
+        {
+            "id": 10034,
+            "title": "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
+            "url": "https://openai.com/blog/evolution-strategies/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2017-03-24T00:00:00",
+            "description": "We've discovered that evolution strategies (ES), an optimization technique that's been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchmarks, while overcoming many of RL's inconveniences.",
+            "thumbnail": "https://openai.com/content/images/2017/03/2x-2.jpg"
+        },
+        {
+            "id": 10035,
+            "title": "Distill",
+            "url": "https://openai.com/blog/distill/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-03-20T00:00:00",
+            "description": "We're excited to support today's launch of Distill [http://distill.pub/about/],\na\u00a0new kind of journal aimed at excellent communication of machine learning\nresults (novel\u00a0or\u00a0existing).\n\nDistill is a website and set of associated tools that make it easier for people\nto explain machine learning concepts using modern",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10036,
+            "title": "Learning to Communicate",
+            "url": "https://openai.com/blog/learning-to-communicate/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-03-16T00:00:00",
+            "description": "In this post we'll outline new OpenAI research in which agents develop their own\nlanguage.Our hypothesis is that true language understanding will come from\nagents that learn words in combination with how they affect the world, rather\nthan spotting patterns in a huge corpus of text. As a first",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10037,
+            "title": "Attacking Machine Learning with Adversarial Examples",
+            "url": "https://openai.com/blog/adversarial-example-research/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-02-24T00:00:00",
+            "description": "Adversarial examples [https://arxiv.org/abs/1312.6199] are inputs to machine\nlearning models that an attacker has intentionally designed to cause the model\nto make a mistake; they're like optical illusions for machines. In this post\nwe'll show how adversarial examples work across different mediums, and will\ndiscuss why",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 10038,
+            "title": "Team Update",
+            "url": "https://openai.com/blog/team-update-january/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2017-01-30T00:00:00",
+            "description": "The OpenAI team is now 45 people. Together, we're pushing the frontier of AI\ncapabilities \u2014 whether by validating novel ideas, creating new software systems,\nor deploying machine learning on robots. We continue [https://openai.com/jobs] to\nlook for creative, motivated researchers and engineers to help us achieve our \ngoals",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        }
+    ]
+}

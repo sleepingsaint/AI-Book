@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6908,
+            "title": "Prefrontal cortex as a meta-reinforcement learning system",
+            "url": "https://www.deepmind.com/blog/prefrontal-cortex-as-a-meta-reinforcement-learning-system",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-05-14T00:00:00",
+            "description": "Recently, AI systems have mastered a range of video-games such as Atari classics Breakout and Pong. But as impressive as this performance is, AI still relies on the equivalent of thousands of hours of gameplay to reach and surpass the performance of human video game players. In contrast, we can usually grasp the basics of a video game we have never played before in a matter of minutes.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622689798a29ed3e92cc0c39_MetaRL.jpg"
+        },
+        {
+            "id": 6909,
+            "title": "Navigating with grid-like representations in artificial agents",
+            "url": "https://www.deepmind.com/blog/navigating-with-grid-like-representations-in-artificial-agents",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-05-09T00:00:00",
+            "description": "Most animals, including humans, are able to flexibly navigate the world they live in \u2013 exploring new areas, returning quickly to remembered places, and taking shortcuts. Indeed, these abilities feel so easy and natural that it is not immediately obvious how complex the underlying processes really are. In contrast, spatial navigation remains a substantial challenge for artificial agents whose abilities are far outstripped by those of mammals.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622687264afb63bd34ebbb99_GridCells.jpg"
+        },
+        {
+            "id": 6910,
+            "title": "DeepMind, meet Android",
+            "url": "https://www.deepmind.com/blog/deepmind-meet-android",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2018-05-08T00:00:00",
+            "description": "We\u2019re delighted to announce a new collaboration between DeepMind for Google and Android, the world\u2019s most popular mobile operating system. Together, we\u2019ve created two new features that will be available to people with devices running Android P later this year",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6911,
+            "title": "DeepMind papers at ICLR 2018",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-iclr-2018",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2018-04-26T00:00:00",
+            "description": "Between 30 April and 03 May, hundreds of researchers and engineers will gather in Vancouver, Canada, for the Sixth International Conference on Learning Representations.",
+            "thumbnail": null
+        },
+        {
+            "id": 6912,
+            "title": "Our first COO Lila Ibrahim takes DeepMind to the next level",
+            "url": "https://www.deepmind.com/blog/our-first-coo-lila-ibrahim-takes-deepmind-to-the-next-level",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2018-04-11T00:00:00",
+            "description": "One of the greatest pleasures of coming to work every day at DeepMind is the chance to collaborate with brilliant researchers and engineers from so many different fields and perspectives - with machine learning experts alongside neuroscientists, physicists, mathematicians, roboticists, ethicists and more.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6913,
+            "title": "Learning to navigate in cities without a map",
+            "url": "https://www.deepmind.com/blog/learning-to-navigate-in-cities-without-a-map",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-03-29T00:00:00",
+            "description": "How did you learn to navigate the neighborhood of your childhood, to go to a friend\u2019s house, to your school or to the grocery store? Probably without a map and simply by remembering the visual appearance of streets and turns along the way. As you gradually explored your neighborhood, you grew more confident, mastered your whereabouts and learned new and increasingly complex paths. You may have gotten briefly lost, but found your way again thanks to landmarks, or perhaps even by looking to the sun for an impromptu compass.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6914,
+            "title": "Retour \u00e0 Paris / A return to Paris",
+            "url": "https://www.deepmind.com/blog/a-return-to-paris",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2018-03-29T00:00:00",
+            "description": "When we set up our headquarters in London in 2010, we wanted to make DeepMind the best possible place to do cutting-edge AI research. We also wanted to help the wider AI community grow - publishing peer-reviewed papers (over 180 to date, and counting!) and sharing our insights to advance the field, supporting our staff to teach at local universities, and working with schools and NGOs to foster the next generation of scientists.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622683cd8a29ed7a43ca3582_Remi%20Munos.jpg"
+        },
+        {
+            "id": 6915,
+            "title": "Learning to write programs that generate images",
+            "url": "https://www.deepmind.com/blog/learning-to-write-programs-that-generate-images",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-03-27T00:00:00",
+            "description": "Through a human\u2019s eyes, the world is much more than just the images reflected in our corneas. For example, when we look at a building and admire the intricacies of its design, we can appreciate the craftsmanship it requires. This ability to interpret objects through the tools that created them gives us a richer understanding of the world and is an important aspect of our intelligence. We would like our systems to create similarly rich representations of the world. For example, when observing an image of a painting we would like them to understand the brush strokes used to create it and not just the pixels that represent it on a screen.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6916,
+            "title": "Understanding deep learning through neuron deletion",
+            "url": "https://www.deepmind.com/blog/understanding-deep-learning-through-neuron-deletion",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-03-21T00:00:00",
+            "description": "Deep neural networks are composed of many individual neurons, which combine in complex and counterintuitive ways to solve a wide range of challenging tasks. This complexity grants neural networks their power but also earns them their reputation as confusing and opaque black boxes.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6917,
+            "title": "Stop, look and listen to the people you want to help",
+            "url": "https://www.deepmind.com/blog/stop-look-and-listen-to-the-people-you-want-to-help",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-03-06T00:00:00",
+            "description": "\u2018I like to take things slow. Take it slowly and get it right first time,\u2019 one participant said, but was quickly countered by someone else around the table: \u2018But I\u2019m impatient, I want to see the benefits now.\u2019 This exchange neatly captures many of the conversations I heard at DeepMind Health\u2019s recent Collaborative Listening Summit. It also represents, in layman\u2019s terms, the debate that tech thinkers and policy-makers are having right now about the future of artificial intelligence.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6918,
+            "title": "Learning by playing",
+            "url": "https://www.deepmind.com/blog/learning-by-playing",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-02-28T00:00:00",
+            "description": "Getting children (and adults) to tidy up after themselves can be a challenge, but we face an even greater challenge trying to get our AI agents to do the same. Success depends on the mastery of several core visuo-motor skills: approaching an object, grasping and lifting it, opening a box and putting things inside of it. To make matters more complicated, these skills must be applied in the right sequence.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62267c322052c251a82a12a1_unnamed%20copy.jpg"
+        },
+        {
+            "id": 6919,
+            "title": "Researching patient deterioration with the US Department of Veterans Affairs",
+            "url": "https://www.deepmind.com/blog/researching-patient-deterioration-with-the-us-department-of-veterans-affairs",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-02-22T00:00:00",
+            "description": "We\u2019re excited to announce a medical research partnership with the US Department of Veterans Affairs (VA), one of the world\u2019s leading healthcare organisations responsible for providing high-quality care to veterans and their families across the United States.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6920,
+            "title": "Scalable agent architecture for distributed training",
+            "url": "https://www.deepmind.com/blog/scalable-agent-architecture-for-distributed-training",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-02-05T00:00:00",
+            "description": "Deep Reinforcement Learning (DeepRL) has achieved remarkable success in a range of tasks, from continuous control problems in robotics to playing games like Go and Atari. The improvements seen in these domains have so far been limited to individual tasks where a separate agent has been tuned and trained for each task.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6921,
+            "title": "Learning explanatory rules from noisy data",
+            "url": "https://www.deepmind.com/blog/learning-explanatory-rules-from-noisy-data",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-01-29T00:00:00",
+            "description": "Suppose you are playing football. The ball arrives at your feet, and you decide to pass it to the unmarked striker. What seems like one simple action requires two different kinds of thought.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6922,
+            "title": "Open-sourcing Psychlab",
+            "url": "https://www.deepmind.com/blog/open-sourcing-psychlab",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-01-26T00:00:00",
+            "description": "Consider the simple task of going shopping for your groceries. If you fail to pick-up an item that is on your list, what does it tell us about the functioning of your brain? It might indicate that you have difficulty shifting your attention from object to object while searching for the item on your list. It might indicate a difficulty with remembering the grocery list. Or it could it be something to do with executing both skills simultaneously.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6923,
+            "title": "Game-theory insights into asymmetric multi-agent games",
+            "url": "https://www.deepmind.com/blog/game-theory-insights-into-asymmetric-multi-agent-games",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-01-17T00:00:00",
+            "description": "As AI systems start to play an increasing role in the real world it is important to understand how different systems will interact with one another.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6924,
+            "title": "2017: DeepMind's year in review",
+            "url": "https://www.deepmind.com/blog/2017-deepminds-year-in-review",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-12-21T00:00:00",
+            "description": "In July, the world number one Go player Ke Jie spoke after a streak of 20 wins. It was two months after he had played AlphaGo at the Future of Go Summit in Wuzhen, China.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6925,
+            "title": "Collaborating with patients for better outcomes",
+            "url": "https://www.deepmind.com/blog/collaborating-with-patients-for-better-outcomes",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-12-19T00:00:00",
+            "description": "Working as a doctor in the NHS for over 10 years, I felt that I had developed good understanding of how patients and their families felt when faced with an upsetting diagnosis or important health decision. I had been lucky with my own health, having only spent one night in hospital for what ended up being a false alarm. But when my son was born prematurely two years ago, I had a glimpse into what being on the other side feels like - an experience that has profoundly shaped my thinking today.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6926,
+            "title": "DeepMind papers at NIPS 2017",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-nips-2017",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2017-12-01T00:00:00",
+            "description": "Between 04-09 December, thousands of researchers and experts will gather for the Thirty-first Annual Conference on Neural Information Processing Systems (NIPS) in Long Beach, California.",
+            "thumbnail": null
+        },
+        {
+            "id": 6927,
+            "title": "Why doesn't Streams use AI?",
+            "url": "https://www.deepmind.com/blog/why-doesnt-streams-use-ai",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-11-29T00:00:00",
+            "description": "One of the questions I\u2019m most often asked about Streams, our secure mobile healthcare app, is \u201cwhy is DeepMind making something that doesn\u2019t use artificial intelligence?\u201d",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6928,
+            "title": "Specifying AI safety problems in simple environments",
+            "url": "https://www.deepmind.com/blog/specifying-ai-safety-problems-in-simple-environments",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-11-28T00:00:00",
+            "description": "As AI systems become more general and more useful in the real world, ensuring they behave safely will become even more important. To date, the majority of technical AI safety research has focused on developing a theoretical understanding about the nature and causes of unsafe behaviour. Our new paper builds on a recent shift towards empirical testing (see Concrete Problems in AI Safety) and introduces a selection of simple reinforcement learning environments designed specifically to measure \u2018safe behaviours\u2019.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6929,
+            "title": "Population based training of neural networks",
+            "url": "https://www.deepmind.com/blog/population-based-training-of-neural-networks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-11-27T00:00:00",
+            "description": "Neural networks have shown great success in everything from playing Go and Atari games to image recognition and language translation. But often overlooked is that the success of a neural network at a particular application is often determined by a series of choices made at the start of the research, including what type of network to use and the data and method used to train it. Currently, these choices - known as hyperparameters - are chosen through experience, random search or a computationally intensive search processes.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6930,
+            "title": "Applying machine learning to mammography screening for breast cancer",
+            "url": "https://www.deepmind.com/blog/applying-machine-learning-to-mammography-screening-for-breast-cancer",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-11-24T00:00:00",
+            "description": "We founded DeepMind Health to develop technologies that could help address some of society\u2019s toughest challenges. So we\u2019re very excited to announce that our latest research partnership will focus on breast cancer.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6931,
+            "title": "High-fidelity speech synthesis with WaveNet",
+            "url": "https://www.deepmind.com/blog/high-fidelity-speech-synthesis-with-wavenet",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-11-22T00:00:00",
+            "description": "In October we announced that our state-of-the-art speech synthesis model WaveNet was being used to generate realistic-sounding voices for the Google Assistant globally in Japanese and the US English. This production model - known as parallel WaveNet - is more than 1000 times faster than the original and also capable of creating higher quality audio.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6932,
+            "title": "Sharing our insights from designing with clinicians",
+            "url": "https://www.deepmind.com/blog/sharing-our-insights-from-designing-with-clinicians",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-11-10T00:00:00",
+            "description": "In our design studio, we have Indi Young\u2019s mantra on the wall as a reminder to \u201cfall in love with the problem, not the solution\u201d. Nowhere is this more true than in health, where there are so many real problems to address, and where introducing theoretically clever but practically flawed software could easily do more harm than good.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6933,
+            "title": "Bringing Streams to Yeovil District Hospital NHS Foundation Trust",
+            "url": "https://www.deepmind.com/blog/bringing-streams-to-yeovil-district-hospital-nhs-foundation-trust",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-11-05T00:00:00",
+            "description": "We\u2019re excited to announce that we\u2019ve agreed a five year partnership with Yeovil District Hospital NHS Foundation Trust. We\u2019ll be providing them with Streams, our secure mobile app that helps nurses and doctors access important clinical information and get the right care to the right patient as quickly as possible.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6934,
+            "title": "AlphaGo Zero: Starting from scratch",
+            "url": "https://www.deepmind.com/blog/alphago-zero-starting-from-scratch",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-10-18T00:00:00",
+            "description": "Artificial intelligence research has made rapid progress in a wide variety of domains from speech recognition and image classification to genomics and drug discovery. In many cases, these are specialist systems that leverage enormous amounts of human expertise and data.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62266f9efe434cec045e45cf_AlphaGoZero.jpg"
+        },
+        {
+            "id": 6935,
+            "title": "Strengthening our commitment to Canadian research",
+            "url": "https://www.deepmind.com/blog/strengthening-our-commitment-to-canadian-research",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-10-06T00:00:00",
+            "description": "Three months ago we announced the opening of DeepMind\u2019s first ever international AI research laboratory in Edmonton, Canada. Today, we are thrilled to announce that we are strengthening our commitment to the Canadian AI community with the opening of a DeepMind office in Montreal, in close collaboration with McGill University.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6936,
+            "title": "WaveNet launches in the Google Assistant",
+            "url": "https://www.deepmind.com/blog/wavenet-launches-in-the-google-assistant",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2017-10-04T00:00:00",
+            "description": "Just over a year ago we presented WaveNet, a new deep neural network for generating raw audio waveforms that is capable of producing better and more realistic-sounding speech than existing techniques. At that time, the model was a research prototype and was too computationally intensive to work in consumer products.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6937,
+            "title": "Why we launched DeepMind Ethics & Society",
+            "url": "https://www.deepmind.com/blog/why-we-launched-deepmind-ethics-society",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-10-03T00:00:00",
+            "description": "At DeepMind, we\u2019re proud of the role we\u2019ve played in pushing forward the science of AI, and our track record of exciting breakthroughs and major publications. We believe AI can be of extraordinary benefit to the world, but only if held to the highest ethical standards. Technology is not value neutral, and technologists must take responsibility for the ethical and social impact of their work.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

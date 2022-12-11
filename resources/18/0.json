@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15092,
+            "title": "Track Football Players with Computer Vision",
+            "url": "https://blog.roboflow.com/track-football-players/",
+            "authors": "Piotr Skalski",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "In this post, we use a YOLOv5 detection model and state-of-the-art tracker ByteTRACK to track football players.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/12/Copy-of-Blog-Image-Template--2-.jpg"
+        },
+        {
+            "id": 15066,
+            "title": "Preventing Accidents on Construction Sites with Computer Vision",
+            "url": "https://blog.roboflow.com/preventing-accidents-on-construction-sites-with-computer-vision/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-12-07T00:00:00",
+            "description": "In this article, we discuss how a community member built a system to prevent accidents on construction sites.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/12/Blog-Image-Template---James--1-.jpg"
+        },
+        {
+            "id": 15004,
+            "title": "Studying Links Between Litter and Socio-Economic Factors with Computer Vision",
+            "url": "https://blog.roboflow.com/litter-detection-computer-vision/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "In this post, we talk about a report that studies links between litter and socio-economic factors with help from computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/12/Blog-Image-Template---James--1-.png"
+        },
+        {
+            "id": 14982,
+            "title": "How to Create Segmentation Masks with Roboflow",
+            "url": "https://blog.roboflow.com/how-to-create-segmentation-masks-with-roboflow/",
+            "authors": "Jay Lowe",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "In this guide, you will learn how to create segmentation masks with the results of a computer vision model hosted on Roboflow.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James--2--1.jpg"
+        },
+        {
+            "id": 14971,
+            "title": "Top 6 Environment Datasets for Computer Vision Projects",
+            "url": "https://blog.roboflow.com/top-environment-datasets-for-computer-vision-projects/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "In this article, we highlight six open-source datasets you can use to solve various problems related to the environment with computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-1.png"
+        },
+        {
+            "id": 14955,
+            "title": "Roboflow 100  \ud83d\udcf8",
+            "url": "https://blog.roboflow.com/roboflow-100/",
+            "authors": "Francesco, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "Roboflow 100 (RF100) is a crowdsourced object detection benchmark. The dataset consists of 100 datasets, 7 imagery domains, 224,714 images, and 829 class labels with over 11,170 labeling hours.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/rf100blog-mosaicthing.jpg"
+        },
+        {
+            "id": 14956,
+            "title": "Turn Analog Dials into Digital Data with Computer Vision",
+            "url": "https://blog.roboflow.com/read-analog-dials-computer-vision/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "In this article, we discuss how to turn information displayed on analog dials into digital data.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James--1--1.jpg"
+        },
+        {
+            "id": 14932,
+            "title": "What is a Confusion Matrix? A Beginner's Guide.",
+            "url": "https://blog.roboflow.com/what-is-a-confusion-matrix/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "In this guide, we discuss what a confusion matrix is and how to use them to evaluate the performance of a computer vision model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/confussion-matrix-2.png"
+        },
+        {
+            "id": 14907,
+            "title": "Monitoring My Caffeine Intake with Computer Vision",
+            "url": "https://blog.roboflow.com/untitled-2/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "About a month ago, I quit drinking coffee cold-turkey. Up until that point, I regularly consumed coffee, and I had been experimenting with having more coffee in my day because I both enjoyed the taste and the ritual of making coffee. This gradual increase, although initially tasty, was not a",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-4.jpg"
+        },
+        {
+            "id": 14909,
+            "title": "Monitoring My Caffeine Intake with Computer Vision",
+            "url": "https://blog.roboflow.com/caffeine-monitoring-computer-vision/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "In this post, learn how to build a tool that monitors how many cups of tea or coffee you drink in a day.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-4.jpg"
+        },
+        {
+            "id": 14912,
+            "title": "What is Image Classification? A Guide for Beginners",
+            "url": "https://blog.roboflow.com/what-is-image-classification/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "In this guide, we talk about what image classification is and what problems you can solve with image classification.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James--1-.jpg"
+        },
+        {
+            "id": 14919,
+            "title": "5 Hobbyist Computer Vision Project Ideas",
+            "url": "https://blog.roboflow.com/hobbyist-computer-vision-projects/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "This article discusses five ideas of projects you could build to help you learn about computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James--2-.jpg"
+        },
+        {
+            "id": 14451,
+            "title": "Deploying Machine Learning Models with PyTorch, gRPC and asyncio",
+            "url": "https://blog.roboflow.com/deploy-machine-learning-models-pytorch-grpc-asyncio/",
+            "authors": "Francesco",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Today we're going to see how to deploy a machine-learning model behind gRPC service running via asyncio.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Copy-of-Blog-Image-Template.jpg"
+        },
+        {
+            "id": 14446,
+            "title": "What is Transfer Learning? A Guide for Beginners.",
+            "url": "https://blog.roboflow.com/what-is-transfer-learning/",
+            "authors": "Petru Potrimba",
+            "tags": null,
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Transfer learning is a computer vision technique where a new model is built upon an existing model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-3.jpg"
+        },
+        {
+            "id": 14416,
+            "title": "What is Zero-Shot Learning? A Deep Dive.",
+            "url": "https://blog.roboflow.com/what-is-zero-shot-learning/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "This post was contributed by Derrick Mwiti, a machine learning developer advocate, for the Roboflow blog. Training computer vision models requires large datasets to obtain good results. However, getting large labeled datasets is often challenging unless a dataset that meets your requirements is already available (which is rare). Consider the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-2.jpg"
+        },
+        {
+            "id": 14421,
+            "title": "Using Computer Vision to Save Sea Lions",
+            "url": "https://blog.roboflow.com/computer-vision-sea-lion-research/",
+            "authors": "Andrew Salama",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "This article describes the use of computer vision to help the conservation of the endangered Steller sea lion species.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Cover-Image-1.webp"
+        },
+        {
+            "id": 14426,
+            "title": "How to Use RPA to Supercharge Computer Vision Applications",
+            "url": "https://blog.roboflow.com/rpa-computer-vision-applications-power-automate/",
+            "authors": "Tyler Odenthal",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "This post will walk you through each step in the process to build RPA into your computer vision application.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template--2-.jpg"
+        },
+        {
+            "id": 14409,
+            "title": "Use Docker to Deploy Computer Vision Models",
+            "url": "https://blog.roboflow.com/docker-deploy-computer-vision-models/",
+            "authors": "Piotr Skalski",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "This blog post is about why you should use Docker in your Deep Learning ecosystem.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Copy-of-Blog-Image-Template.webp"
+        },
+        {
+            "id": 10055,
+            "title": "Launch: Roboflow Command-line Interface",
+            "url": "https://blog.roboflow.com/roboflow-command-line-interface-for-computer-vision/",
+            "authors": "Thomas Hansen",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "The Roboflow CLI shows information about your workspaces, uploads images and annotations, and performs inference from your command line.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/rf_launch_cli.jpg"
+        },
+        {
+            "id": 10056,
+            "title": "Top 6 Gaming Datasets for Computer Vision Projects",
+            "url": "https://blog.roboflow.com/top-gaming-datasets-for-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "Explore the top 6 gaming datasets from Roboflow Universe to build computer vision applications for video games or real world games.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/rf_universe_gaming_datasets.jpg"
+        },
+        {
+            "id": 10057,
+            "title": "Top 7 Sports Datasets for Computer Vision Projects",
+            "url": "https://blog.roboflow.com/top-sports-datasets-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "This post will discuss the top 7 sports datasets available in Roboflow Universe.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/rf_universe_sport_datasets.jpg"
+        },
+        {
+            "id": 10058,
+            "title": "Identifying Objects in Multimedia Databases with Computer Vision",
+            "url": "https://blog.roboflow.com/identifying-objects-in-multimedia-databases-with-computer-vision/",
+            "authors": "James Gallagher",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "In this post, we discuss research from Prof. Luigi Laura and Mirko Cangiano showing how to identify objects in multimedia databases.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James.png"
+        },
+        {
+            "id": 10059,
+            "title": "Synthetic Data Generation with Stable Diffusion: A Guide",
+            "url": "https://blog.roboflow.com/synthetic-data-with-stable-diffusion-a-guide/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "In this tutorial, we walk through how to generate images with Stable Diffusion for use in a computer vision model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/1203296989178981.N8Egd09yTZjM3cRrJgDy_height640.png"
+        },
+        {
+            "id": 10060,
+            "title": "Detecting and Reading QR Codes Using Computer\u00a0Vision",
+            "url": "https://blog.roboflow.com/reading-qr-codes-using-computer-vision/",
+            "authors": "Lukka Chaitanya",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "In this article, we're going to walk through how to detect and read QR codes using Roboflow and Python.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/11/Blog-Image-Template---James-1.jpg"
+        },
+        {
+            "id": 10061,
+            "title": "Overfitting in Machine Learning and Computer Vision",
+            "url": "https://blog.roboflow.com/overfitting-machine-learning-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Overfitting is when a model fits exactly against its training data. The quality of a model worsens when overfitting occurs.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--6-.webp"
+        },
+        {
+            "id": 10062,
+            "title": "Top 6 Agriculture Datasets for Computer Vision",
+            "url": "https://blog.roboflow.com/top-agriculture-datasets-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "This post will show you 6 of the best open source datasets for computer vision tasks in the agriculture industry.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_universe_agriculture_datasets.jpg"
+        },
+        {
+            "id": 10063,
+            "title": "Using AI to Count Calories from Photos with SnapCalorie",
+            "url": "https://blog.roboflow.com/count-calories-from-photos-computer-vision/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "See how a mobile application enables users to take a picture of any meal and determine the calories, fat, carbs, and protein.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/snapcalorie_case_study_rfblog_logo.jpg"
+        },
+        {
+            "id": 10064,
+            "title": "School Bus Detection Using YOLOv5 (Tutorial \u2013 Part 2)",
+            "url": "https://blog.roboflow.com/school-bus-detection-yolov5/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Learn how to train YOLOv5 to detect a school bus using Roboflow and CometML",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--5-.webp"
+        },
+        {
+            "id": 10065,
+            "title": "Blurring Faces to Preserve Privacy with Computer\u00a0Vision",
+            "url": "https://blog.roboflow.com/face-blur-privacy-computer-vision/",
+            "authors": "Lukka Chaitanya",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "This post will show you how to train a computer vision model to detect faces from an image and blur the detected faces.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--4-.webp"
+        },
+        {
+            "id": 10066,
+            "title": "Launch: Semantic Segmentation for Labeling, Training, Deployment",
+            "url": "https://blog.roboflow.com/semantic-segmentation-roboflow/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Roboflow now supports semantic segmentation projects end-to-end from labeling, to training, and inference.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_launch_semantic_segmentation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 764,
+            "title": "AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It\u2019s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League\u2019s virtual circuit via the AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/Thumbnail-1120x630.jpg"
+        },
+        {
+            "id": 765,
+            "title": "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
+            "authors": "Phi Nguyen, Roberto Bruno Martins",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence",
+            "publishedOn": "2020-12-11T00:00:00",
+            "description": "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist\u2019s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying a model in production are managing dependencies and environments, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg"
+        },
+        {
+            "id": 766,
+            "title": "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/",
+            "authors": "Muhyun Kim, Chaim Rand",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-10T00:00:00",
+            "description": "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature in Debugger to detect such bottlenecks. In the context [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg"
+        },
+        {
+            "id": 767,
+            "title": "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-streaming-ingestion-with-amazon-sagemaker-feature-store-to-make-ml-backed-decisions-in-near-real-time/",
+            "authors": "Paul Hargis, Arunprasath Shankar, Megan Leoni, Mark Roy",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-10T00:00:00",
+            "description": "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily spend more than 60% of their time designing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Architecture-Chart.jpg"
+        },
+        {
+            "id": 768,
+            "title": "AWS and NVIDIA achieve the fastest training times for Mask R-CNN and T5-3B",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-achieve-the-fastest-training-times-for-mask-r-cnn-and-t5-3b/",
+            "authors": "Aditya Bindal, Anish Mohan, Brian Pickering, Derya Cavdar, Ben Snyder, Khaled ElGalaind, Jared Nielsen, Abhinav Sharma",
+            "tags": "Amazon SageMaker, Artificial Intelligence, PyTorch on AWS, Tensorflow on AWS",
+            "publishedOn": "2020-12-10T00:00:00",
+            "description": "Note: At the AWS re:Invent Machine Learning Keynote we announced performance records for T5-3B and Mask-RCNN. This blog post includes updated numbers with additional optimizations since the keynote aired live on 12/8. At re:Invent 2019, we demonstrated the fastest training times on the cloud for Mask R-CNN, a popular instance segmentation model, and BERT, a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Mask-RCNN-Tensorflow.jpg"
+        },
+        {
+            "id": 769,
+            "title": "Customizing and reusing models generated by Amazon SageMaker Autopilot",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customizing-and-reusing-models-generated-by-amazon-sagemaker-autopilot/",
+            "authors": "Simon Zamarin, Piali Das, Qingwei Li",
+            "tags": "Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence",
+            "publishedOn": "2020-12-10T00:00:00",
+            "description": "Amazon SageMaker Autopilot automatically trains and tunes the best machine learning (ML) models for classification or regression problems while allowing you to maintain full control and visibility. This not only allows data analysts, developers, and data scientists to train, tune, and deploy models with little to no code, but you can also review a generated [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1214-5.jpg"
+        },
+        {
+            "id": 770,
+            "title": "Making sense of your health data with Amazon HealthLake",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
+            "authors": "Dr. Taha A. Kass-Hout, Dr. Matt Wood",
+            "tags": "Amazon HealthLake, Artificial Intelligence, AWS re:Invent, Events, Healthcare, Healthcare",
+            "publishedOn": "2020-12-09T00:00:00",
+            "description": "We\u2019re excited to announce Amazon HealthLake, a new HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud, at petabyte scale. HealthLake uses machine learning (ML) models trained to automatically understand and extract meaningful medical data from raw, disparate data, such [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 771,
+            "title": "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identify-bottlenecks-improve-resource-utilization-and-reduce-ml-training-costs-with-the-new-profiling-feature-in-amazon-sagemaker-debugger/",
+            "authors": "Mona Mona, Prem Ranga, Sireesha Muppala",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-09T00:00:00",
+            "description": "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters before a model yields acceptable accuracy. CPU- and GPU-based distributed training with frameworks such as Horovod and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/HeatMap.jpg"
+        },
+        {
+            "id": 772,
+            "title": "Amazon Forecast Weather Index \u2013 automatically include local weather to increase your forecasting model accuracy",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
+            "authors": "Namita Das, Christy Bergman, Gunjan Garg",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-12-09T00:00:00",
+            "description": "We\u2019re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions, staffing requirements, and energy consumption needs. However, acquiring, cleaning, and effectively using live [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1572-12.jpg"
+        },
+        {
+            "id": 773,
+            "title": "New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-amazon-sagemaker-neo-features-to-run-more-models-faster-and-more-efficiently-on-more-hardware-platforms/",
+            "authors": "Tingwei Huang, Vin Sharma",
+            "tags": "Amazon SageMaker, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Amazon SageMaker Neo enables developers to train machine learning (ML) models once and optimize them to run on any Amazon SageMaker endpoints in the cloud and supported devices at the edge. Since Neo was first announced at re:Invent 2018, we have been continuously working with the Neo-AI open-source communities and several hardware partners to increase [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 774,
+            "title": "Model dynamism Support in Amazon SageMaker Neo",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-dynamism-support-in-amazon-sagemaker-neo/",
+            "authors": "Zhi Chen",
+            "tags": "Amazon SageMaker, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Amazon SageMaker Neo was launched at AWS re:Invent 2018. It made notable performance improvement on models with statically known input and output data shapes, typically image classification models. These models are usually composed of a stack of blocks that contain compute-intensive operators, such as convolution and matrix multiplication. Neo applies a series of optimizations to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 775,
+            "title": "Amazon SageMaker Neo makes it easier to get faster inference for more ML models with NVIDIA TensorRT",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-neo-makes-it-easier-to-get-faster-inference-for-more-ml-models-with-nvidia-tensorrt/",
+            "authors": "Trevor Morris",
+            "tags": "Amazon SageMaker, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Amazon SageMaker Neo now uses the NVIDIA TensorRT acceleration library to increase the speedup of machine learning (ML) models on NVIDIA Jetson devices at the edge and AWS g4dn and p3 instances in the AWS Cloud. Neo compiles models from TensorFlow, TFLite, MXNet, PyTorch, ONNX, and DarkNet to make optimal use of NVIDIA GPUs, providing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 776,
+            "title": "Optimizing ML models for iOS and MacOS devices with Amazon SageMaker Neo and Core ML",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-ml-models-for-ios-and-macos-devices-with-amazon-sagemaker-neo-and-core-ml/",
+            "authors": "Lokesh Gupta",
+            "tags": "Amazon SageMaker, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Core ML is a machine learning (ML) model format created and supported by Apple that compiles, deploys, and runs on Apple devices. Developers who train their models in popular frameworks such as TensorFlow and PyTorch convert models to Core ML format to deploy them on Apple devices. AWS has automated the model conversion to Core [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 777,
+            "title": "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo",
+            "url": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
+            "authors": "Wei Xiao",
+            "tags": "Amazon SageMaker, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks and many platforms. We created the ML compiler [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 778,
+            "title": "Predicting soccer goals in near real time using computer vision",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
+            "authors": "Daliana Zhen Liu, Andrej Bratko, Jure Prevc, Luka Pataky, Mehdi Noori, Suchitra Sathyanarayana, Uros Lipovsek",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Sports",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals. With machine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg"
+        },
+        {
+            "id": 779,
+            "title": "Incremental learning: Optimizing search relevance at scale using machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/",
+            "authors": "Jean-Pierre Dodel, Tom McMahon",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you\u2019re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it\u2019s growing. In fact, International Data Corporation (IDC) predicts that 80% of all data will be unstructured [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg"
+        },
+        {
+            "id": 780,
+            "title": "Getting started with the Amazon Kendra Google Drive connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
+            "authors": "Juan Bustos, David Shute",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations, Google Drive is a core part of their productivity suite, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/07/ML-1811-1.jpg"
+        },
+        {
+            "id": 781,
+            "title": "How Thomson Reuters accelerated research and development of natural language processing solutions with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/",
+            "authors": "Mark Roy, Qingwei Li",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "This post is co-written by John Duprey and Filippo Pompili from Thomson Reuters. Thomson Reuters (TR) is one of the world\u2019s most trusted providers of answers, helping professionals make confident decisions and run better businesses. Teams of experts from TR bring together information, innovation, and confident insights to unravel complex situations, and their worldwide network [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/08/tr-1-685x630.gif"
+        },
+        {
+            "id": 782,
+            "title": "Using a test framework to design better experiences with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+            "authors": "Shanthan Kesharaju, Claire Mitchell, Marty Jiang",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test, and deployment practices. This post provides you with a framework that helps [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/ML-972-1.jpg"
+        },
+        {
+            "id": 783,
+            "title": "Automated model refresh with streaming data",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-model-refresh-with-streaming-data/",
+            "authors": "Mehdi Noori, Tesfagabir Meharizghi, Yohei Nakayama, Ninad Kulkarni",
+            "tags": "Amazon Kinesis, Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-03T00:00:00",
+            "description": "In today\u2019s world, being able to quickly bring on-premises machine learning (ML) models to the cloud is an integral part of any cloud migration journey. This post provides a step-by-step guide for launching a solution that facilitates the migration journey for large-scale ML workflows. This solution was developed by the Amazon ML Solutions Lab for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1505-1-509x630.jpg"
+        },
+        {
+            "id": 784,
+            "title": "Performing simulations at scale with Amazon SageMaker Processing and R on RStudio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/performing-simulations-at-scale-with-amazon-sagemaker-processing-and-r-on-rstudio/",
+            "authors": "Michael Hsieh, Joshua Broyde",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": "Statistical analysis and simulation are prevalent techniques employed in various fields, such as healthcare, life science, and financial services. The open-source statistical language R and its rich ecosystem with more than 16,000 packages has been a top choice for statisticians, quant analysts, data scientists, and machine learning (ML) engineers. RStudio is an integrated development environment [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/ML-1333-1.jpg"
+        },
+        {
+            "id": 785,
+            "title": "Delivering operational insights directly to your on-call team by integrating Amazon DevOps Guru with Atlassian Opsgenie",
+            "url": "https://aws.amazon.com/blogs/machine-learning/delivering-operational-insights-directly-to-your-on-call-team-by-integrating-amazon-devops-guru-with-atlassian-opsgenie/",
+            "authors": "Adam Strickland",
+            "tags": "Artificial Intelligence, DevOps",
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": "As organizations continue to adopt microservices, the number of disparate services that contribute to delivering applications increases, driving the scope of signals that on-call teams monitor to grow exponentially. It\u2019s becoming more important than ever for these teams to have tools that can quickly and autonomously detect anomalous behaviors across the services they support. Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/ML-1752-7.jpg"
+        },
+        {
+            "id": 786,
+            "title": "Introducing AWS Panorama \u2013 Improve your operations with computer vision at the edge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge/",
+            "authors": "Banu Nagasundaram, Jason Copeland",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Panorama",
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": "Yesterday at AWS re:Invent 2020, we announced AWS Panorama, a new machine learning (ML) Appliance and SDK, which allows organizations to bring computer vision (CV) to their on-premises cameras to make automated predictions with high accuracy and low latency. In this post, you learn how customers across a range of industries are using AWS Panorama [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/Panorama-Device.jpg"
+        },
+        {
+            "id": 787,
+            "title": "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-panorama-device-sdk-scaling-computer-vision-at-the-edge-with-aws-panorama-enabled-devices/",
+            "authors": "Shardul Brahmbhatt, Kamal Garg",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Panorama, AWS re:Invent",
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without requiring video streamed to the cloud) to improve [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
+        },
+        {
+            "id": 788,
+            "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+            "authors": "Chaitanya Hazarey, Rama Thamman, Pavan Kumar Sunder",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-12-01T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality models. You can one-click deploy your [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg"
+        },
+        {
+            "id": 789,
+            "title": "What\u2019s around the turn in 2021? AWS DeepRacer League announces new divisions, rewards, and community leagues",
+            "url": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-12-01T00:00:00",
+            "description": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. The action is already underway at the Championship Cup at AWS re:Invent [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/30/ML-1878-1-1-752x630.jpg"
+        },
+        {
+            "id": 790,
+            "title": "Private package installation in Amazon SageMaker running in internet-free mode",
+            "url": "https://aws.amazon.com/blogs/machine-learning/private-package-installation-in-amazon-sagemaker-running-in-internet-free-mode/",
+            "authors": "Saeed Aghabozorgi, Stefan Natu",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS CodeArtifact, Developer Tools",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Amazon SageMaker Studio notebooks and Amazon SageMaker notebook instances are internet-enabled by default. However, many regulated industries, such as financial industries, healthcare, telecommunications, and others, require that network traffic traverses their own Amazon Virtual Private Cloud (Amazon VPC) to restrict and control which traffic can go through public internet. Although you can disable direct internet [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Private-package-installation-8.jpg"
+        },
+        {
+            "id": 791,
+            "title": "Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster",
+            "url": "https://aws.amazon.com/blogs/machine-learning/securing-data-analytics-with-an-amazon-sagemaker-notebook-instance-and-kerberized-amazon-emr-cluster/",
+            "authors": "James Sun, Graham Zulauf",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Ever since Amazon SageMaker was introduced at AWS re:Invent 2017, customers have used the service to quickly and easily build and train machine learning (ML) models and directly deploy them into a production-ready hosted environment. SageMaker notebook instances provide a powerful, integrated Jupyter notebook interface for easy access to data sources for exploration and analysis. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1222-1.jpg"
+        },
+        {
+            "id": 792,
+            "title": "Customization, automation and scalability in customer service: Integrating Genesys Cloud and AWS Contact Center Intelligence",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customization-automation-and-scalability-in-customer-service-integrating-genesys-cloud-and-aws-contact-center-intelligence/",
+            "authors": "Rebecca Owens, Julian Hernandez",
+            "tags": "Amazon Lex, Artificial Intelligence, Contact Center",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "This is a guest post authored by Rebecca Owens and Julian Hernandez, who work at Genesys Cloud.\u00a0 Legacy technology limits organizations in their ability to offer excellent customer service to users. Organizations must design, establish, and implement their customer relationship strategies while balancing against operational efficiency concerns. Another factor to consider is the constant evolution [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Integrating-Genesys-Cloud-1.jpg"
+        },
+        {
+            "id": 793,
+            "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
+            "authors": "Esther Lee",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we\u2019re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions with low latency for these languages, we\u2019re also announcing availability of Amazon Transcribe streaming in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        }
+    ]
+}

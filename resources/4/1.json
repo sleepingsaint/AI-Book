@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6364,
+            "title": "Learning What To Do by Simulating the Past",
+            "url": "https://bair.berkeley.edu/blog/2021/05/03/rlsp/",
+            "authors": "David Lindner, Rohin Shah",
+            "tags": null,
+            "publishedOn": "2021-05-03T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/rlsp/cheetah_past_trajectory.png"
+        },
+        {
+            "id": 6365,
+            "title": "An EPIC way to evaluate reward functions",
+            "url": "https://bair.berkeley.edu/blog/2021/04/20/epic/",
+            "authors": "Adam Gleave, Michael Dennis, Shane Legg, Stuart Russell and Jan Leike",
+            "tags": null,
+            "publishedOn": "2021-04-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/epic/07_vase.png"
+        },
+        {
+            "id": 6366,
+            "title": "The Importance of Hyperparameter Optimization for Model-based Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2021/04/19/mbrl/",
+            "authors": "Nathan Lambert, Baohe Zhang, Raghu Rajan, Andr\u00e9 Biedenkapp",
+            "tags": null,
+            "publishedOn": "2021-04-19T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/mbrl/mbrl.png"
+        },
+        {
+            "id": 6367,
+            "title": "Pretrained Transformers as Universal Computation Engines",
+            "url": "https://bair.berkeley.edu/blog/2021/03/23/universal-computation/",
+            "authors": "Kevin Lu, Aditya Grover, Pieter Abbeel, and Igor Mordatch",
+            "tags": null,
+            "publishedOn": "2021-03-23T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/universal-computation/attention_visual.png"
+        },
+        {
+            "id": 6368,
+            "title": "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "url": "https://bair.berkeley.edu/blog/2021/03/09/maxent-robust-rl/",
+            "authors": "Ben Eysenbach",
+            "tags": null,
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/maxent-robust-rl/peg_maxent_screenshot.png"
+        },
+        {
+            "id": 6369,
+            "title": "Self-Supervised Policy Adaptation during Deployment",
+            "url": "https://bair.berkeley.edu/blog/2021/02/25/ss-adaptation/",
+            "authors": "Nicklas Hansen and Xiaolong Wang",
+            "tags": null,
+            "publishedOn": "2021-02-25T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/ss-adaptation/3_framework_1.png"
+        },
+        {
+            "id": 6370,
+            "title": "The Successor Representation, $\\gamma$-Models, and Infinite-Horizon Prediction",
+            "url": "https://bair.berkeley.edu/blog/2021/01/05/successor/",
+            "authors": "Michael Janner",
+            "tags": null,
+            "publishedOn": "2021-01-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/successor/gamma-teaser.png"
+        },
+        {
+            "id": 6371,
+            "title": "Does GPT-2 Know Your Phone Number?",
+            "url": "https://bair.berkeley.edu/blog/2020/12/20/lmmem/",
+            "authors": "Eric Wallace, Florian Tram\u00e8r, Matthew Jagielski, and Ariel Herbert-Voss",
+            "tags": null,
+            "publishedOn": "2020-12-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/lmmem/fig1.png"
+        },
+        {
+            "id": 6372,
+            "title": "Offline Reinforcement Learning: How Conservative Algorithms Can Enable New Applications",
+            "url": "https://bair.berkeley.edu/blog/2020/12/07/offline/",
+            "authors": "Aviral Kumar and Avi Singh",
+            "tags": null,
+            "publishedOn": "2020-12-07T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/offline/tease.png"
+        },
+        {
+            "id": 6373,
+            "title": "Learning State Abstractions for Long-Horizon Planning",
+            "url": "https://bair.berkeley.edu/blog/2020/11/20/sgm/",
+            "authors": "Scott Emmons*, Ajay Jain*, Michael Laskin*, Thanard Kurutach, Pieter Abbeel, Deepak Pathak",
+            "tags": null,
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/sgm/fig1.png"
+        },
+        {
+            "id": 6374,
+            "title": "Goodhart\u2019s Law, Diversity and a Series of Seemingly Unrelated Toy Problems",
+            "url": "https://bair.berkeley.edu/blog/2020/11/13/ridge-rider/",
+            "authors": "Aldo Pacchiano, Jack Parker-Holder, Luke Metz, and Jakob Foerster",
+            "tags": null,
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/ridge-rider/fig02.png"
+        },
+        {
+            "id": 6375,
+            "title": "Adapting on the Fly to Test Time Distribution Shift",
+            "url": "https://bair.berkeley.edu/blog/2020/11/05/arm/",
+            "authors": "Marvin Zhang",
+            "tags": null,
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/arm/methods.png"
+        },
+        {
+            "id": 6376,
+            "title": "Reinforcement learning is supervised learning on optimized data",
+            "url": "https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/",
+            "authors": "Ben Eysenbach and Aviral Kumar and Abhishek Gupta",
+            "tags": null,
+            "publishedOn": "2020-10-13T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/supervised_rl/hipi.png"
+        },
+        {
+            "id": 6377,
+            "title": "Plan2Explore: Active Model-Building for Self-Supervised Visual Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2020/10/06/plan2explore/",
+            "authors": "Oleh Rybkin and Danijar Hafner and Deepak Pathak",
+            "tags": null,
+            "publishedOn": "2020-10-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/plan2explore/plan2explore.png"
+        },
+        {
+            "id": 6378,
+            "title": "AWAC: Accelerating Online Reinforcement Learning with Offline Datasets",
+            "url": "https://bair.berkeley.edu/blog/2020/09/10/awac/",
+            "authors": "Ashvin Nair and  Abhishek Gupta",
+            "tags": null,
+            "publishedOn": "2020-09-10T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/awac/05_fig1.png"
+        },
+        {
+            "id": 6379,
+            "title": "Deep Dynamics Models for Dexterous Manipulation",
+            "url": "https://bair.berkeley.edu/blog/2019/09/30/deep-dynamics/",
+            "authors": "Anusha Nagabandi",
+            "tags": null,
+            "publishedOn": "2019-09-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/deep-dynamics/image10.png"
+        },
+        {
+            "id": 6380,
+            "title": "Sample Efficient Evolutionary Algorithm for Analog Circuit Design",
+            "url": "https://bair.berkeley.edu/blog/2019/09/26/circuits/",
+            "authors": "Kourosh Hakhamaneshi",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/circuits/1.png"
+        },
+        {
+            "id": 6381,
+            "title": "rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch",
+            "url": "https://bair.berkeley.edu/blog/2019/09/24/rlpyt/",
+            "authors": "Adam Stooke",
+            "tags": null,
+            "publishedOn": "2019-09-24T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/rlpyt/samplers.png"
+        },
+        {
+            "id": 6382,
+            "title": "A Deep Learning Approach to Data Compression",
+            "url": "https://bair.berkeley.edu/blog/2019/09/19/bit-swap/",
+            "authors": "Friso Kingma",
+            "tags": null,
+            "publishedOn": "2019-09-19T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/bit_swap/BitSwap-1.png"
+        },
+        {
+            "id": 6383,
+            "title": "Evaluating and Testing Unintended Memorization in Neural Networks",
+            "url": "https://bair.berkeley.edu/blog/2019/08/13/memorization/",
+            "authors": "Nicholas Carlini",
+            "tags": null,
+            "publishedOn": "2019-08-13T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/memorization/mem_over_train_short.png"
+        },
+        {
+            "id": 6384,
+            "title": "Learning to Learn with Probabilistic Task Embeddings",
+            "url": "https://bair.berkeley.edu/blog/2019/06/10/pearl/",
+            "authors": "Kate Rakelly",
+            "tags": null,
+            "publishedOn": "2019-06-10T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/pearl/5_meta_training.jpg"
+        },
+        {
+            "id": 6385,
+            "title": "1000x Faster Data Augmentation",
+            "url": "https://bair.berkeley.edu/blog/2019/06/07/data_aug/",
+            "authors": "Daniel Ho, Eric Liang, Richard Liaw",
+            "tags": null,
+            "publishedOn": "2019-06-07T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/data_aug/augmentation_schedule_viz.png"
+        },
+        {
+            "id": 6386,
+            "title": "Autonomous Vehicles for Social Good: Learning to Solve Congestion",
+            "url": "https://bair.berkeley.edu/blog/2019/06/03/benchmarks/",
+            "authors": "Eugene Vinitsky",
+            "tags": null,
+            "publishedOn": "2019-06-03T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/benchmarks/figure_eight.png"
+        },
+        {
+            "id": 6387,
+            "title": "End-to-End Deep Reinforcement Learning  without Reward Engineering",
+            "url": "https://bair.berkeley.edu/blog/2019/05/28/end-to-end/",
+            "authors": "Avi Singh",
+            "tags": null,
+            "publishedOn": "2019-05-28T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/end_to_end/vice_raq_teaser.png"
+        },
+        {
+            "id": 6388,
+            "title": "Model-Based Reinforcement Learning from Pixels with Structured Latent Variable Models",
+            "url": "https://bair.berkeley.edu/blog/2019/05/20/solar/",
+            "authors": "Marvin Zhang and Sharad Vikram",
+            "tags": null,
+            "publishedOn": "2019-05-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/solar/exp.png"
+        },
+        {
+            "id": 6389,
+            "title": "Large-Scale Long-Tailed Recognition in an Open World",
+            "url": "https://bair.berkeley.edu/blog/2019/05/13/oltr/",
+            "authors": "Zhongqi Miao and Ziwei Liu",
+            "tags": null,
+            "publishedOn": "2019-05-13T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/oltr/teaser.png"
+        },
+        {
+            "id": 6390,
+            "title": "Robots that Learn to Adapt",
+            "url": "https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/",
+            "authors": "Anusha Nagabandi and Ignasi Clavera",
+            "tags": null,
+            "publishedOn": "2019-05-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/adapt/teaser.png"
+        },
+        {
+            "id": 6391,
+            "title": "Robots that Learn to Use Improvised Tools",
+            "url": "https://bair.berkeley.edu/blog/2019/04/11/tools/",
+            "authors": "Annie Xie",
+            "tags": null,
+            "publishedOn": "2019-04-11T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/tools/chimp.jpg"
+        },
+        {
+            "id": 6392,
+            "title": "CVPR 2019 Challenges on Domain Adaptation in Autonomous Driving",
+            "url": "https://bair.berkeley.edu/blog/2019/03/27/cvpr-competition/",
+            "authors": "Fisher Yu",
+            "tags": null,
+            "publishedOn": "2019-03-27T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        },
+        {
+            "id": 6393,
+            "title": "Announcing the BAIR Open Research Commons",
+            "url": "https://bair.berkeley.edu/blog/2019/03/24/bair-commons/",
+            "authors": "",
+            "tags": null,
+            "publishedOn": "2019-03-24T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/bair-commons/berkeley_way-west_web_1.jpg"
+        }
+    ]
+}

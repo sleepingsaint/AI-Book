@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14802,
+            "title": "Implementing Content-Based Image Retrieval With Siamese Networks in PyTorch",
+            "url": "https://neptune.ai/blog/content-based-image-retrieval-with-siamese-networks",
+            "authors": "raulgombru",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Image retrieval is the task of finding images related to a given query. With content-based image retrieval, we refer to the task of finding images containing some attributes which are not in the image metadata, but present in its visual content. In this post we: explain the theoretical concepts behind content-based image retrieval,\u00a0 show step\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Implementing-Content-Based-Image-Retrieval-with-Siamese-Networks-in-PyTorch.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14803,
+            "title": "Hyperparameter Tuning in Python: a Complete Guide",
+            "url": "https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide",
+            "authors": "Shahul ES, Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Choosing the correct hyperparameters for machine learning or deep learning models is one of the best ways to extract the last juice out of your models. In this article, I will show you some of the best ways to do hyperparameter tuning that are available today. What is the difference between parameter and hyperparameter? First,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Hyperparameter-Tuning-in-Python-a-Complete-Guide-2021.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14804,
+            "title": "19 Best JupyterLab Extensions for Machine Learning",
+            "url": "https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "JupyterLab, a flagship project from Jupyter, is one of the most popular and impactful open-source projects in Data Science. One of the great things about Jupyter ecosystem is that if there is something you are missing, there is either an open-source extension for that or you can create it yourself. In this article, we\u2019ll talk\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/19-Best-JupyterLab-Extensions-for-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14805,
+            "title": "Binary Classification: Tips and Tricks From 10 Kaggle Competitions",
+            "url": "https://neptune.ai/blog/binary-classification-tips-and-tricks-from-kaggle",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Imagine if you could get all the tips and tricks you need to tackle a binary classification problem on Kaggle or anywhere else. I have gone over 10 Kaggle competitions including: Toxic Comment Classification Challenge $35,000 TalkingData AdTracking Fraud Detection Challenge $25,000 IEEE-CIS Fraud Detection $20,000 Jigsaw Multilingual Toxic Comment Classification $50,000 RSNA Intracranial Hemorrhage\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Binary-Classification-Tips-and-Tricks-From-10-Kaggle-Competitions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14807,
+            "title": "The Best Tools to Monitor Machine Learning Experiment Runs",
+            "url": "https://neptune.ai/blog/best-tools-to-monitor-machine-learning-experiment-runs",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Monitoring machine learning experiment runs is an important and healthy practice but it can be a challenge. Main problems are:\u00a0 You cannot look at your console logs all the time,\u00a0 When you look at logs you don\u2019t see the change over time immediately (think learning curve vs losses on epoch 10), Sometimes you can\u2019t even\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Tools-to-Monitor-Machine-Learning-Experiment-Runs.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14810,
+            "title": "Data Augmentation in NLP: Best Practices From a Kaggle Master",
+            "url": "https://neptune.ai/blog/data-augmentation-nlp",
+            "authors": "Shahul ES",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "There are many tasks in NLP from text classification to question answering but whatever you do the amount of data you have to train your model impacts the model performance heavily. What can you do to make your dataset larger? Simple option -> Get more data :). But acquiring and labeling additional observations can be\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Augmentation-in-NLP-Best-Practices-From-a-Kaggle-Master.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14811,
+            "title": "Keras Loss Functions: Everything You Need to Know",
+            "url": "https://neptune.ai/blog/keras-loss-functions",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You\u2019ve created a deep learning model in Keras, you prepared the data and now you are wondering which loss you should choose for your problem.\u00a0 We\u2019ll get to that in a second but first what is a loss function? In deep learning, the loss is computed to get the gradients with respect to model weights\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Keras-Loss-Functions-Everything-You-Need-to-Know.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14812,
+            "title": "The Best Sacred + Omniboard Alternatives",
+            "url": "https://neptune.ai/blog/the-best-sacred-omniboard-alternatives",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this post, we\u2019ll show you the best alternatives to Sacred + Omniboard. Since you came across this article, you may already know what these tools are made for. But let\u2019s analyze them shortly as it could be helpful in better defining your needs and choosing the best alternative for you. It would be a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Sacred-Omniboard-Alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14813,
+            "title": "Interview with a Lead Data Scientist: Gabriel Preda",
+            "url": "https://neptune.ai/blog/interview-with-lead-data-scientist-gabriel-preda",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the latest episode of our podcast, Machine Learning that Works, I had a great pleasure to talk to Gabriel Preda, a Lead Data Scientist at Endava and a Kaggle Grandmaster. We talked about: His work in Endava, NLP, Kaggle competitions, And how to put yourself in a position to be always learning. For those\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Interview-Gabriel-Preda-featured.png?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14814,
+            "title": "The Best Pachyderm Alternatives",
+            "url": "https://neptune.ai/blog/the-best-pachyderm-alternatives",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Pachyderm is a data science platform that helps to control an end-to-end machine learning life cycle. It comes in three different versions, Community Edition (open-source, with ability to be deployed anywhere), Enterprise Edition (complete version-controlled platform), and Hub Edition (a hosted version, still in beta).\u00a0 Here\u2019s what you can do with Pachyderm in a nutshell:\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Pachyderm-Alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14815,
+            "title": "How to Manage, Track, and Visualize Hyperparameters of Machine Learning Models?",
+            "url": "https://neptune.ai/blog/how-to-manage-track-visualize-hyperparameters",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning algorithms are tunable by multiple gauges called hyperparameters. Recent deep learning models are tunable by tens of hyperparameters, that together with data augmentation parameters and training procedure parameters create quite complex space. In the reinforcement learning domain, you should also count environment params. Data scientists should control hyperparameter space well in order to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Manage-track-visualize-hyperparameters.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14817,
+            "title": "How to Track Machine Learning Model Metrics in Your Projects",
+            "url": "https://neptune.ai/blog/how-to-track-machine-learning-model-metrics",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "It is crucial to keep track of evaluation metrics for your machine learning models to: understand how your model is doing be able to compare it with previous baselines and ideas understand how far you are from the project goals \u201cIf you don\u2019t measure it you can\u2019t improve it.\u201d But what should you keep track\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Track-Machine-Learning-Model-Metrics-in-Your-Projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14818,
+            "title": "How to Monitor Machine Learning and Deep Learning Experiments",
+            "url": "https://neptune.ai/blog/how-to-monitor-machine-learning-and-deep-learning-experiments",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Training machine learning/deep learning models can take a really long time, and understanding what is happening as your model is training is absolutely crucial. Typically you can monitor: Metrics and losses Hardware resource consumption Errors, Warnings, and other logs kept (stderr and stdout) Depending on the library or framework, this can be easier or more\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Monitor-Machine-Learning-and-Deep-Learning-Experiments.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14819,
+            "title": "The Best Kubeflow Alternatives",
+            "url": "https://neptune.ai/blog/the-best-kubeflow-alternatives",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Kubeflow is the ML toolkit for Kubernetes. It helps in maintaining machine learning systems \u2013 manage all the applications, platforms, and resource considerations. It facilitates the scaling of machine learning models by making run orchestration and deployments of machine learning workflows easier. It\u2019s an open-source project that contains a curated set of compatible tools and\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Kubeflow-Alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14820,
+            "title": "Tabular Data Binary Classification: All Tips and Tricks from 5 Kaggle Competitions",
+            "url": "https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions",
+            "authors": "Shahul ES",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, I will discuss some great tips and tricks to improve the performance of your structured data binary classification model. These tricks are obtained from solutions of some of Kaggle\u2019s top tabular data competitions. Without much lag, let\u2019s begin. These are the five competitions that I have gone through to create this article:\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Tabular-Data-Binary-Classification-Tips-Tricks-from-Kaggle-Competitions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14822,
+            "title": "The Best Comet.ml Alternatives",
+            "url": "https://neptune.ai/blog/the-best-comet-ml-alternatives",
+            "authors": "Patrycja Jenkner, Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Comet is one of the most popular tools used by people working on machine learning experiments. It is a self-hosted and cloud-based meta machine learning platform allowing data scientists and teams to track, compare, explain, and optimize experiments and models. Comet offers a Python library to allow data scientists to integrate their code with Comet\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Comet.ml-Alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14823,
+            "title": "Random Forest Regression: When Does It Fail and Why?",
+            "url": "https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, we\u2019ll look at a major problem with using Random Forest for Regression which is extrapolation.\u00a0 We\u2019ll cover the following items: Random Forest Regression vs Linear Regression Random Forest Regression Extrapolation Problem Potential\u00a0solutions Should you use Random Forest for Regression? Let\u2019s dive in.\u00a0 Random Forest Regression vs Linear Regression Random Forest Regression is\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Random-Forest-Regression-When-Does-It-Fail-and-Why.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14824,
+            "title": "The Best Tools to Visualize Metrics and Hyperparameters of Machine Learning Experiments",
+            "url": "https://neptune.ai/blog/the-best-tools-to-visualize-metrics-and-hyperparameters-of-machine-learning-experiments",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Evaluating your model on the key metrics is a crucial first step in understanding your model quality. Keeping track of hyperparameters and corresponding evaluation metrics is important because small changes in hyperparameters can sometimes have a big impact on model quality. And so, understanding which hyperparameters have an impact and which do not affect evaluation\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Tools-to-Visualize-Metrics-and-Hyperparameters-of-Machine-Learning-Experiments.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14825,
+            "title": "Top Open Source Tools and Libraries for Deep Learning \u2013 ICLR 2020 Experience",
+            "url": "https://neptune.ai/blog/iclr-2020-deep-learning-open-source",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Where is cutting-edge deep learning created and discussed? One of the top places is ICLR \u2013 a leading deep learning conference, that took place on April 27-30, 2020. As a fully virtual event, with 5600+ participants and almost 700 papers/posters it could be called a great success. You can find comprehensive info about the conference\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-Open-Source-Tools-and-Libraries-for-Deep-Learning-ICLR-2020-Experience.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14826,
+            "title": "Interview with a Chief AI Scientist: Arash Azhand",
+            "url": "https://neptune.ai/blog/interview-with-a-chief-ai-arash-azhand",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Some time ago I had a chance to interview a great artificial intelligence researcher and Chief AI Scientist in Lindera, Arash Azhand. We talked about: The AI technology behind his work at Lindera His career path How it is to be a research-centered scientist How to become a good leader Why it is important to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Arash-Azhand-interview.png?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14827,
+            "title": "How to Keep Track of PyTorch Lightning Experiments With Neptune",
+            "url": "https://neptune.ai/blog/pytorch-lightning-neptune-integration",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Working with PyTorch Lightning and wondering which logger should you choose to keep track of your experiments? Want to find a good way to save hyperparameters, metrics, and other model-building metadata? Thinking of using PyTorch Lightning to structure your Deep Learning code and wouldn\u2019t mind learning about its logging functionality? Didn\u2019t know that Lightning has\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Keep-Track-of-PyTorch-Lightning-Experiments-with-Neptune.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14828,
+            "title": "The Best NLP/NLU Papers from the ICLR 2020 Conference",
+            "url": "https://neptune.ai/blog/iclr-2020-nlp-nlu",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The International Conference on Learning Representations (ICLR) took place last week, and I had a pleasure to participate in it. ICLR is an event dedicated to research on all aspects of representation learning, commonly known as deep learning. This year the event was a bit different as it went virtual due to the coronavirus pandemic.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-NLP-NLU-Papers-from-the-ICLR-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14829,
+            "title": "The Best Generative Models Papers from the ICLR 2020 Conference",
+            "url": "https://neptune.ai/blog/iclr-2020-generative-models",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The International Conference on Learning Representations (ICLR) took place last week, and I had a pleasure to participate in it. ICLR is an event dedicated to research on all aspects of representation learning, commonly known as deep learning. Due to the coronavirus pandemic, the conference couldn\u2019t take place in Addis Ababa, as planned, and went\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Generative-Models-Papers-from-the-ICLR-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14830,
+            "title": "The Best Reinforcement Learning Papers from the ICLR 2020 Conference",
+            "url": "https://neptune.ai/blog/iclr-2020-reinforcement-learning",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Last week I had a pleasure to participate in the International Conference on Learning Representations (ICLR), an event dedicated to the research on all aspects of representation learning, commonly known as deep learning. The conference went virtual due to the coronavirus pandemic, and thanks to the huge effort of its organizers, the event attracted an\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Reinforcement-Learning-Papers-from-the-ICLR-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14831,
+            "title": "Understanding LightGBM Parameters (and How to Tune Them)",
+            "url": "https://neptune.ai/blog/lightgbm-parameters-guide",
+            "authors": "MJ Bahmani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "I\u2019ve been using lightGBM for a while now. It\u2019s been my go-to algorithm for most tabular data problems. The list of awesome features is long and I suggest that you take a look if you haven\u2019t already. But I was always interested in understanding which parameters have the biggest impact on performance and how I\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Understanding-LightGBM-Parameters-and-How-to-Tune-Them.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14832,
+            "title": "The Best Deep Learning Papers from the ICLR 2020 Conference",
+            "url": "https://neptune.ai/blog/iclr-2020-deep-learning",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Last week I had a pleasure to participate in the International Conference on Learning Representations (ICLR), an event dedicated to the research on all aspects of deep learning. Initially, the conference was supposed to take place in Addis Ababa, Ethiopia, however, due to the novel coronavirus pandemic, it went virtual. I\u2019m sure it was a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Deep-Learning-Papers-ICLR-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14833,
+            "title": "The Best Software for Collaborating on Machine Learning Projects",
+            "url": "https://neptune.ai/blog/best-software-for-collaborating-on-machine-learning-projects",
+            "authors": "Pawel Kijko, Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Collaborating on machine learning projects is challenging. It requires focus, attention to detail, and strong analytical skills. But it also requires tools. When you\u2019re working on a project solo, you have full flexibility when it comes to the work style. So what to do when you\u2019re collaborating with your team? It\u2019s possible to maintain flexibility\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Software-for-Collaborating-on-Machine-Learning-Projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14834,
+            "title": "Text Classification: All Tips and Tricks from 5 Kaggle Competitions",
+            "url": "https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions",
+            "authors": "Shahul ES",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, I will discuss some great tips and tricks to improve the performance of your text classification model. These tricks are obtained from solutions of some of Kaggle\u2019s top NLP competitions. Namely, I\u2019ve gone through: Jigsaw Unintended Bias in Toxicity Classification \u2013 $65,000 Toxic Comment Classification Challenge \u2013 $35,000 Quora Insincere Questions Classification\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Text-Classification-All-Tips-and-Tricks-from-5-Kaggle-Competitions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14835,
+            "title": "Image Segmentation: Tips and Tricks from 39 Kaggle Competitions",
+            "url": "https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Imagine if you could get all the tips and tricks you need to hammer a Kaggle competition. I have gone over 39 Kaggle competitions including Data Science Bowl 2017 \u2013 $1,000,000 Intel & MobileODT Cervical Cancer Screening \u2013 $100,000 2018 Data Science Bowl \u2013 $100,000 Airbus Ship Detection Challenge\u00a0 \u2013 $60,000 Planet: Understanding the Amazon\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Image-Segmentation-Tips-and-Tricks-from-39-Kaggle-Competitions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14836,
+            "title": "6 GAN Architectures You Really Should Know",
+            "url": "https://neptune.ai/blog/6-gan-architectures",
+            "authors": "Shibsankar Das",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Generative Adversarial Networks (GANs) were first introduced in 2014 by Ian Goodfellow et. al. and since then this topic itself opened up a new area of research. Within a few years, the research community came up with plenty of papers on this topic some of which have very interesting names :). You have CycleGAN, followed\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/6-GAN-Architectures.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4434,
+            "title": "Short Quiz to Help You Prepare Better for Data Science Interviews",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/short-quiz-to-help-you-prepare-better-for-data-science-interviews/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Education, Interview Questions, Interviews",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "Given below is a short quiz that consists of 25 Questions consisting of MCQs(One or more correct) on data science for interviews",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/11996final.png"
+        },
+        {
+            "id": 4435,
+            "title": "Scikit-learn/ Sklearn Objects \u2013 fit() vs transform() vs fit_transform() vs predict()",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/sklearn-objects-fit-vs-transform-vs-fit_transform-vs-predict-in-scikit-learn/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "In this article, we learn different types of Sklearn objects. And see difference between fit() vs transform() vs fit_transform() vs predict()",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Scikit-learn.jpg"
+        },
+        {
+            "id": 4436,
+            "title": "Dealing with Anomalies in the data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/dealing-with-anomalies-in-the-data/",
+            "authors": "YAMINI PEDDIREDDI",
+            "tags": "Intermediate, Machine Learning, Python, Technique",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "Anomalies are the data points different from the normal state of existence ,that can due to different circumstances based on several factors",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/outlier.png"
+        },
+        {
+            "id": 4437,
+            "title": "Understand Machine Learning Easily Using Python Shapash Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/understand-machine-learning-easily-using-python-shapash-library/",
+            "authors": "Akshay Gupta",
+            "tags": "Beginner, Data Visualization, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "Shapash is a python library that makes straightforward visualizations of global and local reasonableness and helps in easy analysis of model",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/57344shapash-resize.png"
+        },
+        {
+            "id": 4438,
+            "title": "Drawdata \u2013 Draw A Customized Data Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/drawdata-draw-a-customized-data-using-python/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Data Visualization, Libraries",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "Drawdata is a beautiful open-source python library that allows generating data by just drawing it and then it will automatically generate it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/59039data-analysis-blog.jpg"
+        },
+        {
+            "id": 4439,
+            "title": "Learn how to get insights from Azure SQL Database: A sample data analytics project using Global Peace Index data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/learn-how-to-get-insights-from-azure-sql-database-a-sample-data-analytics-project-using-global-peace-index-data/",
+            "authors": "Dayana Benny",
+            "tags": "AzureML, Beginner, Business Intelligence, Data Visualization, Structured Data, Technique",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "If you have some data and you need to have interactive exploration of it, it is possible directly over the Azure SQL database you have",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/78278leastpeace.jpg"
+        },
+        {
+            "id": 4440,
+            "title": "Mixed-effect Regression for Hierarchical Modeling (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/mixed-regression-for-hierarchical-modeling-part-1/",
+            "authors": "Rendyk",
+            "tags": "Intermediate, Machine Learning, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "In this article, we will try three kinds of mixed-effect regression. First, we will run random-effect intercepts with a fixed-effect slope.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-1.jpg"
+        },
+        {
+            "id": 4441,
+            "title": "Beginner\u2019s Guide to Clustering in R Program",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-clustering-in-r-program/",
+            "authors": "Akansha20",
+            "tags": "Beginner, Classification, Clustering, Machine Learning, Project, R, Structured Data, Technique, Unsupervised",
+            "publishedOn": "2021-04-28T00:00:00",
+            "description": "K Means is a clustering algorithm that repeatedly assigns a group amongst k groups present to a data point. Let's understand clustering in R",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/hierarchical_clustering.jpg"
+        },
+        {
+            "id": 4442,
+            "title": "How to Handle Missing Values of Categorical Variables?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-to-handle-missing-values-of-categorical-variables/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Cleaning, Data Exploration, Python, Technique",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "In this blog, you will see how to handle missing values for categorical variables while we are performing data preprocessing.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/missing.jpg"
+        },
+        {
+            "id": 4443,
+            "title": "Create Interface For Your Machine Learning Models Using Gradio Python Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/create-interface-for-your-machine-learning-models-using-gradio-python-library/",
+            "authors": "Akshay Gupta",
+            "tags": "Data Visualization, Intermediate, Libraries, Python, Technique",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Gradio is a free open-source Python bundle that assists with making model UIs which can easily impart to connect to associates and companions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Machine-Learning-Libraries-C.jpg"
+        },
+        {
+            "id": 4444,
+            "title": "How to Connect DataBricks and MongoDB Atlas using Python API?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-to-connect-databricks-and-mongodb-atlas-using-python-api/",
+            "authors": "Lekshmyho",
+            "tags": "Advanced, Data Engineering, Machine Learning, MongoDB, Technique",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "In this article, we are going to understand in depth about How to Connect DataBricks and MongoDB Atlas using Python API easily",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/30569real-time-big-data-analytics-01_1_1500x520.png"
+        },
+        {
+            "id": 4445,
+            "title": "Track Your Fitness With Python: Analyzing Google Fit Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/track-your-fitness-with-python-analyzing-google-fit-data/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "This article will guide you on how to download the google fit data and do analysis on\u00a0the Fitness data collected by the Fit application.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/data-viz.png"
+        },
+        {
+            "id": 4446,
+            "title": "Building a Conversational Bot using LUIS",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/building-a-conversational-bot-using-luis/",
+            "authors": "Mimi Dutta",
+            "tags": "Advanced, NLP, Project, Technique",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Using LUIS, we will see how to build a conversational bot that will aid in natural language understanding in our applications.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/07/stokoe_conversations.jpg"
+        },
+        {
+            "id": 4447,
+            "title": "Impact of Global Stock Market on Indian stock Index in R",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/impact-of-global-stock-market-on-indian-stock-index-in-r/",
+            "authors": "Maverick 01",
+            "tags": "Advanced, Machine Learning, R, Stock Trading, Structured Data, Time Series Forecasting",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "In this article we are going to see the Impact of Global Stock Market on Indian stock Index in R. It is important for aspirants in finance",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/92495stock-market-trends-what-causes-stock-prices-to-change.jpg"
+        },
+        {
+            "id": 4448,
+            "title": "Wine Quality Prediction Using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Classification, Machine Learning, Python, Resource, Structured Data, Supervised",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "In this article we are going to understand how to categorise the wine quality with Machine Learning(ML) in Python using a dataset",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/45245download.jpg"
+        },
+        {
+            "id": 4449,
+            "title": "Best Boosting Algorithm In Machine Learning In 2021",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/best-boosting-algorithm-in-machine-learning-in-2021/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Algorithm, Classification, Intermediate, Machine Learning, Python, Regression, Supervised",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "A boosting algorithm can outperform simpler algorithms like Random forest, decision trees, or logistic regression & that's why it's relevant",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/boosting_algorithms.png"
+        },
+        {
+            "id": 4450,
+            "title": "A Complete Guide to Tensorboard",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/a-complete-guide-to-tensorboard/",
+            "authors": "Jyoti Yadav",
+            "tags": "Advanced, Data Visualization, Deep Learning, Libraries, Python, Structured Data",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Tensorboard is a visualization extension created by the TensorFlow team to decrease the complexity of neural networks & create various graphs",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Tensorflow-.jpg"
+        },
+        {
+            "id": 4451,
+            "title": "Shapash- Python Library To Make Machine Learning Interpretable",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/shapash-python-library-to-make-machine-learning-interpretable/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Libraries, Machine Learning, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Shapash is a python library that aims to make machine learning Interpretable in other words this is used to explaining the code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/57344shapash-resize.png"
+        },
+        {
+            "id": 4452,
+            "title": "Portfolio Optimization using MPT in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/portfolio-optimization-using-mpt-in-python/",
+            "authors": "Parth Tyagi",
+            "tags": "Data Exploration, Data Visualization, Intermediate, Maths, Python, Structured Data",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "In this article, we will understand how financial Portfolio Optimization works using Modern Portfolio Theoty in Python seamlessly",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/stock-feat.jpg"
+        },
+        {
+            "id": 4453,
+            "title": "How to use CatBoost For Mental Fatigue Score Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-to-use-catboost-for-mental-fatigue-score-prediction/",
+            "authors": "Yogita Bhor",
+            "tags": "Intermediate, Machine Learning, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Let's take a closer look at the details of each step in the implementation of CatBoost in Python for linear regression problems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/regression_analysis.jpg"
+        },
+        {
+            "id": 4454,
+            "title": "LUX \u2013 Intelligence Visual Discovery of data using python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/lux-intelligence-visual-discovery-of-data-using-python/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Data Visualization, Libraries, Project, Python, Structured Data",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "We can say that the lux library has some features which automate the whole visualization process in less time and effort.\u00a0\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/125641_zwLv_n7UY06nDGvf9SJ8_Q.jpeg"
+        },
+        {
+            "id": 4455,
+            "title": "Customer Lifetime Value\u00a0using RFM Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/customer-lifetime-value-using-rfm-analysis/",
+            "authors": "Manoj GL",
+            "tags": "Beginner, Excel, Structured Data, Use Cases",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "One of the simple and effective methodologies which are generally used in calculating customer value over a time frame is RFM Analysis",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/excel.jpg"
+        },
+        {
+            "id": 4456,
+            "title": "Estimation of Neurons and Forward Propagation in Neural Net",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/estimation-of-neurons-and-forward-propagation-in-neural-net/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "In this article, we will dive deep into how the estimation of neurons or the nodes for the Artificial Neural Network works.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/type_of_neural_networks.png"
+        },
+        {
+            "id": 4457,
+            "title": "Introduction and a New Convection About Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/introduction-and-a-new-convection-about-data-science/",
+            "authors": "YAMINI PEDDIREDDI",
+            "tags": "Beginner, Data Science, Interview Questions",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "Data Science is the science of dealing with all the data growing in every field, industry, domain and it is the sexiest job of the century",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/69214Picture1.jpg"
+        },
+        {
+            "id": 4458,
+            "title": "Intuition Behind Correlation \u2013 Definition and It\u2019s Types",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/intuition-behind-correlation-definition-and-its-types/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Machine Learning, Python, Statistics",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "Correlation is used to find the relationship between two variables which is important in real because we can predict value of one variable",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Inferential-Statistics-for-beginners.jpg"
+        },
+        {
+            "id": 4459,
+            "title": "K Means Clustering Simplified in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/k-means-clustering-simplified-in-python/",
+            "authors": "Pranshu Sharma",
+            "tags": "Algorithm, Beginner, Classification, Clustering, Python, Structured Data, Supervised, Unsupervised",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "K means clustering is one of the most popular Unsupervised Machine Learning Algorithms Used for Solving Classification Problems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 4460,
+            "title": "How to check Stationarity of Data in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-to-check-stationarity-of-data-in-python/",
+            "authors": "Nishtha Arora",
+            "tags": "Advanced, Machine Learning, Python, Statistics, Structured Data, Time Series Forecasting",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "Stationarity of data is based on following 3 criteria - Have constant mean, Have constant variance, Auto covariance doesn't depend on time",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/78512sigmund-0s43f-8Dz_0-unsplash.jpg"
+        },
+        {
+            "id": 4461,
+            "title": "A beginners guide to Multi-Processing in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/a-beginners-guide-to-multi-processing-in-python/",
+            "authors": "Karthik Sundar",
+            "tags": "Beginner, Machine Learning, Programming, Python",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "In this article, let us concentrate on an aspect of Python that makes it one of the most powerful Programming languages- Multi-Processing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Start-Using-The-timeit-Library-in-Python1.png"
+        },
+        {
+            "id": 4462,
+            "title": "Mathematics as a Monarch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/mathematics-in-data-science/",
+            "authors": "Harsha Vardhan Garlapati",
+            "tags": "Banking, Beginner, Maths, Probability, Statistics",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "Mathematics is an important prerequisite in Data Science. Let's see which concepts of mathematics come handy for data scientists",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/cnn_scratch_math.png"
+        },
+        {
+            "id": 4463,
+            "title": "BeautifulSoup Exception Handling",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/beautifulsoup-exception-handling/",
+            "authors": "Mayur Badole",
+            "tags": "Advanced, Data Mining, Project, Python, Technique",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "In this article, we discuss the exception that occurs during writing web scraping scripts with BeautifulSoup and handling them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/56856232112.png"
+        }
+    ]
+}

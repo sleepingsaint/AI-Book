@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14574,
+            "title": "What Is ModelOps and How Is It Different From MLOps?",
+            "url": "https://neptune.ai/blog/modelops",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the past few years, we\u2019ve seen an increase in Artificial Intelligence and Machine Learning solutions in real-life situations. In big companies, these solutions have to be implemented in hundreds of use cases and it\u2019s difficult to do this manually.\u00a0 At the enterprise level, the deployment of AI solutions and machine learning models needs to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ModelOps.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14576,
+            "title": "Bayesian Neural Networks\u2014Implementing, Training, Inference With the JAX Framework",
+            "url": "https://neptune.ai/blog/bayesian-neural-networks-with-jax",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Bayesian Neural Networks (BNN) are different from Artificial Neural Networks (NN). The main difference\u2014BNNs can respond \u201cI\u2019m not sure\u201d. Which is interesting, but why would you want a neural network to tell you that it doesn\u2019t know the answer to your question? To show you why it\u2019s important for a network to say \u201cI\u2019m not\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Bayesian-Neural-Network-JAX.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14578,
+            "title": "Exploring Clustering Algorithms: Explanation and Use Cases",
+            "url": "https://neptune.ai/blog/clustering-algorithms",
+            "authors": "Aravind CR",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Clustering (cluster analysis) is grouping objects based on similarities. Clustering can be used in many areas, including machine learning, computer graphics, pattern recognition, image analysis, information retrieval, bioinformatics, and data compression. Clusters are a tricky concept, which is why there are so many different clustering algorithms. Different cluster models are employed, and for each of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Clustering-algorithms.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14581,
+            "title": "Version Control for ML Models: Why You Need It, What It Is, How To Implement It",
+            "url": "https://neptune.ai/blog/version-control-for-ml-models",
+            "authors": "Ahmed Hashesh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Version control is important in any software development environment, and even more so in machine learning. In ML, the development process is very complex. It includes huge amounts of data, testing of multiple models, optimization of parameters, tuning of features, and more. If you want your research to be reproducible, you need proper version control\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Version-control-for-ML-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14582,
+            "title": "How to Compare Machine Learning Models and Algorithms",
+            "url": "https://neptune.ai/blog/how-to-compare-machine-learning-models-and-algorithms",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning has expanded rapidly in the last few years. Instead of simple, one-directional, or linear ML pipelines, today data scientists and developers run multiple parallel experiments that can get overwhelming even for large teams. Each experiment is expected to be recorded in an immutable and reproducible format, which results in endless logs with invaluable\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Compare-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14583,
+            "title": "Should You Use Jupyter Notebooks in Production?",
+            "url": "https://neptune.ai/blog/should-you-use-jupyter-notebooks-in-production",
+            "authors": "Prabhat Kumar Sahu",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the past couple of years, Notebooks have become a popular tool in fields like data science and machine learning, scientific research, genomics, and more. Jupyter Notebooks have been around for quite some time now. They\u2019re used a lot in machine learning, mainly for experimentation and visualization. However, recently notebooks have been making progress into\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Notebooks-in-production.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14584,
+            "title": "DVC Alternatives For Experiment Tracking",
+            "url": "https://neptune.ai/blog/dvc-alternatives-for-experiment-tracking",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Experiment Tracking is a technique for linking variables to the changes that those variables cause in your data. You can test many different combinations of variables\u2014run multiple experiments with weights assigned to each one and see which are the most effective when aggregated together.\u00a0 One of the challenges with experiment tracking is choosing the right\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/DVC-Alternatives-For-Experiment-Tracking-Max-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14585,
+            "title": "Training and Debugging Deep Convolutional Generative Adversarial Networks",
+            "url": "https://neptune.ai/blog/deep-convolutional-generative-adversarial-networks",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Adversarial networks (Deep Convolutional Generative Adversarial Networks) have been a very active playground lately for Deep Learning practitioners. The field of adversarial networks was established by Ian Goodfellow and his colleagues from the University of Montreal in their article Generative Adversarial Nets. Since then, new variants of the original model keep being developed and research\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/DCGAN.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14586,
+            "title": "Best Data Lineage Tools",
+            "url": "https://neptune.ai/blog/best-data-lineage-tools",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Data is the main part of every machine learning model. Your model is only as good as the data it\u2019s built with, and you can\u2019t build a model at all without data. So, it makes sense to train your models only with accurate and authentic data. In the course of running their operations, many organizations\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-lineage-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14587,
+            "title": "Data Lineage in Machine Learning: Methods and Best Practices",
+            "url": "https://neptune.ai/blog/data-lineage-in-machine-learning",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Data is supposed to be an organization\u2019s most treasured asset. However, it wasn\u2019t this way until recently, so very few people have experience in handling data and leveraging it to create more value. As managers are becoming more data-fluent, many organizations are adopting the practice of tracking data lineage, which has become steady support for\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-lineage-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14588,
+            "title": "Doing ML Model Performance Monitoring The Right Way",
+            "url": "https://neptune.ai/blog/ml-model-performance-monitoring",
+            "authors": "Konstantin Kutzkov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The development and deployment of machine learning models enable artificial intelligence applications to solve problems. The underlying algorithms learn patterns from data, but the world constantly changes, so data also keeps changing.\u00a0 This means that ML algorithms have to keep up with a constant stream of new, changing data, and be regularly updated in order\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-performance-monitoring.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14589,
+            "title": "Balanced Accuracy: When Should You Use It?",
+            "url": "https://neptune.ai/blog/balanced-accuracy",
+            "authors": "Motunrayo Olugbenga",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When we train an ML model, we desire to know how it performs, this performance is measured with metrics. Until the performance is good enough with satisfactory metrics, the model isn\u2019t worth deploying, we have to keep iterating to find the sweet spot where the model isn\u2019t underfitting nor overfitting(a perfect balance). There are plenty\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Balanced-accuracy.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14590,
+            "title": "Object Detection Algorithms and Libraries",
+            "url": "https://neptune.ai/blog/object-detection-algorithms-and-libraries",
+            "authors": "Bharath K",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Object detection finds and identifies things in images, and it\u2019s one of the biggest accomplishments of deep learning and image processing. One of the common approaches to creating localizations for objects is with the help of bounding boxes. You can train an object detection model to identify and detect more than one specific object, so\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Object-detection-algorithms-libraries.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14591,
+            "title": "Retraining Model During Deployment: Continuous Training and Continuous Testing",
+            "url": "https://neptune.ai/blog/retraining-model-during-deployment-continuous-training-continuous-testing",
+            "authors": "Akinwande Komolafe",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Train, test and deploy \u2013 that\u2019s it, right? Is your work done? Not quite! One of the biggest mistakes data scientists make with machine learning is that they assume their models will keep working properly forever after deployment. But what about the data, which will inevitably keep changing? A model deployed in production and left\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Retraining-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14592,
+            "title": "Best Practices for Improving Your Machine Learning and Deep Learning Models",
+            "url": "https://neptune.ai/blog/improving-machine-learning-deep-learning-models",
+            "authors": "Sundeep Teki",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning and deep learning models are everywhere around us in modern organizations. The number of AI use cases has been increasing exponentially with the rapid development of new algorithms, cheaper compute, and greater availability of data. Every industry has appropriate machine learning and deep learning applications, from banking to healthcare to education to manufacturing,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Improve-ML-DL-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14593,
+            "title": "ML Metadata Store: What It Is, Why It Matters, and How to Implement It",
+            "url": "https://neptune.ai/blog/ml-metadata-store",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Most people who find this page want to improve their model-building process. But the problems they have with storing and managing ML model metadata are different. For some, it is messy experimentation that is the issue. Others have already deployed the first models to production, but they don\u2019t know how those models were created or\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-Metadata-Store.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14594,
+            "title": "This Is Our MLOps Tool Stack: Continuum Industries",
+            "url": "https://neptune.ai/blog/mlops-tool-stack-continuum-industries",
+            "authors": "Andreas Malekos",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Continuum Industries is a company in the infrastructure industry that wants to automate and optimize the design of linear infrastructure assets like water pipelines, overhead transmission lines, subsea power lines, or telecommunication cables.\u00a0\u00a0 Its core product Optioneer lets customers input the engineering design assumptions and the geospatial data and uses evolutionary optimization algorithms to find\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Continuum-industries-MLOps-toolstack.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14596,
+            "title": "How to Implement Customer Churn Prediction [Machine Learning Guide for Programmers]",
+            "url": "https://neptune.ai/blog/how-to-implement-customer-churn-prediction",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When it comes to useful business applications of machine learning, it doesn\u2019t get much better than customer churn prediction. It\u2019s a problem where you usually have a lot of high-quality, fresh data to work with, it\u2019s relatively straightforward, and solving it can be a great way to increase profits. Churn rate is a critical metric\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Customer-churn-prediction.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14597,
+            "title": "Continuous Integration and Continuous Deployment (CI/CD) Tools for Machine Learning",
+            "url": "https://neptune.ai/blog/continuous-integration-continuous-deployment-tools-for-machine-learning",
+            "authors": "Yulia Gavrilova",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In modern software development teams, continuous integration (CI) and continuous deployment (CD) are standard practices.\u00a0 CI is about how the project should be built and tested in various runtimes, automatically and continuously.\u00a0 CD is needed so that every new bit of code that passes automated testing can be released into production with no extra effort.\u00a0\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/CI-CD-tool-for-ML.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14598,
+            "title": "MLOps Tools for NLP Projects",
+            "url": "https://neptune.ai/blog/mlops-tools-for-nlp-projects",
+            "authors": "Bunmi Akinremi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Chatbots, summarizing apps, Siri, Alexa \u2013 these are just a few cool Natural Language Processing (NLP) projects which are already adopted at mass scale. Have you ever wondered how they\u2019re managed, continuously improved, and maintained? This is exactly the question that we\u2019re going to answer in this article. For example, Google\u2019s autocorrect gets better every\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-tools-for-NLP.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14599,
+            "title": "Installing TensorFlow 2 GPU [Step-by-Step Guide]",
+            "url": "https://neptune.ai/blog/installing-tensorflow-2-gpu-guide",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Tensorflow is one of the most-used deep-learning frameworks. It\u2019s arguably the most popular machine learning platform on the web, with a broad range of users from those just starting out, to people looking for an edge in their careers and businesses.\u00a0 Not all users know that you can install the TensorFlow GPU if your hardware\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Tensorflow-install-gpu.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14601,
+            "title": "How to Keep Track of TensorFlow/Keras Model Development with Neptune",
+            "url": "https://neptune.ai/blog/keep-track-of-tensorflow-keras-model-development-with-neptune",
+            "authors": "Aravind CR",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The model development lifecycle starts with data exploration, then we choose features for our model, choose a baseline algorithm, and next, we try to improve baseline performance with different algorithms and parameter tuning. Sounds simple enough. But, during all of this, you\u2019ll probably create multiple notebooks, or modify one notebook over and over again. This\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Tensorflow-Keras-with-Neptune.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14602,
+            "title": "Predicting Stock Prices Using Machine Learning",
+            "url": "https://neptune.ai/blog/predicting-stock-prices-using-machine-learning",
+            "authors": "Katherine (Yi) Li",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The stock market is known for being volatile, dynamic, and nonlinear. Accurate stock price prediction is extremely challenging because of multiple (macro and micro) factors, such as politics, global economic conditions, unexpected events, a company\u2019s financial performance, and so on.\u00a0 But, all of this also means that there\u2019s a lot of data to find patterns\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Predicting-stock-prices.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14603,
+            "title": "10 NLP Projects to Boost Your Resume",
+            "url": "https://neptune.ai/blog/10-nlp-projects",
+            "authors": "Amal Menzli",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Natural Language Processing (NLP) is a very exciting field. Already, NLP projects and applications are visible all around us in our daily life. From conversational agents (Amazon Alexa) to sentiment analysis (Hubspot\u2019s customer feedback analysis feature), language recognition and translation (Google Translate), spelling correction (Grammarly), and much more. Whether you\u2019re a developer or data scientist\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/NLP-projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14604,
+            "title": "How to Kick Off a Machine Learning Project With Less Data",
+            "url": "https://neptune.ai/blog/machine-learning-project-with-less-data",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If machine learning solutions were cars, their fuel would be data. Simply viewed, ML models are statistical equations that need values and variables to operate, and the data is the biggest contributor to ML success. Today, sources of data are ample, and the amount of available data keeps growing exponentially. This allows us to wrangle,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-project-with-less-data.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14606,
+            "title": "How to Work with Autoencoders [Case Study Guide]",
+            "url": "https://neptune.ai/blog/autoencoders-case-study-guide",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Autoencoders are a class of neural networks that are used in unsupervised learning tasks. They have two neural networks components: Encoder and Decoder. Both components have essentially the same configurations, which means that the shape of the input will be similar to the shape of the output, and also the input will be the same\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Autoencoders-guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14607,
+            "title": "Installing MuJoCo to Work With OpenAI Gym Environments",
+            "url": "https://neptune.ai/blog/installing-mujoco-to-work-with-openai-gym-environments",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, I\u2019ll show you how to install MuJoCo on your Mac/Linux machine in order to run continuous control environments from OpenAI\u2019s Gym. These environments include classic ones like HalfCheetah, Hopper, Walker, Ant, and Humanoid and harder ones like object manipulation with a robotic arm or robotic hand dexterity. I\u2019ll also discuss additional agent\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MuJoCo.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14610,
+            "title": "ML from Research to Production \u2013 Challenges, Best Practices and Tools [Guide]",
+            "url": "https://neptune.ai/blog/ml-from-research-to-production",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Taking machine learning or AI into production takes a lot of patience, effort, and resources. AI models are great for predicting all sorts of things, from what movie you\u2019ll like to whether your cat will scratch the furniture. But in most cases, AI models have a hard time making it into production.\u00a0 In this article,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-from-research-to-production.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14611,
+            "title": "How to Scale ML Projects \u2013 Lessons Learned from Experience",
+            "url": "https://neptune.ai/blog/how-to-scale-ml-projects",
+            "authors": "Katherine (Yi) Li",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the past decade, machine learning has been responsible for turning data into the most valuable asset for an organization. Building out business solutions with ML applications using vast datasets is easier than ever thanks to advancements in computational cloud infrastructures where you can host and run ML algorithms.\u00a0 At the enterprise level, ML models\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Scaling-ML-projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14612,
+            "title": "The KNN Algorithm \u2013 Explanation, Opportunities, Limitations",
+            "url": "https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "K Nearest Neighbor (KNN) is a very simple, easy-to-understand, and versatile machine learning algorithm. It\u2019s used in many different areas, such as handwriting detection, image recognition, and video recognition. KNN is most useful when labeled data is too expensive or impossible to obtain, and it can achieve high accuracy in a wide variety of prediction-type\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/KNN-algorithm.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

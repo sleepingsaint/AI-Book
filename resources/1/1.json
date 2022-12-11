@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14920,
+            "title": "AWS Cloud technology for near-real-time cardiac anomaly detection using data from wearable devices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-cloud-technology-for-near-real-time-cardiac-anomaly-detection-using-data-from-wearable-devices/",
+            "authors": "Benedetto Carollo",
+            "tags": "Amazon Managed Grafana, Amazon Rekognition, Amazon Timestream, Artificial Intelligence, Healthcare, Public Sector",
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "Cardiovascular diseases (CVDs) are the number one cause of death globally: more people die each year from CVDs than from any other cause. The COVID-19 pandemic made organizations change healthcare delivery to reduce staff contact with sick people and the overall pressure on the healthcare system. This technology enables organizations to deliver telehealth solutions, which [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/aws-cloud-cardiac-prediction.jpg"
+        },
+        {
+            "id": 14921,
+            "title": "Apply fine-grained data access controls with AWS Lake Formation and Amazon EMR from Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-and-amazon-emr-from-amazon-sagemaker-studio/",
+            "authors": "Durga Sury, Jun Lyu, Maira Ladeira Tanke, Sriharsh Adari, Sumedha Swamy",
+            "tags": "Advanced (300), Amazon EMR, Amazon SageMaker, Artificial Intelligence, AWS Lake Formation",
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) that enables data scientists and developers to perform every step of the ML workflow, from preparing data to building, training, tuning, and deploying models. Studio comes with built-in integration with Amazon EMR so that data scientists can interactively prepare data at [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/apply-fine-grained-data-access-controls.jpg"
+        },
+        {
+            "id": 14923,
+            "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
+            "authors": "Stephen Carrad",
+            "tags": "Artificial Intelligence, AWS DeepRacer, Customer Solutions",
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase & Co. JPMorgan & Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications tentatively dipped their toes into [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/jpmorgan-deepracer.jpg"
+        },
+        {
+            "id": 14454,
+            "title": "Real-time analysis of customer sentiment using AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/real-time-analysis-of-customer-sentiment-using-aws/",
+            "authors": "Varad Varadarajan",
+            "tags": "Advanced (300), Amazon Comprehend, Artificial Intelligence, Customer Solutions, Intermediate (200)",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Companies that sell products or services online need to constantly monitor customer reviews left on their website after purchasing a product. The company\u2019s marketing and customer service departments analyze these reviews to understand customer sentiment. For example, marketing could use this data to create campaigns targeting different customer segments. Customer service departments could use this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/real-time-customer-sentiment.jpg"
+        },
+        {
+            "id": 14899,
+            "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
+            "url": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
+            "authors": "Yanwei Cui, Gordon Wang",
+            "tags": "Amazon Forecast, Best Practices, Intermediate (200), Retail, Technical How-to",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved the manual forecast by an average of 10% in regards to the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg"
+        },
+        {
+            "id": 14900,
+            "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate/",
+            "authors": "Fahad Ahmed",
+            "tags": "Advanced (300), Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit in the enterprise has different translation workloads and often manages their own translation requirements [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/accelerate-multilingual-workflows-translate.jpg"
+        },
+        {
+            "id": 14901,
+            "title": "ByteDance saves up to 60% on inference costs while reducing latency and increasing throughput using AWS Inferentia",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bytedance-saves-up-to-60-on-inference-costs-while-reducing-latency-and-increasing-throughput-using-aws-inferentia/",
+            "authors": "Minghui Yu, Joshua Hannan, Jia Dong, Jianzhe Xiao, Jonathan Lunt, Shruti Koparkar, Tian Shi",
+            "tags": "AWS Inferentia",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "This is a guest blog post co-written with Minghui Yu and Jianzhe Xiao from Bytedance. ByteDance is a technology company that operates a range of content platforms to inform, educate, entertain, and inspire people across languages, cultures, and geographies. Users trust and enjoy our content platforms because of the rich, intuitive, and safe experiences they [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/bytedance-inferentia.jpg"
+        },
+        {
+            "id": 14905,
+            "title": "Identifying landmarks with Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
+            "authors": "Suresh Patnam, Bunny Kaushik",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Amazon Rekognition is a computer vision service that makes it simple to add image and video analysis to your applications using proven, highly scalable, deep learning technology that does not require machine learning (ML) expertise. With Amazon Rekognition, you can identify objects, people, text, scenes, and activities in images and videos and detect inappropriate content. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/09/ML-3632-image001.jpg"
+        },
+        {
+            "id": 14445,
+            "title": "Identify key insights from text documents through fine-tuning and HPO with Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identify-key-insights-from-text-documents-through-fine-tuning-and-hpo-with-amazon-sagemaker-jumpstart/",
+            "authors": "Xin Huang, Geremy Cohen, Neelam Koshiya, Vivek Gangasani",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Expert (400)",
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Organizations across industries such as retail, banking, finance, healthcare, manufacturing, and lending often have to deal with vast amounts of unstructured text documents coming from various sources, such as news, blogs, product reviews, customer support channels, and social media. These documents contain critical information that\u2019s key to making important business decisions. As an organization grows, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/key-insights-hpo-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 14448,
+            "title": "Generate cold start forecasts for products with no historical data using Amazon Forecast, now up to 45% more accurate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/generate-cold-start-forecasts-for-products-with-no-historical-data-using-amazon-forecast-now-up-to-45-more-accurate/",
+            "authors": "Brandon Nair, Gaurav Gupta, Manas Dadarkar, Bharat Nandamuri",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Now with Amazon Forecast, you can generate up to 45% more accurate forecasts for products with no historical data. Forecast is a managed service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience. Accurate forecasting is the foundation for inventory optimization, logistics planning, and workforce management and it enables [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/generate-cold-start-forecasts.jpg"
+        },
+        {
+            "id": 14449,
+            "title": "Amazon Rekognition Labels adds 600 new labels, including landmarks, and now detects dominant colors",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-labels-adds-600-new-labels-including-landmarks-and-now-detects-dominant-colors/",
+            "authors": "Maria Handoko, Shipra Kanoria",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Amazon Rekognition offers pre-trained and customizable computer vision capabilities to extract information and insights from images and videos. One such capability is Amazon Rekognition Labels, which detects objects, scenes, actions, and concepts in images. Customers such as Synchronoss, Shutterstock, and Nomad Media use Amazon Rekognition Labels to automatically add metadata to their content library and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/21/ml12347-rekognition-labels-2.jpg"
+        },
+        {
+            "id": 14418,
+            "title": "Your guide to AI/ML at AWS re:Invent 2022",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-ml-at-aws-reinvent-2022/",
+            "authors": "Denis V. Batalov, Amelie Perkuhn",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS re:Invent, Events",
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "AWS re:Invent season is upon us again! Just a few days to go until re:Invent takes place for the 11th year in Las Vegas, Nevada. The Artificial Intelligence and Machine Learning team at AWS has been working hard to offer amazing content, an outstanding AWS DeepRacer experience, and much more. In this post, we give [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/your-guide-to-aiml-reinvent2022.jpg"
+        },
+        {
+            "id": 14423,
+            "title": "Easy and accurate forecasting with AutoGluon-TimeSeries",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easy-and-accurate-forecasting-with-autogluon-timeseries/",
+            "authors": "Caner Turkmen, Nick Erickson, Oleksandr Shchur",
+            "tags": "Artificial Intelligence, Gluon, Intermediate (200)",
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "AutoGluon-TimeSeries is the latest addition to AutoGluon, which helps you easily build powerful time series forecasting models with as little as three lines of code. Time series forecasting is a common task in a wide array of industries as well as scientific domains. Having access to reliable forecasts for supply, demand, or capacity is crucial [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/forecasting-autogluon-timeseries.jpg"
+        },
+        {
+            "id": 13856,
+            "title": "Build high performing image classification models using Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-high-performing-image-classification-models-using-amazon-sagemaker-jumpstart/",
+            "authors": "Raju Penmatcha, Ashish Khetan",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Image classification is a computer vision-based machine learning (ML) technique that allows you to classify images. Some well-known examples of image classification include classifying handwritten digits, medical image classification, and facial recognition. Image classification is a useful technique with several business applications, but building a good image classification model isn\u2019t trivial. Several considerations can play [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/high-performing-image-classification-models-sagemaker.jpg"
+        },
+        {
+            "id": 13857,
+            "title": "Large-scale feature engineering with sensitive data protection using AWS Glue interactive sessions and Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/large-scale-feature-engineering-with-sensitive-data-protection-using-aws-glue-interactive-sessions-and-amazon-sagemaker-studio/",
+            "authors": "Praveen Kumar, Noritaka Sekiyama",
+            "tags": "Advanced (300), Amazon SageMaker, AWS Big Data, AWS Glue, AWS Lake Formation, Thought Leadership",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Organizations are using machine learning (ML) and AI services to enhance customer experience, reduce operational cost, and unlock new possibilities to improve business outcomes. Data underpins ML and AI use cases and is a strategic asset to an organization. As data is growing at an exponential rate, organizations are looking to set up an integrated, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/large-scale-feature-engineering-glue-sagemaker.jpg"
+        },
+        {
+            "id": 14411,
+            "title": "How Yara is using MLOps features of Amazon SageMaker to scale energy optimization across their ammonia plants",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-yara-is-using-mlops-features-of-amazon-sagemaker-to-scale-energy-optimization-across-their-ammonia-plants/",
+            "authors": "Shaheer Mansoor, Tim Becker, Yongyos Kaewpitakkun",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, Case Study, Customer Solutions",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Learn how Yara is using Amazon SageMaker features, including the model registry, Amazon SageMaker Model Monitor, and Amazon SageMaker Pipelines to streamline the machine learning (ML) lifecycle by automating and standardizing MLOps practices. We provide an overview of the setup, showcasing the process of building, training, deploying, and monitoring ML models for plants around the globe.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/yara-sagemaker-ammonia.jpg"
+        },
+        {
+            "id": 14412,
+            "title": "AlexaTM 20B is now available in Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/alexatm-20b-is-now-available-in-amazon-sagemaker-jumpstart/",
+            "authors": "Vivek Madan, Jack FitzGerald, Joao Moura, June Won, Pulkit Kapur",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Today, we announce the public availability of Amazon\u2019s state-of-the-art Alexa Teacher Model with 20 billion parameters \u00a0(AlexaTM 20B) through Amazon SageMaker JumpStart, SageMaker\u2019s machine learning hub. AlexaTM 20B is a multilingual large-scale sequence-to-sequence (seq2seq) language model developed by Amazon. You can use AlexaTM 20B for a wide range of industry use-cases, from summarizing financial reports [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/17/alexatm-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Build a cross-account MLOps workflow using the Amazon SageMaker model registry",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry/",
+            "authors": "Sandeep Verma, Farooq Sabir, Mani Khanuja, Rupinder Grewal, Saumitra Vikram, Sreedevi Srinivasan",
+            "tags": "Advanced (300), Amazon SageMaker, Best Practices, Technical How-to",
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At AWS, we\u2019re continuing to innovate to simplify the MLOps workflow. In this post, we discuss some [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Enabling hybrid ML workflows on Amazon EKS and Amazon SageMaker with one-click Kubeflow on AWS deployment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enabling-hybrid-ml-workflows-on-amazon-eks-and-amazon-sagemaker-with-one-click-kubeflow-on-aws-deployment/",
+            "authors": "Kanwaljit Khurmi, Kartik Kalamadi, Rahul Kharse",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "Today, many AWS customers are building enterprise-ready machine learning (ML) platforms on Amazon Elastic Kubernetes Service (Amazon EKS) using Kubeflow on AWS (an AWS-specific distribution of Kubeflow) across many use cases, including computer vision, natural language understanding, speech translation, and financial modeling. With the latest release of open-source Kubeflow v1.6.1, the Kubeflow community continues to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/enabling-hybrid-ml-workflows-eks-sagemaker.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Malware detection and classification with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
+            "authors": "Rahul Shaurya, Bruno Dhefto, Edvin Hallvaxhiu, Nadim Majed",
+            "tags": "Advanced (300), Amazon Rekognition, Artificial Intelligence, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it\u2019s predicted to cost its victims $265 billion (USD) annually by 2031. At the time [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/malware-detection-rekognition.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Get more control of your Amazon SageMaker Data Wrangler workloads with parameterized datasets and scheduled jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-more-control-of-your-amazon-sagemaker-data-wrangler-workloads-with-parameterized-datasets-and-scheduled-jobs/",
+            "authors": "David Laredo, Adrian Fuentes Flores, Givanildo Dantas Alves",
+            "tags": "Amazon Machine Learning, Amazon SageMaker Data Wrangler, Announcements, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "Data is transforming every field and every business. However, with data growing faster than most companies can keep track of, collecting data and getting value out of that data is a challenging thing to do. A modern data strategy can help you create better business outcomes with data. AWS provides the most complete set of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/sagemaker-data-wrangler-parameterized-datasets.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Detect multicollinearity, target leakage, and feature correlation with Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-multicollinearity-target-leakage-and-feature-correlation-with-amazon-sagemaker-data-wrangler/",
+            "authors": "Vadim Omeltchenko, Arunprasath Shankar",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence, Learning Levels",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "In machine learning (ML), data quality has direct impact on model quality. This is why data scientists and data engineers spend significant amount of time perfecting training datasets. Nevertheless, no dataset is perfect\u2014there are trade-offs to the preprocessing techniques such as oversampling, normalization, and imputation. Also, mistakes and errors could creep in at various stages [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/detect-multicollinearity-sagemaker-data-wrangler.jpg"
+        },
+        {
+            "id": 6,
+            "title": "New Amazon HealthLake capabilities enable next-generation imaging solutions and precision health analytics",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-amazon-healthlake-capabilities-enable-next-generation-imaging-solutions-and-precision-health-analytics/",
+            "authors": "Tehsin Syed, Dr. Taha A. Kass-Hout",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence, Healthcare",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "At AWS, we have been investing in healthcare since Day 1 with customers including Moderna, Rush University Medical Center, and the NHS\u00a0who have built breakthrough innovations in the cloud. From developing public health analytics hubs, to improving health equity and patient outcomes, to developing a COVID-19 vaccine in just 65 days, our customers are utilizing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/15/new-amazon-healthlake-capabilities.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Refit trained parameters on large datasets using Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/refit-trained-parameters-on-large-datasets-using-amazon-sagemaker-data-wrangler/",
+            "authors": "Hariharan Suresh, Aniketh Manjunath, Santoshkumar Kulkarni, Vishaal Kapoor",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Amazon SageMaker Data Wrangler helps you understand, aggregate, transform, and prepare data for machine learning (ML) from a single visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform, and combine features without having to write any code. Data science practitioners generate, observe, and process data to solve business problems [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/14/refit-trained-parameters-data-wrangler.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Run machine learning inference workloads on AWS Graviton-based instances with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-inference-workloads-on-aws-graviton-based-instances-with-amazon-sagemaker/",
+            "authors": "Zmnako Awrahman, Alan Tan, Sunita Nadampalli, Victor Hugo Jaramillo Velasquez, Johna Liu",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Deep Learning AMIs, Best Practices, Technical How-to, Tensorflow on AWS",
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Today, we are launching Amazon SageMaker inference on AWS Graviton to enable you to take advantage of the price, performance, and efficiency benefits that come from Graviton chips. Graviton-based instances are available for model inference in SageMaker. This post helps you migrate and deploy a machine learning (ML) inference workload from x86 to Graviton-based instances [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/14/machine-learning-workloads-graviton-sagemaker.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Amazon SageMaker Studio Lab continues to democratize ML with more scale and functionality",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-studio-lab-continues-to-democratize-ml-with-more-scale-and-functionality/",
+            "authors": "Michele Monclova",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-11T00:00:00",
+            "description": "To make machine learning (ML) more accessible, Amazon launched Amazon SageMaker Studio Lab at AWS re:Invent 2021. Today, tens of thousands of customers use it every day to learn and experiment with ML for free. We made it simple to get started with just an email address, without the need for installs, setups, credit cards, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/11/ml-12351-Featured-images-for-DBSO-Blogs.jpg"
+        },
+        {
+            "id": 10,
+            "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
+            "authors": "Arun Gupta, Amit Gupta, Prashanth Ganapathy, Nick Ramos",
+            "tags": "Advanced (300), Amazon Rekognition, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-11-10T00:00:00",
+            "description": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands\u2014Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise\u2014along with a complementary suite of business solutions for marketers and researchers. Prodege has 120 million users and has [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/prodegeblogheroimage.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Identifying and avoiding common data issues while building no code ML models with Amazon SageMaker Canvas",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-and-avoiding-common-data-issues-while-building-no-code-ml-models-with-amazon-sagemaker-canvas/",
+            "authors": "Hariharan Suresh, James Wu, Sainath Miriyala",
+            "tags": "Amazon SageMaker, Amazon SageMaker Canvas, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-10T00:00:00",
+            "description": "Business analysts work with data and like to analyze, explore, and understand data to achieve effective business outcomes. To address business problems, they often rely on machine learning (ML) practitioners such as data scientists to assist with techniques such as utilizing ML to build models using existing data and generate predictions. However, it isn\u2019t always [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/10/avoiding-common-data-issues-sagemaker-canvas.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Brain tumor segmentation at scale using AWS Inferentia",
+            "url": "https://aws.amazon.com/blogs/machine-learning/brain-tumor-segmentation-at-scale-using-aws-inferentia/",
+            "authors": "Benedetto Carollo",
+            "tags": "AWS Inferentia, Expert (400), Healthcare",
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Medical imaging is an important tool for the diagnosis and localization of disease. Over the past decade, collections of medical images have grown rapidly, and open repositories such as The Cancer Imaging Archive and Imaging Data Commons have democratized access to this vast imaging data. Computational tools such as machine learning (ML) and artificial intelligence [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/brain-tumor-segmentation-inferentia.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Serve multiple models with Amazon SageMaker and Triton Inference Server",
+            "url": "https://aws.amazon.com/blogs/machine-learning/serve-multiple-models-with-amazon-sagemaker-and-triton-inference-server/",
+            "authors": "Zheng Zhang",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Architecture, Artificial Intelligence, Best Practices, Industries, Technical How-to",
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service for data science and machine learning (ML) workflows. It helps data scientists and developers prepare, build, train, and deploy high-quality ML models quickly by bringing together a broad set of capabilities purpose-built for ML. In 2021, AWS announced the integration of NVIDIA Triton Inference Server in SageMaker. You [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/serve-multiple-models-sagemaker-triton-f.jpg"
+        }
+    ]
+}

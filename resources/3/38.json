@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3084,
+            "title": "Boosting in Machine Learning: Definition, Functions, Types, and Features",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/boosting-in-machine-learning-definition-functions-types-and-features/",
+            "authors": "Prashant Sharma",
+            "tags": "Algorithm, Beginner, Machine Learning",
+            "publishedOn": "2022-01-21T00:00:00",
+            "description": "In this article, we are going to define Machine Learning boosting where models are able to enhance the accuracy of their predictions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/04_thumb.jpg"
+        },
+        {
+            "id": 3085,
+            "title": "NLP Tutorials Part II: Feature Extraction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-ii-feature-extraction/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Advanced, Machine Learning, NLP, Python",
+            "publishedOn": "2022-01-21T00:00:00",
+            "description": "NLP tutorials of feature extraction, learn how to convert the text data into a machine-readable format into numbers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/Screenshot-2022-01-21-at-12.49.17-PM.png"
+        },
+        {
+            "id": 3086,
+            "title": "Introduction to the Neural Network Model, Glossary, and Backpropagation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/introduction-to-the-neural-network-model-glossary-and-backpropagation/",
+            "authors": "Prashant Sharma",
+            "tags": "Deep Learning, Intermediate, Maths",
+            "publishedOn": "2022-01-21T00:00:00",
+            "description": "We will assist novices to understand what neural networks are, what a neural network model is, and how to expand their knowledge.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/66565What-is-an-Artificial-Neural-Networks.jpeg"
+        },
+        {
+            "id": 3087,
+            "title": "A brief introduction to Multilevel Modelling",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/a-brief-introduction-to-multilevel-modelling/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2022-01-20T00:00:00",
+            "description": "In this article, you will learn about multilevel modelling. What is it? The different types of multilevel modelling and how can you use it?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.png"
+        },
+        {
+            "id": 3088,
+            "title": "Image Classification using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/image-classification-using-machine-learning/",
+            "authors": "Nithyashree V",
+            "tags": "Algorithm, Image Analysis, Intermediate, Machine Learning",
+            "publishedOn": "2022-01-20T00:00:00",
+            "description": "In this article, we will learn how to perform image classification using four popular machine learning algorithms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-4-Pretrained-Image-classification-models.jpg"
+        },
+        {
+            "id": 3089,
+            "title": "Log Parsing using Regular Expressions and Scala in Spark",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/log-parsing-using-regular-expressions-and-scala-in-spark/",
+            "authors": "Uday Shaw",
+            "tags": "Intermediate, Spark",
+            "publishedOn": "2022-01-20T00:00:00",
+            "description": "In this article, we will learn how log parsing can be used with Spark and Scala and get meaningful data from unstructured data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/61214python.jpg"
+        },
+        {
+            "id": 3090,
+            "title": "Complete Guide on Rest API with Python and Flask",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/rest-api-with-python-and-flask/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Machine Learning, Python",
+            "publishedOn": "2022-01-20T00:00:00",
+            "description": "In this tutorial, we will practically learn to create Rest API with Python and Flask and make working more powerful.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/81090Techniques-for-Proper-API-Caching.png"
+        },
+        {
+            "id": 3091,
+            "title": "SQL: A Full Fledged Guide from Basics to Advance Level",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/learning-sql-from-basics-to-advance/",
+            "authors": "Harsh Kulkarni",
+            "tags": "Beginner, Data Engineering, Database, SQL",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "SQL stands for Structured Query Language, and it lets users access and manipulate the data. Companies use different systems to their data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 3092,
+            "title": "Interesting Python Projects With Code for Beginners \u2013 Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/interesting-python-projects-with-code-for-beginners-part-2/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Datasets, Project, Python",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "Want to get better with programming and Python as a language? Then, this article is for you! You will learn Python Projects with Codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/r-python.png"
+        },
+        {
+            "id": 3093,
+            "title": "Which is Better for Machine Learning: Flask vs Django?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/which-is-better-for-machine-learning-flask-vs-django/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Data Engineering, Machine Learning, Model Deployment",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "Flask vs Django is interesting as both Python frameworks, and If you are also confused at the deployment stage, this article is for you.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/29710python-programming-language.png"
+        },
+        {
+            "id": 3094,
+            "title": "Min Heap in Python and its Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/min-heap-in-python-and-its-operations/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "In this article, you will learn about Heap and how Min Heap is used in python. Along with this, you will learn some of its operations.",
+            "thumbnail": "https://editor.analyticsvidhya.com/uploads/72001download.png"
+        },
+        {
+            "id": 3095,
+            "title": "Different Types of Regression Models",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/different-types-of-regression-models/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Machine Learning, Regression",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "Regression models are prevalent in machine learning, and regression analysis is the most often used technique for problem solving.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/38489rsz_linear-regression-in-python_watermarked479f82188ace.jpg"
+        },
+        {
+            "id": 3096,
+            "title": "Build a User Authentication System with QR Code Scanner using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/build-a-user-authentication-system-with-qr-code-scanner-using-opencv/",
+            "authors": "Tithi Sreemany",
+            "tags": "Advanced, Computer Vision, Image, Object Tracking, Python",
+            "publishedOn": "2022-01-19T00:00:00",
+            "description": "In this article, we will learn about one of the most popular day-to-day applications is the use of QR Code Scanner using OpenCV.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3097,
+            "title": "A Super Helpful Month-by-Month Plan to Become a Data Engineer in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/hop-on-to-your-data-engineering-career-with-av/",
+            "authors": "Sakshi Raheja",
+            "tags": "Beginner, Courses, Data Engineering, Interview Questions",
+            "publishedOn": "2022-01-18T00:00:00",
+            "description": "In this article, We will take you through a learning path that will help you achieve your dream to have a fulfilling Data Engineer Career.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/overview-of-data-engineering.jpg"
+        },
+        {
+            "id": 3098,
+            "title": "Flight Fare Prediction Using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/flight-fare-prediction-using-machine-learning/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Visualization, Datasets, Graphs & Networks, Machine Learning, Python",
+            "publishedOn": "2022-01-18T00:00:00",
+            "description": "In this article, we will be analysing the flight fare prediction using machine learning. Then draw some predictions using various factors.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/25317plane.jpg"
+        },
+        {
+            "id": 3099,
+            "title": "Hacking Into Nvidia Nemo Script(Download Common\u00a0Voice)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/hacking-into-nvidia-nemo-scriptdownload-common-voice/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Datasets, NLP",
+            "publishedOn": "2022-01-18T00:00:00",
+            "description": "Nvidia Nemo Script is a great library for creating NLP models using just a few lines and code. Read more about it in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/Screenshot-2022-01-18-at-7.04.44-PM.png"
+        },
+        {
+            "id": 3100,
+            "title": "Microsoft Malware Detection",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/microsoft-malware-detection/",
+            "authors": "Shivam Baldha",
+            "tags": "Algorithm, Beginner, Guide, Kaggle, Machine Learning",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "In this article, you will learn through a problem statement from Kaggle which is Microsoft malware detection.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 3101,
+            "title": "Layers of the Data Platform Architecture",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/layers-of-the-data-platform-architecture/",
+            "authors": "Harshit Ahluwalia",
+            "tags": "Beginner, Data Engineering, Data Science",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "We will discuss different layers of the data platform architecture that include the Data ingestion layer, and Data Pipeline layer, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Importance-Of-Feature-Engineering-In-DataHack-Competitions.jpg"
+        },
+        {
+            "id": 3102,
+            "title": "Logistic Regression: An Introductory Note",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/logistic-regression-an-introductory-note/",
+            "authors": "Shruti Sureshan",
+            "tags": "Beginner, Datasets, Machine Learning, Python, Regression",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "In this article, we will learn about supervised learning classifier which is known as a Logistic regression classifier.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/26630linear_Regression.jpeg"
+        },
+        {
+            "id": 3103,
+            "title": "A Comprehensive Guide on Kubernetes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-kubernetes/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Cloud Computing, Data Engineering, Guide, kubernetes, Model Deployment",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "In this guide, we will dive in to learn about Kubernetes and use it to deploy and manage containers at scale.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/deep-learning.jpg"
+        },
+        {
+            "id": 3104,
+            "title": "Sentiment Analysis with LSTM",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/sentiment-analysis-with-lstm/",
+            "authors": "Koushiki Dasgupta Chaudhuri",
+            "tags": "Beginner, Datasets, Deep Learning, NLP, Python",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "Sentiment Analysis with LSTM is an NLP application that identifies a text corpus's emotional or sentimental tone or opinion.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/sentiment_analysis_innoplexus_hackathon.jpg"
+        },
+        {
+            "id": 3105,
+            "title": "Roadmap to Master NLP in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Deep Learning, Interview Questions, Listicle, NLP",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "This article will discuss the complete roadmap to master NLP. You will learn some tips to master NLP, especially for beginners.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        },
+        {
+            "id": 3106,
+            "title": "A Guide to Understand Machine Learning Pipeline with Case Study",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/a-guide-to-understand-machine-learning-pipeline-with-case-study/",
+            "authors": "Bhawna Chopra",
+            "tags": "Beginner, Datasets, Machine Learning, Python",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "In this guide, you will study details about Machine Learning Pipeline. With a case study as an example the concept will get more enriching.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ebook_machine_learning_starter_program.jpg"
+        },
+        {
+            "id": 3107,
+            "title": "Histogram Boosting Gradient Classifier",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/histogram-boosting-gradient-classifier/",
+            "authors": "Premanand S",
+            "tags": "Beginner, Datasets, Machine Learning, Python",
+            "publishedOn": "2022-01-17T00:00:00",
+            "description": "Know about Histogram Boosting Gradient Classifier which is an ensemble learning, gradient boosting algorithm in Machine Learning technology.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 3108,
+            "title": "Overview of MLOps With Open Source Tools",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/overview-of-mlops-with-open-source-tools/",
+            "authors": "Amit Kulkarni",
+            "tags": "Beginner, MLops",
+            "publishedOn": "2022-01-15T00:00:00",
+            "description": "This article will serve as an overview to MLOps using open-source tools.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3109,
+            "title": "A Comprehensive Guide on Recommendation Engines In 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-recommendation-engines-in-2022/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Database, Guide, Machine Learning, Recommendation",
+            "publishedOn": "2022-01-14T00:00:00",
+            "description": "Recommendation engines in 2022 are data filtering systems that operate on different machine learning algorithms.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/08/recommendation-engines1.jpg"
+        },
+        {
+            "id": 3110,
+            "title": "Understanding Confidence Intervals with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/understanding-confidence-intervals-with-python/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Guide, Python, Statistics",
+            "publishedOn": "2022-01-14T00:00:00",
+            "description": "In this article, we will learn about confidence intervals with python. It is a range of values ranging above and below the sample statistics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/12080659/statistics.png"
+        },
+        {
+            "id": 3111,
+            "title": "NLP Tutorials Part -I from Basics to Advance",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Beginner, NLP, Python",
+            "publishedOn": "2022-01-13T00:00:00",
+            "description": "In this article, we will learn about the NLP tutorials techniques for textual data preprocessing and learn how to process word cloud.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/nlp-models.png"
+        },
+        {
+            "id": 3112,
+            "title": "Creating a Youtube Summariser \u2013 Mini NLP Project",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/youtube-summariser-mini-nlp-project/",
+            "authors": "Basil Saji",
+            "tags": "Advanced, NLP, Python, Text, Videos",
+            "publishedOn": "2022-01-13T00:00:00",
+            "description": "In this article, we are discussing a mini NLP project, a YouTube Summarizer which will summarize the content(subtitle) of the youtube video.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        },
+        {
+            "id": 3113,
+            "title": "HQL COMMANDS FOR DATA ANALYTICS",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/hql-commands-for-data-analytics/",
+            "authors": "Harshitn",
+            "tags": "Big data, Datasets, SQL",
+            "publishedOn": "2022-01-13T00:00:00",
+            "description": "HQL for data analytics is a powerful SQL like querying language which helps users to perform data analysis big datasets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Partitioning-vs-Bucketing-in-Apache-Hive.jpg"
+        }
+    ]
+}

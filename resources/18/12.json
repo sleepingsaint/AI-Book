@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10397,
+            "title": "Breaking Down Roboflow's Health Check Dimension Insights",
+            "url": "https://blog.roboflow.com/resize-images-with-dimension-insights/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-29T00:00:00",
+            "description": "Roboflow improves datasets without any user effort. This includes dropping zero-pixel bounding boxes and cropping out-of-frame bounding boxes to be in-line with the edge of an image. Roboflow also notifies users of potential areas requiring attention like severely underrepresented classes (as was present in the original hard hat object detection",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/health_check.jpg"
+        },
+        {
+            "id": 10398,
+            "title": "Introducing the Roboflow Model Library",
+            "url": "https://blog.roboflow.com/roboflow-model-library-launch/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-04-28T00:00:00",
+            "description": "Over the past few months we've been building up a library of easy to use, open source computer vision models. We've now given them a home: the Roboflow Model Library. https://models.roboflow.ai has an overview of ready-to-use object detection and classification models.There, you can access information about",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/roboflow_model_library.jpg"
+        },
+        {
+            "id": 10399,
+            "title": "The Difference Between Missing and Null Annotations",
+            "url": "https://blog.roboflow.com/missing-and-null-image-annotations/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-24T00:00:00",
+            "description": "A discussion of missing versus null annotations and how VOC XML and COCO JSON handle them.Preparing data for computer vision models is a tedious task. Even assuming training images are appropriately representative for inference, managing annotations quickly becomes a challenge. In some annotation formats (PASCAL VOC XML, YOLO DarkNet)",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/null_vs_missing.png"
+        },
+        {
+            "id": 10400,
+            "title": "EfficientDet for Object Detection",
+            "url": "https://blog.roboflow.com/breaking-down-efficientdet/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-04-22T00:00:00",
+            "description": "In this post, we deep dive into the neural magic of EfficientDet for object detection.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/breakdown_efficientdet.png"
+        },
+        {
+            "id": 10401,
+            "title": "Roboflow Presents at Open Data Science Conference (ODSC) East 2020",
+            "url": "https://blog.roboflow.com/roboflow-presents-at-open-data-science-conference-east/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-16T00:00:00",
+            "description": "The Open Data Science Conference (East) looked a bit different this year. While typically 6,000+ data science professionals gather in Boston for the Expo, the team at ODSC moved the entire event online. Still, over 3,000 \"attendees\" gathered in a shared Slack Workspace and online livestream to enjoy",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/odsc-east-talk.png"
+        },
+        {
+            "id": 10402,
+            "title": "How to Create a Synthetic Dataset for Computer Vision",
+            "url": "https://blog.roboflow.com/how-to-create-a-synthetic-dataset-for-computer-vision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-04-15T00:00:00",
+            "description": "And why you might want to.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/04/synthetic-fruit-twitter-card-1.jpg"
+        },
+        {
+            "id": 10403,
+            "title": "Training EfficientDet Object Detection Model with a Custom Dataset",
+            "url": "https://blog.roboflow.com/training-efficientdet-object-detection-model-with-a-custom-dataset/",
+            "authors": "Jacob Solawetz, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-13T00:00:00",
+            "description": "A tutorial to train and use EfficientDet on a custom object detection task with varying number of classes      YOLOv5 is Out!     If you're here for EfficientDet in particular, stay for EfficientDet. Otherwise consider running the YOLOv5 PyTorch tutorial in Colab. You'll have a very performant, trained YOLOv5 model on your",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/train_efficientdet.png"
+        },
+        {
+            "id": 10404,
+            "title": "Introducing an Improved Hard Hat Dataset for Computer Vision in Workplace Safety",
+            "url": "https://blog.roboflow.com/introducing-an-improved-hard-hat-dataset-for-computer-vision-in-workplace-safety/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-10T00:00:00",
+            "description": "In a given year, approximately 65,000 workers wearing hard hats incur head injuries in the workplace, of which over one thousand ultimately die. Workplace safety regulations exist to protect and promote wellbeing in the workplace, yet ensuring awareness and compliance can be a challenge. Even in cases of accidental",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/hardhats.png"
+        },
+        {
+            "id": 10405,
+            "title": "Our First Video Tutorial: YOLOv3 in PyTorch on a Custom Dataset",
+            "url": "https://blog.roboflow.com/our-first-video-tutorial/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-08T00:00:00",
+            "description": "We're introducing a new experiment this week: Roboflow is launching a Roboflow YouTube channel.We've been encouraged by the popularity of our computer vision tutorials. When Googling for some architectures, Roboflow content ranks at the top of what researchers, developers, and aspiring computer vision practitioners are finding valuable. Increasingly, we've",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/yolov3_pytorch.png"
+        },
+        {
+            "id": 10406,
+            "title": "How to Create to a TFRecord File for Computer Vision and Object Detection",
+            "url": "https://blog.roboflow.com/create-tfrecord/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-06T00:00:00",
+            "description": "We\u2019ll break it down in this post: the what, why, and how of TFRecords for computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/train.tfrecord-iamge.png"
+        },
+        {
+            "id": 10407,
+            "title": "Using Computer Vision to Fight Coronavirus (COVID-19)",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-fight-coronavirus-covid-19/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-03T00:00:00",
+            "description": "As global coronavirus case numbers continue to climb, troubling stories of hospital shortages, deaths, and disrupted communities fill the news. Frankly, it can leave one feeling disempowered \u2013 especially when the primary calls to action are staying home and wearing masks. Amid the global illness, there have been uplifting stories. Apple",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/04/Chest-scans-1.png"
+        },
+        {
+            "id": 10408,
+            "title": "Releasing a New YOLOv3 Implementation in PyTorch",
+            "url": "https://blog.roboflow.com/releasing-a-new-yolov3-implementation/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-04-01T00:00:00",
+            "description": "At Roboflow, we're constantly adapting our product to make it as easy as possible for users to create custom computer vision models on high quality data. While we have an implementation of YOLOv3 in Keras, we continuously heard requests for support of YOLOv3 in PyTorch.      Update: YOLO v5 Released     And",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/pytorch-logo.jpeg"
+        },
+        {
+            "id": 10409,
+            "title": "Introducing Image Preprocessing and Augmentation Previews",
+            "url": "https://blog.roboflow.com/new-in-roboflow-augmentation-previews/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-30T00:00:00",
+            "description": "Knowing how an image preprocessing step or augmentation is going to appear before you write the code for it is essential. Is it worth it to figure out the right amount of brightness? Will rotation increase variability appropriately? Roboflow is introducing features to take out the guesswork: preprocessing and augmentation",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/image-preproc-and-aug-prev.gif"
+        },
+        {
+            "id": 10410,
+            "title": "How Flip Augmentation Improves Model Performance",
+            "url": "https://blog.roboflow.com/how-flip-augmentation-improves-model-performance/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-20T00:00:00",
+            "description": "Flipping an image (and its annotations) is a deceivingly simple technique that can improve model performance in substantial ways. Our models are learning what collection of pixels and the relationship between those collections of pixels denote an object is in-frame. But machine learning models (like convolutional neural networks) have a",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/flip-augmentation-settings.gif"
+        },
+        {
+            "id": 10411,
+            "title": "Introducing Bounding Box Level Augmentations",
+            "url": "https://blog.roboflow.com/introducing-bounding-box-level-augmentations/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-18T00:00:00",
+            "description": "This state of the art technique has been shown to improve model performance. Roboflow is the only online platform to offer it.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/05/bounding-box-only.png"
+        },
+        {
+            "id": 10412,
+            "title": "LabelImg for Labeling Object Detection Data",
+            "url": "https://blog.roboflow.com/labelimg/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-16T00:00:00",
+            "description": "In this walkthrough, we\u2019ll demonstrate how you can use LabelImg to get started with labeling your own data for object detection models.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/getting_started_with_labelimg.png"
+        },
+        {
+            "id": 10413,
+            "title": "The Importance of Blur as an Image Augmentation Technique",
+            "url": "https://blog.roboflow.com/using-blur-in-computer-vision-preprocessing/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-13T00:00:00",
+            "description": "When we train computer vision models, we often take ideal photos of our subjects. We line up our subject just right and curate datasets of best case lighting. But our deep learning models in production aren't so lucky. Deliberately introducing imperfections into our datasets is essential to making our machine",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/03/cats-blur.png"
+        },
+        {
+            "id": 10414,
+            "title": "Training a TensorFlow Faster R-CNN Object Detection Model on a Custom Dataset",
+            "url": "https://blog.roboflow.com/training-a-tensorflow-faster-r-cnn-object-detection-model-on-your-own-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-11T00:00:00",
+            "description": "In this example we will walkthrough training an object detection model using the TensorFlow object detection API",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/Screen-Shot-2022-05-11-at-3.25.00-PM.webp"
+        },
+        {
+            "id": 10415,
+            "title": "Why to Add Noise to Images for Machine Learning",
+            "url": "https://blog.roboflow.com/why-to-add-noise-to-images-for-machine-learning/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-03-09T00:00:00",
+            "description": "We seek to build computer vision models that generalize to as many real world situations as we can, even when we cannot anticipate them. It's a bit of a catch-22: build deep learning models that predict a world that you may have not anticipated. But that's what is at the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/noise_augmentation.jpg"
+        },
+        {
+            "id": 10416,
+            "title": "How to Select the Right Computer Vision Model Architecture",
+            "url": "https://blog.roboflow.com/yolov3-vs-mobilenet-vs-faster-rcnn/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-27T00:00:00",
+            "description": "The success of your machine learning model starts well before you ever begin training. Ensuring you have representative images, high quality labels, appropriate preprocessing steps, and augmentations to guard against overfitting all affect deep learning model performance well before you begin training. And this is where Roboflow Organize comes in",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/choose_computer_vision_arch.png"
+        },
+        {
+            "id": 10417,
+            "title": "Introducing an Improved PlantDoc Dataset for Plant Disease Object Detection",
+            "url": "https://blog.roboflow.com/introducing-an-improved-plantdoc-dataset-for-plant-disease-object-detection/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-25T00:00:00",
+            "description": "The world population is expected to reach 9.7 billion by 2050. That\u2019s a lot of mouths to feed. Technology is powering the next generation of yield increases. Computer vision is especially critical to greener, more efficient production. For example, Blue River\u2019s (John Deere) \u201cSee &amp; Spray\u201d enables",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/03/plantdoc-tomato-early-blight.png"
+        },
+        {
+            "id": 10418,
+            "title": "Why and How to Implement Random Crop Data Augmentation",
+            "url": "https://blog.roboflow.com/why-and-how-to-implement-random-crop-data-augmentation/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-21T00:00:00",
+            "description": "We can\u2019t capture a photo of what every object looks like in the real world. (Trying to find an image to prove the prior sentence is a fun paradox!) Thus, when we create computer vision models, we need them to learn what general representations of objects look like. This",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/random_crop_augmentation.png"
+        },
+        {
+            "id": 10419,
+            "title": "How to Win Pioneer",
+            "url": "https://blog.roboflow.com/how-to-win-pioneer/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-02-20T00:00:00",
+            "description": "The tactics that got us to #1 on the global leaderboard for 18 weeks in a row.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/02/Screen-Shot-2020-02-20-at-4.33.15-PM.png"
+        },
+        {
+            "id": 10420,
+            "title": "Releasing an Improved Blood Count and Cell Detection (BCCD) Dataset",
+            "url": "https://blog.roboflow.com/releasing-an-improved-blood-count-and-cell-detection-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-14T00:00:00",
+            "description": "The original BCCD object detection dataset omits labels. We've released an improved version.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/02/relabeling.gif"
+        },
+        {
+            "id": 10421,
+            "title": "Eliminating Boilerplate Code with Roboflow to Monitor Security Camera Footage",
+            "url": "https://blog.roboflow.com/eliminating-boilerplate-code-with-roboflow-to-monitor-security-footage/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-12T00:00:00",
+            "description": "A case study using Roboflow to build a real-time security camera footage object detector.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/monitor_security_footage.gif"
+        },
+        {
+            "id": 10422,
+            "title": "A popular self-driving car dataset is missing labels for hundreds of pedestrians",
+            "url": "https://blog.roboflow.com/self-driving-car-dataset-missing-pedestrians/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-02-11T00:00:00",
+            "description": "and dozens of cyclists.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/02/omitted-labels-1.jpg"
+        },
+        {
+            "id": 10423,
+            "title": "Training a TensorFlow MobileNet Object Detection Model with a Custom Dataset",
+            "url": "https://blog.roboflow.com/training-a-tensorflow-object-detection-model-with-a-custom-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-09T00:00:00",
+            "description": "Change two lines of code and have a custom trained object detection model leveraging the TensorFlow 1.5 API.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/train_mobilenet_ssd.png"
+        },
+        {
+            "id": 10424,
+            "title": "When to Use Grayscale as a Preprocessing Step",
+            "url": "https://blog.roboflow.com/when-to-use-grayscale-as-a-preprocessing-step/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-02-05T00:00:00",
+            "description": "Rule of thumb: when speed matters and color isn't a valuable signal.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/grayscale_aug.gif"
+        },
+        {
+            "id": 10425,
+            "title": "You Might Be Resizing Your Images Incorrectly",
+            "url": "https://blog.roboflow.com/you-might-be-resizing-your-images-incorrectly/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-01-31T00:00:00",
+            "description": "Considerations for choosing optimal computer vision resize settings.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/resize_preprocessing.gif"
+        },
+        {
+            "id": 10426,
+            "title": "How to Convert Annotations from PASCAL VOC XML to COCO JSON",
+            "url": "https://blog.roboflow.com/how-to-convert-annotations-from-voc-xml-to-coco-json/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-01-29T00:00:00",
+            "description": "Convert from VOC XML to COCO JSON (or any format!) in four clicks.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/convert_voc_to_coco.png"
+        }
+    ]
+}

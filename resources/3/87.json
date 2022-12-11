@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4554,
+            "title": "A Gentle Introduction to PyTorch Library for Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/a-gentle-introduction-to-pytorch-library/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Advanced, Deep Learning, Libraries, Python, PyTorch",
+            "publishedOn": "2021-04-12T00:00:00",
+            "description": "This article covers basic knowledge and working of PyTorch library required to get started with Deep Learning. Follow along with the tutorial",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/pytorch_3.png"
+        },
+        {
+            "id": 4555,
+            "title": "How to manipulate a 20G CSV file efficiently?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-to-manipulate-a-20g-csv-file-efficiently/",
+            "authors": "Matthew Leung",
+            "tags": "Beginner, Big data, Uncategorized",
+            "publishedOn": "2021-04-11T00:00:00",
+            "description": "This post is to compare the performance of different methods to process large CSV file in python. This will help improve efficiency.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/skills-to-become-a-Data-Scientist.jpg"
+        },
+        {
+            "id": 4556,
+            "title": "An Overview of Python Memory Management",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/",
+            "authors": "Mayank Rijhwani",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-04-11T00:00:00",
+            "description": "Python memory management plays a major role in making python much popular and adaptable and make our life easier than ever",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/31296pythonlogo.jpg"
+        },
+        {
+            "id": 4557,
+            "title": "Introduction to Autonomous Navigation \u2013 LIDAR, Sensor Fusion, Kalman Filter",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/introduction-to-autonomous-navigation-lidar-sensor-fusion-kalman-filter/",
+            "authors": "Srinivas Rahul Sapireddy",
+            "tags": "Advanced, Computer Vision, Deep Learning, Python, Statistics",
+            "publishedOn": "2021-04-11T00:00:00",
+            "description": "This article is an introduction to autonomous navigation. We will understand concepts such as LIDAR, SENSOR FUSION, KALMAN FILTER",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/3403810.jpg"
+        },
+        {
+            "id": 4558,
+            "title": "Write Better Python Functions Using Type Dispatch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/write-better-python-functions-using-type-dispatch/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Python",
+            "publishedOn": "2021-04-10T00:00:00",
+            "description": "Writing good codes in professional circles is very important. Let's see how we can use Type Dispatch to write better Python Functions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 4559,
+            "title": "Alternative Tools for Effective Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/alternative-tools-for-effective-machine-learning/",
+            "authors": "Priya Kalyanakrishnan",
+            "tags": "Beginner, Interview Questions, Machine Learning, Uncategorized",
+            "publishedOn": "2021-04-10T00:00:00",
+            "description": "In this article we discuss the alternative tools for Machine Learning. We will be discussing C, C++ and C# and how can they be used for ML",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/math_machine_learning.jpg.jpg"
+        },
+        {
+            "id": 4560,
+            "title": "Common mistakes Data Engineers do in their Learning Path",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/common-mistakes-data-engineers-do-in-their-learning-path/",
+            "authors": "Saurav Agarwal",
+            "tags": "Beginner, Data Engineering, Interview Questions",
+            "publishedOn": "2021-04-10T00:00:00",
+            "description": "In this article, I will discuss the common mistakes data engineers make in their learning path and necessary tips to avoid them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-%E2%80%93-Difference-Between-OLTP-and-OLAP-1.jpg"
+        },
+        {
+            "id": 4561,
+            "title": "Do you Know What Happened in the Data Science World?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/do-you-know-what-happened-in-the-data-science-world-analytics-vidhya-news/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Analytics Vidhya, Beginner, News",
+            "publishedOn": "2021-04-09T00:00:00",
+            "description": "To keep you in the loop and always updated with the current affairs in the data science industry, we bring you Analytics Vidhya News",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/news.png"
+        },
+        {
+            "id": 4562,
+            "title": "Forward Feature Selection and its Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/forward-feature-selection-and-its-implementation/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Machine Learning, Python, Videos",
+            "publishedOn": "2021-04-09T00:00:00",
+            "description": "In this article, we're going to learn one more technique used for feature selection and that is Forward Feature Selection",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Types-of-Categorical-Variable.jpg"
+        },
+        {
+            "id": 4563,
+            "title": "Gradient Descent in Linear Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/gradient-descent-in-linear-regression/",
+            "authors": "Ankita Banerji",
+            "tags": "Algorithm, Beginner, Maths, Regression",
+            "publishedOn": "2021-04-09T00:00:00",
+            "description": "Gradient Descent is an algorithm that finds the best-fit line for linear regression for a training dataset in a smaller number of iterations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/AI-Virtual-Assistant-using-Python.jpg"
+        },
+        {
+            "id": 4564,
+            "title": "From Scratch to a Story \u2013 Introduction to Tableau (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/from-scratch-to-a-story-introduction-to-tableau/",
+            "authors": "Sejal Anand",
+            "tags": "Beginner, Data Visualization, Structured Data, Tableau",
+            "publishedOn": "2021-04-09T00:00:00",
+            "description": "Tableau is a very powerful data visualization and analysis tool where you can create business-standard dashboards to visualize & draw insights",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 4565,
+            "title": "Map-based visualizations in Power BI \u2013 Bing or ArcGIS? Take your call!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/map-based-visualizations-in-power-bi/",
+            "authors": "Kaushik Roy Chowdhury",
+            "tags": "Beginner, Data Visualization, Power BI, Structured Data",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "In this article, understand how to create map-based visualizations in Power BI and Explore and compare Bing and ArcGIS maps in Power BI",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/Geos.png"
+        },
+        {
+            "id": 4566,
+            "title": "Rapid-Fire EDA process using Python for ML Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "EDA is unavoidable and one of the major step to fine-tune the given data set(s) in a different form of analysis to understand the insights",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Exponential-Data-Analysis.jpg"
+        },
+        {
+            "id": 4567,
+            "title": "Dimensionality Reduction a Descry for Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/dimensionality-reduction-a-descry-for-data-scientist/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Advanced, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "PCA is a technique for dimensionality reduction of a given dataset, by increasing interpretability with negligible information loss",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/33258DR.png"
+        },
+        {
+            "id": 4568,
+            "title": "Generating Fantasy Titles with a Markov Chain",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/generating-fantasy-titles-with-a-markov-chain/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Data Visualization, Machine Learning, Probability, Python",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "In this article, we make a couple of our own on-theme fantasy titles using Markov Chain in Python. We will explore 2 methods",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/38016main_pic.jpg"
+        },
+        {
+            "id": 4569,
+            "title": "How did the machine read nutritional facts using Optical Character Recognition?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-did-the-machine-read-nutritional-facts-using-optical-character-recognition/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Python",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "In this article, we show you how it was possible to read nutritional tables with Optical Character Recognition(OCR), and Tesseract",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/what_is_machine_learning_beginners.jpg"
+        },
+        {
+            "id": 4570,
+            "title": "Understand the Concept of Dictionaray",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/understand-the-concept-of-dictionary/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Python, Videos",
+            "publishedOn": "2021-04-07T00:00:00",
+            "description": "Dictionary is another composite data structure in python. Understand the concept of a dictionary and the basic operations performed on it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Python-Iterators-and-Generators.jpg"
+        },
+        {
+            "id": 4571,
+            "title": "Backward Feature Elimination and its Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/backward-feature-elimination-and-its-implementation/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Machine Learning, Videos",
+            "publishedOn": "2021-04-07T00:00:00",
+            "description": "In this article, we are going to cover one important technique use for feature selection know as Backward Feature Elimination",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/featured-image.jpg"
+        },
+        {
+            "id": 4572,
+            "title": "Understanding the Concept of List",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/understanding-the-concept-of-list/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Python, Videos",
+            "publishedOn": "2021-04-06T00:00:00",
+            "description": "List is an integral part of python when we talk about data structure. Let us understand what is a list and how can it be beneficial.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-%E2%80%93-Difference-Between-OLTP-and-OLAP.jpg"
+        },
+        {
+            "id": 4573,
+            "title": "Beginner\u2019s Guide to Low Variance Filter and its Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-low-variance-filter-and-its-implementation/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Machine Learning, Videos",
+            "publishedOn": "2021-04-06T00:00:00",
+            "description": "In this article, we saw another common feature selection technique- Low Variance Filter. We also saw how it is implemented using python",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2021/04/Screenshot-from-2021-04-06-15-13-16.png"
+        },
+        {
+            "id": 4574,
+            "title": "Introduction to Softmax for Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/introduction-to-softmax-for-neural-network/",
+            "authors": "Shipra Saxena",
+            "tags": "Advanced, Deep Learning, Videos",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "Softmax activation function is popularly used for multiclass classification problems. Let's discuss softmax activation function here.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg"
+        },
+        {
+            "id": 4575,
+            "title": "Beginner\u2019s Guide to Missing Value Ratio and its Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-missing-value-ratio-and-its-implementation/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Machine Learning, Python, Videos",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "In this article, we are going to cover Missing value Ratio technique and later on will see its implementation in Python as well.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/missing.jpg"
+        },
+        {
+            "id": 4576,
+            "title": "Getting started with Kaggle using Facial Detection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/getting-started-with-kaggle-using-facial-detection/",
+            "authors": "Anu Ganesan",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Python, Technique, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "In this article, we will guide you to get started with Kaggle using the OpenCV library for facial detection problems in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/face-detection-4760361_1920.jpg"
+        },
+        {
+            "id": 4577,
+            "title": "How Artificial Intelligence is used in the cryptocurrency market?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/how-ai-is-used-in-the-cryptocurrency-market/",
+            "authors": "Mari Koval",
+            "tags": "Beginner, Interview Questions, Machine Learning",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "Let's have a look at how AI is bringing in the much needed innovation in the world of Cryptocurrency trading and optimizing these trades",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/92495stock-market-trends-what-causes-stock-prices-to-change.jpg"
+        },
+        {
+            "id": 4578,
+            "title": "Is the Tableau Era Coming to an End?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/the-tableau-era-is-over/",
+            "authors": "Taylor Brownlow",
+            "tags": "Beginner, Tableau",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "The announcement last week that Tableau\u2019s CEO Adam Selipsky is stepping down felt like the Tableau era is coming to an end. Let's look into it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Visualize-a-Single-Value-Against-Others-in-Tableau.jpg"
+        },
+        {
+            "id": 4579,
+            "title": "Dynamic Dashboards using Google Data\u00a0Studio",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/dynamic-dashboards-using-google-data-studio/",
+            "authors": "Anjali Pal",
+            "tags": "Beginner, Data Visualization, Technique",
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Making dashboards is an innate part of data visualization. Let's understand how to create dynamic dashboards with Google Data Studio",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/280021_mpyrgqwMjfclV2oN1U2VIA.jpeg"
+        },
+        {
+            "id": 4580,
+            "title": "The Nature of Object-Oriented Programming in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/the-nature-of-object-oriented-programming-in-python/",
+            "authors": "Oghenemarho Onothoja",
+            "tags": "Advanced, Programming, Python",
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Python is an object-oriented programming language. This article is a guide to object oriented programming in Python for beginners",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Focal-loss-in-object-detection.jpg"
+        },
+        {
+            "id": 4581,
+            "title": "Federated Learning for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/",
+            "authors": "Maria B\u00f6rner",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Federated Learning brings the model to the data instead of sending the data to the centralized model hence improving the performance",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 4582,
+            "title": "The Curse of Dimensionality in Machine Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/the-curse-of-dimensionality-in-machine-learning/",
+            "authors": "Swapnil Vishwakarma",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Curse of Dimensionality refers to the phenomena of strange/weird things happening as we try to analyze the data in high-dimensional spaces",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/98055artificial-intelligence-companies.jpg"
+        },
+        {
+            "id": 4583,
+            "title": "A Complete Beginner\u2019s Guide to Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/04/a-complete-beginners-guide-to-data-visualization/",
+            "authors": "Vedita Kamat",
+            "tags": "Beginner, Data Visualization",
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Data visualization is a way you can create a story through your data. This article is a guide to learn what is data visualization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_visualization_python_r_tableau.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8602,
+            "title": "Method of Lagrange Multipliers: The Theory Behind Support Vector Machines (Part 2: The Non-Separable Case)",
+            "url": "https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-2-the-non-separable-case/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "In real life problems positive and negative examples may be non-separable. The solution is to find a soft margin that tolerates errors in classification.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/12/shakeel-ahmad-Z_MWEx6MgHI-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8603,
+            "title": "Application of differentiations in neural networks",
+            "url": "https://machinelearningmastery.com/application-of-differentiations-in-neural-networks/",
+            "authors": "Adrian Tam",
+            "tags": "Calculus",
+            "publishedOn": "2021-11-26T00:00:00",
+            "description": "Differential calculus is an important tool in machine learning algorithms. Neural networks in particular, the gradient descent algorithm depends on the gradient, which is a quantity computed by differentiation. In this tutorial, we will see how the back-propagation technique is used in finding the gradients in neural networks. After completing this tutorial, you will know [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/11/freeman-zhou-plX7xeNb3Yo-unsplash.jpg"
+        },
+        {
+            "id": 8604,
+            "title": "Method of Lagrange Multipliers: The Theory Behind Support Vector Machines (Part 1: The Separable Case)",
+            "url": "https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-1-the-separable-case/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-11-25T00:00:00",
+            "description": "Tutorial on the simplest SVM that assumes a linear decision boundary that separates the positive and negative examples and maximizes the margin.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/11/IMG_9900-scaled.jpg"
+        },
+        {
+            "id": 8605,
+            "title": "Visualizing the vanishing gradient problem",
+            "url": "https://machinelearningmastery.com/visualizing-the-vanishing-gradient-problem/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2021-11-17T00:00:00",
+            "description": "Deep learning was a recent invention. Partially, it is due to improved computation power that allows us to use more layers of perceptrons in a neural network. But at the same time, we can train a deep network only after we know how to work around the vanishing gradient problem. In this tutorial, we visually [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/11/alisa-anton-Oy195xlTAMM-unsplash.jpg"
+        },
+        {
+            "id": 8606,
+            "title": "Using CNN for financial time series prediction",
+            "url": "https://machinelearningmastery.com/using-cnn-for-financial-time-series-prediction/",
+            "authors": "Adrian Tam",
+            "tags": "Machine Learning for Finance",
+            "publishedOn": "2021-11-15T00:00:00",
+            "description": "Convolutional neural networks have their roots in image processing. It was first published in LeNet to recognize the MNIST handwritten digits. However, convolutional neural networks are not limited to handling images. In this tutorial, we are going to look at an example of using CNN for time series prediction with an application from financial markets. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/11/aron-visuals-BXOXnQ26B7o-unsplash.jpg"
+        },
+        {
+            "id": 8607,
+            "title": "Face Recognition using Principal Component Analysis",
+            "url": "https://machinelearningmastery.com/face-recognition-using-principal-component-analysis/",
+            "authors": "Adrian Tam",
+            "tags": "Linear Algebra",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "Recent advance in machine learning has made face recognition not a difficult problem. But in the previous, researchers have made various attempts and developed various skills to make computer capable of identifying people. One of the early attempt with moderate success is eigenface, which is based on linear algebra techniques. In this tutorial, we will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/rach-teo-2BzUlVUWCoo-unsplash-1.jpg"
+        },
+        {
+            "id": 8608,
+            "title": "Using Singular Value Decomposition to Build a Recommender System",
+            "url": "https://machinelearningmastery.com/using-singular-value-decomposition-to-build-a-recommender-system/",
+            "authors": "Adrian Tam",
+            "tags": "Linear Algebra",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "Singular value decomposition is a very popular linear algebra technique to break down a matrix into the product of a few smaller matrices. In fact, it is a technique that has many uses. One example is that we can use SVD to discover relationship between items. A recommender system can be build easily from this. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/roberto-arias-ihpiRgog1vs-unsplash.jpg"
+        },
+        {
+            "id": 8609,
+            "title": "A Gentle Introduction to Vector Space Models",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-vector-space-models/",
+            "authors": "Adrian Tam",
+            "tags": "Linear Algebra",
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "Vector space models are to consider the relationship between data that are represented by vectors. It is popular in information retrieval systems but also useful for other purposes. Generally, this allows us to compare the similarity of two vectors from a geometric perspective. In this tutorial, we will see what is a vector space model [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/29539982252_f2d3e260be_k.jpg"
+        },
+        {
+            "id": 8610,
+            "title": "Principal Component Analysis for Visualization",
+            "url": "https://machinelearningmastery.com/principal-component-analysis-for-visualization/",
+            "authors": "Adrian Tam",
+            "tags": "Linear Algebra",
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "Principal component analysis (PCA) is an unsupervised machine learning technique. Perhaps the most popular use of principal component analysis is dimensionality reduction. Besides using PCA as a data preparation technique, we can also use it to help visualize data. A picture is worth a thousand words. With the data visualized, it is easier for us [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/6099561804_5207dc5fe3_o.jpg"
+        },
+        {
+            "id": 8611,
+            "title": "Optimization for Machine Learning Crash Course",
+            "url": "https://machinelearningmastery.com/optimization-for-machine-learning-crash-course/",
+            "authors": "Adrian Tam",
+            "tags": "Optimization",
+            "publishedOn": "2021-10-12T00:00:00",
+            "description": "Optimization for Machine Learning Crash Course. Find function optima with Python in 7 days. All machine learning models involve optimization. As a practitioner, we optimize for the most suitable hyperparameters or the subset of features. Decision tree algorithm optimize for the split. Neural network optimize for the weight. Most likely, we use computational algorithms to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/4549011130_9b734408c1_k.jpg"
+        },
+        {
+            "id": 8612,
+            "title": "How to Learn Python for Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-learn-python-for-machine-learning/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2021-09-27T00:00:00",
+            "description": "Python has become a de facto lingua franca for machine learning. It is not a difficult language to learn, but if you are not particularly familiar with the language, there are some tips that can help you learn faster or better. In this post, you will discover what the right way to learn a programming [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/federico-di-dio-photography-Q4g0Q-eVVEg-unsplash.jpg"
+        },
+        {
+            "id": 8613,
+            "title": "Training-validation-test split and cross-validation done right",
+            "url": "https://machinelearningmastery.com/training-validation-test-split-and-cross-validation-done-right/",
+            "authors": "Adrian Tam",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2021-09-23T00:00:00",
+            "description": "One crucial step in machine learning is the choice of model. A suitable model with suitable hyperparameter is the key to a good prediction result. When we are faced with a choice between models, how should the decision be made? This is why we have cross validation. In scikit-learn, there is a family of functions [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/4961646315_5a011e7e41_k.jpg"
+        },
+        {
+            "id": 8614,
+            "title": "A Gentle Introduction to Particle Swarm Optimization",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/",
+            "authors": "Adrian Tam",
+            "tags": "Optimization",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "Particle swarm optimization (PSO) is one of the bio-inspired algorithms and it is a simple one to search for an optimal solution in the solution space. It is different from other optimization algorithms in such a way that only the objective function is needed and it is not dependent on the gradient or any differential [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg"
+        },
+        {
+            "id": 8615,
+            "title": "Lagrange Multiplier Approach with Inequality Constraints",
+            "url": "https://machinelearningmastery.com/lagrange-multiplier-approach-with-inequality-constraints/",
+            "authors": "Adrian Tam",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-27T00:00:00",
+            "description": "In a previous post, we introduced the method of Lagrange multipliers to find local minima or local maxima of a function with equality constraints. The same method can be applied to those with inequality constraints as well. In this tutorial, you will discover the method of Lagrange multipliers applied to find the local minimum or [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/christine-roy-ir5MHI6rPg0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8616,
+            "title": "A Gentle Introduction To Sigmoid Function",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-sigmoid-function/",
+            "authors": "Mehreen Saeed",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "A tutorial on the sigmoid function, its properties, and its use as an activation function in neural networks to learn non-linear decision boundaries.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/fish.jpg"
+        },
+        {
+            "id": 8617,
+            "title": "Calculus in Action: Neural Networks",
+            "url": "https://machinelearningmastery.com/calculus-in-action-neural-networks/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-23T00:00:00",
+            "description": "An artificial neural network is a computational model that approximates a mapping between inputs and outputs.\u00a0 It is inspired by the structure of the human brain, in that it is similarly composed of a network of interconnected neurons that propagate information upon receiving sets of stimuli from neighbouring neurons. Training a neural network involves a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/neural_networks_cover-scaled.jpg"
+        },
+        {
+            "id": 8618,
+            "title": "A Gentle Introduction to Taylor Series",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-taylor-series/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-20T00:00:00",
+            "description": "A Gentle Introduction to Taylor Series Taylor series expansion is an awesome concept, not only the world of mathematics, but also in optimization theory, function approximation and machine learning. It is widely applied in numerical computations when estimates of a function\u2019s values at different points are required. In this tutorial, you will discover Taylor series [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/Muhammad-Khubaib-Sarfraz.jpg"
+        },
+        {
+            "id": 8619,
+            "title": "A Gentle Introduction To Approximation",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-approximation/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-18T00:00:00",
+            "description": "A beginners introduction to approximation. The tutorial discusses the importance of approximation in regression, classification and clustering tasks.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/MMani.jpg"
+        },
+        {
+            "id": 8620,
+            "title": "The Chain Rule of Calculus \u2013 Even More Functions",
+            "url": "https://machinelearningmastery.com/the-chain-rule-of-calculus-even-more-functions/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-16T00:00:00",
+            "description": "The chain rule is an important derivative rule that allows us to work with composite functions. It is essential in understanding the workings of the backpropagation algorithm, which applies the chain rule extensively in order to calculate the error gradient of the loss function with respect to each weight of a neural network. We will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/more_chain_rule_cover-scaled.jpg"
+        },
+        {
+            "id": 8621,
+            "title": "The Chain Rule of Calculus for Univariate and Multivariate Functions",
+            "url": "https://machinelearningmastery.com/the-chain-rule-of-calculus-for-univariate-and-multivariate-functions/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-13T00:00:00",
+            "description": "The chain rule allows us to find the derivative of composite functions. It is computed extensively by the backpropagation algorithm, in order to train feedforward neural networks. By applying the chain rule in an efficient manner while following a specific order of operations, the backpropagation algorithm calculates the error gradient of the loss function with [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/chain_rule_cover-scaled.jpg"
+        },
+        {
+            "id": 8622,
+            "title": "A Gentle Introduction To Method Of Lagrange Multipliers",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-method-of-lagrange-multipliers/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-11T00:00:00",
+            "description": "A quick and easy to follow tutorial on the method of Lagrange multipliers when finding the local minimum of a function subject to equality constraints.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/IMG_4464-scaled.jpg"
+        },
+        {
+            "id": 8623,
+            "title": "A Gentle Introduction to Optimization / Mathematical Programming",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-optimization-mathematical-programming/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-10T00:00:00",
+            "description": "An easy to follow tutorial with beginners concepts of optimization, constrained optimization, feasible region and its importance in machine learning.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/Mehtab-Farooq.jpg"
+        },
+        {
+            "id": 8624,
+            "title": "A Gentle Introduction to the Laplacian",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-laplacian/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-06T00:00:00",
+            "description": "The Laplace operator was first applied to the study of celestial mechanics, or the motion of objects in outer space, by Pierre-Simon de Laplace, and as such has been named after him.\u00a0 The Laplace operator has since been used to describe many different phenomena, from electric potentials, to the diffusion equation for heat and fluid [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/laplacian_cover-scaled.jpg"
+        },
+        {
+            "id": 8625,
+            "title": "A Gentle Introduction To Hessian Matrices",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-04T00:00:00",
+            "description": "A quick and easy to follow tutorial on Hessian matrices, their discriminants, and what they signify. An illustrative example is also included.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/beenish-2.jpg"
+        },
+        {
+            "id": 8626,
+            "title": "A Gentle Introduction to the Jacobian",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-08-02T00:00:00",
+            "description": "In the literature, the term Jacobian is often interchangeably used to refer to both the Jacobian matrix or its determinant.\u00a0 Both the matrix and the determinant have useful and important applications: in machine learning, the Jacobian matrix aggregates the partial derivatives that are necessary for backpropagation; the determinant is useful in the process of changing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/jacobian_cover-scaled.jpg"
+        },
+        {
+            "id": 8627,
+            "title": "Higher-Order Derivatives",
+            "url": "https://machinelearningmastery.com/higher-order-derivatives/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-30T00:00:00",
+            "description": "Higher-order derivatives can capture information about a function that first-order derivatives on their own cannot capture.\u00a0 First-order derivatives can capture important information, such as the rate of change, but on their own they cannot distinguish between local minima or maxima, where the rate of change is zero for both. Several optimization algorithms address this limitation [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/higher_order_cover-scaled.jpg"
+        },
+        {
+            "id": 8628,
+            "title": "A Gentle Introduction To Gradient Descent Procedure",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-gradient-descent-procedure/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "A quick and easy to follow tutorial on the gradient descent procedure. The algorithm is illustrated using a simple example.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/IMG_9313-scaled.jpg"
+        },
+        {
+            "id": 8629,
+            "title": "A Gentle Introduction To Partial Derivatives and Gradient Vectors",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-partial-derivatives-and-gradient-vectors/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "An easy to follow tutorial on functions of several variables, level sets and level curves, partial derivatives and gradient vectors.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/atifgulzar.jpg"
+        },
+        {
+            "id": 8630,
+            "title": "A Gentle Introduction To Vector Valued Functions",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-vector-valued-functions/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "An easy to follow tutorial on vector valued functions, parametric equations, space curves, and differentiating vector functions.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/mano.jpg"
+        },
+        {
+            "id": 8631,
+            "title": "Differential and Integral Calculus \u2013 Differentiate with Respect to Anything",
+            "url": "https://machinelearningmastery.com/differential-and-integral-calculus-differentiate-with-respect-to-anything/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-21T00:00:00",
+            "description": "Integral calculus was one of the greatest discoveries of Newton and Leibniz. Their work independently led to the proof, and recognition of the importance of the fundamental theorem of calculus, which linked integrals to derivatives. With the discovery of integrals, areas and volumes could thereafter be studied.\u00a0 Integral calculus is the second half of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/07/integral_cover-scaled.jpg"
+        }
+    ]
+}

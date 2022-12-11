@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 824,
+            "title": "British Newscaster speaking style now available in Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
+            "authors": "Goeric Huybrechts",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We\u2019re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative British newsreader. This Newscaster voice is the result of our [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 825,
+            "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+            "authors": "Paloma Pineda",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use AWS DeepComposer to create original compositions and compete to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg"
+        },
+        {
+            "id": 826,
+            "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
+            "authors": "Stefan Natu, Eitan Sela, Huong Nguyen, Jaipreet Singh",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a set of pre-built images, which consist of the Amazon SageMaker Python SDK [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Architecture.jpg"
+        },
+        {
+            "id": 827,
+            "title": "Amazon Translate now enables you to mark content to not get translated",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-enables-you-to-mark-content-to-not-get-translated/",
+            "authors": "Watson Srivathsan",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "While performing machine translations, you may have situations where you wish to preserve specific sections of text from being translated, such as names, unique identifiers, or codes. We at the Amazon Translate team are excited to announce a tag modifications that allows you to specify what text should not be translated. This feature is available [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 828,
+            "title": "Intelligently connect to customers using machine learning in the COVID-19 pandemic",
+            "url": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
+            "authors": "Dr. Taha A. Kass-Hout",
+            "tags": "Amazon Connect, Amazon Lex, Amazon Polly, AWS Lambda",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots, to more personalized engagements online. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 829,
+            "title": "Announcing the AWS DeepComposer Chartbusters challenge, Keep Calm and Model On",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on/",
+            "authors": "Maryam Rezapoor",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "We are back with another AWS DeepComposer Chartbusters challenge, Keep Calm and Model On! This challenge is open for submissions throughout AWS re:Invent until January 31, 2021. In this challenge, you can experiment with our newly launched Transformers algorithm and generate an original piece of music. Chartbusters is a global monthly challenge where you can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Keep-Calm-and-Model-On-1-664x630.jpg"
+        },
+        {
+            "id": 830,
+            "title": "Adding custom data sources to Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
+            "authors": "Tapodipta Ghosh, Juan Bustos",
+            "tags": "Amazon Kendra",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily add data from different content repositories and file systems into a centralized location. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg"
+        },
+        {
+            "id": 831,
+            "title": "Deploying reinforcement learning in production using Ray and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-reinforcement-learning-in-production-using-ray-and-amazon-sagemaker/",
+            "authors": "Bharathan Balaji, Anna Luo",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-04T00:00:00",
+            "description": "Reinforcement learning (RL) is used to automate decision-making in a variety of domains, including games, autoscaling, finance, robotics, recommendations, and supply chain. Launched at AWS re:Invent 2018, Amazon SageMaker RL helps you quickly build, train, and deploy policies learned by RL. Ray is an open-source distributed execution framework that makes it easy to scale your [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/4-Graph2-799x630.jpg"
+        },
+        {
+            "id": 832,
+            "title": "Explaining Amazon SageMaker Autopilot models with SHAP",
+            "url": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
+            "authors": "Yotam Elor, Somnath Sarkar",
+            "tags": "Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence",
+            "publishedOn": "2020-11-03T00:00:00",
+            "description": "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation considers a single sample and answers questions like \u201cWhy does the model [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg"
+        },
+        {
+            "id": 833,
+            "title": "Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+            "authors": "Shanthan Kesharaju, So Young Yoon",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2020-11-03T00:00:00",
+            "description": "Support tickets, customer feedback forms, user surveys, product feedback, and forum posts are some of the documents that businesses collect from their customers and employees. The applications used to collect these case documents typically include incident management systems, social media channels, customer forums, and email. Routing these cases quickly and accurately to support groups best [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/SlackComprehend-786x630.jpg"
+        },
+        {
+            "id": 834,
+            "title": "Real-time data labeling pipeline for ML workflows using Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/real-time-data-labeling-pipeline-for-ml-workflows-using-amazon-sagemaker-ground-truth/",
+            "authors": "Talia Chopra, Priyanka Gopalakrishna",
+            "tags": "Amazon SageMaker, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-11-02T00:00:00",
+            "description": "High-quality machine learning (ML) models depend on accurately labeled, high-quality training, validation, and test data. As ML and deep learning models are increasingly integrated into production environments, it\u2019s becoming more important than ever to have customizable, real-time data labeling pipelines that can continuously receive and process unlabeled data. For example, you may want to create [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/28/1-SolArchitectue.jpg"
+        },
+        {
+            "id": 835,
+            "title": "Deploying and using the Document Understanding Solution",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/",
+            "authors": "Simran Baxendale, Alex Chirayath, Curtis Bray",
+            "tags": "Amazon Comprehend, Amazon Comprehend Medical, Amazon Kendra, Amazon ML Solutions Lab, Amazon Textract",
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "Based on our day to day experience, the information we consume is entirely digital. We read the news on our mobile devices far more than we do from printed copy newspapers. Tickets for sporting events, music concerts, and airline travel are stored in apps on our phones. One could go weeks or longer without needing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/Deploying-and-using-the-Document-Understanding-Solution-1-JPG.jpg"
+        },
+        {
+            "id": 836,
+            "title": "Training and serving H2O models using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/",
+            "authors": "Anil Sener",
+            "tags": "Amazon Corretto, Amazon SageMaker, Application Services, Artificial Intelligence, Auto Scaling, AWS Serverless Application Model, AWS Step Functions, AWS Systems Manager, Containers, Java, Management Tools",
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run duration, scientific flexibility, and model interpretability objectives, whereas model [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg"
+        },
+        {
+            "id": 837,
+            "title": "This month in AWS Machine Learning: October edition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/",
+            "authors": "Laura Jones",
+            "tags": "Amazon Personalize, Amazon Rekognition, Amazon SageMaker, Amazon Textract, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "Every day there is something new going on in the world of AWS Machine Learning\u2014from launches to new to use cases to interactive trainings. We\u2019re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup. Launches [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/OctBanner.jpg"
+        },
+        {
+            "id": 838,
+            "title": "Introducing the COVID-19 Simulator and Machine Learning Toolkit for Predicting COVID-19 Spread",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/",
+            "authors": "Tomal Deb, Atanu Roy, Sahika Genc, Nathaniel Slater, Sunil Mallya, Dr. Taha A. Kass-Hout, Vinay Hanumaiah",
+            "tags": "Amazon ML Solutions Lab, Artificial Intelligence, Open Source",
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "There have been breakthroughs in understanding COVID-19, such as how soon an exposed person will develop symptoms and how many people on average will contract the disease after contact with an exposed individual. The wider research community is actively working on accurately predicting the percent population who are exposed, recovered, or have built immunity. Researchers [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/1-Diagram-2.jpg"
+        },
+        {
+            "id": 839,
+            "title": "Building a real-time conversational analytics platform for Amazon Lex bots",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/",
+            "authors": "Shanthan Kesharaju, Blake DeLee",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-10-29T00:00:00",
+            "description": "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot\u2019s customer conversations, you can discover challenges in user experience, trending topics, and missed utterances. These additional insights can help you identify how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg"
+        },
+        {
+            "id": 840,
+            "title": "Configuring your Amazon Kendra Confluence Server connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/configuring-your-amazon-kendra-confluence-server-connector/",
+            "authors": "Ben Snively, Sam Palani",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2020-10-28T00:00:00",
+            "description": "Many builders and teams on AWS use Confluence as a way of collaborating and sharing information within their teams and across their organizations. These types of workspaces are rich with data and contain sets of knowledge and information that can be a great source of truth to answer organizational questions. Unfortunately, it isn\u2019t always easy [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/28/2-ConfluenceServer.jpg"
+        },
+        {
+            "id": 841,
+            "title": "Optimizing costs for machine learning with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
+            "authors": "BK Chaurasiya",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-27T00:00:00",
+            "description": "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce your costs. In this post, we discuss [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg"
+        },
+        {
+            "id": 842,
+            "title": "zomato digitizes menus using Amazon Textract and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
+            "authors": "Chiranjeev Ghai, Andrew Ang, Ryan Cheng, Vinayak Arannil",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Amazon SageMaker Ground Truth, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-10-27T00:00:00",
+            "description": "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don\u2019t want just any kind of Indian food\u2014you want Chicken Chettinad with a side of paratha, and nothing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
+        },
+        {
+            "id": 843,
+            "title": "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library",
+            "url": "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/",
+            "authors": "Zach Kimberg, Frank Liu",
+            "tags": "Artificial Intelligence, Java, Kinesis Video Streams, Programing Language",
+            "publishedOn": "2020-10-27T00:00:00",
+            "description": "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but Java support for deep learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 844,
+            "title": "Bringing real-time machine learning-powered insights to rugby using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bringing-real-time-machine-learning-powered-insights-to-rugby-using-amazon-sagemaker/",
+            "authors": "Mehdi Noori, Tesfagabir Meharizghi, Patrick Lucey, Xavier Ragot",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-26T00:00:00",
+            "description": "The Guinness Six Nations Championship began in 1883 as the Home Nations Championship among England, Ireland, Scotland, and Wales, with the inclusion of France in 1910 and Italy in 2000. It is among the oldest surviving rugby traditions and one of the best-attended sporting events in the world. The COVID-19 outbreak disrupted the end of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/3-Diagram.jpg"
+        },
+        {
+            "id": 845,
+            "title": "Building an NLU-powered search application with Amazon SageMaker and the Amazon OpenSearch Service KNN feature",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-nlu-powered-search-application-with-amazon-sagemaker-and-the-amazon-es-knn-feature/",
+            "authors": "Amit Mukherjee, Eitan Sela, Laith Al-Saadoon",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-26T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. This post has also been updated with changes required for SageMaker SDK v2 and an improved notebook experience. The rise of semantic search engines has made ecommerce and retail businesses search easier for its consumers. Search engines powered by natural [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/07/1-1-3.jpg"
+        },
+        {
+            "id": 846,
+            "title": "Arcanum makes Hungarian heritage accessible with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
+            "authors": "Sinisa Mikasinovic, Cameron Peron",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2020-10-23T00:00:00",
+            "description": "Arcanum specializes in digitizing Hungarian language content, including newspapers, books, maps, and art. With over 30 years of experience, Arcanum serves more than 30,000 global subscribers with access to Hungarian culture, history, and heritage. Amazon Rekognition Solutions Architects worked with Arcanum to add highly scalable image analysis to Arcanum Digitheca, a free service provided by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-FaceSearch-825x630.jpg"
+        },
+        {
+            "id": 847,
+            "title": "Securing Amazon SageMaker Studio connectivity using a private VPC",
+            "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-connectivity-using-a-private-vpc/",
+            "authors": "Rafael Suguiura, Han Zhang, Stefan Natu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-22T00:00:00",
+            "description": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up Amazon SageMaker Studio Notebooks for exploring datasets and building models. With the new ability to launch Amazon SageMaker Studio in your Amazon Virtual Private Cloud (Amazon VPC), you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/21/2-studio-architecture-vpc.jpg"
+        },
+        {
+            "id": 848,
+            "title": "Using Amazon SageMaker inference pipelines with multi-model endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/",
+            "authors": "Sireesha Muppala, Michael Pham",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-21T00:00:00",
+            "description": "Businesses are increasingly deploying multiple machine learning (ML) models to serve precise and accurate predictions to their consumers. Consider a media company that wants to provide recommendations to its subscribers. The company may want to employ different custom models for recommending different categories of products\u2014such as movies, books, music, and articles. If the company wants [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Diagram-1.jpg"
+        },
+        {
+            "id": 849,
+            "title": "Time series forecasting using unstructured data with Amazon Forecast and the Amazon SageMaker Neural Topic Model",
+            "url": "https://aws.amazon.com/blogs/machine-learning/time-series-forecasting-using-unstructured-data-with-amazon-forecast-and-the-amazon-sagemaker-neural-topic-model/",
+            "authors": "David Ehrlich, Stefan Natu",
+            "tags": "Amazon Forecast, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-21T00:00:00",
+            "description": "As the volume of unstructured data such as text and voice continues to grow, businesses are increasingly looking for ways to incorporate this data into their time series predictive modeling workflows. One example use case is transcribing calls from call centers to forecast call handle times and improve call volume forecasting. In the retail or [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/7-TwinCharts.jpg"
+        },
+        {
+            "id": 850,
+            "title": "Performing batch fraud predictions using Amazon Fraud Detector, Amazon S3, and AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda/",
+            "authors": "Nick Tostenrude, Mike Ames",
+            "tags": "Amazon Fraud Detector, Artificial Intelligence",
+            "publishedOn": "2020-10-21T00:00:00",
+            "description": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud. Amazon Fraud Detector combines your data, the latest in ML science, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Architecture-1.jpg"
+        },
+        {
+            "id": 851,
+            "title": "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
+            "authors": "Tushar Agrawal, Connor Kirkpatrick, Kashif Imran, Matteo Figus",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2020-10-16T00:00:00",
+            "description": "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that businesses protect their employees and customers from hazards that can cause injury by providing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg"
+        },
+        {
+            "id": 852,
+            "title": "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
+            "authors": "Hidenori Koizumi, Mari Ohbuchi",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2020-10-15T00:00:00",
+            "description": "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring these behaviors and movements can be hard and can take a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg"
+        },
+        {
+            "id": 853,
+            "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
+            "authors": "Sara van de Moosdijk",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-10-15T00:00:00",
+            "description": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including media, finance, manufacturing, sports, and technology. Some of these use cases require [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg"
+        }
+    ]
+}

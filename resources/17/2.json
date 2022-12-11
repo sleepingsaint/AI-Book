@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9949,
+            "title": "Solving Rubik\u2019s Cube with a Robot Hand",
+            "url": "https://openai.com/blog/solving-rubiks-cube/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2019-10-15T00:00:00",
+            "description": "We've trained a pair of neural networks to solve the Rubik\u2019s Cube with a human-like robot hand.",
+            "thumbnail": "https://openai.com/content/images/2019/10/twitter-og-2.jpg"
+        },
+        {
+            "id": 9950,
+            "title": "OpenAI Scholars 2020: Applications Open",
+            "url": "https://openai.com/blog/openai-scholars-2020/",
+            "authors": null,
+            "tags": "Announcements, Scholars",
+            "publishedOn": "2019-10-11T00:00:00",
+            "description": "We are now accepting applications for our third class of OpenAI Scholars, a\n4-month full-time program where we provide stipends and mentorship to 8\nindividuals from underrepresented groups to study deep learning and open-source\na project. The second class of Scholars recently released their projects\n[https://openai.com/blog/openai-scholars-class-of-19/",
+            "thumbnail": "https://openai.com/content/images/2019/10/IMG_7650-2.jpg"
+        },
+        {
+            "id": 9951,
+            "title": "Fine-Tuning GPT-2 from\nHuman Preferences",
+            "url": "https://openai.com/blog/fine-tuning-gpt-2/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-09-19T00:00:00",
+            "description": "We\u2019ve fine-tuned the 774M parameter GPT-2 language model using human feedback\nfor various tasks, successfully matching the preferences of the external human\nlabelers, though those preferences did not always match our own. Specifically,\nfor summarization tasks the labelers preferred sentences copied wholesale from\nthe input (we\u2019d only asked",
+            "thumbnail": "https://openai.com/content/images/2019/09/fine-tuning-gpt-2-twitter.png"
+        },
+        {
+            "id": 9952,
+            "title": "Emergent Tool Use from Multi-Agent Interaction",
+            "url": "https://openai.com/blog/emergent-tool-use/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2019-09-17T00:00:00",
+            "description": "We've observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.",
+            "thumbnail": "https://openai.com/content/images/2019/09/poster-20190916b-noscrim.jpg"
+        },
+        {
+            "id": 9953,
+            "title": "Testing Robustness Against Unforeseen Adversaries",
+            "url": "https://openai.com/blog/testing-robustness/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-08-22T00:00:00",
+            "description": "We\u2019ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training.",
+            "thumbnail": "https://openai.com/content/images/2019/08/espresso-2.gif"
+        },
+        {
+            "id": 9954,
+            "title": "GPT-2: 6-Month Follow-Up",
+            "url": "https://openai.com/blog/gpt-2-6-month-follow-up/",
+            "authors": null,
+            "tags": "Research, GPT-2",
+            "publishedOn": "2019-08-20T00:00:00",
+            "description": "We\u2019re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partners and the AI community into the model\u2019s potential for misuse and societal benefit.",
+            "thumbnail": "https://openai.com/content/images/2019/08/gpt-2_update_8-15a-1.jpg"
+        },
+        {
+            "id": 9955,
+            "title": "Learning Day",
+            "url": "https://openai.com/blog/learning-day/",
+            "authors": null,
+            "tags": "Culture",
+            "publishedOn": "2019-08-01T00:00:00",
+            "description": "At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren\u2019t being learned from daily work.",
+            "thumbnail": "https://openai.com/content/images/2019/08/learning-day_small-1.jpg"
+        },
+        {
+            "id": 9956,
+            "title": "Microsoft Invests In and Partners with OpenAI to Support Us Building Beneficial AGI",
+            "url": "https://openai.com/blog/microsoft/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2019-07-22T00:00:00",
+            "description": "Microsoft is investing $1 billion in OpenAI to support us building artificial\ngeneral intelligence (AGI) with widely distributed [https://openai.com/charter/] \neconomic benefits. We're partnering to develop a hardware and software platform\nwithin Microsoft Azure which will scale to AGI. We\u2019ll jointly develop new Azure\nAI supercomputing technologies,",
+            "thumbnail": "https://openai.com/content/images/2019/07/openai-msft-twitter_7-21b-1.jpg"
+        },
+        {
+            "id": 9957,
+            "title": "Why Responsible AI Development Needs Cooperation on Safety",
+            "url": "https://openai.com/blog/cooperation-on-safety/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-07-10T00:00:00",
+            "description": "We've written a policy research paper identifying four strategies that can be\nused today to improve the likelihood of long-term industry cooperation on safety\nnorms in AI: communicating risks and benefits, technical collaboration,\nincreased transparency, and incentivizing standards. Our analysis shows that\nindustry cooperation on safety will be instrumental in",
+            "thumbnail": "https://openai.com/content/images/2019/07/twitter-1.jpg"
+        },
+        {
+            "id": 9958,
+            "title": "OpenAI Robotics Symposium 2019",
+            "url": "https://openai.com/blog/symposium-2019/",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2019-06-05T00:00:00",
+            "description": "We hosted the first OpenAI Robotics Symposium on April 27, 2019. Robots that learn are an exciting path forward, yet there are differing approaches and opinions on how to make progress.",
+            "thumbnail": "https://openai.com/content/images/2019/06/NM3A3363-1.jpg"
+        },
+        {
+            "id": 9959,
+            "title": "OpenAI Scholars 2019: Final Projects",
+            "url": "https://openai.com/blog/openai-scholars-2019-final-projects/",
+            "authors": null,
+            "tags": "Events, Scholars",
+            "publishedOn": "2019-05-23T00:00:00",
+            "description": "Our second class of OpenAI Scholars has concluded, with all eight scholars producing an exciting final project showcased at Scholars Demo Day at OpenAI. Over the past three months, we\u2019ve seen how experienced engineers working in software, medicine, physics, child development and other fields can become machine learning practitioners with our combination of educational resources and mentorship.",
+            "thumbnail": "https://openai.com/content/images/2021/03/openai-scholars-1.png"
+        },
+        {
+            "id": 9960,
+            "title": "OpenAI Fellows Fall 2018: Final Projects",
+            "url": "https://openai.com/blog/openai-fellows-fall-2018/",
+            "authors": null,
+            "tags": "Fellows",
+            "publishedOn": "2019-05-17T00:00:00",
+            "description": "Our second class of OpenAI Fellows has wrapped up, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship. We are currently reviewing applications on a rolling basis for our next round of OpenAI Fellows Summer 2019.",
+            "thumbnail": "https://openai.com/content/images/2019/05/Screen-Shot-2019-05-17-at-8.55.53-AM-1.png"
+        },
+        {
+            "id": 9961,
+            "title": "MuseNet",
+            "url": "https://openai.com/blog/musenet/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2019-04-25T00:00:00",
+            "description": "We\u2019ve created Musenet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments and can combine styles from country to Mozart to the Beatles.",
+            "thumbnail": "https://openai.com/content/images/2019/04/Screen-Shot-2019-04-25-at-7.37.40-AM-1.png"
+        },
+        {
+            "id": 9962,
+            "title": "Generative Modeling with Sparse Transformers",
+            "url": "https://openai.com/blog/sparse-transformer/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-04-23T00:00:00",
+            "description": "We've developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence\u2014whether text, images, or sound.",
+            "thumbnail": "https://openai.com/content/images/2019/04/herovid-1.jpg"
+        },
+        {
+            "id": 9963,
+            "title": "OpenAI Five Defeats Dota 2 World Champions",
+            "url": "https://openai.com/blog/openai-five-defeats-dota-2-world-champions/",
+            "authors": null,
+            "tags": "Research, OpenAI Five",
+            "publishedOn": "2019-04-15T00:00:00",
+            "description": "OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend.",
+            "thumbnail": "https://openai.com/content/images/2019/04/win-series-2.png"
+        },
+        {
+            "id": 9964,
+            "title": "OpenAI Five Finals",
+            "url": "https://openai.com/blog/openai-five-finals/",
+            "authors": null,
+            "tags": "Research, OpenAI Five, Events",
+            "publishedOn": "2019-03-26T00:00:00",
+            "description": "We\u2019ll be holding our final live event for OpenAI Five at 11:30a PT on April 13th.",
+            "thumbnail": "https://openai.com/content/images/2019/03/benchmark-2.jpg"
+        },
+        {
+            "id": 9965,
+            "title": "Implicit Generation and Generalization Methods for Energy-Based Models",
+            "url": "https://openai.com/blog/energy-based-models/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-03-21T00:00:00",
+            "description": "We\u2019ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with GANs at low temperatures, while also having mode coverage guarantees of likelihood-based models. We hope these findings stimulate further research into this promising class of models.",
+            "thumbnail": "https://openai.com/content/images/2019/03/imagenet128x128-3.png"
+        },
+        {
+            "id": 9966,
+            "title": "OpenAI Scholars 2019: Meet Our Scholars",
+            "url": "https://openai.com/blog/openai-scholars-2019-meet-our-scholars/",
+            "authors": null,
+            "tags": "Announcements, Scholars",
+            "publishedOn": "2019-03-13T00:00:00",
+            "description": "Our class of eight scholars [https://openai.com/blog/openai-scholars/] (out of\n550 applicants) brings together collective expertise in literature, philosophy,\ncell biology, statistics, economics, quantum physics, and business innovation.\nOur scholars are applying these specializations to current AI research and\ndocumenting their progress as they [https://fatmatarlaci.wordpress.com/",
+            "thumbnail": "https://openai.com/content/images/2021/03/openai-scholars-spring-2019.jpg"
+        },
+        {
+            "id": 9967,
+            "title": "OpenAI LP",
+            "url": "https://openai.com/blog/openai-lp/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2019-03-11T00:00:00",
+            "description": "We\u2019ve created OpenAI LP, a new \u201ccapped-profit\u201d company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission.",
+            "thumbnail": "https://openai.com/content/images/2019/03/lp-logo-3-2.jpg"
+        },
+        {
+            "id": 9968,
+            "title": "Introducing Activation Atlases",
+            "url": "https://openai.com/blog/introducing-activation-atlases/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-03-06T00:00:00",
+            "description": "We\u2019ve created activation atlases (in collaboration with researchers from Google Brain), a new technique for visualizing interactions between neurons.",
+            "thumbnail": "https://openai.com/content/images/2019/03/aa-cover-1.jpg"
+        },
+        {
+            "id": 9969,
+            "title": "Neural MMO: A Massively Multiagent Game Environment",
+            "url": "https://openai.com/blog/neural-mmo/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-03-04T00:00:00",
+            "description": "We\u2019re releasing our Neural MMO\u2014a massively multiagent game environment for reinforcement learning agents.",
+            "thumbnail": "https://openai.com/content/images/2019/03/Screen-Shot-2019-02-21-at-10.41.02-AM-1.png"
+        },
+        {
+            "id": 9970,
+            "title": "Spinning Up in Deep RL: Workshop Review",
+            "url": "https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2019-02-26T00:00:00",
+            "description": "On February 2nd, we hosted our first Spinning Up Workshop as part of our new OpenAI Education Initiative. This workshop built off our Spinning Up in Deep RL resource package and took a deeper dive into RL algorithm design, robotics, and building safe AI systems.",
+            "thumbnail": "https://openai.com/content/images/2019/03/NM3A2527-1.jpg"
+        },
+        {
+            "id": 9971,
+            "title": "AI Safety Needs Social Scientists",
+            "url": "https://openai.com/blog/ai-safety-needs-social-scientists/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-02-19T00:00:00",
+            "description": "We've written a paper arguing that long-term AI safety research needs social scientists to ensure AI alignment algorithms succeed when actual humans are involved.",
+            "thumbnail": "https://openai.com/content/images/2019/03/Social-Scientists-1.png"
+        },
+        {
+            "id": 9972,
+            "title": "Better Language Models and Their Implications",
+            "url": "https://openai.com/blog/better-language-models/",
+            "authors": null,
+            "tags": "Research, Milestones, GPT-2",
+            "publishedOn": "2019-02-14T00:00:00",
+            "description": "We\u2019ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization.",
+            "thumbnail": "https://openai.com/content/images/2019/03/2x-no-mark.jpg"
+        },
+        {
+            "id": 9973,
+            "title": "OpenAI Fellows Summer 2018: Final Projects",
+            "url": "https://openai.com/blog/openai-summer-fellows-2018/",
+            "authors": null,
+            "tags": "Fellows",
+            "publishedOn": "2018-12-19T00:00:00",
+            "description": "Our first cohort of OpenAI fellows have completed their final projects, with each Fellow going from a machine learning beginner to core OpenAI contributor.",
+            "thumbnail": "https://openai.com/content/images/2018/12/fellows18-1.jpg"
+        },
+        {
+            "id": 9974,
+            "title": "How AI Training Scales",
+            "url": "https://openai.com/blog/science-of-ai/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2018-12-14T00:00:00",
+            "description": "We've discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training.",
+            "thumbnail": "https://openai.com/content/images/2018/12/noise-summary-whitebg@2x-1.png"
+        },
+        {
+            "id": 9975,
+            "title": "Quantifying Generalization in Reinforcement Learning",
+            "url": "https://openai.com/blog/quantifying-generalization-in-reinforcement-learning/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-12-06T00:00:00",
+            "description": "We\u2019re releasing a new training environment, CoinRun, that precisely quantifies an agent\u2019s ability to transfer its experience to novel test environments.",
+            "thumbnail": "https://openai.com/content/images/2018/12/Screen-Shot-2018-12-06-at-8.13.05-AM-2.png"
+        },
+        {
+            "id": 9976,
+            "title": "Spinning Up in Deep RL",
+            "url": "https://openai.com/blog/spinning-up-in-deep-rl/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-11-08T00:00:00",
+            "description": "We\u2019re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear examples of RL code, educational exercises, documentation, and tutorials.",
+            "thumbnail": "https://openai.com/content/images/2018/11/spinningup-2.jpg"
+        },
+        {
+            "id": 9977,
+            "title": "Learning Concepts with Energy Functions",
+            "url": "https://openai.com/blog/learning-concepts-with-energy-functions/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-11-07T00:00:00",
+            "description": "We\u2019ve built an energy-based model that can quickly recognize, generate, and transfer simple concepts (such as near, above, between, closest, and furthest) represented by sequences or sets of 2D points.",
+            "thumbnail": "https://openai.com/content/images/2018/11/Screen-Shot-2018-11-06-at-8.02.42-PM.png"
+        },
+        {
+            "id": 9978,
+            "title": "Reinforcement Learning with Prediction-Based Rewards",
+            "url": "https://openai.com/blog/reinforcement-learning-with-prediction-based-rewards/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-10-31T00:00:00",
+            "description": "We\u2019ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma\u2019s Revenge.",
+            "thumbnail": "https://openai.com/content/images/2018/10/Screen-Shot-2018-10-31-at-9.06.21-AM-1.png"
+        }
+    ]
+}

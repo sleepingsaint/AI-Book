@@ -1,0 +1,125 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 6759,
+            "title": "Inverse Text Normalization as a Labeling Problem",
+            "url": "https://machinelearning.apple.com/research/inverse-text-normal",
+            "authors": "Siri Team",
+            "tags": "Article, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Siri displays entities like dates, times, addresses and currency amounts in a nicely formatted way.  This is the result of the application\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 6760,
+            "title": "Improving Neural Network Acoustic Models by Cross-bandwidth and Cross-lingual Initialization",
+            "url": "https://machinelearning.apple.com/research/cross-initialization",
+            "authors": "Siri Team",
+            "tags": "Article, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Users expect Siri speech recognition to work well regardless of language, device,  acoustic environment, or communication channel bandwidth\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 6761,
+            "title": "Learning from Simulated and Unsupervised Images through Adversarial Training",
+            "url": "https://machinelearning.apple.com/research/learning-from-simulated-and-unsupervised-images-through-adversarial-training",
+            "authors": "Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "With recent progress in graphics, it has become more tractable to train models on synthetic images, potentially avoiding the need for\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 6762,
+            "title": "Improving the Realism of Synthetic Images",
+            "url": "https://machinelearning.apple.com/research/gan",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "Most successful examples of neural nets today are trained with supervision. However, to achieve high accuracy, the training sets need to be\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 14962,
+            "title": "Rewards Encoding Environment Dynamics Improves Preference-based Reinforcement Learning",
+            "url": "https://machinelearning.apple.com/research/rewards-encoding",
+            "authors": "Katherine Metcalf, Miguel Sarabia, Barry-John Theobald",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop at \"Human-in-the-Loop Learning Workshop\" at NeurIPS 2022. \nPreference-based reinforcement learning\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 14963,
+            "title": "Homomorphic Self-Supervised Learning",
+            "url": "https://machinelearning.apple.com/research/homomorphic-self-supervised-learning",
+            "authors": "Thomas Anderson Keller, Xavier Suau, Luca Zappella",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop \"Self-Supervised Learning - Theory and Practice\" at NeurIPS 2022.\nMany state of the art\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 14993,
+            "title": "Beyond CAGE: Investigating Generalization of Learned Autonomous Network Defense Policies",
+            "url": "https://machinelearning.apple.com/research/beyond-cage",
+            "authors": "Melody Wolk, Andy Applebaum, Camron Dennler, Patrick Dwyer, Marina Moskowitz, Harold Nguyen, Nicole Nichols, Nicole Park, Paul Rachwalski, Frank Rau, and Adrian Webster",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at \"Reinforcement Learning for Real Life\" workshop at NeurIPS 2022.\nAdvancements in reinforcement learning (RL) have\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 15006,
+            "title": "DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection",
+            "url": "https://machinelearning.apple.com/research/segmentation-guided",
+            "authors": "Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan, Ting Chen",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Visual anomaly detection, an important problem in computer vision, is usually formulated as a one-class classification and segmentation\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 15007,
+            "title": "Languages You Know Influence Those You Learn: Impact of Language Characteristics on Multi-Lingual Text-to-Text Transfer",
+            "url": "https://machinelearning.apple.com/research/impact-of-language",
+            "authors": "Benjamin Muller, Deepanshu, Gupta Siddharth, Patwardhan, Jean-Philippe Fauconnier, David Vandyke, Sachin Agarwal",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this work, we analyze a pre-trained mT5 to discover the attributes of cross-lingual connections learned by this model. Through a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        },
+        {
+            "id": 15056,
+            "title": "Stable Diffusion with Core ML on Apple Silicon",
+            "url": "https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon",
+            "authors": "Atila Orhon, Michael Siracusa, Aseem Wadhwa",
+            "tags": "Paper, Tools, Platforms, Frameworks",
+            "publishedOn": null,
+            "description": "Today, we are excited to release optimizations to Core ML for [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement) in\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg",
+            "sourceId": 5,
+            "source": "Apple ML Research Blog"
+        }
+    ]
+}

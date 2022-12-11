@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2124,
+            "title": "How to Classify the Images of the Cifar-10 Dataset using CNN?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-to-classify-the-images-of-the-cifar-10-dataset-using-cnn/",
+            "authors": "Aditya Garg",
+            "tags": "Beginner, Datasets, Deep Learning, Image",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "This article will help you create an image classification of the Cifar-10 dataset using CNN in 10 different classes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/88659compression_image.jpg"
+        },
+        {
+            "id": 2125,
+            "title": "Dummies Guide to Writing a Custom Loss Function in Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/dummies-guide-to-writing-a-custom-loss-function-in-tensorflow/",
+            "authors": "Arindam Banerjee",
+            "tags": "Beginner, Linear Regression, Maths, Python",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "In this article, you will learn how to write a custom loss function in Tensorflow which is going to be interesting. Let's get started.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/40160REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 2126,
+            "title": "Whale Safe: Tool for Mitigating the Whale Strikes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/whale-safe-tool-for-mitigating-the-whale-strikes/",
+            "authors": "Drishti Sharma",
+            "tags": "Artificial Intelligence, Beginner",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "Whale Safe is an Artificial Intelligence tech-driven mapping and analysis tool that displays whale and ship data in real-time.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 2127,
+            "title": "The Origin of Big Data Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/the-origin-of-big-data-analytics/",
+            "authors": "Trupti Dekate",
+            "tags": "Beginner, Big data, Data Engineering",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "Big data analytics helps businesses and organizations make better decisions by uncovering information that would otherwise be hidden.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/03/24061532/big-data.jpg"
+        },
+        {
+            "id": 2128,
+            "title": "Automate Model Deployment with GitHub Actions and AWS",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/automate-model-deployment-with-github-actions-and-aws/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "AWS, Beginner, Cloud Computing, Github, MLops, Python",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "In this article, we will create a continuous deployment pipeline with which we can automate model deployment.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/02/error.jpg"
+        },
+        {
+            "id": 2129,
+            "title": "Apache Airflow: How to Dynamically Fetch Data and Email?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/apache-airflow-how-to-dynamically-fetch-data-and-email/",
+            "authors": "Jayachandra Reddy",
+            "tags": "Airflow, Beginner, Data Engineering, Python",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "Apache Airflow is open-source and comes pre-packed with many operators, hooks, sensors, etc, covering a diverse set of external services.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/04_thumb.jpg"
+        },
+        {
+            "id": 2130,
+            "title": "Data Warehouse for the Beginners!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-warehouse-for-the-beginners/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Database",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "Data warehouse is a well-structured data repository developed by an organization to manage their transactions, capturing all constraints.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2131,
+            "title": "Complete Introduction to DAX in Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/complete-introduction-to-dax-in-power-bi/",
+            "authors": "Gomathi Srinivasan",
+            "tags": "Beginner, Power BI",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "This is a detailed article about DAX in Power BI. You will study about its different types, steps to create measures and functions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/power-bi.png"
+        },
+        {
+            "id": 2132,
+            "title": "Data Warehouse in Azure SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-warehouse-in-azure-sql/",
+            "authors": "Chetan Dekate",
+            "tags": "Azure, Beginner, Data Engineering, Data Warehouse, SQL",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "In this article, you will learn and understand how to use SQL Data Warehouse as a key part of your big data solution.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2133,
+            "title": "SWAMP: A High-precision Smart Irrigation System",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/swamp-a-high-precision-smart-irrigation-system/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, IOT, Technology",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "With the help of the Internet of Things (IoT), data analytics, autonomous devices, and other technologies, SWAMP project has been proposed.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/01/iot2.png"
+        },
+        {
+            "id": 2134,
+            "title": "Bank Customer Churn Prediction Using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/bank-customer-churn-prediction-using-machine-learning/",
+            "authors": "MICHAEL WIRYASEPUTRA",
+            "tags": "Algorithm, Beginner, Guide, Machine Learning, Python",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "In this article, you will learn how banks use different algorithms of churn prediction models using machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Churn-Prediction-scaled.jpg"
+        },
+        {
+            "id": 2135,
+            "title": "Training a CNN from Scratch using Data Augmentation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/training-a-cnn-from-scratch-using-data-augmentation/",
+            "authors": "Nazia Aslam",
+            "tags": "Beginner, Computer Vision, Datasets, Deep Learning, Healthcare, Image Analysis, Python",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "In this article, you will learn how to train a convolutional neural network from scratch using data augmentation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/33927data-original.jpg"
+        },
+        {
+            "id": 2136,
+            "title": "5 Water Management Solutions Powered by IoT and AI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/5-water-management-solutions-powered-by-iot-and-ai/",
+            "authors": "Drishti Sharma",
+            "tags": "Artificial Intelligence, Beginner, IOT",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "In this article, you will learn about five startups who help with water management and conservation using IoT and AI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/artificial-intelligence-comp42.jpg"
+        },
+        {
+            "id": 2137,
+            "title": "Blockchain : Proof-of-Stake (PoS)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/blockchain-proof-of-stake-pos/",
+            "authors": "ANURAG SINGH CHOUDHARY",
+            "tags": "Advanced, Blockchain",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "\"Proof of stake\" and \"Proof of work\" are the two major consensus mechanisms that cryptocurrencies utilize to confirm new transactions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2138,
+            "title": "Top Blockchain Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/top-blockchain-interview-questions/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Blockchain, Interview Questions, Interviews",
+            "publishedOn": "2022-09-27T00:00:00",
+            "description": "Blockchain uses a decentralized network and cryptographic hashing to make the history of any digital asset unalterable.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2139,
+            "title": "Data Warehousing with Snowflake and Other Alternatives",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-warehousing-with-snowflake-and-other-alternatives/",
+            "authors": "Trupti Dekate",
+            "tags": "Data Engineering, Data Warehouse, Database, Intermediate",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "With data warehouses, Snowflake requires a proper data format, works with structured and semi-structured data, and requires its query engine.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2140,
+            "title": "Sentiment Analysis on Flipkart Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/sentiment-analysis-on-flipkart-dataset/",
+            "authors": "Shibu Mohapatra",
+            "tags": "Beginner, Data Engineering, NLP",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "Sentiment analysis can help the company better understand the product and plan further regarding products.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Sentiment-Analysis.png"
+        },
+        {
+            "id": 2141,
+            "title": "Web Scraping: Tool for Data Engineering",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/web-scraping-tool-for-data-engineering/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Database, Intermediate, Libraries, Python",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "Web scraping is the practice of applying automation to change the typical procedure of utilizing web content.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/monitor-ge8f247906_1920.jpg"
+        },
+        {
+            "id": 2142,
+            "title": "DeepMind\u2019s PLATO Learns Physics From Videos!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/deepminds-plato-learns-physics-from-videos/",
+            "authors": "Drishti Sharma",
+            "tags": "Data Science, Deep Learning, Intermediate",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "PLATO was trained on 10s of videos showing simple mechanisms such as a ball rolling down a slope or two balls bouncing off one another, etc.,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/37491transferLearnigJeanVitor-min.jpeg"
+        },
+        {
+            "id": 2143,
+            "title": "Non-Generalization Principles and Transfer Learning Technique",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/non-generalization-principles-and-transfer-learning-technique/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Deep Learning, Intermediate, Libraries, NLP",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "Transfer learning is the reuse of a model that has already been trained on new models comparable to them by emulating new qualities.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/74738Computer_vision.jpeg"
+        },
+        {
+            "id": 2144,
+            "title": "Sentiment Analysis with NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/sentiment-analysis-with-nlp/",
+            "authors": "Usha Bhanu Komaragiri",
+            "tags": "Beginner, NLP",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "In this article, you will study the sentiment analysis for the most trending show 'Shark Tank', India using NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/36882NLP-e1595362635214.jpg"
+        },
+        {
+            "id": 2145,
+            "title": "How AI is Revolutionizing the Healthcare Sector?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-ai-is-revolutionizing-the-healthcare-sector/",
+            "authors": "Divyansh Sharma",
+            "tags": "Artificial Intelligence, Beginner, Technology",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "In this article, we will explore how AI is fundamentally changing the healthcare sector with technology such as Robotics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/7573412-Best-Artificial-Intelligence-Chatbots-For-Android-1.png"
+        },
+        {
+            "id": 2146,
+            "title": "Classify Images of IRIS Dataset and Hyperparameters",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/classify-images-of-iris-dataset-and-hyperparameters/",
+            "authors": "Aditya Garg",
+            "tags": "Deep Learning, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "The model's performance is maximized using that set of hyperparameters, which minimizes a predetermined loss function.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/How-to-treat-Class-Imbalance-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 2147,
+            "title": "How to create Music Emotion Recognition System using CNN?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-to-create-music-emotion-recognition-system-using-cnn/",
+            "authors": "Kaushal Kumari",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "The article discusses a music recommender system that detects facial expression and recommends songs according to mood using CNN model.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Face-Recognition-app.jpg"
+        },
+        {
+            "id": 2148,
+            "title": "Data Visualization Guide for Multi-dimensional Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-visualization-guide-for-multi-dimensional-data/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "In this article, our focus will be primarily on data visualization through multi-dimensional data with the help of graphs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70583featured-data-visualization.png"
+        },
+        {
+            "id": 2149,
+            "title": "Hardhat 101- From Create to Deploy!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/hardhat-101-from-create-to-deploy/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Blockchain, Cryptocurrency, Guide, Learning Path",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "In this article, we learned how to use hardhat, why to use it, how it can benefit the developers, including you, and why it stands above all.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2150,
+            "title": "Identifying and Dealing with Multicollinearity and Heteroscedasticity",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/identifying-and-dealing-with-multicollinearity-and-heteroscedasticity/",
+            "authors": "Kavish111",
+            "tags": "Beginner, Python, Statistics, Technique",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "This article discusses Multicollinearity and\u00a0Heteroscedasticity with their cause, detection, and handling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/35094Statistics-for-machine-learning.png"
+        },
+        {
+            "id": 2151,
+            "title": "The DataHour: September Timeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/the-datahour-september-timeline/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence, Data Engineering, Data Science, Machine Learning",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "Come, register yourself for the DataHour of your choice, where you can learn the application of data science in real life.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/09/article.jpg"
+        },
+        {
+            "id": 2152,
+            "title": "Applications of Quantum Computing",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/applications-of-quantum-computing/",
+            "authors": "Divyansh Sharma",
+            "tags": "Beginner, Cloud Computing",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "Quantum Computing can help in the area of computational chemistry. It can aid in developing\u00a0a room-temperature superconductor.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 2153,
+            "title": "Fine-Tuning BERT with Masked Language Modeling",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/",
+            "authors": "Abhijit Kr",
+            "tags": "Datasets, Guide, Intermediate, NLP, Python",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "Training a BERT model for many of us is an enigma, given that there is no clear documentation about the same.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        }
+    ]
+}

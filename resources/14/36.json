@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9562,
+            "title": "Common Pitfalls In Machine Learning Projects",
+            "url": "https://machinelearningmastery.com/common-pitfalls-machine-learning-projects/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-12-27T00:00:00",
+            "description": "In a recent presentation, Ben Hamner\u00a0described\u00a0the common pitfalls in machine learning projects he and his colleagues have observed during\u00a0competitions on Kaggle. The talk was titled \u201cMachine Learning Gremlins\u201d and was presented in February 2014 at Strata. In this post we take a look at the pitfalls from Ben\u2019s talk, what they look like and how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Overfitting.jpg"
+        },
+        {
+            "id": 9563,
+            "title": "Linear Algebra for Machine Learning",
+            "url": "https://machinelearningmastery.com/linear-algebra-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2014-12-24T00:00:00",
+            "description": "You do not need to learn linear algebra before you get started in machine learning, but at some time you may wish to dive deeper. In fact, if there was one area of mathematics I would suggest improving before the others, it would be linear algebra. It will give you the tools to help you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Linear-Algebra-For-Machine-Learning.jpg"
+        },
+        {
+            "id": 9564,
+            "title": "Machine Learning With Statistical And Causal Methods",
+            "url": "https://machinelearningmastery.com/machine-learning-statistical-causal-methods/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-12-22T00:00:00",
+            "description": "In November 2014,\u00a0Bernhard Scholkopf was awarded the Milner Award by the Royal\u00a0Society for his\u00a0contributions to machine learning. In accepting the\u00a0award, he gave a\u00a0layman\u2019s presentation of his work on statistical and causal machine learning methods titled \u201cStatistical and causal approaches to machine learning\u201c. It\u2019s an excellent one hour talk and I highly recommend that you watch [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Predicting-Y-from-X.jpg"
+        },
+        {
+            "id": 9565,
+            "title": "How To Work Through A Problem Like A Data Scientist",
+            "url": "https://machinelearningmastery.com/how-to-work-through-a-problem-like-a-data-scientist/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-12-19T00:00:00",
+            "description": "In a 2010 post Hilary Mason and Chris Wiggins described the OSEMN process as a taxonomy of tasks that a data scientist should feel comfortable working on. The title of the post was \u201cA Taxonomy of Data Science\u201d on the now defunct dataists blog. This process has also been used as the structure of a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Work-Through-A-Problem-Like-A-Data-Scientist.jpg"
+        },
+        {
+            "id": 9566,
+            "title": "How To Get Started In Machine Learning: A Self-Study Blueprint",
+            "url": "https://machinelearningmastery.com/get-started-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-12-17T00:00:00",
+            "description": "How do you get started in machine learning, specifically Deep Learning? This question was asked recently in the machine learning sub-reddit. Specifically, the original poster of the question had completed the Coursera Machine Learning course but felt like they did not have enough of a background to get started in Deep Learning. I wrote a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/How-To-Get-Started-In-Machine-Learning.jpg"
+        },
+        {
+            "id": 9567,
+            "title": "Practical Machine Learning Books for the Holidays",
+            "url": "https://machinelearningmastery.com/practical-machine-learning-books-for-the-holidays/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-12-15T00:00:00",
+            "description": "O\u2019Reilly books have a reputation for being practical, hands on and useful. Specifically the nutshell books and so-called animal books. O\u2019Reilly have a few new books out in time for the holidays on the topic of\u00a0machine learning. I don\u2019t want to bore you with reviews, Amazon has plenty of those. In this post we take [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Thoughtful-Machine-Learning.jpg"
+        },
+        {
+            "id": 9568,
+            "title": "Use Random Forest: Testing 179 Classifiers on 121 Datasets",
+            "url": "https://machinelearningmastery.com/use-random-forest-testing-179-classifiers-121-datasets/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-12-12T00:00:00",
+            "description": "If you don\u2019t know what algorithm to use on your problem, try a few. Alternatively, you could just try Random Forest and maybe a Gaussian SVM. In a recent study these two algorithms were demonstrated to be the most effective when raced against nearly 200 other algorithms averaged over more than 100 data sets. In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Do-We-Need-Hundreds-of-Classifiers.jpg"
+        },
+        {
+            "id": 9569,
+            "title": "Better Naive Bayes: 12 Tips To Get The Most From The Naive Bayes Algorithm",
+            "url": "https://machinelearningmastery.com/better-naive-bayes/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-12-10T00:00:00",
+            "description": "Naive Bayes is a simple and powerful technique that you should be testing and using on your classification problems. It\u00a0is simple to understand, gives good results and is fast to build a model and make predictions. For these reasons alone you should take a closer look at the algorithm. In a recent blog post, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Better-Naive-Bayes.jpg"
+        },
+        {
+            "id": 9570,
+            "title": "Lessons Learned from Building Machine Learning Systems",
+            "url": "https://machinelearningmastery.com/lessons-learned-building-machine-learning-systems/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-12-01T00:00:00",
+            "description": "In a recent presentation at MLConf, Xavier Amatriain described 10 lessons that he has learned about building machine learning systems as the Research/Engineering Manager at Netflix. In this you will discover these 10 lessons in a summary from his talk and slides. 10 Lessons Learned The 10 lessons that Xavier presents can be summarized as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/Offline-Online-Training-Process.jpg"
+        },
+        {
+            "id": 9571,
+            "title": "Get Your Dream Job in Machine Learning by Delivering Results",
+            "url": "https://machinelearningmastery.com/get-dream-job-machine-learning-delivering-results/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-11-28T00:00:00",
+            "description": "You can rise up and take on your desire to become an a machine learning practitioner and data scientist. You have to work hard, learn the skills and demonstrate that you can deliver results, but you don\u2019t need a fancy degree or a fancy background. In this post I want to demonstrate that this is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Get-Your-Dream-Job.jpg"
+        },
+        {
+            "id": 9572,
+            "title": "Assessing and Comparing Classifier Performance with ROC Curves",
+            "url": "https://machinelearningmastery.com/assessing-comparing-classifier-performance-roc-curves-2/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-11-26T00:00:00",
+            "description": "The most commonly reported measure of classifier performance is accuracy: the percent of correct classifications obtained. This metric has the advantage of being easy to understand and makes comparison of the performance of different classifiers trivial, but it ignores many of the factors which should be taken into account when honestly assessing the performance of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/ROC1.png"
+        },
+        {
+            "id": 9573,
+            "title": "Evaluate Yourself As a Data Scientist",
+            "url": "https://machinelearningmastery.com/data-science-skills-simple-method-can-use-evaluate-use-results-build-amazing-data-science-teams/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-11-24T00:00:00",
+            "description": "What skills do you need to be a data scientist? I read an interesting data-driven approach to answering this question in the book Doing Data Science: Straight Talk from the Frontline. In this post I summarize this self-assessment approach that you can use to evaluate your strengths as a data scientist and where you might [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Profile-of-a-Data-Science-Team.jpg"
+        },
+        {
+            "id": 9574,
+            "title": "Understand Your Problem and Get Better Results Using Exploratory Data Analysis",
+            "url": "https://machinelearningmastery.com/understand-problem-get-better-results-using-exploratory-data-analysis/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-11-21T00:00:00",
+            "description": "You often jump from problem-to-problem in applied machine learning and you need to get up to speed on a new dataset, fast. A classical and under-utilised approach that you can use to quickly build a relationship with a new data problem is Exploratory Data Analysis. In this post you will discover Exploratory Data Analysis (EDA), [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Exploratory-Data-Analysis.jpg"
+        },
+        {
+            "id": 9575,
+            "title": "Data Management Matters And Why You Need To Take It Seriously",
+            "url": "https://machinelearningmastery.com/data-management-matters-and-why-you-need-to-take-it-seriously/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-11-19T00:00:00",
+            "description": "We live in a world drowning in data. Internet tracking, stock market movement, genome sequencing technologies and their ilk all produce enormous amounts of data. Most of this data is someone else\u2019s responsibility, generated by someone else, stored in someone else\u2019s database, which is maintained and made available by\u2026 you guessed it\u2026 someone else. But. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/data-management-matters.jpg"
+        },
+        {
+            "id": 9576,
+            "title": "How to Become a Data Scientist",
+            "url": "https://machinelearningmastery.com/become-data-scientist/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-11-17T00:00:00",
+            "description": "How do you become a data scientist? I think that really depends on where you are now and what you really want to do as a data scientist. Nevertheless, DataCamp posted an infographic recently that described 8 easy steps to becoming a data scientist. In this post I want to highlight and review DataCamp\u2019s infographic. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/How-to-become-a-data-scientist.jpg"
+        },
+        {
+            "id": 9577,
+            "title": "Crash Course in Statistics for Machine Learning",
+            "url": "https://machinelearningmastery.com/crash-course-statistics-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2014-11-14T00:00:00",
+            "description": "You do not need to know statistics before you can start learning and applying machine learning. You can start today. Nevertheless, knowing some statistics can be very helpful to understand the language used in machine learning. Knowing some statistics will eventually be required when you want to start making strong claims about your results. In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/crash-course-in-statistics.jpg"
+        },
+        {
+            "id": 9578,
+            "title": "Why Aren\u2019t My Results As Good As I Thought? You\u2019re Probably Overfitting",
+            "url": "https://machinelearningmastery.com/arent-results-good-thought-youre-probably-overfitting/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-11-12T00:00:00",
+            "description": "We all know the satisfaction of running an analysis and seeing the results come back the way we want them to: 80% accuracy; 85%; 90%? The temptation is strong just to turn to the Results section of the report we\u2019re writing, and put the numbers in. But wait: as always, it\u2019s not that straightforward. Succumbing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Light-at-the-end-of-the-tunnel.jpg"
+        },
+        {
+            "id": 9579,
+            "title": "Machine Learning Q&A: Concept Drift, Better Results and Learning Faster",
+            "url": "https://machinelearningmastery.com/machine-learning-qa-concept-drift-better-results-and-learning-faster/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-11-10T00:00:00",
+            "description": "I get a lot of questions about machine learning via email and I love answering them. I get to see what real people are doing and help to make a difference. (Do you have a question about machine learning? Contact me). In this post I highlight a few of the interesting questions I have received [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/machine-learning-qa.jpg"
+        },
+        {
+            "id": 9580,
+            "title": "Hello World of Applied Machine Learning",
+            "url": "https://machinelearningmastery.com/hello-world-of-applied-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-11-07T00:00:00",
+            "description": "It is easy to feel overwhelmed with the large numbers of machine learning algorithms. There are so many to choose from, it is hard to know where to start and what to try. The choice can be paralyzing. You need to get over this fear and start. There is no magic book or course that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Hello-World-of-Machine-Learning.jpg"
+        },
+        {
+            "id": 9581,
+            "title": "How To Get Baseline Results And Why They Matter",
+            "url": "https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-11-05T00:00:00",
+            "description": "In my courses and guides, I teach the preparation of a baseline result before diving into spot checking algorithms. A student of mine recently asked: If a baseline is not calculated for a\u00a0problem, will it make the results of other algorithms questionable? He went on to ask: If other algorithms do not give better accuracy [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Baseline-Machine-Learning-Results.jpg"
+        },
+        {
+            "id": 9582,
+            "title": "Take Control By Creating Targeted Lists of Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/create-lists-of-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-11-03T00:00:00",
+            "description": "Any book on machine learning will list and describe dozens of machine learning algorithms. Once you start using tools and libraries you will discover dozens more. This can really wear you down, if you think you need to know about every possible algorithm out there. A simple trick to tackle this feeling and take some [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/11/Create-a-List-of-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 9583,
+            "title": "Don\u2019t Start with Open-Source Code When Implementing Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/dont-start-with-open-source-code-when-implementing-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-10-31T00:00:00",
+            "description": "Edward Raff is the author of the Java Machine Learning library called JSAT (which is an acronym for Java Statistical Analysis Tool). Edward has implemented many algorithms in creating this library and I recently reached out to him and asked what advice he could give to\u00a0beginners implementing machine learning algorithms from scratch. In this post [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Implement-Machine-Learning-Algorithms-from-Scratch.jpg"
+        },
+        {
+            "id": 9584,
+            "title": "How To Investigate Machine Learning Algorithm Behavior",
+            "url": "https://machinelearningmastery.com/how-to-investigate-machine-learning-algorithm-behavior/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-10-29T00:00:00",
+            "description": "Machine learning algorithms are complex systems that require study to understand. Static descriptions of machine learning algorithms are a good starting point, but are insufficient to get a feeling for how the algorithm behaves. You need to see the algorithm in action. Experimenting on a running machine learning algorithms will allow you to build an [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Investigate-Machine-Learning-Algorithm-Behavior.jpg"
+        },
+        {
+            "id": 9585,
+            "title": "How to Research a Machine Learning Algorithm",
+            "url": "https://machinelearningmastery.com/how-to-research-a-machine-learning-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-10-27T00:00:00",
+            "description": "Algorithms are a big part of the field of machine learning. You need to understand what algorithms are out there, and how to use them effectively. An easy way to shortcut this knowledge is to review what is already known about an algorithm, to research it. In this post you will discover the importance of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Research-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 9586,
+            "title": "Model Selection Tips From Competitive Machine Learning",
+            "url": "https://machinelearningmastery.com/model-selection-tips-from-competitive-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-10-24T00:00:00",
+            "description": "After spot checking algorithms on your problem and tuning the better few, you ultimately need to select one or two best models with which to proceed. This problem is called model selection and can be vexing because you need to make a choice given incomplete information. This is where the test harness you create and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Model-Selection.jpg"
+        },
+        {
+            "id": 9587,
+            "title": "How to Study Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/how-to-study-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-10-22T00:00:00",
+            "description": "Algorithms make up a big part of machine learning. You select and apply machine learning algorithms to build a model from your data, select features, combine the predictions from multiple models and even evaluate the capabilities of a given model. In this post you will review 5 different approaches that you can use to study [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/study-machine-learning-algorithms.jpg"
+        },
+        {
+            "id": 9588,
+            "title": "5 Machine Learning Areas You Should Be Cultivating",
+            "url": "https://machinelearningmastery.com/5-machine-learning-areas-you-should-be-cultivating/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-10-13T00:00:00",
+            "description": "You want to learn machine learning to have more opportunities at work or to get a job. You may already be working as a data scientist or machine learning engineer and looking to improve your skills. It is about as easy to pigeonhole machine learning skills as it is programming skills (you can\u2019t). There is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/machine-learning-skills.jpg"
+        },
+        {
+            "id": 9589,
+            "title": "16 Options To Get Started and Make Progress in Machine Learning and Data Science",
+            "url": "https://machinelearningmastery.com/16-options-to-get-started-and-make-progress-in-machine-learning-and-data-science/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-10-10T00:00:00",
+            "description": "You want to learn machine learning or data science. You might want a job or the opportunity to get a job in machine learning or data science. Alternatively, you might be a student or in a data role and looking to accelerate your learning in the area. If you think your only options are to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/options-in-machine-learning-e1412548293994.png"
+        },
+        {
+            "id": 9590,
+            "title": "Building a Production Machine Learning Infrastructure",
+            "url": "https://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-10-08T00:00:00",
+            "description": "Midwest.io is was a conference in Kansas City on July 14-15 2014. At the conference, Josh Wills gave a talk on what it takes to build production machine learning infrastructure in a talk titled \u201cFrom the lab to the factory: Building a Production Machine Learning Infrastructure\u201c. Josh Wills is a the Senior Director of Data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Supernova-Schemas.jpg"
+        },
+        {
+            "id": 9591,
+            "title": "An Introduction to Feature Selection",
+            "url": "https://machinelearningmastery.com/an-introduction-to-feature-selection/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2014-10-06T00:00:00",
+            "description": "Which features should you use to create a predictive model? This is a difficult question that may require deep knowledge of the problem domain. It is possible to automatically select those features in your data that are most useful or most relevant for the problem you are working on. This is a process called feature [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/feature-selection.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 854,
+            "title": "Optimizing applications with EagleDream in Amazon CodeGuru Profiler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+            "authors": "Dustin Potter",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-10-15T00:00:00",
+            "description": "This is a guest post by Dustin Potter at EagleDream Technologies. In their own words, \u201cEagleDream Technologies educates, enables, and empowers the world\u2019s greatest companies to use cloud-native technology to transform their business. With extensive experience architecting workloads on the cloud, as well as a full suite of skills in application modernization, data engineering, data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/24/2-Flame-Graph.jpg"
+        },
+        {
+            "id": 855,
+            "title": "Amazon Translate ranked as #1 machine translation provider by Intento",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
+            "authors": "Greg Rushing",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-10-14T00:00:00",
+            "description": "Customer obsession, one of the key Amazon Leadership principles that guides everything we do at Amazon, has helped Amazon Translate be recognized as an industry leading neural machine translation provider.\u00a0This year, Intento ranked Amazon Translate #1 on the list of top-performing machine translation providers in its The State of Machine Translation 2020 report. We are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/15/Intento.jpg"
+        },
+        {
+            "id": 856,
+            "title": "Building a medical image search platform on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
+            "authors": "Gang Fu, Erhan Bas, Ujjwal Ratan",
+            "tags": "Amazon Comprehend Medical, Amazon OpenSearch Service, Amazon SageMaker, Analytics, Artificial Intelligence, AWS Amplify, AWS AppSync, AWS Fargate",
+            "publishedOn": "2020-10-14T00:00:00",
+            "description": "Improving radiologist efficiency and preventing burnout is a primary goal for healthcare providers. A nationwide study published in Mayo Clinic Proceedings in 2015 showed radiologist burnout percentage at a concerning 61% [1]. In additon, the report concludes that \u201cburnout and satisfaction with work-life balance in US physicians worsened from 2011 to 2014. More than half [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/2-Solution-Architecture.jpg"
+        },
+        {
+            "id": 857,
+            "title": "Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/streamlining-data-labeling-for-yolo-object-detection-in-amazon-sagemaker-ground-truth/",
+            "authors": "Arkajyoti Misra",
+            "tags": "Amazon SageMaker, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-10-14T00:00:00",
+            "description": "Object detection is a common task in computer vision (CV), and the YOLOv3 model is state-of-the-art in terms of accuracy and speed. In transfer learning, you obtain a model trained on a large but generic dataset and retrain the model on your custom dataset. One of the most time-consuming parts in transfer learning is collecting [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/09/15-Pens-Pencils.jpg"
+        },
+        {
+            "id": 858,
+            "title": "Using speaker diarization for streaming transcription with Amazon Transcribe and Amazon Transcribe Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-speaker-diarization-for-streaming-transcription-with-amazon-transcribe-and-amazon-transcribe-medical/",
+            "authors": "Prem Ranga, Talia Chopra, Mahendar Gajula, Parsa Shahbodaghi",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-10-13T00:00:00",
+            "description": "Conversational audio data that requires transcription, such as phone calls, doctor visits, and online meetings, often has multiple speakers. In these use cases, it\u2019s important to accurately label the speaker and associate them to the audio content delivered. For example, you can distinguish between a doctor\u2019s questions and a patient\u2019s responses in the transcription of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/Can-you-tell-me-about-the-Amazon-Transcribe-speaker-diarization-for-streaming-audio_-4.jpg"
+        },
+        {
+            "id": 859,
+            "title": "Optimizing the cost of training AWS DeepRacer reinforcement learning models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/",
+            "authors": "Tim O'Brien, Heather Johnston-Robinson",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-10-13T00:00:00",
+            "description": "AWS DeepRacer\u00a0is a cloud-based 3D racing simulator, an autonomous 1/18th scale race car driven by\u00a0reinforcement learning, and a global racing league. Reinforcement learning (RL), an advanced\u00a0machine learning\u00a0(ML) technique, enables models to learn complex behaviors without labeled training data and make short-term decisions while optimizing for longer-term goals. But as we humans can attest, learning something [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/28/4-Track.jpg"
+        },
+        {
+            "id": 860,
+            "title": "Using log analysis to drive experiments and win the AWS DeepRacer F1 ProAm Race",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-log-analysis-to-drive-experiments-and-win-the-aws-deepracer-f1-proam-race/",
+            "authors": "Ray Goh",
+            "tags": "Artificial Intelligence, AWS DeepRacer, Sports",
+            "publishedOn": "2020-10-13T00:00:00",
+            "description": "This is a guest post by Ray Goh, a tech executive at DBS Bank.\u00a0 AWS DeepRacer is an autonomous 1/18th scale race car powered by reinforcement learning, and the AWS DeepRacer League is the world\u2019s first global autonomous racing league. It\u2019s a fun and easy way to get started with machine learning (ML), regardless of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/08/1-1-4-840x630.jpg"
+        },
+        {
+            "id": 861,
+            "title": "Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-improvements-reduce-model-training-time-by-up-to-40-and-latency-for-generating-recommendations-by-up-to-30/",
+            "authors": "Deepesh Nathani, Matthew Chwastek, Venkatesh Sreenivas",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-10-13T00:00:00",
+            "description": "This blog post was last reviewed and updated April, 2022 with database schema updates. We\u2019re excited to announce new efficiency improvements for Amazon Personalize. These improvements decrease the time required to train solutions (the machine learning models trained with your data) by up to 40% and reduce the latency for generating real-time recommendations by up [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/12/2-1-5.jpg"
+        },
+        {
+            "id": 862,
+            "title": "Amazon Rekognition adds support for six new content moderation categories",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/",
+            "authors": "Venkatesh Bagaria",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2020-10-12T00:00:00",
+            "description": "Amazon Rekognition content moderation is a deep learning-based service that can detect inappropriate, unwanted, or offensive images and videos, making it easier to find and remove such content at scale. Amazon Rekognition provides a detailed taxonomy of moderation categories, such as Explicit Nudity, Suggestive, Violence, and Visually Disturbing. You can now detect six new categories: [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/25/1-Pexels_1.jpg"
+        },
+        {
+            "id": 863,
+            "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+            "authors": "Sarita Joshi, Andrea Sabet, David Simcik",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2020-10-07T00:00:00",
+            "description": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents, the analysis shows that this is not the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg"
+        },
+        {
+            "id": 864,
+            "title": "Predicting Defender Trajectories in NFL\u2019s Next Gen Stats",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predicting-defender-trajectories-in-nfls-next-gen-stats/",
+            "authors": "Lin Lee Cheong, Ankit Tyagi, Michael Chi, Michael Schaefer, Mehdi Noori, Xiangyu Zeng",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Customer Solutions, Sports",
+            "publishedOn": "2020-10-07T00:00:00",
+            "description": "NFL\u2019s Next Gen Stats (NGS) powered by AWS accurately captures player and ball data in real time for every play and every NFL game\u2014over 300 million data points per season\u2014through the extensive use of sensors in players\u2019 pads and the ball. With this rich set of tracking data, NGS uses AWS machine learning (ML) technology [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Diagram_Update-544x630.jpg"
+        },
+        {
+            "id": 865,
+            "title": "Amazon SageMaker price reductions: Up to 18% lower prices on ml.p3 and ml.p2 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-price-reductions-up-to-18-lower-prices-on-ml-p3-and-ml-p2-instances/",
+            "authors": "Urvashi Chowdhary",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-07T00:00:00",
+            "description": "Effective October 1st, 2020, we\u2019re reducing the prices for ml.p3 and ml.p2 instances in Amazon SageMaker by up to 18% so you can maximize your machine learning (ML) budgets and innovate with deep learning using these accelerated compute instances. The new price reductions apply to ml.p3 and ml.p2 instances of all sizes for Amazon SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 866,
+            "title": "Achieving 1.85x higher performance for deep learning based object detection with an AWS Neuron compiled YOLOv4 model on AWS Inferentia",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/",
+            "authors": "Fabio Nonato de Paula, Haichen Li, Samuel Jacob",
+            "tags": "Artificial Intelligence, AWS Inferentia",
+            "publishedOn": "2020-10-06T00:00:00",
+            "description": "In this post, we show you how to deploy a TensorFlow based YOLOv4 model, using Keras optimized for inference on AWS Inferentia based Amazon EC2 Inf1 instances. You will set up a benchmarking environment to evaluate throughput and precision, comparing Inf1 with comparable Amazon EC2 G4 GPU-based instances. Deploying YOLOv4 on AWS Inferentia provides the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/05/1-1-1.jpg"
+        },
+        {
+            "id": 867,
+            "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
+            "url": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
+            "authors": "Rahul Suresh, Carlos Daccarett, Enoch Chen, Dylan Jackson",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-10-05T00:00:00",
+            "description": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post, you can learn to use the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg"
+        },
+        {
+            "id": 868,
+            "title": "Evaluating an automatic speech recognition service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-an-automatic-speech-recognition-service/",
+            "authors": "Scott Seyfarth, Paul Zhao",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-10-05T00:00:00",
+            "description": "Over the past few years, many automatic speech recognition (ASR) services have entered the market, offering a variety of different features. When deciding whether to use a service, you may want to evaluate its performance and compare it to another service. This evaluation process often analyzes a service along multiple vectors such as feature coverage, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/Evaluating-ASR-accuracy.jpg"
+        },
+        {
+            "id": 869,
+            "title": "Simplify data management with new APIs in Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
+            "authors": "Matthew Chwastek, Gaurav Chauhan",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-10-02T00:00:00",
+            "description": "This blog post was last reviewed or updated April, 2022 with database schema updates. Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 870,
+            "title": "Announcing the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-of-the-aws-deepcomposer-chartbusters-the-sounds-of-science-challenge/",
+            "authors": "Maryam Rezapoor",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-10-02T00:00:00",
+            "description": "We\u2019re excited to announce the top 10 compositions and the winner of the AWS DeepComposer Chartbusters The Sounds of Science challenge. AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). Chartbusters is a global monthly challenge where you can use AWS DeepComposer to create original compositions and compete [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/1-Chart-2-836x630.jpg"
+        },
+        {
+            "id": 871,
+            "title": "Join AWS and NVIDIA at GTC, October 5\u20139",
+            "url": "https://aws.amazon.com/blogs/machine-learning/16671-2/",
+            "authors": "Geoff Murase",
+            "tags": "Amazon EC2, Amazon SageMaker Neo, Artificial Intelligence, Compute",
+            "publishedOn": "2020-10-02T00:00:00",
+            "description": "Starting Monday, October 5, 2020, the NVIDIA GPU Technology Conference (GTC) is offering online sessions for you to learn AWS best practices to accomplish your machine learning (ML), virtual workstations, high performance computing (HPC), and internet of things (IoT) goals faster and more easily. Amazon Elastic Compute Cloud (Amazon EC2) instances powered by NVIDIA GPUs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 872,
+            "title": "Building an end-to-end intelligent document processing solution using AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-end-to-end-intelligent-document-processing-solution-using-aws/",
+            "authors": "Purnesh Tripathi",
+            "tags": "Amazon Augmented AI, Amazon Comprehend, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-10-01T00:00:00",
+            "description": "As organizations grow larger in size, so does the need for having better document processing. In industries such as healthcare, legal, insurance, and banking, the continuous influx of paper-based or PDF documents (like invoices, health charts, and insurance claims) have pushed businesses to consider evolving their document processing capabilities. In such scenarios, businesses and organizations [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/22/1-DocumentAnalysisSolution.jpg"
+        },
+        {
+            "id": 873,
+            "title": "Creating a multi-department enterprise search using custom attributes in Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-multi-department-enterprise-search-using-custom-attributes-in-amazon-kendra/",
+            "authors": "Shanthan Kesharaju, Marty Jiang",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2020-10-01T00:00:00",
+            "description": "An enterprise typically houses multiple departments such as engineering, finance, legal, and marketing, creating a growing number of documents and content that employees need to access. Creating a search experience that intuitively delivers the right information according to an employee\u2019s role, and the department is critical to driving productivity and ensuring security. Amazon Kendra\u00a0is a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/1-Architecture-3-759x630.jpg"
+        },
+        {
+            "id": 874,
+            "title": "Getting started with AWS DeepRacer community races",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-aws-deepracer-community-races/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-10-01T00:00:00",
+            "description": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community races, you can create your own race and invite [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/Updated-752x630.jpg"
+        },
+        {
+            "id": 875,
+            "title": "Onboarding Amazon SageMaker Studio with AWS SSO and Okta Universal Directory",
+            "url": "https://aws.amazon.com/blogs/machine-learning/onboarding-amazon-sagemaker-studio-with-aws-sso-and-okta-universal-directory/",
+            "authors": "Yanwei Cui, Raghu Ramesha",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-10-01T00:00:00",
+            "description": "This blog was reviewed and updated June, 2022 to address latest changes to steps and User Interface on Studio and Okta. In 2019, AWS announced Amazon SageMaker Studio, a unified integrated development environment (IDE) for machine learning (ML) development. You can write code, track experiments, visualize data, and perform debugging and monitoring within a single, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/30/REVMLBLOG-41-img10-802x630.png"
+        },
+        {
+            "id": 876,
+            "title": "Halloween-themed AWS DeepComposer Chartbusters Challenge: Track or Treat",
+            "url": "https://aws.amazon.com/blogs/machine-learning/halloween-themed-aws-deepcomposer-chartbusters-challenge-track-or-treat/",
+            "authors": "Maryam Rezapoor",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-10-01T00:00:00",
+            "description": "We are back with a spooktacular AWS DeepComposer Chartbusters challenge, Track or Treat! In this challenge, you can interactively collaborate with the ghost in the machine (learning) and compose spooky music! Chartbusters is a global monthly challenge where you can use AWS DeepComposer to create original compositions on the console using machine learning techniques, compete [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/01/3-.jpg"
+        },
+        {
+            "id": 877,
+            "title": "Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-on-demand-serverless-apache-spark-data-processing-jobs-using-amazon-sagemaker-managed-spark-containers-and-the-amazon-sagemaker-sdk/",
+            "authors": "Shreyas Subramanian, Andrew Packer, Vidhi Kastuar",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-09-30T00:00:00",
+            "description": "Apache Spark is a unified analytics engine for large scale, distributed data processing. Typically, businesses with Spark-based workloads on AWS use their own stack built on top of Amazon Elastic Compute Cloud (Amazon EC2), or Amazon EMR to run and scale Apache Spark, Hive, Presto, and other big data frameworks. This is useful for persistent [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/25/1-Flowchart-4.jpg"
+        },
+        {
+            "id": 878,
+            "title": "This month in AWS Machine Learning: September 2020 edition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
+            "authors": "Laura Jones",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, Events",
+            "publishedOn": "2020-09-30T00:00:00",
+            "description": "Every day there is something new going on in the world of AWS Machine Learning\u2014from launches to new use cases to interactive trainings. We\u2019re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup. Launches This [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/202431_AWS_ML_Monthly_blog_post_visual_sept-01-1260x630.png"
+        },
+        {
+            "id": 879,
+            "title": "Using Amazon Rekognition Custom Labels and\u00a0Amazon A2I for detecting pizza slices and augmenting predictions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
+            "authors": "Mona Mona, Neel Sendas, Prem Ranga",
+            "tags": "Amazon Augmented AI, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2020-09-30T00:00:00",
+            "description": "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models need thousands of labeled images and deep learning expertise. \u00a0Generating this data can take months to gather, and can require large teams of labelers to prepare it for use. In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg"
+        },
+        {
+            "id": 880,
+            "title": "Building custom language models to supercharge speech-to-text performance for Amazon Transcribe",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-language-models-to-supercharge-speech-to-text-performance-for-amazon-transcribe/",
+            "authors": "Paul Zhao, Vivek Govindan",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-09-30T00:00:00",
+            "description": "Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. As our service grows, so does the diversity of our customer base, which now spans domains such as insurance, finance, law, real estate, media, hospitality, and more. Naturally, customers in different market segments have [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 881,
+            "title": "AWS Inferentia is now available in 11 AWS Regions, with best-in-class performance for running object detection models at scale",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-is-now-available-in-11-aws-regions-with-best-in-class-performance-for-running-object-detection-models-at-scale/",
+            "authors": "Gadi Hutt",
+            "tags": "Amazon EC2, Artificial Intelligence, AWS Inferentia",
+            "publishedOn": "2020-09-28T00:00:00",
+            "description": "AWS has expanded the availability of Amazon EC2 Inf1 instances to four new AWS Regions, bringing the total number of supported Regions to 11: US East (N. Virginia, Ohio), US West (Oregon), Asia Pacific (Mumbai, Singapore, Sydney, Tokyo), Europe (Frankfurt, Ireland, Paris), and South America (S\u00e3o Paulo). Amazon EC2 Inf1 instances are powered by AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 882,
+            "title": "Moving from notebooks to automated ML pipelines using Amazon SageMaker and AWS Glue",
+            "url": "https://aws.amazon.com/blogs/machine-learning/moving-from-notebooks-to-automated-ml-pipelines-using-amazon-sagemaker-and-aws-glue/",
+            "authors": "Inchara Bellavara Diwakar, Sai Sharanya Nalla",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Glue",
+            "publishedOn": "2020-09-28T00:00:00",
+            "description": "A typical machine learning (ML) workflow involves processes such as data extraction, data preprocessing, feature engineering, model training and evaluation, and model deployment. As data changes over time, when you deploy models to production, you want your model to learn continually from the stream of data. This means supporting the model\u2019s ability to autonomously learn [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/24/1-Retraining-Pipeline.jpg"
+        },
+        {
+            "id": 883,
+            "title": "BERT inference on G4 instances using Apache MXNet and GluonNLP: 1 million requests for 20 cents",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bert-inference-on-g4-instances-using-apache-mxnet-and-gluonnlp-1-million-requests-for-20-cents/",
+            "authors": "Moises Hernandez Fernandez, Anish Mohan, Haibin Lin, Przemyslaw Tredak",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2020-09-28T00:00:00",
+            "description": "Bidirectional Encoder Representations from Transformers (BERT) [1] has become one of the most popular models for natural language processing (NLP) applications. BERT can outperform other models in several NLP tasks, including question answering and sentence classification. Training the BERT model on large datasets is expensive and time consuming, and achieving low latency when performing inference [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/23/1-Graph-1.jpg"
+        }
+    ]
+}

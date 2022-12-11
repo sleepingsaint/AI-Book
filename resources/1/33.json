@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 944,
+            "title": "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/",
+            "authors": "Abhi Sharma, Tatsuya Arai, Ryan Brand",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "One of AWS\u2019s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data\u2014no prior programming or data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/automl-001.jpg"
+        },
+        {
+            "id": 945,
+            "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+            "authors": "Jyothi Nookula",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters is a monthly challenge where you can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/spin-the-model-025.jpg"
+        },
+        {
+            "id": 946,
+            "title": "Announcing the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
+            "authors": "Jyothi Nookula",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "We are excited to announce the top 10 compositions and the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters is a monthly challenge where you can use AWS DeepComposer to create original compositions and compete to top the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/31/bach-to-the-future-winner-3-2.jpg"
+        },
+        {
+            "id": 947,
+            "title": "Create a multi-region Amazon Lex bot with Amazon Connect for high availability",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability/",
+            "authors": "Shanthan Kesharaju, So Young Yoon",
+            "tags": "Amazon Connect, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "AWS customers rely on\u00a0Amazon Lex\u00a0bots to power their\u00a0Amazon Connect self service conversational experiences on telephone and other channels. With Amazon Lex, callers (or customers, in Amazon Connect terminology) can get their questions conveniently answered regardless of agent availability. What architecture patterns can you use to make a bot resilient to service availability issues? In this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/LEX_DR-41-773x630.png"
+        },
+        {
+            "id": 948,
+            "title": "Optimizing your engagement marketing with personalized recommendations using Amazon Personalize and Braze",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze/",
+            "authors": "James Jory",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Today\u2019s marketer has a wide array of channels to communicate with their customers. However, sending the right message to the right customer on the right channel at the right time remains the preeminent challenge marketers face. In this post, I show you how to combine Braze, a customer engagement platform built on AWS for today\u2019s [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/28/optimizing-engagement-marketing-3-2-756x630.png"
+        },
+        {
+            "id": 949,
+            "title": "Translating documents, spreadsheets, and presentations in Office Open XML format using Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/",
+            "authors": "Watson Srivathsan",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Now you can translate .docx, .xlsx, and .pptx documents using Amazon Translate. Every organization creates documents, spreadsheets, and presentations to communicate and share information with a large group and keep records for posterity. These days, we interact with people who don\u2019t share the same language as ours. The need for translating such documents has become [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 950,
+            "title": "Simplifying application onboarding with Amazon CodeGuru Profiler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/",
+            "authors": "Charles Gibson",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Amazon CodeGuru Profiler provides recommendations to help you continuously fine-tune your application\u2019s performance. It does this by collecting runtime performance data from your live applications. It looks for your most expensive lines of code continuously and provides intelligent recommendations. This helps you more easily understand your applications\u2019 runtime behavior so you can optimize their performance, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/codeguru-profiler-1-1.jpg"
+        },
+        {
+            "id": 951,
+            "title": "How SNCF R\u00e9seau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
+            "authors": "Olivier Cruchant, Alain Rivero, Emeric Chaize, Pierre-Yves Bonnefoy, Samuel Descroix",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-28T00:00:00",
+            "description": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci\u00e9t\u00e9 Nationale des Chemins de fer Fran\u00e7ais (SNCF) uses ML from AWS with the help of its technology partner Olexya to research, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 952,
+            "title": "Building a multilingual question and answer bot with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-multilingual-question-and-answer-bot-with-amazon-lex/",
+            "authors": "Fabrizio Napolitano, Raj Chary",
+            "tags": "Amazon Lex, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": "Updated June 2021 \u2013 QnABot now supports voice interaction in multiple languages using Amazon LexV2. You can use Amazon Lex to build a question and answer chatbot. However, if you live in a non-English-speaking country or your business has global reach, you will want a multilingual bot to cater to all your users. This post [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/ML_570_image_14_animated_gif_alexa-1260x563.gif"
+        },
+        {
+            "id": 953,
+            "title": "Enhancing your chatbot experience with web browsing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-your-browsing-experience-with-amazon-lex/",
+            "authors": "Mohamed Khalil, Bob Potterveld, Bob Strahan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "Chatbots are popping up everywhere. They are qualifying leads, assisting with sales, and automating customer service. However, conversational chatbot experiences have been limited to the space available within the chatbot window. What if these web-based chatbots could provide an interactive experience that expanded beyond the chat window to include relevant web content based on user [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/dynamicframe-1084x630.gif"
+        },
+        {
+            "id": 954,
+            "title": "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/",
+            "authors": "Nicholas Nelson, Anuj Gupta, Kashif Imran",
+            "tags": "Amazon Augmented AI, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline administrative processes. Amazon Textract is a machine learning (ML) service that makes [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/processing-pdf-documents-040.jpg"
+        },
+        {
+            "id": 955,
+            "title": "Setting up human review of your NLP-based entity recognition models with Amazon SageMaker Ground Truth, Amazon Comprehend, and Amazon A2I",
+            "url": "https://aws.amazon.com/blogs/machine-learning/setting-up-human-review-of-your-nlp-based-entity-recognition-models-with-amazon-sagemaker-ground-truth-amazon-comprehend-and-amazon-a2i/",
+            "authors": "Mona Mona, Prem Ranga",
+            "tags": "Amazon Augmented AI, Amazon Comprehend, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "Update Aug 12, 2020 \u2013 New features: Amazon Comprehend adds five new languages(Spanish, French, German, Italian and Portuguese) read here. Amazon Comprehend increased the limit of number of entities per custom entity model from 12 to 25 read here. Organizations across industries have a lot of unstructured data that you can evaluate to get entity-based [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/23/reivew-nlp-3-2.jpg"
+        },
+        {
+            "id": 956,
+            "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
+            "authors": "Yuan Jiang, Kashif Imran, Sonali Sahu",
+            "tags": "Amazon Comprehend, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to instantly \u201cread\u201d virtually any type of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 957,
+            "title": "Increasing engagement with personalized online sports content",
+            "url": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+            "authors": "Mark Wood",
+            "tags": "Amazon Personalize, Artificial Intelligence, Sports",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "This is a guest post by Mark Wood at Pulselive. In their own words, \u201cPulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.\u201d At Pulselive, we create experiences sports fans can\u2019t live without; whether that\u2019s the official Cricket World Cup website or the English Premier [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg"
+        },
+        {
+            "id": 958,
+            "title": "Deploying custom models built with Gluon and Apache MXNet on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker/",
+            "authors": "Hussain Karimi, Muhyun Kim, Will Gleave",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "When you build models with the Apache MXNet deep learning framework, you can take advantage of the expansive model zoo provided by GluonCV to quickly train state-of-the-art computer vision algorithms for image and video processing. A typical development environment for training consists of a Jupyter notebook hosted on a compute instance configured by the operating [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/24/custom-gluon-mxnet-sagemaker-1.jpg"
+        },
+        {
+            "id": 959,
+            "title": "Deploying TensorFlow OpenPose on AWS Inferentia-based Inf1 instances for significant price performance improvements",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-tensorflow-openpose-on-aws-inferentia-based-inf1-instances-for-significant-price-performance-improvements/",
+            "authors": "Fabio Nonato de Paula, Haichen Li",
+            "tags": "Artificial Intelligence, AWS Inferentia",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "In this post you will compile an open-source TensorFlow version of OpenPose using AWS Neuron and fine tune its inference performance for AWS Inferentia based instances. You will set up a benchmarking environment, measure the image processing pipeline throughput, and quantify the price-performance improvements as compared to a GPU based instance. About OpenPose Human pose [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/openpose-1.jpg"
+        },
+        {
+            "id": 960,
+            "title": "Translating presentation files with Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translating-presentation-files-with-amazon-translate/",
+            "authors": "Lidio Ramalho, Rafael Werneck",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "As solutions architects working in Brazil, we often translate technical content from English to other languages. Doing so manually takes a lot of time, especially when dealing with presentations\u2014in contrast to plain text documents, their content is spread across various areas in multiple slides. To solve that, we wrote a script that translates Microsoft PowerPoint [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 961,
+            "title": "Atlassian continuously profiles services in production with Amazon CodeGuru Profiler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/atlassian-continuously-profiles-services-in-production-with-amazon-codeguru-profiler/",
+            "authors": "Behrooz Nobakht, Matthew Ponsford, Narayanaswamy Anandapadmanabhan",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-07-21T00:00:00",
+            "description": "This is a guest post by the Jira Cloud Performance Team at Atlassian. In their own words,\u00a0Atlassian\u2019s mission is to unleash the potential in every team. Our products help teams organize, discuss, and complete their work.\u00a0And what teams do can change the world. We have helped NASA teams design the Mars Rover, Cochlear teams develop [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/atlassian-codeguru-1-882x630.jpg"
+        },
+        {
+            "id": 962,
+            "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
+            "url": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
+            "authors": "Sergio Delgado, Rodney Bozo",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-07-21T00:00:00",
+            "description": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, \u201cYouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.\u201d At YoucanBook.me, we like to say that we\u2019re \u201ca small company that does great things.\u201d Many aspects of our day-to-day culture are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg"
+        },
+        {
+            "id": 963,
+            "title": "Infoblox Inc. built a patent-pending homograph attack detection model for DNS with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/infoblox-inc-built-a-patent-pending-homograph-attack-detection-model-for-dns-with-amazon-sagemaker/",
+            "authors": "Femi Olumofin, Kosti Vasilakakis, Micha\u00ebl Hoarau",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-21T00:00:00",
+            "description": "This post is co-written by Femi Olumofin, an analytics architect at Infoblox. In the same way that you can conveniently recognize someone by name instead of government-issued ID or telephone number, the Domain Name System (DNS) provides a convenient means for naming and reaching internet services or resources behind IP addresses. The pervasiveness of DNS, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/17/sagemaker-infoblox-3-2.jpg"
+        },
+        {
+            "id": 964,
+            "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical/",
+            "authors": "Varad Ram, Babu Srinivasan, Ujjwal Ratan",
+            "tags": "Amazon Comprehend, Amazon Comprehend Medical, Artificial Intelligence",
+            "publishedOn": "2020-07-20T00:00:00",
+            "description": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.\u00a0Amazon Comprehend Medical\u00a0is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant medical information from unstructured text. We query the\u00a0OpenFDA API\u00a0(an open-source API published by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/querying-open-source-1-1.jpg"
+        },
+        {
+            "id": 965,
+            "title": "Building a scalable outbound call engine using Amazon Connect and Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex/",
+            "authors": "Cyrus Wong",
+            "tags": "Amazon Connect, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-07-17T00:00:00",
+            "description": "\u00ad This is a guest post by AWS Machine Learning Hero Cyrus Wong. Staying connected with family, friends, and colleagues is easy for most people who live with or close to others. For educators who need to communicate lessons and schedules with their students, or businesses who communicate with new and existing customers, staying connected [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/14/scalable-outbound-call-engine-001.jpg"
+        },
+        {
+            "id": 966,
+            "title": "Fine-tuning a PyTorch BERT model and deploying it with Amazon Elastic Inference on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/",
+            "authors": "Qingwei Li, David Ping, Lauren Yu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-15T00:00:00",
+            "description": "November 2022: The solution described here is not the latest best practice. The new HuggingFace Deep Learning Container (DLC) is available in Amazon SageMaker (see Use Hugging Face with Amazon SageMaker). For customer training BERT models, the recommended pattern is to use HuggingFace DLC, shown as in\u00a0Finetuning Hugging Face DistilBERT with Amazon Reviews Polarity dataset. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 967,
+            "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
+            "authors": "Wenming Ye, Tim O'Brien",
+            "tags": "Amazon EC2, Artificial Intelligence, Compute",
+            "publishedOn": "2020-07-14T00:00:00",
+            "description": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those same algorithms have been used by bad actors to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png"
+        },
+        {
+            "id": 968,
+            "title": "Build a work-from-home posture tracker with AWS DeepLens and GluonCV",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv/",
+            "authors": "Phu Nguyen, Raj Kadiyala",
+            "tags": "AWS DeepLens, Technical How-to",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "Working from home can be a big change to your ergonomic setup, which can make it hard for you to keep a healthy posture and take frequent breaks throughout the day. To help you maintain good posture and have fun with machine learning (ML) in the process, this post shows you how to build a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/13/hunch-fs-preds.jpg"
+        },
+        {
+            "id": 969,
+            "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to help you learn more about ML [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg"
+        },
+        {
+            "id": 970,
+            "title": "Detecting and analyzing incorrect model predictions with Amazon SageMaker Model Monitor and Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-analyzing-incorrect-model-predictions-with-amazon-sagemaker-model-monitor-and-debugger/",
+            "authors": "Nathalie Rauschmayr, Satadal Bhattacharjee, Vikas Kumar",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "Convolutional neural networks (CNNs) achieve state-of-the-art results in tasks such as image classification and object detection. They are used in many diverse applications, such as in autonomous driving to detect traffic signs and objects on the street, in healthcare to more accurately classify anomalies in image-based data, and in retail for inventory management. However, CNNs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/detecting-analyzing-model-predictions-021.jpg"
+        },
+        {
+            "id": 971,
+            "title": "Announcing the launch of Amazon Comprehend custom entity recognition real-time endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints/",
+            "authors": "Mona Mona, Prem Ranga",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "Update Sep 28, 2020 \u2013 New features: Amazon Comprehend custom entity recognition real-time endpoints now supports application auto scaling. Please refer to the section\u00a0Auto Scaling with real-time endpoints in this post to learn more. Update Aug 12, 2020 \u2013 New features: Amazon Comprehend adds five new languages(Spanish, French, German, Italian and Portuguese) read here. Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/comprehend-custom-real-time-endpoints-001.jpg"
+        },
+        {
+            "id": 972,
+            "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
+            "authors": "Aparna Elangovan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the latest high performant libraries and GPU [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif"
+        },
+        {
+            "id": 973,
+            "title": "Giving your content a voice with the Newscaster speaking style from Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/giving-your-content-a-voice-with-the-newscaster-speaking-style-from-amazon-polly/",
+            "authors": "Joppe Pelzer, Ariadna Sanchez",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-07-08T00:00:00",
+            "description": "Audio content consumption has grown exponentially in the past few years. Statista reports that podcast ad revenue will exceed a billion dollars in 2021. For the publishing industry and content providers, providing audio as an alternative option to reading could improve engagement with users and be an incremental revenue stream. Given the shift in customer [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        }
+    ]
+}

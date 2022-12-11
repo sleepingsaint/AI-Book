@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3774,
+            "title": "Analyzing popular repositories on GitHub",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/analyzing-popular-repositories-on-github/",
+            "authors": "Padhma M",
+            "tags": "Beginner, Data Exploration, Data Visualization, Github, Python",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "GitHub is one of the most popular version control and source code management platform. Here, we will be analyzing popular GitHub repositories",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99981github-logo.png"
+        },
+        {
+            "id": 3775,
+            "title": "The Ascend Pro Program is Back! Analytics Vidhya and KPMG\u2019s Popular Data Science Program",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/analytics-vidhya-and-kpmg-announce-their-30-week-industry-immersive-program-ascend-pro/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Analytics Vidhya, Announcement, Education, Interview Questions",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Ascend Pro is a 30 week, industry immersive program with 8+ projects and 4 HackConfs to make you an industry ready data scientist",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/ascendpro.png"
+        },
+        {
+            "id": 3776,
+            "title": "Introduction To Audio Classification -Emergency vs Nonemergency Vehicle",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/introduction-to-audio-classification-emergency-vs-nonemergency-vehicle/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Audio Processing, Classification, Deep Learning, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Audio or sound classification is the process to listen, analyze and classify audio recordings. we will classify vehicles based on audio data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/dl_audio-scaled.jpg"
+        },
+        {
+            "id": 3777,
+            "title": "AutoML using Pycaret with a Regression Use-Case II",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/automl-using-pycaret-with-a-regression-use-case-ii/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Automl, Beginner, Libraries, Machine Learning, Project, Python, Regression",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "In this article, we will be working with a Regression problem, and you will see how easy it becomes to code using Pycaret with AutoML.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/PyCaret-.jpg"
+        },
+        {
+            "id": 3778,
+            "title": "Know How To Give Cartoon Effects to Your Photos with OpenCV!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/know-how-to-give-cartoon-effects-to-your-photos-with-opencv/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Computer Vision, Image, Libraries",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "OpenCV is an open source library and has huge applications in Image Processing, Here,we will use opencv to give cartoon effect to our photos.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84497https___specials-images.forbesimg.com_imageserve_5ee30129d8bc730007cc701c_0x0.jpg"
+        },
+        {
+            "id": 3779,
+            "title": "A simple start with Natural Language Processing!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-simple-start-with-natural-language-processing/",
+            "authors": "Akil Ram",
+            "tags": "Beginner, Data Science, NLP, Python, Unstructured Data",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Natural Language Processing is how machine understands and deals with human languages. Here, we will see some basic concepts of NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67274portada-nlp.jpg"
+        },
+        {
+            "id": 3780,
+            "title": "Classification of Handwritten Digits Using CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/classification-of-handwritten-digits-using-cnn/",
+            "authors": "Swati Rajwal",
+            "tags": "Beginner, Computer Vision, Deep Learning, Image, Project, Python, Unstructured Data",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "In this blog, we will understand how to create and train a simple CNN for classification of handwritten digits from a popular dataset.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3781,
+            "title": "5 Python Tips You MUST Know to Write Better and Shorter Code!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/5-python-tips-you-must-know-to-write-better-and-shorter-code/",
+            "authors": "Harsh Dhamecha",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Have you ever wish to write better/shorter Python code? In this article, we will be discussing 5 Python Tips for writing better/shorter code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/38787wallpaper.png"
+        },
+        {
+            "id": 3782,
+            "title": "Understanding Face Recognition using LBPH algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/understanding-face-recognition-using-lbph-algorithm/",
+            "authors": "Parth Singh",
+            "tags": "Advanced, Computer Vision, Project, Python, Unsupervised",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "LBPH is a Face-Recognition algorithm. It is known for its performance and ability to recognize the face of a person from both front and side.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Face-Recognition-app.jpg"
+        },
+        {
+            "id": 3783,
+            "title": "Know About Apache Spark Using PySpark for Data Engineering",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/know-about-apache-spark-using-pyspark-for-data-engineering/",
+            "authors": "Shreyash Vora",
+            "tags": "Beginner, Data Engineering, Python, Spark",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "In this article, we will explore Apache Spark and PySpark. We will understand its key features/differences and the advantages that it offers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 3784,
+            "title": "Time Series Analysis -A Beginner Friendly Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/time-series-analysis-a-beginner-friendly-guide/",
+            "authors": "Adwait Dathan R",
+            "tags": "Beginner, Data Science, Datetime, Machine Learning, Python, Time Series",
+            "publishedOn": "2021-07-11T00:00:00",
+            "description": "In this blog, we will be exploring the basic concepts of time series analysis along with small hands-on python implementations",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/22483Analytics_Vidya_blog_image.jpeg"
+        },
+        {
+            "id": 3785,
+            "title": "Auto Encoders -An Introductory Guide For Data Science Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/auto-encoders-limitations-and-its-applications/",
+            "authors": "Sonia Singla",
+            "tags": "Autoencoder, Deep Learning, Intermediate, Python, Unsupervised",
+            "publishedOn": "2021-07-11T00:00:00",
+            "description": "This article's main aim is to generate the images using Auto encoders and understand its concepts, applications, and Limitations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/file-20170505-21003-zbguhy.jpg"
+        },
+        {
+            "id": 3786,
+            "title": "An Introduction to Logistic Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/",
+            "authors": "Harika Bonthu",
+            "tags": "Algorithm, Beginner, Classification, Data Science, Machine Learning, python",
+            "publishedOn": "2021-07-11T00:00:00",
+            "description": "Logistic Regression is a \"Supervised machine learning\" algorithm that can be used to model the probability of a certain class or event.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 3787,
+            "title": "An Intuitive and Easy Guide to Python Sets- Must for Becoming Data Science Professional",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/an-intuitive-and-easy-guide-to-python-set-must-for-becoming-data-science-professional/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-11T00:00:00",
+            "description": "A python set is a data type that consists of a collection of unordered elements and it is a mutable collection of unique elements",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/71770sets.png"
+        },
+        {
+            "id": 3788,
+            "title": "Stock Price Analysis With Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/stock-prices-analysis-with-python/",
+            "authors": "Maverick 01",
+            "tags": "Beginner, Data Visualization, Datetime, Python, Time Series",
+            "publishedOn": "2021-07-11T00:00:00",
+            "description": "In this article, we will perform stock price analysis with python. This can be used to understand a stock's short and long-term behaviour.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/92495stock-market-trends-what-causes-stock-prices-to-change.jpg"
+        },
+        {
+            "id": 3789,
+            "title": "Roadmap To Clear Azure DP 100 -Designing and Implementing a Data Science Solution on Azure",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/roadmap-to-clear-azure-dp-100-designing-and-implementing-a-data-science-solution-on-azure/",
+            "authors": "Chris Dmello",
+            "tags": "Advanced, Azure, Cloud Computing, Data Science",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "Azure DP-100\u00a0Designing and Implementing a Data Science Solution on Azure\u00a0is the Data science certification from Microsoft for data enthusiasts",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/dscareer.png"
+        },
+        {
+            "id": 3790,
+            "title": "A Beginner\u2019s Guide to MySQL: Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-beginners-guide-to-mysql-part-2/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Beginner, Data Engineering, Database, SQL",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "MySQL is a popular, open-source, relational database that you can use to build all sorts of web databases. This is second part of mysql guide.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/45207Cloud-1.jpg"
+        },
+        {
+            "id": 3791,
+            "title": "Python *args and **kwargs in 2 minutes For Data Science Beginner",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/python-args-and-kwargs-in-2-minutes/",
+            "authors": "Akash",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "This article is part of a series Python: Understanding in 2 minutes aimed at data science beginners we will learn python *args and **kwargs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/492090_CKJ8iNahS6LCg7Ee-scaled.jpeg"
+        },
+        {
+            "id": 3792,
+            "title": "How To Perform Data Visualization with Pandas",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-perform-data-visualization-with-pandas/",
+            "authors": "Neelu Tiwari",
+            "tags": "Beginner, Data Exploration, Data Visualization, Pandas, Python, Structured Data",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "Data visualization is the most important step in the life cycle of data science. we will learn how to perform data visualization with pandas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56615dbms.jpg"
+        },
+        {
+            "id": 3793,
+            "title": "Heart Disease Prediction using KNN -The K-Nearest Neighbours Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/heart-disease-prediction-using-knn-the-k-nearest-neighbours-algorithm/",
+            "authors": "Siddharth M",
+            "tags": "Algorithm, Beginner, Classification, Data Science, Machine Learning, Python, Structured Data",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "KNN is an algorithm that uses k nearest neighoubours of a point to predict its label. we will perform heart disease prediction using KNN.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/27017photo-1569396116180-210c182bedb8.jpg"
+        },
+        {
+            "id": 3794,
+            "title": "Let\u2019s Understand The Problems with Recurrent Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/lets-understand-the-problems-with-recurrent-neural-networks/",
+            "authors": "Siddharth M",
+            "tags": "Advanced, Deep Learning, Unstructured Data",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "RNN are mile stone in deep learning for sequential modeling. In this article we will understand some problems with Recurrent neural networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/28205photo-1508175800969-525c72a047dd.jpg"
+        },
+        {
+            "id": 3795,
+            "title": "Kubernetes -Let\u2019s Learn The Basic Tenets",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/kubernetes-lets-learn-the-basic-tenets/",
+            "authors": "Mimi Dutta",
+            "tags": "Advanced, Cloud Computing, kubernetes, Model Deployment",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "Kubernetes is an open-source container orchestration tool that helps in managing containerized applications in development environments.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Machine-Learning-Libraries-C.jpg"
+        },
+        {
+            "id": 3796,
+            "title": "Machine Learning Workflow Using MLFLOW -A Beginners Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/machine-learning-workflow-using-mlflow-a-beginners-guide/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Data Science, Libraries, MLops",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "MLflow is an open-source platform for managing the end-to-end machine learning workflow. let's see how to use mlflow to build ml pipeline.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/MLflow2.png"
+        },
+        {
+            "id": 3797,
+            "title": "An Introduction to Process Mining and Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/process-mining-and-algorithms-an-introduction/",
+            "authors": "Sarojag",
+            "tags": "Algorithm, Beginner, Data Science, Libraries, Programming, Python",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "The process mining is a methodology used to discover, monitor, and improve processes that already exist within a business by relying on data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/58357Cover-pic-Data-Science-Blogathon.jpg"
+        },
+        {
+            "id": 3798,
+            "title": "Topic extraction From Prime Minister Modi\u2019s Speech",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/topic-extraction-from-pm-modi-speech/",
+            "authors": "Ashish",
+            "tags": "Beginner, Machine Learning, NLP, Python, Text, Topic Modeling",
+            "publishedOn": "2021-07-10T00:00:00",
+            "description": "Here, We will be implementing Topic extraction on PM Modi's independence day 2020 speech and extract important topics from his speech.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/35744feature-image-edit.jpg"
+        },
+        {
+            "id": 3799,
+            "title": "12 Matrix Operations You Should Know While Starting your Deep Learning Journey",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/12-matrix-operations-you-should-know-while-starting-your-deep-learning-journey/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, Deep Learning, Programming, Python",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "In this article, we will be going through 12 Matrix Operations You Should Know While Starting your Journey in Deep Learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/74531mat.jpg"
+        },
+        {
+            "id": 3800,
+            "title": "Learn Data Scraping Using Python and Selenium.",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/learn-data-scraping-using-python-and-selenium/",
+            "authors": "Vishwanath Kulkarni",
+            "tags": "Advanced, Data Mining, Programming, Python",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "Our main objective is to scrape through the job portal and fetch Machine Learning related jobs with data scraping using python and selenium.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/WebScraping-using-Selenium-with-Python.jpg"
+        },
+        {
+            "id": 3801,
+            "title": "T-Test -Performing Hypothesis Testing With Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/t-test-performing-hypothesis-testing-with-python/",
+            "authors": "Lavanya R",
+            "tags": "Beginner, Python, Statistics",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "This article will introduce to hypothesis testing and illustrate with a few examples in Python. We will see different versions of T-test.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/12080659/statistics.png"
+        },
+        {
+            "id": 3802,
+            "title": "Topic modeling With Naive Bayes Classifier",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/topic-modeling-with-naive-bayes-classifier/",
+            "authors": "Shariar Vaez-Ghaemi",
+            "tags": "Beginner, Libraries, NLP, Python, Text, Topic Modeling",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "Naive Bayes is a powerful tool that leverages Bayes' Theorem. In this article We are going to use Naive bayes classifier for topic modeling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image.png"
+        },
+        {
+            "id": 3803,
+            "title": "All you need to know about Polynomial Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/",
+            "authors": "Raghav Agrawal",
+            "tags": "Intermediate, Machine Learning, Project, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "In this article, we will study Polynomial regression and how to implement it in Python using a sample data to derive better predictions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/75316Polynomial-Regression-feature-img.png"
+        }
+    ]
+}

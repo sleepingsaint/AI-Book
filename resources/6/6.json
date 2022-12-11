@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6938,
+            "title": "The hippocampus as a predictive map",
+            "url": "https://www.deepmind.com/blog/the-hippocampus-as-a-predictive-map",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-10-02T00:00:00",
+            "description": "Think about how you choose a route to work, where to move house, or even which move to make in a game like Go. All of these scenarios require you to estimate the likely future reward of your decision. This is tricky because the number of possible scenarios explodes as one peers farther and farther into the future. Understanding how we do this is a major research question in neuroscience, while building systems that can effectively predict rewards is a major focus in AI research.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6939,
+            "title": "DeepMind and Blizzard open StarCraft II as an AI research environment",
+            "url": "https://www.deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-as-an-ai-research-environment",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-08-09T00:00:00",
+            "description": "DeepMind's scientific mission is to push the boundaries of AI by developing systems that can learn to solve complex problems. To do this, we design agents and test their ability in a wide range of environments from the purpose-built DeepMind Lab to established games, such as Atari and Go.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6940,
+            "title": "DeepMind papers at ICML 2017 (part one)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-icml-2017-part-one",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2017-08-04T00:00:00",
+            "description": "The first of our three-part series, which gives brief descriptions of the papers we are presenting at the ICML 2017 Conference in Sydney, Australia.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6941,
+            "title": "DeepMind papers at ICML 2017 (part two)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-icml-2017-part-two",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2017-08-04T00:00:00",
+            "description": "The second of our three-part series, which gives an overview of the papers we are presenting at the ICML 2017 Conference in Sydney, Australia.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6942,
+            "title": "DeepMind papers at ICML 2017 (part three)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-icml-2017-part-three",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2017-08-04T00:00:00",
+            "description": "The final part of our three-part series that gives an overview of the papers we are presenting at the ICML 2017 Conference in Sydney, Australia.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6943,
+            "title": "AI and Neuroscience: A virtuous circle",
+            "url": "https://www.deepmind.com/blog/ai-and-neuroscience-a-virtuous-circle",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-08-02T00:00:00",
+            "description": "Recent progress in AI has been remarkable. Artificial systems now outperform expert humans at Atari video games, the ancient board game Go, and high-stakes matches of heads-up poker. They can also produce handwriting and speech indistinguishable from those of humans, translate between multiple languages and even reformat your holiday snaps in the style of Van Gogh masterpieces.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6944,
+            "title": "Going beyond average for reinforcement learning",
+            "url": "https://www.deepmind.com/blog/going-beyond-average-for-reinforcement-learning",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-07-24T00:00:00",
+            "description": "Consider the commuter who toils backwards and forwards each day on a train. Most mornings, her train runs on time and she reaches her first meeting relaxed and ready. But she knows that once in awhile the unexpected happens: a mechanical problem, a signal failure, or even just a particularly rainy day. Invariably these hiccups disrupt her pattern, leaving her late and flustered.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6945,
+            "title": "Agents that imagine and plan",
+            "url": "https://www.deepmind.com/blog/agents-that-imagine-and-plan",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-07-20T00:00:00",
+            "description": "Imagining the consequences of your actions before you take them is a powerful tool of human cognition. When placing a glass on the edge of a table, for example, we will likely pause to consider how stable it is and whether it might fall. On the basis of that imagined consequence we might readjust the glass to prevent it from falling and breaking. This form of deliberative reasoning is essentially \u2018imagination\u2019, it is a distinctly human ability and is a crucial tool in our everyday lives.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6946,
+            "title": "Imagine this: Creating new visual concepts by recombining familiar ones",
+            "url": "https://www.deepmind.com/blog/imagine-this-creating-new-visual-concepts-by-recombining-familiar-ones",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-07-12T00:00:00",
+            "description": "Around two and a half thousand years ago a Mesopotamian trader gathered some clay, wood and reeds and changed humanity forever. Over time, their abacus would allow traders to keep track of goods and reconcile their finances, allowing economics to flourish.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6947,
+            "title": "Producing flexible behaviours in simulated environments",
+            "url": "https://www.deepmind.com/blog/producing-flexible-behaviours-in-simulated-environments",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-07-10T00:00:00",
+            "description": "The agility and flexibility of a monkey swinging through the trees or a football player dodging opponents and scoring a goal can be breathtaking. Mastering this kind of sophisticated motor control is a hallmark of physical intelligence, and is a crucial part of AI research.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6948,
+            "title": "Independent Reviewers release first annual report on DeepMind Health",
+            "url": "https://www.deepmind.com/blog/independent-reviewers-release-first-annual-report-on-deepmind-health",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-07-05T00:00:00",
+            "description": "Today, a panel of Independent Reviewers has published its first annual report into DeepMind Health. As I wrote in the foreword to their report (written, I add, before I\u2019d read it): \u201cWe chose people who had specific expertise but also reputations for integrity, who did not hold back, who could be angry and critical\u2026 That\u2019s good for us and makes us better.\u201d",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6949,
+            "title": "DeepMind expands to Canada with new research office in Edmonton, Alberta",
+            "url": "https://www.deepmind.com/blog/deepmind-expands-to-canada-with-new-research-office-in-edmonton-alberta",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-07-05T00:00:00",
+            "description": "DeepMind has always been a unique hybrid of startup culture and academia, and we\u2019ve been lucky to collaborate with many of the best researchers from around the world. Today we\u2019re thrilled to announce our next phase: the opening of DeepMind\u2019s first ever international AI research office in Edmonton, Canada, in close collaboration with the University of Alberta (UAlberta).",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6950,
+            "title": "The Information Commissioner, the Royal Free, and what we\u2019ve learned",
+            "url": "https://www.deepmind.com/blog/the-information-commissioner-the-royal-free-and-what-weve-learned",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-07-03T00:00:00",
+            "description": "Today, dozens of people in UK hospitals will die preventably from conditions like sepsis and acute kidney injury (AKI) when their warning signs aren't picked up and acted on in time. To help address this, we built the Streams app with clinicians at the Royal Free London NHS Foundation Trust, using mobile technology to automatically review test results for serious issues starting with AKI. If one is found, Streams sends a secure smartphone alert to the right clinician, along with information about previous conditions so they can make an immediate diagnosis.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6951,
+            "title": "Interpreting Deep Neural Networks using Cognitive Psychology",
+            "url": "https://www.deepmind.com/blog/interpreting-deep-neural-networks-using-cognitive-psychology",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-27T00:00:00",
+            "description": "Deep neural networks have learnt to do an amazing array of tasks - from recognising and reasoning about objects in images to playing Atari and Go at super-human levels. As these tasks and network architectures become more complex, the solutions that neural networks learn become more difficult to understand.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622651e28047bc3d07895398_Interpreting%20Deep%20Neural%20Networks%20using%20Cognitive%20Psychology.jpg"
+        },
+        {
+            "id": 6952,
+            "title": "Enhancing patient safety at Taunton and Somerset NHS Foundation Trust",
+            "url": "https://www.deepmind.com/blog/enhancing-patient-safety-at-taunton-and-somerset-nhs-foundation-trust",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-06-21T00:00:00",
+            "description": "We\u2019re delighted to announce our first partnership outside of London to help doctors and nurses break new ground in the NHS\u2019s use of digital technology.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6953,
+            "title": "Learning through human feedback",
+            "url": "https://www.deepmind.com/blog/learning-through-human-feedback",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-12T00:00:00",
+            "description": "We believe that Artificial Intelligence will be one of the most important and widely beneficial scientific advances ever made, helping humanity tackle some of its greatest challenges, from climate change to delivering advanced healthcare. But for AI to deliver on this promise, we know that the technology must be built in a responsible manner and that we must consider all potential challenges and risks.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6954,
+            "title": "A neural approach to relational reasoning",
+            "url": "https://www.deepmind.com/blog/a-neural-approach-to-relational-reasoning",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-06-06T00:00:00",
+            "description": "Consider the reader who pieces together the evidence in an Agatha Christie novel to predict the culprit of the crime, a child who runs ahead of her ball to prevent it rolling into a stream or even a shopper who compares the relative merits of buying kiwis or mangos at the market.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6955,
+            "title": "AlphaGo's next move",
+            "url": "https://www.deepmind.com/blog/alphagos-next-move",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-05-27T00:00:00",
+            "description": "With just three stones on the board, it was clear that this was going to be no ordinary game of Go.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233adc4c3dd30c4d832c0c8_AlphaGo_134.jpg"
+        },
+        {
+            "id": 6956,
+            "title": "Innovations of AlphaGo",
+            "url": "https://www.deepmind.com/blog/innovations-of-alphago",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-04-10T00:00:00",
+            "description": "One of the great promises of AI is its potential to help us unearth new knowledge in complex domains. We\u2019ve already seen exciting glimpses of this, when our algorithms found ways to dramatically improve energy use in data centres - as well as of course with our program AlphaGo.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6957,
+            "title": "Exploring the mysteries of Go with AlphaGo and China's top players",
+            "url": "https://www.deepmind.com/blog/exploring-the-mysteries-of-go-with-alphago-and-chinas-top-players",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-04-10T00:00:00",
+            "description": "Just over a year ago, we saw a major milestone in the field of artificial intelligence: DeepMind\u2019s AlphaGo took on and defeated one of the world\u2019s top Go players, the legendary Lee Sedol. Even then, we had no idea how this moment would affect the 3,000 year old game of Go and the growing global community of devotees to this beautiful board game.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6958,
+            "title": "Open sourcing Sonnet - a new library for constructing neural networks",
+            "url": "https://www.deepmind.com/blog/open-sourcing-sonnet-a-new-library-for-constructing-neural-networks",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2017-04-07T00:00:00",
+            "description": "It\u2019s now nearly a year since DeepMind made the decision to switch the entire research organisation to using TensorFlow (TF). It\u2019s proven to be a good choice - many of our models learn significantly faster, and the built-in features for distributed training have hugely simplified our code. Along the way, we found that the flexibility and adaptiveness of TF lends itself to building higher level frameworks for specific purposes, and we\u2019ve written one for quickly building neural network modules with TF. We are actively developing this codebase, but what we have so far fits our research needs well, and we\u2019re excited to announce that today we are open sourcing it. We call this framework Sonnet.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6959,
+            "title": "Distill: Communicating the science of machine learning",
+            "url": "https://www.deepmind.com/blog/distill-communicating-the-science-of-machine-learning",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-03-20T00:00:00",
+            "description": "Like every field of science, the importance of clear communication in machine learning research cannot be over-emphasised: it helps to drive forward the state-of-the art by allowing the research community to share, discuss and build upon new findings.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6960,
+            "title": "Enabling Continual Learning in Neural Networks",
+            "url": "https://www.deepmind.com/blog/enabling-continual-learning-in-neural-networks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-03-13T00:00:00",
+            "description": "Computer programs that learn to perform tasks also typically forget them very quickly. We show that the learning rule can be modified so that a program can remember old tasks when learning a new one. This is an important step towards more intelligent programs that are able to learn progressively and adaptively.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6961,
+            "title": "Trust, confidence and Verifiable Data Audit",
+            "url": "https://www.deepmind.com/blog/trust-confidence-and-verifiable-data-audit",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-03-09T00:00:00",
+            "description": "Data can be a powerful force for social progress, helping our most important institutions to improve how they serve their communities. As cities, hospitals, and transport systems find new ways to understand what people need from them, they\u2019re unearthing opportunities to change how they work today and identifying exciting ideas for the future.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6962,
+            "title": "A milestone for DeepMind Health and Streams",
+            "url": "https://www.deepmind.com/blog/a-milestone-for-deepmind-health-and-streams",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2017-02-27T00:00:00",
+            "description": "In November we announced a groundbreaking five year partnership with the Royal Free London to deploy and expand on Streams, our secure clinical app that aims to improve care by getting the right information to the right clinician at the right time.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6963,
+            "title": "Understanding Agent Cooperation",
+            "url": "https://www.deepmind.com/blog/understanding-agent-cooperation",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2017-02-02T00:00:00",
+            "description": "We employ deep multi-agent reinforcement learning to model the emergence of cooperation. The new notion of sequential social dilemmas allows us to model how rational agents interact, and arrive at more or less cooperative behaviours depending on the nature of the environment and the agents\u2019 cognitive capacity. The research may enable us to better understand and control the behaviour of complex multi-agent systems such as the economy, traffic, and environmental challenges.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6964,
+            "title": "Our collaborations with academia to advance the field of AI",
+            "url": "https://www.deepmind.com/blog/our-collaborations-with-academia-to-advance-the-field-of-ai",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-01-23T00:00:00",
+            "description": "When I was studying in the mid-90s as an undergraduate, there was very little active engagement between the academic communities pushing the boundaries of maths and science, and the industries that many students ended up going into, such as finance. This struck me as a missed opportunity. While private institutions benefited from the technological advances being driven by university researchers, the subsequent breakthroughs they made were rarely shared for mutual benefit between the two.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6965,
+            "title": "DeepMind\u2019s work in 2016: a round-up",
+            "url": "https://www.deepmind.com/blog/deepminds-work-in-2016-a-round-up",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2017-01-03T00:00:00",
+            "description": "In a world of fiercely complex, emergent, and hard-to-master systems - from our climate to the diseases we strive to conquer - we believe that intelligent programs will help unearth new scientific knowledge that we can use for social benefit. To achieve this, we believe we\u2019ll need general-purpose learning systems that are capable of developing their own understanding of a problem from scratch, and of using this to identify patterns and breakthroughs that we might otherwise miss. This is the focus of our long-term research mission at DeepMind.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6966,
+            "title": "Bringing the best of mobile technology to Imperial College Healthcare NHS Trust",
+            "url": "https://www.deepmind.com/blog/bringing-the-best-of-mobile-technology-to-imperial-college-healthcare-nhs-trust",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-12-22T00:00:00",
+            "description": "We\u2019re really excited to announce that we\u2019ve agreed a five year partnership with Imperial College Healthcare NHS Trust, helping them make the most of the opportunity for mobile clinical applications to improve care. This is now our second NHS partnership for clinical apps, following a similar partnership we announced last month with the Royal Free London NHS Foundation Trust.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6967,
+            "title": "DeepMind Papers @ NIPS (Part 3)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-nips-part-3",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2016-12-07T00:00:00",
+            "description": null,
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

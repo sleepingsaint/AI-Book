@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8632,
+            "title": "A Gentle Introduction to Multivariate Calculus",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-multivariate-calculus/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-19T00:00:00",
+            "description": "It is often desirable to study functions that depend on many variables.\u00a0 Multivariate calculus provides us with the tools to do so by extending the concepts that we find in calculus, such as the computation of the rate of change, to multiple variables. It plays an essential role in the process of training a neural [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/multivariate_cover-scaled.jpg"
+        },
+        {
+            "id": 8633,
+            "title": "Applications of Derivatives",
+            "url": "https://machinelearningmastery.com/applications-of-derivatives/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-16T00:00:00",
+            "description": "The derivative defines the rate at which one variable changes with respect to another.\u00a0 It is an important concept that comes in extremely useful in many applications: in everyday life, the derivative can tell you at which speed you are driving, or help you predict fluctuations on the stock market; in machine learning, derivatives are [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/applications_cover-scaled.jpg"
+        },
+        {
+            "id": 8634,
+            "title": "A Gentle Introduction to Continuous Functions",
+            "url": "https://machinelearningmastery.com/continuous-functions/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Illustrations and examples of continuous functions. Includes informal and formal definition, intermediate value and extreme value theorems.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/jeeni.jpg"
+        },
+        {
+            "id": 8635,
+            "title": "A Gentle Introduction to Indeterminate Forms and L\u2019Hospital\u2019s Rule",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-indeterminate-forms-and-lhospitals-rule/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Illustrative tutorial with examples on solving indeterminate forms for limits using L'Hospital's rule and its application for more complex forms.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/IMG_9247-scaled.jpg"
+        },
+        {
+            "id": 8636,
+            "title": "The Power, Product and Quotient Rules",
+            "url": "https://machinelearningmastery.com/the-power-product-and-quotient-rules/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "Optimization, as one of the core processes in many machine learning algorithms, relies on the use of derivatives in order to decide in which manner to update a model\u2019s parameter values, to maximize or minimize an objective function.\u00a0 This tutorial will continue exploring the different techniques by which we can find the derivatives of functions. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/rules_cover-scaled.jpg"
+        },
+        {
+            "id": 8637,
+            "title": "Derivative of the Sine and Cosine",
+            "url": "https://machinelearningmastery.com/derivative-of-the-sine-and-cosine/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "Many machine learning algorithms involve an optimization process for different purposes. Optimization refers to the problem of minimizing or maximizing an objective function by altering the value of its inputs.\u00a0 Optimization algorithms rely on the use of derivatives in order to understand how to alter (increase or decrease) the input values to the objective function, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/derivative_cover-scaled.jpg"
+        },
+        {
+            "id": 8638,
+            "title": "A Gentle Introduction to Slopes and Tangents",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-slopes-and-tangents/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-05T00:00:00",
+            "description": "A tutorial describing the slope of a line, slope of a curve and tangent lines to a curve using various examples and illustrations.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/IMG_4270-scaled.jpg"
+        },
+        {
+            "id": 8639,
+            "title": "A Gentle Introduction to Derivatives of Powers and Polynomials",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-derivatives-of-powers-and-polynomials/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-07-01T00:00:00",
+            "description": "An easy to follow tutorial on finding the derivative of polynomial functions and expressions involving non-integer powers of x.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/murree-e1623865846111.jpg"
+        },
+        {
+            "id": 8640,
+            "title": "A Gentle Introduction to Function Derivatives",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-function-derivatives/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "An easy to follow tutorial on function derivatives and their computation using the definition of a derivative along with examples.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/IMG_5405-2-scaled.jpg"
+        },
+        {
+            "id": 8641,
+            "title": "A Gentle Introduction to Evaluating Limits",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-evaluating-limits/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "A tutorial on how to evaluate limits of different types of functions including polynomials and rationals functions with discontinuity.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/IMG_1951-scaled.jpg"
+        },
+        {
+            "id": 8642,
+            "title": "A Gentle Introduction to Limits and Continuity",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-limits-and-continuity/",
+            "authors": "Mehreen Saeed",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-25T00:00:00",
+            "description": "This is an introduction to the concept of limits and continuity from calculus. Examples of various functions are used to illustrate these ideas.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/mainpic-1.jpg"
+        },
+        {
+            "id": 8643,
+            "title": "What you need to know before you get started: A brief tour of Calculus Pre-Requisites",
+            "url": "https://machinelearningmastery.com/what-you-need-to-know-before-you-get-started-a-brief-tour-of-calculus-pre-requisites/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-23T00:00:00",
+            "description": "We have previously seen that calculus is one of the core mathematical concepts in machine learning that permits us to understand the internal workings of different machine learning algorithms.\u00a0 Calculus, in turn, builds on several fundamental concepts that derive from algebra and geometry. The importance of having these fundamentals at hand will become even more [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/dino-reichmuth-A5rCN8626Ck-unsplash.jpg"
+        },
+        {
+            "id": 8644,
+            "title": "Calculus in Machine Learning: Why it Works",
+            "url": "https://machinelearningmastery.com/calculus-in-machine-learning-why-it-works/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Calculus is one of the core mathematical concepts in machine learning that permits us to understand the internal workings of different machine learning algorithms.\u00a0 One of the important applications of calculus in machine learning is the gradient descent algorithm, which, in tandem with backpropagation, allows us to train a neural network model.\u00a0 In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/hasmik-ghazaryan-olson-N9OQ2ZHNwCs-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8645,
+            "title": "Key Concepts in Calculus: Rate of Change",
+            "url": "https://machinelearningmastery.com/key-concepts-in-calculus-rate-of-change/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "The measurement of the rate of change is an integral concept in differential calculus, which concerns the mathematics of change and infinitesimals. It allows us to find the relationship between two changing variables and how these affect one another. The measurement of the rate of change is also essential for machine learning, such as in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/spencer-everett-h2A-OBT-mn0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8646,
+            "title": "What is Calculus?",
+            "url": "https://machinelearningmastery.com/what-is-calculus/",
+            "authors": "Stefania Cristina",
+            "tags": "Calculus",
+            "publishedOn": "2021-06-17T00:00:00",
+            "description": "Calculus is the mathematical study of change.\u00a0 The effectiveness of calculus to solve a complicated but continuous problem lies in its ability to slice the problem into infinitely simpler parts, solve them separately, and subsequently rebuild them into the original whole. This strategy can be applied to study all continuous elements that can be sliced [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/06/stephen-lammens-p4WRzoSUF0Q-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8647,
+            "title": "Differential Evolution from Scratch in Python",
+            "url": "https://machinelearningmastery.com/differential-evolution-from-scratch-in-python/",
+            "authors": "Stefania Cristina",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-16T00:00:00",
+            "description": "Differential evolution is a heuristic approach for the global optimisation of nonlinear and non- differentiable continuous space functions. The differential evolution algorithm belongs to a broader family of evolutionary computing algorithms. Similar to other popular direct search approaches, such as genetic algorithms and evolution strategies, the differential evolution algorithm starts with an initial population of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/04/Line-Plot-of-Objective-Function-Evaluation-for-Each-Improvement-During-the-Differential-Evolution-Search.png"
+        },
+        {
+            "id": 8648,
+            "title": "Modeling Pipeline Optimization With scikit-learn",
+            "url": "https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/",
+            "authors": "Mehreen Saeed",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "This tutorial presents two essential concepts in data science and automated learning. One is the machine learning pipeline, and the second is its optimization. These two principles are the key to implementing any successful intelligent system based on machine learning. A machine learning pipeline can be created by putting together a sequence of steps involved [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/04/GridSearchCV-Computes-a-Score-For-Each-Corner-of-the-Grid.png"
+        },
+        {
+            "id": 8649,
+            "title": "Gradient Descent With AdaGrad From Scratch",
+            "url": "https://machinelearningmastery.com/gradient-descent-with-adagrad-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-11T00:00:00",
+            "description": "Gradient descent is an optimization algorithm that follows the negative gradient of an objective function in order to locate the minimum of the function. A limitation of gradient descent is that it uses the same step size (learning rate) for each input variable. This can be a problem on objective functions that have different amounts [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Contour-Plot-of-the-Test-Objective-Function-With-AdaGrad-Search-Results-Shown.png"
+        },
+        {
+            "id": 8650,
+            "title": "Gradient Descent Optimization With AMSGrad From Scratch",
+            "url": "https://machinelearningmastery.com/gradient-descent-optimization-with-amsgrad-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "Gradient descent is an optimization algorithm that follows the negative gradient of an objective function in order to locate the minimum of the function. A limitation of gradient descent is that a single step size (learning rate) is used for all input variables. Extensions to gradient descent like the Adaptive Movement Estimation (Adam) algorithm use [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/01/Contour-Plot-of-the-Test-Objective-Function-With-AMSGrad-Search-Results-Shown.png"
+        },
+        {
+            "id": 8651,
+            "title": "Gradient Descent Optimization With AdaMax From Scratch",
+            "url": "https://machinelearningmastery.com/gradient-descent-optimization-with-adamax-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "Gradient descent is an optimization algorithm that follows the negative gradient of an objective function in order to locate the minimum of the function. A limitation of gradient descent is that a single step size (learning rate) is used for all input variables. Extensions to gradient descent, like the Adaptive Movement Estimation (Adam) algorithm, use [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/01/Contour-Plot-of-the-Test-Objective-Function-With-AdaMax-Search-Results-Shown.png"
+        },
+        {
+            "id": 8652,
+            "title": "A Gentle Introduction to Premature Convergence",
+            "url": "https://machinelearningmastery.com/premature-convergence/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-04T00:00:00",
+            "description": "Convergence refers to the limit of a process and can be a useful analytical tool when evaluating the expected performance of an optimization algorithm. It can also be a useful empirical tool when exploring the learning dynamics of an optimization algorithm, and machine learning algorithms trained using an optimization algorithm, such as deep learning neural [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/05/A-Gentle-Introduction-to-Premature-Convergence.jpg"
+        },
+        {
+            "id": 8653,
+            "title": "Why Optimization Is Important in Machine Learning",
+            "url": "https://machinelearningmastery.com/why-optimization-is-important-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "Machine learning involves using an algorithm to learn and generalize from historical data in order to make predictions on new data. This problem can be described as approximating a function that maps examples of inputs to examples of outputs. Approximating a function can be solved by framing the problem as function optimization. This is where [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/02/Why-Optimization-Is-Important-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8654,
+            "title": "A Gentle Introduction to Function Optimization",
+            "url": "https://machinelearningmastery.com/introduction-to-function-optimization/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Function optimization is a foundational area of study and the techniques are used in almost every quantitative field. Importantly, function optimization is central to almost all machine learning algorithms, and predictive modeling projects. As such, it is critical to understand what function optimization is, the terminology used in the field, and the elements that constitute [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/02/A-Gentle-Introduction-to-Function-Optimization.jpg"
+        },
+        {
+            "id": 8655,
+            "title": "One-Dimensional (1D) Test Functions for Function Optimization",
+            "url": "https://machinelearningmastery.com/1d-test-functions-for-function-optimization/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-28T00:00:00",
+            "description": "Function optimization is a field of study that seeks an input to a function that results in the maximum or minimum output of the function. There are a large number of optimization algorithms and it is important to study and develop intuitions for optimization algorithms on simple and easy-to-visualize test functions. One-dimensional functions take a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/Line-Plot-of-Multimodal-Optimization-Function-1.png"
+        },
+        {
+            "id": 8656,
+            "title": "Line Search Optimization With Python",
+            "url": "https://machinelearningmastery.com/line-search-optimization-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "The line search is an optimization algorithm that can be used for objective functions with one or more variables. It provides a way to use a univariate optimization algorithm, like a bisection search on a multivariate objective function, by using the search to locate the optimal step size in each dimension from a known point [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/Line-Plot-of-Objective-Function-with-Search-Starting-Point-and-Optima.png"
+        },
+        {
+            "id": 8657,
+            "title": "Gradient Descent With RMSProp from Scratch",
+            "url": "https://machinelearningmastery.com/gradient-descent-with-rmsprop-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Gradient descent is an optimization algorithm that follows the negative gradient of an objective function in order to locate the minimum of the function. A limitation of gradient descent is that it uses the same step size (learning rate) for each input variable. AdaGrad, for short, is an extension of the gradient descent optimization algorithm [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Contour-Plot-of-the-Test-Objective-Function-With-RMSProp-Search-Results-Shown.png"
+        },
+        {
+            "id": 8658,
+            "title": "Dual Annealing Optimization With Python",
+            "url": "https://machinelearningmastery.com/dual-annealing-optimization-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-21T00:00:00",
+            "description": "Dual Annealing is a stochastic global optimization algorithm. It is an implementation of the generalized simulated annealing algorithm, an extension of simulated annealing. In addition, it is paired with a local search algorithm that is automatically performed at the end of the simulated annealing procedure. This combination of effective global and local search procedures provides [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/11/3D-Surface-Plot-of-the-Ackley-Multimodal-Function.png"
+        },
+        {
+            "id": 8659,
+            "title": "A Gentle Introduction to the BFGS Optimization Algorithm",
+            "url": "https://machinelearningmastery.com/bfgs-optimization-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2021-05-19T00:00:00",
+            "description": "The Broyden, Fletcher, Goldfarb, and Shanno, or BFGS Algorithm, is a local search optimization algorithm. It is a type of second-order optimization algorithm, meaning that it makes use of the second-order derivative of an objective function and belongs to a class of algorithms referred to as Quasi-Newton methods that approximate the second derivative (called the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/05/A-Gentle-Introduction-to-the-BFGS-Optimization-Algorithm.jpg"
+        },
+        {
+            "id": 8660,
+            "title": "Essence of Bootstrap Aggregation Ensembles",
+            "url": "https://machinelearningmastery.com/essence-of-bootstrap-aggregation-ensembles/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2021-05-17T00:00:00",
+            "description": "Bootstrap aggregation, or bagging, is a popular ensemble method that fits a decision tree on different bootstrap samples of the training dataset. It is simple to implement and effective on a wide range of problems, and importantly, modest extensions to the technique result in ensemble methods that are among some of the most powerful techniques, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/11/Essence-of-Bootstrap-Aggregation-Ensembles.jpg"
+        },
+        {
+            "id": 8661,
+            "title": "A Gentle Introduction to Ensemble Diversity for Machine Learning",
+            "url": "https://machinelearningmastery.com/ensemble-diversity-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2021-05-14T00:00:00",
+            "description": "Ensemble learning combines the predictions from machine learning models for classification and regression. We pursue using ensemble methods to achieve improved predictive performance, and it is this improvement over any of the contributing models that defines whether an ensemble is good or not. A property that is present in a good ensemble is the diversity [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/10/A-Gentle-Introduction-to-Ensemble-Diversity-for-Machine-Learning.jpg"
+        }
+    ]
+}

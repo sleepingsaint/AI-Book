@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10307,
+            "title": "What is Active Learning?",
+            "url": "https://blog.roboflow.com/what-is-active-learning/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-22T00:00:00",
+            "description": "Machine learning algorithms are exceptionally data-hungry, requiring thousands \u2013 if not millions \u2013 of examples to make informed decisions. Providing high quality training data for our algorithms to learn is an expensive task. Active learning is one strategy that optimizes the human labor required to build effective machine learning systems. Further discussion",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/active-learning-thumb-1.png"
+        },
+        {
+            "id": 10308,
+            "title": "Revamping Train, Validation, Test, Split Management",
+            "url": "https://blog.roboflow.com/revamping-train-test-split-management/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "Splitting data into train, validation, and test splits is essential to building good computer vision models. Today, we are announcing in-app changes to Roboflow that make it even easier to manage your train test splits as you are working through the computer vision workflow.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/train_val_test.jpg"
+        },
+        {
+            "id": 10309,
+            "title": "Google Researchers Say Underspecification is Ruining Your Model Performance. Here's Five Ways to Fix That.",
+            "url": "https://blog.roboflow.com/google-paper-underspecification-machine-learning/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-11-16T00:00:00",
+            "description": "We read that Google underspecification paper so you don't have to.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/underspecification-machine-learning-thumbnail.png"
+        },
+        {
+            "id": 10310,
+            "title": "Bringing Street Murals to Life with Computer Vision",
+            "url": "https://blog.roboflow.com/street-mural-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-15T00:00:00",
+            "description": "In Bedford\u2013Stuyvesant, Brooklyn (BedStuy), Yuri Fukuda regularly walks by a mural that showcases prominent female leaders. Since October 2005, a stunning 3,300 square foot mural, When Women Pursue Justice by ArtMakers-NYC, has had a central place in the BedStuy art scene. The mural celebrates 90 women who have",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolov5_art.webp"
+        },
+        {
+            "id": 10311,
+            "title": "YOLOv4 - Ten Tactics to Build a Better Model",
+            "url": "https://blog.roboflow.com/yolov4-tactics/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "The YOLO v4 repository is currently one of the best places to train a custom object detector, and the capabilities of the Darknet repository are vast. In this post, we discuss and implement ten advanced tactics in YOLO v4 so you can build the best object detection model from your custom dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/yolov4_tactics.jpg"
+        },
+        {
+            "id": 10312,
+            "title": "Hands on with the Roboflow Infer Web Application Interface Builder",
+            "url": "https://blog.roboflow.com/hands-on-with-the-roboflow-infer-web-application-interface/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-08T00:00:00",
+            "description": "After you train a model with Roboflow Train, you're provided with three immediate ways to use your model: a curl command, the direct URL, and an Example Web App. In this post, we'll demonstrate hands on how to use the web application (as well as how to make it your",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/hands-on-web-interface-thumbnail.png"
+        },
+        {
+            "id": 10313,
+            "title": "Occlusion Techniques in Computer Vision",
+            "url": "https://blog.roboflow.com/occlusion-computer-vision/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Computer vision models learn to model a task from a training set, however, like all deep learning models, they are prone to overfit the data they have been shown, making poor inferences in the wild.  Computer vision models, like all machine learning models, tend overfit to the training dataOverfitting means",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/occlusion2.jpg"
+        },
+        {
+            "id": 10314,
+            "title": "Evaluating Object Detection Models with mAP by Class",
+            "url": "https://blog.roboflow.com/mean-average-precision-per-class/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-03T00:00:00",
+            "description": "When evaluating an object detection model in computer vision, mean average precision is the most commonly cited metric for assessing performance. Remember, mean average precision is a measure of our model's ability to correctly predict bounding boxes at some confidence level \u2013 commonly mAP@0.5 or mAP@0.95. Those",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/mAP-by-class.png"
+        },
+        {
+            "id": 10315,
+            "title": "How to Use the Detectron2 Model Zoo (for Object Detection)",
+            "url": "https://blog.roboflow.com/how-to-use-the-detectron2-object-detection-model-zoo/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-01T00:00:00",
+            "description": "Detectron2 is Facebook's open source library for implementing state-of-the-art computer vision techniques in PyTorch. Facebook introduced Detectron2 in October 2019 as a complete rewrite of Detectron (which was implemented in Caffe). Facebook uses Detectron2 in a wide array of their products, including Portal, and notes the framework accelerates the feedback",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/detectron2-cover-image-1.png"
+        },
+        {
+            "id": 10316,
+            "title": "How This Fulbright Scholar is Using Computer Vision to Protect Endangered Species",
+            "url": "https://blog.roboflow.com/how-this-fulbright-scholar-is-using-computer-vision-to/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "The below post is by Kasim Rafiq, a conservationist, Fulbright Scholar, and National Geographic Explorer studying at UC Santa Cruz. Kasim holds a PhD in Wildlife Ecology from Liverpool John Moores University.  A leopard in the Okavango Delta\u2029. Credit: Kasim RafiqIntroductionNature underpins everything. From our global economy to our wellbeing",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolov5_animals.webp"
+        },
+        {
+            "id": 10317,
+            "title": "Train Test Split Guide and Overview",
+            "url": "https://blog.roboflow.com/train-test-split-with-roboflow/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-28T00:00:00",
+            "description": "In order to ensure our models are generalizing well (rather than memorizing training data), it is best practice to create a train, test split.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/train-test-split-cover.png"
+        },
+        {
+            "id": 10318,
+            "title": "Luxonis OAK-D - Deploy a Custom Object Detection Model with Depth",
+            "url": "https://blog.roboflow.com/luxonis-oak-d-custom-model/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-10-26T00:00:00",
+            "description": "We are pretty excited about the Luxonis OpenCV AI Kit (OAK-D) device at Roboflow, and we're not alone. Our excitement has naturally led us to create another tutorial on how to train and deploy a custom object detection model leveraging Roboflow and DepthAI, to the edge, with depth, faster.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/deploy_to_oak_d.jpg"
+        },
+        {
+            "id": 10319,
+            "title": "Behind the Design of an Augmented Reality Board Game App",
+            "url": "https://blog.roboflow.com/designing-augmented-reality-computer-vision-apps/",
+            "authors": "Amanda Morrow",
+            "tags": null,
+            "publishedOn": "2020-10-26T00:00:00",
+            "description": "During the summer of 2019, I received a Facebook message from Roboflow co-founder Brad Dwyer asking me if I wanted to design a new mobile app he was working on. His previous app, Magic Sudoku, had recently generated some buzz online and even won a Golden Kitty award from Product",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/boardboss.jpg"
+        },
+        {
+            "id": 10320,
+            "title": "How to Save and Load Model Weights in Google Colab",
+            "url": "https://blog.roboflow.com/how-to-save-and-load-weights-in-google-colab/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-25T00:00:00",
+            "description": "In this post, we walkthrough how to save and reload model weights from YOLOv5 in the notebook from the Roboflow Model Library",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/save-load-model-weights.png"
+        },
+        {
+            "id": 10321,
+            "title": "Using Computer Vision to Help Deaf and Hard of Hearing Communities",
+            "url": "https://blog.roboflow.com/computer-vision-american-sign-language/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-19T00:00:00",
+            "description": "The below post is a lightly edited guest post by David Lee, a data scientist using computer vision to boost tech accessibility for communities that need it. David has open sourced all materials related to this project on his GitHub. The post is also available on David's blog.  David is",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolo_v_5_sign_language.webp"
+        },
+        {
+            "id": 10322,
+            "title": "An Introduction to the COCO Dataset",
+            "url": "https://blog.roboflow.com/coco-dataset/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-10-18T00:00:00",
+            "description": "In this post, we will dive into the COCO dataset, explaining the motivation for the dataset and exploring dataset facts and metrics.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/coco.jpg"
+        },
+        {
+            "id": 10323,
+            "title": "Software Engineering Daily Podcast",
+            "url": "https://blog.roboflow.com/software-engineering-daily-podcast/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-10-14T00:00:00",
+            "description": "Roboflow co-founder Brad Dwyer was a guest on the Software Engineering Daily podcast. Listen on your favorite podcast app (Apple Podcasts, Spotify, Overcast, Stitcher), or see the full transcript below. \u200eSoftware Engineering Daily: Roboflow: Computer Vision Models with Brad Dwyer on Apple PodcastsTraining a computer vision model is not easy.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/sed.jpg"
+        },
+        {
+            "id": 10324,
+            "title": "Introducing an Improved Shear Augmentation",
+            "url": "https://blog.roboflow.com/shear-augmentation/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-10-12T00:00:00",
+            "description": "Today, we introduce a new and improved shear augmentation. We'll walk through some details on the change, as well as some intuition and results backing up our reasoning.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/shear-thumb.jpg"
+        },
+        {
+            "id": 10325,
+            "title": "Fighting Wildfires with Computer Vision",
+            "url": "https://blog.roboflow.com/fighting-wildfires/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-10-12T00:00:00",
+            "description": "Abhishek Ghosh is training a computer vision model to detect the first signs of smoke from a forest fire.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/wildfire.jpg"
+        },
+        {
+            "id": 10326,
+            "title": "How Tesla Teaches Cars to Stop",
+            "url": "https://blog.roboflow.com/tesla-stop-signs-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-11T00:00:00",
+            "description": "Creating successful computer vision models requires handling an ever growing set of edge cases.  At the 2020 Conference on Computer Vision and Pattern Recognition (CVPR), Tesla's Senior Director of AI, Andrej Karpathy, gave a talk on how Tesla is building autonomous vehicles. Karpathy's team is responsible for building the neural",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/tesla_stop.jpg"
+        },
+        {
+            "id": 10327,
+            "title": "Roboflow Wins $15,000 Award",
+            "url": "https://blog.roboflow.com/pappajohn/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-10-06T00:00:00",
+            "description": "Roboflow is honored to be named as one of Iowa's most promising startups and one of the top 3 winners of the Pappajohn Entrepreneurial Venture Competition. The annual awards honor companies with innovative technology that have grown quickly. Since launching in January, Roboflow has helped over 8,000 developers use",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/award.jpg"
+        },
+        {
+            "id": 10328,
+            "title": "Glossary of Common Computer Vision Terms",
+            "url": "https://blog.roboflow.com/glossary/",
+            "authors": "Brad Dwyer, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-10-05T00:00:00",
+            "description": "Computer Vision (and Machine Learning in general) is one of those fields that can seem hard to approach because there are so many industry-specific words (or common words used in novel ways) that it can feel a bit like you're trying to learn a new language when you're trying to get started.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/glossary.jpg"
+        },
+        {
+            "id": 10329,
+            "title": "Improving Cancer Research with Computer Vision",
+            "url": "https://blog.roboflow.com/cancer-research-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-10-04T00:00:00",
+            "description": "Computer vision is improving life sciences. From the early identification of cancer to improving plant health, machine vision is enabling us to create more accurate diagnoses, cures, and research methods. Mateo Sokac is advancing progress in cancer research with object detection. Mateo is a Danish-based researcher at Aarhus University concurrently",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/roboflow-1.png"
+        },
+        {
+            "id": 10330,
+            "title": "What is a Label Map?",
+            "url": "https://blog.roboflow.com/label-map/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-10-02T00:00:00",
+            "description": "In this post, we will demystify the label map by discussing the role that it plays in the computer vision annotation process. Then we will get hands on with some real life examples using a label map.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/labelmap.jpg"
+        },
+        {
+            "id": 10331,
+            "title": "Introducing Grayscale and Hue/Saturation Augmentations",
+            "url": "https://blog.roboflow.com/introducing-grayscale-and-hue-augmentations/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-09-27T00:00:00",
+            "description": "Roboflow is constantly improving how developers can build better computer vision models based on better input data. One key piece to this puzzle is enabling users to select augmentations that best improve dataset representation through augmentation. Augmentation creates altered training data based on existing examples. Image augmentation improves model performance,",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/hue-augmentation-1.gif"
+        },
+        {
+            "id": 10332,
+            "title": "Getting Started with VGG Image Annotator for Object Detection Tutorial",
+            "url": "https://blog.roboflow.com/vgg-image-annotator/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-09-25T00:00:00",
+            "description": "Annotating your images is easy using the free, open source VGG Image Annotator. In this post we will walk through the steps necessary to get up and running with the VGG Image Annotator so you can quickly, and efficiently label your computer vision dataset for object detection and move on",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/10/vgg_image.png"
+        },
+        {
+            "id": 10333,
+            "title": "Training Robots to Identify Other Robots",
+            "url": "https://blog.roboflow.com/anki-vector-custom-model/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-09-22T00:00:00",
+            "description": "Amitabha Banerjee used YOLOv5 and Roboflow to teach his Anki Vector robot to detect other robots. This is not only a fun project to teach machine learning but it could have real world implications as well. In the future, we'll want our robots to be able to collaborate and work",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/robots.jpg"
+        },
+        {
+            "id": 10334,
+            "title": "No-Code Computer Vision with Apple's CreateML",
+            "url": "https://blog.roboflow.com/createml/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-09-18T00:00:00",
+            "description": "Apple added object detection support to CreateML, their no-code machine learning app. Learn how to use it in this free guide.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/createml.jpg"
+        },
+        {
+            "id": 10335,
+            "title": "LabelMe Tutorial for Image and Video Annotation",
+            "url": "https://blog.roboflow.com/labelme/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-09-17T00:00:00",
+            "description": "In this post, we will walk through how to jumpstart your image annotation process using LabelMe, a free, open source labeling tool.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/labelme.webp"
+        },
+        {
+            "id": 10336,
+            "title": "What is an annotation group?",
+            "url": "https://blog.roboflow.com/annotation-group/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-09-14T00:00:00",
+            "description": "If you're wondering this, you're not alone. The annotation group is the category that encompasses all of the classes in your dataset. It answers the question \"What kind of things are labeled in this dataset?\" Why do you need an annotation group?It's not immediately obvious why you need an",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/annotation-group.jpg"
+        }
+    ]
+}

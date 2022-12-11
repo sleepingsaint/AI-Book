@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 13810,
+            "title": "A Learning Theoretic Perspective on Local Explainability",
+            "url": "https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-04-23T00:00:00",
+            "description": "A formal relationship between interpretability and complexity. Going from left to right, we consider increasingly complex functions. As the complexity increases, local linear explanations can approximate the function only in smaller and smaller neighborhoods. These neighborhoods, in other words, nee",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/03/ezgif.com-gif-maker-16.gif"
+        },
+        {
+            "id": 13811,
+            "title": "Counterfactual predictions under runtime confounding",
+            "url": "https://blog.ml.cmu.edu/2021/04/16/counterfactual-predictions-under-runtime-confounding/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-04-16T00:00:00",
+            "description": "Due to feasibility or ethical requirements, a prediction model may only access a subset of the confounding factors that affect both the decision and outcome. We propose a procedure for learning valid counterfactual predictions in this setting.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/04/general-runtime-confounding-2-970x339.png"
+        },
+        {
+            "id": 13812,
+            "title": "Tilted Empirical Risk Minimization",
+            "url": "https://blog.ml.cmu.edu/2021/04/02/term/",
+            "authors": null,
+            "tags": "Fate, Machine learning, Research",
+            "publishedOn": "2021-04-02T00:00:00",
+            "description": "In this post, we describe a simple extension to empirical risk minimization---tilted ERM (TERM), which can be used for enforcing fairness between subgroups, mitigating the effect of outliers, and handling class imbalance, all in a unified framework.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/03/final-copy.gif"
+        },
+        {
+            "id": 13813,
+            "title": "Carnegie Mellon University at the Conference on Fairness, Accountability, and Transparency (ACM FAccT 2021)",
+            "url": "https://blog.ml.cmu.edu/2021/03/05/carnegie-mellon-university-at-the-conference-on-fairness-accountability-and-transparency-acm-facct-2021/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "This week researchers from all across computer science, social sciences and humanities are gathering for the flagship conference of the emerging field of Fairness, Accountability and Transparency in algorithmic systems: FAccT. FAccT (previously FAT*) is dedicated to the inherent risks that come with",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/03/facct-accepted-papers-2021-1-970x546.jpg"
+        },
+        {
+            "id": 13814,
+            "title": "An Inferential Perspective on Federated Learning",
+            "url": "https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/",
+            "authors": null,
+            "tags": "Deep learning, Federated learning, Machine learning, Research",
+            "publishedOn": "2021-02-19T00:00:00",
+            "description": "TL;DR: motivated to better understand the fundamental tradeoffs in federated learning, we present a probabilistic perspective that generalizes and improves upon federated optimization and enables a new class of efficient federated learning algorithms.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/02/fedavg-and-fedpa-illustration.gif"
+        },
+        {
+            "id": 13815,
+            "title": "Representational Aspects of Depth and Conditioning in Normalizing Flows",
+            "url": "https://blog.ml.cmu.edu/2020/12/18/representational-aspects-of-depth-and-conditioning-in-normalizing-flows/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-12-18T00:00:00",
+            "description": "Top and Bottom Right: RealNVP [3] uses checkerboard and channel-wise partitioning schemes in order to factor out parameters and ensure that there aren't redundant partitions from previous layers. GLOW [4] uses an invertible 1x1 convolution which allows the partitioned to be 'learned' by a linear lay",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/11/top-figure-for-flow-blog-v2.svg"
+        },
+        {
+            "id": 13816,
+            "title": "Carnegie Mellon University at NeurIPS 2020",
+            "url": "https://blog.ml.cmu.edu/2020/12/04/carnegie-mellon-university-at-neurips-2020/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "Carnegie Mellon University is proud to present 88 papers at the 34th Conference on Neural Information Processing Systems (NeurIPS 2020), which will be held virtually this week. Our faculty and researchers are also giving invited talks at 7 workshops and are involved in organizing 14 workshops at the",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/12/neurips-conference-gradient-background-970x546.jpg"
+        },
+        {
+            "id": 13817,
+            "title": "Experiments with the ICML 2020 Peer-Review Process",
+            "url": "https://blog.ml.cmu.edu/2020/12/01/icml2020exp/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-12-01T00:00:00",
+            "description": "The International Conference on Machine Learning (ICML) is a flagship machine learning conference that in 2020 received 4,990 submissions and managed a pool of 3,931 reviewers, area chairs, and expert reviewers. Given that the stakes in the review process are high \u2014 the careers of researchers are of",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/12/vienna-with-icml-logo-1-970x546.jpg"
+        },
+        {
+            "id": 13818,
+            "title": "On Learning Language-Invariant Representations for Universal Machine Translation",
+            "url": "https://blog.ml.cmu.edu/2020/10/23/on-learning-language-invariant-representations-for-universal-machine-translation/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Machine translation, Natural language processing, Research",
+            "publishedOn": "2020-10-23T00:00:00",
+            "description": "Despite the recent improvements in neural machine translation (NMT), training a large NMT model with hundreds of millions of parameters usually requires a collection of parallel corpora at a large scale, on the order of millions or even billions of aligned sentences for supervised training (Arivazha",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/09/encdec-954x625.png"
+        },
+        {
+            "id": 13819,
+            "title": "FACT Diagnostic: How to Better Understand Trade-offs Involving Group Fairness",
+            "url": "https://blog.ml.cmu.edu/2020/10/12/fact-diagnostic-how-to-better-understand-trade-offs-involving-group-fairness/",
+            "authors": null,
+            "tags": "Fate, Machine learning, Research",
+            "publishedOn": "2020-10-12T00:00:00",
+            "description": "The FACT diagnostic is a general framework that allows easier and flexible analyses of trade-offs between group fairness and predictive performance (type-1 trade-off), or among different types of group fairness definitions (type-2 trade-off)",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/09/mainfig.001-970x409.jpeg"
+        },
+        {
+            "id": 13820,
+            "title": "Plan2Explore: Active Model-Building for Self-Supervised Visual Reinforcement Learning",
+            "url": "https://blog.ml.cmu.edu/2020/10/06/plan2explore/",
+            "authors": null,
+            "tags": "Artificial intelligence, Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2020-10-06T00:00:00",
+            "description": "To operate successfully in unstructured open-world environments, autonomous intelligent agents need to solve many different tasks and learn new tasks quickly. Reinforcement learning has enabled artificial agents to solve complex tasks both in simulation and real world. However, it requires collectin",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/09/figure1_teaser.gif"
+        },
+        {
+            "id": 13821,
+            "title": "Generalizing Randomized Smoothing for Pointwise-Certified Defenses to Data Poisoning Attacks",
+            "url": "https://blog.ml.cmu.edu/2020/09/25/generalizing-randomized-smoothing/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Research",
+            "publishedOn": "2020-09-25T00:00:00",
+            "description": "Adversarial examples\u2014targeted, human-imperceptible modifications to a test input that cause a deep network to fail catastrophically\u2014have taken the machine learning community by storm, with a large body of literature dedicated to understanding and preventing this phenomenon (see these surveys). Under",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/09/random-smoothing-explained2.gif"
+        },
+        {
+            "id": 13822,
+            "title": "F19 \u2013 Topics in data analysis",
+            "url": "https://blog.ml.cmu.edu/2020/08/31/f19-topics-in-data-analysis/",
+            "authors": null,
+            "tags": "Educational, Machine learning",
+            "publishedOn": "2020-08-31T00:00:00",
+            "description": "What is data analysis? A simple definition is: the application of machine learning and statistical methods to real world data to solve a problem. While this statement is simple, data analysis eventually requires expertise from a vast number of disciplines such as the real world domain in question (e",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/08/data_analysis_3_edited-970x191.png"
+        },
+        {
+            "id": 13823,
+            "title": "High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks",
+            "url": "https://blog.ml.cmu.edu/2020/08/14/high-frequency-component-helps-explain-the-generalization-of-convolutional-neural-networks/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-08-14T00:00:00",
+            "description": "There are many works aiming to explain the generalization behavior of neural networks using heavy mathematical machinery, but we will do something different here: with a simple and intuitive twist of data, we will show that many generalization mysteries (like adversarial vulnerability, BatchNorm\u2019s e",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/08/fimage-970x325.png"
+        },
+        {
+            "id": 13824,
+            "title": "Maintaining the Illusion of Reality:  Transfer in RL by Keeping Agents in the DARC",
+            "url": "https://blog.ml.cmu.edu/2020/07/31/maintaining-the-illusion-of-reality-transfer-in-rl-by-keeping-agents-in-the-darc/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "Reinforcement learning (RL) is often touted as a promising approach for costly and risk-sensitive applications, yet practicing and learning in those domains directly is expensive. It costs time (e.g., OpenAI's Dota2 project used 10,000 years of experience), it costs money (e.g., \"inexpensive\" roboti",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/07/darc-6.gif"
+        },
+        {
+            "id": 13825,
+            "title": "In defense of weight-sharing for neural architecture search: an optimization perspective",
+            "url": "https://blog.ml.cmu.edu/2020/07/17/in-defense-of-weight-sharing-for-nas/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-07-17T00:00:00",
+            "description": "Neural architecture search (NAS) -- selecting which neural model to use for your learning problem -- is a promising but computationally expensive direction for automating and democratizing machine learning. The weight-sharing method, whose initial success at dramatically accelerating NAS surprised m",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/07/animation-3.gif"
+        },
+        {
+            "id": 13826,
+            "title": "Carnegie Mellon University at ICML 2020",
+            "url": "https://blog.ml.cmu.edu/2020/07/13/carnegie-mellon-university-at-icml-2020/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "Carnegie Mellon University is proud to present 44 papers at the 37th International Conference on Machine Learning (ICML 2020), which will be held virtually this week. CMU is also involved in organizing 5 workshops at the conference, and our faculty and researchers are giving invited talks at 6 works",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/07/icml-2020-cmu-1-970x546.jpg"
+        },
+        {
+            "id": 13827,
+            "title": "CATER: A diagnostic dataset for Compositional Actions and Temporal Reasoning",
+            "url": "https://blog.ml.cmu.edu/2020/07/03/cater/",
+            "authors": null,
+            "tags": "Computer vision, Machine learning, Research",
+            "publishedOn": "2020-07-03T00:00:00",
+            "description": "Introducing CATER: A diagnostic dataset for video understanding that, by design, requires temporal reasoning to be solved.\n\n\n\n\n\n\n\n\n\nWhile deep features have revolutionized static image analysis, deep video descriptors have struggled to outperform classic hand-crafted descriptors. Though recent works",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/07/cater_all.gif"
+        },
+        {
+            "id": 13828,
+            "title": "Learning to Explore using Active Neural SLAM",
+            "url": "https://blog.ml.cmu.edu/2020/06/19/learning-to-explore-using-active-neural-slam/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2020-06-19T00:00:00",
+            "description": "Active Neural SLAM is a modular navigation system that learns to explore unseen indoor environments.\n\n\n\n\n\n\n\nAdvances in machine learning, computer vision and robotics have opened up avenues of building intelligent robots which can navigate in the physical world and perform complex tasks in our homes",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/06/ans.gif"
+        },
+        {
+            "id": 13829,
+            "title": "Understanding the Prevalence of SARS-CoV-2 with Limited Diagnostic Testing Capacity",
+            "url": "https://blog.ml.cmu.edu/2020/06/12/understanding-the-prevalence-of-sars-cov-2-with-limited-diagnostic-testing-capacity/",
+            "authors": null,
+            "tags": "Educational, Machine learning",
+            "publishedOn": "2020-06-12T00:00:00",
+            "description": "The work presented in this post is not peer reviewed. It should not be taken as clinical advice nor be reported as established information without consulting medical experts.\n\n\n\nDuring a disease outbreak, incidence (the rate of new cases) and prevalence (the fraction of the population currently infe",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/05/covid_figure_01-970x356.png"
+        },
+        {
+            "id": 13830,
+            "title": "Differentiable Reasoning over Text",
+            "url": "https://blog.ml.cmu.edu/2020/05/15/differentiable-reasoning-over-text/",
+            "authors": null,
+            "tags": "Machine learning, Natural language processing, Research",
+            "publishedOn": "2020-05-15T00:00:00",
+            "description": "We all rely on search engines to navigate the massive amount of online information published every day. Modern search engines not only retrieve a list of pages relevant to a query but often try to directly answer our questions by analyzing the content of those pages. One area they currently struggle",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/04/drkit-970x471.png"
+        },
+        {
+            "id": 13831,
+            "title": "Unsupervised Meta-Learning: Learning to Learn without Supervision",
+            "url": "https://blog.ml.cmu.edu/2020/05/01/unsupervised-meta-learning-learning-to-learn-without-supervision/",
+            "authors": null,
+            "tags": "Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2020-05-01T00:00:00",
+            "description": "The history of machine learning has largely been a story of increasing abstraction. In the dawn of ML, researchers spent considerable effort engineering features. As deep learning gained popularity, researchers then shifted towards tuning the update rules and learning rates for their optimizers. Rec",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/04/Unsupervised-Meta-Learning-Teaser-1-970x240.png"
+        },
+        {
+            "id": 13832,
+            "title": "Learning DAGs with Continuous Optimization",
+            "url": "https://blog.ml.cmu.edu/2020/04/10/learning-dags-with-continuous-optimization/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-04-10T00:00:00",
+            "description": "Can we build a bridge between the left and right hand side? \n\n\n\n\n\n\n\nAs datasets continually increase in size and complexity, our ability to uncover meaningful insights from unstructured and unlabeled data is crucial. At the same time, a premium has been placed on delivering simple, human-interpretab",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/04/picture1-970x301.png"
+        },
+        {
+            "id": 13833,
+            "title": "Are Sixteen Heads Really Better than One?",
+            "url": "https://blog.ml.cmu.edu/2020/03/20/are-sixteen-heads-really-better-than-one/",
+            "authors": null,
+            "tags": "Machine learning, Natural language processing, Research",
+            "publishedOn": "2020-03-20T00:00:00",
+            "description": "Since their inception in this 2017 paper by Vaswani et al., transformer models have become a staple of NLP research. They are used in machine translation, language modeling, and in general in most recent state-of-the-art pretrained models (Devlin et al. (2018), Radford et al. (2018), Yang et al. (20",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/02/124313-3-970x353.jpg"
+        },
+        {
+            "id": 13834,
+            "title": "Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations",
+            "url": "https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/",
+            "authors": null,
+            "tags": "Educational",
+            "publishedOn": "2020-03-02T00:00:00",
+            "description": "These are my (@andrewkuznet) opinions, formed by being a SCS PhD student at Carnegie Mellon University in the US. This post is meant as a followup to a poster I made in 2019 with the help of many people. Following the trend, this guide was also created collaboratively. \nEvery PhD, advisor, and situa",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/03/Screen-Shot-2020-03-02-at-12.29.16-AM-892x625.png"
+        },
+        {
+            "id": 13835,
+            "title": "Inherent Tradeoffs in Learning Fair Representations",
+            "url": "https://blog.ml.cmu.edu/2020/02/28/inherent-tradeoffs-in-learning-fair-representations/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-02-28T00:00:00",
+            "description": "With the prevalence of machine learning applications in high-stakes domains (e.g., criminal judgment, medical testing, online advertising, etc.), it is crucial to ensure that these decision-support systems do not propagate existing bias or discrimination that might exist in historical data. Broadly",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/12/blog-1-970x348.png"
+        },
+        {
+            "id": 13836,
+            "title": "RL for Planning and Planning for RL",
+            "url": "https://blog.ml.cmu.edu/2020/02/13/rl-for-planning-and-planning-for-rl/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2020-02-13T00:00:00",
+            "description": "The figure above illustrates the method:(a) Goal-conditioned RL often fails to reach distant goals, but can successfully reach the goal if starting nearby (inside the green region). (b) Our goal is to use observations in our replay buffer (yellow squares) as waypoints leading to the goal. (c) We aut",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2020/01/teaser_panel_v2-970x212.png"
+        },
+        {
+            "id": 13837,
+            "title": "RoboNet: A Dataset for Large-Scale Multi-Robot Learning",
+            "url": "https://blog.ml.cmu.edu/2019/11/26/robonet/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-11-26T00:00:00",
+            "description": "In the last decade, we\u2019ve seen learning-based systems provide transformative solutions for a wide range of perception and reasoning problems, from recognizing objects in images to recognizing and translating human speech. Recent progress in deep reinforcement learning (i.e. integrating deep neural n",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/11/hypothesis-970x268.png"
+        },
+        {
+            "id": 13838,
+            "title": "ARUBA: Learning-to-Learn with Less Regret",
+            "url": "https://blog.ml.cmu.edu/2019/11/22/aruba/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-11-22T00:00:00",
+            "description": "In the classical machine learning setup, we aim to learn a single model for a single task given many training samples from the same distribution. However, in many practical applications, we are in fact exposed to several distinct yet related tasks that have only a few examples each. Because the data",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/11/titlepic-1.svg"
+        },
+        {
+            "id": 13839,
+            "title": "Federated Learning: Challenges, Methods, and Future Directions",
+            "url": "https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/",
+            "authors": null,
+            "tags": "Educational, Federated learning, Machine learning",
+            "publishedOn": "2019-11-12T00:00:00",
+            "description": "What is federated learning? How does it differ from traditional large-scale machine learning, distributed optimization, and privacy-preserving data analysis? What do we understand currently about federated learning, and what problems are left to explore? In this post, we briefly answer these questio",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-10.41.38-AM-970x377.png"
+        }
+    ]
+}

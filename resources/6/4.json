@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6878,
+            "title": "The Podcast: Episode 4: AI, Robot",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-4-ai-robot",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-20T00:00:00",
+            "description": "Forget what sci-fi has told you about superintelligent robots that are uncannily human-like; the reality is more prosaic. Inside DeepMind\u2019s robotics laboratory, Hannah explores what researchers call \u2018embodied AI\u2019: robot arms that are learning tasks like picking up plastic bricks, which humans find comparatively easy.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6879,
+            "title": "The Podcast: Episode 3: Life is like a game",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-3-life-is-like-a-game",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-19T00:00:00",
+            "description": "Video games have become a favourite tool for AI researchers to test the abilities of their systems. In this episode, Hannah sits down to play StarCraft II - a challenging video game that requires players to control the onscreen action with as many as 800 clicks a minute.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6880,
+            "title": "The Podcast: Episode 2: Go to Zero",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-2-go-to-zero",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-18T00:00:00",
+            "description": "In March 2016, more than 200 million people watched AlphaGo become first computer program to defeat a professional human player at the game of Go, a milestone in AI research that was considered to be a decade ahead of its time.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6881,
+            "title": "The Podcast: Episode 1: AI and neuroscience - The virtuous circle",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-1-ai-and-neuroscience-the-virtuous-circle",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-17T00:00:00",
+            "description": "What can the human brain teach us about AI? And what can AI teach us about our own intelligence? These questions underpin a lot of AI research.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6882,
+            "title": "Welcome to the DeepMind podcast",
+            "url": "https://www.deepmind.com/blog/welcome-to-the-deepmind-podcast",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-16T00:00:00",
+            "description": "What\u2019s AI? What can it be used for? Is it safe? And how do I get involved? These are the kinds of questions we often get asked at public events like science festivals, talks and workshops. We love answering them and really value the conversations and thinking they provoke.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622731424848f94d854ef64a_Podcast%2001.jpg"
+        },
+        {
+            "id": 6883,
+            "title": "Using machine learning to accelerate ecological research",
+            "url": "https://www.deepmind.com/blog/using-machine-learning-to-accelerate-ecological-research",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2019-08-08T00:00:00",
+            "description": "The Serengeti is one of the last remaining sites in the world that hosts an intact community of large mammals. These animals roam over vast swaths of land, some migrating thousands of miles across multiple countries following seasonal rainfall. As human encroachment around the region becomes more intense, these species are forced to alter their behaviours in order to survive. Increasing agriculture, poaching, and climate abnormalities contribute to changes in animal behaviours and population dynamics, but these changes have occurred at spatial and temporal scales which are difficult to monitor using traditional research methods. There is a great urgency to understand how these animal communities function as human pressures grow, both in order to understand the dynamics of these last pristine ecosystems, and to formulate effective management plans to conserve and protect the integrity of this unique biodiversity hotspot.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62272f686b28acf862125a4d_Serengeti%201.jpg"
+        },
+        {
+            "id": 6884,
+            "title": "Using AI to give doctors a 48-hour head start on life-threatening illness",
+            "url": "https://www.deepmind.com/blog/using-ai-to-give-doctors-a-48-hour-head-start-on-life-threatening-illness",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2019-07-31T00:00:00",
+            "description": "Artificial intelligence can now predict one of the leading causes of avoidable patient harm up to two days before it happens, as demonstrated by our latest research published in Nature. Working alongside experts from the US Department of Veterans Affairs (VA), we have developed technology that, in the future, could give doctors a 48-hour head start in treating acute kidney injury (AKI), a condition that is associated with over 100,000 people in the UK every year. These findings come alongside a peer-reviewed service evaluation of Streams, our mobile assistant for clinicians, which shows that patient care can be improved, and health care costs reduced, through the use of digital tools. Together, they form the foundation for a transformative advance in medicine, helping to move from reactive to preventative models of care.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233aa9dd3d07c0be93b0ac3_aki.jpg"
+        },
+        {
+            "id": 6885,
+            "title": "How evolutionary selection can train more capable self-driving cars",
+            "url": "https://www.deepmind.com/blog/how-evolutionary-selection-can-train-more-capable-self-driving-cars",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2019-07-25T00:00:00",
+            "description": "Waymo\u2019s self-driving vehicles employ neural networks to perform many driving tasks, from detecting objects and predicting how others will behave, to planning a car's next moves. Training an individual neural net has traditionally required weeks of fine-tuning and experimentation, as well as enormous amounts of computational power. Now, Waymo, in a research collaboration with DeepMind, has taken inspiration from Darwin\u2019s insights into evolution to make this training more effective and efficient.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622728f02ab0aa54e1fd42bb_Waymo.jpg"
+        },
+        {
+            "id": 6886,
+            "title": "Unsupervised learning: The curious pupil",
+            "url": "https://www.deepmind.com/blog/unsupervised-learning-the-curious-pupil",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-06-25T00:00:00",
+            "description": "Over the last decade, machine learning has made unprecedented progress in areas as diverse as image recognition, self-driving cars and playing complex games like Go. These successes have been largely realised by training deep neural networks with one of two learning paradigms\u2014supervised learning and reinforcement learning. Both paradigms require training signals to be designed by a human and passed to the computer. In the case of supervised learning, these are the \u201ctargets\u201d (such as the correct label for an image); in the case of reinforcement learning, they are the \u201crewards\u201d for successful behaviour (such as getting a high score in an Atari game). The limits of learning are therefore defined by the human trainers.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622727b52a4272604d9153bc_The%20curious%20puil%20copy.jpg"
+        },
+        {
+            "id": 6887,
+            "title": "Capture the Flag: the emergence of complex cooperative agents",
+            "url": "https://www.deepmind.com/blog/capture-the-flag-the-emergence-of-complex-cooperative-agents",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2019-05-30T00:00:00",
+            "description": "Mastering the strategy, tactical understanding, and team play involved in multiplayer video games represents a critical challenge for AI research. In our latest paper, now published in the journal Science, we present new developments in reinforcement learning, resulting in human-level performance in Quake III Arena Capture the Flag. This is a complex, multi-agent environment and one of the canonical 3D first-person multiplayer games. The agents successfully cooperate with both artificial and human teammates, and demonstrate high performance even when trained with reaction times comparable to human players. Furthermore, we show how these methods have managed to scale beyond research Capture the Flag environments to the full game of Quake III Arena.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622723a1c4b947a75d67cebe_CTF.jpg"
+        },
+        {
+            "id": 6888,
+            "title": "Identifying and eliminating bugs in learned predictive models",
+            "url": "https://www.deepmind.com/blog/identifying-and-eliminating-bugs-in-learned-predictive-models",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-03-28T00:00:00",
+            "description": "Bugs and software have gone hand in hand since the beginning of computer programming. Over time, software developers have established a set of best practices for testing and debugging before deployment, but these practices are not suited for modern deep learning systems. Today, the prevailing practice in machine learning is to train a system on a training data set, and then test it on another set. While this reveals the average-case performance of models, it is also crucial to ensure robustness, or acceptably high performance even in the worst case. In this article, we describe three approaches for rigorously identifying and eliminating bugs in learned predictive models: adversarial testing, robust learning, and formal verification.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227221ebd3d62c32663dc04_Eliminating%20Bugs%2001.jpg"
+        },
+        {
+            "id": 6889,
+            "title": "TF-Replicator: Distributed Machine Learning for Researchers",
+            "url": "https://www.deepmind.com/blog/tf-replicator-distributed-machine-learning-for-researchers",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2019-03-07T00:00:00",
+            "description": "At DeepMind, the Research Platform Team builds infrastructure to empower and accelerate our AI research. Today, we are excited to share how we developed TF-Replicator, a software library that helps researchers deploy their TensorFlow models on GPUs and Cloud TPUs with minimal effort and no previous experience with distributed systems. TF-Replicator\u2019s programming model has now been open sourced as part of TensorFlow\u2019s tf.distribute.Strategy. This blog post gives an overview of the ideas and technical challenges underlying TF-Replicator. For a more comprehensive description, please read our arXiv paper.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62272145d51bab9e28a6968c_TFR%2001.jpg"
+        },
+        {
+            "id": 6890,
+            "title": "Machine learning can boost the value of wind energy",
+            "url": "https://www.deepmind.com/blog/machine-learning-can-boost-the-value-of-wind-energy",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-02-26T00:00:00",
+            "description": "Carbon-free technologies like renewable energy help combat climate change, but many of them have not reached their full potential. Consider wind power: over the past decade, wind farms have become an important source of carbon-free electricity as the cost of turbines has plummeted and adoption has surged. However, the variable nature of wind itself makes it an unpredictable energy source\u2014less useful than one that can reliably deliver power at a set time.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227209f8d24a97bb870bb95_Wind%20Energy.jpg"
+        },
+        {
+            "id": 6891,
+            "title": "AlphaStar: Mastering the real-time strategy game StarCraft II",
+            "url": "https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-01-24T00:00:00",
+            "description": "Games have been used for decades as an important way to test and evaluate the performance of artificial intelligence systems. As capabilities have increased, the research community has sought games with increasing complexity that capture different elements of intelligence required to solve scientific and real-world problems. In recent years, StarCraft, considered to be one of the most challenging Real-Time Strategy (RTS) games and one of the longest-played esports of all time, has emerged by consensus as a \u201cgrand challenge\u201d for AI research.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62271c627468186071a560d5_AlphaStar%2001.jpg"
+        },
+        {
+            "id": 6892,
+            "title": "AlphaZero: Shedding new light on chess, shogi, and Go",
+            "url": "https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-12-06T00:00:00",
+            "description": "In late 2017 we introduced AlphaZero, a single system that taught itself from scratch how to master the games of chess, shogi (Japanese chess), and Go, beating a world-champion program in each case. We were excited by the preliminary results and thrilled to see the response from members of the chess community, who saw in AlphaZero\u2019s games a ground-breaking, highly dynamic and \u201cunconventional\u201d style of play that differed from any chess playing engine that came before it.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233ab99e961d9133104ecd4_alphazero.jpg"
+        },
+        {
+            "id": 6893,
+            "title": "AlphaFold: Using AI for scientific discovery",
+            "url": "https://www.deepmind.com/blog/alphafold-using-ai-for-scientific-discovery",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-12-02T00:00:00",
+            "description": "We\u2019re excited to share DeepMind\u2019s first significant milestone in demonstrating how artificial intelligence research can drive and accelerate new scientific discoveries. With a strongly interdisciplinary approach to our work, DeepMind has brought together experts from the fields of structural biology, physics, and machine learning to apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic sequence.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622692a1d3dd651033fdaf36_AlphaFold.jpg"
+        },
+        {
+            "id": 6894,
+            "title": "Scaling Streams with Google",
+            "url": "https://www.deepmind.com/blog/scaling-streams-with-google",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2018-11-13T00:00:00",
+            "description": "We\u2019re excited to announce that the team behind Streams - our mobile app that supports doctors and nurses to deliver faster, better care to patients - will be joining Google.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6895,
+            "title": "Predicting eye disease with Moorfields Eye Hospital",
+            "url": "https://www.deepmind.com/blog/predicting-eye-disease-with-moorfields-eye-hospital",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-11-05T00:00:00",
+            "description": "In August, we announced the first stage of our joint research partnership with Moorfields Eye Hospital, which showed how AI could match world-leading doctors at recommending the correct course of treatment for over 50 eye diseases, and also explain how it arrives at its recommendations.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6226921e60f7b54ebc1940fa_Moorfields.jpg"
+        },
+        {
+            "id": 6896,
+            "title": "Open sourcing TRFL: a library of reinforcement learning building blocks",
+            "url": "https://www.deepmind.com/blog/open-sourcing-trfl-a-library-of-reinforcement-learning-building-blocks",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2018-10-17T00:00:00",
+            "description": "Today we are open sourcing a new library of useful building blocks for writing reinforcement learning (RL) agents in TensorFlow. Named TRFL (pronounced \u2018truffle\u2019), it represents a collection of key algorithmic components that we have used internally for a large number of our most successful agents such as DQN, DDPG and the Importance Weighted Actor Learner Architecture.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6897,
+            "title": "Expanding our research on breast cancer screening to Japan",
+            "url": "https://www.deepmind.com/blog/expanding-our-research-on-breast-cancer-screening-to-japan",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "Six months ago, we joined a groundbreaking new research partnership led by the Cancer Research UK Imperial Centre at Imperial College London to explore whether AI technology could help clinicians diagnose breast cancers on mammograms quicker and more effectively.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6898,
+            "title": "Using AI to plan head and neck cancer treatments",
+            "url": "https://www.deepmind.com/blog/using-ai-to-plan-head-and-neck-cancer-treatments",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "Early results from our partnership with the Radiotherapy Department at University College London Hospitals NHS Foundation Trust suggest that we are well on our way to developing an artificial intelligence (AI) system that can analyse and segment medical scans of head and neck cancer to a similar standard as expert clinicians. This segmentation process is an essential but time-consuming step when planning radiotherapy treatment. The findings also show that our system can complete this process in a fraction of the time.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6899,
+            "title": "Preserving Outputs Precisely while Adaptively Rescaling Targets",
+            "url": "https://www.deepmind.com/blog/preserving-outputs-precisely-while-adaptively-rescaling-targets",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "Multi-task learning - allowing a single agent to learn how to solve many different tasks - is a longstanding objective for artificial intelligence research. Recently, there has been a lot of excellent progress, with agents like DQN able to use the same algorithm to learn to play multiple games including Breakout and Pong. These algorithms were used to train individual expert agents for each task. As artificial intelligence research advances to more complex real world domains, building a single general agent - as opposed to multiple expert agents - to learn to perform multiple tasks will be crucial. However, so far, this has proven to be a significant challenge.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6900,
+            "title": "Safety-first AI for autonomous data centre cooling and industrial control",
+            "url": "https://www.deepmind.com/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-08-17T00:00:00",
+            "description": "Many of society\u2019s most pressing problems have grown increasingly complex, so the search for solutions can feel overwhelming. At DeepMind and Google, we believe that if we can use AI as a tool to discover new knowledge, solutions will be easier to reach.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6226904c390ba6dea68c98e4_Data%20Centers.jpg"
+        },
+        {
+            "id": 6901,
+            "title": "A major milestone for the treatment of eye disease",
+            "url": "https://www.deepmind.com/blog/a-major-milestone-for-the-treatment-of-eye-disease",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-08-13T00:00:00",
+            "description": "We are delighted to announce the results of the first phase of our joint research partnership with Moorfields Eye Hospital, which could potentially transform the management of sight-threatening eye disease.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6902,
+            "title": "Objects that Sound",
+            "url": "https://www.deepmind.com/blog/objects-that-sound",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-08-06T00:00:00",
+            "description": "Visual and audio events tend to occur together: a musician plucking guitar strings and the resulting melody; a wine glass shattering and the accompanying crash; the roar of a motorcycle as it accelerates. These visual and audio stimuli are concurrent because they share a common cause. Understanding the relationship between visual events and their associated sounds is a fundamental way that we make sense of the world around us.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6903,
+            "title": "Measuring abstract reasoning in neural networks",
+            "url": "https://www.deepmind.com/blog/measuring-abstract-reasoning-in-neural-networks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2018-07-11T00:00:00",
+            "description": "Neural network-based models continue to achieve impressive results on longstanding machine learning problems, but establishing their capacity to reason about abstract concepts has proven difficult. Building on previous efforts to solve this important feature of general-purpose learning systems, our latest paper sets out an approach for measuring abstract reasoning in learning machines, and reveals some important insights about the nature of generalisation itself.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62268ddd6793150dac15b85b_Measuring%20abstract%20reasoning%20in%20neural%20networks.jpg"
+        },
+        {
+            "id": 6904,
+            "title": "DeepMind papers at ICML 2018",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-at-icml-2018",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2018-07-09T00:00:00",
+            "description": "The 2018 International Conference on Machine Learning will take place in Stockholm, Sweden from 10-15 July. For those attending and planning the week ahead, we are sharing a schedule of DeepMind presentations at ICML (you can download a pdf version here). We look forward to the many engaging discussions, ideas, and collaborations that are sure to arise from the conference!",
+            "thumbnail": null
+        },
+        {
+            "id": 6905,
+            "title": "DeepMind Health Response to Independent Reviewers' Report 2018",
+            "url": "https://www.deepmind.com/blog/deepmind-health-response-to-independent-reviewers-report-2018",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-06-15T00:00:00",
+            "description": "When we set up DeepMind Health we believed that pioneering technology should be matched with pioneering oversight. That\u2019s why when we launched in February 2016, we did so with an unusual and additional mechanism: a panel of Independent Reviewers, who meet regularly throughout the year to scrutinise our work. This is an innovative approach within tech companies - one that forces us to question not only what we are doing, but how and why we are doing it - and we believe that their robust challenges make us better.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6906,
+            "title": "Neural scene representation and rendering",
+            "url": "https://www.deepmind.com/blog/neural-scene-representation-and-rendering",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-06-14T00:00:00",
+            "description": "There is more than meets the eye when it comes to how we understand a visual scene: our brains draw on prior knowledge to reason and to make inferences that go far beyond the patterns of light that hit our retinas. For example, when entering a room for the first time, you instantly recognise the items it contains and where they are positioned. If you see three legs of a table, you will infer that there is probably a fourth leg with the same shape and colour hidden from view. Even if you can\u2019t see everything in the room, you\u2019ll likely be able to sketch its layout, or imagine what it looks like from another perspective.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62268ad7f70ee17e66e013f2_GQN.jpg"
+        },
+        {
+            "id": 6907,
+            "title": "Royal Free London publishes findings of legal audit in use of Streams",
+            "url": "https://www.deepmind.com/blog/royal-free-london-publishes-findings-of-legal-audit-in-use-of-streams",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2018-06-13T00:00:00",
+            "description": "Last July, the Information Commissioner concluded an investigation into the use of the Streams app at the Royal Free London NHS Foundation Trust. As part of the investigation the Royal Free signed up to a set of undertakings \u2013 one of which was to commission a third party to audit the Royal Free\u2019s current data processing arrangements with DeepMind, to ensure that they fully complied with data protection law and respected the privacy and confidentiality rights of its patients.You can read the full report on the Royal Free\u2019s website here, and the Information Commissioner\u2019s Office\u2019s response here.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

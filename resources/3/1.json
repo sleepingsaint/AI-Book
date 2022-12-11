@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14442,
+            "title": "Stacking Algorithms in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/stacking-algorithms-in-machine-learning/",
+            "authors": "Parth Shukla",
+            "tags": "Datetime, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Stacking is a well-known ensemble approach that uses two layers of machine learning algorithms to predict the samples.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Get-Certified-with-Free-Courses-in-Data-Science-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 14443,
+            "title": "Data Lineage- Why Are Businesses Eager to Invest?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/data-lineage-why-are-businesses-eager-to-invest/",
+            "authors": "Parth Shukla",
+            "tags": "Azure, Cloud Computing, Data Engineering, Intermediate",
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Data lineage is a process of getting an idea about where the data is coming from, analyzing it, and consuming it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/Window-functions-%E2%80%93-A-must-know-for-Data-Engineers-and-Data-ScientistsTop-5-GAN-Libraries-you-must-know.png"
+        },
+        {
+            "id": 14435,
+            "title": "Out of Bag (OOB) Score for Bagging in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/out-of-bag-oob-score-for-bagging-in-data-science/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2022-11-20T00:00:00",
+            "description": "Out of Bag score is the technique used in the bagging algorithms to measure each bottom model's error to reduce its absolute error.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/articles_img_main.jpg"
+        },
+        {
+            "id": 14419,
+            "title": "Analyzing and Comparing Deep Learning Models",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/analyzing-and-comparing-deep-learning-models/",
+            "authors": "Shibu Mohapatra",
+            "tags": "Deep Learning, Intermediate, Machine Learning",
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "This article talks about Deep Belief Networks, Deep Neural Networks, and Recurrent Neural Networks- some of the Deep Learning Models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 14429,
+            "title": "Understanding the Concepts of Teradata",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/understanding-the-concepts-of-teradata/",
+            "authors": "Shikha Sharma",
+            "tags": "Database, Programming, SQL",
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "The Teradata architecture is a Massively Parallel Processing(MPP) Architecture designed to handle large volumes of data with extreme ease.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Query-MongoDB-using-PyMongo.png"
+        },
+        {
+            "id": 14430,
+            "title": "Advantages of Using Cloud Data Platform Snowflake",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/advantages-of-using-cloud-data-platform-snowflake/",
+            "authors": "Kishan Yadav",
+            "tags": "Data Engineering, Data Warehouse, Database, Intermediate",
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Snowflake has become a popular choice as it supports multi-cloud infrastructure environments such as Amazon, Microsoft, and GCP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 1981,
+            "title": "Essential Pandas Operations You Must Bookmark Right Away",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/essential-pandas-operations-you-must-bookmark-right-away/",
+            "authors": "Rahul Shah",
+            "tags": "Intermediate, Machine Learning, Pandas, Python",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "The article talks about bookmark-worthy Pandas operations that are mostly generic, and one can modify them depending on the use cases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/68692how-to-clean-machine-learning-datasets-using-pandas-blog-hero.jpg"
+        },
+        {
+            "id": 13859,
+            "title": "Comprehensive Guide for Interview Questions on Transfer Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/comprehensive-guide-for-interview-questions-on-transfer-learning/",
+            "authors": "Drishti Sharma",
+            "tags": "Deep Learning, Guide, Intermediate, Interview Questions, Libraries, NLP",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "This article covers the twelve most important interview-winning questions on Transfer Learning that will help you ace your next interview.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/interview-g1de14034b_1280.png"
+        },
+        {
+            "id": 1982,
+            "title": "Top 6 Interview Questions on Nystr\u00f6mFormer",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-6-interview-questions-on-nystromformer/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, Data Engineering, Interview Questions, Machine Learning, NLP",
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "This article has a list of interview questions on Nystr\u00f6mformer that could help you become familiar with the topic ace your next interview!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview_questions.jpg"
+        },
+        {
+            "id": 1983,
+            "title": "Hierarchical Clustering in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/hierarchical-clustering-in-machine-learning/",
+            "authors": "Parth Shukla",
+            "tags": "Algorithm, Beginner, Machine Learning, Python",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "In this article, you will study about hierarchical clustering which is an unsupervised machine-learning clustering strategy.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/54575h_clustering.jpg"
+        },
+        {
+            "id": 1984,
+            "title": "Top Interview Questions on Voting Ensembles in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-interview-questions-on-voting-ensembles-in-machine-learning/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Interview Questions, Machine Learning",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "You will learn about voting ensembles concept in machine learning which will help you prepare for your job interview.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 1985,
+            "title": "How to Use DevOps Azure to Create CI and CD Pipelines?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/how-to-use-devops-azure-to-create-ci-and-cd-pipelines/",
+            "authors": "Sonia Singla",
+            "tags": "Azure, Beginner, Data Engineering, kubernetes, Machine Learning",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "In this article, we will discuss DevOps, its two phases, its advantages, and why we need DevOps along with CI and CD Pipelines.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.png"
+        },
+        {
+            "id": 1986,
+            "title": "State Space Search Optimization Using Local Search Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/state-space-search-optimization-using-local-search-algorithms/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Algorithm, Beginner",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "Local search algorithms work by keeping a single \"current\" state or small set of states and iteratively trying to improve them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/research.jpg"
+        },
+        {
+            "id": 1987,
+            "title": "Building Our Applications Using Flutter",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/building-our-applications-using-flutter/",
+            "authors": "Sonia Singla",
+            "tags": "Beginner, Data Exploration, Github, Python",
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "Flutter is a tool used in building cross-platform apps with less development cost and time to develop stunning outlook apps",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99981github-logo.png"
+        },
+        {
+            "id": 1988,
+            "title": "Top 8 Interview Questions on TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-8-interview-questions-on-tensorflow/",
+            "authors": "Drishti Sharma",
+            "tags": "Intermediate, Interviews, Linear Regression, Maths, Python",
+            "publishedOn": "2022-11-12T00:00:00",
+            "description": "This article has a list of frequently asked interview questions that might help you become more familiar with the TensorFlow framework.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/telephonic-interview_v-01-01.png"
+        },
+        {
+            "id": 1989,
+            "title": "Top 6 Interview Questions on Transformer",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-6-interview-questions-on-transformer/",
+            "authors": "Drishti Sharma",
+            "tags": "Data Engineering, Intermediate, Interview Questions, Machine Learning, NLP",
+            "publishedOn": "2022-11-12T00:00:00",
+            "description": "The article covers interview-winning questions to help you become more familiar with the transformer model and ace your next interview!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview.png"
+        },
+        {
+            "id": 1990,
+            "title": "Data Science Blogathon 26th Edition",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/data-science-blogathon-26th-edition/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement, AWS, Azure, Blockchain, Data Engineering, Interview Questions, MLops, Web 3.0",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Analytics Vidhya is excited to announce the 26th edition of the Data Science Blogathon. So, start writing your data science articles today.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/08/blogathon.jpg"
+        },
+        {
+            "id": 1991,
+            "title": "How does User Authentication work with FACEIO?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/how-does-user-authentication-work-with-faceio/",
+            "authors": "Ahmed Qureshi",
+            "tags": "Computer Vision, Image, Intermediate, Object Detection, Python",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "FACEIO employs front cameras or standard webcams for authentication. For facial recognition, it doesn\u2019t need any other sensors.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 1992,
+            "title": "Top 5 Interview Questions on Missing Value Imputation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-5-interview-questions-on-missing-value-imputation/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Data Exploration, Interview Questions, Machine Learning",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "This article talks about missing value imputation interview questions with their core intuition and working mechanism behind them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/discussion.jpg"
+        },
+        {
+            "id": 1993,
+            "title": "Feature Selection 101: The Manual For Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/feature-selection-101-the-manual-for-beginners/",
+            "authors": "Yamini Ane",
+            "tags": "Beginner, Machine Learning, Videos",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "feature selection is the process of choosing an optimal subset of attributes according to a certain criterion.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/55626ML-on-Android-feature-img.png"
+        },
+        {
+            "id": 1994,
+            "title": "Advance Guide on Interview Questions of Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/advance-guide-on-interview-questions-of-deep-learning/",
+            "authors": "Aryan Garg",
+            "tags": "Advanced, Deep Learning, Interview Questions",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "This article talks about the most common questions in Deep Learning Interviews to prepare you for your future interviews.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/07/nervous-job-interview.jpg"
+        },
+        {
+            "id": 1995,
+            "title": "Getting Started with Important Cloud Security Protocols",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/getting-started-with-important-cloud-security-protocols/",
+            "authors": "Aditya Garg",
+            "tags": "Beginner, Cloud Computing, Cyber Security",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "Cloud security is the practice of protecting data and information that is stored on or accessed through a cloud computing service.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/security.jpeg"
+        },
+        {
+            "id": 1996,
+            "title": "A Brief Guide to Emotion Cause Pair Extraction in NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/a-brief-guide-to-emotion-cause-pair-extraction-in-nlp/",
+            "authors": "Nivetha B",
+            "tags": "Advanced, NLP, Technique, Unstructured Data",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "This blog covers Emotion Cause Pair Extraction, its historical approach, why we need it, how it works, and techniques to extract emotions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/text-768x284.jpg"
+        },
+        {
+            "id": 1997,
+            "title": "Top 10 Interview Questions on Gradient Boosting Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-10-interview-questions-on-gradient-boosting/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Data Science, Interview Questions, Machine Learning",
+            "publishedOn": "2022-11-05T00:00:00",
+            "description": "Here are some important interview questions related to gradient boosting algorithms in data science and the mathematical formulations behind.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/data-science-leadership-role.png"
+        },
+        {
+            "id": 1998,
+            "title": "Introduction to DistilBERT in Student Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/introduction-to-distilbert-in-student-model/",
+            "authors": "Drishti Sharma",
+            "tags": "Artificial Intelligence, BERT, Cloud Computing, Intermediate, NLP",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "This blog covers a detailed overview of DistilBERT and how it can be utilized in student models for on-device applications.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.jpg"
+        },
+        {
+            "id": 1999,
+            "title": "Creating a Music Streaming Backend Like Spotify Using MongoDB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/creating-a-music-streaming-backend-like-spotify-using-mongodb/",
+            "authors": "WoolDoughnut310",
+            "tags": "Advanced, Data Engineering, Database, Guide, MongoDB, NoSQL, Programming, SQL",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "This article explains how to work with MongoDB t if we need to create our own Spotify backend clone, all with NodeJS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/11167spotify-logo-1920x1080-2.jpg"
+        },
+        {
+            "id": 2000,
+            "title": "Amazon S3: Everything You Need to Know",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/amazon-s3-everything-you-need-to-know/",
+            "authors": "Ansaba R B",
+            "tags": "AWS, Beginner, Data Engineering",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Amazon S3 (Simple Storage Service) is an efficient object-based storage service used with REST and SOAP interfaces.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2001,
+            "title": "Top 9 Most Tricky Interview Questions on OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-9-most-tricky-interview-questions-on-opencv/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Computer Vision, Image, Image Analysis, OpenCV",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "The career path for whoever chooses OpenCV as the tool is computer vision developer or IOT Engineer and also in AR/VR.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/telephonic-interview_v-01-01.png"
+        },
+        {
+            "id": 2002,
+            "title": "Comprehensive Guide to BERT",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/comprehensive-guide-to-bert/",
+            "authors": "Ganeshi Shreya",
+            "tags": "Advanced, BERT, NLP, Sentiment Analysis",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "This blog speaks about the role of transformers like BERT have brought in NLP, architecture, model sizes, and sentiment analysis using BERT.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 2003,
+            "title": "Interview Questions on AdaBoost Algorithm in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/interview-questions-on-adaboost-algorithm-in-data-science/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Interview Questions, Machine Learning",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "In this article, learn about interview questions and prepare for your job interviews related to the AdaBoost algorithm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 104,
+            "title": "Get better insight from reviews using Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-better-insight-from-reviews-using-amazon-comprehend/",
+            "authors": "Rushdi Shams, Gurpreet Kaur Cheema, Wrick Talukdar",
+            "tags": "Amazon Comprehend, Amazon QuickSight, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "\u201c85% of buyers trust online reviews as much as a personal recommendation\u201d \u2013 Gartner Consumers are increasingly engaging with businesses through digital surfaces and multiple touchpoints. Statistics show that the majority of shoppers use reviews to determine what products to buy and which services to use. As per Spiegel Research Centre, the purchase likelihood for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/Picture4-4.png"
+        },
+        {
+            "id": 105,
+            "title": "Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
+            "authors": "Sean Morgan, Sumedha Swamy",
+            "tags": "Amazon SageMaker, AWS Glue, Intermediate (200)",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. AWS Glue is a serverless data integration service that makes it easy to discover, prepare, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/aws-glue-interactive-sessions.jpg"
+        },
+        {
+            "id": 106,
+            "title": "Save the date: Join AWS at NVIDIA GTC, September 19\u201322",
+            "url": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
+            "authors": "Jeremy Singh",
+            "tags": "Thought Leadership",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "Register free for NVIDIA GTC to learn from experts on how AI and the evolution of the 3D internet are profoundly impacting industries\u2014and society as a whole. We have prepared several AWS sessions to give you guidance on how to use AWS services powered by NVIDIA technology to meet your goals. Amazon Elastic Compute Cloud [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/12/save-the-date-nvidia-2022.jpg"
+        },
+        {
+            "id": 107,
+            "title": "How Medidata used Amazon SageMaker asynchronous inference to accelerate ML inference predictions up to 30 times faster",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-medidata-used-amazon-sagemaker-asynchronous-inference-to-accelerate-ml-inference-predictions-up-to-30-times-faster/",
+            "authors": "Rajnish Jain, Priyanka Kulkarni, Daniel Johnson, Arunprasath Shankar, Raghu Ramesha",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "This post is co-written with Rajnish Jain, Priyanka Kulkarni and Daniel Johnson from Medidata. Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical devices, and diagnostics companies as well as academic researchers with accelerating value, minimizing risk, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/12/medidata-sagemaker.jpg"
+        },
+        {
+            "id": 108,
+            "title": "Deploy large models on Amazon SageMaker using DJLServing and DeepSpeed model parallel inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/",
+            "authors": "Frank Liu, Alan Tan, Dhawalkumar Patel, Qing Lan, Qingwei Li, Robert Van Dusen",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "The last few years have seen rapid development in the field of natural language processing (NLP). Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large language models. Today, we announce new capabilities in Amazon SageMaker that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/deploy-large-models.jpg"
+        },
+        {
+            "id": 109,
+            "title": "Tips to improve your Amazon Rekognition Custom Labels model",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
+            "authors": "Amit Gupta, Hao Yang, Pashmeen Mistry, Yogesh Chaturvedi",
+            "tags": "Amazon Rekognition, Artificial Intelligence, AWS Management Console, Intermediate (200)",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "In this post, we discuss best practices to improve the performance of your computer vision models using Amazon Rekognition Custom Labels. Rekognition Custom Labels\u00a0is a fully managed service to build custom computer vision models for image classification and object detection use cases. Rekognition Custom Labels builds off of the pre-trained models in Amazon Rekognition, which [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/tips-for-rekognition-custom-models.jpg"
+        },
+        {
+            "id": 110,
+            "title": "Use ADFS OIDC as the IdP for an Amazon SageMaker Ground Truth private workforce",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
+            "authors": "Adeleke Coker, Aishwarya Kaushal",
+            "tags": "Amazon SageMaker JumpStart, Technical How-to",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "To train a machine learning (ML) model, you need a large, high-quality, labeled dataset. Amazon SageMaker Ground Truth helps you build high-quality training datasets for your ML models. With Ground Truth, you can use workers from either Amazon Mechanical Turk, a vendor company of your choosing, or an internal, private workforce to enable you to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/adfs-oidc-sagemaker-ground-truth.jpg"
+        },
+        {
+            "id": 111,
+            "title": "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-2-building-a-personalized-show-recommendation-platform-using-amazon-sagemaker/",
+            "authors": "Tulip Gupta, Jeff Christophersen, David Kuo, Manolya McCormick",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it\u2019s important to tailor the user experience to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-2.jpg"
+        },
+        {
+            "id": 112,
+            "title": "How Amp on Amazon used data to increase customer engagement, Part 1: Building a data analytics platform",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-1-building-a-data-analytics-platform/",
+            "authors": "Tulip Gupta, Jeff Christophersen, David Kuo, Manolya McCormick",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "Amp, the new live radio app from Amazon, is a reinvention of radio featuring human-curated live audio shows. It\u2019s designed to provide a seamless customer experience to listeners and creators by debuting interactive live audio shows from your favorite artists, radio DJs, podcasters, and friends. However, as a new product in a new space for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-1.jpg"
+        },
+        {
+            "id": 113,
+            "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+            "authors": "Kanwaljit Khurmi, Tyler Kalbach, Victor Krylov, Sasank Vemuri, Anu Tumkur, William Tsen",
+            "tags": "Amazon Cognito, Amazon RDS, Customer Solutions",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "This is a guest blog post cowritten with athenahealth. athenahealth\u00a0a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access, driving better financial outcomes for its customers and enabling its provider customers to deliver better quality [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg"
+        },
+        {
+            "id": 114,
+            "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
+            "authors": "Ashish Khetan, Raju Penmatcha, Joao Moura, Vivek Madan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised learning. They can process various types of input data, including tabular, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/tenworflow-image-classification-sagemaker.jpg"
+        },
+        {
+            "id": 115,
+            "title": "Improve transcription accuracy of customer-agent calls with custom vocabulary in Amazon Transcribe",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe/",
+            "authors": "Sarat Guttikonda, Lavanya Sood",
+            "tags": "Advanced (300), Amazon Transcribe",
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "Many AWS customers have been successfully using Amazon Transcribe to accurately, efficiently, and automatically convert their customer audio conversations to text, and extract actionable insights from them. These insights can help you continuously enhance the processes and products that directly improve the quality and experience for your customers. In many countries, such as India, English [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/transcription-accuracy-transcribe.jpg"
+        },
+        {
+            "id": 116,
+            "title": "Detect audio events with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
+            "authors": "Greg Sommerville, Jeff Harman",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2022-09-06T00:00:00",
+            "description": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection, and it has a number of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png"
+        },
+        {
+            "id": 117,
+            "title": "How The Chefz serves the perfect meal with Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-the-chefz-serves-the-perfect-meal-with-amazon-personalize/",
+            "authors": "Ramzi Alqrainy, Mohammed Ezzat",
+            "tags": "Amazon Personalize, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-09-02T00:00:00",
+            "description": "This is a guest post by Ramzi Alqrainy, Chief Technology Officer, The Chefz. The Chefz is a Saudi-based online food delivery startup, founded in 2016. At the core of The Chefz\u2019s business model is enabling its customers to order food and sweets from top elite restaurants, bakeries, and chocolate shops. In this post, we explain [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/02/Featured-images-for-ML-11251.jpg"
+        },
+        {
+            "id": 118,
+            "title": "Distributed training with Amazon EKS and Torch Distributed Elastic",
+            "url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/",
+            "authors": "Imran Younus, Alex Iankoulski",
+            "tags": "Amazon Elastic Kubernetes Service, Intermediate (200)",
+            "publishedOn": "2022-09-02T00:00:00",
+            "description": "Distributed deep learning model training is becoming increasingly important as data sizes are growing in many industries. Many applications in computer vision and natural language processing now require training of deep learning models, which are growing exponentially in complexity and are often trained with hundreds of terabytes of data. It then becomes important to use [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/02/Featured-images-for-ML-9589.jpg"
+        },
+        {
+            "id": 119,
+            "title": "Learn how Amazon SageMaker Clarify helps detect bias",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
+            "authors": "Bilal Zafar, Denis V. Batalov, Michele Donini",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2022-09-01T00:00:00",
+            "description": "Bias detection in data and model outcomes is a fundamental requirement for building responsible artificial intelligence (AI) and machine learning (ML) models. Unfortunately, detecting bias isn\u2019t an easy task for the vast majority of practitioners due to the large number of ways in which it can be measured and different factors that can contribute to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/01/Featured-images-for-ML-9368.jpg"
+        },
+        {
+            "id": 120,
+            "title": "Create a batch recommendation pipeline using Amazon Personalize with no code",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/",
+            "authors": "Maxine Wee",
+            "tags": "Advanced (300), Amazon Personalize, AWS Glue, Technical How-to",
+            "publishedOn": "2022-08-30T00:00:00",
+            "description": "With personalized content more likely to drive customer engagement, businesses continuously seek to provide tailored content based on their customer\u2019s profile and behavior. Recommendation systems in particular seek to predict the preference an end-user would give to an item. Some common use cases include product recommendations on online retail stores, personalizing newsletters, generating music playlist [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/batch-recommendation-personalize.jpg"
+        },
+        {
+            "id": 121,
+            "title": "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
+            "authors": "Ram Vittal, Maira Ladeira Tanke, Gabriel Zylka",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2022-08-29T00:00:00",
+            "description": "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API calls. Customers are increasingly adopting multi-account architectures for deploying and managing machine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/sagemaker-pipeline-sharing.jpg"
+        },
+        {
+            "id": 122,
+            "title": "Explore Amazon SageMaker Data Wrangler capabilities with sample datasets",
+            "url": "https://aws.amazon.com/blogs/machine-learning/explore-amazon-sagemaker-data-wrangler-capabilities-with-sample-datasets/",
+            "authors": "David Laredo, Parth Patel",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence, Technical How-to",
+            "publishedOn": "2022-08-29T00:00:00",
+            "description": "Data preparation is the process of collecting, cleaning, and transforming raw data to make it suitable for insight extraction through machine learning (ML) and analytics. Data preparation is crucial for ML and analytics pipelines. Your model and insights will only be as reliable as the data you use for training them. Flawed data will produce [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/Featured-images-for-ML-10626.jpg"
+        },
+        {
+            "id": 123,
+            "title": "Run image segmentation with Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/",
+            "authors": "Vivek Madan, Leonardo Bachega, Santoshkumar Kulkarni",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-08-26T00:00:00",
+            "description": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular ML tasks, as well as a selection of end-to-end solutions that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/24/image-segmentation-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 124,
+            "title": "Process mortgage documents with intelligent document processing using Amazon Textract and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
+            "authors": "Anjan Biswas, Balaji Puli, Dwiti Pathak",
+            "tags": "Advanced (300), Amazon Comprehend, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2022-08-26T00:00:00",
+            "description": "Organizations in the lending and mortgage industry process thousands of documents on a daily basis. From a new mortgage application to mortgage refinance, these business processes involve hundreds of documents per application. There is limited automation available today to process and extract information from all the documents, especially due to varying formats and layouts. Due [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/Arch-Diag-Mortgage.jpg"
+        },
+        {
+            "id": 125,
+            "title": "Achieve low-latency hosting for decision tree-based ML models on NVIDIA Triton Inference Server on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/achieve-low-latency-hosting-for-decision-tree-based-ml-models-on-nvidia-triton-inference-server-on-amazon-sagemaker/",
+            "authors": "James Park, Bruno Aguiar de Melo, Eliuth Triana, Jiahong Liu, Kshitiz Gupta",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "Machine learning (ML) model deployments can have very demanding performance and latency requirements for businesses today. Use cases such as fraud detection and ad placement are examples where milliseconds matter and are critical to business success. Strict service level agreements (SLAs) need to be met, and a typical request may require multiple steps such as [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/achieve-low-latency.jpg"
+        },
+        {
+            "id": 126,
+            "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
+            "authors": "Sathya Balakrishnan, Paul Joireman",
+            "tags": "Advanced (300), Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "In the digital world, providing information in a local language isn\u2019t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual data and document processing workloads. Enterprise [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg"
+        },
+        {
+            "id": 127,
+            "title": "AWS Deep Learning Challenge sees innovative and impactful use of Amazon EC2 DL1 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
+            "authors": "Dvij Bajpai, Amr Ragab, Shruti Koparkar",
+            "tags": "Amazon Machine Learning, Compute",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "In the AWS Deep Learning Challenge held from January 5, 2022, to March 1, 2022, participants from academia, startups, and enterprise organizations joined to test their skills and train a deep learning model of their choice using Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances and Habana\u2019s SynapseAI SDK. The EC2 DL1 instances powered by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/23/Site-Merch-Design_Amazon-EC2_DL1_Blog.png"
+        },
+        {
+            "id": 128,
+            "title": "Conduct what-if analyses with Amazon Forecast, up to 80% faster than before",
+            "url": "https://aws.amazon.com/blogs/machine-learning/conduct-what-if-analyses-with-amazon-forecast-up-to-80-faster-than-before/",
+            "authors": "Brandon Nair, Akhil Raj Azhikodan, Conner Smith, Shannon Killingsworth",
+            "tags": "Amazon Forecast, Amazon Machine Learning, Announcements",
+            "publishedOn": "2022-08-23T00:00:00",
+            "description": "Now with Amazon Forecast, you can seamlessly conduct what-if analyses up to 80% faster to analyze and quantify the potential impact of business levers on your demand forecasts. Forecast is a service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience. Simulating scenarios through what-if analyses is a powerful [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/15/1-1.jpg"
+        },
+        {
+            "id": 129,
+            "title": "Intelligently search Alfresco content using Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
+            "authors": "Vikas Shah",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations use the content management platform Alfresco to store [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/22/alfresco-kendra.jpg"
+        },
+        {
+            "id": 130,
+            "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
+            "authors": "Yuhui Liang, Shishuai Wang",
+            "tags": "Amazon SageMaker, Best Practices, Tensorflow on AWS",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data scientist\u2019s daily jobs, but they face the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/04/ML-9755-thumbnail.png"
+        },
+        {
+            "id": 131,
+            "title": "Run PyTorch Lightning and native PyTorch DDP on Amazon SageMaker Training, featuring Amazon Search",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-pytorch-lightning-and-native-pytorch-ddp-on-amazon-sagemaker-training-featuring-amazon-search/",
+            "authors": "Emily Webber, Abhinandan Patni, Mayank Jha, Karan Dhiman, Eiman Elnahrawy, Vishwa Karia",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "So much data, so little time. Machine learning (ML) experts, data scientists, engineers and enthusiasts have encountered this problem the world over. From natural language processing to computer vision, tabular to time series, and everything in-between, the age-old problem of optimizing for speed when running data against as many GPUs as you can get has [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/18/Featured-images-for-ML-11236.jpg"
+        },
+        {
+            "id": 132,
+            "title": "Visualize your Amazon Lookout for Metrics anomaly results with Amazon QuickSight",
+            "url": "https://aws.amazon.com/blogs/machine-learning/visualize-your-amazon-lookout-for-metrics-anomaly-results-with-amazon-quicksight/",
+            "authors": "Beno\u00eet de Patoul, Paul Troiano",
+            "tags": "Amazon Lookout for Metrics, Amazon QuickSight, Artificial Intelligence, Technical How-to",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "One of the challenges encountered by teams using Amazon Lookout for Metrics is quickly and efficiently connecting it to data visualization. The anomalies are presented individually on the Lookout for Metrics console, each with their own graph, making it difficult to view the set as a whole. An automated, integrated solution is needed for deeper [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/18/lookout-for-metrics-quicksight.jpg"
+        },
+        {
+            "id": 133,
+            "title": "AWS Localization uses Amazon Translate to scale localization",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
+            "authors": "Marie-Alice Daniel, Ajit Manuel",
+            "tags": "Amazon Translate, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "The AWS website is currently available in 16 languages (12 for the AWS Management Console and for technical documentation): Arabic, Chinese Simplified, Chinese Traditional, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Thai, Turkish, and Vietnamese. Customers all over the world gain hands-on experience with the AWS platform, products, and services in their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/17/aws-localization-translate.jpg"
+        }
+    ]
+}

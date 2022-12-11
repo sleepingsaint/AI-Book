@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2184,
+            "title": "Exploratory Data Analysis of Zomato Bangalore Restaurants",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/exploratory-data-analysis-of-zomato-bangalore-restaurants/",
+            "authors": "Yamini Ane",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2022-09-17T00:00:00",
+            "description": "In this article, we performed exploratory data analysis on the Zomato Bangalore Restaurants dataset based on various ratings.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/data-visualization-whiz.png"
+        },
+        {
+            "id": 2185,
+            "title": "Underlying Engineering Behind Alexa\u2019s Contextual ASR",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/underlying-engineering-behind-alexas-contextual-asr/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Intermediate, NLP",
+            "publishedOn": "2022-09-17T00:00:00",
+            "description": "In this article, we'll understand the need for contextual ASR, how the context vector is created in Alexa, and issues this process presents.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/sound-1449118.png"
+        },
+        {
+            "id": 2186,
+            "title": "How to Deploy a Machine Learning Model on AWS EC2",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-to-deploy-a-machine-learning-model-on-aws-ec2/",
+            "authors": "Raghav Agrawal",
+            "tags": "AWS, Beginner, Machine Learning, Python",
+            "publishedOn": "2022-09-16T00:00:00",
+            "description": "In this article, we will learn about deploying a Machine learning model on the AWS cloud using a top-rated AWS EC2 service.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        },
+        {
+            "id": 2187,
+            "title": "Hindi Character Recognition on Android using TensorFlow Lite",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/hindi-character-recognition-on-android-using-tensorflow-lite/",
+            "authors": "Nitin Tiwari",
+            "tags": "Computer Vision, Intermediate, Libraries, Python",
+            "publishedOn": "2022-09-16T00:00:00",
+            "description": "In this article, we'll build a Hindi character recognition app, with a dataset of your own choice or simply following the steps given.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/TENSORFLOW-chilli.png"
+        },
+        {
+            "id": 2188,
+            "title": "Upcoming DataHour Sessions: Book your Calendars!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/upcoming-datahour-sessions-book-your-calendars/",
+            "authors": "Deeksha Rana",
+            "tags": "Analytics Vidhya, Announcement, Interview Questions, Videos",
+            "publishedOn": "2022-09-16T00:00:00",
+            "description": "In this article, you will get to know all about the upcoming DataHour Sessions on our platform. Book your calendar now!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/09/article.jpg"
+        },
+        {
+            "id": 2189,
+            "title": "DuckDB: An Introduction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/duckdb-an-introduction/",
+            "authors": "Ci\u00eancia De Dados Com R",
+            "tags": "Beginner, Data Engineering, Database, Python, SQL",
+            "publishedOn": "2022-09-15T00:00:00",
+            "description": "Learn about DuckDB, how to read and write CSVs and Parquet files, summarize your table, and install and use DBeaver Community SQL IDE.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2190,
+            "title": "Contextual Spelling Correction of the ASR Systems",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/contextual-spelling-correction-for-the-customization/",
+            "authors": "Drishti Sharma",
+            "tags": "Deep Learning, Intermediate, NLP",
+            "publishedOn": "2022-09-15T00:00:00",
+            "description": "We will discuss the technique for contextual biasing, which entails adding a contextual spelling correction model on ASR system.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/36865text_recognition2x.png"
+        },
+        {
+            "id": 2191,
+            "title": "How is MLOps Different from DevOps?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-is-mlops-different-from-devops/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Data Engineering, kubernetes, Machine Learning, MLops",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "In this article, you learned the important features of MLOps and the key differences from traditional DevOps practices.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/78414MachineLearningforHVAC-4.jpg"
+        },
+        {
+            "id": 2192,
+            "title": "MLOps and Use of Kubernetes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/mlops-and-use-of-kubernetes/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Data Engineering, kubernetes, Machine Learning, MLops, Model Deployment",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "MLOps is a framework that focuses on collaboration between data scientists and the operations unit within an organization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg"
+        },
+        {
+            "id": 2193,
+            "title": "Complete Guide to a Decentralized Exchange \u2013 PancakeSwap",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-a-decentralized-exchange-pancakeswap/",
+            "authors": "Myron Dsilva",
+            "tags": "Banking, Blockchain, Guide, Intermediate, Technology",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "PancakeSwap allows users to easily swap, stake, farm their crypto assets, participate in contests, and offer many more features.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2194,
+            "title": "Fast API, Docker and AWS ECS to Deploy ML Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/fast-api-docker-and-aws-ecs-to-deploy-machine-learning-model/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "AWS, Beginner, Data Engineering, Machine Learning, Python",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "In this article, create a spam classifier model with pandas, and Scikit learns and serves it with Fast API and web API with Docker.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/81090Techniques-for-Proper-API-Caching.png"
+        },
+        {
+            "id": 2195,
+            "title": "Frequent Itemset Mining Using MapReduce on Hadoop",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/frequent-itemset-mining-using-mapreduce-on-hadoop/",
+            "authors": "Nitin Tiwari",
+            "tags": "Big data, Data Engineering, Hadoop, Intermediate",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "This article tries to solve the Hands-on practical Frequent Itemset Mining using the MapReduce algorithm on Hadoop.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Understanding-the-Hadoop-Ecosystem.jpg"
+        },
+        {
+            "id": 2196,
+            "title": "Implementing a Machine Learning Pipeline Using PySpark Library",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/implementing-a-machine-learning-pipeline-using-pyspark-library/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Engineering, Deep Learning, Machine Learning, python, Spark",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "In this article, we will be predicting the famous machine learning problem statement, i.e. Titanic Survival Prediction, using PySpark MLIB.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 2197,
+            "title": "How to Detect your Food from Different Images?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-to-detect-your-food-from-different-images/",
+            "authors": "Sonia Singla",
+            "tags": "Computer Vision, Image Analysis, Intermediate, Libraries, Python, Technology",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "This article talks about different images stored in the folder, and now we will use the Pigeon library to annotate the unlabeled dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2198,
+            "title": "The 6 Steps of Predictive Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/the-6-steps-of-predictive-analytics/",
+            "authors": "Yamini Ane",
+            "tags": "Beginner, Data Science, Data Visualization, Machine Learning",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "Predictive analytics is used for solving real-time problems, forecasting the weather of a place or predicting the future scope of a business.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/Predictive-modeling.png"
+        },
+        {
+            "id": 2199,
+            "title": "Dealing with Outliers Using the IQR Method",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/dealing-with-outliers-using-the-iqr-method/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Libraries, Maths, Statistics",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "In this article, we will take up the dataset and will work with skewed data as in real-world projects using IQR Method.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.png"
+        },
+        {
+            "id": 2200,
+            "title": "Everything You Need to Know About Histograms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/everything-you-need-to-know-about-histograms/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Visualization, Infographic, Libraries, Probability, Python",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "In this article, we will cover everything about Histograms, i.e. when we should use histograms, learn how it distributes the data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70583featured-data-visualization.png"
+        },
+        {
+            "id": 2201,
+            "title": "How to Use Data to Drive your Marketing Strategy?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-to-use-data-to-drive-your-marketing-strategy/",
+            "authors": "Hariharan",
+            "tags": "Beginner, Data Science, Digital Marketing",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "In this article you will learn how to analyze marketing data properly using data science as a tool to make the marketing strategy.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/marketing.png"
+        },
+        {
+            "id": 2202,
+            "title": "Data Warehouses: Basic Concepts for data enthusiasts",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-warehouses-basic-concepts-for-data-enthusiasts/",
+            "authors": "Bhavesh Sree Sai",
+            "tags": "Beginner, Data Engineering, Data Science, Data Warehouse",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "Data Warehouses improves the speed and efficiency of accessing different datasets and helps decision-makers to derive insights.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2203,
+            "title": "Implementing Count Vectorizer and TF-IDF in NLP using PySpark",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/implementing-count-vectorizer-and-tf-idf-in-nlp-using-pyspark/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Machine Learning, NLP, Python",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "In this article, we will discuss two tools of NLP: Count Vectorizer and TF-IDF, that are equally important for NLP applications,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        },
+        {
+            "id": 2204,
+            "title": "All you Need to Know About AutoEncoders in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/all-you-need-to-know-about-autoencoders-in-2022/",
+            "authors": "Akash Das",
+            "tags": "Autoencoder, Beginner, Deep Learning",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "An autoencoders consists of three parts: encoder, code, and decoder. Both the encoder and decoder are simple feedforward neural networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 2205,
+            "title": "Blockchain : Proof-of-Work (PoW)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/blockchain-proof-of-work-pow/",
+            "authors": "ANURAG SINGH CHOUDHARY",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "Proof-of-Work (PoW) in the blockchain is a mechanism allows miners to add a new block to the network-based on finding the perfect hash.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2206,
+            "title": "Blockchain Technology and its Types",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/blockchain-technology-and-its-types/",
+            "authors": "ANURAG SINGH CHOUDHARY",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-09-11T00:00:00",
+            "description": "Blockchain technology is a decentralized, distributed ledger that keeps a record of ownership of digital assets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2207,
+            "title": "Data visualization for One-dimensional Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-visualization-for-one-dimensional-data/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2022-09-11T00:00:00",
+            "description": "This article highlights perks of data visualization, and the way it adapts to one-dimensional or multi-dimensional data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/graphics.jpg"
+        },
+        {
+            "id": 2208,
+            "title": "Understanding Word Embeddings and Building your First RNN Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/understanding-word-embeddings-and-building-your-first-rnn-model/",
+            "authors": "Avikumar Talaviya",
+            "tags": "Beginner, Deep Learning, Maths",
+            "publishedOn": "2022-09-10T00:00:00",
+            "description": "RNN Model are widely used in text data classification tasks and can be implemented using the Keras library of python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/NLP_RNN.jpg"
+        },
+        {
+            "id": 2209,
+            "title": "Introduction to Smart Contracts",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/introduction-to-smart-contracts/",
+            "authors": "Anusha Meghawat",
+            "tags": "Beginner, Blockchain, Web 3.0",
+            "publishedOn": "2022-09-10T00:00:00",
+            "description": "Smart contracts can be widely used by businesses across domains like healthcare, e-commerce, real estate, decentralized finance, and more.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/joshua-woroniecki-_hcBtOKOOo0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2210,
+            "title": "Data Science Blogathon 24th Edition",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/data-science-blogathon-24th-edition/",
+            "authors": "Meetu Arora",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence, Blockchain, Cryptocurrency, Data Science, Deep Learning, Machine Learning, MLops, Web 3.0",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "This article covers the registration process, prize, bonus rewards, and all you need to know about Data Science Blogathon 24.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/blogathon-10.png"
+        },
+        {
+            "id": 2211,
+            "title": "Exploratory Data Analysis (EDA) on Lead Scoring Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/exploratory-data-analysis-eda-on-lead-scoring-dataset/",
+            "authors": "Akash Sharma",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2022-09-08T00:00:00",
+            "description": "Exploratory Data Analysis is an important part of any Data Science project. The philosophy is to examine the data before building any model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/95811exploratory-data-analysis.jpg"
+        },
+        {
+            "id": 2212,
+            "title": "Containerization World with Docker and Kubernetes for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/containerization-world-with-docker-and-kubernetes-for-beginners/",
+            "authors": "Leandro Araujo Developer",
+            "tags": "Beginner, Data Engineering, kubernetes, MLops, Model Deployment",
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "The Kubernetes has the docker in your architecture performing an easy-to-use way of containers and services that containerization provides us.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/Kubernetes.png"
+        },
+        {
+            "id": 2213,
+            "title": "Top 7 Cloud Computing Prerequisites to Learn in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/top-7-cloud-computing-prerequisites-to-learn-in-2022/",
+            "authors": "Meetu Arora",
+            "tags": "Cloud Computing, Cyber Security, Database, Learning Path",
+            "publishedOn": "2022-09-06T00:00:00",
+            "description": "This article covers educating beginners on learning about cloud computing prerequisites and to build a successful career in cloud computing.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/17092419/cloud-computing-1484538_960_720.png"
+        }
+    ]
+}

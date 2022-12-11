@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2634,
+            "title": "Explaining Writing Dockerfile with Examples",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/writing-dockerfile-is-simple/",
+            "authors": "Paul Issack",
+            "tags": "Data Engineering, Docker, Intermediate",
+            "publishedOn": "2022-06-07T00:00:00",
+            "description": "In this article we will be learning all there is out regarding writing the Dockerfile and making it a simple process.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Docker-based-Python-.jpg"
+        },
+        {
+            "id": 2635,
+            "title": "Introduction to Keycloak",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/introduction-to-keycloak/",
+            "authors": "Paul Issack",
+            "tags": "Intermediate, Machine Learning",
+            "publishedOn": "2022-06-07T00:00:00",
+            "description": "In this article we will be learning all about the nitty gritties of keycloak and how is it deployed in the realm of Data Science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/h-heyerlein-ndja2LJ4IcM-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2636,
+            "title": "Hive Advance: Performance Tuning Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/hive-advance-performance-tuning-techniques/",
+            "authors": "Rahul Patidar",
+            "tags": "Advanced, Data Engineering, Guide, Python, Technique",
+            "publishedOn": "2022-06-07T00:00:00",
+            "description": "In this article we will discuss in detail about advance topic in hive which are required for Data-Engineering",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Getting-started-with-apache-hive.jpg"
+        },
+        {
+            "id": 2637,
+            "title": "Video Game Clustering Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/video-game-clustering-using-python/",
+            "authors": "Subhradeep Rang",
+            "tags": "Intermediate, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article we will be understanding about the entire Video Game Clustering while deploying the Language of Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Types-of-Methods-in-Python.jpg"
+        },
+        {
+            "id": 2638,
+            "title": "What are Schemas in Data Warehouse Modeling?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/what-are-schemas-in-data-warehouse-modeling/",
+            "authors": "Mitali Avhad",
+            "tags": "Data Engineering, Data Warehouse, Database, Intermediate, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article, you will learn about data warehouse modeling. It is the process of constructing a data warehouse containing essential data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2639,
+            "title": "Machine Learning for Heart Disease Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/machine-learning-for-heart-disease-prediction/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Classification, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article we will be learning in detail about the nuances of Machine Learning for Heart Disease Prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 2640,
+            "title": "Gradio App for Translating Spanish Audio",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/gradio-app-for-translating-spanish-audio/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Datasets, Intermediate, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In light of this, here is an attempt to create a Gradio app for\u00a0translating Spanish audio transcriptions to Nahuatl text.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/app.png"
+        },
+        {
+            "id": 2641,
+            "title": "An End to End Guide on NLP Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/an-end-to-end-guide-on-nlp-pipeline/",
+            "authors": "Shankar297",
+            "tags": "Intermediate, NLP",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article we will be learning in depth about the comprehensive guide on the NLP Pipeline and why it is important.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/nlp-models.png"
+        },
+        {
+            "id": 2642,
+            "title": "Text Detection Using CRAFT Text Detector",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/text-detection-using-craft-text-detector/",
+            "authors": "Arvind N",
+            "tags": "Beginner, Python, PyTorch, Text",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article, we study the \"Character region Awareness for Text Detection\" model by Clova AI research, Naver Corp.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 2643,
+            "title": "Some Misconceptions About Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/some-misconceptions-about-machine-learning/",
+            "authors": "Murugesan Narayanaswamy",
+            "tags": "Datasets, Intermediate, Machine Learning",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article, we will be learning all about some of the misconceptions all related to the topic Machine Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.jpg"
+        },
+        {
+            "id": 2644,
+            "title": "A Complete Guide on Using MongoDB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/a-complete-guide-on-using-mongodb/",
+            "authors": "Ritika Gupta",
+            "tags": "Data Engineering, Intermediate, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article we will be understanding in depth about the complete guide on using MongoDB for Data Science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-in-MongoDB-using-PyMongo.jpg"
+        },
+        {
+            "id": 2645,
+            "title": "Get to Know About Machine Learning Life Cycle",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/machine-learning-life-cycle/",
+            "authors": "Ninad Bhase",
+            "tags": "Beginner, Data Visualization, Machine Learning",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "The machine learning life cycle is a cyclic process to build an efficient machine learning project and find a solution to the problem.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/h-heyerlein-ndja2LJ4IcM-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2646,
+            "title": "Deploying Django App on Google Compute Engine",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/deploying-django-app-on-google-compute-engine/",
+            "authors": "Aryan Garg",
+            "tags": "Cloud Computing, Intermediate, Machine Learning",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "In this article we will be learning all about deploying Django application and that too on Google Compute Engine.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-%E2%80%93-Difference-Between-OLTP-and-OLAP-1.jpg"
+        },
+        {
+            "id": 2647,
+            "title": "Support Vector Machine with Kernels and Python Iterators",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/support-vector-machine-with-kernels-and-python-iterators/",
+            "authors": "Kavish111",
+            "tags": "Algorithm, Beginner, Machine Learning, Python",
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "We will learn about some Support Vector Machine with Kernels, such as Linear, Polynomial, RBF and SVM algorithms in his daily work.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/52024support-vector-machine-cover.jpg"
+        },
+        {
+            "id": 2648,
+            "title": "All About Restaurant Recommender",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/all-about-restaurant-recommender/",
+            "authors": "Harsh Nandwana",
+            "tags": "Guide, Intermediate, Machine Learning, Python, Recommendation",
+            "publishedOn": "2022-06-05T00:00:00",
+            "description": "In this article we will be unraveling all the details like what is a restaurant recommender and why it is important?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Article-Recommender.png"
+        },
+        {
+            "id": 2649,
+            "title": "Automatic Speech Recognition Using Wav2Vec2",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/automatic-speech-recognition-using-wav2vec2/",
+            "authors": "Drishti Sharma",
+            "tags": "Advanced, Audio, Python",
+            "publishedOn": "2022-06-05T00:00:00",
+            "description": "In this article we will be looking at how to do automatic speech recognition employing Wav2Vec2 with Gradio Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/speech-recognition.jpg"
+        },
+        {
+            "id": 2650,
+            "title": "E-Commerce Customer Churn Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/e-commerce-customer-churn-prediction/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Classification, E-Commerce, Machine Learning",
+            "publishedOn": "2022-06-04T00:00:00",
+            "description": "In this article you will be learning in depth about the e-commerce customer churn prediction in the year of 2022.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/customer-churn-edit.jpeg"
+        },
+        {
+            "id": 2651,
+            "title": "Top 5 Networking Predictions in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/top-5-networking-predictions-in-2022/",
+            "authors": "Raj Dodiya",
+            "tags": "Artificial Intelligence, Intermediate, Listicle",
+            "publishedOn": "2022-06-04T00:00:00",
+            "description": "In this article, we will be understanding in depth about the top five networking predictions befitted for the year of 2022.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/64630Neural_Networks_2880x1620-2048x1152-1.jpg"
+        },
+        {
+            "id": 2652,
+            "title": "Understanding DML Triggers in SQL Server",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/understanding-dml-triggers-in-sql-server/",
+            "authors": "Chaitanya Shah",
+            "tags": "Data Engineering, Intermediate, Python, SQL",
+            "publishedOn": "2022-06-04T00:00:00",
+            "description": "In this article we will be understand in depth about what is DML Triggers and why it is important in SQL Server.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 2653,
+            "title": "One Class Classification Using Support Vector Machines",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/one-class-classification-using-support-vector-machines/",
+            "authors": "Vasudeva Kilaru",
+            "tags": "Advanced, Algorithm, Classification, Machine Learning, Python",
+            "publishedOn": "2022-06-03T00:00:00",
+            "description": "In this article, learn how the support vector machines helps to understand the problem statements that involve anomaly detection.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Image-Classification-Model-Deployed-Using-Flask-1.jpg"
+        },
+        {
+            "id": 2654,
+            "title": "Building a Food Image Classifier using Fastai",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/building-a-food-image-classifier-using-fastai/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Classification, Computer Vision, Image Analysis, Intermediate, Libraries, Python",
+            "publishedOn": "2022-06-03T00:00:00",
+            "description": "In this article, you will learn how to build a food image classifier using a library called 'Fastai'. Sounds exciting?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/80721Fastaijl.jpg"
+        },
+        {
+            "id": 2655,
+            "title": "Comparison of Different SQL Clauses",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/comparison-of-different-sql-clauses/",
+            "authors": "Anushkakhatri",
+            "tags": "Beginner, Data Engineering, SQL",
+            "publishedOn": "2022-06-03T00:00:00",
+            "description": "In this article, we will explain the functionalities and differences between the HAVING and WHERE SQL clauses using an example.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Keys.jpg"
+        },
+        {
+            "id": 2656,
+            "title": "Use a Load Balancer on Google Cloud to Host Web Applications",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/use-a-load-balancer-on-google-cloud-to-host-web-applications/",
+            "authors": "Aryan Garg",
+            "tags": "Beginner, Cloud Computing, Web Analytics",
+            "publishedOn": "2022-06-03T00:00:00",
+            "description": "In this article, learn to use a load balancer on Google Cloud which will help you to host web applications and much more!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/google-cloud-platform2.jpg"
+        },
+        {
+            "id": 2657,
+            "title": "The DataHour: How to Transition into Data Science?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/the-datahour-how-to-transition-into-data-science/",
+            "authors": "Anshul Singh",
+            "tags": "Analytics Vidhya, Announcement, Data Science, Interview Questions, Videos",
+            "publishedOn": "2022-06-03T00:00:00",
+            "description": "The DataHour Session will take you through some basics about entering into the Data Science Industry. And you willing to make a transition?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/og7.png"
+        },
+        {
+            "id": 2658,
+            "title": "An End-to-End Starter Guide on Apache Spark and RDD",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/an-end-to-end-starter-guide-on-apache-spark-and-rdd/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Big data, Data Engineering, Intermediate, Python, Spark",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "In this article, we would discuss how the Big data ecosystem is made, and tools like Apache Spark and RDD help to make it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/3.png"
+        },
+        {
+            "id": 2659,
+            "title": "Data Analysis Project for Beginners Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/data-analysis-project-for-beginners-using-python/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Data Science, Project, Python",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "In this tutorial, learn data analysis that will boost your confidence to learn more about data analysis projects and start your journey.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/data-science-projects.jpg"
+        },
+        {
+            "id": 2660,
+            "title": "Building an Autoencoder in TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/building-an-autoencoder-in-tensorflow/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Advanced, Autoencoder, Libraries, Python",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "We will learn the architecture and working of an autoencoder by building and training a simple autoencoder using the classical MNIST dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Tensorflow-.jpg"
+        },
+        {
+            "id": 2661,
+            "title": "An Introduction to Data Warehouse",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/an-introduction-to-data-warehouse/",
+            "authors": "Amandeep Gill",
+            "tags": "Beginner, Data Engineering, Data Warehouse",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "In this article, we will learn what a data warehouse is as well as its types, characteristics, benefits, and disadvantages.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2662,
+            "title": "Neural Networks and Deep Learning with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/neural-networks-and-deep-learning-with-python/",
+            "authors": "Karpuram Dhanalakshmi Srivani",
+            "tags": "Beginner, Data Visualization, Deep Learning",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "In this article, we will see how to set up Neural Networks and Deep Neural Networks, and also how to design the model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/74722Performance-of-Neural-Networks.png"
+        },
+        {
+            "id": 2663,
+            "title": "An Introduction to Joins in MySQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/an-introduction-to-joins-in-mysql/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Data Engineering, Database, SQL",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "In this article, you would learn about different types of Joins available in MySQL. Read to learn more about MySQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        }
+    ]
+}

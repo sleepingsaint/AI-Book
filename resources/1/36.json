@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1034,
+            "title": "Deploying PyTorch models for inference at scale using TorchServe",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-pytorch-models-for-inference-at-scale-using-torchserve/",
+            "authors": "Shashank Prasanna, Manoj Rao",
+            "tags": "Artificial Intelligence, PyTorch on AWS",
+            "publishedOn": "2020-04-21T00:00:00",
+            "description": "Many services you interact with today rely on machine learning (ML). From online search and product recommendations to speech recognition and language translation, these services need ML models to serve predictions. As ML finds its way into even more services, you face the challenge of taking the results of your hard work and deploying the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/20/deploying-pytorch-torchserve-1-2.gif"
+        },
+        {
+            "id": 1035,
+            "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents/",
+            "authors": "Anuj Gupta, Talia Chopra, Pranav Sachdeva",
+            "tags": "Amazon Augmented AI, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-04-17T00:00:00",
+            "description": "Documents are a primary tool for record keeping, communication, collaboration, and transactions across many industries, including financial, medical, legal, and real estate. For example, millions of mortgage applications and hundreds of millions of tax forms are processed each year. Documents are often unstructured, which means the content\u2019s location or format may vary between two otherwise [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1036,
+            "title": "Smarter FAQ bots with Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/smarter-faq-bots-with-amazon-kendra/",
+            "authors": "Brian Yost, Harshal Pimpalkhute, Niranjan Hira",
+            "tags": "Amazon Kendra, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-04-17T00:00:00",
+            "description": "We often have questions when making a choice about a product or service. When was the last time you found yourself at the IT help desk at work? You probably had questions like \u201cWhat time does the IT Help Desk open?\u201d or \u201cCan I get a temporary machine while you repair my laptop?\u201d \u00a0Quick and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/09/smarter-faq-kendra-1.gif"
+        },
+        {
+            "id": 1037,
+            "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translating-your-website-or-application-automatically-with-amazon-translate-in-your-ci-cd-pipeline/",
+            "authors": "Carlos Afonso",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-04-17T00:00:00",
+            "description": "AWS allows you to deploy websites and applications globally in minutes. This means that both large enterprises and individual developers can reach users, and thus potential customers, all over the world. However, to provide the best experience, you should not only serve content close to your customers, but also make that content available in their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/16/translating-your-website-1.gif"
+        },
+        {
+            "id": 1038,
+            "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
+            "authors": "Jay Allen",
+            "tags": "Artificial Intelligence, AWS IQ, Customer Enablement, Top Posts",
+            "publishedOn": "2020-04-16T00:00:00",
+            "description": "The recent post Working from Home? Here\u2019s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best\u2014and achieved more quickly\u2014with expert help. You can get the help you need with AWS IQ, which connects you to AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-1.gif"
+        },
+        {
+            "id": 1039,
+            "title": "Spanish Newscaster speaking style now available in Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/spanish-newscaster-speaking-style-now-available-in-amazon-polly/",
+            "authors": "Marta Smolarek",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-04-16T00:00:00",
+            "description": "Amazon Polly is launching its first non-English Newscaster speaking style voice, Lupe. This female US Spanish voice is the third Newscaster speaking style voice in Amazon Polly, following the launches of US English voices Matthew and Joanna. All Newscaster voices are made possible by the Neural Text-to-Speech (NTTS) technology of Amazon Polly. News content is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1040,
+            "title": "Reduce inference costs on Amazon EC2 for PyTorch models with Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-costs-on-amazon-ec2-for-pytorch-models-with-amazon-elastic-inference/",
+            "authors": "David Fan, Srinivas Hanabe",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2020-04-13T00:00:00",
+            "description": "You can now use Amazon Elastic Inference to accelerate inference and reduce inference costs for PyTorch models in both Amazon SageMaker and Amazon EC2. PyTorch is a popular deep learning framework that uses dynamic computational graphs. This allows you to easily develop deep learning models with imperative and idiomatic Python code. Inference is the process [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/09/reduce-inference-costs-1-1008x630.png"
+        },
+        {
+            "id": 1041,
+            "title": "Amazon Translate added to Memsource Translate, Memsource\u2019s machine translation management feature",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature/",
+            "authors": "Jitka Hankova",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-04-13T00:00:00",
+            "description": "This is a guest post from Memsource. In their own words, \u201cBy leading the industry in AI-powered translation technology, we make localization easier, faster, and more cost-effective.\u201d Memsource and Amazon Translate are strengthening their partnership. You can now use Amazon Translate with Memsource Translate, Memsource\u2019s machine translation (MT) management feature. Many Memsource users share a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1042,
+            "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/",
+            "authors": "Koushik Kalyanaraman, Andrea Morandi, Talia Chopra",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-04-07T00:00:00",
+            "description": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build accurately labeled machine learning (ML) datasets. To decrease labeling costs, SageMaker Ground Truth uses active learning to differentiate between data objects (like images or documents) that are difficult and easy to label. Difficult data objects are sent to human workers to be annotated and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1043,
+            "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
+            "authors": "Kayoko Yanagisawa",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-04-07T00:00:00",
+            "description": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis for a variety of use cases, including [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1044,
+            "title": "Introducing recommendation scores in Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-scores-in-amazon-personalize/",
+            "authors": "Brandon Huang",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-04-06T00:00:00",
+            "description": "Amazon Personalize enables you to personalize your website, app, ads, emails, and more, using the same machine learning technology as used by Amazon.com, without requiring any prior machine learning experience. Using Amazon Personalize, you can generate personalized recommendations for your users through a simple API interface. We are pleased to announce that Amazon Personalize now [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/06/recommendation-scores-3-799x630.gif"
+        },
+        {
+            "id": 1045,
+            "title": "Deploying machine learning models as serverless APIs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-machine-learning-models-as-serverless-apis/",
+            "authors": "Anders Christiansen",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2020-04-02T00:00:00",
+            "description": "Machine learning (ML) practitioners gather data, design algorithms, run experiments, and evaluate the results. After you create an ML model, you face another problem: serving predictions at scale cost-effectively. Serverless technology empowers you to serve your model predictions without worrying about how to manage the underlying infrastructure. Services like AWS Lambda only charge for the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/01/deploy-machine-learning-model-apis-1.jpg"
+        },
+        {
+            "id": 1046,
+            "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks/",
+            "authors": "Yahav Biran, Bharathan Balaji, Murali Balakrishnan Narayanaswamy",
+            "tags": "Amazon Elastic Kubernetes Service, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-04-02T00:00:00",
+            "description": "As a multiplayer game publisher, you may often need to either over-provision resources or manually manage compute allocation when launching or maintaining an online game to avoid long player wait times. You need to develop, configure, and deploy tools that help you monitor and control the compute allocation. This post demonstrates GameServer Autopilot, a new [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/14/reducing-player-wait-time-1.gif"
+        },
+        {
+            "id": 1047,
+            "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger/",
+            "authors": "Alexander Carlson, Niraj Jetly, Nathalie Rauschmayr, Satadal Bhattacharjee",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-03-31T00:00:00",
+            "description": "This post is co-written by Alexander Carlson, a machine learning engineer at Autodesk. Autodesk started its digital transformation journey years ago by moving workloads from private data centers to AWS services. The benefits of digital transformation are clear with generative design, which is a new technology that uses cloud computing to accelerate design exploration beyond [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/autodesk-2.gif"
+        },
+        {
+            "id": 1048,
+            "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
+            "url": "https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/",
+            "authors": "Nathalie Rauschmayr, Julien Simon, Satadal Bhattacharjee",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-03-31T00:00:00",
+            "description": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters that you train on large training datasets. For instance, the BERT [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif"
+        },
+        {
+            "id": 1049,
+            "title": "Increasing performance and reducing the cost of MXNet inference using Amazon SageMaker Neo and Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/increasing-performance-and-reducing-the-cost-of-mxnet-inference-using-amazon-sagemaker-neo-and-amazon-elastic-inference/",
+            "authors": "Dheepan Ramanan, Jimmy Wong, Ryan Gillespie",
+            "tags": "Amazon Elastic Inference, Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2020-03-31T00:00:00",
+            "description": "When running deep learning models in production, balancing infrastructure cost versus model latency is always an important consideration. At re:Invent 2018, AWS introduced Amazon SageMaker Neo and Amazon Elastic Inference, two services that can make models more efficient for deep learning. In most deep learning applications, making predictions using a trained model\u2014a process called inference\u2014can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/06/dl-on-sm-1.gif"
+        },
+        {
+            "id": 1050,
+            "title": "Analyzing and optimizing Amazon Lex conversations using Dashbot",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-optimizing-amazon-lex-conversations-using-dashbot/",
+            "authors": "Arte Merritt, Brian Yost, Harshal Pimpalkhute",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-03-25T00:00:00",
+            "description": "This post is co-written by Arte Merritt, co-founder and CEO of Dashbot. In their own words, \u201cDashbot is an analytics platform for chatbots and voice skills that enables enterprises to increase engagement, satisfaction, and conversions through actionable insights and tools.\u201d After you have deployed a bot, it is critical to analyze bot interactions, learn from [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/dashbot-9.gif"
+        },
+        {
+            "id": 1051,
+            "title": "AWS delivers sessions online at NVIDIA GTC Digital",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-delivers-sessions-online-at-nvidia-gtc-digital/",
+            "authors": "Geoff Murase",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2020-03-24T00:00:00",
+            "description": "Starting Tuesday, March 24, 2020, NVIDIA GTC Digital is offering courses for you to learn AWS best practices to accomplish your ML goals faster and more easily. Registration is free, so register now. The following sessions are available from AWS: S22492: Train BERT in One Hour Using Massive Cloud Scale Distributed Deep Learning Learn how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/25/nvidia-aws.png"
+        },
+        {
+            "id": 1052,
+            "title": "Building a trash sorter with AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+            "authors": "Todd Reagan, Juan Bustos, Jeff Keyes, Phu Nguyen, Raj Kadiyala, Lakshay Sharma, Varun Rao Bhamidimarri",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepLens, AWS IoT Greengrass, Internet of Things",
+            "publishedOn": "2020-03-24T00:00:00",
+            "description": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom data. Image classification is a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif"
+        },
+        {
+            "id": 1053,
+            "title": "Making accurate energy consumption predictions with Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
+            "authors": "Neelam Koshiya, Rohit Menon, Bernie Wang",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-03-24T00:00:00",
+            "description": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing cloud infrastructure usage. With Forecast, there are no servers to provision [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif"
+        },
+        {
+            "id": 1054,
+            "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
+            "authors": "Pierre Marieu",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-03-23T00:00:00",
+            "description": "Amazon CodeGuru (Preview) analyzes your application\u2019s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help you troubleshoot which code methods are causing delays or using too much CPU. This [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif"
+        },
+        {
+            "id": 1055,
+            "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/",
+            "authors": "Jay Rao, Nikiforos Botis",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-03-20T00:00:00",
+            "description": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the language of their choice. While this is a great [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/batch-translation-6.gif"
+        },
+        {
+            "id": 1056,
+            "title": "Converting your content to audio for free with Trinity Audio WordPress plugin",
+            "url": "https://aws.amazon.com/blogs/machine-learning/converting-your-content-to-audio-for-free-with-trinity-audio-wordpress-plugin/",
+            "authors": "Ron Jaworski",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-03-19T00:00:00",
+            "description": "This is a guest post by Ron Jaworski, co-founder and CEO of Trinity Audio. In their own words, \u201cTrinity Audio is an audio content solution platform that caters to publishers and content creators of all types and sizes worldwide, and helps them join the ongoing audio revolution by turning readers into listeners, creating the experience [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1057,
+            "title": "Reduce ML inference costs on Amazon SageMaker for PyTorch models using Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-inference-costs-on-amazon-sagemaker-for-pytorch-models-using-amazon-elastic-inference/",
+            "authors": "David Fan, Srinivas Hanabe",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2020-03-18T00:00:00",
+            "description": "Today, we are excited to announce that you can now use Amazon Elastic Inference to accelerate inference and reduce inference costs for PyTorch models in both Amazon SageMaker and Amazon EC2. PyTorch is a popular deep learning framework that uses dynamic computational graphs. This allows you to easily develop deep learning models with imperative and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/PyTorch-SM-EI-Blogpost-1-989x630.png"
+        },
+        {
+            "id": 1058,
+            "title": "Building an AI-powered Battlesnake with reinforcement learning on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-battlesnake-with-reinforcement-learning-on-amazon-sagemaker/",
+            "authors": "Jonathan Chung, Anna Luo, Bharathan Balaji, Vishaal Kapoor, Xavier Raffin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-03-13T00:00:00",
+            "description": "Battlesnake is an AI competition based on the traditional snake game in which multiple AI-powered snakes compete to be the last snake surviving. Battlesnake attracts a community of developers at all levels. Hundreds of snakes compete and rise up in the ranks in the online Battlesnake global arena. Battlesnake also hosts several offline events that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/12/battlesnake-sagemaker-13.gif"
+        },
+        {
+            "id": 1059,
+            "title": "Creating a machine learning-powered REST API with Amazon API Gateway mapping templates and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-machine-learning-powered-rest-api-with-amazon-api-gateway-mapping-templates-and-amazon-sagemaker/",
+            "authors": "Mike Rizzo",
+            "tags": "Amazon API Gateway, Amazon SageMaker, Artificial Intelligence, Top Posts",
+            "publishedOn": "2020-03-13T00:00:00",
+            "description": "July 2022: Post was reviewed for messaging and accuracy. Amazon SageMaker enables organizations to build, train, and deploy machine learning models. Consumer-facing organizations can use it to enrich their customers\u2019 experiences, for example, by making personalized product recommendations, or by automatically tailoring application behavior based on customers\u2019 observed preferences. When building such applications, one key [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/04/api-gateway-sagemaker-2.png"
+        },
+        {
+            "id": 1060,
+            "title": "Training batch reinforcement learning policies with Amazon SageMaker RL",
+            "url": "https://aws.amazon.com/blogs/machine-learning/training-batch-reinforcement-learning-policies-with-amazon-sagemaker-rl/",
+            "authors": "Sireesha Muppala, Anna Luo, Bharathan Balaji, Yijie Zhuang",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-03-11T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. In addition to building ML models using more commonly used supervised and unsupervised learning techniques, you can also build reinforcement learning (RL) models using Amazon SageMaker RL. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/03/batch-rl-1.gif"
+        },
+        {
+            "id": 1061,
+            "title": "The AWS DeepRacer League: The 2020 season is underway as the Virtual Circuit opens for racing!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deepracer-league-the-2020-season-is-underway-as-the-virtual-circuit-opens-for-racing/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2020-03-02T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first autonomous racing league and is open to anyone. In 2019, tens of thousands of developers from around the world took part in a race against the clock to see who had the fastest model. The competition ended with SOLA from Japan taking home the grand prize and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/02/deepracer-2020-3-694x630.gif"
+        },
+        {
+            "id": 1062,
+            "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
+            "authors": "Seongik Hong",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-02-28T00:00:00",
+            "description": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. It is becoming a ground-breaking tool for molecular discovery due to the exponential growth of available computer time and constant improvement of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif"
+        },
+        {
+            "id": 1063,
+            "title": "Optimizing application performance with Amazon CodeGuru Profiler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-application-performance-with-amazon-codeguru-profiler/",
+            "authors": "Isaac Jordan",
+            "tags": "Amazon CodeGuru, Artificial Intelligence",
+            "publishedOn": "2020-02-27T00:00:00",
+            "description": "Amazon CodeGuru (Preview) is a service launched at AWS re:Invent 2019 that analyzes the performance characteristics of your application and provides automatic recommendations on ways to improve. It does this by profiling your application\u2019s runtime (with CodeGuru Profiler) and by automatically reviewing source code changes (with CodeGuru Reviewer). For more information, see What Is Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/26/codeguru-5.gif"
+        }
+    ]
+}

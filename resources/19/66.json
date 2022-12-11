@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 12410,
+            "title": "Efficient Biomedical Segmentation When Only a Few Label Images Are Available",
+            "url": "https://towardsai.net/p/computer-vision/efficient-biomedical-segmentation-when-only-a-few-label-images-are-available",
+            "authors": "Makoto TAKAMATSU",
+            "tags": null,
+            "publishedOn": "2020-12-17T00:00:00",
+            "description": "A Proposal for State-of-the-Art Unsupervised Segmentation Using Contrastive Learning Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*dlpb8oxxJkaf2jIa"
+        },
+        {
+            "id": 12411,
+            "title": "Natural Language Processing (NLP)",
+            "url": "https://towardsai.net/p/nlp/natural-language-processing-nlp",
+            "authors": "Johar M. Ashfaque",
+            "tags": null,
+            "publishedOn": "2020-12-17T00:00:00",
+            "description": "Author(s): Johar M. Ashfaque Source: Pixabay Everything we express (either verbally or in written) carries huge amounts of information. The topic we choose, our tone, our...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*Jl-XkP-tY2iraWLujWaCcg.png"
+        },
+        {
+            "id": 12412,
+            "title": "Estimation Of Water Usage",
+            "url": "https://towardsai.net/p/programming/estimation-of-water-usage",
+            "authors": "Santhosh Bandaru",
+            "tags": null,
+            "publishedOn": "2020-12-17T00:00:00",
+            "description": "Measuring the water that we use for our daily needs using Sensors Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/753/1*9sKsacx5PAEqrMEyx8iRAg.jpeg"
+        },
+        {
+            "id": 12413,
+            "title": "Spoken Language Recognition Using Convolutional Neural Networks",
+            "url": "https://towardsai.net/p/deep-learning/spoken-language-recognition-using-convolutional-neural-networks-6aec5963eb18",
+            "authors": "Joscha Simon Rieber",
+            "tags": null,
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "def add_noise(audio_segment, gain): num_samples = audio_segment.shape[0] noise = gain * numpy.random.normal(size=num_samples) return audio_segment + noise Data Preprocessing...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*-74a3VaurSpav7cl"
+        },
+        {
+            "id": 12414,
+            "title": "Understand Your Limitations as a Data Scientist",
+            "url": "https://towardsai.net/p/data-science/understand-your-limitations-as-a-data-scientist",
+            "authors": "Benjamin Obi Tayo Ph.D.",
+            "tags": null,
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "To be successful in the real world, you can\u2019t work in isolation. You need a team on your side Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*6WmSJ0e5htIZo_ES"
+        },
+        {
+            "id": 12415,
+            "title": "Skin for Robots and Why It\u2019s Crucial",
+            "url": "https://towardsai.net/p/technology/skin-for-robots-and-why-its-crucial",
+            "authors": "Florian Geiser",
+            "tags": null,
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "Sorry Star Wars, this is not how humanoid droids will look like in the future! Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*j_JEqIwYkDNGdiPe"
+        },
+        {
+            "id": 12416,
+            "title": "Transfer Learning",
+            "url": "https://towardsai.net/p/machine-learning/transfer-learning",
+            "authors": "Johar M. Ashfaque",
+            "tags": null,
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "Author(s): Johar M. Ashfaque Source: Unsplash Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*xldIGwYC7xgREmCShQptbg.png"
+        },
+        {
+            "id": 12417,
+            "title": "Developing Your First REST API with Python using the Flask Framework",
+            "url": "https://towardsai.net/p/programming/developing-your-first-rest-api-with-python-using-the-flask-framework",
+            "authors": "Sanket Kangle",
+            "tags": null,
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "API stands for application programming interface; it is an intermediate interface for the website or mobile application to communicate with the backend logic. In simple terms...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*hSinxt8-O2R-18Oy"
+        },
+        {
+            "id": 12418,
+            "title": "Time-Series Forecasting: Predicting Stock Prices Using Facebook\u2019s Prophet Model",
+            "url": "https://towardsai.net/p/data-science/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model",
+            "authors": "Serafeim Loukas",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "In this post I show you how to predict stock prices using a forecasting model publicly available from Facebook Data Science team: The\u2026 Continue reading on Towards AI \u00bb...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*hnJmoDkR6-inqCe_JRxW0w.png"
+        },
+        {
+            "id": 12419,
+            "title": "Let\u2019s Compress the CNN Training Like a JPEG Compression",
+            "url": "https://towardsai.net/p/deep-learning/lets-compress-the-cnn-training-like-a-jpeg-compression",
+            "authors": "Makoto TAKAMATSU",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "State-of-the-art data preprocessing methods Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*aG55xYfv1laghNqm"
+        },
+        {
+            "id": 12420,
+            "title": "Remote Data Science Boot Camps For Everyone",
+            "url": "https://towardsai.net/p/education/remote-data-science-boot-camps-for-everyone",
+            "authors": "Frederik Bussler",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "Think twice before you go the traditional path. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*IjuoB0J2HSsqwWYE"
+        },
+        {
+            "id": 12421,
+            "title": "Can We Live Without Google?",
+            "url": "https://towardsai.net/p/technology/can-we-live-without-google",
+            "authors": "Jair Ribeiro",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "Google has become our primary form of external memory for many uses, but can we live without it, today? Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*y4FVSpuezg9Zb4tl"
+        },
+        {
+            "id": 12422,
+            "title": "NumPy Hacks for Data Manipulation",
+            "url": "https://towardsai.net/p/data-science/numpy-hacks-for-data-manipulation",
+            "authors": "George Pipis",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "Useful NumPy hacks for Data Science pipelines through reproducible and practical examples Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*WI1BQQHJfi2RnAyR.png"
+        },
+        {
+            "id": 12423,
+            "title": "For Safety Reasons, Self-Driving Cars Must Not Miss Detecting the Signs",
+            "url": "https://towardsai.net/p/self-driving-cars/for-safety-reasons-self-driving-cars-must-not-miss-detecting-the-signs",
+            "authors": "Makoto TAKAMATSU",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "The cutting edge of false negative detection research Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*z6hZuQfUoQdbe5Pr"
+        },
+        {
+            "id": 12424,
+            "title": "How I Use Docker To Train Rasa 2.1.x Bots On A GPU",
+            "url": "https://towardsai.net/p/machine-learning/how-i-use-docker-to-train-rasa-2-1-x-bots-on-a-gpu",
+            "authors": "___",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "Train your model without messing around with CUDA and cuDNN drivers Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/600/1*2Iv5K937cuv5mK-Jnn6lcg.png"
+        },
+        {
+            "id": 12425,
+            "title": "A Comprehensive Guide To Genetic Algorithms\u200a\u2014\u200aThe ELI5 Way",
+            "url": "https://towardsai.net/p/programming/a-comprehensive-guide-to-genetic-algorithms%e2%80%8a-%e2%80%8athe-eli5-way",
+            "authors": "Dasaradh S K",
+            "tags": null,
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1400/0*UambwL7iJjjEERaZ.jpg"
+        },
+        {
+            "id": 12426,
+            "title": "How To Build Your Own Neural Network in the Go Programming Language",
+            "url": "https://towardsai.net/p/deep-learning/how-to-build-your-own-neural-network-in-the-go-programming-language",
+            "authors": "Dasaradh S K",
+            "tags": null,
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "Let\u2019s build a simple neural network completely from scratch Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1400/1*6Kn68RFH0QMQ7gPSpulh0A.png"
+        },
+        {
+            "id": 12427,
+            "title": "Launch Your Data Science Journey in 2021",
+            "url": "https://towardsai.net/p/data-science/launch-your-data-science-journey-in-2021",
+            "authors": "Benjamin Obi Tayo Ph.D.",
+            "tags": null,
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "5 Reasons why you should begin your data science journey in 2021 Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*BLh2RbOmA5oz4_xf"
+        },
+        {
+            "id": 12428,
+            "title": "Data Science Evaluation Metrics\u200a\u2014\u200aUnravel Algorithms",
+            "url": "https://towardsai.net/p/data-science/data-science-evaluation-metrics%e2%80%8a-%e2%80%8aunravel-algorithms",
+            "authors": "Maximilian St\u00e4bler",
+            "tags": null,
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "Accuracy: 0.71 Precision: 0.5244 Recall: 0.8543 Well, well, well\u2026 One can clearly see that all metrics have dropped dramatically. I do not want to diminish the influence of the...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*pnQa_5B3SdT1Ov2o"
+        },
+        {
+            "id": 12429,
+            "title": "How Smart Can Machines Get",
+            "url": "https://towardsai.net/p/technology/how-smart-can-machines-get",
+            "authors": "Rakshit Dwivedi",
+            "tags": null,
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "AI is exponentially growing, making it smarter and smarter each day. The prediction algorithm deployed by Facebook to track you and serve you with suitable ads (Ad...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*Aar8Jo-M-Lw-j3Zv"
+        },
+        {
+            "id": 12430,
+            "title": "Fully Explained Linear Regression with Python",
+            "url": "https://towardsai.net/p/machine-learning/fully-explained-linear-regression-with-python",
+            "authors": "Amit Chauhan",
+            "tags": null,
+            "publishedOn": "2020-12-13T00:00:00",
+            "description": "How the regression problem is solved with a real-life example. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/607/1*lGdH8VA3gRmERTKdopVSkA.png"
+        },
+        {
+            "id": 12431,
+            "title": "How to add Julia to Jupyter Notebook",
+            "url": "https://towardsai.net/p/machine-learning/how-to-add-julia-to-jupyter-notebook",
+            "authors": "Chetan Ambi",
+            "tags": null,
+            "publishedOn": "2020-12-13T00:00:00",
+            "description": "Take your first steps towards Julia for Machine Learning Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/833/1*rTY16Bp142p18HIR2edFPA.png"
+        },
+        {
+            "id": 12432,
+            "title": "5 Signs That You Are a Good Researcher",
+            "url": "https://towardsai.net/p/research/5-signs-that-you-are-a-good-researcher",
+            "authors": "Sruthi Korlakunta",
+            "tags": null,
+            "publishedOn": "2020-12-13T00:00:00",
+            "description": "Do you have the guts to speak the insignificant truth? Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/600/1*t96chMNkg4jNEvJwWpNFyw.gif"
+        },
+        {
+            "id": 12433,
+            "title": "Web Scraping With Python",
+            "url": "https://towardsai.net/p/programming/web-scraping-with-python",
+            "authors": "Luay Matalka",
+            "tags": null,
+            "publishedOn": "2020-12-13T00:00:00",
+            "description": "How to use beautiful soup and the requests libraries to web scrape in python Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*8DBKuamC7hyOC7-x"
+        },
+        {
+            "id": 12434,
+            "title": "Extract the text from long videos with Python",
+            "url": "https://towardsai.net/p/nlp/extract-the-text-from-long-videos-with-python",
+            "authors": "Eugenia Anello",
+            "tags": null,
+            "publishedOn": "2020-12-12T00:00:00",
+            "description": "Author(s): Eugenia Anello A simple guide to build a speech recognizer using Google\u2019s API. Figure 1: Photo on Pixabay Speech recognition is an interesting task that allows you...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/960/0*rlxXcTLvKS-cbHz6.png"
+        },
+        {
+            "id": 12435,
+            "title": "Recovering from Bleak Friday",
+            "url": "https://towardsai.net/p/business-science/recovering-from-bleak-friday",
+            "authors": "Fabrizio Fantini",
+            "tags": null,
+            "publishedOn": "2020-12-12T00:00:00",
+            "description": "How to use data to compete with Amazon post-Covid Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*3N1WbShRMkZ4OLbK"
+        },
+        {
+            "id": 12436,
+            "title": "The Best AI Trend Is Yet To Come",
+            "url": "https://towardsai.net/p/artificial-intelligence/the-best-ai-trend-is-yet-to-come",
+            "authors": "DGuyAI",
+            "tags": null,
+            "publishedOn": "2020-12-12T00:00:00",
+            "description": "A complete overview of all AI trends (we know of) coming at you Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*N6bQi1Mgah5TThIXJW6QNQ.png"
+        },
+        {
+            "id": 12437,
+            "title": "CVPR2020 Paper Summary: Data Uncertainty in Face Recognition",
+            "url": "https://towardsai.net/p/computer-vision/cvpr2020-paper-summary-data-uncertainty-in-face-recognition",
+            "authors": "Makoto TAKAMATSU",
+            "tags": null,
+            "publishedOn": "2020-12-12T00:00:00",
+            "description": "An facial recognition algorithm that effectively mitigates the negative impact of dirty samples during model training Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/820/1*WeYnM9wrwkqOpscw7RawRQ.png"
+        },
+        {
+            "id": 12438,
+            "title": "Making Hyper-personalized Books for Children: Faceswap on Illustrations",
+            "url": "https://towardsai.net/p/computer-vision/making-hyper-personalized-books-for-children-faceswap-on-illustrations",
+            "authors": "Francesco Fumagalli",
+            "tags": null,
+            "publishedOn": "2020-12-12T00:00:00",
+            "description": "Stories have always been part of human nature: we\u2019ve been telling stories to children for as long as we\u2019ve been around, to teach them about life, to warn them about dangers, to...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/891/1*bPltqb4WYEm6Ey74ybomWA.png"
+        },
+        {
+            "id": 12439,
+            "title": "AutoSIRDS\u200a\u2014\u200aUsing single image depth estimation to create Single Image Random Dot Stereograms",
+            "url": "https://towardsai.net/p/computer-vision/autosirds%e2%80%8a-%e2%80%8ausing-single-image-depth-estimation-to-create-single-image-random-dot-stereograms",
+            "authors": "Robin T. White, PhD",
+            "tags": null,
+            "publishedOn": "2020-12-11T00:00:00",
+            "description": "A full playground using Google Colab and TF Hub Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/969/1*2f_Qd2LAyoOOF8t4ITsmdw.png"
+        }
+    ]
+}

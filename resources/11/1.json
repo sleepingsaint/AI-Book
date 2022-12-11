@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8304,
+            "title": "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate",
+            "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+            "authors": "stas",
+            "tags": null,
+            "publishedOn": "2022-09-16T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/bloom-inference-pytorch-scripts/thumbnail.png"
+        },
+        {
+            "id": 8306,
+            "title": "What's new in Diffusers? \ud83c\udfa8",
+            "url": "https://huggingface.co/blog/diffusers-2nd-month",
+            "authors": "osanseviero",
+            "tags": null,
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/102_diffusers_2nd_month/inpainting.png"
+        },
+        {
+            "id": 8307,
+            "title": "Train your first Decision Transformer",
+            "url": "https://huggingface.co/blog/train-decision-transformers",
+            "authors": "edbeeching",
+            "tags": null,
+            "publishedOn": "2022-09-08T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/101_train-decision-transformers/thumbnail.gif"
+        },
+        {
+            "id": 8305,
+            "title": "How to train a Language Model with Megatron-LM",
+            "url": "https://huggingface.co/blog/megatron-training",
+            "authors": "loubnabnl",
+            "tags": null,
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/100_megatron_training/thumbnail.png"
+        },
+        {
+            "id": 8308,
+            "title": "OpenRAIL: Towards open and responsible AI licensing frameworks",
+            "url": "https://huggingface.co/blog/open_rail",
+            "authors": "CarlosMFerr",
+            "tags": null,
+            "publishedOn": "2022-08-31T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/100_open_rail/100_open-rail.png"
+        },
+        {
+            "id": 8309,
+            "title": "Visualize proteins on Hugging Face Spaces",
+            "url": "https://huggingface.co/blog/spaces_3dmoljs",
+            "authors": "duerrsimon",
+            "tags": null,
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/98_spaces_3dmoljs/thumbnail.png"
+        },
+        {
+            "id": 8310,
+            "title": "Stable Diffusion with \ud83e\udde8 Diffusers",
+            "url": "https://huggingface.co/blog/stable_diffusion",
+            "authors": "valhalla",
+            "tags": null,
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/98_stable_diffusion/thumbnail.png"
+        },
+        {
+            "id": 8311,
+            "title": "Pre-Train BERT with Hugging Face Transformers and Habana Gaudi",
+            "url": "https://huggingface.co/blog/pretraining-bert",
+            "authors": "philschmid",
+            "tags": null,
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/99_pretraining_bert/thumbnail.png"
+        },
+        {
+            "id": 8312,
+            "title": "Deploying \ud83e\udd17 ViT on Vertex AI",
+            "url": "https://huggingface.co/blog/deploy-vertex-ai",
+            "authors": "sayakpaul",
+            "tags": null,
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/97_vertex_ai/image1.png"
+        },
+        {
+            "id": 8313,
+            "title": "Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore",
+            "url": "https://huggingface.co/blog/vision-transformers",
+            "authors": "juliensimon",
+            "tags": null,
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/97_vision_transformers/thumbnail.png"
+        },
+        {
+            "id": 8314,
+            "title": "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes",
+            "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+            "authors": "ybelkada",
+            "tags": null,
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/96_hf_bitsandbytes_integration/Thumbnail_blue.png"
+        },
+        {
+            "id": 8315,
+            "title": "Introducing Skops",
+            "url": "https://huggingface.co/blog/skops",
+            "authors": "merve",
+            "tags": null,
+            "publishedOn": "2022-08-12T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/94_skops/introducing_skops.png"
+        },
+        {
+            "id": 8316,
+            "title": "Hugging Face's TensorFlow Philosophy",
+            "url": "https://huggingface.co/blog/tensorflow-philosophy",
+            "authors": "rocketknight1",
+            "tags": null,
+            "publishedOn": "2022-08-12T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/96_tensorflow_philosophy/thumbnail.png"
+        },
+        {
+            "id": 8317,
+            "title": "Deploying \ud83e\udd17 ViT on Kubernetes with TF Serving",
+            "url": "https://huggingface.co/blog/deploy-tfserving-kubernetes",
+            "authors": "chansung",
+            "tags": null,
+            "publishedOn": "2022-08-11T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/94_tf_serving_kubernetes/thumb.png"
+        },
+        {
+            "id": 8318,
+            "title": "Train and Fine-Tune Sentence Transformers Models",
+            "url": "https://huggingface.co/blog/how-to-train-sentence-transformers",
+            "authors": "espejelomar",
+            "tags": null,
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/95_training_st_models/thumbnail.png"
+        },
+        {
+            "id": 8319,
+            "title": "Proximal Policy Optimization (PPO)",
+            "url": "https://huggingface.co/blog/deep-rl-ppo",
+            "authors": "ThomasSimonini",
+            "tags": null,
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/93_deep_rl_ppo/thumbnail.png"
+        },
+        {
+            "id": 8320,
+            "title": "Introducing the Private Hub: A New Way to Build With Machine Learning",
+            "url": "https://huggingface.co/blog/introducing-private-hub",
+            "authors": "FedericoPascual",
+            "tags": null,
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/92_introducing_private_hub/thumbnail.png"
+        },
+        {
+            "id": 8321,
+            "title": "Nystr\u00f6mformer, Approximating self-attention in linear time and memory via the Nystr\u00f6m method",
+            "url": "https://huggingface.co/blog/nystromformer",
+            "authors": "novice03",
+            "tags": null,
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/86_nystromformer/thumbnail.png"
+        },
+        {
+            "id": 8322,
+            "title": "AI Policy @\ud83e\udd17: Comments on U.S. National AI Research Resource Interim Report",
+            "url": "https://huggingface.co/blog/us-national-ai-research-resource",
+            "authors": "irenesolaiman",
+            "tags": null,
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/92_us_national_ai_research_resource/nairr_thumbnail.png"
+        },
+        {
+            "id": 8323,
+            "title": "Introducing new audio and vision documentation in \ud83e\udd17 Datasets",
+            "url": "https://huggingface.co/blog/datasets-docs-update",
+            "authors": "stevhliu",
+            "tags": null,
+            "publishedOn": "2022-07-28T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/87_datasets-docs-update/thumbnail.gif"
+        },
+        {
+            "id": 8324,
+            "title": "Faster Text Generation with TensorFlow and XLA",
+            "url": "https://huggingface.co/blog/tf-xla-generate",
+            "authors": "joaogante",
+            "tags": null,
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/91_tf_xla_generate/thumbnail.png"
+        },
+        {
+            "id": 8325,
+            "title": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving",
+            "url": "https://huggingface.co/blog/tf-serving-vision",
+            "authors": "sayakpaul",
+            "tags": null,
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/90_tf_serving_vision/thumbnail.png"
+        },
+        {
+            "id": 8326,
+            "title": "Advantage Actor Critic (A2C)",
+            "url": "https://huggingface.co/blog/deep-rl-a2c",
+            "authors": "ThomasSimonini",
+            "tags": null,
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/89_deep_rl_a2c/thumbnail.gif"
+        },
+        {
+            "id": 8327,
+            "title": "How to train your model dynamically using adversarial data",
+            "url": "https://huggingface.co/blog/mnist-adversarial",
+            "authors": "chrisjay",
+            "tags": null,
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/88_mnist_adversarial/mnist-adversarial.png"
+        },
+        {
+            "id": 8328,
+            "title": "The Technology Behind BLOOM Training",
+            "url": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+            "authors": "stas",
+            "tags": null,
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/86_bloom_megatron_deepspeed/thumbnail.png"
+        },
+        {
+            "id": 8329,
+            "title": "Building a Playlist Generator with Sentence Transformers",
+            "url": "https://huggingface.co/blog/playlist-generator",
+            "authors": "NimaBoscarino",
+            "tags": null,
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/87_playlist_generator/thumbnail.png"
+        },
+        {
+            "id": 8330,
+            "title": "Introducing The World's Largest Open Multilingual Language Model: BLOOM",
+            "url": "https://huggingface.co/blog/bloom",
+            "authors": "BigScience",
+            "tags": null,
+            "publishedOn": "2022-07-12T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/86_bloom/thumbnail.png"
+        },
+        {
+            "id": 8331,
+            "title": "Getting Started with Sentiment Analysis on Twitter",
+            "url": "https://huggingface.co/blog/sentiment-analysis-twitter",
+            "authors": "FedericoPascual",
+            "tags": null,
+            "publishedOn": "2022-07-07T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/85_sentiment_analysis_twitter/thumbnail.png"
+        },
+        {
+            "id": 8332,
+            "title": "Policy Gradient with PyTorch",
+            "url": "https://huggingface.co/blog/deep-rl-pg",
+            "authors": "ThomasSimonini",
+            "tags": null,
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/85_policy_gradient/thumbnail.gif"
+        },
+        {
+            "id": 8333,
+            "title": "Liftoff! How to get started with your first ML project \ud83d\ude80",
+            "url": "https://huggingface.co/blog/your-first-ml-project",
+            "authors": "nimaboscarino",
+            "tags": null,
+            "publishedOn": "2022-06-29T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/84_first_ml_project/thumbnail.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2784,
+            "title": "An End-to-End Introduction Guide on Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/an-end-to-end-introduction-guide-on-power-bi/",
+            "authors": "Anushkakhatri",
+            "tags": "Beginner, Data Visualization, Power BI",
+            "publishedOn": "2022-04-27T00:00:00",
+            "description": "In this article we will discuss the features of Power BI, its benefits, a detailed description of how to use it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/power-BI.png"
+        },
+        {
+            "id": 2785,
+            "title": "The Ultimate Guide to Master Jinja Template",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Advanced, Guide, Machine Learning, Python",
+            "publishedOn": "2022-04-27T00:00:00",
+            "description": "Jinja Template engines allow us to pass the data from the server-side to HTML pages whenever the user makes the request.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-Things-to-know-before-starting-your-first-Data-Science-Project.jpg"
+        },
+        {
+            "id": 2786,
+            "title": "Introduction to Probability Distributions for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/introduction-to-probability-distributions-for-data-science/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Datasets, Guide, Intermediate, Maths, Python, Statistics",
+            "publishedOn": "2022-04-27T00:00:00",
+            "description": "In this article we will focus in-depth on critical probability distributions from the data science point of view.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 2787,
+            "title": "Data Preprocessing Using PySpark\u2019s DataFrame",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/data-preprocessing-using-pysparks-dataframe/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Engineering, Python",
+            "publishedOn": "2022-04-27T00:00:00",
+            "description": "In this article we will discuss in-depth about how to do data preprocessing while using PySpark's Dataframe.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 2788,
+            "title": "A Beginners Guide to Spark DataFrame Schema",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/a-beginners-guide-to-spark-dataframe-schema/",
+            "authors": "Uday Shaw",
+            "tags": "Beginner, Data Engineering, Python, Spark",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "This article will help the reader with an alternate way of solving issues generally faced with Spark DataFrame Schema.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/04/SCHEMA.png"
+        },
+        {
+            "id": 2789,
+            "title": "Building State-of-the-art Text Classifier Using HuggingFace and Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/building-state-of-the-art-text-classifier-using-huggingface-and-tensorflow/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Advanced, NLP, Python, Text",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article we will build state-of-the-art text classifier by using the models and data from the HuggingFace and Tensorflow.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 2790,
+            "title": "How to Optimize ROI Using Customer Lifetime Value?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/how-to-optimize-roi-using-customer-lifetime-value/",
+            "authors": "Chris Dmello",
+            "tags": "Business Analytics, Intermediate, Listicle, Python",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article, we will learn in depth about how businesses can optimize their roi using customer lifetime value.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/11/istock_000025208346small.jpg"
+        },
+        {
+            "id": 2791,
+            "title": "Apache Cassandra: High-Performance Distributed NO-SQL Database",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/apache-cassandra-high-performance-distributed-no-sql-database/",
+            "authors": "Prateek Majumder",
+            "tags": "Data Engineering, Database, Intermediate, NoSQL, SQL",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article, we will learn in depth about Apache Cassandra usage and what exactly is a No-SQL database?",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/10/Database.png"
+        },
+        {
+            "id": 2792,
+            "title": "Bayesian Approach to Regression Analysis with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/bayesian-approach-to-regression-analysis-with-python/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Guide, Python, Regression",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article we are going to dive into the Bayesian Approach of regression analysis while using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/regression_analysis.jpg"
+        },
+        {
+            "id": 2793,
+            "title": "Getting Started with Big Data & Hadoop",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/getting-started-with-big-data-hadoop/",
+            "authors": "Harsh Kulkarni",
+            "tags": "Beginner, Big data, Data Engineering, Hadoop",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article, we will understand in depth about how to briefly get into the world of Big Data & hadoop.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/47301big-data.jpg"
+        },
+        {
+            "id": 2794,
+            "title": "Binary Classification on Skin Cancer Dataset Using DL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/binary-classification-on-skin-cancer-dataset-using-dl/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Classification, Datasets, Deep Learning, Intermediate, Python",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article, we will learn in depth about binary classification on skin cancer dataset employing deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 2795,
+            "title": "Getting Started with Databases like MySQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/getting-started-with-databases-like-mysql/",
+            "authors": "SATHISH ROUTHU",
+            "tags": "Data Engineering, Database, Intermediate, SQL, Structured Data",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "In this article, we will learn how to get started with databases like MySQL for structuring and storing the data in an organized way,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/A-Guide-to-Data-Types-in-MySQL-for-Beginners-in-Data-Science.jpg"
+        },
+        {
+            "id": 2796,
+            "title": "AWS Redshift: Cloud Data Warehouse Service",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/aws-redshift-cloud-data-warehouse-service/",
+            "authors": "Prateek Majumder",
+            "tags": "AWS, Beginner, Cloud Computing, Data Engineering, Data Warehouse, Datasets, SQL",
+            "publishedOn": "2022-04-25T00:00:00",
+            "description": "In this article, learn about AWS Redshift Database is a cloud-based large data warehousing solution that companies are using lately.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2797,
+            "title": "Guide to Audio Classification Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/guide-to-audio-classification-using-deep-learning/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Audio Processing, Database, Deep Learning, Intermediate",
+            "publishedOn": "2022-04-25T00:00:00",
+            "description": "In this article. we will walk through a simple demonstration of Audio classification on the UrbanSound8K dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/audio_analysis_open_source_projects.png"
+        },
+        {
+            "id": 2798,
+            "title": "Exploring Octoparse Web Scraping Tool for Data Preparations",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/exploring-octoparse-web-scraping-tool-for-data-preparations/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Business Analytics, Data Exploration, Data Science, Intermediate",
+            "publishedOn": "2022-04-24T00:00:00",
+            "description": "In this article we will understand web-scraping tools Octoparse and its key features and usages for data-driven solutions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/04/Octoparse-Web-Scraping.png"
+        },
+        {
+            "id": 2799,
+            "title": "Docker Tutorial for Beginners Part-I",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Data Engineering, Docker, Intermediate",
+            "publishedOn": "2022-04-24T00:00:00",
+            "description": "In this article, we are going to introduce you to Docker tutorial and learn basic commands as well from installing docker.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/89641docker_intro1.jpg"
+        },
+        {
+            "id": 2800,
+            "title": "Spark Data Streaming with MongoDB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/spark-data-streaming-with-mongodb/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Data Engineering, Intermediate, MongoDB, Python, Spark",
+            "publishedOn": "2022-04-23T00:00:00",
+            "description": "In this article, we will learn an end-to-end tutorial on data streaming with mongoDB using apache spark.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/mongodbImage.png"
+        },
+        {
+            "id": 2801,
+            "title": "Introduction to SQL for Data Engineering",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/introduction-to-sql-for-data-engineering/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Engineering, SQL",
+            "publishedOn": "2022-04-23T00:00:00",
+            "description": "In this article, we will understand the use of SQL database programming and its technicalities in data engineering.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2802,
+            "title": "Face Detection Using the Caffe Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/face-detection-using-the-caffe-model/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Python",
+            "publishedOn": "2022-04-23T00:00:00",
+            "description": "In this article, we will build a face detection algorithm from the image of different angles using Caffe model.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/face-detection-people.jpg"
+        },
+        {
+            "id": 2803,
+            "title": "A Detailed Study on COVID 19 Vaccinations Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/understand-a-detailed-study-on-covid-19-vaccinations-data/",
+            "authors": "Akshita Chugh",
+            "tags": "Beginner, Datasets, Python",
+            "publishedOn": "2022-04-22T00:00:00",
+            "description": "Study the COVID 19 vaccination trends across the world using python, and aim to derive key insights from the data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/85672covid.jpg"
+        },
+        {
+            "id": 2804,
+            "title": "Getting Started with PySpark Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/getting-started-with-pyspark-using-python/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Big data, Data Engineering, Python",
+            "publishedOn": "2022-04-21T00:00:00",
+            "description": "In this article, we shall study how to use Pyspark using python and understand how to get started with data preprocessing using PySpark.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 2805,
+            "title": "An Overview of HDFS: NameNodes and DataNodes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/an-overview-of-hdfs-namenodes-and-datanodes/",
+            "authors": "Prateek Majumder",
+            "tags": "Data Engineering, Database, Hadoop, Intermediate",
+            "publishedOn": "2022-04-21T00:00:00",
+            "description": "In this article, we will discuss everything about HDFS. Its name nodes and data nodes and different use cases of HDFS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/HDFS-Architecture.jpg"
+        },
+        {
+            "id": 2806,
+            "title": "A Complete Guide to Pyjanitor for Data Cleaning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/a-complete-guide-to-pyjanitor-for-data-cleaning/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Data Cleaning, Guide, Libraries, Python",
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "This guide will cover the basics of Pyjanitor and provide a working code of how you can start using it right away in your projects.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/61908pythonpackage.jpg"
+        },
+        {
+            "id": 2807,
+            "title": "The DataHour: Artificial Intelligence in Retail",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/the-datahour-artificial-intelligence-in-retail/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence, Learning Path, Retail, Videos",
+            "publishedOn": "2022-04-19T00:00:00",
+            "description": "In this session, Dr. Shantha Mohan will guide you through the applications of 'Artificial Intelligence' in Retail.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/04/OG-copy2.png"
+        },
+        {
+            "id": 2808,
+            "title": "What is MySQL Partitions and its Types?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/what-is-mysql-partitions-and-its-types/",
+            "authors": "Mahendra D",
+            "tags": "Beginner, Business Analytics, Data Engineering, Database, SQL",
+            "publishedOn": "2022-04-19T00:00:00",
+            "description": "Learn about the different types of MySQL Partitions with examples and implement them for your business today!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2809,
+            "title": "Data Exploration and Visualisation Using Palmer Penguins Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/data-exploration-and-visualisation-using-palmer-penguins-dataset/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Data Exploration, Data Visualization, Libraries, Python",
+            "publishedOn": "2022-04-18T00:00:00",
+            "description": "In this article, you will learn data exploration and visualisation using palmer penguins dataset. This is an alternative data to Iris.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2810,
+            "title": "Predicting SONAR Rocks Against Mines with ML",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/predicting-sonar-rocks-against-mines-with-ml/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Intermediate, Machine Learning, Python, Use Cases",
+            "publishedOn": "2022-04-17T00:00:00",
+            "description": "In this article, we will understand how to predict the SONAR rocks against Mines with the help of Machine Learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 2811,
+            "title": "Track Your Trip Through an OBD system Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/track-your-trip-through-an-obd-system-using-python/",
+            "authors": "Yudhi Somali",
+            "tags": "Github, Intermediate, Python",
+            "publishedOn": "2022-04-17T00:00:00",
+            "description": "In this article, we will be discussing in-depth about how to track your trip through an OBD system using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/31296pythonlogo.jpg"
+        },
+        {
+            "id": 2812,
+            "title": "Determining the Market Price of Old Vehicles Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/determining-the-market-price-of-old-vehicles-using-python/",
+            "authors": "Sharkbite",
+            "tags": "Advanced, Machine Learning, Python",
+            "publishedOn": "2022-04-16T00:00:00",
+            "description": "In this article we will be determining the appropriate Market Price of Old Vehicles while tapping on to Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/61908pythonpackage.jpg"
+        },
+        {
+            "id": 2813,
+            "title": "What to do After Deploying your Model to Production?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/04/what-to-do-after-deploying-your-model-to-production/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Beginner, Machine Learning, Model Deployment, Python",
+            "publishedOn": "2022-04-16T00:00:00",
+            "description": "In this article we will learn in depth about what to do after deploying your model to production using machine learning.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/02/error.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6652,
+            "title": "Collegial Ensembles",
+            "url": "https://machinelearning.apple.com/research/collegial-ensembles",
+            "authors": "Etai Littwin, Ben Myara, Sima Sabah, Joshua Susskind, Shuangfei Zhai, Oren Golan",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Modern neural network performance typically improves as model size increases. A recent line of research on the Neural Tangent Kernel (NTK)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6653,
+            "title": "Faster Differentially Private Samplers via R\u00e9nyi Divergence Analysis of Discretized Langevin MCMC",
+            "url": "https://machinelearning.apple.com/research/differentially-private-samplers",
+            "authors": "Arun Ganesh, Kunal Talwar",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "Various differentially private algorithms instantiate the exponential mechanism, and require sampling from the distribution exp(\u2212f) for a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6654,
+            "title": "On the Error Resistance of Hinge-Loss Minimization",
+            "url": "https://machinelearning.apple.com/research/error-resistance",
+            "authors": "Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Commonly used classification algorithms in machine learning, such as support vector machines, minimize a convex surrogate loss on training\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6655,
+            "title": "Representing and Denoising Wearable ECG Recordings",
+            "url": "https://machinelearning.apple.com/research/wearable-ecg-recordings",
+            "authors": "Jeffrey Chan, Andrew C. Miller, Emily B. Fox",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Modern wearable devices are embedded with a range of noninvasive biomarker sensors that hold promise for improving detection and treatment\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6656,
+            "title": "Stability of Stochastic Gradient Descent on Nonsmooth Convex Losses",
+            "url": "https://machinelearning.apple.com/research/stochastic-gradient-descent",
+            "authors": "Raef Bassily, Vitaly Feldman, Criztobal Guzman, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Uniform stability is a notion of algorithmic stability that bounds the worst case change in the model output by the algorithm when a single\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6657,
+            "title": "Stochastic Optimization with Laggard Data Pipelines",
+            "url": "https://machinelearning.apple.com/research/stochastic-optimization",
+            "authors": "Naman Agarwal, Rohan Anil, Tomer Koren, Kunal Talwar, Cyril Zhang",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "State-of-the-art optimization is steadily shifting towards massively parallel pipelines with extremely large batch sizes. As a consequence\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6658,
+            "title": "A Wrong Answer or a Wrong Question? An Intricate Relationship between Question Reformulation and Answer Selection in Conversational Question Answering",
+            "url": "https://machinelearning.apple.com/research/question-reformulation-and-answer-selection",
+            "authors": "Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, Raviteja Anantha",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "The dependency between an adequate question formulation and correct answer selection is a very intriguing but still underexplored area. In\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6659,
+            "title": "Conversational Semantic Parsing for Dialog State Tracking",
+            "url": "https://machinelearning.apple.com/research/conversational-semantic-parsing",
+            "authors": "Jianpeng Cheng, Devang Agrawal, Hector Martinez Alonso, Shruti Bhargava, Joris Driesen Federico Flego, Dain Kaplan, Dimitri Kartsaklis, Lin Li, Dhivya Piraviperumal, Jason D Williams, Hong Yu, Diarmuid O Seaghdha, Anders Johannsen",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We consider a new perspective on dialog state tracking (DST), the task of estimating a user's goal through the course of a dialog. By\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6660,
+            "title": "Efficient Inference For Neural Machine Translation",
+            "url": "https://machinelearning.apple.com/research/neural-machine-translation",
+            "authors": "Yi-Te Hsu, Sarthak Garg, Yi-Hsiu Liao, Ilya Chatsviorkin",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Large transformer models have achieved state-of-the-art results in neural machine translation and have become standard in the field. In this\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6661,
+            "title": "How Effective is Task-Agnostic Data Augmentation for Pre-trained Transformers?",
+            "url": "https://machinelearning.apple.com/research/task-agnostic-data-augmentation",
+            "authors": "Shayne Longpre, Yu Wang, Christopher DuBois",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Task-agnostic forms of data augmentation have proven widely effective in computer vision, even on pretrained models. In NLP similar results\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6662,
+            "title": "Generating Synthetic Images by Combining Pixel-level and Feature-level Geospatial Conditional Inputs",
+            "url": "https://machinelearning.apple.com/research/generating-synthetic-images",
+            "authors": "Xuerong Xiao, Swetava Ganguli, Vipul Pandey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Training robust supervised deep learning models for many geospatial applications of computer vision is difficult due to dearth of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6663,
+            "title": "Making Smartphone Augmented Reality Apps Accessible",
+            "url": "https://machinelearning.apple.com/research/making-smartphone-augmented-reality-apps-accessible",
+            "authors": "Jaylin Herskovitz, Jason Wu, Sam White, Amy Pavel, Anhong Guo, Gabriel Reyes, Jeffrey Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Augmented Reality (AR) technology creates new immersive experiences in entertainment, games, education, retail, and social media. AR content\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6664,
+            "title": "mage: Fluid Moves Between Code and Graphical Work in Computational Notebooks",
+            "url": "https://machinelearning.apple.com/research/mage-fluid-moves-between-code",
+            "authors": "Mary Beth Kery, Donghao Ren, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Kayur Patel",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "We aim to increase the flexibility at which a data worker can choose the right tool for the job, regardless of whether the tool is a code\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6665,
+            "title": "Rescribe: Authoring and Automatically Editing Audio Descriptions",
+            "url": "https://machinelearning.apple.com/research/rescribe-authoring-and-automatically-editing-audio-descriptions",
+            "authors": "Amy Pavel, Gabriel Reyes, Jeffrey Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Audio descriptions make videos accessible to those who cannot see them by describing visual content in audio. Producing audio descriptions\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6666,
+            "title": "Class LM and Word Mapping for Contextual Biasing in End-to-End ASR",
+            "url": "https://machinelearning.apple.com/research/class-lm-and-word-mapping",
+            "authors": "Rongqing Huang, Ossama Abdel-hamid, Xinwei Li, Gunnar Evermann",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In recent years, all-neural, end-to-end (E2E) ASR systems gained rapid interest in the speech recognition community. They convert speech\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6667,
+            "title": "Complementary Language Model and Parallel Bi-LRNN for False Trigger Mitigation",
+            "url": "https://machinelearning.apple.com/research/complementary-language-model-and-parallel-bi-lrnn",
+            "authors": "Rishika Agarwal, Xiaochuan Niu, Pranay Dighe, Srikanth Vishnubhotla, Sameer Badaskar, Devang Naik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "False triggers in voice assistants are unintended invocations of the assistant, which not only degrade the user experience but may also\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6668,
+            "title": "Controllable Neural Text-To-Speech Synthesis Using Intuitive Prosodic Features",
+            "url": "https://machinelearning.apple.com/research/controllable-neural-text-to-speech-synthesis",
+            "authors": "Tuomo Raitio, Ramya Rasipuram, Dan Castellani",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Modern neural text-to-speech (TTS) synthesis can generate speech that is indistinguishable from natural speech. However, the prosody of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6669,
+            "title": "Hybrid Transformer and CTC Networks for Hardware Efficient Voice Triggering",
+            "url": "https://machinelearning.apple.com/research/hybrid-transformer-and-ctc-networks",
+            "authors": "Saurabh Adya, Vineet Garg, Siddharth Sigtia, Pramod Simha, Chandra Dhir",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We consider the design of two-pass voice trigger detection systems. We focus on the networks in the second pass that are used to re-score\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6670,
+            "title": "Improving On-Device Speaker Verification Using Federated Learning With Privacy",
+            "url": "https://machinelearning.apple.com/research/improving-on-device-speaker",
+            "authors": "Filip Granqvist, Matt Seigel, Rogier van Dalen, \u00c1ine Cahill, Stephen Shum, Matthias Paulik",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "Information on speaker characteristics can be useful as side information in improving speaker recognition accuracy. However, such\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6671,
+            "title": "Stacked 1D Convolutional Networks for End-To-End Small Footprint Voice Trigger Detection",
+            "url": "https://machinelearning.apple.com/research/stacked-1d-convolutional-networks",
+            "authors": "Takuya Higuchi, Mohammad Ghasemzadeh, Kisun You, Chandra Dhir",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We propose a stacked 1D convolutional neural network (S1DCNN) for end-to-end small footprint voice trigger detection in a streaming\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6672,
+            "title": "Downbeat Tracking with Tempo-Invariant Convolutional Neural Networks",
+            "url": "https://machinelearning.apple.com/research/downbeat-tracking-with-tempo",
+            "authors": "Bruno Di Giorgi, Matthias Mauch, Mark Levy",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "The human ability to track musical downbeats is robust to changes in tempo, and it extends to tempi never previously encountered. We propose\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6673,
+            "title": "Modality Dropout for Improved Performance-Driven Talking Faces",
+            "url": "https://machinelearning.apple.com/research/modality-dropout-for-improved-performance",
+            "authors": "Ahmed Hussen Abdelaziz, Barry-John Theobald, Paul Dixon, Reinhard Knothe, Nicholas Apostoloff, Sachin Kajareker",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "We describe our novel deep learning approach for driving animated faces using both acoustic and visual information. In particular\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6674,
+            "title": "Enhanced Direct Delta Mush",
+            "url": "https://machinelearning.apple.com/research/enhanced-direct-delta-mush",
+            "authors": "Serguei Kalentchouk, Michael Hutchinson, Deepak Tolani",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Direct Delta Mush is a novel skinning deformation technique introduced by Le and Lewis (2019). It generalizes the iterative Delta Mush\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6675,
+            "title": "Learning Insulin-Glucose Dynamics in the Wild",
+            "url": "https://machinelearning.apple.com/research/learning-insulin-glucose-dynamics-in-the-wild",
+            "authors": "Andrew C. Miller, Nicholas J. Foti, Emily Fox",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "We develop a new model of insulin-glucose dynamics for forecasting blood glucose in type 1 diabetics. We augment an existing biomedical\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6676,
+            "title": "Double-talk Robust Multichannel Acoustic Echo Cancellation Using Least Squares MIMO Adaptive Filtering: Transversal, Array, and Lattice Forms",
+            "url": "https://machinelearning.apple.com/research/double-talk-robust-multichannel-accoustic-echo",
+            "authors": "Sarmad Malik, Jason Wung, Joshua Atkins, Devang Naik",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this paper, we address the problem of noise-robust multiple-input multiple-output (MIMO) adaptive filtering that is optimal in\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6677,
+            "title": "MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering",
+            "url": "https://machinelearning.apple.com/research/mkqa",
+            "authors": "Shayne Longpre, Yi Lu, Joachim Daiber",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Progress in cross-lingual modeling depends on challenging, realistic, and diverse evaluation sets. We introduce Multilingual Knowledge\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6678,
+            "title": "Improving Discrete Latent Representations With Differentiable Approximation Bridges",
+            "url": "https://machinelearning.apple.com/research/improving-discrete-latent-representations-with-differentiable-approximation-bridges",
+            "authors": "Jason Ramapuram, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Modern neural network training relies on piece-wise (sub-)differentiable functions in order to use backpropagation to update model\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6679,
+            "title": "AdaScale SGD: A User-Friendly Algorithm for Distributed Training",
+            "url": "https://machinelearning.apple.com/research/adascale-sgd",
+            "authors": "Tyler B. Johnson, Pulkit Agrawal, Haijie Gu, Carlos Guestrin",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "When using large-batch training to speed up stochastic gradient descent, learning rates must adapt to new batch sizes in order to maximize\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6680,
+            "title": "A Generative Model for Joint Natural Language Understanding and Generation",
+            "url": "https://machinelearning.apple.com/research/a-generative-model-joint-natural-language-understanding-generation",
+            "authors": "Bo-Hsiang Tseng, Jianpeng Cheng, Yimai Fang, David Vandyke",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Natural language understanding (NLU) and natural language generation (NLG) are two fundamental and related tasks in building task-oriented\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6681,
+            "title": "Equivariant Neural Rendering",
+            "url": "https://machinelearning.apple.com/research/equivariant-neural-rendering",
+            "authors": "Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We propose a framework for learning neural scene representations directly from images, without 3D supervision. Our key insight is that 3D\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

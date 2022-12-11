@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6592,
+            "title": "Model-based Metrics: Sample-efficient Estimates of Predictive Model Subpopulation Performance",
+            "url": "https://machinelearning.apple.com/research/model-based-metrics",
+            "authors": "Andrew C. Miller, Leon A. Gatys, Joseph Futoma, Emily B. Fox",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Machine learning models \u2212 now commonly developed to screen, diagnose, or predict health conditions \u2212 are evaluated with a variety of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6593,
+            "title": "RetrievalFuse: Neural 3D Scene Reconstruction with a Database",
+            "url": "https://machinelearning.apple.com/research/retrievalfuse",
+            "authors": "Yawar Siddiqui, Justus Thies, Fangchang Ma, Qi Shan, Matthias Nie\u00dfner, Angela Dai",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "3D reconstruction of large scenes is a challenging problem due to the high-complexity nature of the solution space, in particular for\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6594,
+            "title": "Joint Learning of Portrait Intrinsic Decomposition and Relighting",
+            "url": "https://machinelearning.apple.com/research/neural-networks-for-intrinsic-image-decomposition-relighting",
+            "authors": "Mona Zehni, Shaona Ghosh, Krishna Sridhar, Sethu Raman",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Inverse rendering is the problem of decomposing an image into its intrinsic components, i.e. albedo, normal and lighting. To solve this\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6595,
+            "title": "Non-parametric Differentially Private Confidence Intervals for the Median",
+            "url": "https://machinelearning.apple.com/research/nonparametric-differentially-private-median-confidence-intervals",
+            "authors": "Joerg Drechsler, Ira Globus-Harris, Audra McMillan, Jayshree Sarathy, Adam Smith",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Theory and Practice of Differential Privacy workshop at the ICML 2021 conference.\nThis paper was accepted at\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6596,
+            "title": "Recognizing People in Photos Through Private On-Device Machine Learning",
+            "url": "https://machinelearning.apple.com/research/recognizing-people-photos",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "Photos (on iOS, iPadOS, and macOS) is an integral way for people to browse, search, and relive life's moments with their friends and family\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6597,
+            "title": "Unconstrained Scene Generation with Locally Conditioned Radiance Fields",
+            "url": "https://machinelearning.apple.com/research/unconstrained-scene-generation",
+            "authors": "Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We tackle the challenge of learning a distribution over complex, realistic, indoor scenes. In this paper, we introduce Generative Scene\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6598,
+            "title": "Trinity: A No-Code AI platform for complex spatial datasets",
+            "url": "https://machinelearning.apple.com/research/complex-spatial-datasets",
+            "authors": "C. V. Krishnakumar Iyer, Feili Hou, Henry Wang, Yonghong Wang, Kay Oh, Swetava Ganguli, Vipul Pandey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a no-code Artificial Intelligence (AI) platform called Trinity with the main design goal of enabling both machine learning\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6599,
+            "title": "A Simple and Nearly Optimal Analysis of Privacy Amplification by Shuffling",
+            "url": "https://machinelearning.apple.com/research/privacy-amplification-by-shuffling",
+            "authors": "Vitaly Feldman, Audra McMillan, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Recent work of Erlingsson, Feldman, Mironov, Raghunathan, Talwar, and Thakurta demonstrates that random shuffling amplifies differential\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6600,
+            "title": "When is Memorization of Irrelevant Training Data Necessary for High-Accuracy Learning?",
+            "url": "https://machinelearning.apple.com/research/memorization-of-irrelevant-training",
+            "authors": "Gavin R Brown, Mark Bun, Vitaly Feldman, Adam Smith, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Theory and Practice of Differential Privacy workshop at the ICML 2021 conference.\nModern machine learning\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6601,
+            "title": "Implicit Acceleration and Feature Learning in Infinitely Wide Neural Networks with Bottlenecks",
+            "url": "https://machinelearning.apple.com/research/implicit-acceleration",
+            "authors": "Etai Littwin, Omid Saremi, Shuangfei Zhai, Vimal Thilak, Hanlin Goh, Joshua M. Susskind, Greg Yang",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop on Overparameterization: Pitfalls and Opportunities at the ICML 2021 conference.\nWe analyze the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6602,
+            "title": "A Discriminative Entity Aware Language Model for Virtual Assistants",
+            "url": "https://machinelearning.apple.com/research/discriminative-entity-aware-language",
+            "authors": "Mandana Saebi, Ernie Pusateri, Aaksha Meghawat, Christophe Van Gysel",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "High-quality automatic speech recognition (ASR) is essential for virtual assistants (VAs) to work well. However, ASR often performs poorly\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6603,
+            "title": "Analysis and Tuning of a Voice Assistant System for Dysfluent Speech",
+            "url": "https://machinelearning.apple.com/research/analysis-and-tuning",
+            "authors": "Vikramjit Mitra, Zifang Huang, Colin Lea, Lauren Tooley, Panayiotis Georgiou, Sachin Kajarekar, Jefferey Bigham",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Dysfluencies and variations in speech pronunciation can severely degrade speech recognition performance, and for many individuals with\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6604,
+            "title": "Implicit Greedy Rank Learning in Autoencoders via Overparameterized Linear Networks",
+            "url": "https://machinelearning.apple.com/research/implicit-greedy-rank",
+            "authors": "Shih-Yu Sun, Vimal Thilak, Etai Littwin, Omid Saremi, Joshua M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop on Overparameterization: Pitfalls and Opportunities at the ICML 2021 conference.\nDeep linear\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6605,
+            "title": "Learning Neural Network Subspaces",
+            "url": "https://machinelearning.apple.com/research/learning-neural-network-subspaces",
+            "authors": "Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Recent observations have advanced our understanding of the neural network optimization landscape, revealing the existence of (1) paths of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6606,
+            "title": "Lossless Compression of Efficient Private Local Randomizers",
+            "url": "https://machinelearning.apple.com/research/lossless-compression",
+            "authors": "Vitaly Feldman, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the ICML 2021 conference as well as the Theory and Practice of Differential Privacy workshop at the ICML 2021\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6607,
+            "title": "Private Adaptive Gradient Methods for Convex Optimization",
+            "url": "https://machinelearning.apple.com/research/private-adaptive-gradient-methods",
+            "authors": "Hilal Asi, John Duchi, Alireza Fallah, Omid Javidbakht, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We study adaptive methods for differentially private convex optimization, proposing and analyzing differentially private variants of a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6608,
+            "title": "Private Stochastic Convex Optimization: Optimal Rates in \u21131 Geometry",
+            "url": "https://machinelearning.apple.com/research/private-stochastic-convex-optimizations",
+            "authors": "Hilal Asi, Vitaly Feldman, Tomer Koren, Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Stochastic convex optimization over an -bounded domain is ubiquitous in machine learning applications such as LASSO but remains poorly\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6609,
+            "title": "Streaming Transformer for Hardware Efficient Voice Trigger Detection and False Trigger Mitigation",
+            "url": "https://machinelearning.apple.com/research/streaming-transformer",
+            "authors": "Vineet Garg, Wonil Chang, Siddharth Sigtia, Saurabh Adya, Pramod Simha, Pranay Dighe, Chandra Dhir",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We present a unified and hardware efficient architecture for two stage voice trigger detection (VTD) and false trigger mitigation (FTM)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6610,
+            "title": "Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics",
+            "url": "https://machinelearning.apple.com/research/tensor-programs",
+            "authors": "Etai Littwin, Greg Yang",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Yang (2020a) recently showed that the Neural Tangent Kernel (NTK) at initialization has an infinite-width limit for a large class of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6611,
+            "title": "Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning",
+            "url": "https://machinelearning.apple.com/research/offline-reinforcement-learning",
+            "authors": "Yue Wu, Shuangfei Zhai, Nitish Srivastava, Josh Susskind, Jian Zhang, Ruslan Salakhutdinov, Hanlin Goh",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Offline Reinforcement Learning promises to learn effective policies from previously-collected, static datasets without the need for\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6612,
+            "title": "Spatio-Temporal Context for Action Detection",
+            "url": "https://machinelearning.apple.com/research/spatio-temporal-context",
+            "authors": "Manuel Sarmiento Calder\u00f3, David Varas, Elisenda Bou-Balust",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Research in action detection has grown in the recent years, as it plays a key role in video understanding. Modelling the interactions\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6613,
+            "title": "Bootleg: Self-Supervision for Named Entity Disambiguation",
+            "url": "https://machinelearning.apple.com/research/bootleg-self-supervision",
+            "authors": "Laurel Orr, Megan Leszczynski, Simran Arora, Sen Wu, Neel Guha, Xiao Ling, and Christopher R\u00e9",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "A challenge for named entity disambiguation (NED), the task of mapping textual mentions to entities in a knowledge base, is how to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6614,
+            "title": "Instance-Level Task Parameters: A Robust Multi-task Weighting Framework",
+            "url": "https://machinelearning.apple.com/research/instance-level-task-parameters",
+            "authors": "Pavan Kumar Anasosalu Vasu, Shreyas Saxena, Oncel Tuzel",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Recent works have shown that deep neural networks benefit from multi-task learning by learning a shared representation across several\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6615,
+            "title": "MorphGAN: Controllable One-Shot Face Synthesis",
+            "url": "https://machinelearning.apple.com/research/morphgan",
+            "authors": "Nataniel Ruiz Gutierrez, Barry Theobald, Anurag Ranjan, Ahmed Hussen Abdelaziz, Nick Apostoloff",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "To detect bias in face recognition networks, it can be useful to probe a network under test using samples in which only specific attributes\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6616,
+            "title": "Evaluating Entity Disambiguation and the Role of Popularity in Retrieval-Based NLP",
+            "url": "https://machinelearning.apple.com/research/evaluating-entity-disambiguation-amber",
+            "authors": "Anthony Chen, Pallavi Gudipati, Shayne Longpre, Xiao Ling, Sameer Singh",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Retrieval is a core component for open-domain NLP tasks. In open-domain tasks, multiple entities can share a name, making disambiguation an\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6617,
+            "title": "HDR Environment Map Estimation for Real-Time Augmented Reality",
+            "url": "https://machinelearning.apple.com/research/hdr-environment-map-estimation",
+            "authors": "Gowri Somanath, Daniel Kurz",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a method to estimate an HDR environment map from a narrow field-of-view LDR camera image in real-time. This enables perceptually\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6618,
+            "title": "Extracurricular Learning: Knowledge Transfer Beyond Empirical Distribution",
+            "url": "https://machinelearning.apple.com/research/extracurricular-learning",
+            "authors": "Hadi Pouransari, Mojan Javaheripi, Vinay Sharma, Oncel Tuzel",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Knowledge distillation has been used to transfer knowledge learned by a sophisticated model (teacher) to a simpler model (student). This\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6619,
+            "title": "Learning to Optimize Black-Box Evaluation Metrics",
+            "url": "https://machinelearning.apple.com/research/learning-to-optimize-black-box-evaluation-metrics",
+            "authors": "Chen Huang, Shuangfei Zhai, Pengsheng Guo, Josh Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We study the problem of directly optimizing arbitrary non-differentiable task evaluation metrics such as misclassification rate and recall\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6620,
+            "title": "On the Role of Visual Cues in Audiovisual Speech Enhancement",
+            "url": "https://machinelearning.apple.com/research/visual-cues-in-audiovisual-speech-enhancement",
+            "authors": "Zakaria Aldeneh, Anushree Prasanna Kumar, Barry-John Theobald, Erik Marchi, Sachin Kajarekar, Devang Naik, Ahmed Hussen Abdelaziz",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We present an introspection of an audiovisual speech enhancement model. In particular, we focus on interpreting how a neural audiovisual\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6621,
+            "title": "An Attention Free Transformer",
+            "url": "https://machinelearning.apple.com/research/attention-free-transformer",
+            "authors": "Shuangfei Zhai, Walter Talbott, Nitish Srivastava, Chen Huang, Hanlin Goh, Ruixiang Zhang, Josh Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We introduce Attention Free Transformer (AFT), an efficient variant of Transformers that eliminates the need for dot product self attention\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

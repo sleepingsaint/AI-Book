@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3744,
+            "title": "Face Key-point Recognition Using CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/face-key-point-recognition-using-cnn/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Computer Vision, Deep Learning, Programming, Project, Python, Unstructured Data",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "In this article we will see a project on face key-point recognition Using CNN. The goal is to forecast the key-points in facial pictures.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/face-detection-4760361_1920.jpg"
+        },
+        {
+            "id": 3745,
+            "title": "Let\u2019s Understand How does a chatbot work ?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/lets-understand-how-does-a-chatbot-work/",
+            "authors": "Keerthana V",
+            "tags": "Advanced, Artificial Intelligence, conversational AI, Machine Learning, NLP, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "Chatbots are AI-enabled search engines with some enhanced features having various applications. Let's see how does a chatbot work.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/75139chatbot-3589528_1920.jpg"
+        },
+        {
+            "id": 3746,
+            "title": "A Step by Step Guide to Create a CI/CD Pipeline with AWS Services",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-step-by-step-guide-to-create-a-ci-cd-pipeline-with-aws-services/",
+            "authors": "Deepak Moonat",
+            "tags": "Advanced, AWS, Cloud Computing, Machine Learning, Model Deployment, Programming, Project",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "In this article, we will learn about how to create a CI/CD Pipeline using AWS Services: AWS CodeCommit, CodeBuild, Pipeline, ECS & Fargate.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/77583Screenshot-from-2021-07-13-22-49-52.png"
+        },
+        {
+            "id": 3747,
+            "title": "Python Generators and Iterators in 2 Minutes for Data Science Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/python-generators-and-iterators-in-2-minutes-for-data-science-beginners/",
+            "authors": "Akash",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "This article is part of Python: Understanding in 2 minutes series. Today we will learn about python generators and iterators.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/181981_Acz2aMKGEqOmywuX8lFO8A.jpeg"
+        },
+        {
+            "id": 3748,
+            "title": "15 Most Important Features of Scikit-Learn!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/15-most-important-features-of-scikit-learn/",
+            "authors": "Ashish",
+            "tags": "Beginner, Data Science, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "For machine learning scikit-learn is a must know python library. In this article we will discuss 15 most important features of scikit-learn.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/31648feature-image-edit.png"
+        },
+        {
+            "id": 3749,
+            "title": "Performing Sentiment Analysis Using Twitter Data!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "We will see how to clean text data when we have a Twitter username, hashtag, URL Links, digits and did sentiment analysis on the clean data .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/performing-twitter-sentiment-analysis1.jpg"
+        },
+        {
+            "id": 3750,
+            "title": "Top 4 Features To Learn About Python 3.9",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/top-4-features-to-learn-about-python-3-9/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "In this article we will see top 4 features updated in python 3.9. Some of the features are excellent and are applied in everyday applications",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3751,
+            "title": "6 Most Useful SQL Window Functions You Should Definitely Know about!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/6-most-useful-sql-window-functions-you-should-definitely-know-about/",
+            "authors": "Nilabh Nishchhal",
+            "tags": "Beginner, Data Exploration, Data Science, SQL",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "We will see how to use SQL window functions to work. A window function in SQL uses values from multiple rows to return values for each row",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/52701mari-madriz-FRsmwVdIBOg-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3752,
+            "title": "Numpy -Slicing and Dicing: A Beginner\u2019s Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/numpy-slicing-and-dicing-a-beginners-guide/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Image, Libraries, Programming, Python",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "Numpy is a package for scientific calculation in Python. It's an ndarray under the hood and gives support for various mathematical operation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/NumPy-Introduction-for-Beginners.jpg"
+        },
+        {
+            "id": 3753,
+            "title": "Fuzzy String Matching \u2013 A Hands-on Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/fuzzy-string-matching-a-hands-on-guide/",
+            "authors": "Mimi Dutta",
+            "tags": "Beginner, Libraries, Python, Text",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "Fuzzy string matching is the technique of finding strings that match with a given string partially and not exactly. Let's see how to do it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Python-Iterators-and-Generators.jpg"
+        },
+        {
+            "id": 3754,
+            "title": "Introduction to Time Series and Forecasting by ARIMA Model.",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/introduction-to-time-series-and-forecasting-by-arima-model/",
+            "authors": "Sonia Singla",
+            "tags": "Beginner, Data Science, Datetime, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "In this article we will know what is time series, how to import data in Python, and how to perform time series forecasting using Arima.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/82241time_series.jpg"
+        },
+        {
+            "id": 3755,
+            "title": "Creating Instagram like Filters With Opencv!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/an-interesting-opencv-application-creating-filters-like-instagram-and-picsart/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Computer Vision, Image, Libraries, Python",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "OpenCV is a free to use Python library that can be used for computer vision tasks. We will be creating instagram like filters with opencv",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3756,
+            "title": "Speech Emotions Recognition with Convolutional Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/speech-emotions-recognition-with-convolutional-neural-networks/",
+            "authors": "K HITHEESH RAJ",
+            "tags": "Advanced, Artificial Intelligence, Classification, Deep Learning, Project, Python, Unstructured Data",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "In this article, we are going to explain a project on how to perform speech emotions recognition using convolutional neural network.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/nlp_speech.jpg"
+        },
+        {
+            "id": 3757,
+            "title": "Understanding Natural Language Processing -A Beginner\u2019s Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/understanding-natural-language-processing-a-beginners-guide/",
+            "authors": "Siddharth M",
+            "tags": "Beginner, Data Science, Machine Learning, NLP, Unstructured Data",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Here, We will guide you through the fundamental understanding of Natural language processing and to build a foundation in this field.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56223Natural-Language-Processing-03-1.png"
+        },
+        {
+            "id": 3758,
+            "title": "Data Visualization Using Seaborn For Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/data-visualization-using-seaborn-for-beginners/",
+            "authors": "Bahauddin Taha",
+            "tags": "Beginner, Data Science, Data Visualization, Libraries, python",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Seaborn is a Python data visualization library based on Matplotlib. In this article, we'll see how to make interesting plots using Seaborn.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/28013Cover-scaled.jpg"
+        },
+        {
+            "id": 3759,
+            "title": "Bag-of-words vs TFIDF vectorization \u2013A Hands-on Tutorial",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/",
+            "authors": "Mimi Dutta",
+            "tags": "Beginner, Machine Learning, NLP, python, Text",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Bow and TFIDF are pre-processing techniques that generate a numeric form from an input text. We will see bag-of-words-vs-tfidf-vectorization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/48577nlp.jpg"
+        },
+        {
+            "id": 3760,
+            "title": "Python on Frontend: ML Models Web Interface With\u00a0Brython",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Advanced, Cloud Computing, Data Science, Machine Learning, Model Deployment, Project",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Let's Build a ML web interface using Brython that takes in values from users, makes an API request to the model deployed, and make prediction",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/20245Python-on-frontend-Brython.png"
+        },
+        {
+            "id": 3761,
+            "title": "Data Science With Pandas: 2 Minutes Guide to Key Concepts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/data-science-with-pandas-2-minutes-guide-to-key-concepts/",
+            "authors": "Akash",
+            "tags": "Beginner, Data Science, Libraries, Programming, Python",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Pandas is one of the most popular and powerful data science libraries in Python. It is the stepping stone for any aspiring data scientist.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/68692how-to-clean-machine-learning-datasets-using-pandas-blog-hero.jpg"
+        },
+        {
+            "id": 3762,
+            "title": "Performing multi-class Classification on FIFA Dataset Using Keras",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/performing-multi-class-classification-on-fifa-dataset-using-keras/",
+            "authors": "Siddharth M",
+            "tags": "Beginner, Classification, Deep Learning, Python, Supervised",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "In this article, we will see how we can use a simple neural network in a multi-class classification problem With FIFA - 19 players dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/84944photo-1493711662062-fa541adb3fc8.jpg"
+        },
+        {
+            "id": 3763,
+            "title": "Titanic Survival Prediction Using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/titanic-survival-prediction-using-machine-learning/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Classification, Machine Learning, Project, Python",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "In this article we will develop a logistic regression model for Titanic survival prediction. We will also analyze the given Titanic dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/47881Titanic-Image.png"
+        },
+        {
+            "id": 3764,
+            "title": "Beginner\u2019s Guide For Data Analysis Using SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/beginners-guide-for-data-analysis-using-sql/",
+            "authors": "Hardikkumar Dhaduk",
+            "tags": "Advanced, Data Engineering, Libraries, Programming, Python, SQL",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "This article provides an overview of data analysis Using SQL, which should be a must-have tool for any data science beginner in the industry",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Data-analysis-using-SQL.jpg"
+        },
+        {
+            "id": 3765,
+            "title": "Word2Vec For Word Embeddings -A Beginner\u2019s Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/word2vec-for-word-embeddings-a-beginners-guide/",
+            "authors": "Mimi Dutta",
+            "tags": "Beginner, NLP, Python, Text, Word Embeddings",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "In this article we will explore word2vec a word embeddings technology. Initially we will see the basic concepts and later the implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/44589nlp.png"
+        },
+        {
+            "id": 3766,
+            "title": "Customer Segmentation Using RFM Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/customer-segmentation-using-rfm-analysis/",
+            "authors": "Surendra Tanniru",
+            "tags": "Intermediate, Project, Python, SQL, Structured Data, Use Cases",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "RFM Analysis is a marketing framework that is used to understand the customer behaviour. Here we will perform customer segmentation using RFM",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56615dbms.jpg"
+        },
+        {
+            "id": 3767,
+            "title": "Performing Sentiment Analysis With Naive Bayes Classifier!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-with-naive-bayes-classifier/",
+            "authors": "Hardikkumar Dhaduk",
+            "tags": "Beginner, Classification, Machine Learning, Project, Python",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "Naive Bayes is the simplest and fastest classification algorithm for large data. Here, we will perform sentiment analysis using Naive Bayes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/655151_RPneyCB-fJs1rdlhhABS1Q.jpeg"
+        },
+        {
+            "id": 3768,
+            "title": "All The Basics to Begin With Python Lists!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/all-the-basics-to-begin-with-python-lists/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "In this article, you\u2019ll learn about lists in Python and\u00a0their applications while writing the python programs in an optimized manner.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3769,
+            "title": "Recommendation System -Understanding The Basic Concepts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/recommendation-system-understanding-the-basic-concepts/",
+            "authors": "Shubham Kumar Agrawal",
+            "tags": "Artificial Intelligence, Beginner, Machine Learning, Recommendation",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "A recommendation system is a subclass of Information filtering Systems that seeks to predict the preference a user might give to an item.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Article-Recommender.png"
+        },
+        {
+            "id": 3770,
+            "title": "Introduction to Time series Modeling With -ARIMA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/introduction-to-time-series-modeling-with-arima/",
+            "authors": "Snehal_bm",
+            "tags": "Algorithm, Beginner, Data Science, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "In this article wee will see Time series modeling with ARIMA. The ARIMA is a very widely used time series forecasting technique.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/90569pic12.png"
+        },
+        {
+            "id": 3771,
+            "title": "MLRun: Introduction to MLOps framework",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/mlrun-introduction-to-mlops-framework/",
+            "authors": "Mohammad Ahmad",
+            "tags": "Advanced, Data Science, Libraries, Machine Learning, MLops, Python",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "MLRun is an open-sourced MLOps framework that provides\u00a0seamless and efficient management of your machine learning project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/96753charles-deluvio-pjAH2Ax4uWk-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3772,
+            "title": "Pandasql -The Best Way to Run SQL Queries in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/pandasql-best-way-to-run-sql-queries-and-codes-in-jupyter-notebook-using-python/",
+            "authors": "Nilabh Nishchhal",
+            "tags": "Beginner, Data Engineering, Libraries, Python, SQL",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "In this article, we will see the best way to run SQL queries and code in python. we will also explore pandasql library to manipulate data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/59194norbert-hentges-AX5vyYkjByY-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3773,
+            "title": "Understanding Sequential Vs Functional API in Keras",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/understanding-sequential-vs-functional-api-in-keras/",
+            "authors": "SOUMYARANJAN SWAIN",
+            "tags": "Advanced, Deep Learning, Interviews, Libraries, Python",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "Keras is a deep learning Api that makes our model building task easier. In this blog we will explore Sequential vs function API of keras .",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/neu.jpeg"
+        }
+    ]
+}

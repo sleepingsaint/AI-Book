@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5154,
+            "title": "Information Retrieval using word2vec based Vector Space Model",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/information-retrieval-using-word2vec-based-vector-space-model/",
+            "authors": "Abhishek Sharma",
+            "tags": "Advanced, NLP, Project, Python, Ranking, Technique, Text, Unstructured Data, Word Embeddings",
+            "publishedOn": "2020-08-10T00:00:00",
+            "description": "Learn Information Retrieval, Vector Space Model and Mean Precision Average. Use word2vec on an Information Retrieval project based on a vector space model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design3-768x512.png"
+        },
+        {
+            "id": 5155,
+            "title": "How to Use Texthero to Prepare a Text-based Dataset for Your NLP Project",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Libraries, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2020-08-07T00:00:00",
+            "description": "Texthero is a simple Python toolkit that provides quick and easy tools to let you preprocess, represent, map into vectors and visualize text data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Add-a-subheading.png"
+        },
+        {
+            "id": 5156,
+            "title": "6 Open-Source Projects to Become Future-Ready Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/6-open-source-data-science-projects-2/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Interview Questions, Listicle, Project, Resource",
+            "publishedOn": "2020-08-07T00:00:00",
+            "description": "Stuck at home during this tumultous period? You can try out these open-source data science projects and add shine to your data science resume.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/open-source.jpg"
+        },
+        {
+            "id": 5157,
+            "title": "People to Follow in the field of Natural Language Processing (NLP)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/people-to-follow-in-the-field-of-natural-language-processing-nlp/",
+            "authors": "Abhishek Sharma",
+            "tags": "Beginner, Listicle, NLP, Researchers & Scientists",
+            "publishedOn": "2020-08-06T00:00:00",
+            "description": "In this article we will look at the people one should follow in NLP. We will be discussing the most prominent nlp researchers and their contributions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/People-to-Follow-in-the-field-of-Natural-Language-Processing-NLP.png"
+        },
+        {
+            "id": 5158,
+            "title": "7 Awesome Python Packages and Example Projects to Build!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/7-awesome-python-packages-and-example-projects-to-build/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Listicle, Profile Building, Project, Python",
+            "publishedOn": "2020-08-05T00:00:00",
+            "description": "Useful python packages to boost your productivity. Here is a list of 7 most useful python packages slacker, prophet, spotipy with use cases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Python-Packages-and-Example.jpg"
+        },
+        {
+            "id": 5159,
+            "title": "Time Intelligence in Power BI: Capitalize on time",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/time-intelligence-power-bi/",
+            "authors": "Kaushik Roy Chowdhury",
+            "tags": "Data Exploration, Data Visualization, Intermediate, Power BI, Technique",
+            "publishedOn": "2020-08-05T00:00:00",
+            "description": "Implementation of Time Intelligence functions in Power BI. Also understand why these are important business metrics to be evaluated.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Time-Intelligence-in-Power-BI.jpg"
+        },
+        {
+            "id": 5160,
+            "title": "Playing with YOLO v1 on Google Colab",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/playing-with-yolo-v1-on-google-colab/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Computer Vision, Deep Learning, Intermediate, Python",
+            "publishedOn": "2020-08-04T00:00:00",
+            "description": "Understand, how you can quickly start detecting objects in images of your own, using the YOLO v1 architecture on the Google Colab platform, in no time.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/YOLO-v1-on-Google-Colab.jpg"
+        },
+        {
+            "id": 5161,
+            "title": "Build a Natural Language Generation (NLG) System using PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/build-a-natural-language-generation-nlg-system-using-pytorch/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, Algorithm, Deep Learning, NLP, Text, Unstructured Data, Unsupervised",
+            "publishedOn": "2020-08-04T00:00:00",
+            "description": "Understand NLG concepts such as dataset preparation, how a neural language model is trained, and finally Natural Language Generation process in PyTorch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image-1.jpg"
+        },
+        {
+            "id": 5162,
+            "title": "Selecting the Right Bounding Box Using Non-Max Suppression (with implementation)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/selecting-the-right-bounding-box-using-non-max-suppression-with-implementation/",
+            "authors": "Aishwarya Singh",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate",
+            "publishedOn": "2020-08-03T00:00:00",
+            "description": "Non-max suppression is used in various object detection algorithms like yolo, ssd. Understand how non-max suppression works with implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/graphic4.jpg"
+        },
+        {
+            "id": 5163,
+            "title": "Share & Empower \u2013 Time to take our community to the next level",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/superpro-ai-share-empower-time-to-take-our-community-to-the-next-level/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "SuperPro.Ai is a platform where experienced Data Scientists from the community can donate mentorship sessions to the community members seeking guidance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/og-1.png"
+        },
+        {
+            "id": 5164,
+            "title": "Read and Update Google Spreadsheets with Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Excel, Programming, Python",
+            "publishedOn": "2020-07-30T00:00:00",
+            "description": "Learn to use Google APIs to read google spreadsheets data using python and update the data in the spreadsheet using python also.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/google-spreadsheets-with-python.jpg"
+        },
+        {
+            "id": 5165,
+            "title": "12 Univariate Data Visualizations With Illustrations in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/univariate-analysis-visualization-with-illustrations-in-python/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Visualization, Libraries, Python, Structured Data, Technique",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Univariate Analysis is the key to understanding each and every variable in the data. Learn how to visualize and interpret univariate data visualization",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Visualization-With-Illustrations-in-python.jpg"
+        },
+        {
+            "id": 5166,
+            "title": "Leveraging Machine Learning for Efficiency in Supply Chain Management",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/leveraging-machine-learning-for-efficiency-in-supply-chain-management/",
+            "authors": "guest_blog",
+            "tags": "Intermediate, Machine Learning, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Understand use of Machine Learning in Supply Chain Management where you would like to predict the defective piece percentage in delivery from the supplier.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/supply-chain.png"
+        },
+        {
+            "id": 5167,
+            "title": "How Part-of-Speech Tag, Dependency and Constituency Parsing Aid In Understanding Text Data?",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/part-of-speechpos-tagging-dependency-parsing-and-constituency-parsing-in-nlp/",
+            "authors": "Abhishek Sharma",
+            "tags": "Beginner, NLP, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Understandout the fundemental concepts of natural language processing that include Part-of-Speech (POS) tagging, Dependency parsing and Constituency parsing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image-2.jpg"
+        },
+        {
+            "id": 5168,
+            "title": "Feature Transformation and Scaling Techniques to Boost Your Model Performance",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/",
+            "authors": "Purva Huilgol",
+            "tags": "Beginner, Machine Learning, Structured Thinking, Technique",
+            "publishedOn": "2020-07-28T00:00:00",
+            "description": "Feature Scaling and transformation help in bringing the features to the same scale and change into normal distribution. Thus, boosting model performance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Feature-Transformation-and-Scaling-Techniques.jpg"
+        },
+        {
+            "id": 5169,
+            "title": "Everything you need to know before setting up Business Analytics!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/everything-you-need-to-know-before-setting-up-business-analytics/",
+            "authors": "amit_kumar",
+            "tags": "Beginner, Business Analytics, Resource, Uncategorized",
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": "Understand the challenges and impact measurements to be looked into while setting up Business Analytics for your organization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Business-Analytics-1.png"
+        },
+        {
+            "id": 5170,
+            "title": "8 Data Visualization Tips to Improve Data Stories",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/8-data-visualization-tips-to-improve-data-stories/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Data Visualization, Technique",
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": "Data visualization is not easy to master. Therefore, this article covers some esentials data visualization tips to create better visuals for your data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 5171,
+            "title": "Understanding and coding Neural Networks From Scratch in Python and R",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/neural-networks-from-scratch-in-python-and-r/",
+            "authors": "Sunil Ray",
+            "tags": "Algorithm, Data Science, Deep Learning, Intermediate, Machine Learning, Python, R",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "Understand neural networks from scratch in python and R. Master neural networks with perceptron, NN methodology and implement it in python and R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/29021937/635965173527052708-540999202_wallpaper-2870969.jpg"
+        },
+        {
+            "id": 5172,
+            "title": "MobileBERT: BERT for Resource-Limited Devices",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/mobilebert/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Algorithm, Deep Learning, NLP, Text, Unstructured Data",
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": "MobileBERT introduces bottlenecks in the transformer blocks, which allows us easily to distill the knowledge from larger teachers into smaller students.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/1ZkzW6jfZSneVPRiRbuxa8w.jpeg"
+        },
+        {
+            "id": 5173,
+            "title": "10 Techniques to deal with Imbalanced Classes in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/",
+            "authors": "guest_blog",
+            "tags": "Classification, Intermediate, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": "Class Imbalance is a very common problem in machine learning. This articles lists 10 different ways to handle imbalanced classification using Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/How-to-treat-Class-Imbalance-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 5174,
+            "title": "How to Train an Image Classification Model in PyTorch and TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/how-to-train-an-image-classification-model-in-pytorch-and-tensorflow/",
+            "authors": "Pulkit Sharma",
+            "tags": "Classification, Computer Vision, Deep Learning, Image, Intermediate, Project, Python, PyTorch, Supervised, Unstructured Data",
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": "Build image classification models in Pytorch and TensorFlow. Learn CNN for image classification on MNIST dataset and analyze the performance of the model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Building-an-Image-Classification-model_2.jpg"
+        },
+        {
+            "id": 5175,
+            "title": "5 Exciting Computer Vision Applications With Relevant Datasets!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/5-exciting-computer-vision-applications-with-relevant-datasets/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Computer Vision, Listicle, Use Cases",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "Computer vision applications from pose detection to image transformation. Here is a list of applications of computer vision with relevant dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/cv-app.jpg"
+        },
+        {
+            "id": 5176,
+            "title": "Transfer Learning for NLP: Fine-Tuning BERT for Text Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, Deep Learning, NLP, Project, Python, Supervised, Text, Unstructured Data",
+            "publishedOn": "2020-07-21T00:00:00",
+            "description": "Transfer learning in NLP is a technique to train a model to perform similar tasks on another dataset. Learn how to fine tune BERT for text classification.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/feat_img.png"
+        },
+        {
+            "id": 5177,
+            "title": "24 Commonly used SQL Functions for Data Analysis tasks",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/sql-functions-for-data-analysis-tasks/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Intermediate, SQL, Structured Data, Technique",
+            "publishedOn": "2020-07-20T00:00:00",
+            "description": "SQL functions that are commonly used for data analysis tasks. In this article learn the most common SQL functions for data analysis with examples.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 5178,
+            "title": "Top 20 Visualization Dashboards for Mapping COVID-19",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/top-20-covid-19-dashboard/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Exploration, Data Visualization, Healthcare, Listicle",
+            "publishedOn": "2020-07-16T00:00:00",
+            "description": "Data Visualization has played a key role in understanding the spread of Covid-19. Have a look at the 20 most compelling COVID-19 Dashboard across the globe.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/corona.jpg"
+        },
+        {
+            "id": 5179,
+            "title": "Difference between SQL Keys (Primary Key, Super Key, Candidate Key, Foreign Key)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/difference-between-sql-keys-primary-key-super-key-candidate-key-foreign-key/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, SQL, Structured Data, Technique",
+            "publishedOn": "2020-07-16T00:00:00",
+            "description": "SQL keys and the difference between keys in SQL. In this article learn types of keys in SQL to draw relation between tables in Database using SQL keys.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Keys.jpg"
+        },
+        {
+            "id": 5180,
+            "title": "9 Books to Start Your Business Analytics Journey",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/top-business-analytics-books-to-read/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Beginner, Business Analytics, Listicle",
+            "publishedOn": "2020-07-15T00:00:00",
+            "description": "Business Analytics is one of the most booming job roles in the Data Science Industry. Top business analytics books which will help you learn and grow.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Top-Books-to-Read-for-Business-Analytics-Professional.jpg"
+        },
+        {
+            "id": 5181,
+            "title": "KNNImputer: A robust way to impute missing values (using Scikit-Learn)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/knnimputer-a-robust-way-to-impute-missing-values-using-scikit-learn/",
+            "authors": "Kaushik Roy Chowdhury",
+            "tags": "Beginner, Python, Structured Data, Technique",
+            "publishedOn": "2020-07-14T00:00:00",
+            "description": "Learn about kNNImputer and how you can use them to impute missing values in a dataset. Also get an overview of missing value and its patterns.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/missing.jpg"
+        },
+        {
+            "id": 5182,
+            "title": "Hypothesis Testing: A Way to Accept or Reject Your Hypothesis Using p-value",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/hypothesis-testing-68351/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Business Analytics, Statistics, Technique",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "Learn the basics of Hypothesis Testing and types of hypothesis testing. Introduce yourself to statistically significant p-value and confidence levels.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Inferential-Statistics-for-beginners.jpg"
+        },
+        {
+            "id": 5183,
+            "title": "5 Striking Pandas Tips and Tricks for Analysts and Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/5-striking-pandas-tips-and-tricks-for-analysts-and-data-scientists/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Data Science, Libraries, Listicle, Pandas, Programming, Python",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "Learn 5 Pandas tips, tricks, hacks for python in jupyter notebook. It is one of the most essential libraries to be efficiently mastered by data scientists.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/panda-tips.jpg"
+        }
+    ]
+}

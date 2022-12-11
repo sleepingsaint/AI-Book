@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8512,
+            "title": "TransformX by Scale AI is Oct 19-21: Register for free!",
+            "url": "https://machinelearningmastery.com/transformx-scale-ai-register-free/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0 \ud83d\udce3 The AI event of the year is quickly approaching\u2026 We\u2019re talking about TransformX, a FREE virtual conference where you\u2019ll hear from 120+ technology leaders from companies like Google, Meta, OpenAI, DeepMind, Amazon, and more. Explore how AI will power ecommerce, AI applications for healthcare, NFT marketplaces and more. \ud83c\udf99 Speakers [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/09/scale-mlm-220922.png"
+        },
+        {
+            "id": 8513,
+            "title": "A Gentle Introduction to Positional Encoding in Transformer Models, Part 1",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/",
+            "authors": "Mehreen Saeed",
+            "tags": "Attention",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Introduction to how position information is encoded in transformers and how to write your own positional encoder in Python.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/01/muhammad-murtaza-ghani-CIVbJZR8aAk-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8514,
+            "title": "The Transformer Model",
+            "url": "https://machinelearningmastery.com/the-transformer-model/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-18T00:00:00",
+            "description": "We have already familiarized ourselves with the concept of self-attention as implemented by the Transformer attention mechanism for neural machine translation. We will now be shifting our focus to the details of the Transformer architecture itself to discover how self-attention can be implemented without relying on the use of recurrence and convolutions. In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/transformer_cover-1-scaled.jpg"
+        },
+        {
+            "id": 8515,
+            "title": "The Transformer Attention Mechanism",
+            "url": "https://machinelearningmastery.com/the-transformer-attention-mechanism/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-15T00:00:00",
+            "description": "Before the introduction of the Transformer model, the use of attention for neural machine translation was implemented by RNN-based encoder-decoder architectures. The Transformer model revolutionized the implementation of attention by dispensing with recurrence and convolutions and, alternatively, relying solely on a self-attention mechanism.\u00a0 We will first focus on the Transformer attention mechanism in this tutorial [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/transformer_cover.jpg"
+        },
+        {
+            "id": 8516,
+            "title": "Understanding Simple Recurrent Neural Networks in Keras",
+            "url": "https://machinelearningmastery.com/understanding-simple-recurrent-neural-networks-in-keras/",
+            "authors": "Mehreen Saeed",
+            "tags": "Attention",
+            "publishedOn": "2022-09-12T00:00:00",
+            "description": "This tutorial shows how a simple RNN computes the output from a given input. Next, it builds an end to end system for time series prediction.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/IMG_9433-scaled.jpg"
+        },
+        {
+            "id": 8517,
+            "title": "An Introduction to Recurrent Neural Networks and the Math That Powers Them",
+            "url": "https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/",
+            "authors": "Mehreen Saeed",
+            "tags": "Attention",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "Recurrent neural networks are designed to hold past or historic information of sequential data. An RNN is unfolded in time and trained via BPTT.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/IMG_9527-scaled.jpg"
+        },
+        {
+            "id": 8518,
+            "title": "The Luong Attention Mechanism",
+            "url": "https://machinelearningmastery.com/the-luong-attention-mechanism/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-05T00:00:00",
+            "description": "The Luong attention sought to introduce several improvements over the Bahdanau model for neural machine translation, notably by introducing two new classes of attentional mechanisms: a global approach that attends to all source words and a local approach that only attends to a selected subset of words in predicting the target sentence.\u00a0 In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/luong_cover-scaled.jpg"
+        },
+        {
+            "id": 8519,
+            "title": "The Bahdanau Attention Mechanism",
+            "url": "https://machinelearningmastery.com/the-bahdanau-attention-mechanism/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-03T00:00:00",
+            "description": "Conventional encoder-decoder architectures for machine translation encoded every source sentence into a fixed-length vector, regardless of its length, from which the decoder would then generate a translation. This made it difficult for the neural network to cope with long sentences, essentially resulting in a performance bottleneck.\u00a0 The Bahdanau attention was proposed to address the performance [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/bahdanau_cover-scaled.jpg"
+        },
+        {
+            "id": 8520,
+            "title": "Adding a Custom Attention Layer to a Recurrent Neural Network in Keras",
+            "url": "https://machinelearningmastery.com/adding-a-custom-attention-layer-to-recurrent-neural-network-in-keras/",
+            "authors": "Mehreen Saeed",
+            "tags": "Attention",
+            "publishedOn": "2022-09-01T00:00:00",
+            "description": "Learn how to subclass Kera's 'Layer' and add methods to it to build your own customized attention layer in a deep learning network.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/10/yahya-ehsan-L895sqROaGw-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8521,
+            "title": "Join Doug Turnbull\u2019s \u2018ML Powered Search\u2019 Live Cohort",
+            "url": "https://machinelearningmastery.com/doug-turnbull-ml-powered-search-live-cohort/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-08-31T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0Sign up for Doug Turnbull\u2019s exclusive live cohort, starting October 11. Previous Sphere cohorts have had students from Apple, Amazon, Spotify, Microsoft, Twitter, Shopify, Glassdoor, and more. Doug leads the entire Search Relevance practice at Shopify. He has spent the last 10+ years writing industry-leading books such as \u201cRelevant Search\u201d (2016) & [\u2026]",
+            "thumbnail": "https://www.kdnuggets.com/wp-content/uploads/sphere-220830.png"
+        },
+        {
+            "id": 8522,
+            "title": "A Tour of Attention-Based Architectures",
+            "url": "https://machinelearningmastery.com/a-tour-of-attention-based-architectures/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-08-30T00:00:00",
+            "description": "As the popularity of attention in machine learning grows, so does the list of neural architectures that incorporate an attention mechanism. In this tutorial, you will discover the salient neural architectures that have been used in conjunction with attention. After completing this tutorial, you will better understand how the attention mechanism is incorporated into different [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/tour_cover2-scaled.jpg"
+        },
+        {
+            "id": 8523,
+            "title": "The Attention Mechanism from Scratch",
+            "url": "https://machinelearningmastery.com/the-attention-mechanism-from-scratch/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-08-27T00:00:00",
+            "description": "The attention mechanism was introduced to improve the performance of the encoder-decoder model for machine translation. The idea behind the attention mechanism was to permit the decoder to utilize the most relevant parts of the input sequence in a flexible manner, by a weighted combination of all the encoded input vectors, with the most relevant [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/attention_mechanism_cover-scaled.jpg"
+        },
+        {
+            "id": 8524,
+            "title": "What Is Attention?",
+            "url": "https://machinelearningmastery.com/what-is-attention/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "Attention is becoming increasingly popular in machine learning, but what makes it such an attractive concept? What is the relationship between attention applied in artificial neural networks and its biological counterpart? What components would one expect to form an attention-based system in machine learning? In this tutorial, you will discover an overview of attention and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/09/what_is_attention_cover-scaled.jpg"
+        },
+        {
+            "id": 8525,
+            "title": "A Bird\u2019s Eye View of Research on Attention",
+            "url": "https://machinelearningmastery.com/a-birds-eye-view-of-research-on-attention/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-08-23T00:00:00",
+            "description": "Attention is a concept that is scientifically studied across multiple disciplines, including psychology, neuroscience, and, more recently, machine learning. While all disciplines may have produced their own definitions for attention, one core quality they can all agree on is that attention is a mechanism for making both biological and artificial neural systems more flexible.\u00a0 In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_cover-scaled.jpg"
+        },
+        {
+            "id": 8526,
+            "title": "How to Calculate Precision, Recall, F1, and More for Deep Learning Models",
+            "url": "https://machinelearningmastery.com/how-to-calculate-precision-recall-f1-and-more-for-deep-learning-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "Once you fit a deep learning neural network model, you must evaluate its performance on a test dataset. This is critical, as the reported performance allows you to both choose between candidate models and to communicate to stakeholders about how good the model is at solving the problem. The Keras deep learning API model is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Line-Plot-Showing-Learning-Curves-of-Loss-and-Accuracy-of-the-MLP-on-the-Two-Circles-Problem-During-Training.png"
+        },
+        {
+            "id": 8527,
+            "title": "Last call: Stefan Krawcyzk\u2019s \u2018Mastering MLOps\u2019 Live Cohort",
+            "url": "https://machinelearningmastery.com/last-call-stefan-krawcyzks-mastering-mlops-live-cohort/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "Sponsored Post \u00a0 This is your last chance to sign up for Stefan Krawczyk\u2019s exclusive live cohort, starting next week (August 22nd). We already have students enrolled from Apple, Amazon, Spotify, Nubank, Workfusion, Glassdoor, ServiceNow, and more. Stefan Krawczky has spent the last 15+ years working on MLOps at companies like Stitch Fix, Nextdoor, and [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/08/mlm-sphere-header-image-220818.jpg"
+        },
+        {
+            "id": 8528,
+            "title": "How to Make Predictions with Keras",
+            "url": "https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "Once you choose and fit a final deep learning model in Keras, you can use it to make predictions on new data instances. There is some confusion amongst beginners about how exactly to do this. I often see questions such as: How do I make predictions with my model in Keras? In this tutorial, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/How-to-Make-Classification-and-Regression-Predictions-for-Deep-Learning-Models-in-Keras.jpg"
+        },
+        {
+            "id": 8529,
+            "title": "Why Initialize a Neural Network with Random Weights?",
+            "url": "https://machinelearningmastery.com/why-initialize-a-neural-network-with-random-weights/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-08-14T00:00:00",
+            "description": "The weights of artificial neural networks must be initialized to small random numbers. This is because this is an expectation of the stochastic optimization algorithm used to train the model, called stochastic gradient descent. To understand this approach to problem solving, you must first understand the role of nondeterministic and randomized algorithms as well as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/Why-Initialize-a-Neural-Network-with-Random-Weights.jpg"
+        },
+        {
+            "id": 8530,
+            "title": "When to Use MLP, CNN, and RNN Neural Networks",
+            "url": "https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-08-12T00:00:00",
+            "description": "What neural network is appropriate for your predictive modeling problem? It can be difficult for a beginner to the field of deep learning to know what type of network to use. There are so many types of networks to choose from and new methods being published and discussed every day. To make things worse, most [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/When-to-Use-MLP-CNN-and-RNN-Neural-Networks.jpg"
+        },
+        {
+            "id": 8531,
+            "title": "Difference Between a Batch and an Epoch in a Neural Network",
+            "url": "https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "Stochastic gradient descent is a learning algorithm that has a number of hyperparameters. Two hyperparameters that often confuse beginners are the batch size and number of epochs. They are both integer values and seem to do the same thing. In this post, you will discover the difference between batches and epochs in stochastic gradient descent. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/What-is-the-Difference-Between-a-Batch-and-an-Epoch-in-a-Neural-Network.jpg"
+        },
+        {
+            "id": 8532,
+            "title": "Using Depthwise Separable Convolutions in Tensorflow",
+            "url": "https://machinelearningmastery.com/using-depthwise-separable-convolutions-in-tensorflow/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "Looking at all of the very large convolutional neural networks such as ResNets, VGGs, and the like, it begs the question on how we can make all of these networks smaller with less parameters while still maintaining the same level of accuracy or even improving generalization of the model using a smaller amount of parameters. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/arisa-chattasa-o58Xi32Rnlk-unsplash.jpg"
+        },
+        {
+            "id": 8533,
+            "title": "Mastering MLOps: Live Model Deployment & Inference Course with Stefan Krawczyk",
+            "url": "https://machinelearningmastery.com/mastering-mlops-live-model-deployment-inference-course-with-stefan-krawczyk/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "Sponsored Post AI & Machine Learning now power most product experiences even beyond those of the big technology companies. Today, your models must perform and function correctly to ultimately deliver business value. The cost of deploying a slow or bad model, or not detecting undesirable behavior quickly, could significantly impact customer experience and the business\u2019 [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/07/Medium-Banner.png"
+        },
+        {
+            "id": 8534,
+            "title": "Tepper Wants to Nerd Out On Data With You",
+            "url": "https://machinelearningmastery.com/tepper-wants-to-nerd-out-on-data-with-you/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-07-28T00:00:00",
+            "description": "Sponsored Post There are many practical reasons why you should choose an online Masters in Business Analytics from the Tepper School of Business at Carnegie Mellon University. We can list facts like: our alumni average $103,000 in starting salary and 84% of our grads secured a promotion or new position within three months of graduation. [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/07/cmu-tepper-mlm-220727-1.jpeg"
+        },
+        {
+            "id": 8535,
+            "title": "Image Augmentation with Keras Preprocessing Layers and tf.image",
+            "url": "https://machinelearningmastery.com/image-augmentation-with-keras-preprocessing-layers-and-tf-image/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "When you work on a machine learning problem related to images, not only do you need to collect some images as training data, but you also need to employ augmentation to create variations in the image. It is especially true for more complex object recognition problems. There are many ways for image augmentation. You may [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/steven-kamenar-MMJx78V7xS8-unsplash.jpg"
+        },
+        {
+            "id": 8536,
+            "title": "Image Augmentation for Deep Learning with Keras",
+            "url": "https://machinelearningmastery.com/image-augmentation-deep-learning-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "Data preparation is required when working with neural networks and deep learning models. Increasingly, data augmentation is also required on more complex object recognition tasks. In this post, you will discover how to use data preparation and data augmentation with your image datasets when developing and evaluating deep learning models in Python with Keras. After [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Example-MNIST-images.png"
+        },
+        {
+            "id": 8537,
+            "title": "Loss Functions in TensorFlow",
+            "url": "https://machinelearningmastery.com/loss-functions-in-tensorflow/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "The loss metric is very important for neural networks. As all machine learning models are one optimization problem or another, the loss is the objective function to minimize. In neural networks, the optimization is done with gradient descent and backpropagation. But what are loss functions, and how are they affecting your neural networks? In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/ian-taylor-mwUk4oNxkkA-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8538,
+            "title": "High-Fidelity Synthetic Data for Data Engineers and Data Scientists Alike",
+            "url": "https://machinelearningmastery.com/high-fidelity-synthetic-data-for-data-engineers-and-data-scientists-alike/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "Sponsored Post If you\u2019re a data engineer or data scientist, you know how hard it is to generate and maintain realistic data at scale. And to guarantee data privacy protection, in addition to all your day-to-day responsibilities? OOF. Talk about a heavy lift. But in today\u2019s world, efficient data de-identification is no longer optional for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/tonic-kdn-220707-1.jpg"
+        },
+        {
+            "id": 8539,
+            "title": "Understanding the Design of a Convolutional Neural Network",
+            "url": "https://machinelearningmastery.com/understanding-the-design-of-a-convolutional-neural-network/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "Convolutional neural networks have been found successful in computer vision applications. Various network architectures are proposed, and they are neither magical nor hard to understand. In this tutorial, you will make sense of the operation of convolutional layers and their role in a larger convolutional neural network. After finishing this tutorial, you will learn: How [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/kin-shing-lai-7qUtO7iNZ4M-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8540,
+            "title": "A Gentle Introduction to the tensorflow.data API",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-tensorflow-data-api/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-12T00:00:00",
+            "description": "When you build and train a Keras deep learning model, you can provide the training data in several different ways. Presenting the data as a NumPy array or a TensorFlow tensor is common. Another way is to make a Python generator function and let the training loop read data from it. Yet another way of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/monika-mg-S_r6KV1xihE-unsplash.jpg"
+        },
+        {
+            "id": 8541,
+            "title": "Using Learning Rate Schedules for Deep Learning Models in Python with Keras",
+            "url": "https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-09T00:00:00",
+            "description": "Training a neural network or large deep learning model is a difficult optimization task. The classical algorithm to train neural networks is called stochastic gradient descent. It has been well established that you can achieve increased performance and faster training on some problems by using a learning rate that changes during training. In this post, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Using-Learning-Rate-Schedules-for-Deep-Learning-Models-in-Python-with-Keras.jpg"
+        }
+    ]
+}

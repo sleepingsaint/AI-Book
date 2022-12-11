@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2154,
+            "title": "Guide to Phantom- a Web3 Wallet",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/guide-to-phantom-a-web3-wallet/",
+            "authors": "Myron Dsilva",
+            "tags": "Advanced, Cloud Computing, Web 3.0",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "Learn using Phantom, a Web3 wallet that is used to store assets and interact with decentralized applications built on the Solana blockchain.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/1.jpg"
+        },
+        {
+            "id": 2155,
+            "title": "Audio-textual Cross-modal Learning for Conversational ASR",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/audio-textual-cross-modal-learning-for-conversational-asr/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Intermediate, NLP",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "While training the conversational ASR system, the extractor is frozen to extract the textual representation of the preceding speech",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Get-Certified-with-Free-Courses-in-Data-Science-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 2156,
+            "title": "Tokenizer-free Language Modeling with Pixels",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/tokenizer-free-language-modeling-with-pixels/",
+            "authors": "Drishti Sharma",
+            "tags": "Data Science, Deep Learning, Intermediate, Libraries, NLP, Python, Text",
+            "publishedOn": "2022-09-25T00:00:00",
+            "description": "PIXELS render texts as images, that allow representing\u00a0any written language that can be typeset using its text renderer.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67274portada-nlp.jpg"
+        },
+        {
+            "id": 2157,
+            "title": "All About Spark- Jobs, Stages and Tasks",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/all-about-spark-jobs-stages-and-tasks/",
+            "authors": "Tanmay Maheshwari",
+            "tags": "Data Engineering, Datasets, Intermediate, Python, Spark",
+            "publishedOn": "2022-09-24T00:00:00",
+            "description": "In this article, you will be able to get an understanding of how a Spark Application is executed through job stage and tasks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/8-Must-Know-Spark-Optimization-Tips-for-Data-Engineering-Beginners-.jpg"
+        },
+        {
+            "id": 2158,
+            "title": "Object Detection Using YOLO And Mobilenet SSD",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/object-detection-using-yolo-and-mobilenet-ssd/",
+            "authors": "ANURAG SINGH CHOUDHARY",
+            "tags": "Computer Vision, Intermediate, Object Detection, Python",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "The You Only Look Once (YOLO) algorithm performs real-time object detection using a convolutional neural network (CNN).",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/YOLO-v1-on-Google-Colab.jpg"
+        },
+        {
+            "id": 2159,
+            "title": "A Comprehensive Guide On Apache Sqoop",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/a-comprehensive-guide-on-apache-sqoop/",
+            "authors": "Rahul Patidar",
+            "tags": "Beginner, Big data, Data Engineering, Guide, Hadoop, SQL",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "Apache Sqoop is data ingestion and migration technology for exporting and importing data from external sources.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/45585Data-by-using-Apache-Pig-and-Hadoop-platform.jpg"
+        },
+        {
+            "id": 2160,
+            "title": "Build a Simple Realtime Data Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/build-a-simple-realtime-data-pipeline/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Beginner, Big data, Data Engineering, Database, Python",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "In this article, we will look at a basic Kafka data pipeline where we extract live TESLA stock data from Yahoo Finance website.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/47301big-data.jpg"
+        },
+        {
+            "id": 2161,
+            "title": "SQL Query: Coding Question Asked by Microsoft and Facebook",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/sql-query-coding-question-asked-by-microsoft-and-facebook/",
+            "authors": "R Gupta",
+            "tags": "Data Engineering, Intermediate, Interview Questions, SQL",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "In this article, we will look at two SQL questions as by microsoft and facebook, and how to solve them efficiently.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.png"
+        },
+        {
+            "id": 2162,
+            "title": "Reinforcement Learning Techniques Based on Types of Interaction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/reinforcement-learning-techniques-based-on-types-of-interaction/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, Machine Learning, Reinforcement Learning",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "Reinforcement Learning is a general framework for adaptive control that enables an agent to learn to maximize a specified reward signal",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/Reinforcement-Learning_1.png"
+        },
+        {
+            "id": 2163,
+            "title": "Principal Component Analysis Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/principal-component-analysis-interview-questions/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Interview Questions, Machine Learning, Maths",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "In this article, we will check some important Interview questions based on Principal component analysis (PCA).",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview.png"
+        },
+        {
+            "id": 2164,
+            "title": "Book your Seats now for Upcoming DataHour Sessions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/book-your-seats-now-for-upcoming-datahour-sessions/",
+            "authors": "Shweta Rawat",
+            "tags": "Analytics Vidhya, Announcement, Videos",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "This article will give you all the information about the upcoming DataHour sessions. So mark your calendar!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/09/article.jpg"
+        },
+        {
+            "id": 2165,
+            "title": "Interacting with Remote Databases \u2013 PostgreSQL and DBAPIs",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/interacting-with-remote-databases-postgresql-and-dbapis/",
+            "authors": "ASHTONE ONYANGO",
+            "tags": "Beginner, Database, Python, SQL",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "Explore the fundamentals of interacting with a database and using Database APIs and PostgreSQL to connect with a database.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/database.png"
+        },
+        {
+            "id": 2166,
+            "title": "Interview Questions on NLP Fundamentals",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/interview-questions-on-nlp-fundamentals/",
+            "authors": "Pradeep T",
+            "tags": "Beginner, Interview Questions, Interviews, NLP, Python",
+            "publishedOn": "2022-09-21T00:00:00",
+            "description": "In this article, you will get an opportunity to polish your basics on the NLP fundamentals and help you prepare for interviews.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/36882NLP-e1595362635214.jpg"
+        },
+        {
+            "id": 2167,
+            "title": "How is Big Data Helping in the Development of Healthcare?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-is-big-data-helping-in-the-development-of-healthcare/",
+            "authors": "Trupti Dekate",
+            "tags": "Beginner, Big data, Data Engineering, Healthcare",
+            "publishedOn": "2022-09-21T00:00:00",
+            "description": "\"Big data in healthcare\" refers to health data collected from electronic health records, medical imaging, and pharmaceutical research.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/47301big-data.jpg"
+        },
+        {
+            "id": 2168,
+            "title": "Image Classification Using Resnet-50 Deep Learning Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/image-classification-in-stl-10-dataset-using-resnet-50-deep-learning-model/",
+            "authors": "Aryan Garg",
+            "tags": "Beginner, Datasets, Deep Learning, Machine Learning, Python",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Train an image classification model using the feature extraction + classification principle, and then use feature vectors in ML classifiers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-3.jpg"
+        },
+        {
+            "id": 2169,
+            "title": "Complete Guide to Analyzing Movie Reviews Using NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/",
+            "authors": "Aakash93 Makwana",
+            "tags": "Advanced, Guide, NLP, Python",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "This article will take you through analysing different movie reviews using NLP. Sounds interesting? Let's get started!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/86762why-is-NLP-relevant-for-insurers-cover-e1566482047860.jpg"
+        },
+        {
+            "id": 2170,
+            "title": "AWS Braket: The Quantum Computing Tool",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/aws-braket-the-quantum-computing-tool/",
+            "authors": "Gitesh Dhore",
+            "tags": "AWS, Cloud Computing, Intermediate",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "In this article, you will learn about AWS Braket which is one of the most popular quantum computing tool used in the industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 2171,
+            "title": "How Endpoint Security in a Cloud-based System Works?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-endpoint-security-in-a-cloud-based-system-works/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Cloud Computing, Cyber Security",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "In this article, you will read about Endpoint security which is protecting corporate networks from threats from local or remote devices.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/45207Cloud-1.jpg"
+        },
+        {
+            "id": 2172,
+            "title": "Building a Lakehouse \u2013 Try Delta Lake!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/building-a-lakehouse-try-delta-lake/",
+            "authors": "GT Thalpati",
+            "tags": "Cyber Security, Data Engineering, Intermediate",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "In this article, you will learn everything about the delta lake and lakehouses, understand the basic definition and its benefits.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/09/Data-Engineer_Blog-scaled-1.jpeg"
+        },
+        {
+            "id": 2173,
+            "title": "How do AWS S3 Buckets and Security Work?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/how-do-aws-s3-buckets-and-security-work/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Cyber Security, Intermediate",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Learn how AWS S3 buckets work when it comes to cloud security for companies that rely on cloud environments to reduce cybersecurity.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/deep-learning-cyber-security.jpg"
+        },
+        {
+            "id": 2174,
+            "title": "Top 5 Custom Visuals in Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/top-5-custom-visuals-in-power-bi/",
+            "authors": "Gomathi Srinivasan",
+            "tags": "Beginner, Data Visualization, Power BI",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "In this article, you will study about five different custom visuals that Power BI has. Along with this, study their use-cases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/power-bi.png"
+        },
+        {
+            "id": 2175,
+            "title": "A Beginner\u2019s Guide to Deep Learning Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/a-beginners-guide-to-deep-learning-algorithms/",
+            "authors": "Hariharan",
+            "tags": "Algorithm, Beginner, Deep Learning",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "This article talks about the basics of deep learning algorithms for which you must have strong basics of mathematics and statistics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 2176,
+            "title": "Top 20 Apache Oozie Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/top-20-apache-oozie-interview-questions/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Engineering, Interview Questions, Interviews",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Are you preparing for an interview? This article will help you get through the basics of Apache Oozie and help you prepare.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/62235Data-Engineering-Thumbnail-2.png"
+        },
+        {
+            "id": 2177,
+            "title": "An Enterprise Data Strategy for Building the Trustworthy AI Practice",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/an-enterprise-data-strategy-for-building-the-trustworthy-ai-practice/",
+            "authors": "Arindam Banerjee",
+            "tags": "Artificial Intelligence, Beginner",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "In this article, you will learn about the five key aspects of enterprise data strategy for developing trustworthy AI practices.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/40612artificial-intelligence-g43d8b23eb_1920.jpg"
+        },
+        {
+            "id": 2178,
+            "title": "Top 12 Interview Questions for Blockchain Developers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/top-12-interview-questions-for-blockchain-developers/",
+            "authors": "Shikha Sharma",
+            "tags": "Beginner, Blockchain, Interview Questions",
+            "publishedOn": "2022-09-19T00:00:00",
+            "description": "In this article, you will learn common questions that will help you prepare for your interviews with blockchain developers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/joshua-woroniecki-_hcBtOKOOo0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2179,
+            "title": "Make Model Training and Testing Easier with MultiTrain",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/make-model-training-and-testing-easier-with-multitrain/",
+            "authors": "SAMSON SHITTU",
+            "tags": "Beginner, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-09-19T00:00:00",
+            "description": "In this article, you will learn how to make model training and testing easier with the multitrain dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 2180,
+            "title": "Join the Upcoming Datahour Sessions!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/join-the-upcoming-datahour-sessions/",
+            "authors": "Deeksha Rana",
+            "tags": "Algorithm, Analytics Vidhya, Announcement, Artificial Intelligence, Education, Interview Questions, Machine Learning",
+            "publishedOn": "2022-09-19T00:00:00",
+            "description": "In this article, you will get all the information about the upcoming DataHour sessions for this week. Hope you're excited!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/09/article.jpg"
+        },
+        {
+            "id": 2181,
+            "title": "Apache Sqoop: Features, Architecture and Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/apache-sqoop-features-architecture-and-operations/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Big data, Data Engineering, Hadoop",
+            "publishedOn": "2022-09-18T00:00:00",
+            "description": "Apache SQOOP is a tool designed to aid in the large-scale export and import of data into HDFS from structured data repositories.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Getting-started-with-apache-hive.jpg"
+        },
+        {
+            "id": 2182,
+            "title": "Uninformed Search Strategy for State Space Search Solving",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/uninformed-search-strategy-for-state-space-search-solving/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Algorithm, Artificial Intelligence, Beginner",
+            "publishedOn": "2022-09-18T00:00:00",
+            "description": "The search strategy of the agent decide this \"relevant\" action. This helps the agent choose the right move to reach the destination.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/research.jpg"
+        },
+        {
+            "id": 2183,
+            "title": "Image Prediction Using a Pre-trained Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/09/image-prediction-using-a-pre-trained-model/",
+            "authors": "Dipesh Shrestha",
+            "tags": "Beginner, Classification, Deep Learning, Python",
+            "publishedOn": "2022-09-17T00:00:00",
+            "description": "A good use case for importing an existing model and running image prediction right away is in the early stages of prototyping.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/43331Strings-in-python.png"
+        }
+    ]
+}

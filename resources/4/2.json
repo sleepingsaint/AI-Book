@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6394,
+            "title": "Manipulation By Feel",
+            "url": "https://bair.berkeley.edu/blog/2019/03/21/tactile/",
+            "authors": "Frederik Ebert and Stephen Tian",
+            "tags": null,
+            "publishedOn": "2019-03-21T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/tactile/analog_stick_setup.png"
+        },
+        {
+            "id": 6395,
+            "title": "Assessing Generalization in Deep Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2019/03/18/rl-generalization/",
+            "authors": "Charles Packer$^*$ and Katelyn Gao$^*$",
+            "tags": null,
+            "publishedOn": "2019-03-18T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/rl_gen/DRE_figure.png"
+        },
+        {
+            "id": 6396,
+            "title": "Controlling False Discoveries in Large-Scale Experimentation: Challenges and Solutions",
+            "url": "https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/",
+            "authors": "Tijana Zrnic",
+            "tags": null,
+            "publishedOn": "2019-02-15T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/false-discoveries/pvalue.jpg"
+        },
+        {
+            "id": 6397,
+            "title": "Learning Preferences by Looking at the World",
+            "url": "https://bair.berkeley.edu/blog/2019/02/11/learning_preferences/",
+            "authors": "Rohin Shah and Dmitrii Krasheninnikov",
+            "tags": null,
+            "publishedOn": "2019-02-11T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/preferences/room.png"
+        },
+        {
+            "id": 6398,
+            "title": "Soft Actor Critic\u2014Deep Reinforcement Learning with Real-World Robots",
+            "url": "https://bair.berkeley.edu/blog/2018/12/14/sac/",
+            "authors": "Tuomas Haarnoja, Vitchyr Pong, Kristian Hartikainen, Aurick Zhou, Murtaza Dalal, and Sergey Levine",
+            "tags": null,
+            "publishedOn": "2018-12-14T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/sac/ant.png"
+        },
+        {
+            "id": 6399,
+            "title": "Scaling Multi-Agent Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2018/12/12/rllib/",
+            "authors": "Eric Liang and Richard Liaw",
+            "tags": null,
+            "publishedOn": "2018-12-12T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/rllib/img1.png"
+        },
+        {
+            "id": 6400,
+            "title": "Building Gene Expression Atlases with Deep Generative Models for Single-cell Transcriptomics",
+            "url": "https://bair.berkeley.edu/blog/2018/12/05/genes/",
+            "authors": "Romain Lopez and Chenling Xu",
+            "tags": null,
+            "publishedOn": "2018-12-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/genes/scvi.jpg"
+        },
+        {
+            "id": 6401,
+            "title": "Visual Model-Based Reinforcement Learning as a Path towards Generalist Robots",
+            "url": "https://bair.berkeley.edu/blog/2018/11/30/visual-rl/",
+            "authors": "Chelsea Finn$^*$, Frederik Ebert$^*$, Sudeep Dasari, Annie Xie, Alex Lee, and Sergey Levine",
+            "tags": null,
+            "publishedOn": "2018-11-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/visual_rl/shorts1.png"
+        },
+        {
+            "id": 6402,
+            "title": "Physics-Based Learned Design: Teaching a Microscope How to Image",
+            "url": "https://bair.berkeley.edu/blog/2018/11/26/physics-learning/",
+            "authors": "Michael Kellman, Emrah Bostan, and Laura Waller",
+            "tags": null,
+            "publishedOn": "2018-11-26T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/physics/figure4.png"
+        },
+        {
+            "id": 6403,
+            "title": "AdaSearch: A Successive Elimination Approach to Adaptive Search",
+            "url": "https://bair.berkeley.edu/blog/2018/11/14/adasearch/",
+            "authors": "Esther Rolf$^*$, David Fridovich-Keil$^*$, and Max Simchowitz",
+            "tags": null,
+            "publishedOn": "2018-11-14T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/adasearch/adasearch.png"
+        },
+        {
+            "id": 6404,
+            "title": "Drilling Down on Depth Sensing and Deep Learning",
+            "url": "https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/",
+            "authors": "Daniel Seita, Jeff Mahler, Mike Danielczuk, Matthew Matl, and Ken Goldberg",
+            "tags": null,
+            "publishedOn": "2018-10-23T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/depth_sensing/two_cubes_side_by_side_v01.png"
+        },
+        {
+            "id": 6405,
+            "title": "Learning Acrobatics by Watching YouTube",
+            "url": "https://bair.berkeley.edu/blog/2018/10/09/sfv/",
+            "authors": "Xue Bin (Jason) Peng and Angjoo Kanazawa",
+            "tags": null,
+            "publishedOn": "2018-10-09T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/sfv/overview.png"
+        },
+        {
+            "id": 6406,
+            "title": "Visual Reinforcement Learning with Imagined Goals",
+            "url": "https://bair.berkeley.edu/blog/2018/09/06/rig/",
+            "authors": "Vitchyr Pong$^*$ and  Ashvin Nair$^*$",
+            "tags": null,
+            "publishedOn": "2018-09-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/rig/human-giving-goal.png"
+        },
+        {
+            "id": 6407,
+            "title": "Dexterous Manipulation with Reinforcement Learning: Efficient, General, and Low-Cost",
+            "url": "https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/",
+            "authors": "Henry Zhu, Abhishek Gupta, Vikash Kumar, Aravind Rajeswaran, and Sergey Levine",
+            "tags": null,
+            "publishedOn": "2018-08-31T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/dex_manip/dex_manip_img.png"
+        },
+        {
+            "id": 6408,
+            "title": "When Recurrent Models Don't Need to be Recurrent",
+            "url": "https://bair.berkeley.edu/blog/2018/08/06/recurrent/",
+            "authors": "John Miller",
+            "tags": null,
+            "publishedOn": "2018-08-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/recurrent/recurrent_net.png"
+        },
+        {
+            "id": 6409,
+            "title": "One-Shot Imitation from Watching Videos",
+            "url": "https://bair.berkeley.edu/blog/2018/06/28/daml/",
+            "authors": "Tianhe Yu and Chelsea Finn",
+            "tags": null,
+            "publishedOn": "2018-06-28T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/daml/daml_diagram.png"
+        },
+        {
+            "id": 6410,
+            "title": "BDD100K Blog Update",
+            "url": "https://bair.berkeley.edu/blog/2018/06/18/bdd-update/",
+            "authors": "Fisher Yu and Trevor Darrell",
+            "tags": null,
+            "publishedOn": "2018-06-18T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/bdd/example.png"
+        },
+        {
+            "id": 6411,
+            "title": "BDD100K: A Large-scale Diverse Driving Video Database",
+            "url": "https://bair.berkeley.edu/blog/2018/05/30/bdd/",
+            "authors": "Fisher Yu",
+            "tags": null,
+            "publishedOn": "2018-05-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/bdd/example.png"
+        },
+        {
+            "id": 6412,
+            "title": "Delayed Impact of Fair Machine Learning",
+            "url": "https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/",
+            "authors": "Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt",
+            "tags": null,
+            "publishedOn": "2018-05-17T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/delayed_impact/outcome_curve_blog.png"
+        },
+        {
+            "id": 6413,
+            "title": "TDM: From Model-Free to Model-Based Deep Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2018/04/26/tdm/",
+            "authors": "Vitchyr Pong",
+            "tags": null,
+            "publishedOn": "2018-04-26T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/tdm/riding-bike-small.png"
+        },
+        {
+            "id": 6414,
+            "title": "Shared Autonomy via Deep Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2018/04/18/shared-autonomy/",
+            "authors": "Siddharth Reddy",
+            "tags": null,
+            "publishedOn": "2018-04-18T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/shared-autonomy/javdani.png"
+        },
+        {
+            "id": 6415,
+            "title": "Towards a Virtual Stuntman",
+            "url": "https://bair.berkeley.edu/blog/2018/04/10/virtual-stuntman/",
+            "authors": "Xue Bin (Jason) Peng",
+            "tags": null,
+            "publishedOn": "2018-04-10T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/stuntman/teaser.png"
+        },
+        {
+            "id": 6416,
+            "title": "Transfer Your Font Style with GANs",
+            "url": "https://bair.berkeley.edu/blog/2018/03/13/mcgan/",
+            "authors": "Samaneh Azadi",
+            "tags": null,
+            "publishedOn": "2018-03-13T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/mcgan/given-new-titles.jpg"
+        },
+        {
+            "id": 6417,
+            "title": "Learning Robot Objectives from Physical Human Interaction",
+            "url": "https://bair.berkeley.edu/blog/2018/02/06/phri/",
+            "authors": "Andrea Bajcsy",
+            "tags": null,
+            "publishedOn": "2018-02-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/phri/task3.png"
+        },
+        {
+            "id": 6418,
+            "title": "Kernel Feature Selection via Conditional Covariance Minimization",
+            "url": "https://bair.berkeley.edu/blog/2018/01/23/kernels/",
+            "authors": "Jianbo Chen and Mitchell Stern",
+            "tags": null,
+            "publishedOn": "2018-01-23T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/kernels/orange_skin.png"
+        },
+        {
+            "id": 6419,
+            "title": "Ray: A Distributed System for AI",
+            "url": "https://bair.berkeley.edu/blog/2018/01/09/ray/",
+            "authors": "Robert Nishihara and Philipp Moritz",
+            "tags": null,
+            "publishedOn": "2018-01-09T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/ray/param_actor.png"
+        },
+        {
+            "id": 6420,
+            "title": "Physical Adversarial Examples Against Deep Neural Networks",
+            "url": "https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/",
+            "authors": "Ivan Evtimov, Kevin Eykholt, Earlence Fernandes, and Bo Li",
+            "tags": null,
+            "publishedOn": "2017-12-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/yolo/image1.png"
+        },
+        {
+            "id": 6421,
+            "title": "Reverse Curriculum Generation for Reinforcement Learning Agents",
+            "url": "https://bair.berkeley.edu/blog/2017/12/20/reverse-curriculum/",
+            "authors": "Carlos Florensa",
+            "tags": null,
+            "publishedOn": "2017-12-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/reverse_curriculum/ant_maze.png"
+        },
+        {
+            "id": 6422,
+            "title": "Towards Intelligent Industrial Co-robots",
+            "url": "https://bair.berkeley.edu/blog/2017/12/12/corobots/",
+            "authors": "Changliu Liu, Masayoshi Tomizuka",
+            "tags": null,
+            "publishedOn": "2017-12-12T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/corobots/parallel-architecture.jpg"
+        },
+        {
+            "id": 6423,
+            "title": "FaSTrack: Ensuring Safe Real-Time Navigation of Dynamic Systems",
+            "url": "https://bair.berkeley.edu/blog/2017/12/05/fastrack/",
+            "authors": "Sylvia Herbert, David Fridovich-Keil, and Claire Tomlin",
+            "tags": null,
+            "publishedOn": "2017-12-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/fastrack/Figure7.png"
+        }
+    ]
+}

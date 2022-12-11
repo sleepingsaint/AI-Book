@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 13582,
+            "title": "How to escape saddlepoints efficiently",
+            "url": "https://www.oreilly.com/radar/how-to-escape-saddlepoints-efficiently/",
+            "authors": "Michael Jordan",
+            "tags": null,
+            "publishedOn": "2017-09-20T00:00:00",
+            "description": "Michael Jordan discusses recent results in gradient-based optimization for large-scale data analysis.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/pexels-photo-434645_crop-13d13aa4c5a36e029148df4cad227bf4-1.jpg"
+        },
+        {
+            "id": 13583,
+            "title": "Why democratizing AI matters: Computing, data, algorithms, and talent",
+            "url": "https://www.oreilly.com/radar/why-democratizing-ai-matters/",
+            "authors": "Jia Li",
+            "tags": null,
+            "publishedOn": "2017-09-20T00:00:00",
+            "description": "Jia Li explains why a democratized approach to AI ensures that the components behind these technologies reach the widest possible audience.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/photo-montage-1768409_1920_crop-97efdcf75df81bf2b84185d3ea82f49d-1.jpg"
+        },
+        {
+            "id": 13584,
+            "title": "The inevitable merger of IQ and EQ in technology",
+            "url": "https://www.oreilly.com/radar/the-inevitable-merger-of-iq-and-eq-in-technology/",
+            "authors": "Rana El Kaliouby",
+            "tags": null,
+            "publishedOn": "2017-09-19T00:00:00",
+            "description": "Rana el Kaliouby lays out a vision for an emotion-enabled world of technology.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/ai-merge-train-tracks-crop-57aa4a364c5fb2f78ea5535690c48add-1.jpg"
+        },
+        {
+            "id": 13585,
+            "title": "The state of AI adoption",
+            "url": "https://www.oreilly.com/radar/ai-industry-overview/",
+            "authors": "Ben Lorica, Roger Chen",
+            "tags": null,
+            "publishedOn": "2017-09-19T00:00:00",
+            "description": "AI Conference chairs Ben Lorica and Roger Chen reveal the current AI trends they've observed in industry.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/telescope-1966785_1920_crop-ae6592b7998375a983957712aaf18401-1.jpg"
+        },
+        {
+            "id": 13586,
+            "title": "Deep learning to fight cancer: Fireside chat with Peter Norvig and Abu Qader",
+            "url": "https://www.oreilly.com/radar/deep-learning-to-fight-cancer-peter-norvig-abu-qader/",
+            "authors": "Peter Norvig, Abu Qader",
+            "tags": null,
+            "publishedOn": "2017-09-19T00:00:00",
+            "description": "Peter Norvig speaks with Abu Qader, the 18-year-old CTO of GliaLab who taught himself machine learning and launched an AI company for breast cancer diagnostics.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/hela-ii_crop-bb9b80ecea5237fdafe7448082864a16-1.jpg"
+        },
+        {
+            "id": 13587,
+            "title": "AI is the new electricity",
+            "url": "https://www.oreilly.com/radar/ai-is-the-new-electricity/",
+            "authors": "Andrew Ng",
+            "tags": null,
+            "publishedOn": "2017-09-19T00:00:00",
+            "description": "Andrew Ng shares his thoughts on where the biggest opportunities in AI may lie.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/sunset-208771_1920_crop-5537a544cdba7c2ba7333d9e822f9bed-1.jpg"
+        },
+        {
+            "id": 13588,
+            "title": "Highlights from the Artificial Intelligence Conference in San Francisco 2017",
+            "url": "https://www.oreilly.com/radar/highlights-from-ai-conference-san-francisco-2017/",
+            "authors": "Mac Slocum",
+            "tags": null,
+            "publishedOn": "2017-09-19T00:00:00",
+            "description": "Watch highlights covering artificial intelligence, machine learning, applied deep learning, and more. From the Artificial Intelligence Conference in San Francisco 2017.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/ai-sf-17-stage-crop-80744710180ad02d69a615ed2af719a3-1.jpg"
+        },
+        {
+            "id": 13589,
+            "title": "Visualizing convolutional neural networks",
+            "url": "https://www.oreilly.com/radar/visualizing-convolutional-neural-networks/",
+            "authors": "Justin Francis",
+            "tags": null,
+            "publishedOn": "2017-09-15T00:00:00",
+            "description": "Building convnets from scratch with TensorFlow and TensorBoard.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/filter-407151_crop-afea23c8f1da673b145fe51021b057ce-2.jpg"
+        },
+        {
+            "id": 13590,
+            "title": "Visualizing convolutional neural networks",
+            "url": "https://www.oreilly.com/radar/visualizing-convolutional-neural-networks-2/",
+            "authors": "Justin Francis",
+            "tags": null,
+            "publishedOn": "2017-09-15T00:00:00",
+            "description": "Building convnets from scratch with TensorFlow and TensorBoard.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/filter-407151_crop-afea23c8f1da673b145fe51021b057ce-1.jpg"
+        },
+        {
+            "id": 13591,
+            "title": "The state of machine learning in Apache Spark",
+            "url": "https://www.oreilly.com/radar/podcast/the-state-of-machine-learning-in-apache-spark/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-09-14T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Ion Stoica and Matei Zaharia explore the rich ecosystem of analytic tools around Apache Spark.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/fractal-1240809_1920_crop-920d5ac0bb338d96f022b28f7312b80b-1.jpg"
+        },
+        {
+            "id": 13592,
+            "title": "Finding meaning in generative adversarial networks",
+            "url": "https://www.oreilly.com/radar/finding-meaning-in-generative-adversarial-networks/",
+            "authors": "Jon Bruner",
+            "tags": null,
+            "publishedOn": "2017-09-11T00:00:00",
+            "description": "Artificial intelligence is emerging as a creative force; in the process, it reveals something of itself.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/aurelia-aurita-3-0009_crop-c2c8f24c49644a84c81ff4eea7fcef33-1.jpg"
+        },
+        {
+            "id": 13593,
+            "title": "Solving real-world business problems with computer vision",
+            "url": "https://www.oreilly.com/radar/solving-real-world-business-problems-with-computer-vision/",
+            "authors": "Josh Patterson, Kirit Basu",
+            "tags": null,
+            "publishedOn": "2017-09-07T00:00:00",
+            "description": "Applications of CNNs for real-time image classification in the enterprise.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/3638880464_2b6ca81fe0_o_crop-4913262c9931815ed8349dd89f5f7d55-1.jpg"
+        },
+        {
+            "id": 13594,
+            "title": "Effective mechanisms for searching the space of machine learning algorithms",
+            "url": "https://www.oreilly.com/radar/podcast/effective-mechanisms-for-searching-the-space-of-machine-learning-algorithms/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-08-31T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Kenneth Stanley on neuroevolution and other principled ways of exploring the world without an objective.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/brain-2146817_crop-d9f32d100d21010a8a6a637b7f806f6b-1.jpg"
+        },
+        {
+            "id": 13595,
+            "title": "Bringing gaming to life with AI and deep learning",
+            "url": "https://www.oreilly.com/radar/bringing-gaming-to-life-with-ai-and-deep-learning/",
+            "authors": "Danny Lange",
+            "tags": null,
+            "publishedOn": "2017-08-23T00:00:00",
+            "description": "Machine learning opens the door for the use of training rather than programming in game development.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/danny_lange_main_art-0d701a9a76d35b3c2d623e6b95a40db2-1.jpg"
+        },
+        {
+            "id": 13596,
+            "title": "6 practical guidelines for implementing conversational AI",
+            "url": "https://www.oreilly.com/radar/6-practical-guidelines-for-implementing-conversational-ai/",
+            "authors": "Susan Etlinger",
+            "tags": null,
+            "publishedOn": "2017-08-21T00:00:00",
+            "description": "How organizations can create more fluid interactions between humans and machines.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/chromatography_1841_field_crop-6fbb2f886af6054e1c3f2a3c1437e6f5-1.jpg"
+        },
+        {
+            "id": 13597,
+            "title": "How Ray makes continuous learning accessible and easy to scale",
+            "url": "https://www.oreilly.com/radar/podcast/how-ray-makes-continuous-learning-accessible-and-easy-to-scale/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-08-17T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Robert Nishihara and Philipp Moritz on a new framework for reinforcement learning and AI applications.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/3465928275_295fee8f06_o_crop-29d4c64ca368d3ff073f59d69fd7c97f-1.jpg"
+        },
+        {
+            "id": 13598,
+            "title": "Why continuous learning is key to AI",
+            "url": "https://www.oreilly.com/radar/why-continuous-learning-is-key-to-ai/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-08-07T00:00:00",
+            "description": "A look ahead at the tools and methods for learning from sparse feedback.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/11425420024_2c8bac3844_h_crop-0f36eed632fb59f67a5c53e446eea100-1.jpg"
+        },
+        {
+            "id": 13599,
+            "title": "Why AI and machine learning researchers are beginning to embrace PyTorch",
+            "url": "https://www.oreilly.com/radar/podcast/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-08-03T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Soumith Chintala on building a worthy successor to Torch and on deep learning within Facebook.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/anatomy-1751201_crop-355c0e36608a04c85c14cdb0023bc1e3-1.jpg"
+        },
+        {
+            "id": 13600,
+            "title": "Reinforcement learning for complex goals, using TensorFlow",
+            "url": "https://www.oreilly.com/radar/reinforcement-learning-for-complex-goals-using-tensorflow/",
+            "authors": "Arthur Juliani",
+            "tags": null,
+            "publishedOn": "2017-08-02T00:00:00",
+            "description": "How to build a class of RL agents using a TensorFlow notebook.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/mazes_and_labyrinths_a_general_account_of_their_history_and_developments_1922_14781509471_crop-886a6b99211e7c38e447dcdb51f63552-1.jpg"
+        },
+        {
+            "id": 13601,
+            "title": "How big data and AI will reshape the automotive industry",
+            "url": "https://www.oreilly.com/radar/podcast/how-big-data-and-ai-will-reshape-the-automotive-industry/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-07-20T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Evangelos Simoudis on next-generation mobility services.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/2000px-bicycle_evolution-en_crop-25f1e404f0c948276713cdf55df24ee7-1.jpg"
+        },
+        {
+            "id": 13602,
+            "title": "Neuroevolution: A different kind of deep learning",
+            "url": "https://www.oreilly.com/radar/neuroevolution-a-different-kind-of-deep-learning/",
+            "authors": "Kenneth O. Stanley",
+            "tags": null,
+            "publishedOn": "2017-07-13T00:00:00",
+            "description": "The quest to evolve neural networks through evolutionary algorithms.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/tractography_animated_lateral_view_crop-93152cf9cef7e7cb695392a86afe14e5-1.jpg"
+        },
+        {
+            "id": 13603,
+            "title": "Introduction to reinforcement learning and OpenAI Gym",
+            "url": "https://www.oreilly.com/radar/introduction-to-reinforcement-learning-and-openai-gym/",
+            "authors": "Justin Francis",
+            "tags": null,
+            "publishedOn": "2017-07-13T00:00:00",
+            "description": "A demonstration of basic reinforcement learning problems.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/14782276054_60a37d03aa_k_crop-9bf8231905e4d1c97a6a16d9a965fc56-1.jpg"
+        },
+        {
+            "id": 13604,
+            "title": "A framework for building and evaluating data products",
+            "url": "https://www.oreilly.com/radar/podcast/a-framework-for-building-and-evaluating-data-products/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-07-06T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Pinterest data scientist Grace Huang on lessons learned in the course of machine learning product launches.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/social-1989152_1920_crop-468bb489cf47d02439a04aa033a1403d-1.jpg"
+        },
+        {
+            "id": 13605,
+            "title": "Magenta: Machine learning and creativity",
+            "url": "https://www.oreilly.com/radar/magenta-machine-learning-and-creativity/",
+            "authors": "Douglas Eck",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "Doug Eck discusses Magenta, a Google Brain project aimed at developing new machine learning models for art and sound creation.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/story_of_the_five_hundred_robbers_535-557_ce_mogao_cave_285_dunhuang_china_crop-3faaa1d74ac78da209570cc21c14a9e3-1.jpg"
+        },
+        {
+            "id": 13606,
+            "title": "Cars that coordinate with people",
+            "url": "https://www.oreilly.com/radar/cars-that-coordinate-with-people/",
+            "authors": "Anca Dragan",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "Anca Dragan introduces a mathematical formulation that accounts for cars responding to people and people responding to cars. ",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/sign-731314_1920_crop-71df910e4f8aba9ec2d41748d6bb8417-1.jpg"
+        },
+        {
+            "id": 13607,
+            "title": "Superhuman AI for strategic reasoning: Beating top pros in heads-up no-limit Texas Hold\u2019em",
+            "url": "https://www.oreilly.com/radar/superhuman-ai-for-strategic-reasoning/",
+            "authors": "Tuomas Sandholm",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "Tuomas Sandholm explains how domain-independent algorithms are being applied to a variety of imperfect-information games, like poker.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/232514897_1cce6edad4_o_crop-8a2329137cfc505972ef2a109eb10822-1.jpg"
+        },
+        {
+            "id": 13608,
+            "title": "Artificial intelligence in the software engineering workflow",
+            "url": "https://www.oreilly.com/radar/artificial-intelligence-in-the-software-engineering-workflow/",
+            "authors": "Peter Norvig",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "The workflow of the AI researcher has been quite different from the workflow of the software developer. Peter Norvig explores how the two can come together.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/1534867049_b231b870a0_o_crop-38630c1a78b6ab36935f25cbf63a5b67-1.jpg"
+        },
+        {
+            "id": 13609,
+            "title": "Building a next-generation platform for deep learning",
+            "url": "https://www.oreilly.com/radar/podcast/building-a-next-generation-platform-for-deep-learning/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Naveen Rao on emerging hardware and software infrastructure for AI.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/interconnect-2117783_1920_crop-7e36f2879ca48a21bdc0d75f660d02c8-1.jpg"
+        },
+        {
+            "id": 13610,
+            "title": "Why artificial intelligence is different from previous technology waves",
+            "url": "https://www.oreilly.com/radar/why-artificial-intelligence-is-different-from-previous-technology-waves/",
+            "authors": "Robbie Allen",
+            "tags": null,
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "The AI ecosystem just might be resilient enough to live up to the hype.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/fresco-379933_1920_crop-da7e78d809a05cdf2bda9521f4a9010c-1.jpg"
+        },
+        {
+            "id": 13611,
+            "title": "Machines as thought partners",
+            "url": "https://www.oreilly.com/radar/machines-as-thought-partners/",
+            "authors": "David Ferrucci",
+            "tags": null,
+            "publishedOn": "2017-06-28T00:00:00",
+            "description": "David Ferrucci offers an overview of Elemental Cognition, a company focused on creating AI systems that autonomously learn from human language and interaction.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/question-mark-374436_1920_crop-62496fa3e0c887c958c2798f2c1da605-1.jpg"
+        }
+    ]
+}

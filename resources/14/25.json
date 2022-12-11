@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9232,
+            "title": "How to Index, Slice and Reshape NumPy Arrays for Machine Learning",
+            "url": "https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2017-10-25T00:00:00",
+            "description": "Machine learning data is represented as arrays. In Python, data is almost universally represented as NumPy arrays. If you are new to Python, you may be confused by some of the pythonic ways of accessing data, such as negative indexing and array slicing. In this tutorial, you will discover how to manipulate and access your [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Index-Slice-and-Reshape-NumPy-Arrays-for-Machine-Learning-in-Python.jpg"
+        },
+        {
+            "id": 9233,
+            "title": "Difference Between Return Sequences and Return States for LSTMs in Keras",
+            "url": "https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-10-24T00:00:00",
+            "description": "The Keras deep learning library provides an implementation of the Long Short-Term Memory, or LSTM, recurrent neural network. As part of this implementation, the Keras API provides access to both return sequences and return state. The use and difference between these data can be confusing when designing sophisticated recurrent neural network models, such as the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/Understand-the-Difference-Between-Return-Sequences-and-Return-States-for-LSTMs-in-Keras.jpg"
+        },
+        {
+            "id": 9234,
+            "title": "Best Practices for Text Classification with Deep Learning",
+            "url": "https://machinelearningmastery.com/best-practices-document-classification-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-23T00:00:00",
+            "description": "Text classification describes a general class of problems such as predicting the sentiment of tweets and movie reviews, as well as classifying email as spam or not. Deep learning methods are proving very good at text classification, achieving state-of-the-art results on a suite of standard academic benchmark problems. In this post, you will discover some [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/Best-Practices-for-Document-Classification-with-Deep-Learning.jpg"
+        },
+        {
+            "id": 9235,
+            "title": "How to Develop a Deep Learning Bag-of-Words Model for Sentiment Analysis (Text Classification)",
+            "url": "https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-20T00:00:00",
+            "description": "Movie reviews can be classified as either favorable or not. The evaluation of movie review text is a classification problem often called sentiment analysis. A popular technique for developing sentiment analysis models is to use a bag-of-words model that transforms documents into vectors where each word in the document is assigned a score. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Develop-a-Deep-Learning-Bag-of-Words-Model-for-Predicting-Sentiment-in-Movie-Reviews.jpg"
+        },
+        {
+            "id": 9236,
+            "title": "Implementation Patterns for the Encoder-Decoder RNN Architecture with Attention",
+            "url": "https://machinelearningmastery.com/implementation-patterns-encoder-decoder-rnn-architecture-attention/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-10-19T00:00:00",
+            "description": "The encoder-decoder architecture for recurrent neural networks is proving to be powerful on a host of sequence-to-sequence prediction problems in the field of natural language processing. Attention is a mechanism that addresses a limitation of the encoder-decoder architecture on long sequences, and that in general speeds up the learning and lifts the skill of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/Implementation-Patterns-for-the-Encoder-Decoder-RNN-Architecture-with-Attention.jpg"
+        },
+        {
+            "id": 9237,
+            "title": "How to Clean Text for Machine Learning with Python",
+            "url": "https://machinelearningmastery.com/clean-text-machine-learning-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-18T00:00:00",
+            "description": "You cannot go straight from raw text to fitting a machine learning or deep learning model. You must clean your text first, which means splitting it into words and handling punctuation and case. In fact, there is a whole suite of text preparation methods that you may need to use, and the choice of methods [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/11/How-to-Develop-Multilayer-Perceptron-Models-for-Time-Series-Forecasting.jpg"
+        },
+        {
+            "id": 9238,
+            "title": "How to Develop an Encoder-Decoder Model with Attention in Keras",
+            "url": "https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-10-17T00:00:00",
+            "description": "The encoder-decoder architecture for recurrent neural networks is proving to be powerful on a host of sequence-to-sequence prediction problems in the field of natural language processing such as machine translation and caption generation. Attention is a mechanism that addresses a limitation of the encoder-decoder architecture on long sequences, and that in general speeds up the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Develop-an-Encoder-Decoder-Model-with-Attention-for-Sequence-to-Sequence-Prediction-in-Keras.jpg"
+        },
+        {
+            "id": 9239,
+            "title": "How to Prepare Movie Review Data for Sentiment Analysis (Text Classification)",
+            "url": "https://machinelearningmastery.com/prepare-movie-review-data-sentiment-analysis/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-16T00:00:00",
+            "description": "Text data preparation is different for each problem. Preparation starts with simple steps, like loading data, but quickly gets difficult with cleaning tasks that are very specific to the data you are working with. You need help as to where to begin and what order to work through the steps from raw data to data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Prepare-Movie-Review-Data-for-Sentiment-Analysis.jpg"
+        },
+        {
+            "id": 9240,
+            "title": "How Does Attention Work in Encoder-Decoder Recurrent Neural Networks",
+            "url": "https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-13T00:00:00",
+            "description": "Attention is a mechanism that was developed to improve the performance of the Encoder-Decoder RNN on machine translation. In this tutorial, you will discover the attention mechanism for the Encoder-Decoder model. After completing this tutorial, you will know: About the Encoder-Decoder model and attention mechanism for machine translation. How to implement the attention mechanism step-by-step. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Feeding-Hidden-State-as-Input-to-Decoder.png"
+        },
+        {
+            "id": 9241,
+            "title": "What Are Word Embeddings for Text?",
+            "url": "https://machinelearningmastery.com/what-are-word-embeddings/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-11T00:00:00",
+            "description": "Word embeddings are a type of word representation that allows words with similar meaning to have a similar representation. They are a distributed representation for text that is perhaps one of the key breakthroughs for the impressive performance of deep learning methods on challenging natural language processing problems. In this post, you will discover the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/What-Are-Word-Embeddings-for-Text.jpg"
+        },
+        {
+            "id": 9242,
+            "title": "A Gentle Introduction to the Bag-of-Words Model",
+            "url": "https://machinelearningmastery.com/gentle-introduction-bag-words-model/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-09T00:00:00",
+            "description": "The bag-of-words model is a way of representing text data when modeling text with machine learning algorithms. The bag-of-words model is simple to understand and implement and has seen great success in problems such as language modeling and document classification. In this tutorial, you will discover the bag-of-words model for feature extraction in natural language [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/A-Gentle-Introduction-to-the-Bag-of-Words-Model.jpg"
+        },
+        {
+            "id": 9243,
+            "title": "How to Develop Word Embeddings in Python with Gensim",
+            "url": "https://machinelearningmastery.com/develop-word-embeddings-python-gensim/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-06T00:00:00",
+            "description": "Word embeddings are a modern approach for representing text in natural language processing. Word embedding algorithms like word2vec and GloVe are key to the state-of-the-art results achieved by neural network models on natural language processing problems like machine translation. In this tutorial, you will discover how to train and load word embedding models for natural [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Scatter-Plot-of-PCA-Projection-of-Word2Vec-Model.png"
+        },
+        {
+            "id": 9244,
+            "title": "How to Use Word Embedding Layers for Deep Learning with Keras",
+            "url": "https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-04T00:00:00",
+            "description": "Word embeddings provide a dense representation of words and their relative meanings. They are an\u00a0improvement over sparse representations used in simpler bag of word model representations. Word embeddings can be learned from text data and reused among projects. They can also be learned as part of fitting a neural network on text data. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Use-Word-Embedding-Layers-for-Deep-Learning-with-Keras.jpg"
+        },
+        {
+            "id": 9245,
+            "title": "How to Prepare Text Data for Deep Learning with Keras",
+            "url": "https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-02T00:00:00",
+            "description": "You cannot feed raw text directly into deep learning models. Text data must be encoded as numbers to be used as input or output for machine learning and deep learning models. The Keras deep learning library provides some basic tools to help you prepare your text data. In this tutorial, you will discover how you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Prepare-Text-Data-for-Deep-Learning-with-Keras.jpg"
+        },
+        {
+            "id": 9246,
+            "title": "How to Encode Text Data for Machine Learning with scikit-learn",
+            "url": "https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-29T00:00:00",
+            "description": "Text data requires special preparation before you can start using it for predictive modeling. The text must be parsed to remove words, called tokenization. Then the words need to be encoded as integers or floating point values for use as input to a machine learning algorithm, called feature extraction (or vectorization). The scikit-learn library offers [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/How-to-Prepare-Text-Data-for-Machine-Learning-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9247,
+            "title": "Datasets for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/datasets-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-27T00:00:00",
+            "description": "You need datasets to practice on when getting started with deep learning for natural language processing tasks. It is better to use small datasets that you can download quickly and do not take too long to fit models. Further, it is also helpful to use standard datasets that are well understood and widely used so [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Datasets-for-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9248,
+            "title": "Promise of Deep Learning for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/promise-deep-learning-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-25T00:00:00",
+            "description": "The promise of deep learning in the field of natural language processing is the\u00a0better performance by models that may require more data but less linguistic expertise to train and operate. There is a lot of hype and large claims around deep learning methods, but beyond the hype, deep learning methods are achieving state-of-the-art results on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Promise-of-Deep-Learning-for-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9249,
+            "title": "What Is Natural Language Processing?",
+            "url": "https://machinelearningmastery.com/natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-22T00:00:00",
+            "description": "Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software. The study of natural language processing has been around for more than 50 years and grew out of the field of linguistics with the rise of computers. In this post, you will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/What-Is-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9250,
+            "title": "7 Applications of Deep Learning for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-20T00:00:00",
+            "description": "The field of natural language processing is shifting from statistical methods to neural network methods. There are still many challenging problems to solve in natural language. Nevertheless, deep learning methods are achieving state-of-the-art results on some specific language problems. It is not just the performance of deep learning models on benchmark problems that is most [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/7-Applications-of-Deep-Learning-for-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9251,
+            "title": "Gentle Introduction to Transduction in Machine Learning",
+            "url": "https://machinelearningmastery.com/transduction-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-18T00:00:00",
+            "description": "Transduction or transductive learning are terms you may come across in applied machine learning. The term is being used with some applications of recurrent neural networks on sequence prediction problems, like some problems in the domain of natural language processing. In this post, you will discover what transduction is in machine learning. After reading this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Relationship-between-Induction-Deduction-and-Transduction.png"
+        },
+        {
+            "id": 9252,
+            "title": "Primer on Neural Network Models for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/primer-neural-network-models-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-15T00:00:00",
+            "description": "Deep learning is having a large impact on the field of natural language processing. But, as a beginner, where do you start? Both deep learning and natural language processing are huge fields. What are the salient aspects of each field to focus on and which areas of NLP is deep learning having the most impact? [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Feed-forward-neural-network-with-two-hidden-layers.png"
+        },
+        {
+            "id": 9253,
+            "title": "Oxford Course on Deep Learning for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/oxford-course-deep-learning-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-13T00:00:00",
+            "description": "Deep Learning methods achieve state-of-the-art results on a suite of natural language processing problems What makes this exciting is that single models are trained end-to-end, replacing a suite of specialized statistical models. The University of Oxford in the UK teaches a course on Deep Learning for Natural Language Processing and much of the materials for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Oxford-Course-on-Deep-Learning-for-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9254,
+            "title": "Review of Stanford Course on Deep Learning for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/stanford-deep-learning-for-natural-language-processing-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-11T00:00:00",
+            "description": "Natural Language Processing, or NLP, is a subfield of machine learning concerned with understanding speech and text data. Statistical methods and statistical machine learning dominate the field and more recently deep learning methods have proven very effective in challenging NLP problems like speech recognition and text translation. In this post, you will discover the Stanford [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Natural-Language-Processing-with-Deep-Learning.jpg"
+        },
+        {
+            "id": 9255,
+            "title": "Top Books on Natural Language Processing",
+            "url": "https://machinelearningmastery.com/books-on-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-09-08T00:00:00",
+            "description": "Natural Language Processing, or NLP for short, is the study of computational methods for working with speech and text data. The field is dominated by the statistical paradigm and machine learning methods are used for developing predictive models. In this post, you will discover the top books that you can read to get started with [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Top-Books-on-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9256,
+            "title": "A Gentle Introduction to RNN Unrolling",
+            "url": "https://machinelearningmastery.com/rnn-unrolling/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-09-06T00:00:00",
+            "description": "Recurrent neural networks are a type of neural network where the outputs from previous time steps are fed as input to the current time step. This creates a network graph or circuit diagram with cycles, which can make it difficult to understand how information moves through the network. In this post, you will discover the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Example-of-Unrolled-RNN-on-the-forward-pass.png"
+        },
+        {
+            "id": 9257,
+            "title": "Making Predictions with Sequences",
+            "url": "https://machinelearningmastery.com/sequence-prediction/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-09-04T00:00:00",
+            "description": "Sequence prediction is different from other types of supervised learning problems. The sequence imposes an order on the observations that must be preserved when training models and making predictions. Generally, prediction problems that involve sequence data are referred to as sequence prediction problems, although there are a suite of problems that differ based on the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Gentle-Introduction-to-Making-Predictions-with-Sequences.jpg"
+        },
+        {
+            "id": 9258,
+            "title": "How to Diagnose Overfitting and Underfitting of LSTM Models",
+            "url": "https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-09-01T00:00:00",
+            "description": "It can be difficult to determine whether your Long Short-Term Memory model is performing well on your sequence prediction problem. You may be getting a good model skill score, but it is important to know whether your model is a good fit for your data or if it is underfit or overfit and could do [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/Diagnostic-Line-Plot-Showing-Multiple-Runs-for-a-Model.png"
+        },
+        {
+            "id": 9259,
+            "title": "How to Reshape Input Data for Long Short-Term Memory Networks in Keras",
+            "url": "https://machinelearningmastery.com/reshape-input-data-long-short-term-memory-networks-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-30T00:00:00",
+            "description": "It can be difficult to understand how to prepare your sequence data for input to an LSTM model. Often there is confusion around how to define the input layer for the LSTM model. There is also confusion about how to convert your sequence data that may be a 1D or 2D matrix of numbers to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/How-to-Reshape-Input-for-Long-Short-Term-Memory-Networks-in-Keras.jpg"
+        },
+        {
+            "id": 9260,
+            "title": "How to Make Predictions with Long Short-Term Memory Models in Keras",
+            "url": "https://machinelearningmastery.com/make-predictions-long-short-term-memory-models-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-28T00:00:00",
+            "description": "The goal of developing an LSTM model is a final model that you can use on your sequence prediction problem. In this post, you will discover how to finalize your model and use it to make predictions on new data. After completing this post, you will know: How to train a final LSTM model. How [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/How-to-Make-Predictions-with-Long-Short-Term-Memory-Models-with-Keras.jpg"
+        },
+        {
+            "id": 9261,
+            "title": "Gentle Introduction to Generative Long Short-Term Memory Networks",
+            "url": "https://machinelearningmastery.com/gentle-introduction-generative-long-short-term-memory-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-25T00:00:00",
+            "description": "The Long Short-Term Memory recurrent neural network was developed for sequence prediction. In addition to sequence prediction problems. LSTMs can also be used as a generative model In this post, you will discover how LSTMs can be used as generative models. After completing this post, you will know: About generative models, with a focus on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/Example-of-LSTMs-used-in-Automatic-Handwriting-Generation.png"
+        }
+    ]
+}

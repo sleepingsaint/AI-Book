@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6562,
+            "title": "Randomized Controlled Trials without Data Retention",
+            "url": "https://machinelearning.apple.com/research/randomized-controlled-trials",
+            "authors": "Winston Chou",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Amidst rising appreciation for privacy and data usage rights, researchers have increasingly acknowledged the principle of data minimization\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6563,
+            "title": "Interdependent Variables: Remotely Designing Tactile Graphics for an Accessible Workflow",
+            "url": "https://machinelearning.apple.com/research/interdependent-variables",
+            "authors": "Lilian de Greef, Dominik Moritz, Cynthia Bennett",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "In this experience report, we offer a case study of blind and sighted colleagues creating an accessible workflow to collaborate on a data\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6564,
+            "title": "Breiman's Two Cultures: You Don't Have to Choose Sides",
+            "url": "https://machinelearning.apple.com/research/breiman-two-cultures",
+            "authors": "Andrew C. Miller, Nicholas J. Foti, Emily B. Fox",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Breiman's classic paper casts data analysis as a choice between two cultures: data modelers and algorithmic modelers. Stated broadly, data\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6565,
+            "title": "Cross-Domain Data Integration for Entity Disambiguation in Biomedical Text",
+            "url": "https://machinelearning.apple.com/research/cross-domain-data-integration",
+            "authors": "Maya Varma, Laurel Orr, Sen Wu, Megan Leszczynski, Xiao Ling and Christopher R\u00e9",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Named entity disambiguation (NED), which involves mapping textual mentions to structured entities, is particularly challenging in the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6566,
+            "title": "Evaluating the Fairness of Fine-Tuning Strategies in Self-Supervised Learning",
+            "url": "https://machinelearning.apple.com/research/fine-tuning-strategies",
+            "authors": "Jason Ramapuram*, Dan Busbridge*, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "*=Equal Contribution\nIn this work we examine how fine-tuning impacts the fairness of contrastive Self-Supervised Learning (SSL) models. Our\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6567,
+            "title": "Learning Compressible Subspaces for Adaptive Network Compression at Inference Time",
+            "url": "https://machinelearning.apple.com/research/learning-compressible-subspaces",
+            "authors": "Elvis Nunez*, Maxwell Horton*, Anurag Ranjan, Anish Prabhu, Ali Farhadi, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "*= Equal Contribution\nWhen deploying deep learning models to a device, it is traditionally assumed that available computational resources\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6568,
+            "title": "MMIU: Dataset for Visual Intent Understanding in Multimodal Assistants",
+            "url": "https://machinelearning.apple.com/research/mmiu-visual-intent",
+            "authors": "Alkesh Patel, Joel Ruben Antony Moniz, Roman Nguyen, Nicholas Tzou, Hadas Kotek, Vincent Renkens",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "In multimodal assistant, where vision is also one of the input modalities, the identification of user intent becomes a challenging task as\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6569,
+            "title": "On-device Neural Speech Synthesis",
+            "url": "https://machinelearning.apple.com/research/on-device-neural-speech",
+            "authors": "Sivanand Achanta, Albert Antony, Ladan Golipour, Jiangchuan Li, Tuomo Raitio, Ramya Rasipuram, Francesco Rossi, Jennifer Shi, Jaimin Upadhyay, David Winarsky, Hepeng Zhang",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Recent advances in text-to-speech (TTS) synthesis, such as Tacotron and WaveRNN, have made it possible to construct a fully neural network\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6570,
+            "title": "On-device Panoptic Segmentation for Camera Using Transformers",
+            "url": "https://machinelearning.apple.com/research/panoptic-segmentation",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "Camera (in iOS and iPadOS) relies on a wide range of scene-understanding technologies to develop images. In particular, pixel-level\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6571,
+            "title": "Entity-Based Knowledge Conflicts in Question Answering",
+            "url": "https://machinelearning.apple.com/research/entity-knowledge-conflicts",
+            "authors": "Shayne Longpre, Kartik Perisetla, Anthony Chen, Nikhil Ramesh, Chris DuBois, Sameer Singh",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Knowledge-dependent tasks typically use two sources of knowledge: parametric, learned at training time, and contextual, given as a passage\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6572,
+            "title": "Finding Experts in Transformer Models",
+            "url": "https://machinelearning.apple.com/research/finding-experts",
+            "authors": "Xavier Suau, Luca Zappella, Nicholas Apostoloff",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this work we study the presence of expert units in pre-trained Transformer Models (TM), and how they impact a model's performance. We\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6573,
+            "title": "DeepPRO: Deep Partial Point Cloud Registration of Objects",
+            "url": "https://machinelearning.apple.com/research/deep-partial-point-cloud-registration",
+            "authors": "Donghoon Lee, Onur C. Hamsici, Steven Feng, Prachee Sharma, Thorsten Gernoth",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We consider the problem of online and real-time registration of partial point clouds obtained from an unseen real-world rigid object without\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6574,
+            "title": "Using Pause Information for More Accurate Entity Recognition",
+            "url": "https://machinelearning.apple.com/research/pause-information",
+            "authors": "Sahas Dendukuri, Pooja Chitkara, Joel Ruben Antony Moniz, Xiao Yang, Manos Tsagkias, Stephen Pulman",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "This paper was showcased in the 3rd Workshop on NLP for Conversational AI at the EMNLP 2021 conference. \nEntity tags in human-machine dialog\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6575,
+            "title": "Conditional Generation of Synthetic Geospatial Images from Pixel-Level and Feature-Level Inputs",
+            "url": "https://machinelearning.apple.com/research/generation-of-synthetic-geospatial-images",
+            "authors": "Xuerong Xiao, Swetava Ganguli, Vipul Pandey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Training robust supervised deep learning models for many geospatial applications of computer vision is difficult due to dearth of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6576,
+            "title": "Multi-task Learning with Cross Attention for Keyword Spotting",
+            "url": "https://machinelearning.apple.com/research/multitask-learning-with-cross-attention",
+            "authors": "Takuya Higuchi, Anmol Gupta, Chandra Dhir",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Keyword spotting (KWS) is an important technique for speech applications, which enables users to activate devices by speaking a keyword\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6577,
+            "title": "Screen Parsing: Towards Reverse Engineering of UI Models from Screenshots",
+            "url": "https://machinelearning.apple.com/research/screen-parsing",
+            "authors": "Jason Wu, Xiaoyi Zhang, Jeff Nichols, Jeffrey P. Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Automated understanding of user interfaces (UIs) from their pixels can improve accessibility, enable task automation, and facilitate\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6578,
+            "title": "Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation",
+            "url": "https://machinelearning.apple.com/research/lidar-segmentation",
+            "authors": "Hugues Thomas, Ben Agro, Mona Gridseth, Jian Zhang, Timothy D. Barfoot",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a self-supervised learning approach for the semantic segmentation of lidar frames. Our method is used to train a deep point cloud\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6579,
+            "title": "A Survey on Privacy from Statistical, Information and Estimation-Theoretic Views",
+            "url": "https://machinelearning.apple.com/research/survey-on-privacy",
+            "authors": "Hsiang Hsu, Natalia Lucienne Martinezgil, Martin Bertran, Guillermo Sapiro, Flavio Calmon",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "The privacy risk has become an emerging challenge in both information theory and computer science due to the massive (centralized)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6580,
+            "title": "Improving Neural Network Subspaces",
+            "url": "https://machinelearning.apple.com/research/improving-neural-subspaces",
+            "authors": "",
+            "tags": "Article, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In spite of the success of deep learning, we know relatively little about the many possible solutions to which a trained network can\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6581,
+            "title": "Combining Speakers of Multiple Languages to Improve Quality of Neural Voices",
+            "url": "https://machinelearning.apple.com/research/combining-speakers-multiple-language",
+            "authors": "Javier Latorre, Charlotte Bailleul, Tuuli Morrill, Alistair Conkie, Yannis Stylianou",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this work, we explore multiple architectures and training procedures for developing a multi-speaker and multi-lingual neural TTS system\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6582,
+            "title": "Audiovisual Speech Synthesis using Tacotron2",
+            "url": "https://machinelearning.apple.com/research/audiovisual-synthesis-using-tacotron2",
+            "authors": "Ahmed Hussen Abdelaziz*, Anushree Prasanna Kumar*, Chloe Seivwright, Gabriele Fanelli, Justin Binder, Yannis Stylianou, Sachin Kajarekar",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Audiovisual speech synthesis involves synthesizing a talking face while maximizing the coherency of the acoustic and visual speech. To solve\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6583,
+            "title": "User-Initiated Repetition-Based Recovery in Multi-Utterance Dialogue Systems",
+            "url": "https://machinelearning.apple.com/research/user-initiated-repetition-based-recovery",
+            "authors": "Hoang Long Nguyen, Vincent Renkens, Joris Pelemans, Srividya Pranavi Potharaju, Anil Kumar Nalamalapu, Murat Akbacak",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Recognition errors are common in human communication. Similar errors often lead to unwanted behaviour in dialogue systems or virtual\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6584,
+            "title": "DEXTER: Deep Encoding of External Knowledge for Named Entity Recognition in Virtual Assistants",
+            "url": "https://machinelearning.apple.com/research/deep-encoding",
+            "authors": "Deepak Muralidharan*, Joel Ruben Antony Moniz*, Weicheng Zhang, Stephen Pulman, Lin Li, Megan Barnes, Jingjing Pan, Jason Williams, Alex Acero",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Named entity recognition (NER) is usually developed and tested on text from well-written sources. However, in intelligent voice assistants\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6585,
+            "title": "Managing ML Pipelines: Feature Stores and the Coming Wave of Embedding Ecosystems",
+            "url": "https://machinelearning.apple.com/research/managing-ml-pipelines",
+            "authors": "Laurel Orr, Atindriyo Sanyal, Xiao Ling, Karan Goel, Megan Leszczynski",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Tutorial Session at 47th International Conference on Very Large Data Bases. \nThe industrial machine learning\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6586,
+            "title": "Smooth Sequential Optimization with Delayed Feedback",
+            "url": "https://machinelearning.apple.com/research/smooth-sequential-optimization",
+            "authors": "Srivas Chennu, Jamie Martin, Puli Liyanagama, Phil Mohr",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop on Bayesian Causal Inference for Real World Interactive Systems at the KDD 2021\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6587,
+            "title": "Learning to Generate Radiance Fields of Indoor Scenes",
+            "url": "https://machinelearning.apple.com/research/learning-to-generate-radiance-fields",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "People have an innate capability to understand the 3D visual world and make predictions about how the world could look from different points\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6588,
+            "title": "Estimating Respiratory Rate From Breath Audio Obtained Through Wearable Microphones",
+            "url": "https://machinelearning.apple.com/research/estimating-respiratory-rate",
+            "authors": "Agni Kumar, Vikramjit Mitra, Carolyn Oliver, Adeeti Ullal, Matt Biddulph, Irida Mance",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Respiratory rate (RR) is a clinical metric used to assess overall health and physical fitness. An individual\u2019s RR can change due to normal\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6589,
+            "title": "Online Automatic Speech Recognition With Listen, Attend and Spell Model",
+            "url": "https://machinelearning.apple.com/research/online-automatic-speech-recognition",
+            "authors": "Roger Hsiao, Dogan Can, Tim Ng, Ruchir Travadi, Arnab Ghoshal",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "The Listen, Attend and Spell (LAS) model and other attention-based automatic speech recognition (ASR) models have known limitations when\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6590,
+            "title": "Subject-Aware Contrastive Learning for Biosignals",
+            "url": "https://machinelearning.apple.com/research/subject-aware-contrastive-learning",
+            "authors": "Joseph Y. Cheng, Hanlin Goh, Kaan Dogrusoz, Oncel Tuzel, Erdrin Azemi",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Datasets for biosignals, such as electroencephalogram (EEG) and electrocardiogram (ECG), often have noisy labels and have limited number of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6591,
+            "title": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+            "url": "https://machinelearning.apple.com/research/hypersim",
+            "authors": "Mike Roberts, Jason Ramapuram, Anurag Ranjan, Atulit Kumar, Miguel Angel Bautista, Nathan Paczan, Russ Webb, Joshua M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "For many fundamental scene understanding tasks, it is difficult or impossible to obtain per-pixel ground truth labels from real images. We\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

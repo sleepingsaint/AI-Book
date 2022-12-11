@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 644,
+            "title": "Scale session-aware real-time product recommendations on Shopify with Amazon Personalize and Amazon EventBridge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scale-session-aware-real-time-product-recommendations-on-shopify-with-amazon-personalize-and-amazon-eventbridge/",
+            "authors": "Jeff McKelvey, Matthew Chwastek, James Jory",
+            "tags": "Amazon EventBridge, Amazon Personalize, Artificial Intelligence, AWS Lambda",
+            "publishedOn": "2021-04-29T00:00:00",
+            "description": "January 2022 \u2013 HiConversion is now Obviyo. We have updated this blog to reflect the new company name. You can read more about the name change on Obviyo\u2019s blog. This is a guest post by Jeff McKelvey, Principal Development Lead at Obviyo. The team at Obviyo has collaborated closely with James Jory, Applied AI Services [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/1-Architecture-2688.jpg"
+        },
+        {
+            "id": 645,
+            "title": "Annotate dense point cloud data using Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
+            "authors": "Vidya Sagar Ravipati, Jeremy Feltracco, Isaac Privitera",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2021-04-29T00:00:00",
+            "description": "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence of 3D point cloud frames (the typical capture rate is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/7-Voxel-Mean-Downsampling.jpg"
+        },
+        {
+            "id": 646,
+            "title": "Intelligent governance of document processing pipelines for regulated industries",
+            "url": "https://aws.amazon.com/blogs/machine-learning/intelligent-governance-of-document-processing-pipelines-for-regulated-industries/",
+            "authors": "David Kheyman, Anirudh Menon, Mojgan Ahmadi",
+            "tags": "Amazon Comprehend, Amazon DynamoDB, Amazon OpenSearch Service, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Textract, Analytics, Artificial Intelligence, AWS Lambda, Compute, Database, Messaging, Storage",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Processing large documents like PDFs and static images is a cornerstone of today\u2019s highly regulated industries. From healthcare information like doctor-patient visits and bills of health, to financial documents like loan applications, tax filings, research reports, and regulatory filings, these documents are integral to how these industries conduct business. The mechanisms by which these documents [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/22/2-NLP-Pipeline.jpg"
+        },
+        {
+            "id": 647,
+            "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+            "authors": "Maryam Rezapoor, Christopher Whittam",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "We\u2019re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence (AI) skills. Regardless of your background in music or ML, one of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg"
+        },
+        {
+            "id": 648,
+            "title": "AWS DeepRacer device software now open source",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
+            "authors": "David Smith",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we\u2019re expanding AWS DeepRacer\u2019s ability to provide fun, hands-on learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 649,
+            "title": "Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager",
+            "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/",
+            "authors": "Samir Araujo",
+            "tags": "Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. In industrial IoT, running machine learning (ML) models on edge devices is necessary for many use cases, such as predictive maintenance, quality improvement, real-time monitoring, process optimization, and security. The energy industry, for instance, invests heavily in ML to automate [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Turbine-Farm.jpg"
+        },
+        {
+            "id": 650,
+            "title": "Build a medical sentence matching application using BERT and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/",
+            "authors": "Joshua Broyde, Claire Palmer",
+            "tags": "Amazon Elastic Container Service, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-04-23T00:00:00",
+            "description": "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently, during each patient visit, a new document is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg"
+        },
+        {
+            "id": 651,
+            "title": "Securing Amazon SageMaker Studio internet traffic using AWS Network Firewall",
+            "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
+            "authors": "Yevgeniy Ilyin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-04-22T00:00:00",
+            "description": "Amazon SageMaker Studio is a web-based fully integrated development environment (IDE) where you can perform end-to-end machine learning (ML) development to prepare data and build, train, and deploy models. Like other AWS services, Studio supports a rich set of security-related features that allow you to build highly secure and compliant environments. One of these fundamental [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Architecture.jpg"
+        },
+        {
+            "id": 652,
+            "title": "Perform medical transcription analysis in real-time with AWS AI services and Twilio Media Streams",
+            "url": "https://aws.amazon.com/blogs/machine-learning/perform-medical-transcription-analysis-in-real-time-with-amazon-transcribe-medical-and-amazon-comprehend-medical-with-twilio-media-streams/",
+            "authors": "Mahendra Bairagi, Jay Park",
+            "tags": "Amazon Comprehend Medical, Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2021-04-22T00:00:00",
+            "description": "Medical providers often need to analyze and dictate patient phone conversations, doctors\u2019 notes, clinical trial reports, and patient health records. By automating transcription, providers can quickly and accurately provide patients with medical conditions, medication, dosage, strength, and frequency. Generic artificial intelligence-based transcription models can be used to transcribe voice to text. However, medical voice data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/2-Architecture1562.jpg"
+        },
+        {
+            "id": 653,
+            "title": "Amazon Forecast now provides estimated run time for forecast creation jobs, enabling you to manage your time efficiently",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-provides-estimated-run-time-for-forecast-creation-jobs-enabling-you-to-manage-your-time-efficiently/",
+            "authors": "Alex Kim, Ranjith Kumar Bodla, Gautam Puri, Shannon Killingsworth, Anurag Pant",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2021-04-22T00:00:00",
+            "description": "Amazon Forecast now displays the estimated time it takes to complete an in-progress workflow for importing your data, training the predictor, and generating the forecast. You can now manage your time more efficiently and better plan for your next workflow around the estimated time remaining for your in-progress workflow. Forecast uses machine learning (ML) to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 654,
+            "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
+            "authors": "Tolla Cherwenka, Krithivasan Balasubramaniyan, Michael Wallner",
+            "tags": "Amazon Lookout for Vision, Artificial Intelligence, Semiconductor",
+            "publishedOn": "2021-04-22T00:00:00",
+            "description": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of objects at scale. Many enterprise customers want to identify missing components in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg"
+        },
+        {
+            "id": 655,
+            "title": "Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis",
+            "url": "https://aws.amazon.com/blogs/machine-learning/quality-assessment-for-sagemaker-ground-truth-video-multi-frame-object-tracking-annotations-using-statistical-analysis/",
+            "authors": "Vidya Sagar Ravipati, Isaac Privitera",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2021-04-22T00:00:00",
+            "description": "Data quality is an important topic for virtually all teams and systems deriving insights from data, especially teams and systems using machine learning (ML) models. Supervised ML is the task of learning a function that maps an input to an output based on examples of input-output pairs. For a supervised ML algorithm to effectively learn [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/21/8-Frame101.jpg"
+        },
+        {
+            "id": 656,
+            "title": "It\u2019s here! Join us for Amazon SageMaker Month, 30 days of content, discussion, and news",
+            "url": "https://aws.amazon.com/blogs/machine-learning/its-here-join-us-for-amazon-sagemaker-month-30-days-of-content-discussion-and-news/",
+            "authors": "Kimberly Madia",
+            "tags": "Amazon SageMaker, Announcements, Artificial Intelligence",
+            "publishedOn": "2021-04-20T00:00:00",
+            "description": "Want to accelerate machine learning (ML) innovation in your organization? Join us for 30 days of new Amazon SageMaker content designed to help you build, train, and deploy ML models faster. On April 20, we\u2019re kicking off 30 days of hands-on workshops, Twitch sessions, Slack chats, and partner perspectives. Our goal is to connect you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/SageMaker-Month1-1.jpg"
+        },
+        {
+            "id": 657,
+            "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+            "authors": "Sam Palani, Shanthan Kesharaju",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2021-04-19T00:00:00",
+            "description": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS KMS). IAM condition keys enable you to further refine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg"
+        },
+        {
+            "id": 658,
+            "title": "AWS launches free digital training courses to empower business leaders with ML knowledge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+            "authors": "Michelle K. Lee",
+            "tags": "Amazon Machine Learning, Announcements, Artificial Intelligence",
+            "publishedOn": "2021-04-15T00:00:00",
+            "description": "Today, we\u2019re pleased to launch Machine Learning Essentials for Business and Technical Decision Makers\u2014a series of three free, on-demand, digital-training courses from AWS Training and Certification. These courses are intended to empower business leaders and technical decision makers with the foundational knowledge needed to begin shaping a machine learning (ML) strategy for their organization, even [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 659,
+            "title": "Estimating 3D pose for athlete tracking using 2D videos and Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/estimating-3d-pose-for-athlete-tracking-using-2d-videos-and-amazon-sagemaker-studio/",
+            "authors": "Saman Sarraf, Amery Cong, Ashton Eaton, Jonathan Lee, Nelson Leung, Suchitra Sathyanarayana, Wenzhen Zhu",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Sports",
+            "publishedOn": "2021-04-14T00:00:00",
+            "description": "In preparation for the upcoming Olympic Games, Intel\u00ae, an American multinational corporation and one of the world\u2019s largest technology companies, developed a concept around 3D Athlete Tracking (3DAT). 3DAT is a machine learning (ML) solution to create real-time digital models of athletes in competition in order to increase fan engagement during broadcasts. Intel was looking [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/Thumbnail-3D-Pose-Tracking.jpg"
+        },
+        {
+            "id": 660,
+            "title": "Implement checkpointing with TensorFlow for Amazon SageMaker Managed Spot Training",
+            "url": "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/",
+            "authors": "Eitan Sela",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2021-04-14T00:00:00",
+            "description": "Customers often ask us how can they lower their costs when conducting deep learning training on AWS. Training deep learning models with libraries such as TensorFlow, PyTorch, and Apache MXNet usually requires access to GPU instances, which are AWS instances types that provide access to NVIDIA GPUs with thousands of compute cores. GPU instance types [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 661,
+            "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
+            "url": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+            "authors": "Joe Fontaine",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepRacer, AWS RoboMaker",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world\u2019s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now underway, developers have five times more opportunities [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/08/1A.jpg"
+        },
+        {
+            "id": 662,
+            "title": "Improve operational efficiency with integrated equipment monitoring with TensorIoT powered by AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws/",
+            "authors": "Alicia Trent, Dastan Aitzhanov, Nicholas Burden",
+            "tags": "Amazon Lookout for Equipment, Artificial Intelligence",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "Machine downtime has a dramatic impact on your operational efficiency. Unexpected machine downtime is even worse. Detecting industrial equipment issues at an early stage and using that data to inform proper maintenance can give your company a significant increase in operational efficiency. Customers see value in detecting abnormal behavior in industrial equipment to improve maintenance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/image-15.jpg"
+        },
+        {
+            "id": 663,
+            "title": "Object detection with Detectron2 on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
+            "authors": "Vadim Dabravolski, Paolo Irrera",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, PyTorch on AWS",
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "Deep learning is at the forefront of most machine learning (ML) implementations across a broad set of business verticals. Driven by the highly flexible nature of neural networks, the boundary of what is possible has been pushed to a point where neural networks can outperform humans in a variety of tasks, such as object detection [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 664,
+            "title": "Save the date for the AWS Machine Learning Summit: June 2, 2021",
+            "url": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+            "authors": "Laura Jones",
+            "tags": "Announcements",
+            "publishedOn": "2021-04-07T00:00:00",
+            "description": "On June 2, 2021, don\u2019t miss the opportunity to hear from some of the brightest minds in machine learning (ML) at the free virtual AWS Machine Learning Summit. Machine learning is one of the most disruptive technologies we will encounter in our generation. It\u2019s improving customer experience, creating more efficiencies in operations, and spurring new [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/2021_ML_Summit_Blog_800x400_V2-1.png"
+        },
+        {
+            "id": 665,
+            "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
+            "authors": "Dhiraj Thakur, Sameer Goel",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2021-04-06T00:00:00",
+            "description": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early. Early identification is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/4-Leaf-Smut.jpg"
+        },
+        {
+            "id": 666,
+            "title": "Join AWS at NVIDIA GTC 21, April 12\u201316",
+            "url": "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-gtc-21-april-12-16/",
+            "authors": "Geoff Murase",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": "Starting Monday, April 12, 2021, the NVIDIA GPU Technology Conference (GTC) is offering online sessions for you to learn AWS best practices to accomplish your machine learning (ML), virtual workstations, high performance computing (HPC), and Internet of Things (IoT) goals faster and more easily. Amazon Elastic Compute Cloud (Amazon EC2) instances powered by NVIDIA GPUs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 667,
+            "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
+            "authors": "Sachin Doshi",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS CodeBuild, AWS CodePipeline, AWS Lambda, AWS Step Functions",
+            "publishedOn": "2021-04-02T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts. AWS Serverless Application Model (AWS SAM) is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg"
+        },
+        {
+            "id": 668,
+            "title": "How Digitata provides intelligent pricing on mobile data and voice with Amazon Lookout for Metrics",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-digitata-provides-intelligent-pricing-on-mobile-data-and-voice-with-amazon-lookout-for-metrics/",
+            "authors": "Chris King, Nico Kruger",
+            "tags": "Amazon Lookout for Metrics, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-03-30T00:00:00",
+            "description": "This is a guest post by Nico Kruger (CTO of Digitata) and Chris King (Sr. ML Specialist SA at AWS). In their own words, \u201cDigitata intelligently transforms pricing and subscriber engagement for mobile operators, empowering operators to make better and more informed decisions to meet and exceed business objectives.\u201d As William Gibson said, \u201cThe future [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/16/ML-2346-1.jpg"
+        },
+        {
+            "id": 669,
+            "title": "Rust detection using machine learning on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
+            "authors": "Aravind Kodandaramaiah, Mehdi Far",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Amplify, AWS CloudFormation, AWS Lambda, AWS Step Functions",
+            "publishedOn": "2021-03-30T00:00:00",
+            "description": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans at risk, such as bridges, skyscrapers, and offshore oil rigs. Many of these industries deal [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/06/8-Corrosion.jpg"
+        },
+        {
+            "id": 670,
+            "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
+            "authors": "Michael Malahe",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-03-29T00:00:00",
+            "description": "Editor\u2019s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide intelligent tools to feed the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/1-VIsual.jpg"
+        },
+        {
+            "id": 671,
+            "title": "AWS ML Community showcase: March 2021 edition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
+            "authors": "Cameron Peron",
+            "tags": "Amazon Lookout for Vision, Amazon Machine Learning, Amazon Rekognition, Artificial Intelligence, AWS DeepRacer, AWS Heroes, AWS Panorama",
+            "publishedOn": "2021-03-26T00:00:00",
+            "description": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.\u00a0 Each month AWS ML Heroes and AWS ML Community Builders bring to life projects and use cases for the full range of machine learning skills from beginner to expert through deep dive tutorials, podcasts, videos, and other [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/Header.jpg"
+        },
+        {
+            "id": 672,
+            "title": "Configure Amazon Forecast for a multi-tenant SaaS application",
+            "url": "https://aws.amazon.com/blogs/machine-learning/configure-amazon-forecast-for-a-multi-tenant-saas-application/",
+            "authors": "Gunjan Garg, Matias Battaglia, Rakesh Ramadas",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "Amazon Forecast is a fully managed service that is based on the same technology used for forecasting at Amazon.com. Forecast uses machine learning (ML) to combine time series data with additional variables to build highly accurate forecasts. Forecast requires no ML experience to get started. You only need to provide historical data and any additional [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/24/1-Tenancy_v2.jpg"
+        },
+        {
+            "id": 673,
+            "title": "Introducing Amazon Lookout for Metrics: An anomaly detection service to proactively monitor the health of your business",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-lookout-for-metrics-an-anomaly-detection-service-to-proactively-monitor-the-health-of-your-business/",
+            "authors": "Ankita Verma, Chris King",
+            "tags": "Amazon Lookout for Metrics, Artificial Intelligence",
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "Anomalies are unexpected changes in data, which could point to a critical issue. An anomaly could be a technical glitch on your website, or an untapped business opportunity. It could be a new marketing channel with exceedingly high customer conversions. As businesses produce more data than ever before, detecting these unexpected changes and responding in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-Architecture2616.jpg"
+        }
+    ]
+}

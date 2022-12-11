@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10337,
+            "title": "Elisha Odemakinde Hosts Roboflow for a Fireside Chat",
+            "url": "https://blog.roboflow.com/data-science-nigeria/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-09-12T00:00:00",
+            "description": "Recently, Roboflow machine learning engineer Jacob Solawetz sat down with Elisha Odemakinde, an ML researcher and Community Manager at Data Science Nigeria, for a Fireside chat. During the conversation, Jacob walks through his journey from his career in financial trading to artificial intelligence, a move from natural language processing to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/data-science-nigera-hosts-jacob.png"
+        },
+        {
+            "id": 10338,
+            "title": "Deploy YOLOv5 to Jetson Xavier NX at 30FPS",
+            "url": "https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-09-10T00:00:00",
+            "description": "In this post, our edge AI model for object detection is YOLOv5s and our selected hardware is the Jetson NX.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/jetson_nx_deploy.jpg"
+        },
+        {
+            "id": 10339,
+            "title": "Train, Validation, Test Split for Machine Learning",
+            "url": "https://blog.roboflow.com/train-test-split/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-09-04T00:00:00",
+            "description": "At Roboflow, we often get asked, what is the train, validation, test split and why do I need it? The motivation is quite simple: you should separate you data into train, validation, and test splits to prevent your model from overfitting and to accurately evaluate your model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/train_val_test_v2.jpg"
+        },
+        {
+            "id": 10340,
+            "title": "Use Resnet34 for Image Classification",
+            "url": "https://blog.roboflow.com/custom-resnet34-classification-model/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-09-03T00:00:00",
+            "description": "Walk through the steps to train a custom image classification model from the Resnet34 backbone using the fastai library and PyTorch.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/train_resnet34.jpg"
+        },
+        {
+            "id": 10341,
+            "title": "Explore Images, Annotations, and Metadata Easier",
+            "url": "https://blog.roboflow.com/improved-image-previews/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-09-02T00:00:00",
+            "description": "Keeping track of images and their corresponding annotations is a challenge. Knowing which annotations map to which class, viewing image metadata, and seeing which images correspond to a training, validation, and testing set can quickly become a sprawling mess. We're introducing improved detailed image previews that enable our users to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/toggle-annotations-2.gif"
+        },
+        {
+            "id": 10342,
+            "title": "How Cocoparks Accelerated Their Development with Roboflow",
+            "url": "https://blog.roboflow.com/how-coco-parks-accelerated-their-development-with-roboflow/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-08-29T00:00:00",
+            "description": "Cocoparks, a Paris based startup working on improving traffic flows across French cities, launched their service months faster with Roboflow. \"Before Google Maps, you could find routes to your destination using a map. There are many routes to try. But with Google Maps, it becomes seamless. This is what using",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/coco-parks.gif"
+        },
+        {
+            "id": 10343,
+            "title": "Fast.ai v2 Released - What's New?",
+            "url": "https://blog.roboflow.com/whats-new-in-fastai2/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-08-28T00:00:00",
+            "description": "Fastai, the popular deep learning framework and MOOC releases fastai v2 with new improvements to the fastai library, a new online machine learning course, and new helper repositories.  fastai's layered architecture (cite)&nbsp;In this post, we will dive into what is new in fastai v2 and why you should",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/09/fastai_v2.jpg"
+        },
+        {
+            "id": 10344,
+            "title": "Roboflow Joins Y Combinator's Summer 20 Batch",
+            "url": "https://blog.roboflow.com/ycombinator/",
+            "authors": "Joseph Nelson, Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-08-25T00:00:00",
+            "description": "Roboflow is enabling any developer to use computer vision (without being a machine learning expert). Computer vision is the first technology that fundamentally allows us to rewrite human-computer interaction. Until now, when using computers to interact with the world, humans would assess their environment, provide commands to a computer, and",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/yc.jpeg"
+        },
+        {
+            "id": 10345,
+            "title": "Video: How to Use Amazon Rekognition Custom Labels with Roboflow",
+            "url": "https://blog.roboflow.com/rekognition-custom-labels-tutorial/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-08-24T00:00:00",
+            "description": "Recently, we co-hosted a webinar with Mark McQuade of Onica, an AWS Premier Consulting Partner, about using Roboflow along with AWS Rekognition Custom Labels to train and deploy a custom object detection model. In the video, we learn how to go end-to-end to train a custom mask / no mask detector.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/rekognition-video.jpg"
+        },
+        {
+            "id": 10346,
+            "title": "Using Computer Vision to Count Fish Populations (and Monitor Environmental Health)",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-count-fish-populations/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-08-23T00:00:00",
+            "description": "The below is a guest post from Jamie Shaffer, a data scientist based in Washington state. She is open to new opportunities, particularly leveraging deep learning to environmental issues. Living in the Pacific Northwest, the intertwined issues of salmon survival and river flow are frequently in the news, and the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/fish-swimming-1.gif"
+        },
+        {
+            "id": 10347,
+            "title": "How to Train a Custom Mobile Object Detection Model (with YOLOv4 Tiny and TensorFlow Lite)",
+            "url": "https://blog.roboflow.com/how-to-train-a-custom-mobile-object-detection-model/",
+            "authors": "Jim Su, Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2020-08-22T00:00:00",
+            "description": "Using the state of the art YOLOv4 tiny Darknet model converted to TensorFlow Lite for on-device inference.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/moblie_object_detection.jpg"
+        },
+        {
+            "id": 10348,
+            "title": "The crazy story of how we got our .com domain",
+            "url": "https://blog.roboflow.com/acquiring-the-dot-com-domain/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-08-21T00:00:00",
+            "description": "For almost a year, Roboflow (our computer vision dataset management tool) has lived at roboflow.ai. It's served us well but we have always lusted after the dot com. No longer! We managed to acquire roboflow.com from the giant German company that owned it since 2001. The historyWhen we",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/how-we-got-dot-com.jpg"
+        },
+        {
+            "id": 10349,
+            "title": "How to Detect Small Objects: A Guide",
+            "url": "https://blog.roboflow.com/detect-small-objects/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-08-19T00:00:00",
+            "description": "Detecting small objects is one of the most challenging problems in computer vision. In this post, we share strategies for small object detection.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/small_obj_new.jpg"
+        },
+        {
+            "id": 10350,
+            "title": "How to Train a Custom TensorFlow Lite Object Detection Model",
+            "url": "https://blog.roboflow.com/how-to-train-a-tensorflow-lite-object-detection-model/",
+            "authors": "Jim Su, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-08-17T00:00:00",
+            "description": "In this post, learn to train and export a custom TensorFlow Lite object detection model with your own dataset to detect custom objects.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/tflite-1.jpeg"
+        },
+        {
+            "id": 10351,
+            "title": "Using Computer Vision to Find Brands in YouTube Videos",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-find-brands-in-youtube-videos/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-08-16T00:00:00",
+            "description": "Over 500 hours of video are being uploaded to YouTube (speaking of which.. have you subscribed to our channel yet?) every minute*. Making sense of that sea of video content creates valuable opportunities. For brands, knowing when and where they're being mentioned means identifying their share-of-voice, marketing to potentially highly",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/brand-identification-1.gif"
+        },
+        {
+            "id": 10352,
+            "title": "Deploy A Custom Model to the Luxonis OAK - A Quickstart Guide",
+            "url": "https://blog.roboflow.com/deploy-luxonis-oak/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-08-12T00:00:00",
+            "description": "This guide will take you the long distance from unlabeled images to a working computer vision model deployed and inferencing live at 15FPS on the affordable and scalable Luxonis OpenCV AI Kit (OAK) device.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/oak_new-1.jpg"
+        },
+        {
+            "id": 10353,
+            "title": "Reducing Traffic with Computer Vision",
+            "url": "https://blog.roboflow.com/reducing-traffic-with-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-08-04T00:00:00",
+            "description": "How Transport for Cairo is Improving Commuting for Millions with Computer Vision Reducing traffic in well-planned cities where bus routes are well-mapped, subways are running on a predictable cadence, and lanes are well-marked is a significant undertaking. Now consider improving traffic without predictable routes, maps, and regular modes of transit.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/loading-sequence.gif"
+        },
+        {
+            "id": 10354,
+            "title": "PP-YOLO Surpasses YOLOv4 - State of the Art Object Detection Techniques",
+            "url": "https://blog.roboflow.com/pp-yolo-beats-yolov4-object-detection/",
+            "authors": "Jacob Solawetz, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-08-03T00:00:00",
+            "description": "Baidu publishes PP-YOLO and pushes the state of the art in object detection research by building on top of YOLOv3, the PaddlePaddle deep learning framework, and cutting edge computer vision research.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/PP-YOLO.jpeg"
+        },
+        {
+            "id": 10355,
+            "title": "Ontology Management for Computer Vision",
+            "url": "https://blog.roboflow.com/label-management-for-computer-vision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-08-03T00:00:00",
+            "description": "As their projects mature and dataset sizes grow, most teams wrestle with their workflow. Slicing and dicing data is more of an art than a science and you will want to experiment with what works best for your problem over time (and, in fact, you will probably go through this",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/ontology-1.jpeg"
+        },
+        {
+            "id": 10356,
+            "title": "How to Train EfficientNet - Custom Image Classification",
+            "url": "https://blog.roboflow.com/how-to-train-efficientnet/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-30T00:00:00",
+            "description": "In this tutorial, we will train state of the art EfficientNet convolutional neural network, to classify images, using a custom dataset and custom classifications. To run this tutorial on your own custom dataset, you need to only change one line of code for your dataset import.  EfficientNet, a state of",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/efficientnet.jpeg"
+        },
+        {
+            "id": 10357,
+            "title": "Advanced Augmentations in Roboflow",
+            "url": "https://blog.roboflow.com/advanced-augmentations/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "Roboflow Pro now supports Cutout and Mosaic. Recent research has shown there is still plenty of room to grow model performance through augmenting our training data. Roboflow has written extensively about data augmentation and has highlighted some of the recent advances that have made new models like YOLOv4 and YOLOv5",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/advanced_augs.jpg"
+        },
+        {
+            "id": 10358,
+            "title": "Benchmarking the Major Cloud Vision AutoML Tools",
+            "url": "https://blog.roboflow.com/automl-vs-rekognition-vs-custom-vision/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-28T00:00:00",
+            "description": "Until now, there has been little independent research published on the performance of AutoML tools - (both relative to each other and against state of the art open source models)",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/automl-1.png"
+        },
+        {
+            "id": 10359,
+            "title": "VoTT for Image Annotation and Labeling",
+            "url": "https://blog.roboflow.com/vott/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": "A guide on using VoTT to label your own computer vision dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/VoTT-guide.png"
+        },
+        {
+            "id": 10360,
+            "title": "Roboflow can now ingest video!",
+            "url": "https://blog.roboflow.com/using-video-computer-vision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": "One of the most common questions we get is \"How can I use computer vision object detection models with video?\" The answer is simple: you treat each frame as an image. But, in practice, that has been quite cumbersome. It's meant fumbling around with command line tools, experimenting with various",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/upload-video.optim.gif"
+        },
+        {
+            "id": 10361,
+            "title": "Improving Infrastructure Asset Management with Computer Vision",
+            "url": "https://blog.roboflow.com/infrastructure-asset-management-with-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-07-21T00:00:00",
+            "description": "The below post is a lightly edited guest post from Result! Data, a Netherlands-based consultancy providing leading digital services. The Roboflow team thanks Gerard Mol (Managing Partner) and Brand Hop (Chief Data Science) for their contributions. View their original post on detecting road signs with computer vision. Automating the identification",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/infrastructure-computer-vision.jpg"
+        },
+        {
+            "id": 10362,
+            "title": "Retail Store Item Detection using YOLOv5",
+            "url": "https://blog.roboflow.com/retail-store-item-detection-using-yolov5/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-07-18T00:00:00",
+            "description": "This is a lightly edited guest post by Roboflow user Shayan Ali Bhatti, who used Roboflow to train an object detection model to identify items in grocery stores. Reposted with permission. Original content here. In this article, I present an application of the latest version of popular deep learning algorithm",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/retail_bold.jpg"
+        },
+        {
+            "id": 10363,
+            "title": "How to Train a TensorFlow 2 Object Detection Model",
+            "url": "https://blog.roboflow.com/train-a-tensorflow2-object-detection-model/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-16T00:00:00",
+            "description": "With the recent release of the TensorFlow 2 Object Detection API, it has never been easier to train and deploy state of the art object detection models with TensorFlow leveraging your own custom dataset to detect your own custom objects: foods, pets, mechanical parts, and more. In this blog and",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/tf2_od_v3.jpg"
+        },
+        {
+            "id": 10364,
+            "title": "The TensorFlow 2 Object Detection Library is Here",
+            "url": "https://blog.roboflow.com/the-tensorflow2-object-detection-library-is-here/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-14T00:00:00",
+            "description": "The TensorFlow Object Detection API has been upgraded to TensorFlow 2.0. We discuss here what the new library means for computer vision developers and why we are so excited about the new TensorFlow 2.0 Object Detection library!  TensorFlow2 meets the Object Detection APIFurthermore, we are excited to announce",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/tf2_od_library_is_here_yo.jpg"
+        },
+        {
+            "id": 10365,
+            "title": "What are Anchor Boxes in Object Detection?",
+            "url": "https://blog.roboflow.com/what-is-an-anchor-box/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "Object detection models use anchor boxes to make bounding box predictions. In this post, we explain anchor boxes and why they are used.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/anchor_boxes.jpg"
+        },
+        {
+            "id": 10366,
+            "title": "Convert Supervisely Annotations in Two Minutes",
+            "url": "https://blog.roboflow.com/convert-supervisely-to-yolo/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-10T00:00:00",
+            "description": "In this post, we walk through how to download data from Supervise.ly and convert Supervise.ly annotations to YOLO Darknet format specifically, and more generally convert Supervisely JSON to any other object detection annotation format for use in any of your custom computer vision models. This guide is imperative",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/supervisely_convert.jpg"
+        }
+    ]
+}

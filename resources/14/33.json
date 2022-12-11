@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9472,
+            "title": "Metrics To Evaluate Machine Learning Algorithms in Python",
+            "url": "https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-25T00:00:00",
+            "description": "The metrics that you choose to evaluate your machine learning algorithms are very important. Choice of metrics influences how the performance of machine learning algorithms is measured and compared. They influence how you weight the importance of different characteristics in the results and your ultimate choice of which algorithm to choose. In this post, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Metrics-To-Evaluate-Machine-Learning-Algorithms-in-Python.jpg"
+        },
+        {
+            "id": 9473,
+            "title": "Evaluate the Performance of Machine Learning Algorithms in Python using Resampling",
+            "url": "https://machinelearningmastery.com/evaluate-performance-machine-learning-algorithms-python-using-resampling/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-23T00:00:00",
+            "description": "You need to know how well your algorithms perform on unseen data. The best way to evaluate the performance of an algorithm would be to make predictions for new data to which you already know the answers. The second best way is to use clever techniques from statistics called resampling methods that allow you to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Evaluate-the-Performance-of-Machine-Learning-Algorithms-in-Python-using-Resampling.jpg"
+        },
+        {
+            "id": 9474,
+            "title": "Feature Selection For Machine Learning in Python",
+            "url": "https://machinelearningmastery.com/feature-selection-machine-learning-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-20T00:00:00",
+            "description": "The data features that you use to train your machine learning models have a huge influence on the performance you can achieve. Irrelevant or partially relevant features can negatively impact model performance. In this post you will discover automatic feature selection techniques that you can use to prepare your machine learning data in python with [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Feature-Selection-For-Machine-Learning-in-Python.jpg"
+        },
+        {
+            "id": 9475,
+            "title": "How To Prepare Your Data For Machine Learning in Python with Scikit-Learn",
+            "url": "https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-18T00:00:00",
+            "description": "Many machine learning algorithms make assumptions about your data. It is often a very good idea to prepare your data in such way to best expose the structure of the problem to the machine learning algorithms that you intend to use. In this post you will discover how to prepare your data for machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/How-To-Prepare-Your-Data-For-Machine-Learning-in-Python-with-Scikit-Learn.jpg"
+        },
+        {
+            "id": 9476,
+            "title": "Crash Course on Multi-Layer Perceptron Neural Networks",
+            "url": "https://machinelearningmastery.com/neural-networks-crash-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-05-17T00:00:00",
+            "description": "Artificial neural networks are a fascinating area of study, although they\u00a0can be intimidating\u00a0when just getting started. There is a lot of specialized terminology used when describing the data structures and algorithms used in the field. In this post, you will get a crash course in the terminology and processes used in the field of multi-layer [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Crash-Course-In-Neural-Networks.jpg"
+        },
+        {
+            "id": 9477,
+            "title": "Visualize Machine Learning Data in Python With Pandas",
+            "url": "https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-16T00:00:00",
+            "description": "You must understand your data in order to get the best results from machine learning algorithms. The fastest way to learn more about your data is to use data visualization. In this post you will discover exactly how you can visualize your machine learning data in Python using Pandas. Let\u2019s get started. Update Mar/2018: Added [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Visualize-Machine-Learning-Data-in-Python-With-Pandas.jpg"
+        },
+        {
+            "id": 9478,
+            "title": "Understand Your Machine Learning Data With Descriptive Statistics in Python",
+            "url": "https://machinelearningmastery.com/understand-machine-learning-data-descriptive-statistics-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-13T00:00:00",
+            "description": "You must understand your data in order to get the best results. In this post you will discover 7 recipes that you can use in Python to learn more about your machine learning data. Let\u2019s get started. Update Mar/2018: Added alternate link to download the dataset as the original appears to have been taken down. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Understand-Your-Machine-Learning-Data-With-Descriptive-Statistics-in-Python.jpg"
+        },
+        {
+            "id": 9479,
+            "title": "How to Train Keras Deep Learning Models on AWS EC2 GPUs (step-by-step)",
+            "url": "https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-05-12T00:00:00",
+            "description": "Keras is a Python deep learning library that provides easy and convenient access to the powerful numerical libraries like TensorFlow. Large deep learning models require a lot of compute time to run. You can run them on your CPU but it can take hours or days to get a result. If you have access to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Amazon-Web-Services.jpg"
+        },
+        {
+            "id": 9480,
+            "title": "How To Load Machine Learning Data in Python",
+            "url": "https://machinelearningmastery.com/load-machine-learning-data-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-11T00:00:00",
+            "description": "You must be able to load your data before you can start your machine learning project. The most common format for machine learning data is CSV files. There are a number of ways to load a CSV file in Python. In this post you will discover the different ways that you can use to load [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/How-To-Load-Machine-Learning-Data-in-Python.jpg"
+        },
+        {
+            "id": 9481,
+            "title": "Introduction to Python Deep Learning with Keras",
+            "url": "https://machinelearningmastery.com/introduction-python-deep-learning-library-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-05-10T00:00:00",
+            "description": "Two of the top numerical platforms in Python that provide the basis for Deep Learning research and development are Theano and TensorFlow. Both are very powerful libraries, but both can be difficult to use directly for creating deep learning models. In this post, you will discover the Keras Python library that provides a clean and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Introduction-to-the-Python-Deep-Learning-Library-Keras.jpg"
+        },
+        {
+            "id": 9482,
+            "title": "scikit-learn Cookbook Book Review",
+            "url": "https://machinelearningmastery.com/scikit-learn-cookbook-book-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-09T00:00:00",
+            "description": "The scikit-learn library is the premiere library for machine learning in Python. The online documentation is quite good but sometimes can feel fragmented or limited by narrow examples. In this post you will discover the book Scikit-Learn Cookbook by Trent Hauck that provides a desktop reference to supplement the online documentation and help you get [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/scikit-learn-Cookbook.jpg"
+        },
+        {
+            "id": 9483,
+            "title": "Introduction to Machine Learning with scikit-learn",
+            "url": "https://machinelearningmastery.com/introduction-machine-learning-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-06T00:00:00",
+            "description": "The scikit-learn library is one of the most popular platforms for everyday machine learning and data science. The reason is because it is built upon Python, a fully featured programming language. But how do you get started with machine learning with scikit-learn. Kevin Markham is a data science trainer who created a series of 9 [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Data-School.png"
+        },
+        {
+            "id": 9484,
+            "title": "Crash Course in Python for Machine Learning Developers",
+            "url": "https://machinelearningmastery.com/crash-course-python-machine-learning-developers/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-04T00:00:00",
+            "description": "You do not need to be a Python developer to get started using the Python ecosystem for machine learning. As a developer\u00a0who already knows how to program in one or more programming languages, you are able to pick up a new language like Python very quickly. You just need to know a few\u00a0properties of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Crash-Course-in-Python-for-Machine-Learning-Developers.jpg"
+        },
+        {
+            "id": 9485,
+            "title": "Introduction to the Python Deep Learning Library Theano",
+            "url": "https://machinelearningmastery.com/introduction-python-deep-learning-library-theano/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-05-03T00:00:00",
+            "description": "Theano is a Python library for fast numerical computation that can be run on the CPU or GPU. It is a key foundational library for Deep Learning in Python that you can use directly to create Deep Learning models or wrapper libraries that greatly simplify the process. In this post you will discover the Theano [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Introduction-to-the-Python-Deep-Learning-Library-Theano.jpg"
+        },
+        {
+            "id": 9486,
+            "title": "Python Ecosystem for Machine Learning",
+            "url": "https://machinelearningmastery.com/python-ecosystem-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-02T00:00:00",
+            "description": "The Python ecosystem\u00a0is growing and may become the dominant platform for machine learning. The primarily\u00a0rationale for\u00a0adopting Python for machine learning is because it is a general purpose\u00a0programming language that you can use both for research and development and in production. In this post you will discover the Python ecosystem for machine learning. Let\u2019s get started. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Python-Ecosystem-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9487,
+            "title": "Machine Learning Algorithms Mini-Course",
+            "url": "https://machinelearningmastery.com/machine-learning-algorithms-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-29T00:00:00",
+            "description": "Machine learning algorithms are a very large part of machine learning. You have to understand how they work to make any progress in the field. In this post you will discover a 14-part machine learning algorithms mini course that you can follow to finally understand machine learning algorithms. We are going to cover a lot [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Machine-Learning-Algorithms-Mini-Course.jpg"
+        },
+        {
+            "id": 9488,
+            "title": "6 Questions To Understand Any Machine Learning Algorithm",
+            "url": "https://machinelearningmastery.com/question-to-understand-any-machine-learning-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-27T00:00:00",
+            "description": "There are a lot of machine learning algorithms and each algorithm is an island of research. You have to choose the level of detail that you study machine learning algorithms. There is a sweet spot if you are a developer interested in applied predictive modeling. This post describes that sweet spot and gives you a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Sweet-Spot-For-Understanding-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 9489,
+            "title": "Boosting and AdaBoost for Machine Learning",
+            "url": "https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-25T00:00:00",
+            "description": "Boosting is an ensemble technique that attempts to create a strong classifier from a number of weak classifiers. In this post you will discover the AdaBoost Ensemble method for machine learning. After reading this post, you will know: What the boosting ensemble method is and generally how it works. How to learn to boost decision [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Boosting-and-AdaBoost-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9490,
+            "title": "Bagging and Random Forest Ensemble Algorithms for Machine Learning",
+            "url": "https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-22T00:00:00",
+            "description": "Random Forest is one of the most popular and most powerful machine learning algorithms. It is a type of ensemble machine learning algorithm called Bootstrap Aggregation or bagging. In this post you will discover the Bagging ensemble algorithm and the Random Forest algorithm for predictive modeling. After reading this post you will know about: The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Bagging-and-Random-Forest-Ensemble-Algorithms-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9491,
+            "title": "Support Vector Machines for Machine Learning",
+            "url": "https://machinelearningmastery.com/support-vector-machines-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-20T00:00:00",
+            "description": "Support Vector Machines are perhaps one of the most popular and talked about machine learning algorithms. They were extremely popular around the time they were developed in the 1990s and continue to be the go-to method for a high-performing algorithm with little tuning. In this post you will discover the Support Vector Machine (SVM) machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Support-Vector-Machines-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9492,
+            "title": "Learning Vector Quantization for Machine Learning",
+            "url": "https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-18T00:00:00",
+            "description": "A downside of K-Nearest Neighbors is that you need to hang on to your entire training dataset. The Learning Vector Quantization algorithm (or LVQ for short) is an artificial neural network algorithm that lets you choose how many training instances to hang onto and learns exactly what those instances should look like. In this post [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Learning-Vector-Quantization-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9493,
+            "title": "K-Nearest Neighbors for Machine Learning",
+            "url": "https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-15T00:00:00",
+            "description": "In this post you will discover the k-Nearest Neighbors (KNN) algorithm for classification and regression. After reading this post you will know. The model representation used by KNN. How a model is learned using KNN (hint, it\u2019s not). How to make predictions using KNN The many names for KNN including how different fields refer to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/K-Nearest-Neighbors-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9494,
+            "title": "Popular Deep Learning Libraries",
+            "url": "https://machinelearningmastery.com/popular-deep-learning-libraries/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-04-14T00:00:00",
+            "description": "There are so many deep learning libraries to choose from. Which are the good professional libraries that are worth learning and which are someones side project and should be avoided. It is hard to tell the difference. In this post you will discover the top deep learning libraries that you should consider learning and using [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Popular-Deep-Learning-Libraries.jpg"
+        },
+        {
+            "id": 9495,
+            "title": "Naive Bayes Tutorial for Machine Learning",
+            "url": "https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-13T00:00:00",
+            "description": "Naive Bayes is a very simple classification algorithm that makes some strong assumptions about the independence of each input variable. Nevertheless, it has been shown to be effective in a large number of problem domains.\u00a0In this post you will discover the Naive Bayes algorithm for categorical data. After reading this post, you will know. How [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Naive-Bayes-Tutorial-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9496,
+            "title": "Naive Bayes for Machine Learning",
+            "url": "https://machinelearningmastery.com/naive-bayes-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-11T00:00:00",
+            "description": "Naive Bayes is a simple but surprisingly powerful algorithm for predictive modeling. In this post you will discover the Naive Bayes algorithm for classification. After reading this post, you will know: The representation used by naive Bayes that is actually stored when a model is written to a file. How a learned model can be [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Naive-Bayes-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9497,
+            "title": "Classification And Regression Trees for Machine Learning",
+            "url": "https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-08T00:00:00",
+            "description": "Decision Trees are an important type of algorithm for predictive modeling machine learning. The classical decision tree algorithms have been around for decades and modern variations\u00a0like random forest are among the most powerful techniques available. In this post you will discover the humble decision tree algorithm known by it\u2019s more modern name CART which stands [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Classification-And-Regression-Trees-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9498,
+            "title": "Deep Learning Books",
+            "url": "https://machinelearningmastery.com/deep-learning-books/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-04-07T00:00:00",
+            "description": "There are not many books on deep learning at the moment because it is such a young area of study. There are a few books available though and some very interesting books in the pipeline that you can purchase by early access. In this post, you will discover the books available right now on deep [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Deep-Learning-Books.jpg"
+        },
+        {
+            "id": 9499,
+            "title": "Linear Discriminant Analysis for Machine Learning",
+            "url": "https://machinelearningmastery.com/linear-discriminant-analysis-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-06T00:00:00",
+            "description": "Logistic regression is a classification algorithm traditionally limited to only two-class classification problems. If you have more than two classes then Linear Discriminant Analysis is the preferred linear classification technique. In this post you will discover the Linear Discriminant Analysis (LDA) algorithm for classification predictive modeling problems. After reading this post you will know: The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Linear-Discriminant-Analysis-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9500,
+            "title": "Logistic Regression Tutorial for Machine Learning",
+            "url": "https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-04T00:00:00",
+            "description": "Logistic regression is one of the most popular machine learning algorithms for binary classification. This is because it is a simple algorithm that performs very well on a wide range of problems. In this post you are going to discover the logistic regression algorithm for binary classification, step-by-step. After reading this post you will know: [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Logistic-Regression-Tutorial-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9501,
+            "title": "Logistic Regression for Machine Learning",
+            "url": "https://machinelearningmastery.com/logistic-regression-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2016-04-01T00:00:00",
+            "description": "Logistic regression is another technique borrowed by machine learning from the field of statistics. It is the go-to method for binary classification problems (problems with two class values). In this post you will discover the logistic regression algorithm for machine learning. After reading this post you will know: The many names and terms used when [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/Learning-Algorithm-for-Logistic-Regression.jpg"
+        }
+    ]
+}

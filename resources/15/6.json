@@ -1,0 +1,135 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 9806,
+            "title": "Latest Machine Learning Research Proposes \u2018TabPFN,\u2019 A Trained Transformer That Can Do Supervised Classification For Small Tabular Datasets In Less Than A Second",
+            "url": "https://www.marktechpost.com/2022/10/24/latest-machine-learning-research-proposes-tabpfn-a-trained-transformer-that-can-do-supervised-classification-for-small-tabular-datasets-in-less-than-a-second/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-24T00:00:00",
+            "description": "Despite being the most frequent data format in real-world machine learning (ML) applications, tabular data, which consists of categorical and numerical characteristics, has long been disregarded by deep learning research. While deep learning approaches excel in many ML applications, Gradient-Boosted Decision Trees continue to dominate tabular data classification issues, owing to their low training time and resilience. They suggest a fundamental shift in tabular categorization. They do not start from scratch when fitting a new model to the training phase of a new dataset. Instead, they do a single forward pass using a massive Transformer already pre-trained to tackle artificially",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-1-2.jpg"
+        },
+        {
+            "id": 9807,
+            "title": "Google Researchers Propose a Perceptual Image Quality Assessment Method for Compressed Images Using Deep Learning",
+            "url": "https://www.marktechpost.com/2022/10/24/google-researchers-propose-a-perceptual-image-quality-assessment-method-for-compressed-images-using-deep-learning/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-10-24T00:00:00",
+            "description": "Image compression plays a crucial role in the multimedia domain. The increasing number of visual content on the internet is served by scaling data storage solutions. This massive scale of data storage makes compression algorithms more crucial every day, as even a fraction of improvement in the compression algorithm can save a tremendous amount of storage space at those scales.\u00a0 Despite the enormous increase in image data over the years, image compression algorithms have not improved much. We are still mainly using the JPEG format that was introduced in 1992.\u00a0 JPEG is an example of a lossy image compression algorithm.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/fig2-3.png"
+        },
+        {
+            "id": 9808,
+            "title": "Understanding Applications of Artificial Intelligence (AI) in the Gaming Industry",
+            "url": "https://www.marktechpost.com/2022/10/23/understanding-applications-of-artificial-intelligence-ai-in-the-gaming-industry/",
+            "authors": "Amreen Bawa",
+            "tags": null,
+            "publishedOn": "2022-10-23T00:00:00",
+            "description": "Enhancing the player experience is the ultimate goal of artificial intelligence in gaming. Given that game developers create games for a variety of platforms, it is imperative. The option between a console and a desktop PC gaming has become obsolete. Instead, users of various mobile and wearable devices\u2014such as smartphones, V.R. headsets, and more\u2014demand immersive gaming experiences. Thanks to AI, developers can now create console-like experiences for several device kinds. AI games come in several formats every year. Some experts argue that the less obvious uses of AI in games are the most potent. AI is becoming more prevalent in",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-3.jpg"
+        },
+        {
+            "id": 9809,
+            "title": "Deepkapha AI Researchers Propose \u2018VeerNet,\u2019 A Novel Transformer-Based Deep Learning Network That Uses Self-Attention Processes To Recognize Distinct Curves From A Single Track",
+            "url": "https://www.marktechpost.com/2022/10/23/deepkapha-ai-researchers-propose-veernet-a-novel-transformer-based-deep-learning-network-that-uses-self-attention-processes-to-recognize-distinct-curves-from-a-single-track/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-23T00:00:00",
+            "description": "Well-logging is the process of using drilling instruments to take measurements of various rock qualities throughout the length of a well down into the earth. The formation's lithology, porosity, fluid content, and textural variance determine the digital log responses. The welllogging parameters generate lithofacies groups and facies-by-facies rock property descriptors. Before the introduction of digital logging tools, well-logging data were drawn in curve format on the parameter graph. Well-logging parameter graphs have several drawbacks, including their vast size, abundant memory space, and interference from gridlines. Therefore, it is necessary to translate well-logging parameter graphs into X-Y coordinates, where X stands",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-2.jpg"
+        },
+        {
+            "id": 9810,
+            "title": "Ensign InfoSecurity Researchers Present \u2018TypoSwype\u2019: An Artificial Intelligence (AI) Based Imaging Approach to Detect Typosquatting Attacks",
+            "url": "https://www.marktechpost.com/2022/10/23/ensign-infosecurity-researchers-present-typoswype-an-artificial-intelligence-ai-based-imaging-approach-to-detect-typosquatting-attacks/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-10-23T00:00:00",
+            "description": "Cyberattackers use many methods to trick consumers into visiting malicious websites or giving over private information. One of the most popular forms of cyberattack is typosquatting, which takes advantage of people's propensity to make typos when typing quickly or to misunderstand words with minor topographical flaws. For the most part, typosquatting involves the construction of malicious websites with URLs that are similar to those of legitimate sites but contain typos (e.g., 'fqcebook' instead of 'facebook' or 'yuube' instead of 'youtube'). If a user accidentally accesses one of these sites, they may unwillingly download malicious software or provide sensitive information to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-23-at-8.12.38-AM.png"
+        },
+        {
+            "id": 9811,
+            "title": "AI Hardware Accelerators For Machine Learning And Deep Learning | How To Choose One",
+            "url": "https://www.marktechpost.com/2022/10/22/ai-hardware-accelerators-for-machine-learning-and-deep-learning-how-to-choose-one/",
+            "authors": "Arham Islam",
+            "tags": null,
+            "publishedOn": "2022-10-22T00:00:00",
+            "description": "What is an AI Accelerator? Machine Learning(ML), particularly its subfield, Deep Learning, mainly consists of numerous calculations involving Linear Algebra like Matrix Multiplication and Vector Dot Product. AI accelerators are specialized processors designed to accelerate these core ML operations, improve performance and lower the cost of deploying ML-based applications. AI accelerators can significantly reduce the time to train and execute an AI model and perform specific AI tasks that cannot be conducted on a CPU. The main aim of AI accelerators is to minimize power while doing calculations. These accelerators use strategies like optimized memory use and low-precision arithmetic to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/microprocessor-chipset-central-processor-unit-illumination-circuit-scaled.jpg"
+        },
+        {
+            "id": 9812,
+            "title": "Google and Stanford Researchers Propose a Novel Approach for Distilling Classifier-Free Guided Diffusion Models with High Sampling Efficiency",
+            "url": "https://www.marktechpost.com/2022/10/22/google-and-stanford-researchers-propose-a-novel-approach-for-distilling-classifier-free-guided-diffusion-models-with-high-sampling-efficiency/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-10-22T00:00:00",
+            "description": "High-resolution picture synthesis using denoising diffusion probabilistic models (DDPMs) with classifier-free guidings, such as DALLE 2, GLIDE, and Imagen, has reached state-of-the-art results. The drawback of such models is that their inference procedure necessitates hundreds of evaluations of both a class-conditional model and an unconditional model, making them unfeasible to compute for many practical applications. In their recent study, On Distillation of Guided Diffusion Models, researchers offer a novel method for distilling classifier-free guided diffusion models with great sampling efficiency. The generated models perform as well as the original model but with up to 256 times less sampling steps. The",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-22-at-7.47.48-PM.png"
+        },
+        {
+            "id": 9813,
+            "title": "Meet FathomNet: An Open-Source Image Database That Uses Artificial Intelligence and Machine Learning Algorithms To Help Process The Backlog Of Visual Data For Understanding Our Ocean And Its Inhabitants",
+            "url": "https://www.marktechpost.com/2022/10/22/meet-fathomnet-an-open-source-image-database-that-uses-artificial-intelligence-and-machine-learning-algorithms-to-help-process-the-backlog-of-visual-data-for-understanding-our-ocean-and-its-inhabitan/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-10-22T00:00:00",
+            "description": "The ocean is changing at an unprecedented rate, making it challenging to maintain responsible stewardship while visually monitoring vast amounts of marine data. The amount and rate of the necessary data gathering are outpacing our capacity to process and analyze them quickly as the research community seeks baselines. The lack of data consistency, inadequate formatting, and the desire for significant, labeled datasets have all contributed to the limited success of recent advancements in machine learning, which have enabled quick and more complex visual data analysis. In order to meet this requirement, several research institutions worked with MBARI to speed up",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-22-at-2.38.56-PM.png"
+        },
+        {
+            "id": 9814,
+            "title": "Artificial Intelligence (AI) Researchers at Standford Propose S4ND, a New Deep Layer Based on S4 that Extends SSMs\u2019 Capacity to Simulate Continuous Signals to Multidimensional Data Such as Photos and Videos",
+            "url": "https://www.marktechpost.com/2022/10/22/artificial-intelligence-ai-researchers-at-standford-propose-s4nd-a-new-deep-layer-based-on-s4-that-extends-ssms-capacity-to-simulate-continuous-signals-to-multidimensional-data-such-as-photos-and/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-22T00:00:00",
+            "description": "Visual data modeling, such as photographs and videos, is a canonical problem in deep learning. Many current deep learning backbones with good performance on benchmarks like ImageNet have been suggested in recent years. These backbones are diverse and include 1D sequence models like the Vision Transformer (ViT), which handles pictures as patches, and 2D and 3D models that employ local convolutions over images and videos (ConvNets). Dimensions of space and time They would like techniques to recognize the difference between data and signal and directly simulate the underlying continuous signals. This would enable them to modify the model to data",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-22-at-10.27.12-AM.png"
+        },
+        {
+            "id": 9815,
+            "title": "Top Data Version Control Tools for Machine Learning Research in 2022",
+            "url": "https://www.marktechpost.com/2022/10/21/top-data-version-control-tools-for-machine-learning-research-in-2022/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": "All systems used for production must be versioned. A single location where users can access the most recent data. An audit trail must be created for any resource that is often modified, especially when numerous users are making changes at once. To ensure everyone on the team is on the same page, the version control system is in charge. It ensures that everyone on the team is collaborating on the same project at once and that everyone is working on the most recent version of the file. You can complete this task quickly if you have the right tools! If",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/abstract-black-futuristic-background-scaled.jpg"
+        },
+        {
+            "id": 9816,
+            "title": "Latest Machine Learning Research at UC Berkeley Proposes a Way to Design a Learned Optimizer Using Generative Models of Neural Network Checkpoints",
+            "url": "https://www.marktechpost.com/2022/10/21/latest-machine-learning-research-at-uc-berkeley-proposes-a-way-to-design-a-learned-optimizer-using-generative-models-of-neural-network-checkpoints/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": "Deep learning methods have been a game-changer in lots of applications. They have been the core components of field advancements in the last decades, from computer vision to language processing. Training a deep neural network on a specific task requires constructing a dataset with many samples. DNN model can then go over the training data to gradually optimize its neurons\u2019 weights to achieve the minimal loss based on the predefined loss function. This training process is named gradient-based optimization. It is the clavis aurea of deep learning. Gradient-based optimization methods such as stochastic gradient descent (SGD) or Adam are straightforward",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/fig2-2.png"
+        },
+        {
+            "id": 9817,
+            "title": "Microsoft AI Research Introduces DeepSpeed-MII, A New Open-Source Python Library From DeepSpeed That Speeds Up 20,000+ Widely Used Deep Learning Models",
+            "url": "https://www.marktechpost.com/2022/10/21/microsoft-ai-research-introduces-deepspeed-mii-a-new-open-source-python-library-from-deepspeed-that-speeds-up-20000-widely-used-deep-learning-models/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": "While open-source software has made AI accessible to more people, there are still two significant barriers to its widespread use: inference delay and cost. System optimizations have come a long way and can substantially reduce latency and cost for DL model inference, but they are not immediately accessible. Many data scientists lack the expertise to correctly identify and implement the set of system optimizations relevant to a specific model, making low latency and low-cost inference primarily out of reach. The complex nature of the DL model inference landscape, including wide variations in model size, architecture, system performance characteristics, hardware requirements,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-3.43.09-PM.png"
+        },
+        {
+            "id": 9818,
+            "title": "Meta AI Announces Release of \u2018Grand Teton\u2019: The Next-Generation Artificial Intelligence (AI) Hardware Platform At Scale",
+            "url": "https://www.marktechpost.com/2022/10/21/meta-ai-announces-release-of-grand-teton-the-next-generation-artificial-intelligence-ai-hardware-platform-at-scale/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": null,
+            "thumbnail": null
+        }
+    ]
+}

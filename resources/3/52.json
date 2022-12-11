@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3504,
+            "title": "Loops and Control Statements \u2013 An In-depth Python tutorial",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/loops-and-control-statements-an-in-depth-python-tutorial/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-03T00:00:00",
+            "description": "This article is a walkthrough of several types of loops and control statements in python with plenty of practice exercises.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 3505,
+            "title": "Essential Text Pre-processing Techniques for NLP!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/essential-text-pre-processing-techniques-for-nlp/",
+            "authors": "Tithi Sreemany",
+            "tags": "Advanced, Data Cleaning, NLP, Python",
+            "publishedOn": "2021-09-03T00:00:00",
+            "description": "NLP helps computers understand, interpret human language. Here, we will explore some text pre-processing techniques in NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Text-Classification-scaled.jpg"
+        },
+        {
+            "id": 3506,
+            "title": "Natural Language Processing Using CNNs for Sentence Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/natural-language-processing-using-cnns-for-sentence-classification/",
+            "authors": "Nilanjan Sengupta",
+            "tags": "Advanced, Classification, Deep Learning, NLP, Text",
+            "publishedOn": "2021-09-02T00:00:00",
+            "description": "In this article, we are going to perform Sentence Classification Natural Language Processing Using Convolutional Neural Networks(CNNs)",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-5-Sentence-Embedding-Techniques-using-Python.png"
+        },
+        {
+            "id": 3507,
+            "title": "Unit Test framework and Test Driven Development (TDD) in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/unit-test-framework-and-test-driven-development-tdd-in-python/",
+            "authors": "LAVANYA S",
+            "tags": "Beginner, Project, Python",
+            "publishedOn": "2021-09-02T00:00:00",
+            "description": "Running unit test in python in data science & data engineering projects assures data quality. You know your code does what you want it to do.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/ab-test.jpg"
+        },
+        {
+            "id": 3508,
+            "title": "PyPDF2 Library for Working with PDF Files in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/pypdf2-library-for-working-with-pdf-files-in-python/",
+            "authors": "Siddharth Sachdeva",
+            "tags": "Beginner, Project, Python",
+            "publishedOn": "2021-09-02T00:00:00",
+            "description": "As we have seen above, all the operations that could be thought of in a PDF file can be easily performed in Python using\u00a0PyPDF2 library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/18322files.jpg"
+        },
+        {
+            "id": 3509,
+            "title": "Improving Image Quality for Computer Vision Tasks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/improving-image-quality-for-computer-vision-tasks/",
+            "authors": "Gourav Singh",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-09-02T00:00:00",
+            "description": "There are a set of methods that are mainly used for improving image quality for computer vision tasks like binarization, Rescaling\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/47881Titanic-Image.png"
+        },
+        {
+            "id": 3510,
+            "title": "Searching in Data Structure \u2013 Different Search Methods Explained",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/searching-in-data-structure-different-search-methods-explained/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-02T00:00:00",
+            "description": "Searching in data structure refers to the process of finding the required information from a collection of items stored as elements",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Types-of-Methods-in-Python.jpg"
+        },
+        {
+            "id": 3511,
+            "title": "How to choose the Right Chart for Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/",
+            "authors": "Harshit Ahluwalia",
+            "tags": "Beginner, Data Visualization",
+            "publishedOn": "2021-09-01T00:00:00",
+            "description": "Data Visualization is an important topic. In this article, you will learn \u201cHow to choose the right chart for data visualization\u201d.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 3512,
+            "title": "Sentiment classification using NLP With Text Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/sentiment-classification-using-nlp-with-text-analytics/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Classification, Data Science, NLP, Project, Python, Text",
+            "publishedOn": "2021-09-01T00:00:00",
+            "description": "In this article, we will explore a project on NLP and text analytics. we will perform a sentiment classification on the movie review dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 3513,
+            "title": "Git and GitHub Tutorial for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/git-and-github-tutorial-for-beginners/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Technique",
+            "publishedOn": "2021-09-01T00:00:00",
+            "description": "Version Control Systems are important for project development and monitoring. This article is a walkthrough of basic Git and GitHub concepts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/feat_programming_data_science_languages.jpg"
+        },
+        {
+            "id": 3514,
+            "title": "Learn And Build Your First Generative Adversarial Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/learn-and-build-your-first-generative-adversarial-network/",
+            "authors": "Adwait Dathan R",
+            "tags": "Advanced, Deep Learning, Image, Image Analysis, Project, Python",
+            "publishedOn": "2021-08-31T00:00:00",
+            "description": "In this article, you will Learn And Build Your First Generative Adversarial Network. GANs in one of the most fundamental concepts of CV",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/48385gan2.jpeg"
+        },
+        {
+            "id": 3515,
+            "title": "Quick Start with Tensorflow Callbacks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/quick-start-with-tensorflow-callbacks/",
+            "authors": "Ashish Salaskar",
+            "tags": "Deep Learning, Libraries, Programming, Python",
+            "publishedOn": "2021-08-31T00:00:00",
+            "description": "Tensorflow callbacks are functions or blocks of code which are executed during a specific instant while training a Deep Learning Model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/TENSORFLOW.png"
+        },
+        {
+            "id": 3516,
+            "title": "Understanding the Basics of Apache Spark RDD",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/understanding-the-basics-of-apache-spark-rdd/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Advanced, Data Engineering, Machine Learning, Programming, Python",
+            "publishedOn": "2021-08-30T00:00:00",
+            "description": "In this article, we are going to discuss one of the most essential parts of Apache Spark called RDD. Let's understand Apache Spark RDD",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/8-Must-Know-Spark-Optimization-Tips-for-Data-Engineering-Beginners-.jpg"
+        },
+        {
+            "id": 3517,
+            "title": "An Introduction to Data Analysis using Spark SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/an-introduction-to-data-analysis-using-spark-sql/",
+            "authors": "Sourav Mondal",
+            "tags": "Beginner, Data Engineering, Data Exploration, Libraries, Project, Python",
+            "publishedOn": "2021-08-30T00:00:00",
+            "description": "Spark is an analytics engine that is used for Big Data Processing. Let us see an Introduction to Data Analysis using Spark SQL",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 3518,
+            "title": "Trees in Data Structure Every Data Scientist Should Know About",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/trees-in-data-structure-every-data-scientist-should-know-about/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming",
+            "publishedOn": "2021-08-29T00:00:00",
+            "description": "Trees in data structures play an important role due to the non-linear nature of their structure. Let's explore some types of trees.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/feat_programming_data_science_languages.jpg"
+        },
+        {
+            "id": 3519,
+            "title": "Your Guide to Object Detection with Detectron2 in PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/your-guide-to-object-detection-with-detectron2-in-pytorch/",
+            "authors": "Shri Varsheni R",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Object Detection, Project, Python, PyTorch",
+            "publishedOn": "2021-08-29T00:00:00",
+            "description": "Object detection is one of the popular applications of deep learning. Here we will perform object detection with detectron2.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 3520,
+            "title": "Decision Tree Algorithm \u2013 A Complete Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/",
+            "authors": "Anshul Saini",
+            "tags": "Algorithm, Beginner, Classification, Data Science, Machine Learning, Supervised",
+            "publishedOn": "2021-08-29T00:00:00",
+            "description": "Decision tree algorithm is a supervised machine learning technique. This algorithm can be used for classification as well as regression.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 3521,
+            "title": "ML-trained Predictive model with a Django API",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/ml-trained-predictive-model-with-a-django-api/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Data Engineering, Machine Learning, Project, Python",
+            "publishedOn": "2021-08-28T00:00:00",
+            "description": "In this article, we will learn about a project aiming to make the ML algorithm accessible through DJANGO API, RPC, or WebSockets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Web-Application-for-Prediction.jpg"
+        },
+        {
+            "id": 3522,
+            "title": "Pratically Demistifying BERT Language Representation Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/pratically-demistifying-bert-language-representation-model/",
+            "authors": "Purnendu Shukla",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-08-28T00:00:00",
+            "description": "BERT is a short form of Bi-Directional Encoder Representation From Transformers which is a language model\u00a0and as the name suggests",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 3523,
+            "title": "Linear Regression and Gradient Descent in PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/linear-regression-and-gradient-descent-in-pytorch/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Algorithm, Beginner, Libraries, Machine Learning, Project, Python, PyTorch, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-08-28T00:00:00",
+            "description": "In this article, we will understand the implementation of the important concepts of Linear Regression and Gradient Descent in PyTorch",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/assumption-of-linear-regression.png"
+        },
+        {
+            "id": 3524,
+            "title": "Create a Python App to Measure Customer Lifetime Value (CLV)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/create-a-python-app-to-measure-customer-lifetime-value-clv/",
+            "authors": "Amit Kulkarni",
+            "tags": "Advanced, Machine Learning, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-08-28T00:00:00",
+            "description": "Customer Lifetime Value is an important success metric for any business. Let's learn how to create an App to measure Customer Lifetime Value",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/63888cart-scaled.jpg"
+        },
+        {
+            "id": 3525,
+            "title": "Text Preprocessing techniques for Performing Sentiment Analysis!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/text-preprocessing-techniques-for-performing-sentiment-analysis/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Data Cleaning, NLP, Programming, Python, Text, Unstructured Data",
+            "publishedOn": "2021-08-27T00:00:00",
+            "description": "In this article we will perform text preprocessing techniques on a movie review sentiment analysis dataset. For the task we will use python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image.png"
+        },
+        {
+            "id": 3526,
+            "title": "Create Stock Exchange Dashboard using Dash in Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/create-stock-exchange-dashboard-using-dash-in-python/",
+            "authors": "Siddharth Sachdeva",
+            "tags": "Beginner, Data Visualization, Libraries, Programming, Python, Structured Data",
+            "publishedOn": "2021-08-27T00:00:00",
+            "description": "Dash is an open-source web framework for creating analytical dashboards. Here we will create a stock exchange dashboard using dash in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/time-series.jpg"
+        },
+        {
+            "id": 3527,
+            "title": "Everything a Beginner should know about List Comprehension in Python Before Starting Your Data Science Journey[With Examples]",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/everything-a-beginner-should-know-about-list-comprehension-in-python-before-starting-your-data-science-journeywith-examples/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "The list comprehension feature is one of the most effective of these methods. It allows you to create lists with just one line of code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92441Python-Cover-Image-scaled.jpg"
+        },
+        {
+            "id": 3528,
+            "title": "What are Functions in Python? How to create functions in Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/what-are-functions-in-python-how-to-create-functions-in-python/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "This article aims at brushing up knowledge on the Functions concept in Python in detail so that you can use it in the most effective manner",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3529,
+            "title": "Sharpening An Image using OpenCV Library in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/sharpening-an-image-using-opencv-library-in-python/",
+            "authors": "Shiv Maharaj",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "We will look at the process of sharpening an image where we will make use of a kernel to highlight each particular pixel & enhance the color",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/70042Cover-Image.jpeg"
+        },
+        {
+            "id": 3530,
+            "title": "Best Practices and Performance Tuning Activities for PySpark",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/best-practices-and-performance-tuning-activities-for-pyspark/",
+            "authors": "Tanushree Biswal",
+            "tags": "Advanced, Data Engineering, Python",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "We will be sharing few ways to improve the performance of the code or reduce execution time for batch processing for PySpark",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/14160matt-ridley-MrVEedTZLwM-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3531,
+            "title": "Train Your Own YoloV5 Object Detection Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/train-your-own-yolov5-object-detection-model/",
+            "authors": "Gourav Singh",
+            "tags": "Advanced, Computer Vision, Deep Learning, Object Detection, Project, Python, Unstructured Data",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "In this article, we will learn how to train the\u00a0YoloV5 object detection model on your own data for both GPU and CPU-based systems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 3532,
+            "title": "How to code your ResNet from scratch in Tensorflow?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/how-to-code-your-resnet-from-scratch-in-tensorflow/",
+            "authors": "Yashowardhan Shinde",
+            "tags": "Intermediate, Project, Python, Unstructured Data",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "ResNets are called Residual Networks. In this blog we will understand resnet and also learn to build Resnet from scratch with tensorflow",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 3533,
+            "title": "Understanding Gradient Descent Algorithm and the Maths Behind It",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/",
+            "authors": "Nasima Tamboli",
+            "tags": "Algorithm, Beginner, Core ML, Data Science, Machine Learning, Maths, Python",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "This article throws light on how the Gradient Descent algorithm core formula is derived which will further help in better understanding it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        }
+    ]
+}

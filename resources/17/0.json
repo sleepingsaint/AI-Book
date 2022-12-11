@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14988,
+            "title": "ChatGPT: Optimizing Language Models for Dialogue",
+            "url": "https://openai.com/blog/chatgpt/",
+            "authors": null,
+            "tags": "Announcements, Research",
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "We\u2019ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in",
+            "thumbnail": "https://openai.com/content/images/2022/11/ChatGPT.jpg"
+        },
+        {
+            "id": 9890,
+            "title": "DALL\u00b7E API Now Available in Public Beta",
+            "url": "https://openai.com/blog/dall-e-api-now-available-in-public-beta/",
+            "authors": null,
+            "tags": "Announcements, API",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Starting today, developers can begin building apps with the DALL\u00b7E API.",
+            "thumbnail": "https://openai.com/content/images/2022/11/dall-e-api-now-available-in-public-beta-og-1.jpg"
+        },
+        {
+            "id": 9891,
+            "title": "DALL\u00b7E Now Available Without Waitlist",
+            "url": "https://openai.com/blog/dall-e-now-available-without-waitlist/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.\n\n\n\nSign up\n\n\n\n\nStarting today, we are removing the waitlist for the DALL\u00b7E beta so users can sign up and start using it immediately. More than 1.5M users",
+            "thumbnail": "https://openai.com/content/images/2022/09/dall-e-no-waitlist-social-1.jpg"
+        },
+        {
+            "id": 9892,
+            "title": "Introducing Whisper",
+            "url": "https://openai.com/blog/whisper/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-09-21T00:00:00",
+            "description": "We\u2019ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.\n\n\n\n\nRead Paper\n\nView Code\n\nView Model Card\n\n\n\n\n\n\nWhisper examples:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReveal Transcript\n\n\n\n\n\n\n\n\nWhisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask",
+            "thumbnail": "https://openai.com/content/images/2022/09/social.png"
+        },
+        {
+            "id": 9893,
+            "title": "DALL\u00b7E: Introducing Outpainting",
+            "url": "https://openai.com/blog/dall-e-introducing-outpainting/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-08-31T00:00:00",
+            "description": "Extend creativity and tell a bigger story with DALL-E images of any size\n\n\n\n\n\n\n\nOriginal outpainting by Emma Catnip\n\n\n\n\n\nToday we\u2019re introducing Outpainting, a new feature which helps users extend their creativity by continuing an image beyond its original borders \u2014 adding visual elements in the same style, or taking a",
+            "thumbnail": "https://openai.com/content/images/2022/08/outpainting-social.png"
+        },
+        {
+            "id": 9894,
+            "title": "Our approach to alignment research",
+            "url": "https://openai.com/blog/our-approach-to-alignment-research/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "Our approach to aligning AGI is empirical and iterative. We are improving our AI systems\u2019 ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other alignment problems.\n\n\n\n\nIntroduction\n\n\nOur alignment",
+            "thumbnail": "https://openai.com/content/images/2022/08/alignment-blog-header-thin.jpg"
+        },
+        {
+            "id": 9895,
+            "title": "New-and-Improved Content Moderation Tooling",
+            "url": "https://openai.com/blog/new-and-improved-content-moderation-tooling/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "We are introducing a new-and-improved content moderation tool: The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers.\n\n\n\nTo help developers protect their applications against possible misuse, we are introducing the faster and more accurate Moderation endpoint. This endpoint provides OpenAI",
+            "thumbnail": "https://openai.com/content/images/2022/08/content-moderation-api-1.png"
+        },
+        {
+            "id": 9896,
+            "title": "DALL\u00b7E Now Available in Beta",
+            "url": "https://openai.com/blog/dall-e-now-available-in-beta/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "We\u2019ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL\u00b7E using free credits that refill every month, and buy additional credits in 115-generation increments for $15.\n\n\n\nJoin DALL\u00b7E 2 waitlist\n\n\n\n\nDALL\u00b7E, the AI system that creates realistic images and",
+            "thumbnail": "https://openai.com/content/images/2022/07/dall-e-now-available-in-beta-og-4.jpg"
+        },
+        {
+            "id": 9897,
+            "title": "Reducing Bias and Improving Safety in DALL\u00b7E 2",
+            "url": "https://openai.com/blog/reducing-bias-and-improving-safety-in-dall-e-2/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-07-18T00:00:00",
+            "description": "Today, we are implementing a new technique so that DALL\u00b7E generates images of people that more accurately reflect the diversity of the world\u2019s population. This technique is applied at the system level when DALL\u00b7E is given a prompt describing a person that does not specify race or",
+            "thumbnail": "https://openai.com/content/images/2022/07/reducing-bias-and-improving-safety-in-dall-e-2-og.jpg"
+        },
+        {
+            "id": 9898,
+            "title": "DALL\u00b7E 2: Extending Creativity",
+            "url": "https://openai.com/blog/dall-e-2-extending-creativity/",
+            "authors": null,
+            "tags": "Community",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "As part of our DALL\u00b7E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL\u00b7E into their creative workflows. The artists in our early access group have helped us discover new uses for DALL\u00b7E and have served as key voices as",
+            "thumbnail": "https://openai.com/content/images/2022/07/dall-e-2-extending-creativity.jpg"
+        },
+        {
+            "id": 9899,
+            "title": "DALL\u00b7E 2 Pre-Training Mitigations",
+            "url": "https://openai.com/blog/dall-e-2-pre-training-mitigations/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-06-28T00:00:00",
+            "description": "In order to share the magic of DALL\u00b7E 2 with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various guardrails in place to prevent generated images from violating our content policy. This post focuses on pre-training mitigations,",
+            "thumbnail": "https://openai.com/content/images/2022/06/twitter.png"
+        },
+        {
+            "id": 9900,
+            "title": "Learning to Play Minecraft with Video PreTraining (VPT)",
+            "url": "https://openai.com/blog/vpt/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": "We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our model can learn to craft diamond tools, a task that usually takes proficient humans over",
+            "thumbnail": "https://openai.com/content/images/2022/06/social-1.png"
+        },
+        {
+            "id": 9901,
+            "title": "AI-Written Critiques Help Humans Notice Flaws",
+            "url": "https://openai.com/blog/critiques/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-06-13T00:00:00",
+            "description": "Showing model-generated critical comments to humans helps them find flaws in summaries.",
+            "thumbnail": "https://openai.com/content/images/2022/06/critiques.png"
+        },
+        {
+            "id": 9902,
+            "title": "Techniques for Training Large Neural Networks",
+            "url": "https://openai.com/blog/techniques-for-training-large-neural-networks/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-06-09T00:00:00",
+            "description": "Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation. As cluster and model sizes have grown, machine learning practitioners have developed an increasing",
+            "thumbnail": "https://openai.com/content/images/2022/06/large-neural-networks.png"
+        },
+        {
+            "id": 9903,
+            "title": "Best Practices for Deploying Language Models",
+            "url": "https://openai.com/blog/best-practices-for-deploying-language-models/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "Cohere, OpenAI, and AI21 Labs have developed a preliminary set of best practices applicable to any organization developing or deploying large language models. Computers that can read and write are here, and they have the potential to fundamentally impact daily life. The future of human\u2013machine interaction is full of",
+            "thumbnail": "https://openai.com/content/images/2022/06/deploying-language-models-color.png"
+        },
+        {
+            "id": 9904,
+            "title": "Powering Next Generation Applications with OpenAI Codex",
+            "url": "https://openai.com/blog/codex-apps/",
+            "authors": null,
+            "tags": "Announcements, API",
+            "publishedOn": "2022-05-24T00:00:00",
+            "description": "Codex is now powering 70 different applications across a variety of use cases through the OpenAI API.",
+            "thumbnail": "https://openai.com/content/images/2022/05/codex-apps.png"
+        },
+        {
+            "id": 9905,
+            "title": "DALL\u00b7E 2 Research Preview Update",
+            "url": "https://openai.com/blog/dall-e-2-update/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-05-18T00:00:00",
+            "description": "Early users have created over 3 million images to date and helped us improve our safety processes. We're excited to begin adding up to 1,000 new users from our waitlist each week.",
+            "thumbnail": "https://openai.com/content/images/2022/07/dall-e-2-update.jpg"
+        },
+        {
+            "id": 9906,
+            "title": "OpenAI Leadership Team Update",
+            "url": "https://openai.com/blog/leadership-team-update/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2022-05-05T00:00:00",
+            "description": "We\u2019re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones.",
+            "thumbnail": "https://openai.com/content/images/2022/07/openai-leadership-update.jpg"
+        },
+        {
+            "id": 9907,
+            "title": "Measuring Goodhart\u2019s Law",
+            "url": "https://openai.com/blog/measuring-goodharts-law/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-04-13T00:00:00",
+            "description": "Goodhart\u2019s law famously says: \u201cWhen a measure becomes a target, it ceases to be a good measure.\u201d Although originally from economics, it\u2019s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9908,
+            "title": "DALL\u00b7E 2",
+            "url": "https://openai.com/blog/dall-e-2/",
+            "authors": null,
+            "tags": "Research, Multimodal",
+            "publishedOn": "2022-04-06T00:00:00",
+            "description": "DALL\u00b7E 2 is a new AI system that can create realistic images and art from a description in natural language.",
+            "thumbnail": "https://openai.com/content/images/2022/04/dall-e-2-og.jpg"
+        },
+        {
+            "id": 9909,
+            "title": "New GPT-3 Capabilities: Edit & Insert",
+            "url": "https://openai.com/blog/gpt-3-edit-insert/",
+            "authors": null,
+            "tags": "API, Announcements",
+            "publishedOn": "2022-03-15T00:00:00",
+            "description": "We\u2019ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text. These new capabilities make it practical to use the OpenAI API to revise existing content, such as rewriting a paragraph of text or refactoring code. This",
+            "thumbnail": "https://openai.com/content/images/2022/03/fib-social.png"
+        },
+        {
+            "id": 9910,
+            "title": "Lessons Learned on Language Model Safety and Misuse",
+            "url": "https://openai.com/blog/language-model-safety-and-misuse/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-03-03T00:00:00",
+            "description": "The deployment of powerful AI systems has enriched our understanding of safety\nand misuse far more than would have been possible through research alone.\nNotably:\n\n * API-based language model misuse often comes in different forms than we feared\n   most.\n * We have identified limitations in existing language model evaluations that we\n   are",
+            "thumbnail": "https://openai.com/content/images/2022/03/lifecycle-social.png"
+        },
+        {
+            "id": 9911,
+            "title": "Solving (Some) Formal Math Olympiad Problems",
+            "url": "https://openai.com/blog/formal-math/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "We built a neural theorem prover for Lean [https://leanprover.github.io/] that\nlearned to solve a variety of challenging high-school olympiad problems,\nincluding problems from the AMC12\n[https://www.maa.org/math-competitions/amc-1012] and AIME\n[https://www.maa.org/math-competitions/invitational-competitions] competitions,\nas well as two problems adapted from",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9912,
+            "title": "Aligning Language Models to Follow Instructions",
+            "url": "https://openai.com/blog/instruction-following/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-01-27T00:00:00",
+            "description": "We\u2019ve trained language models that are much better at following user intentions\nthan GPT-3 while also making them more truthful and less toxic, using techniques\ndeveloped through our alignment research. These InstructGPT models, which are\ntrained with humans in the loop, are now deployed as the default language models",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9913,
+            "title": "Introducing Text and Code Embeddings in the OpenAI API",
+            "url": "https://openai.com/blog/introducing-text-and-code-embeddings/",
+            "authors": null,
+            "tags": "API, Announcements, Research",
+            "publishedOn": "2022-01-25T00:00:00",
+            "description": "We are introducing embeddings, a new endpoint in the OpenAI API that makes it\neasy to perform natural language and code tasks like semantic search,\nclustering, topic modeling, and classification. Embeddings are numerical\nrepresentations of concepts converted to number sequences, which make it easy\nfor computers to understand the relationships",
+            "thumbnail": "https://openai.com/content/images/2022/01/embeddings-3d.png"
+        },
+        {
+            "id": 9914,
+            "title": "WebGPT: Improving the Factual Accuracy of Language Models through Web Browsing",
+            "url": "https://openai.com/blog/webgpt/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-12-16T00:00:00",
+            "description": "We've fine-tuned GPT-3 to more accurately answer open-ended questions using a\ntext-based web browser. Our prototype copies how humans research answers to\nquestions online\u2014it submits search queries, follows links, and scrolls up and\ndown web pages. It is trained to cite its sources, which makes it easier to give",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9915,
+            "title": "Customizing GPT-3 for Your Application",
+            "url": "https://openai.com/blog/customized-gpt-3/",
+            "authors": null,
+            "tags": "API, Announcements",
+            "publishedOn": "2021-12-14T00:00:00",
+            "description": "Fine-tune with a single command.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9916,
+            "title": "OpenAI Residency",
+            "url": "https://openai.com/blog/openai-residency/",
+            "authors": null,
+            "tags": "Announcements, Residency",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "OpenAI Members of Technical Staff who joined full-time through the Fellows and\nScholars programs. Top row (L\u2013R): Nik Tezak, Christina Kim, Reiichiro Nakano.\nBottom row: Cathy Yeh, Karl Cobbe, Tyna Eloundou. As part of our effort to\nsupport and develop AI talent, we're excited to announce the OpenAI Residency.",
+            "thumbnail": "https://openai.com/content/images/2021/11/Gif_AME_Small.gif"
+        },
+        {
+            "id": 9917,
+            "title": "OpenAI\u2019s API Now Available with No Waitlist",
+            "url": "https://openai.com/blog/api-no-waitlist/",
+            "authors": null,
+            "tags": "Announcements, API",
+            "publishedOn": "2021-11-18T00:00:00",
+            "description": "Wider availability made possible by safety progress.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9918,
+            "title": "Solving Math Word Problems",
+            "url": "https://openai.com/blog/grade-school-math/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "We\u2019ve trained a system that solves grade school math problems with nearly twice\nthe accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems\nas real kids: a small sample of 9-12 year olds scored 60% on a test from our\ndataset, while our system scored",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        }
+    ]
+}

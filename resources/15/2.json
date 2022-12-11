@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14940,
+            "title": "This Invisible Sweater Developed by the University of Maryland Tricks\u00a0Artificial Intelligence (AI) Cameras\u00a0and Stops them from Recognizing People",
+            "url": "https://www.marktechpost.com/2022/11/25/this-invisible-sweater-developed-by-the-university-of-maryland-tricks-artificial-intelligence-ai-cameras-and-stops-them-from-recognizing-people/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "Researchers show a systematic study of how adversarial attacks on the best object detection frameworks can be moved to other frameworks. They train patterns that suppress the objectness scores made by various commonly used detectors and groups. They do this by using standard detection datasets. Through much testing, researchers found how well adversarially trained patches work in both white-box and black-box settings and how well attacks can be transferred between datasets, object classes, and detector models. Lastly, they show a detailed study of physical world attacks using printed posters and clothes worn, and they use different metrics to measure how",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/cover2.png"
+        },
+        {
+            "id": 14927,
+            "title": "Google AI Introduces \u2018SegCLR,\u2019 a Self-Supervised Machine Learning Technique that Produces Highly Informative Representations of Cells Directly from 3D Electron Microscope Imagery and Segmentations",
+            "url": "https://www.marktechpost.com/2022/11/24/google-ai-introduces-segclr-a-self-supervised-machine-learning-technique-that-produces-highly-informative-representations-of-cells-directly-from-3d-electron-microscope-imagery-and-segmentations/",
+            "authors": "Vineet Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-24T00:00:00",
+            "description": "If we can analyze the organization of neural circuits, it will play a crucial role in better understanding the process of thinking. It is where the maps come into play. Maps of the nervous system contain information about the identity of individual cells, like their type, subcellular component, and connectivity of the neurons.\u00a0 But how do we obtain these maps? Volumetric nanometer-resolution imaging of brain tissue is a technique that provides the raw data needed to build these maps. But inferring all the relevant information is a laborious and challenging task because of the multiple scales of brain structures (e.g.,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2-2.jpg"
+        },
+        {
+            "id": 14928,
+            "title": "Meet \u2018EDGE\u2019: A Diffusion Based AI Model That Generates Realistic And Long-Form Dance Sequences Conditioned On Music",
+            "url": "https://www.marktechpost.com/2022/11/24/meet-edge-a-diffusion-based-ai-model-that-generates-realistic-and-long-form-dance-sequences-conditioned-on-music/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-24T00:00:00",
+            "description": "Many cultures place a high value on dance as a means of expression, communication, and social connection. However, producing new dances or dance animations is challenging because dance motions are expressive and freeform while carefully organized by music. In actuality, this calls for either time-consuming hand animation or unfeasible motion capture techniques. However, the burden of the creation process can be reduced by using computational methods to generate dances automatically. This has a wide range of applications, including assisting animators in creating new dances and providing interactive characters in video games or virtual reality with realistic and varied movements based",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-24-at-12.54.15-PM.png"
+        },
+        {
+            "id": 14929,
+            "title": "Meet CICERO: An Artificial Intelligence (AI) Agent That Plays At A Human Level In Diplomacy",
+            "url": "https://www.marktechpost.com/2022/11/24/meet-cicero-an-artificial-intelligence-ai-agent-that-plays-at-a-human-level-in-diplomacy/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-24T00:00:00",
+            "description": "From Deep Blue's victory over chess grandmaster Garry Kasparov to AlphaGo being the first computer program to defeat a Go World Champion, unbeatable superhuman agents have paved a new path for remarkable advancements made in AI. However, the primary question remains whether AI can create agents that can use language to negotiate and collaborate with others to achieve strategic goals in a manner comparable to humans. As it involves players mastering the art of understanding other people's perspectives and devising methods appropriately to persuade them to make agreements and form alliances with others, Diplomacy has long been considered a near-impossible",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-24-at-7.04.29-PM.png"
+        },
+        {
+            "id": 14930,
+            "title": "Understanding The Data Types For Machine Learning And Data Science",
+            "url": "https://www.marktechpost.com/2022/11/24/understanding-the-data-types-for-machine-learning-and-data-science/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-24T00:00:00",
+            "description": "Machine learning (a subfield of AI) aims to program computers to learn and grow as people do. Machine learning may automate virtually any activity that can be solved using a pattern or set of data-developed rules. It's crucial to have a firm grasp of the various data kinds to clean and preprocess the data in preparation for use with ML algorithms. For machines to recognize patterns in data, it must first be translated into a numerical representation. This will allow us to pick the top-performing models that can quickly and accurately identify the underlying patterns. Knowing the various data formats",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-12.jpg"
+        },
+        {
+            "id": 14917,
+            "title": "Google AI Introduces a Novel MoE Routing Algorithm Called Expert Choice (EC) That can Achieve Optimal Load Balancing in an MoE System While Allowing Heterogeneity in Token-to-Expert Mapping",
+            "url": "https://www.marktechpost.com/2022/11/23/google-ai-introduces-a-novel-moe-routing-algorithm-called-expert-choice-ec-that-can-achieve-optimal-load-balancing-in-an-moe-system-while-allowing-heterogeneity-in-token-to-expert-mapping/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "The number of model parameters in the network significantly influences a neural network's ability to process information. Recent academic work has largely focused on discovering more efficient ways to increase model parameters because the latest technological advancements necessitate more parameters. This increase in model parameters like dataset size and training time has effectively improved the performance of NLP models and computer vision systems. Mixture-of-experts (MoE), a conditional computation technique that activates network components on a per-example basis, is a method that significantly boosts model capacity without proportionally increasing computation. With sparsely-activated MoE models, the number of parameters can be significantly",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Fhtb-yVXwAoP9mr.jpeg"
+        },
+        {
+            "id": 14922,
+            "title": "Meet MultiRay: Meta AI\u2019s New Platform For Efficiently Running Large-Scale Artificial Intelligence (AI) Models",
+            "url": "https://www.marktechpost.com/2022/11/23/meet-multiray-meta-ais-new-platform-for-efficiently-running-large-scale-artificial-intelligence-ai-models/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "Today's state-of-the-art AI systems for handling text, images, and other modalities achieve optimal performance by first training a massive model with a massive quantity of data and then training that model to specialize in a single job (for example, identifying harmful speech). The result is a high-quality, high-priced specialized tool. The cost of maintaining so many massive models quickly escalates out of control if there are many problems to solve. As a result, huge state-of-the-art models are rarely employed in production, and considerably smaller and simpler models are typically used instead. A new Meta AI research has created MultiRay, a",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-4.png"
+        },
+        {
+            "id": 14924,
+            "title": "Researchers From Stanford And Microsoft Have Proposed An Artificial Intelligence (AI) Approach That Uses Declarative Statements As Corrective Feedback For Neural Models With Bugs",
+            "url": "https://www.marktechpost.com/2022/11/23/researchers-from-stanford-and-microsoft-have-proposed-an-artificial-intelligence-ai-approach-that-uses-declarative-statements-as-corrective-feedback-for-neural-models-with-bugs/",
+            "authors": "Rishabh Jain",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "The methods currently used to correct systematic issues in NLP models are either fragile or time-consuming and prone to shortcuts. Humans, on the other hand, frequently reprimand one another using natural language. This inspired recent research on natural language patches, which are declarative statements that enable developers to deliver corrective feedback at the appropriate level of abstraction by either modifying the model or adding information the model may be missing. Instead of relying solely on labeled examples, there is a growing body of research on using language to provide instructions, supervision, and even inductive biases to models, such as building",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-23-at-9.19.22-PM.png"
+        },
+        {
+            "id": 14925,
+            "title": "Researchers At Stanford Have Developed A New Artificial Intelligence (AI) Benchmark To Understand Large Language Models (LLMs)",
+            "url": "https://www.marktechpost.com/2022/11/23/researchers-at-stanford-have-developed-a-new-artificial-intelligence-ai-benchmark-to-understand-large-language-models-llms/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "Benchmarks orient AI. They encapsulate ideals and priorities that describe how the AI community should progress. When properly developed and analyzed, they allow the larger community to understand better and influence the direction of AI technology. The AI technology that has evolved the most in recent years is foundation models, highlighted by the advent of language models. A language model is essentially a box that accepts text and generates text. Despite their simplicity, these models may be customized (e.g., prompted or fine-tuned) to a wide range of downstream scenarios when trained on vast amounts of comprehensive data. However, there still",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-4.jpg"
+        },
+        {
+            "id": 14898,
+            "title": "Amazon AI Researchers Propose A New Machine Learning Framework Called \u2018GRAVL-BERT\u2019: A BERT-Based Graphical Visual-Linguistic Representations For Multimodal Coreference Resolution",
+            "url": "https://www.marktechpost.com/2022/11/22/amazon-ai-researchers-propose-a-new-machine-learning-framework-called-gravl-bert-a-bert-based-graphical-visual-linguistic-representations-for-multimodal-coreference-resolution/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "The use of multimodal data for AI training has gained popularity, particularly in recent years. The popularity of voice-activated screen devices like the Amazon Echo Show is rising due to their increased potential for multimodal interactions. Customers can refer to products on-screen using spoken language, which makes it easier for them to express their objectives. Multimodal coreference resolution (MCR) refers to this process of selecting the appropriate object on the screen utilizing natural language comprehension. In order to create the next generation of conversational bots involves resolving the references across many modalities, such as text and visuals. On visual-linguistic tasks",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-22-at-9.16.54-AM.png"
+        },
+        {
+            "id": 14904,
+            "title": "Artificial Intelligence (AI) Researchers from Cornell University Propose a Novel Neural Network Framework to Address the Video Matting Problem",
+            "url": "https://www.marktechpost.com/2022/11/22/artificial-intelligence-ai-researchers-from-cornell-university-propose-a-novel-neural-network-framework-to-address-the-video-matting-problem/",
+            "authors": "Daniele Lorenzi",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Image and video editing are two of the most popular applications for computer users. With the advent of Machine Learning (ML) and Deep Learning (DL), image and video editing have been progressively studied through several neural network architectures. Until very recently, most DL models for image and video editing were supervised and, more specifically, required the training data to contain pairs of input and output data to be used for learning the details of the desired transformation. Lately, end-to-end learning frameworks have been proposed, which require as input only a single image to learn the mapping to the desired edited",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-22-at-11.44.42-AM.png"
+        },
+        {
+            "id": 14906,
+            "title": "Latest Artificial Intelligence (AI) Study from Harvard Find Ways to Maximize the Accuracy of Image Segmentation by Machine Learning Algorithms in Multiplexed Tissue Images Containing Common Imaging Artefacts",
+            "url": "https://www.marktechpost.com/2022/11/22/latest-artificial-intelligence-ai-study-from-harvard-find-ways-to-maximize-the-accuracy-of-image-segmentation-by-machine-learning-algorithms-in-multiplexed-tissue-images-containing-common-imaging-ar/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Cell types, basement membranes, and connective structures that organize tissues and tumors can be found in length ranges ranging from microscopic organelles to whole organs (0.1 to >104 m). In the investigation of tissue architecture, Hematoxylin, Eosin (H&E), and immunohistochemistry microscopy have long been the method of choice. Furthermore, clinical histopathology continues to be the principal method for diagnosing and treating illnesses like cancer. Classical histology, however, needs to give more molecular data to correctly classify disease genes, analyze development pathways, or identify cell subtypes. It is adequate to identify cell types, assess cell states (quiescent, proliferating, dying, etc.), and",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-22-at-5.14.56-PM.png"
+        },
+        {
+            "id": 14908,
+            "title": "This Artificial Intelligence (AI) Paper Proposes a Novel Differentiable Angle Coder Named Phase Shifting Coder (PSC) to Accurately Predict the Orientation of Objects",
+            "url": "https://www.marktechpost.com/2022/11/22/this-artificial-intelligence-ai-paper-proposes-a-novel-differentiable-angle-coder-named-phase-shifting-coder-psc-to-accurately-predict-the-orientation-of-objects/",
+            "authors": "Mahmoud Ghorbel",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Object detection is the technique used to identify and classify various items in an image. Different methods are commonly used for object detection to recognize and locate objects, and these algorithms use deep learning to provide relevant outcomes. Deep learning object identification is a quick and accurate method of predicting an object's placement in an image, which may be helpful in various circumstances. Because objects in natural situations are typically oriented upward due to gravity, early research mainly concentrated on horizontal object detection. Oriented bounding boxes are preferred in other contexts, such as aerial pictures, industrial inspection, and scene text.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-3.jpg"
+        },
+        {
+            "id": 14444,
+            "title": "Alibaba Cloud Launches \u2018ModelScope,\u2019 An Open-Source Model-as-a-Service (MaaS) Platform that Comes with Hundreds of Artificial Intelligence (AI) Models",
+            "url": "https://www.marktechpost.com/2022/11/21/alibaba-cloud-launches-modelscope-an-open-source-model-as-a-service-maas-platform-that-comes-with-hundreds-of-artificial-intelligence-ai-models/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "The Chinese technology conglomerate Alibaba Group's subsidiary, Alibaba Cloud, serves as its technology and intelligence backbone. Founded in 2009, Alibaba Cloud aims to offer its customers all across the world a full range of cloud computing services, which include big data analytics, a machine learning platform, IoT services, network virtualization, storage, administration, and elastic computing. As a part of its annual Apsara Conference, the company announced the launch of\u00a0 ModelScope, an open-source Model-as-a-Service (MaaS) platform that features hundreds of AI models, including sizable pre-trained models for international developers and researchers. While changing the paradigm of software development and accelerating the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-10.jpg"
+        },
+        {
+            "id": 14447,
+            "title": "Meet TECO: An Efficient Video Prediction AI Model That Can Generate Long, Temporally Consistent Video For Complex Datasets In 3D scenes",
+            "url": "https://www.marktechpost.com/2022/11/21/meet-teco-an-efficient-video-prediction-ai-model-that-can-generate-long-temporally-consistent-video-for-complex-datasets-in-3d-scenes/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Artificial Intelligence (AI) field has been busy with handling the burst in generative models for the last couple of months. The open-source release of stable diffusion was the spark that lighted the never-ending flame of generative text-to-image models.\u00a0 Despite the huge success of image generation models, generating temporally consistent long videos still remains a challenge. Phenaki was the most successful example of text-to-video, and even it can fail to maintain consistency in certain scenarios.\u00a0\u00a0 Video prediction models have come a long way in recent years thanks to the advancement in neural networks and GPUs. They can produce diverse samples of",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-21-at-1.51.00-PM.png"
+        },
+        {
+            "id": 14450,
+            "title": "Baidu Researchers Propose \u2018HETERPS\u2019 for Distributed Deep Learning with Reinforcement Learning-Based Scheduling in Heterogeneous Environments",
+            "url": "https://www.marktechpost.com/2022/11/21/baidu-researchers-propose-heterps-for-distributed-deep-learning-with-reinforcement-learning-based-scheduling-in-heterogeneous-environments/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-21T00:00:00",
+            "description": "Deep Neural Networks (DNNs) have succeeded greatly in several fields, including advertising systems, computer vision, and natural language processing. Large models with lots of layers, neurons, and parameters are often trained using plenty of data, which significantly boosts final accuracy. For example, the Click-Through Rate (CTR) prediction model, BERT, and ERNIE use a lot of parameters; for instance, BERT uses between 110 million and 340 million parameters. Large models often consist of layers that are both data- and compute-intensive. CTR models, for instance, handle highly dimensional input data. The input data are high-dimensional and include a lot of sparse characteristics.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-16.png"
+        },
+        {
+            "id": 14436,
+            "title": "What is Machine Learning as a Service? Benefits And Top MLaaS Platforms",
+            "url": "https://www.marktechpost.com/2022/11/20/what-is-machine-learning-as-a-service-benefits-and-top-mlaas-platforms/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-20T00:00:00",
+            "description": "Machine learning uses statistical analysis to generate prediction output without requiring explicit programming. It employs a chain of algorithms that learn to interpret the relationship between datasets to achieve its goal. Unfortunately, most data scientists are not software engineers, which can make it difficult to scale up to meet the needs of a growing firm. Data scientists can easily handle these complications thanks to Machine Learning as a Service (MLaaS). \u00a0What is MLaas? Machine Learning as a service (MLaaS) has recently gained much traction due to its benefits to data science, machine learning engineering, data engineering, and other machine learning",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-15.png"
+        },
+        {
+            "id": 14437,
+            "title": "Check Out TorchOpt:\u00a0An Efficient Library For Differentiable Optimization Built Upon\u00a0PyTorch",
+            "url": "https://www.marktechpost.com/2022/11/20/check-out-torchopt-an-efficient-library-for-differentiable-optimization-built-upon-pytorch/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-20T00:00:00",
+            "description": "Differentiable optimization-based algorithms, such as MAML, OptNet, and MGRL, have flourished recently. Meta-gradient, or the gradient term of outer-loop variables obtained by differentiating through the inner-loop optimization process, is one of the crucial components of differentiable optimization. Machine learning models can improve the sampling efficiency and the ultimate performance by utilizing meta-gradients. There are various difficulties in creating differentiable optimization algorithms. Before implementing algorithms with gradient flows on complex computational graphs, developers must realize different inner-loop optimization techniques. Examples include Gumbel-Softmax to differentiate through discrete distribution, function interpolation for differentiable combinatorial solvers, explicit gradient computation of unrolled optimization, implicit gradient",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-9.jpg"
+        },
+        {
+            "id": 14438,
+            "title": "OneFormer: An Universal Image Segmentation Framework That Unifies Segmentation With A Multi-Task Train-Once Design",
+            "url": "https://www.marktechpost.com/2022/11/20/oneformer-an-universal-image-segmentation-framework-that-unifies-segmentation-with-a-multi-task-train-once-design/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-20T00:00:00",
+            "description": "Pixels are divided into many segments during the process of image segmentation. Such categorization may be instance-based or semantic (e.g., road, sky, building). A unique research effort was put into these two segmentation tasks in earlier segmentation systems, which used specialized structures. In a recent attempt to combine semantic and instance segmentation, Kirillov et al. suggested panoptic segmentation, with pixels sorted into discrete segments for objects with well-defined shapes and an amorphous segment for amorphous background areas. However, rather than bringing together the earlier projects, this endeavor produced unique, specialized panoptic structures (see Figure 1a). Recent developments in panoptic topologies",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-20-at-7.35.12-PM.png"
+        },
+        {
+            "id": 14431,
+            "title": "This Artificial Intelligence Paper Proposes \u2018SuperGlue,\u2019 A Graph Neural Network That Simultaneously Performs Context Aggregation, Matching, And Filtering of Local Features for Wide-Baseline Pose Estimation",
+            "url": "https://www.marktechpost.com/2022/11/19/this-artificial-intelligence-paper-proposes-superglue-a-graph-neural-network-that-simultaneously-performs-context-aggregation-matching-and-filtering-of-local-features-for-wide-baseline-pose-est/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Imagine you have two pictures of the same scene taken from different angles. Most of the objects in both pictures are the same, just you look at them from different angles. In computer vision, objects are assumed to have certain features like edges, corners, etc. Matching these features is critical for some applications. But what would it take to match features between two pictures? Finding correspondence between images is the prerequisite for estimating 3D structure and camera poses in computer vision tasks such as simultaneous localization and mapping (SLAM) and structure-from-motion (SfM). This is done by matching local features, and",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/fig1-1.png"
+        },
+        {
+            "id": 14432,
+            "title": "Latest Artificial Intelligence Research Presents Generative Adversarial Neural Networks Capable of Generating DeepFake Knee Osteoarthritis X-rays with Varying Osteoarthritis Severity",
+            "url": "https://www.marktechpost.com/2022/11/19/latest-artificial-intelligence-research-presents-generative-adversarial-neural-networks-capable-of-generating-deepfake-knee-osteoarthritis-x-rays-with-varying-osteoarthritis-severity/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Recent advances in deep learning have touched the field of medical science. However, recent privacy concerns and legislative frameworks have hampered the sharing and acquisition of medical data. Such legislative restrictions restrict the potential for future advancements in deep learning, which is a particularly data-intensive technique and partnership. However, producing synthetic data that is accurate for medical purposes can reduce privacy concerns and improve deep learning pipelines. This paper introduces generative adversarial neural networks that can have accurate images of X-rays of knee joints with varying degrees of osteoarthritis. Researchers provide 5,556 genuine photos along with 320,000 artificial (DeepFake) X-ray",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-19-at-11.47.28-AM.png"
+        },
+        {
+            "id": 14433,
+            "title": "Meet Paella, a Novel AI Text-to-Image Model That Uses a Speed-Optimized Architecture Allowing to Sample a Single Image in Less Than 500 ms While Having 573M Parameters",
+            "url": "https://www.marktechpost.com/2022/11/19/meet-paella-a-novel-ai-text-to-image-model-that-uses-a-speed-optimized-architecture-allowing-to-sample-a-single-image-in-less-than-500-ms-while-having-573m-parameters/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Recent advances in the diversity, quality, and variety of created pictures result from research on text-to-image generation. However, these models' remarkable output quality has come at the expense of poor inference speeds that are unsuitable for end-user applications due to their numerous sampling stages. Most recent state-of-the-art works are either transformer-based or rely on diffusion models. Transformers often compress their spatial representation before learning because the self-attention process scales quadratically with latent space dimensions. Additionally, a transformer flattens the encoded picture tokens to regard images as one-dimensional sequences, which is an unnatural projection of images and necessitates a substantially more",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-19-at-9.28.31-AM.png"
+        },
+        {
+            "id": 14434,
+            "title": "What is ETL? Top ETL Tools",
+            "url": "https://www.marktechpost.com/2022/11/19/what-is-etl-top-etl-tools/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Extract, Transform, and Load are referred to as ETL. ETL is the process of gathering data from numerous sources, standardizing it, and then transferring it to a central database, data lake, data warehouse, or data store for additional analysis. The ETL process transforms structured or unstructured data from numerous sources into a simple format for your employees to understand and use regularly. Involved in each step of the end-to-end ETL process are: 1. Data extraction Data that has been extracted has been retrieved from one or more sources, both structured and unstructured. These sources include websites, mobile apps, CRM platforms,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/1148-scaled.jpg"
+        },
+        {
+            "id": 14417,
+            "title": "Drexel University Introduces TorchFL: A Python Library for Prototyping and Experimentation of Federated Learning Using State-of-the-Art Models and Datasets",
+            "url": "https://www.marktechpost.com/2022/11/18/drexel-university-introduces-torchfl-a-python-library-for-prototyping-and-experimentation-of-federated-learning-using-state-of-the-art-models-and-datasets/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "The volume of data produced by mobile (client) devices has grown tremendously in recent years due to the quick development of sensor and computational capabilities. The staggering amount of data gathered from hardware devices are useful for solving problems in domains like ad targeting, language translation, image generation, content suggestions, and many other issues that were challenging to tackle without a neural network.\u00a0 Deep learning (DL), a method for actively learning from user browsing patterns and training computational models on user data, has gained popularity due to the growing data volume. The user data is frequently delivered to and gathered",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-18-at-8.58.41-AM.png"
+        },
+        {
+            "id": 14424,
+            "title": "Intel AI Introduces Deepfake Detector that Analyzes \u2018Blood Flow\u2019 in Video Pixels to Return Results in Milliseconds with 96% Accuracy",
+            "url": "https://www.marktechpost.com/2022/11/18/intel-ai-introduces-deepfake-detector-that-analyzes-blood-flow-in-video-pixels-to-return-results-in-milliseconds-with-96-accuracy/",
+            "authors": "Avanthy Yeluri",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Deepfakes, the art of swapping one face with another, is probably fun. Technology has been getting better day by day, and so are deepfakes and the bigger issue is how exactly real deepfakes start looking. Deepfakes are entertaining, but impersonation can spread misinformation, and so do we have many apps where some of them make fakes while others are on a spree to find them. FakeCatcher, a new real-time deepfake detector from Intel, has a 96% accuracy rate and can determine whether a video is fake or not. It is 'the first real-time deepfake detector in the world that provides",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-5.png"
+        },
+        {
+            "id": 14425,
+            "title": "Westlake University Researchers Propose \u2018SimVP,\u2019 An Artificial Intelligence AI-Based Video Prediction Model that is Completely Built Upon CNN and Trained by MSE Loss in an End-to-End Fashion",
+            "url": "https://www.marktechpost.com/2022/11/18/westlake-university-researchers-propose-simvp-an-artificial-intelligence-ai-based-video-prediction-model-that-is-completely-built-upon-cnn-and-trained-by-mse-loss-in-an-end-to-end-fashion/",
+            "authors": "Lorenzo Brigato",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Video prediction is a challenging yet critical task that is required to enable intelligent machines to foresee the future and eventually better act in the chaotic real world. The computer vision community has spent large efforts to develop efficient video prediction models and tested such models in multiple application areas such as climate change, human motion forecasting, and traffic flow prediction, just to cite a few.The progress made in recent years is mainly due to the development of newer networks that combine the basic building blocks of modern deep learning architectures, i.e., recurrent, convolutional, and attention layers. However, most of",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-18-at-4.34.14-PM.png"
+        },
+        {
+            "id": 14427,
+            "title": "Top Object Detection Algorithms and Libraries in Artificial Intelligence (AI)",
+            "url": "https://www.marktechpost.com/2022/11/18/top-object-detection-algorithms-and-libraries-in-artificial-intelligence-ai/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "The science of computer vision has recently seen dramatic changes in object identification, which is often regarded as a difficult area of study. Object localization and classification is a difficult area of study in computer vision because of the complexity of the two processes working together. One of the most significant advances in deep learning and image processing is object detection, locating and labeling objects inside a given image. An object detection model is adaptable since it can be taught to recognize and find several objects. The process of creating item localizations often makes use of bounding boxes. \u00a0Interest in",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2-3.png"
+        },
+        {
+            "id": 14428,
+            "title": "This is How Uber Uses Machine Learning and Linear Programming to Optimize Push Notification Timing",
+            "url": "https://www.marktechpost.com/2022/11/18/this-is-how-uber-uses-machine-learning-and-linear-programming-to-optimize-push-notification-timing/",
+            "authors": "Avanthy Yeluri",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Push notifications serve as an essential gateway for Uber Eats customers to discover new restaurants, promotions, new offers for groceries and alcohol, and most importantly, the perks of being a valuable user of all the benefits. These notifications are sent from various Marketing, Product, and City Operations teams. The list of these notifications being sent grew very quickly, with a volume of billion notifications being sent per month by the end of 2020. This has also invited many issues like quality issues where notifications were sent outside of business hours, using duplicative links, invalid promo codes, and directing users to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/close-up-finger-pointing-phone-screen-scaled.jpg"
+        },
+        {
+            "id": 14408,
+            "title": "AI Researchers from China Suggest a Robust Foundation for Multimodal Connection Extraction Based on an Implicit Fine-Grained Multimodal Alignment and Transformer",
+            "url": "https://www.marktechpost.com/2022/11/17/ai-researchers-from-china-suggest-a-robust-foundation-for-multimodal-connection-extraction-based-on-an-implicit-fine-grained-multimodal-alignment-and-transformer/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "The goal of relation extraction (RE), which is helpful for many knowledge-driven activities, is to determine the semantic relationships between two elements in a phrase. However, because social media texts lack context, they may perform noticeably worse than traditional RE approaches because they are text-based. Textual material is frequently combined with visual content, such as Twitter image postings. It makes sense to include visual material to fill in the gaps when semantic information is lacking to boost performance. Visual-enhanced relation extraction, or MRE as often called, tries to categorize relationships between two entities using visual components. Zheng and colleagues recently",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-17-at-7.42.39-AM.png"
+        },
+        {
+            "id": 14410,
+            "title": "Latest Machine Learning Research Uncovers a Hidden Order in Scents",
+            "url": "https://www.marktechpost.com/2022/11/17/latest-machine-learning-research-uncovers-a-hidden-order-in-scents/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Alex Wiltschko is an olfactory neuroscientist for Google Research's Brain Team. As a youth, his fascination with fragrances. He recently employed machine learning to analyze their oldest and least known sense of smell. Their discoveries considerably increased scientists' capacity to determine a molecule's scent from its structure. Over 800 chemicals reach your nose when you smell coffee. Our brains create the general impression of coffee from this chemical image. Scientists are just starting to understand how many 400 receptors in our noses can interact with a specific molecule to detect its chemical composition. Building models that could infer a molecule's",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/technology-concept-scaled.jpg"
+        }
+    ]
+}

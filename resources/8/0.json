@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 7029,
+            "title": "Recurrent Networks Hello World in Clojure with new Deep Diamond RNN support on CPU and GPU",
+            "url": "https://dragan.rocks/articles/22/Recurrent-networks-hello-world-sequence-prediction-in-Clojure-with-new-Deep-Diamond",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-08-26T00:00:00",
+            "description": "The support for Recurrent Neural Networks has just landed in Deep Diamond. Let's walk through a complete Hello World example!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7030,
+            "title": "Clojure Sound - 5 - Double Click with Foot Control",
+            "url": "https://dragan.rocks/articles/22/Clojure-Sound-5-Double-Click-with-Foot-Control",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-07-30T00:00:00",
+            "description": "In this article, we program simple foot gestures that we use to send more than two commands with one button.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7031,
+            "title": "Clojure Sound - 4 - Ctrl-Left-Pedal",
+            "url": "https://dragan.rocks/articles/22/Clojure-Sound-4-Ctrl-Left-Pedal",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "In this article, we program a simple play/pause action that react to MIDI commands received from hardware controllers.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7032,
+            "title": "Clojure Sound 3 - Hello MIDI Controller",
+            "url": "https://dragan.rocks/articles/22/Clojure-Sound-3-Hello-MIDI-Controller",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "I would like to connect a MIDI enabled hardware controller to my computer, push buttons and twist knobs, and control my software. For fun or profit!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7033,
+            "title": "My experience with Clojurists Together open source funding",
+            "url": "https://dragan.rocks/articles/22/My-experience-with-Clojurists-Together-open-source-funding",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-29T00:00:00",
+            "description": "In March, April, and May, I've been funded by Clojurists Together to work on Recurrent Neural Networks support in Deep Diamond. I hope that this experience r...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7034,
+            "title": "Clojure Sound 2 - A better piano",
+            "url": "https://dragan.rocks/articles/22/Clojure-Sound-2-A-better-piano",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-28T00:00:00",
+            "description": "You might not be too thrilled with the sound richness of the default piano that played Maple Leaf Rag in the previous article. We can use a much better one, ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7035,
+            "title": "Maple Leaf Rag with Clojure Sound",
+            "url": "https://dragan.rocks/articles/22/Maple-Leaf-Rag-Clojure-Sound",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2022-06-25T00:00:00",
+            "description": "A couple of months ago I released a new library - Clojure Sound, but I've not had time to write about it. Now that it's time to revive my blog, is there a be...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7036,
+            "title": "Why I sometimes like to write my own number crunching code",
+            "url": "https://dragan.rocks/articles/21/Pimp-my-Clojure-number-crunching",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "As the title says, I sometimes like to write my own number crunching code.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7037,
+            "title": "Hello World of Programming with Linear Algebra",
+            "url": "https://dragan.rocks/articles/21/Hello-World-Programming-with-Linear-Algebra",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "I hope that a simple Hello World example can at least give you a rough idea of how LA can be applied in programming. I won't dwell on the theory; let's see w...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7038,
+            "title": "Going faster than TensorFlow on the GPU with Clojure (GTX 1080Ti)",
+            "url": "https://dragan.rocks/articles/20/Going-faster-than-Tensorflow-on-GPU-with-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-11-02T00:00:00",
+            "description": "In this article, we're measuring the performance of Deep Diamond on the GPU. Deed Diamond's lead even increased!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7039,
+            "title": "Going faster than TensorFlow with Clojure",
+            "url": "https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-10-05T00:00:00",
+            "description": "In this article, we're measuring the performance of Deep Diamond on the CPU. (Not) surprisingly, it is considerably faster than Keras with Tensorflow.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7040,
+            "title": "Deep Learning in Clojure with Fewer Parentheses than Keras and Python",
+            "url": "https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-Fewer-Parentheses-Python-Keras",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-09-17T00:00:00",
+            "description": "I demonstrate this by direct comparison with the paragon of simplicity and elegance of deep learning in Python - Keras.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7041,
+            "title": "Deep Diamond - Deep Learning in Clojure is Fast, Simpler than Keras",
+            "url": "https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-is-Fast-and-Simpler-than-Keras",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-09-05T00:00:00",
+            "description": "Deep Diamond preview release is in Clojars, and is already quite useful! And fast! In accordance with my philosophy, ",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7042,
+            "title": "Clojure Neanderthal MKL acceleration out of the box",
+            "url": "https://dragan.rocks/articles/20/Clojure-Neanderthal-MKL-acceleration-out-of-the-box",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-06T00:00:00",
+            "description": "You no longer have to install any system wide native library to use Neanderthal on the CPU! It is enough to add an optional dependency to Bytedeco's MKL redi...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7043,
+            "title": "More fun with NumPy, CuPy, Clojure and GPU acceleration. Hold my Cider 2!",
+            "url": "https://dragan.rocks/articles/20/Clojure-Numpy-Cupy-CPU-GPU-2",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-04-14T00:00:00",
+            "description": "I continue experimenting with Neanderthal, NumPy and CuPy. Hold my Cider, Python is not an excuse!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7044,
+            "title": "CuPy accelerates NumPy on the GPU? Hold my Cider, here's Clojure!",
+            "url": "https://dragan.rocks/articles/20/Clojure-Numpy-Cupy-CPU-GPU",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-04-09T00:00:00",
+            "description": "Everyone knows that Java is slow and Clojure is not a great choice for number crunching, but as soon as I dig anywhere with my software, I discover that the ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7045,
+            "title": "Baby steps with Covid-19 data for (Clojure) programmers",
+            "url": "https://dragan.rocks/articles/20/Corona-1-Baby-steps-with-Covid-19-for-programmers",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-03-18T00:00:00",
+            "description": "Once the Corona pandemic data becomes more reliable, and abundant, we might be able to use it for some insight, provided that we learn some basics of epidemi...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7046,
+            "title": "A Common Gotcha with Asynchronous GPU Computing",
+            "url": "https://dragan.rocks/articles/19/Common-Gotcha-Asynchronous-GPU-CUDA-Computing-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-18T00:00:00",
+            "description": "There is one important thing we have to keep in mind. GPU computing routines are asynchronous by default! In some common situations, it can surprise even an ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7047,
+            "title": "Fast Tensors in Clojure - a Sneak Peek",
+            "url": "https://dragan.rocks/articles/19/Fast-tensors-Clojure-sneak-peek",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-08-26T00:00:00",
+            "description": "There's a lot going on behind the scenes, since I am not only writing the books; at the same time I have to create the software to write about. For example, ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7048,
+            "title": "Do Judge a Programming Book by its Cover",
+            "url": "https://dragan.rocks/articles/19/Judge-a-clojure-programming-book-by-its-cover",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-07-15T00:00:00",
+            "description": "I needed an idea for the covers of the book series that I'm writing, Interactive Programming for Artificial Intelligence. Meet Dog and Bird, the two friends ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7049,
+            "title": "Billions of Random Numbers in a Blink of an Eye",
+            "url": "https://dragan.rocks/articles/19/Billion-random-numbers-blink-eye-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-06-12T00:00:00",
+            "description": "I'm happy to announce that the new release of Neanderthal can generate random vectors and matrices on the CPU and GPU out of the box!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7050,
+            "title": "Deep Learning from Scratch to GPU - 16 - Momentum",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-16-Momentum",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-04-29T00:00:00",
+            "description": "Today we are goind to implement momentum, a ubiquitous learning optimization technique. What's more, we'll do it without any performance penalty. Find out ho...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7051,
+            "title": "Deep Learning from Scratch to GPU - 15 - Weight Decay",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-15-Weight-Decay",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-04-23T00:00:00",
+            "description": "In this article we explore a simple but useful technique for keeping weights from growing too big. Weight Decay is useful as a regularization technique that ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7052,
+            "title": "Deep Learning from Scratch to GPU - 14 - Learning a Regression",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-14-Learning-Regression",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-04-15T00:00:00",
+            "description": "A great moment has arrived. We are going to apply our neural networks implementation to a regression problem. The network is going to learn a known function,...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7053,
+            "title": "Deep Learning from Scratch to GPU - 13 - Initializing Weights",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-13-Initializing-Weights",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-04-10T00:00:00",
+            "description": "As the iterative learning algorithm has to start somewhere, we have to decide how to initialize weights. Here we try a few techniques and weight their streng...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7054,
+            "title": "Deep Learning from Scratch to GPU - 12 - A Simple Neural Network Training API",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-12-A-Simple-Neural-Network-Training-API",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-04-03T00:00:00",
+            "description": "The stage has been set for wrapping up the simplest version of a complete neural network API, and its key part that offers the entry for the /learning/ funct...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7055,
+            "title": "Deep Learning from Scratch to GPU - 11 - A Simple Neural Network Inference API",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-11-A-Simple-Neural-Network-API",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-03-28T00:00:00",
+            "description": "The time is ripe for wrapping what we have built so far in a nice Neural Network API. After all, who would want to assemble networks by hand?",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7056,
+            "title": "Deep Learning from Scratch to GPU - 10 - The Backward Pass (CUDA, OpenCL, Nvidia, AMD, Intel)",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-10-The-Backward-Pass-CDU-GPU-CUDA-OpenCL-Nvidia-AMD-Intel",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-03-25T00:00:00",
+            "description": "We complete the basic implementation of the backward pass of backpropagation and gradient descent.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7057,
+            "title": "Deep Learning from Scratch to GPU - 9 - The Activation and its Derivative",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-9-The-Activation-and-its-Derivative",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-03-20T00:00:00",
+            "description": "We implement the key part of the backward pass, the computation of the error of a layer. Along the way, we set up the infrastructure for the complete impleme...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7058,
+            "title": "Deep Learning from Scratch to GPU - 8 - The Forward Pass (CUDA, OpenCL, Nvidia, AMD, Intel)",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-8-The-Forward-Pass-CPU-GPU-CUDA-OpenCL-Nvidia-AMD-Intel",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-03-13T00:00:00",
+            "description": "We start implementing stochastic gradient descent and the backpropagation algorithm. Here we implement the forward pass of the training layer and run it on t...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        }
+    ]
+}

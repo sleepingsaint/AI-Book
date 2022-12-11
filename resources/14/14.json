@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8902,
+            "title": "A Gentle Introduction to Maximum a Posteriori (MAP) for Machine Learning",
+            "url": "https://machinelearningmastery.com/maximum-a-posteriori-estimation/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-08T00:00:00",
+            "description": "Density estimation is the problem of estimating the probability distribution for a sample of observations from a problem domain. Typically, estimating the entire distribution is intractable, and instead, we are happy to have the expected value of the distribution, such as the mean or mode. Maximum a Posteriori or MAP for short is a Bayesian-based [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/A-Gentle-Introduction-to-Maximum-a-Posteriori-MAP-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8903,
+            "title": "A Gentle Introduction to Markov Chain Monte Carlo for Probability",
+            "url": "https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-06T00:00:00",
+            "description": "Probabilistic inference involves estimating an expected value or density using a probabilistic model. Often, directly inferring values is not tractable with probabilistic models, and instead, approximation methods must be used. Markov Chain Monte Carlo sampling provides a class of algorithms for systematic random sampling from high-dimensional probability distributions. Unlike Monte Carlo sampling methods that are [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/A-Gentle-Introduction-to-Markov-Chain-Monte-Carlo-for-Probability.jpg"
+        },
+        {
+            "id": 8904,
+            "title": "A Gentle Introduction to Monte Carlo Sampling for Probability",
+            "url": "https://machinelearningmastery.com/monte-carlo-sampling-for-probability/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-04T00:00:00",
+            "description": "Monte Carlo methods are a class of techniques for randomly sampling a probability distribution. There are many problem domains where describing or estimating the probability distribution is relatively straightforward, but calculating a desired quantity is intractable. This may be due to many reasons, such as the stochastic nature of the domain or an exponential number [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Histogram-Plots-of-Differently-Sized-Monte-Carlo-Samples-from-the-Target-Function.png"
+        },
+        {
+            "id": 8905,
+            "title": "A Gentle Introduction to Expectation-Maximization (EM Algorithm)",
+            "url": "https://machinelearningmastery.com/expectation-maximization-em-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-01T00:00:00",
+            "description": "Maximum likelihood estimation is an approach to density estimation for a dataset by searching across probability distributions and their parameters. It is a general and effective approach that underlies many machine learning algorithms, although it requires that the training dataset is complete, e.g. all relevant interacting random variables are present. Maximum likelihood becomes intractable if [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Histogram-of-Dataset-Constructed-from-Two-Different-Gaussian-Processes.png"
+        },
+        {
+            "id": 8906,
+            "title": "Probabilistic Model Selection with AIC, BIC, and MDL",
+            "url": "https://machinelearningmastery.com/probabilistic-model-selection-measures/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "Model selection is the problem of choosing one from among a set of candidate models. It is common to choose a model that performs the best on a hold-out test dataset or to estimate model performance using a resampling technique, such as k-fold cross-validation. An alternative approach to model selection involves using probabilistic statistical measures [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Probabilistic-Model-Selection-Measures-AIC-BIC-and-MDL.jpg"
+        },
+        {
+            "id": 8907,
+            "title": "A Gentle Introduction to Logistic Regression With Maximum Likelihood Estimation",
+            "url": "https://machinelearningmastery.com/logistic-regression-with-maximum-likelihood-estimation/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-28T00:00:00",
+            "description": "Logistic regression is a model for binary classification predictive modeling. The parameters of a logistic regression model can be estimated by the probabilistic framework called maximum likelihood estimation. Under this framework, a probability distribution for the target variable (class label) must be assumed and then a likelihood function defined that calculates the probability of observing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/A-Gentle-Introduction-to-Logistic-Regression-With-Maximum-Likelihood-Estimation.jpg"
+        },
+        {
+            "id": 8908,
+            "title": "A Gentle Introduction to Linear Regression With Maximum Likelihood Estimation",
+            "url": "https://machinelearningmastery.com/linear-regression-with-maximum-likelihood-estimation/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-25T00:00:00",
+            "description": "Linear regression is a classical model for predicting a numerical quantity. The parameters of a linear regression model can be estimated using a least squares procedure or by a maximum likelihood estimation procedure. Maximum likelihood estimation is a probabilistic framework for automatically finding the probability distribution and parameters that best describe the observed data. Supervised [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/A-Gentle-Introduction-to-Maximum-Likelihood-Estimation-for-Linear-Regression.jpg"
+        },
+        {
+            "id": 8909,
+            "title": "Develop k-Nearest Neighbors in Python From Scratch",
+            "url": "https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Code Algorithms From Scratch",
+            "publishedOn": "2019-10-24T00:00:00",
+            "description": "In this tutorial you are going to learn about the k-Nearest Neighbors algorithm\u00a0including how it works and how to implement it from scratch in Python (without libraries). A simple but powerful approach for making predictions is to use the most similar historical examples to the new data. This is the principle behind the k-Nearest Neighbors [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/k-Nearest-Neighbors-algorithm.png"
+        },
+        {
+            "id": 8910,
+            "title": "A Gentle Introduction to Maximum Likelihood Estimation for Machine Learning",
+            "url": "https://machinelearningmastery.com/what-is-maximum-likelihood-estimation-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-23T00:00:00",
+            "description": "Density estimation is the problem of estimating the probability distribution for a sample of observations from a problem domain. There are many techniques for solving density estimation, although a common framework used throughout the field of machine learning is maximum likelihood estimation. Maximum likelihood estimation involves defining a likelihood function for calculating the conditional probability [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/A-Gentle-Introduction-to-Maximum-Likelihood-Estimation-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8911,
+            "title": "A Gentle Introduction to Cross-Entropy for Machine Learning",
+            "url": "https://machinelearningmastery.com/cross-entropy-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-21T00:00:00",
+            "description": "Cross-entropy is commonly used in machine learning as a loss function. Cross-entropy is a measure from the field of information theory, building upon entropy and generally calculating the difference between two probability distributions. It is closely related to but is different from KL divergence that calculates the relative entropy between two probability distributions, whereas cross-entropy [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Line-Plot-of-Probability-Distribution-vs-Cross-Entropy-for-a-Binary-Classification-Task-With-Extreme-Case-Removed3.png"
+        },
+        {
+            "id": 8912,
+            "title": "Naive Bayes Classifier From Scratch in Python",
+            "url": "https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Code Algorithms From Scratch",
+            "publishedOn": "2019-10-18T00:00:00",
+            "description": "In this tutorial you are going to learn about the Naive Bayes algorithm including how it works and how to implement it from scratch in Python (without libraries). We can use probability to make predictions in machine learning. Perhaps the most widely used example is called the Naive Bayes algorithm. Not only is it straightforward [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/12/naive-bayes-classifier.jpg"
+        },
+        {
+            "id": 8913,
+            "title": "How to Calculate the KL Divergence for Machine Learning",
+            "url": "https://machinelearningmastery.com/divergence-between-probability-distributions/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-18T00:00:00",
+            "description": "It is often desirable to quantify the difference between probability distributions for a given random variable. This occurs frequently in machine learning, when we may be interested in calculating the difference between an actual and observed probability distribution. This can be achieved using techniques from information theory, such as the Kullback-Leibler Divergence (KL divergence), or [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Histogram-of-Two-Different-Probability-Distributions-for-the-same-Random-Variable.png"
+        },
+        {
+            "id": 8914,
+            "title": "Information Gain and Mutual Information for Machine Learning",
+            "url": "https://machinelearningmastery.com/information-gain-and-mutual-information/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "Information gain calculates the reduction in entropy or surprise from transforming a dataset in some way. It is commonly used in the construction of decision trees from a training dataset, by evaluating the information gain for each variable, and selecting the variable that maximizes the information gain, which in turn minimizes the entropy and best [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/What-is-Information-Gain-and-Mutual-Information-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8915,
+            "title": "A Gentle Introduction to Information Entropy",
+            "url": "https://machinelearningmastery.com/what-is-information-entropy/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-14T00:00:00",
+            "description": "Information theory is a subfield of mathematics concerned with transmitting data across a noisy channel. A cornerstone of information theory is the idea of quantifying how much information there is in a message. More generally, this can be used to quantify the information in an event and a random variable, called entropy, and is calculated [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Plot-of-Probability-Distribution-vs-Entropy.png"
+        },
+        {
+            "id": 8916,
+            "title": "A Gentle Introduction to Bayesian Belief Networks",
+            "url": "https://machinelearningmastery.com/introduction-to-bayesian-belief-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-11T00:00:00",
+            "description": "Probabilistic models can define relationships between variables and be used to calculate probabilities. For example, fully conditional models may require an enormous amount of data to cover all possible cases, and probabilities may be intractable to calculate in practice. Simplifying assumptions such as the conditional independence of all random variables can be effective, such as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/A-Gentle-Introduction-to-Bayesian-Belief-Networks-1.jpg"
+        },
+        {
+            "id": 8917,
+            "title": "How to Implement Bayesian Optimization from Scratch in Python",
+            "url": "https://machinelearningmastery.com/what-is-bayesian-optimization/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-09T00:00:00",
+            "description": "In this tutorial, you will discover how to implement the Bayesian Optimization algorithm for complex optimization problems. Global optimization is a challenging problem of finding an input that results in the minimum or maximum cost of a given objective function. Typically, the form of the objective function is complex and intractable to analyze and is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Plot-of-The-Input-Samples-Evaluated-with-a-Noisy-dots-and-Non-Noisy-Line-Objective-Function.png"
+        },
+        {
+            "id": 8918,
+            "title": "How to Develop a Naive Bayes Classifier from Scratch in Python",
+            "url": "https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-07T00:00:00",
+            "description": "Classification is a predictive modeling problem that involves assigning a label to a given input data sample. The problem of classification predictive modeling can be framed as calculating the conditional probability of a class label given a data sample. Bayes Theorem provides a principled way for calculating this conditional probability, although in practice requires an [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/How-to-Develop-a-Naive-Bayes-Classifier-from-Scratch-in-Python.jpg"
+        },
+        {
+            "id": 8919,
+            "title": "A Gentle Introduction to Bayes Theorem for Machine Learning",
+            "url": "https://machinelearningmastery.com/bayes-theorem-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-04T00:00:00",
+            "description": "Bayes Theorem provides a principled way for calculating a conditional probability. It is a deceptively simple calculation, although it can be used to easily calculate the conditional probability of events where intuition often fails. Although it is a powerful tool in the field of probability, Bayes Theorem is also widely used in the field of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/A-Gentle-Introduction-to-Bayes-Theorem-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8920,
+            "title": "Probability for Machine Learning (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-03T00:00:00",
+            "description": "Probability for Machine Learning Crash Course.Get on top of the probability used in machine learning in 7 days. Probability is a field of mathematics that is universally agreed to be the bedrock for machine learning. Although probability is a large field with many esoteric theories and findings, the nuts and bolts, tools and notations taken [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Probability-for-Machine-Learning-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 8921,
+            "title": "How to Develop an Intuition for Probability With Worked Examples",
+            "url": "https://machinelearningmastery.com/how-to-develop-an-intuition-for-probability-with-worked-examples/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-10-02T00:00:00",
+            "description": "Probability calculations are frustratingly unintuitive. Our brains are too eager to take shortcuts and get the wrong answer, instead of thinking through a problem and calculating the probability correctly. To make this issue obvious and aid in developing intuition, it can be useful to work through classical problems from applied probability. These problems, such as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/How-to-Develop-an-Intuition-for-Probability-With-Worked-Examples.jpg"
+        },
+        {
+            "id": 8922,
+            "title": "How to Develop an Intuition for Joint, Marginal, and Conditional Probability",
+            "url": "https://machinelearningmastery.com/how-to-calculate-joint-marginal-and-conditional-probability/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-30T00:00:00",
+            "description": "Probability for a single random variable is straight forward, although it can become complicated when considering two or more variables. With just two variables, we may be interested in the probability of two simultaneous events, called joint probability: the probability of one event given the occurrence of another event called the conditional probability, or just [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Probabilistic-Model-Selection-Measures-AIC-BIC-and-MDL.jpg"
+        },
+        {
+            "id": 8923,
+            "title": "A Gentle Introduction to Joint, Marginal, and Conditional Probability",
+            "url": "https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-27T00:00:00",
+            "description": "Probability quantifies the uncertainty of the outcomes of a random variable. It is relatively easy to understand and compute the probability for a single variable. Nevertheless, in machine learning, we often have many random variables that interact in often complex and unknown ways. There are specific techniques that can be used to quantify the probability [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/A-Gentle-Introduction-to-Joint-Marginal-and-Conditional-Probability.jpg"
+        },
+        {
+            "id": 8924,
+            "title": "A Gentle Introduction to Probability Density Estimation",
+            "url": "https://machinelearningmastery.com/probability-density-estimation/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-25T00:00:00",
+            "description": "Probability density is the relationship between observations and their probability. Some outcomes of a random variable will have low probability density and other outcomes will have a high probability density. The overall shape of the probability density is referred to as a probability distribution, and the calculation of probabilities for specific outcomes of a random [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Histogram-and-Probability-Density-Function-Plot-Estimated-via-Kernel-Density-Estimation-for-a-Bimodal-Data-Sample.png"
+        },
+        {
+            "id": 8925,
+            "title": "Continuous Probability Distributions for Machine Learning",
+            "url": "https://machinelearningmastery.com/continuous-probability-distributions-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-23T00:00:00",
+            "description": "The probability for a continuous random variable can be summarized with a continuous probability distribution. Continuous probability distributions are encountered in machine learning, most notably in the distribution of numerical input and output variables for models and in the distribution of errors made by models. Knowledge of the normal continuous probability distribution is also required [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/08/Line-Plot-of-Events-vs-Probability-or-the-Probability-Density-Function-for-the-Normal-Distribution.png"
+        },
+        {
+            "id": 8926,
+            "title": "Discrete Probability Distributions for Machine Learning",
+            "url": "https://machinelearningmastery.com/discrete-probability-distributions-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-20T00:00:00",
+            "description": "The probability for a discrete random variable can be summarized with a discrete probability distribution. Discrete probability distributions are used in machine learning, most notably in the modeling of binary and multi-class classification problems, but also in evaluating the performance for binary classification models, such as the calculation of confidence intervals, and in the modeling [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/Discrete-Probability-Distributions-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8927,
+            "title": "A Gentle Introduction to Probability Distributions",
+            "url": "https://machinelearningmastery.com/what-are-probability-distributions/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-18T00:00:00",
+            "description": "Probability can be used for more than calculating the likelihood of one event; it can summarize the likelihood of all possible outcomes. A thing of interest in probability is called a random variable, and the relationship between each possible outcome for a random variable and their probabilities is called a probability distribution. Probability distributions are [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/A-Gentle-Introduction-to-Probability-Distributions.jpg"
+        },
+        {
+            "id": 8928,
+            "title": "What Is Probability?",
+            "url": "https://machinelearningmastery.com/what-is-probability/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-16T00:00:00",
+            "description": "Uncertainty involves making decisions with incomplete information, and this is the way we generally operate in the world. Handling uncertainty is typically described using everyday words like chance, luck, and risk. Probability is a field of mathematics that gives us the language and tools to quantify the uncertainty of events and reason in a principled [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/What-Is-Probability.jpg"
+        },
+        {
+            "id": 8929,
+            "title": "A Gentle Introduction to Uncertainty in Machine Learning",
+            "url": "https://machinelearningmastery.com/uncertainty-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-13T00:00:00",
+            "description": "Applied machine learning requires managing uncertainty. There are many sources of uncertainty in a machine learning project, including variance in the specific data values, the sample of data collected from the domain, and in the imperfect nature of any models developed from such data. Managing the uncertainty that is inherent in machine learning for predictive [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/A-Gentle-Introduction-to-Uncertainty-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8930,
+            "title": "5 Reasons to Learn Probability for Machine Learning",
+            "url": "https://machinelearningmastery.com/why-learn-probability-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-11T00:00:00",
+            "description": "Probability is a field of mathematics that quantifies uncertainty. It is undeniably a pillar of the field of machine learning, and many recommend it as a prerequisite subject to study prior to getting started. This is misleading advice, as probability makes more sense to a practitioner once they have the context of the applied machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/5-Reasons-to-Learn-Probability-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8931,
+            "title": "Resources for Getting Started With Probability in Machine Learning",
+            "url": "https://machinelearningmastery.com/probability-resources-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-09-09T00:00:00",
+            "description": "Machine Learning is a field of computer science concerned with developing systems that can learn from data. Like statistics and linear algebra, probability is another foundational field that supports machine learning. Probability is a field of mathematics concerned with quantifying uncertainty. Many aspects of machine learning are uncertain, including, most critically, observations from the problem [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/Resources-for-Getting-Started-With-Probability-in-Machine-Learning.jpg"
+        }
+    ]
+}

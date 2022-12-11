@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10367,
+            "title": "Introducing Class Label Remapping and Omission",
+            "url": "https://blog.roboflow.com/introducing-class-management/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-07-07T00:00:00",
+            "description": "With Roboflow Pro, you can now remap and omit class labels within Roboflow as a preprocessing step for your dataset version.\nClass management is a powerful tool to get the most out of your training data and your hard earned class label annotations.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/label_remapping.jpeg"
+        },
+        {
+            "id": 10368,
+            "title": "Roboflow vs Scale",
+            "url": "https://blog.roboflow.com/roboflow-vs-scale/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-07-05T00:00:00",
+            "description": "How does Roboflow compare with outsourced image labeling services like Scale, LabelBox, and SageMaker Ground Truth?",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/vs_scale.jpeg"
+        },
+        {
+            "id": 10369,
+            "title": "How AI Acts as a Human Rights Watchdog for the Maasai People",
+            "url": "https://blog.roboflow.com/computer-vision-for-human-rights/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-07-01T00:00:00",
+            "description": "The Maasai are an indigenous ethnic group in modern Kenya and northern Tanzania, tracing routes to the Great Rift Valley in East Africa as early as the 15th century. Roughly two million Maasai people retain rich cultural traditions, including leading a semi-nomadic life and subsisting predominantly on their cattle, which",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/maasai-people.jpg"
+        },
+        {
+            "id": 10370,
+            "title": "Train YOLOv4-tiny on Custom Data - Lightning Fast Object Detection",
+            "url": "https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detection/",
+            "authors": "Jacob Solawetz, Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2020-07-01T00:00:00",
+            "description": "YOLOv4-tiny has been released! You can use YOLOv4-tiny for much faster training and much faster object detection. In this article, we will walk through how to train YOLOv4-tiny on your own data to detect your own custom objects. YOLOv4-tiny is especially useful if you have limited compute resources in either",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/yolov4-tiny.jpg"
+        },
+        {
+            "id": 10371,
+            "title": "YOLOv5 New Version: Improvements And Evaluation",
+            "url": "https://blog.roboflow.com/yolov5-improvements-and-evaluation/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-29T00:00:00",
+            "description": "In this article, we discuss what is new in YOLOv5, how the model compares to YOLO v4, and the architecture of the new v5 model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/yolov5_improve.jpg"
+        },
+        {
+            "id": 10372,
+            "title": "Improving Uno with Computer Vision (Plus the Dataset so You Can Too)",
+            "url": "https://blog.roboflow.com/improving-uno-with-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-06-28T00:00:00",
+            "description": "Uno card identification and scoring in real-time. (Credit: Adam Crawshaw)You've likely been playing Uno wrong all of your life. It's a simple game, right? Rid your hand of all your cards first, and you're the victor. In fact, Uno is a multi-stage game where players accumulate points across multiple",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/uno_improve.jpg"
+        },
+        {
+            "id": 10373,
+            "title": "Creating BoardBoss: A Mobile Application that Improves Boggle",
+            "url": "https://blog.roboflow.com/creating-boardboss-a-mobile-application-that-improves-boggle/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-06-25T00:00:00",
+            "description": "How Making an iOS Application Inspired RoboflowBefore the Roboflow team was making tools for improving how developers apply computer vision to their problems, we were making our own computer vision applications. One of those applications, Magic Sudoku, even won Product Hunt's Augmented Reality App of the Year. Another one of",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/board_boss_v2_v2.jpg"
+        },
+        {
+            "id": 10374,
+            "title": "Why and How to Implement Random Rotate Data Augmentation",
+            "url": "https://blog.roboflow.com/why-and-how-to-implement-random-rotate-data-augmentation/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-24T00:00:00",
+            "description": "Computer vision data augmentation is a powerful way to improve the performance of our computer vision models without needing to collect additional data. We create new versions of our images based on the originals but introduce deliberate imperfections. This helps our model learn what an object generally looks like rather",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/random_rotate.001.jpg"
+        },
+        {
+            "id": 10375,
+            "title": "How to Train Detectron2 on Custom Object Detection Data",
+            "url": "https://blog.roboflow.com/how-to-train-detectron2/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-24T00:00:00",
+            "description": "Walk through how to train Detectron2 to detect custom objects in a Detectron2 Colab notebook.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/train_detectron2.jpg"
+        },
+        {
+            "id": 10376,
+            "title": "How to Convert Annotations from PASCAL VOC to YOLO Darknet",
+            "url": "https://blog.roboflow.com/how-to-convert-annotations-from-pascal-voc-to-yolo-darknet/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-06-19T00:00:00",
+            "description": "In this post, we'll walkthrough how to convert from \u2013 PASCAL VOC XML and YOLO Darknet \u2013 and vice versa.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/pascal_to_darknet.jpg"
+        },
+        {
+            "id": 10377,
+            "title": "How to Build a Custom Open Images Dataset for Object Detection",
+            "url": "https://blog.roboflow.com/custom-open-images-datasets/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-18T00:00:00",
+            "description": "We are excited to announce integration with the Open Images Dataset and the release of two new public datasets encapsulating subdomains of the Open Images Dataset: Vehicles Object Detection and Shellfish Object Detection. In this post, we will walk through how to make your own custom Open Images dataset. Vehicles",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/open_images.jpg"
+        },
+        {
+            "id": 10378,
+            "title": "Responding to the Controversy about YOLOv5",
+            "url": "https://blog.roboflow.com/yolov4-versus-yolov5/",
+            "authors": "Joseph Nelson, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-12T00:00:00",
+            "description": "We appreciate the machine learning community's feedback, and we're publishing additional details on our methodology.(Note: On June 14, we've incorporated updates from YOLOv4 author Alexey Bochkovskiy, YOLOv5 author Glenn Jocher, and others in the community.)      Don't care about the controversy?     Skip this post and jump straight to our YOLOv5",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/yolov5_controversy.jpg"
+        },
+        {
+            "id": 10379,
+            "title": "YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS",
+            "url": "https://blog.roboflow.com/yolov5-is-here/",
+            "authors": "Joseph Nelson, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-10T00:00:00",
+            "description": "State of the art object detection at 140 FPS.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/06/ezgif.com-video-to-gif--3--1.gif"
+        },
+        {
+            "id": 10380,
+            "title": "How to Train YOLOv5 On a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/",
+            "authors": "Jacob Solawetz, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-06-10T00:00:00",
+            "description": "In this post, we will walk through how you can train YOLOv5 to recognize your custom objects for your custom use case.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/train_yolov5-1.webp"
+        },
+        {
+            "id": 10381,
+            "title": "What is YOLOv4? A Detailed Breakdown.",
+            "url": "https://blog.roboflow.com/a-thorough-breakdown-of-yolov4/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-04T00:00:00",
+            "description": "YOLOv4 outperforms other object detection models by a significant margin. Learn how it works.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/breaking_down_yolov4.jpg"
+        },
+        {
+            "id": 10382,
+            "title": "Teaching a Drone to Fly on Auto Pilot with Roboflow",
+            "url": "https://blog.roboflow.com/drone-computer-vision-autopilot/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "An animated drone flying through a correctly identified gate. (Image provided via Victor Antony, animated by Roboflow)Drones are enabling better disaster response, greener agriculture, safer construction, and so much more. Increasingly, drones are even achieving the ability to perform these tasks completely or semi-autonomously \u2013 enabling greater precision and efficiency.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/teach_drone_to_fly.gif"
+        },
+        {
+            "id": 10383,
+            "title": "Getting Started with Data Augmentation in Computer Vision",
+            "url": "https://blog.roboflow.com/boosting-image-detection-performance-with-data-augmentation/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-06-02T00:00:00",
+            "description": "Data augmentation in computer vision is not new, but recently data augmentation has emerged on the forefront of state of the art modeling. YOLOv4, a new state of the art image detection model, uses a variety of data augmentation techniques to boost the models performance on COCO, a popular image",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/getting_started.jpg"
+        },
+        {
+            "id": 10384,
+            "title": "A New Video Tutorial: YOLOv4 in PyTorch",
+            "url": "https://blog.roboflow.com/a-new-video-tutorial-yolov4-in-pytorch/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-31T00:00:00",
+            "description": "We heard your feedback! More video walkthroughs. Many users report that video tutorials help round out the edges of their knowledge to get the most from Roboflow. Seeing how others use Roboflow in real-time aids their own comprehension. Make YOLOv4 more accessible. YOLOv4 is a mere month old, and given",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/video_yolov4.jpg"
+        },
+        {
+            "id": 10385,
+            "title": "Introducing An Even Better Way to Preview Image Preprocessing and Augmentation",
+            "url": "https://blog.roboflow.com/introducing-an-even-better-way-to-preview-image-preprocessing-and-augmentation/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-27T00:00:00",
+            "description": "Knowing what preprocessing and augmentation steps to apply is hard. We've written many individual posts about the steps required to make informed resize decisions (how to resize images in image preprocessing) to random crop augmentation (how to implement random crop augmentation) and many steps in between. Show, Don't TellAs a",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/view_preproc_aug.jpg"
+        },
+        {
+            "id": 10386,
+            "title": "How to Train a VGG-16 Image Classification Model on Your Own Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-a-vgg-16-image-classification-model-on-your-own-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-25T00:00:00",
+            "description": "Impatient? Jump to our VGG-16 Colab notebook. Image classification models discern what a given image contains based on the entirety of an image's content. And while they're consistently getting better, the ease of loading your own dataset seems to stay the same. That's where Roboflow comes in. About VGG-16VGG-16 paper",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/vgg-16.001.jpeg"
+        },
+        {
+            "id": 10387,
+            "title": "Thermal Infrared Dataset for Object Detection",
+            "url": "https://blog.roboflow.com/thermal-infrared-dataset-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-24T00:00:00",
+            "description": "Thermal imaging is a non-contact method by which we can observe the surface temperature of objects based on its radiation patterns.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/thermal_dataset.webp"
+        },
+        {
+            "id": 10388,
+            "title": "How to Train YOLOv4 on a Custom Dataset",
+            "url": "https://blog.roboflow.com/training-yolov4-on-a-custom-dataset/",
+            "authors": "Jacob Solawetz, Joseph Nelson, Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2020-05-21T00:00:00",
+            "description": "In this tutorial, we walkthrough how to train YOLOv4 Darknet for state-of-the-art object detection on your own dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/05/blogimage_yolov4.jpg"
+        },
+        {
+            "id": 10389,
+            "title": "Using Your GPU in a Docker Container",
+            "url": "https://blog.roboflow.com/use-the-gpu-in-docker/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-05-18T00:00:00",
+            "description": "The NVIDIA Container Toolkit is the solution to configure your GPU within a Docker container. Follow this step-by-step guide to get started.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/docker_gpu.jpg"
+        },
+        {
+            "id": 10390,
+            "title": "When to Use Contrast as a Preprocessing Step",
+            "url": "https://blog.roboflow.com/when-to-use-contrast-as-a-preprocessing-step/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-15T00:00:00",
+            "description": "Adding contrast to images is a simple yet powerful technique to improve our computer vision models. But why? When considering how to add contrast to images and why we add contrast to images in computer vision, we must start with the basics. What is contrast? How contrast preprocessing improve our",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/contrast.png"
+        },
+        {
+            "id": 10391,
+            "title": "Data Augmentation in YOLOv4",
+            "url": "https://blog.roboflow.com/yolov4-data-augmentation/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-05-13T00:00:00",
+            "description": "The \"secret\" to YOLOv4 isn't architecture: it's in data preparation.  The object detection space continues to move quickly. No more than two months ago, the Google Brain team released EfficientDet for object detection, challenging YOLOv3 as the premier model for (near) realtime object detection, and pushing the boundaries of what",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/augmentation_yolov4.jpg"
+        },
+        {
+            "id": 10392,
+            "title": "Getting the Most Out of Roboflow Office Hours",
+            "url": "https://blog.roboflow.com/getting-the-most-out-of-roboflow-office-hours/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-05-11T00:00:00",
+            "description": "Welcome To Our Office. Come with Questions, Please. The Roboflow team has been inspired and impressed with what our users are building on top of Roboflow. From making models that improve workplace safety, interpret radiology scans to fight COVID-19, and simply have more fun in quarantine with Uno score keepers,",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/office_hours.png"
+        },
+        {
+            "id": 10393,
+            "title": "When Should I Auto-Orient My Images?",
+            "url": "https://blog.roboflow.com/exif-auto-orientation/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "The short answer: almost always.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/05/auto-orient-1.jpg"
+        },
+        {
+            "id": 10394,
+            "title": "What is Mean Average Precision (mAP) in Object Detection?",
+            "url": "https://blog.roboflow.com/mean-average-precision/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-05-06T00:00:00",
+            "description": "What is mean average precision? How do we calculate mAP?",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/mean_average_precision.jpeg"
+        },
+        {
+            "id": 10395,
+            "title": "Breaking Down the Technology Behind Self-Driving Cars",
+            "url": "https://blog.roboflow.com/breaking-down-self-driving-cars/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-05-04T00:00:00",
+            "description": "In May 2016, Joshua Brown died in the Tesla's first autopilot crash. The crash was attributed to the self-driving cars system not recognizing the difference between a truck and the bright sky above it. The system did not recognize the difference between a truck and the sky?! After you read",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/self-driving-cars.jpg"
+        },
+        {
+            "id": 10396,
+            "title": "YOLOv3 Versus EfficientDet for State-of-the-Art Object Detection",
+            "url": "https://blog.roboflow.com/yolov3-versus-efficientdet-for-state-of-the-art-object-detection/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-05-01T00:00:00",
+            "description": "YOLOv3 is known to be an incredibly performant, state-of-the-art model architecture: fast, accurate, and reliable. So how does the \"new kid on the block,\" EfficientDet, compare? Without spoilers, we were surprised by these results. NOTE: YOLO v5 has been published after this publication and we have found better results there.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/08/yolov3_vs_efficientdet.jpg"
+        }
+    ]
+}

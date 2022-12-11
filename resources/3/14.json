@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2364,
+            "title": "How to Select a Cloud Database for Organizations?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/how-to-select-a-cloud-database-for-organizations/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Cloud Computing, Database, Machine Learning, SQL",
+            "publishedOn": "2022-07-30T00:00:00",
+            "description": "Get an overview of Google's popular cloud database services, including critical considerations when evaluating and choosing a service.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/45207Cloud-1.jpg"
+        },
+        {
+            "id": 2365,
+            "title": "Step-by-step Explanation to Time-series Forecasting",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/step-by-step-explanation-to-time-series-forecasting/",
+            "authors": "Adnan Afzal",
+            "tags": "Beginner, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2022-07-30T00:00:00",
+            "description": "time-series forecasting involves time series data gathered over a period, along with a variable we would like to forecast.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/76389time-series-forecasting-feature-img.png"
+        },
+        {
+            "id": 2366,
+            "title": "A Brief Introduction to SQL Alchemy",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/a-brief-introduction-to-sql-alchemy/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Data Engineering, SQL",
+            "publishedOn": "2022-07-30T00:00:00",
+            "description": "SQL Alchemy is a database toolkit written in Python for Python. The API consists mainly of two distinct parts] Alchemy core and ]Alchemy ORM.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 2367,
+            "title": "ETL Pipeline with Google DataFlow and Apache Beam",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/etl-pipeline-with-google-dataflow-and-apache-beam/",
+            "authors": "Gitesh Dhore",
+            "tags": "Cloud Computing, Data Engineering, Data Warehouse, Intermediate",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "The Google Cloud Platform ecosystem provides a serverless data processing service, Dataflow, for running batch and streaming data feeds.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/google-cloud-platform2.jpg"
+        },
+        {
+            "id": 2368,
+            "title": "Delta Lake Process with Azure Synapse Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/how-a-delta-lake-is-process-with-azure-synapse-analytics/",
+            "authors": "Gitesh Dhore",
+            "tags": "Azure, Beginner, Data Engineering, Database",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "Delta Lake is the secret sauce of the Lakehouse pattern and it tries to solve the problems highlighted in the Databricks document.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92516data-extracting-feature-img.png"
+        },
+        {
+            "id": 2369,
+            "title": "SQL Commands for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/sql-commands-for-data-science/",
+            "authors": "Suraj Gurav",
+            "tags": "Beginner, Database, SQL",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "This article will give you an idea about what you can do using SQL and what are the commonly used SQL commands.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2370,
+            "title": "Different Types of Cloud-based Services",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/different-types-of-cloud-based-services/",
+            "authors": "Anushkakhatri",
+            "tags": "Beginner, Big data, Cloud Computing",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "In this article, understand the benefits and drawbacks of cloud-based services that will help you decide which is best for your company.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/17092419/cloud-computing-1484538_960_720.png"
+        },
+        {
+            "id": 2371,
+            "title": "AWS Kinesis: Benefits & Use cases",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/aws-kinesis-benefits-use-cases/",
+            "authors": "Trupti Dekate",
+            "tags": "AWS, Beginner, Use Cases",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "AWS Kinesis is designed to collect data from different sources by bringing it under one roof. Read more to know.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/AWS-Kinesis-logo.jpg"
+        },
+        {
+            "id": 2372,
+            "title": "Top Interview Questions & Answers for Apache Sqoop",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-interview-questions-answers-for-apache-sqoop/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Big data, Data Engineering, Interview Questions, Interviews",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "In this article, you will learn concepts related to Apache Sqoop wherein you will understand how it operates, its essential commands, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Importance-Of-Feature-Engineering-In-DataHack-Competitions.jpg"
+        },
+        {
+            "id": 2373,
+            "title": "Predict your Portfolio\u2019s Stock Price Action using Facebook\u2019s Prophet!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/predict-your-portfolios-stock-price-action-using-facebooks-prophet/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Intermediate, Machine Learning, Python, Time Series",
+            "publishedOn": "2022-07-28T00:00:00",
+            "description": "Learn the basics of Time Series Forecasting and different approaches to time series prediction using Facebook's Prophet Model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/82241time_series.jpg"
+        },
+        {
+            "id": 2374,
+            "title": "Apache Flume Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/apache-flume-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Engineering, Hadoop, Interview Questions, Interviews",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "Apache Flume is a data ingestion mechanism for gathering, aggregating, and transmitting huge amounts of streaming data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/apache-flume.png"
+        },
+        {
+            "id": 2375,
+            "title": "Scaling- Transformers, Laws and Challenges",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/scaling-transformers-laws-and-challenges/",
+            "authors": "Drishti Sharma",
+            "tags": "Deep Learning, Intermediate, Machine Learning, python, Structured Data",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "Scaling laws allow quantifying the \u201cbigger is better\u201d paradigm for language models by studying their behavior with varying dataset size",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 2376,
+            "title": "Interactive Data Visualization using rbokeh",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/interactive-data-visualization-using-rbokeh/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Data Visualization, Graph Theory, Graphs & Networks, R",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "rbokeh is an open-source native R plotting package using the Bokeh visualization tool giving flexible declarative interface.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/12381what_is_data_visualization_examples_tools_benefits_in_marketing_2_5d652494b9576.webp"
+        },
+        {
+            "id": 2377,
+            "title": "Web 3.0- Privacy, Ethics and Other Moral Aspects",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/web-3-0-privacy-ethics-and-other-moral-aspects/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Web 3.0",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "Web 3.0 links data or objects with highly organized semantic relationships instead of linking information or publications.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/monitor-ge8f247906_1920.jpg"
+        },
+        {
+            "id": 2378,
+            "title": "Beginner\u2019s Guide To Image Gradient",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/beginners-guide-to-image-gradient/",
+            "authors": "SHIVANSH KAUSHAL",
+            "tags": "Beginner, Computer Vision, Image gradient, OpenCV, Python",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "Image gradient is used in edge detection. Many algorithms, such as Canny Edge Detection, use image gradients for detecting edges.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/74738Computer_vision.jpeg"
+        },
+        {
+            "id": 2379,
+            "title": "A brief Study of Image Thresholding Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/a-brief-study-of-image-thresholding-algorithms/",
+            "authors": "Krithika V",
+            "tags": "Computer Vision, Deep Learning, Intermediate, Object Detection, PyTorch",
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "Image thresholding is a type of image segmentation that divides the foreground from the background in an image.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/article.jpg"
+        },
+        {
+            "id": 2380,
+            "title": "Top 10 AWS Redshift Interview Questions in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-10-aws-redshift-interview-questions-in-2022/",
+            "authors": "Shikha Gupta",
+            "tags": "AWS, Beginner, Interview Questions, Interviews",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "In this article, you will learn about AWS redshift interview questions and understand how Redshift differs from RDS and DynamoDB.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2381,
+            "title": "Analysis on Dark Chocolates using Python and Plotly",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/analysis-on-dark-chocolates-using-python-and-plotly/",
+            "authors": "Subhradeep Rang",
+            "tags": "Beginner, Data Visualization, Guide, Libraries, Python",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "In this article, we will do an interesting analysis on dark chocolates using Python and Plotly. We will also analyse the ratings.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 2382,
+            "title": "An End-to-end Guide on Anomaly Detection with PyCaret",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/an-end-to-end-guide-on-anomaly-detection-with-pycaret/",
+            "authors": "Sai Phaneendra",
+            "tags": "Datasets, Intermediate, Machine Learning",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "In this article, you will learn about anomaly\u00a0detection and its implementation using Pycaret and use case here is fraud detection.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/PyCaret-.jpg"
+        },
+        {
+            "id": 2383,
+            "title": "Building a Brain Tumor Classifier using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/building-a-brain-tumor-classifier-using-deep-learning/",
+            "authors": "Adityaraj Belhe",
+            "tags": "Computer Vision, Deep Learning, Guide, Image Analysis, Intermediate",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "Deep learning has paved its roots much more decisively in our daily lives. As a society, we experience miniature lifestyle changes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/93294deepfake.jpg"
+        },
+        {
+            "id": 2384,
+            "title": "Gradient Descent and its Types",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/gradient-descent-and-its-types/",
+            "authors": "Akash Wagh",
+            "tags": "Beginner, Deep Learning, Machine Learning",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "The gradient descent algorithm is an optimization algorithm mostly used in machine learning and deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 2385,
+            "title": "Introduction to Apache Sqoop",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-apache-sqoop/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Big data, Data Engineering",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "Apache Sqoop transfers data from RDBMS (Relational Database Management System) such as MySQL to HDFS (Hadoop Distributed File System).",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Getting-started-with-apache-hive.jpg"
+        },
+        {
+            "id": 2386,
+            "title": "Data Representation in Neural Networks- Tensor",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/data-representation-in-neural-networks-tensor/",
+            "authors": "Nazia Aslam",
+            "tags": "Beginner, Image Analysis, Libraries, python",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "A tensor is just a container for data, typically numerical data. It is, therefore, a container for numbers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 2387,
+            "title": "Getting Started with Data Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/getting-started-with-data-pipeline/",
+            "authors": "Simran Joshi",
+            "tags": "Data Engineering, Data Warehouse, Database, Datasets",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "Data pipeline is the pillar of digital systems. They convert, pass and save data and provide important highlights.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/overview-of-data-engineering.jpg"
+        },
+        {
+            "id": 2388,
+            "title": "Machine Learning Paradigms with Example",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/machine-learning-paradigms-with-example/",
+            "authors": "Souvik Majumder",
+            "tags": "Beginner, Machine Learning, Structured Data, Supervised, Unstructured Data, Unsupervised",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "The article discusses the various machine learning paradigms in plain language & from a technical standpoint, making it easier to understand.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 2389,
+            "title": "Understanding Distributed Ledger Technology",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/understanding-distributed-ledger-technology/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Blockchain, Technology",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "Distributed Ledger Technology (DLT) is a novel and quickly expanding method of recording and exchanging data across numerous data stores.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2390,
+            "title": "The Bayes Theorem and Football",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-bayes-theorem-and-football/",
+            "authors": "Joyan Bhathena",
+            "tags": "Algorithm, Beginner, Probability, Statistics",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "The Bayes theorem is perhaps the most important in the context of probabilities. It helps us update our prior beliefs based on some evidence.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/01155850/Classical-Probability-Puzzle-.png"
+        },
+        {
+            "id": 2391,
+            "title": "The Evolution of NLP from 1950 to 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-evolution-of-nlp-from-1950-to-2022/",
+            "authors": "Shankar297",
+            "tags": "Beginner, NLP",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "NLP is basically how you can teach machines to understand human languages and extract meaning from the text.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/88949nlp.jpg"
+        },
+        {
+            "id": 2392,
+            "title": "YOLO: An Ultimate Solution to Object Detection and Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/yolo-an-ultimate-solution-to-object-detection-and-classification/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Beginner, Computer Vision, Object Detection, Python",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "Learn about YOLO family that has been the supreme leader in Object Detection and Classification Algorithms since its inception.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 2393,
+            "title": "Light-weight Decoder-free Object Detection with Transformers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/light-weight-decoder-free-object-detection-with-transformers/",
+            "authors": "Drishti Sharma",
+            "tags": "Computer Vision, Intermediate, Object Detection, Python",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "The article shows how DFFT simplifies object detection to an encoder-only single-level anchor-based dense prediction framework.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image-2.jpg"
+        }
+    ]
+}

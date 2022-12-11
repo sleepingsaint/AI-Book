@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3834,
+            "title": "Build a simple Chatbot using NLTK Library in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Libraries, Machine Learning, Project, Python, Text, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-07-01T00:00:00",
+            "description": "A chatbot is an AI-based software. In this article, we will learn about chatbots and how to build a chatbot in Python using NLTK.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/64742Chatbots-feature-img.png"
+        },
+        {
+            "id": 3835,
+            "title": "A Beginners Guide to Machine Learning Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mlops-a-beginners-guide-to-machine-learning-operations/",
+            "authors": "ASHWINI KUMAR",
+            "tags": "Advanced, Data Science, Machine Learning, MLops, Model Deployment",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "Let's discuss about MLops. Also, we will try to find how to setup the model into production and learn to maintain and monitor it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 3836,
+            "title": "How to Detect COVID-19 Cough From Mel Spectrogram Using Convolutional Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-detect-covid19-cough-from-mel-spectrogram-using-convolutional-neural-network/",
+            "authors": "Abdiel Goni",
+            "tags": "Advanced, Artificial Intelligence, Audio, Computer Vision, Deep Learning, Image, Project, Python, Unstructured Data",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "We will develop a model to detect covid19 cough from mel spectrogram using CNN. Mel spectrogram is a spectrogram, converted to a Mel scale.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/13184Figure-2021-06-26-073643-0.png"
+        },
+        {
+            "id": 3837,
+            "title": "Beginner\u2019s Guide To Natural Language Processing Using SpaCy",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-of-natural-language-processing-using-spacy/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Beginner, Libraries, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "In this article, we are going to see how to perform natural language processing tasks using a popular library named \"SpaCy",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67274portada-nlp.jpg"
+        },
+        {
+            "id": 3838,
+            "title": "Creating Android Machine Learning Apps Using KivyMD",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/creating-android-ml-app-kivymd/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Advanced, Classification, Libraries, Model Deployment, Project, Python",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "Kivy is a Python library that facilitates the creation of cross-platform applications. Let us develop an android ml app with kivymd.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/76737ML-Models-in-Android-App-P-1.png"
+        },
+        {
+            "id": 3839,
+            "title": "Everything happening in Computer Vision that you should know",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/everything-happening-in-computer-vision-that-you-should-know/",
+            "authors": "saurabh409",
+            "tags": "Advanced, Computer Vision",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "Computer vision is an interdisciplinary scientific field. In this blog learn where is computer vision used and how does computer vision work",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84497https___specials-images.forbesimg.com_imageserve_5ee30129d8bc730007cc701c_0x0.jpg"
+        },
+        {
+            "id": 3840,
+            "title": "Deploying ML Models as API Using FastAPI and Heroku",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/deploying-ml-models-as-api-using-fastapi-and-heroku/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Advanced, Data Engineering, Model Deployment, Project, Python",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "In this article, we will walk you through the process of Deploying a Machine Learning model as an API using Heroku and FastAPI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/47720Deploying-ML-Models-as-API-Using-FastAPI-and-Heroku.png"
+        },
+        {
+            "id": 3841,
+            "title": "Download 15 years of Nifty Index Options Data using NSEpy Package",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/download-15-years-of-nifty-index-options-data-using-nsepy-package/",
+            "authors": "Gurdeep101",
+            "tags": "Beginner, Data Mining, Libraries, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-06-30T00:00:00",
+            "description": "We will download 15 years of index options data of the NSE Nifty. This is based on the very helpful NSEpy package that financiers use",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/Finance-scaled.jpg"
+        },
+        {
+            "id": 3842,
+            "title": "Automated Spam E-mail Detection Model(Using common NLP tasks)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/automated-spam-e-mail-detection-modelusing-common-nlp-tasks/",
+            "authors": "Priyal Agarwal",
+            "tags": "Advanced, Classification, NLP, Project, Python, Structured Data, Supervised, Text",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this article, let's use Natural Language Processing and create an Automated Spam E-mail Detection in Python and see how it works",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/3801299240.jpg"
+        },
+        {
+            "id": 3843,
+            "title": "Predictive Modelling \u2013 Rain Prediction in Australia With Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/predictive-modelling-rain-prediction-in-australia-with-python/",
+            "authors": "Ajay Vardhan Reddy",
+            "tags": "Beginner, Classification, Data Exploration, Data Science, Machine Learning, Project, Python, Use Cases",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this article, we will be implementing a rain prediction model to predict rain in Australia with predictive modeling using python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/49834Untitled-design.png"
+        },
+        {
+            "id": 3844,
+            "title": "Time Series Analysis \u2013 A Comprehensive Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/time-series-analysis-a-comprehensive-guide/",
+            "authors": "Illiyas Sha",
+            "tags": "Beginner, Data Cleaning, Pandas, Python, Time Series",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "Time series is a sequence or series of data points in which the time component is involved. Here, We will perform Time series analysis.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/34577aron-visuals-BXOXnQ26B7o-unsplash-1-scaled.jpg"
+        },
+        {
+            "id": 3845,
+            "title": "Deploy Your ML/DL Streamlit Application on Heroku",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/",
+            "authors": "Harsh Dhamecha",
+            "tags": "Advanced, Data Engineering, Deep Learning, Machine Learning, Programming, Project, Python, Streamlit, Supervised",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this article, learn about deployment on Heroku and we will be discussing How to Deploy Your ML/DL Streamlit Application on Heroku",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/47720Deploying-ML-Models-as-API-Using-FastAPI-and-Heroku.png"
+        },
+        {
+            "id": 3846,
+            "title": "Part 3: Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-3-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Github, NLP, Project, Python, Structured Data, Text",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this last leg of the Topic Modeling and LDA series, we shall see how to extract topics through the LDA method in Python using gensim",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/48542photo-1507146153580-69a1fe6d8aa1.jpg"
+        },
+        {
+            "id": 3847,
+            "title": "Beginner\u2019s Guide to Universal Approximation Theorem",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-to-universal-approximation-theorem/",
+            "authors": "Khushee Upadhyay",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "Universal Approximation Theorem is an important concept in Neural Networks. This article serves as a beginner's guide to UAT",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Understanding-CAP-theorem.jpg"
+        },
+        {
+            "id": 3848,
+            "title": "Part 20: Step by Step Guide to Master NLP \u2013 Information Retrieval",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-20-step-by-step-guide-to-master-nlp-information-retrieval/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this article, we will discuss the basic concepts of Information Retrieval along with some of the models used in Information Retrieval",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/98846nlp.jpg"
+        },
+        {
+            "id": 3849,
+            "title": "Part- 19: Step by Step Guide to Master NLP \u2013 Topic Modelling using LDA (Matrix Factorization Approach)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-19-step-by-step-guide-to-master-nlp-topic-modelling-using-lda-matrix-factorization-approach/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "In this article, we will discuss another approach i.e. topic modelling using named matrix factorization to understand the LDA",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/88949nlp.jpg"
+        },
+        {
+            "id": 3850,
+            "title": "Join the DataFrames like SQL tables in Python using Pandas",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/join-the-dataframes-like-sql-tables-in-python-using-pandas/",
+            "authors": "Nilabh Nishchhal",
+            "tags": "Beginner, Programming, Project, Python, SQL",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Understand how to join SQL tables in python. Let's study how to Join the DataFrames using Pandas and perform SQL like functions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/34745shaojie-FI2oIPy78K4-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3851,
+            "title": "Tricks for Data visualization using Plotly Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/tricks-for-data-visualization-plotly-library/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Exploration, Data Visualization, Libraries, Project, Python, Structured Data",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Plotly is an open-source library . In this article learn what is Plotly and explore tricks for data visualization using Plotly.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/questions-related-to-matplotlib.jpg"
+        },
+        {
+            "id": 3852,
+            "title": "Part 18: Step by Step Guide to Master NLP \u2013 Topic Modelling using LDA (Probabilistic Approach)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-18-step-by-step-guide-to-master-nlp-topic-modelling-using-lda-probabilistic-approach/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Let us discuss the probabilistic or Bayesian approach to understand Topic modelling using LDA in Natural Language Processing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/57471nlp.jpg"
+        },
+        {
+            "id": 3853,
+            "title": "Top 5 Skills Needed to be a Deep Learning Engineer!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/top-5-skills-needed-to-be-a-deep-learning-engineer/",
+            "authors": "Gourav Singh",
+            "tags": "Artificial Intelligence, Beginner, Cloud Computing, Deep Learning, Interview Questions, Learning Path, Listicle, Profile Building",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "In this article, explore 5 most important skills needed to be a Deep Learning engineer in the twenty-first century easily",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/35152Deep_Learning.jpeg"
+        },
+        {
+            "id": 3854,
+            "title": "Part 17: Step by Step Guide to Master NLP \u2013 Topic Modelling using pLSA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-17-step-by-step-guide-to-master-nlp-topic-modelling-using-plsa/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Let us deep dive into Topic Modelling using pLSA, which is a technique used to model information under a probabilistic framework",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/83775nlp.jpg"
+        },
+        {
+            "id": 3855,
+            "title": "Part 2: Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Data Science, Libraries, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Let's explore Latent Dirichlet Allocation, working of LDA, and its similarity to another very popular dimensionality reduction technique PCA",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 3856,
+            "title": "MLOps : Machine Learning Operations in Microsoft Azure",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mlops-machine-learning-operations-in-microsoft-azure/",
+            "authors": "Prateek Majumder",
+            "tags": "Advanced, AzureML, Cloud Computing, Machine Learning, MLops, Project, Python",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "In this article, learn about Machine Learning operations in microsoft azure and implement MLOps in Microsoft azure with ease",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3857,
+            "title": "Learn How to Implement Face Recognition using OpenCV with Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/learn-how-to-implement-face-recognition-using-opencv-with-python/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Computer Vision, Image, Intermediate, Libraries, Project, Python, Unstructured Data",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "In this article, we are going to see what is face recognition and how to develop a face recognition program using OpenCV in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79360Face-Recognition.jpg"
+        },
+        {
+            "id": 3858,
+            "title": "How Big Data Is Shaping HealthCare To Make It Further Affordable, Accurate & Intelligent",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-big-data-is-shaping-healthcare-to-make-it-further-affordable-accurate-intelligent/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Big data, Education, Healthcare",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Big data is a sub-domain of Data Science. In this article we will see How Big Data Is Shaping HealthCare To Make It Further Affordable.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/53353best.jpg"
+        },
+        {
+            "id": 3859,
+            "title": "What is A Business Analyst and What is the Role of a business analyst in a Company?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/what-is-a-business-analyst-and-what-is-the-role-of-a-business-analyst-in-a-company/",
+            "authors": "Ananya Chakraborty",
+            "tags": "Beginner, Business Analytics, Interview Questions, Jobs - Business Analytics",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "In this article we will understand what is business analyst. Also we will see what is the role of a business analyst in a company, in detail.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/20798stencil.default-3.jpg"
+        },
+        {
+            "id": 3860,
+            "title": "Build Your Own Fake News Classifier With NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/build-your-own-fake-news-classifier-with-nlp/",
+            "authors": "Lakshmi Panneerselvam",
+            "tags": "Advanced, Classification, News, NLP, Project, python, Python, Text",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "A study shows that a fake tweet on Twitter spreads six times faster than the real one. In this article we will develop a fake news classifier",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59873wp7461591-fake-news-wallpapers.png"
+        },
+        {
+            "id": 3861,
+            "title": "Analyzing Decision Tree and K-means Clustering using Iris dataset.",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/analyzing-decision-tree-and-k-means-clustering-using-iris-dataset/",
+            "authors": "Yashi Saxena",
+            "tags": "Beginner, Classification, Data Science, Machine Learning, Python, Supervised, Unsupervised",
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "In this article we will analyze iris dataset using a supervised algorithm decision tree and a unsupervised learning algorithm k means.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/30110Title_png.png"
+        },
+        {
+            "id": 3862,
+            "title": "Style your Pandas DataFrame and Make it Stunning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/style-your-pandas-dataframe-and-make-it-stunning/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Exploration, Programming, Project, Python",
+            "publishedOn": "2021-06-27T00:00:00",
+            "description": "Pandas dataframe style API is used for styling. Let's go through Dataframe styling Pandas, various types of built-in and custom functions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70360Pandas-styling.png"
+        },
+        {
+            "id": 3863,
+            "title": "Feature Selection using Statistical Tests",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/feature-selection-using-statistical-tests/",
+            "authors": "Ashish",
+            "tags": "Beginner, Machine Learning, Probability, Python, Statistics, Structured Data",
+            "publishedOn": "2021-06-27T00:00:00",
+            "description": "Feature Selection is the process of selecting the features which are relevant to the ML model. Let's understand the statistical tests",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69192feature-selection-edit.jpg"
+        }
+    ]
+}

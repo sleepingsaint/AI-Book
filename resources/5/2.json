@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6502,
+            "title": "Position Prediction as an Effective Pre-training Strategy",
+            "url": "https://machinelearning.apple.com/research/position-prediction",
+            "authors": "Shuangfei Zhai, Navdeep Jaitly, Tatiana Likhomanenko, Jason Ramapuram, Dan Busbridge, Walter Talbott, Chen Huang, Hanlin Goh, Joseph Yitan Cheng, Josh Susskind",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Transformers  have gained increasing popularity in a wide range of applications, including Natural Language Processing (NLP), Computer\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6503,
+            "title": "Private Frequency Estimation via Projective Geometry",
+            "url": "https://machinelearning.apple.com/research/private-frequency-estimation",
+            "authors": "Vitaly Feldman*, Jelani Nelson*, Huy Nguyen*, Kunal Talwar*",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this work, we propose a new algorithm ProjectiveGeometryResponse (PGR) for locally differentially private (LDP) frequency estimation. For\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6504,
+            "title": "Self-Conditioning Pre-Trained Language Models",
+            "url": "https://machinelearning.apple.com/research/self-conditioning-pre-trained",
+            "authors": "Xavier Suau, Luca Zappella, Nicholas Apostoloff",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this paper we aim to investigate the mechanisms that guide text generation with pre-trained Transformer-based Language Models (TLMs)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6505,
+            "title": "Style Equalization: Unsupervised Learning of Controllable Generative Sequence Models",
+            "url": "https://machinelearning.apple.com/research/unsupervised-learning",
+            "authors": "Jen-Hao Rick Chang, Ashish Shrivastava, Hema Swetha Koppula, Xiaoshuai Zhang, Oncel Tuzel",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Controllable generative sequence models with the capability to extract and replicate the style of specific examples enable many\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6506,
+            "title": "Critical Regularizations for Neural Surface Reconstruction in the Wild",
+            "url": "https://machinelearning.apple.com/research/critical-regularizations",
+            "authors": "Jingyang Zhang, Yao Yao, Shiwei Li, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Neural implicit functions have recently shown promising results on surface reconstructions from multiple views. However, current methods\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6507,
+            "title": "A Multi-Task Neural Architecture for On-Device Scene Analysis",
+            "url": "https://machinelearning.apple.com/research/on-device-scene-analysis",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "Scene analysis is an integral core technology that powers many features and experiences in the Apple ecosystem. From visual content search\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6508,
+            "title": "Deploying Transformers on the Apple Neural Engine",
+            "url": "https://machinelearning.apple.com/research/neural-engine-transformers",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "An increasing number of the machine learning (ML) models we build at Apple each year are either partly or fully adopting the [Transformer\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6509,
+            "title": "Neural Face Video Compression using Multiple Views",
+            "url": "https://machinelearning.apple.com/research/neural-face-video",
+            "authors": "Anna Volokitin, Stefan Brugger, Ali Benlalah, Sebastian Martin, Brian Amberg, Michael Tschannen",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Recent advances in deep generative models led to the development of neural face video compression codecs that use an order of magnitude less\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6510,
+            "title": "Efficient Multi-view Stereo via Attention-Driven 2D Convolutions",
+            "url": "https://machinelearning.apple.com/research/multi-view-stereo",
+            "authors": "Zhenpei Yang, Zhile Ren, Qi Shan, Qixing Huang",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Deep learning has made significant impacts on multi-view stereo systems. State-of-the-art approaches typically involve building a cost\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6511,
+            "title": "Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction",
+            "url": "https://machinelearning.apple.com/research/robust-joint-shape",
+            "authors": "Zhenpei Yang, Zhile Ren, Miguel Angel Bautista, Zaiwei Zhang, Qi Shan, Qixing Huang",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Reconstructing an accurate 3D object model from a few image observations remains a challenging problem in computer vision. State-of-the-art\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6512,
+            "title": "Forward Compatible Training for Large-Scale Embedding Retrieval Systems",
+            "url": "https://machinelearning.apple.com/research/forward-compatible-training",
+            "authors": "Vivek Ramanujan*, Pavan Kumar Anasosalu Vasu, Ali Farhadi, Oncel Tuzel, Hadi Pouransari*",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "In visual retrieval systems, updating the embedding model requires recomputing features for every piece of data. This expensive process is\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6513,
+            "title": "Bilingual End-to-End ASR with Byte-Level Subwords",
+            "url": "https://machinelearning.apple.com/research/bilingual-end-to-end-asr",
+            "authors": "Liuhui Deng, Roger Hsiao, and Arnab Ghoshal",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this paper, we investigate how the output representation of an end-to-end neural network affects multilingual automatic speech\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6514,
+            "title": "End-to-End Speech Translation for Code Switched Speech",
+            "url": "https://machinelearning.apple.com/research/end-to-end",
+            "authors": "Orion Weller, Matthias Sperber, Telmo Pires, Hendra Setiawan, Christian Gollan, Dominic Telaar, Matthias Paulik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Code switching (CS) refers to the phenomenon of interchangeably using words and phrases from different languages. CS can pose significant\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6515,
+            "title": "Streaming On-Device Detection of Device Directed Speech from Voice and Touch-Based Invocation",
+            "url": "https://machinelearning.apple.com/research/streaming-on-device",
+            "authors": "Oggi Rudovic*, Akanksha Bindal*, Vineet Garg*, Pramod Simha*, Pranay Dighe, Sachin Kajarekar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "When interacting with smart devices such as mobile phones or wearables, the user typically invokes a virtual assistant (VA) by saying a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6516,
+            "title": "Training a Tokenizer for Free with Private Federated Learning",
+            "url": "https://machinelearning.apple.com/research/training-a-tokenizer",
+            "authors": "Eugene Bagdasaryan, Congzheng Song, Rogier van Dalen, Matt Seigel, \u00c1ine Cahill",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "Federated learning with differential privacy, i.e. private federated learning (PFL), makes it possible to train models on private data\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6517,
+            "title": "Utilizing Imperfect Synthetic Data to Improve Speech Recognition",
+            "url": "https://machinelearning.apple.com/research/utilizing-imperfect-synthetic",
+            "authors": "Ting-Yao Hu, Mohammadreza Armandpour, Ashish Shrivastava, Jen-Hao Rick Chang, Hema Koppula, Oncel Tuzel",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "With recent advances in speech synthesis, synthetic data is becoming a viable alternative to real data for training speech recognition\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6518,
+            "title": "Data Incubation - Synthesizing Missing Data for Handwriting Recognition",
+            "url": "https://machinelearning.apple.com/research/data-incubation",
+            "authors": "Jen-Hao Rick Chang, Martin Bresler, Youssouf Chherawala, Adrien Delaye, Thomas Deselaers, Ryan Dixon, Oncel Tuzel",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this paper, we demonstrate how a generative model can be used to build a better recognizer through the control of content and style. We\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6519,
+            "title": "A Platform for Continuous Construction and Serving of Knowledge At Scale",
+            "url": "https://machinelearning.apple.com/research/continuous-construction",
+            "authors": "Ihab F. Ilyas, Theodoros Rekatsinas, Vishnu Konda, Jeffrey Pound, Xiaoguang Qi, Mohamed Soliman",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "We introduce Saga, a next-generation knowledge construction and serving platform for powering knowledge-based applications at industrial\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6520,
+            "title": "Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels",
+            "url": "https://machinelearning.apple.com/research/generalizing-confusion-matrix",
+            "authors": "Jochen G\u00f6rtler, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Donghao Ren, Rahul Nair, Marc Kirchner, Kayur Patel",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "The confusion matrix, a ubiquitous visualization for helping people evaluate machine learning models, is a tabular layout that compares\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6521,
+            "title": "Low-Resource Adaptation of Open-Domain Generative Chatbots",
+            "url": "https://machinelearning.apple.com/research/low-resource-adaptation",
+            "authors": "Greyson Gerhard-Young*, Raviteja Anantha*, Srinivas Chappidi, Bj\u00f6rn Hoffmeister",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Recent work building open-domain chatbots has demonstrated that increasing model size improves performance. On the other hand, latency and\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6522,
+            "title": "Differentiable K-Means Clustering Layer for Neural Network Compression",
+            "url": "https://machinelearning.apple.com/research/differentiable-k-means",
+            "authors": "Minsik Cho*, Keivan A. Vahid*, Saurabh Adya, Mohammad Rastegari",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Deep neural network (DNN) model compression for efficient on-device inference is becoming increasingly important to reduce memory\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6523,
+            "title": "Enabling Hand Gesture Customization on Wrist-Worn Devices",
+            "url": "https://machinelearning.apple.com/research/enabling-hand-gesture",
+            "authors": "Xuhai Xu, Jun Gong, Carolina Brum, Lilian Liang, Bongsoo Suh, Kumar Gupta, Yash Agarwal, Laurence Lindsey, Runchang Kang, Behrooz Shahsavari, Tu Nguyen, Heriberto Nieto, Scott E. Hudson, Charlie Maalouf, Seyed Mousavi, Gierad Laput",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "We present a framework for gesture customization requiring minimal examples from users, all without degrading the performance of existing\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6524,
+            "title": "Learning Compressed Embeddings for On-Device Inference",
+            "url": "https://machinelearning.apple.com/research/learning-compressed-embedding",
+            "authors": "Niketan Pansare, Jay Katukuri, Aditya Arora, Frank Cipollone, Riyaaz Shaik, Noyan Tokgozoglu and Chandru Venkataraman",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In deep learning, embeddings are widely used to represent categorical entities such as words, apps, and movies. An embedding layer maps each\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6525,
+            "title": "Neural Fisher Kernel: Low-rank Approximation and Knowledge Distillation",
+            "url": "https://machinelearning.apple.com/research/neural-fisher",
+            "authors": "Ruixiang Zhang, Shuangfei Zhai, Etai Littwin, Josh Susskind",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this paper, we study the representation of neural networks from the view of kernels. We first define the Neural Fisher Kernel (NFK)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6526,
+            "title": "Towards Complete Icon Labeling in Mobile Applications",
+            "url": "https://machinelearning.apple.com/research/icon-labelling",
+            "authors": "Jieshan Chen, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Accurately recognizing icon types in mobile applications is integral to many tasks, including accessibility improvement, UI design search\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6527,
+            "title": "Understanding Screen Relationships from Screenshots of Smartphone Applications",
+            "url": "https://machinelearning.apple.com/research/screen-relationships",
+            "authors": "Shirin Feiz, Jason Wu, Xiaoyi Zhang, Amanda Swearngin, Titus Barik, Jeffrey Nichols",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "All graphical user interfaces are comprised of one or more screens that may be shown to the user depending on their interactions\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6528,
+            "title": "MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer",
+            "url": "https://machinelearning.apple.com/research/vision-transformer",
+            "authors": "Sachin Mehta, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Light-weight convolutional neural networks (CNNs) are the de-facto for mobile vision tasks. Their spatial inductive biases allow them to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6529,
+            "title": "Synthetic Defect Generation for Display Front-of-Screen Quality Inspection: A Survey",
+            "url": "https://machinelearning.apple.com/research/synthetic-defect-generation",
+            "authors": "Shancong Mou, Meng Cao, Zhendong Hong, Ping Huang, Jiulong Shan, Jianjun Shi",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Display front-of-screen (FOS) quality inspection is essential for the mass production of displays in the manufacturing process. However, the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6530,
+            "title": "Differential Secrecy for Distributed Data and Applications to Robust Differentially Secure Vector Summation",
+            "url": "https://machinelearning.apple.com/research/differential-secrecy",
+            "authors": "Kunal Talwar",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Computing the noisy sum of real-valued vectors is an important primitive in\ndifferentially private learning and statistics. In private\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6531,
+            "title": "Information Gain Propagation: A New Way to Graph Active Learning with Soft Labels",
+            "url": "https://machinelearning.apple.com/research/gain-propagation",
+            "authors": "Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, Bin Cui",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Graph Neural Networks (GNNs) have achieved great success in various tasks, but their performance highly relies on a large number of labeled\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

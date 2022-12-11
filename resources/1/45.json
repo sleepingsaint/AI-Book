@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1304,
+            "title": "Beyond text: How Spokata uses Amazon Polly to make news and information universally accessible as real-time audio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/beyond-text-how-spokata-uses-amazon-polly-to-make-news-and-information-universally-accessible-as-real-time-audio/",
+            "authors": "Zack Sherman",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "Just as television transitioned from black and white to color, the web has been moving from a text-based medium to one dominated by sound and vision. Accordingly, content creation has both exploded and changed. Publishers of all types are struggling through this transition as they try to meet the demands of users while keeping their business models intact.\n\nOn-demand audio is attracting significant interest from publishers as mobile listening grows and in-car technology begins to disrupt traditional radio. This trend is most visible in the mainstream adoption of podcasts. But podcasts are just the beginning of a rapidly emerging, and diverse, ecosystem of new digital audio formats. Amazon Echo and advanced text-to-speech services such as Amazon Polly are enabling the creation of these new audio products.\n\nIn this blog post we describe how Spokata leverages these Amazon technologies to make text-based news and information universally accessible as real-time audio.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/26/spokata-1-882x630.gif"
+        },
+        {
+            "id": 1305,
+            "title": "Segmenting brain tissue using Apache MXNet with Amazon SageMaker and AWS Greengrass ML Inference \u2013 Part 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/segmenting-brain-tissue-using-apache-mxnet-with-amazon-sagemaker-and-aws-greengrass-ml-inference-part-2/",
+            "authors": "Brad Kenstler",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS IoT Greengrass, Internet of Things",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "In Part 1 of this blog post, we demonstrated how to train and deploy neural networks to automatically segment brain tissue from an MRI scan in a simple, streamlined way using Amazon SageMaker. We used Apache MXNet to train a convolutional neural network (CNN) on Amazon SageMaker using the Bring Your Own Script paradigm. We [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/26/brain-segmentation-social-1.gif"
+        },
+        {
+            "id": 1306,
+            "title": "How to use common workflows on Amazon SageMaker notebook instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-to-use-common-workflows-on-amazon-sagemaker-notebook-instances/",
+            "authors": "John Calhoun",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-10-03T00:00:00",
+            "description": "Amazon SageMaker notebook instances provide a scalable cloud based development environment to do data science and machine learning. This blog post will show common workflows to make you more productive and effective. The techniques in this blog post will give you tools to treat your notebook instances in a more cloud native way, remembering that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/03/sagemaker-common-workflows-social.gif"
+        },
+        {
+            "id": 1307,
+            "title": "PyTorch 1.0 preview now available in Amazon SageMaker and the AWS Deep Learning AMIs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/pytorch-1-0-preview-now-available-in-amazon-sagemaker-and-the-aws-deep-learning-amis/",
+            "authors": "Kumar Venkateswar",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-10-03T00:00:00",
+            "description": "Amazon SageMaker\u00a0and the AWS Deep Learning AMIs (DLAMI) now provide an easy way to evaluate the PyTorch 1.0 preview release. PyTorch 1.0 adds seamless research-to-production capabilities, while retaining the ease-of-use that has enabled PyTorch to rapidly gain popularity. The AWS Deep Learning AMI comes pre-built with PyTorch 1.0, Anaconda, and Python packages, with CUDA and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1308,
+            "title": "Your Guide to AI and Machine Learning at re:Invent 2018",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-and-machine-learning-at-reinvent-2018/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS re:Invent, Events",
+            "publishedOn": "2018-09-27T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. re:Invent 2018 is almost here! As you plan your agenda, artificial intelligence (AI) is undoubtedly a hot topic on your list. This year we have a lot of great technical content on AI, machine learning (ML), and deep learning (DL)\u2014with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/26/reinvent.png"
+        },
+        {
+            "id": 1309,
+            "title": "Deploy your own TensorFlow object detection model to AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-your-own-tensorflow-object-detection-model-to-aws-deeplens/",
+            "authors": "Tristan Li, Wayne Davis",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-09-27T00:00:00",
+            "description": "In this blog post, we\u2019ll show you how to deploy a TensorFlow object detection model to AWS DeepLens. This enables AWS DeepLens to perform real-time object detection using the built-in camera. Object detection is the technique for machines to correctly identify different objects in the image or video. Image recognition, specifically object detection is a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/24/tensorflow-object-detection-19.gif"
+        },
+        {
+            "id": 1310,
+            "title": "Segmenting brain tissue using Apache MXNet with Amazon SageMaker and AWS Greengrass ML Inference \u2013 Part 1",
+            "url": "https://aws.amazon.com/blogs/machine-learning/segmenting-brain-tissue-using-apache-mxnet-with-amazon-sagemaker-and-aws-greengrass-ml-inference-part-1/",
+            "authors": "Brad Kenstler",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS IoT Greengrass, Internet of Things",
+            "publishedOn": "2018-09-26T00:00:00",
+            "description": "Annotation and segmentation of medical images is a laborious endeavor that can be automated in part via deep learning (DL) techniques. These approaches have achieved state-of-the-art results in generic segmentation tasks, the goal of which is to classify images at the pixel level. In Part 1 of this blog post, we demonstrate how to train [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/26/brain-segmentation-social-1.gif"
+        },
+        {
+            "id": 1311,
+            "title": "Help improve lives through Machine Learning by joining the AWS DeepLens Challenge!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/help-improve-lives-through-machine-learning-by-joining-the-aws-deeplens-challenge/",
+            "authors": "Sally Revell",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-09-25T00:00:00",
+            "description": "Today, we\u2019re unveiling a fresh approach to the AWS DeepLens Challenge. We are bringing you four challenges to choose from\u2013sustainability, games, health and inclusivity. Now you can be inspired to create machine learning projects with AWS DeepLens and make a difference at the same time! Use these challenges to gain machine learning experience with fun, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/02/deeplens-challenge-3.jpg"
+        },
+        {
+            "id": 1312,
+            "title": "Amazon SageMaker automatic model tuning produces better models, faster",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-produces-better-models-faster/",
+            "authors": "David Arpin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-09-25T00:00:00",
+            "description": "Amazon SageMaker recently released a feature that allows you to automatically tune the hyperparameter values of your machine learning model to produce more accurate predictions. Hyperparameters are user-defined settings that dictate how an algorithm should behave during training. Examples include how large a decision tree should be grown, the number of clusters desired from a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1313,
+            "title": "Discovering and indexing podcast episodes using Amazon Transcribe and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/discovering-and-indexing-podcast-episodes-using-amazon-transcribe-and-amazon-comprehend/",
+            "authors": "Angela Wang, Mike Gillespie",
+            "tags": "Amazon Comprehend, Amazon Transcribe, Artificial Intelligence, AWS Step Functions",
+            "publishedOn": "2018-09-20T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. As an avid podcast listener, I had always wished for an easy way to glimpse at the transcript of an episode to decide whether I should add it to my playlist (not all episode abstracts are equally helpful!). Another challenge [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/19/discover-podcasts-1.gif"
+        },
+        {
+            "id": 1314,
+            "title": "New Engen improves customer acquisition marketing campaigns using Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-engen-improves-customer-acquisition-marketing-campaigns-using-amazon-rekognition/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-09-19T00:00:00",
+            "description": "New Engen is a cross-channel performance marketing technology company that uses its proprietary software products and creative solutions to help their clients acquire new customers. New Engen integrates marketing, AI, and creative expertise to provide a one-stop solution that helps their customers optimize their digital marketing budget across Facebook, Google, Instagram, Snap, and more. Improving [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/19/new-engen-1-643x630.gif"
+        },
+        {
+            "id": 1315,
+            "title": "Save time and money by filtering faces during indexing with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/save-time-and-money-by-filtering-faces-during-indexing-with-amazon-rekognition/",
+            "authors": "Venkatesh Bagaria, Keith Johnson, Yash Singh, Vivek Bhadauria",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-09-18T00:00:00",
+            "description": "Amazon Rekognition is a deep-learning-based image and video analysis service that can identify objects, people, text, scenes, and activities, as well as detect any inappropriate content. Using the new Amazon Rekognition face filtering feature, you can now have control over the quality and quantity of faces you can index for face recognition. This saves on [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/18/filtering-faces-3.jpg"
+        },
+        {
+            "id": 1316,
+            "title": "Training models with unequal economic error costs using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/training-models-with-unequal-economic-error-costs-using-amazon-sagemaker/",
+            "authors": "Veronika Megler, Scott Gregoire",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-09-18T00:00:00",
+            "description": "Many companies are turning to machine learning (ML) to improve customer and business outcomes. They use the power of ML models built over \u201cbig data\u201d to identify patterns and find correlations. Then they can identify appropriate approaches or predict likely outcomes based on data about new instances. However, as ML models are approximations of the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/10/unequal-4.gif"
+        },
+        {
+            "id": 1317,
+            "title": "Limit access to a Jupyter notebook instance\u00a0by IP address",
+            "url": "https://aws.amazon.com/blogs/machine-learning/limit-access-to-a-jupyter-notebook-instance-by-ip-address/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-09-14T00:00:00",
+            "description": "For increased security, Amazon SageMaker customers can now limit access to a notebook instance to a range of IP addresses. IP address filtering helps when you need to allow only a\u00a0subset of traffic to access your notebook instances. You might want to limit notebook access in the following ways: To comply with security and compliance\u00a0requirements [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1318,
+            "title": "Meet Zhiyu\u2014the first Mandarin Chinese voice for Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/meet-zhiyu-the-first-mandarin-chinese-voice-for-amazon-polly/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-09-14T00:00:00",
+            "description": "Amazon Polly is a fully managed service that turns text into lifelike speech. We\u2019re excited to announce the support for Mandarin Chinese in Amazon Polly. Zhiyu is a clear, bright, and natural-sounding female voice. Let\u2019s hear Zhiyu introduce herself. Click the play button to listen now: Listen\u00a0now Voiced by Amazon Polly Zhiyu introduces herself in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1319,
+            "title": "Classifying high-resolution chest x-ray medical images with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/classifying-high-resolution-chest-x-ray-medical-images-with-amazon-sagemaker/",
+            "authors": "Guru Swaminathan, Vineet Khare",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "Medical image processing is one of the key areas where deep learning is applied to great effect. Typical processing involves classification, detection, and segmentation using various medical image modalities. In this blog post, we outline a method to use the HIPAA Eligible service Amazon SageMaker to train a deep learning model for chest x-ray image [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1320,
+            "title": "Mapillary uses Amazon Rekognition to work towards building parking solutions for US cities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/mapillary-uses-amazon-rekognition-to-work-towards-building-parking-solutions-for-us-cities/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "Mapillary is a collaborative street-level imagery platform that allows people and organizations to upload geo-tagged photos, which can then be used by customers to improve their mapping systems or applications. Mapillary uses Amazon Rekognition, a deep learning-based image and video analysis service, to enhance their metadata extraction. By using the DetectText operation from Amazon Rekognition, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/12/mapillary-2.gif"
+        },
+        {
+            "id": 1321,
+            "title": "Run SQL queries from your SageMaker notebooks using Amazon Athena",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-sql-queries-from-your-sagemaker-notebooks-using-amazon-athena/",
+            "authors": "Anjana Kandalam",
+            "tags": "Amazon Athena, Amazon SageMaker",
+            "publishedOn": "2018-09-12T00:00:00",
+            "description": "The volume, velocity and variety of data has been ever increasing since the advent of the internet. The problem many enterprises face is managing this \u201cbig data\u201d and trying to make sense out of it to yield the most desirable outcome. Siloes in enterprises, continuous ingestion of data in numerous formats, and the ever-changing technology [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/09/query-athena-sagemaker-11.gif"
+        },
+        {
+            "id": 1322,
+            "title": "Get started with automated metadata extraction using the AWS Media Analysis Solution",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-automated-metadata-extraction-using-the-aws-media-analysis-solution/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Comprehend, Amazon Rekognition, Amazon Transcribe, AWS Step Functions",
+            "publishedOn": "2018-09-07T00:00:00",
+            "description": "You can easily get started extracting meaningful metadata from your media files by using the Media Analysis Solution on AWS. The Media Analysis Solution provides AWS CloudFormation templates that you can use to start extracting meaningful metadata from your media files within minutes. With a web-based user interface, you can easily upload files and see the metadata that is automatically extracted. This solution uses Amazon Rekognition for facial recognition, Amazon Transcribe to create a transcript, and Amazon Comprehend to run sentiment analysis on the transcript. You can also upload your own images to an Amazon Rekognition collection and train the solution to recognize individuals. In this blog post, we\u2019ll show you step-by step how to launch the solution and upload an image and video. You\u2019ll be able to see firsthand how metadata is seamlessly extracted.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/07/media-analysis-1.gif"
+        },
+        {
+            "id": 1323,
+            "title": "No code chatbots: TIBCO uses Amazon Lex to put chat interfaces into the hands of business users",
+            "url": "https://aws.amazon.com/blogs/machine-learning/no-code-chatbots-tibco-uses-amazon-lex-to-put-chat-interfaces-into-the-hands-of-business-users/",
+            "authors": "Nathan Sutton",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-09-05T00:00:00",
+            "description": "Users today don\u2019t expect to be tied to a desktop computer. They want to interact with systems on the go, in a variety of ways that are convenient to them. This means that people often turn to mobile devices and interact with applications and systems while multi-tasking. Users might not even touch their mobile device while operating the apps they use, particularly when they are in a vehicle, or when they are actively engaged in another activity. In home environments, this \u201chands-free\u201d capability is facilitated by voice activation systems.\n\nBusiness users now aspire to the same experience in a business environment. They want to operate the applications and systems that they use in their daily work tasks using voice control, just like they do at home. Imagine how much simpler daily work tasks would be. However, adding voice controls to systems has not been easy.\u00a0Voice integration can be a very involved project, even for skilled developers. Moreover, today\u2019s business users want to solve their own tactical and strategic business problems by building \u201clow code/no code\u201d apps. Plus, business users want these apps to follow the same end-user requirements we mentioned earlier: They need to be able to be used on the go anywhere, anytime, hands-free.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/05/tibco-social.png"
+        },
+        {
+            "id": 1324,
+            "title": "Visual search on AWS\u2014Part 2: Deployment with AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/visual-search-on-aws-part-2-deploying-a-visual-search-model-with-aws-deeplens/",
+            "authors": "Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-09-05T00:00:00",
+            "description": "In Part 1 of this blog post series, we examined use cases for visual search and how visual search works. Now we\u2019ll extend the results of Part 1 from the digital world to the physical world using\u00a0AWS DeepLens, a deep-learning-enabled video camera. Most current applications of visual search don\u2019t involve direct interaction with the physical [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/16/visual-search-part-2-1.gif"
+        },
+        {
+            "id": 1325,
+            "title": "Amazon SageMaker runtime now supports the CustomAttributes header",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-runtime-now-supports-the-customattribute-header/",
+            "authors": "Urvashi Chowdhary",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-08-30T00:00:00",
+            "description": "Amazon SageMaker now supports a new HTTP header for the InvokeEndpoint API action called CustomAttributes which can be used to provide additional information about an inference request or response. Amazon SageMaker strips all POST headers except those supported by the InvokeEndpoint API action and you can use the CustomAttributes header to pass custom information such [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1326,
+            "title": "Visual search on AWS\u2014Part 1: Engine implementation with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/visual-search-on-aws-part-1-engine-implementation-with-amazon-sagemaker/",
+            "authors": "Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-30T00:00:00",
+            "description": "In this two-part blog post series we explore how to implement visual search using Amazon SageMaker and AWS DeepLens. In Part 1, we\u2019ll take a look at how visual search works, and use Amazon SageMaker to create a model for visual search. We\u2019ll also use Amazon SageMaker to build a fast index containing reference items to be searched. ",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/16/visual-search-part-1-1.gif"
+        },
+        {
+            "id": 1327,
+            "title": "Access Amazon S3 data managed by AWS Glue Data Catalog from Amazon SageMaker notebooks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/access-amazon-s3-data-managed-by-aws-glue-data-catalog-from-amazon-sagemaker-notebooks/",
+            "authors": "Veronika Megler",
+            "tags": "Amazon SageMaker, Analytics, Artificial Intelligence, AWS Glue",
+            "publishedOn": "2018-08-29T00:00:00",
+            "description": "In this blog post, I\u2019ll show you how to perform exploratory analysis on massive corporate data sets in Amazon SageMaker. From your Jupyter notebook running on Amazon SageMaker, you\u2019ll identify and explore several corporate datasets in the corporate data lake that seem interesting to you. You\u2019ll discover that each contains a subset of the information you need. You\u2019ll join them to extract the interesting information, then continue analyzing and visualizing your data in your Amazon SageMaker notebook, in a seamless experience.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/16/glue-sagemaker-1.gif"
+        },
+        {
+            "id": 1328,
+            "title": "Pixm takes on phishing attacks with deep learning using Apache MXNet on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/pixm-takes-on-phishing-attacks-with-deep-learning-using-apache-mxnet-on-aws/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-08-28T00:00:00",
+            "description": "Despite numerous cybersecurity efforts, phishing attacks are still on the rise. Phishing is a form of fraud where perpetrators pretend to be reputable companies and attempt to get individuals to reveal personal information, such as passwords and credit card numbers. It\u2019s the most common social tactic.\u00a0 93 percent of all breaches today start with phishing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/16/pixm-3.gif"
+        },
+        {
+            "id": 1329,
+            "title": "Amazon Transcribe now supports multi-channel transcriptions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-multi-channel-transcriptions/",
+            "authors": "Paul Zhao, Bhaskar Bagchi",
+            "tags": "Amazon Transcribe",
+            "publishedOn": "2018-08-27T00:00:00",
+            "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to applications. We\u2019re excited to announce the availability of a new feature called channel identification, which allows users to process multi-channel audio files and retrieve a single transcript annotated with respective channel labels.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/24/TranscribeMultichannell1_revised-505x630.png"
+        },
+        {
+            "id": 1330,
+            "title": "Create a translator chatbot using Amazon Translate and Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-translator-chatbot-using-amazon-translate-and-amazon-lex/",
+            "authors": "Steve Turner",
+            "tags": "Amazon Lex, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-08-22T00:00:00",
+            "description": "In this post, I create an intent in Amazon Lex for a translation action. This intent prompts the user for a source and target language, for example English to Spanish, followed by a text string to translate. Users are free to switch languages at any time during the interaction with Amazon Lex. The solution in the following illustration makes full use of Serverless Computing technologies to enable seamless scaling to thousands of users without the need for further engineering effort.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/20/TranslatorChatbot_1.png"
+        },
+        {
+            "id": 1331,
+            "title": "New speed record set for training deep learning models on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-speed-record-set-for-training-deep-learning-models-on-aws/",
+            "authors": "Geoff Murase",
+            "tags": "Amazon SageMaker, AWS Deep Learning AMIs",
+            "publishedOn": "2018-08-22T00:00:00",
+            "description": "fast.ai, a research lab dedicated to making deep learning more accessible, has announced that they successfully trained the ResNet-50 deep learning model on a million images in 18 minutes using 16 Amazon EC2 P3.16xlarge instances. They accomplished this milestone by spending just $40. This new speed record illustrates how you can drastically cut down the training times for deep learning models, enabling you to bring your innovations to market faster and at a lower cost.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1332,
+            "title": "Managing your expenses with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-your-expenses-with-amazon-lex/",
+            "authors": "Rob Whelan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-08-21T00:00:00",
+            "description": "This is a guest post by Rob Whelan, Solutions Architect at Relus Cloud. When people ask me what impact artificial intelligence (AI) will have in the enterprise, I like to say that AI will relieve people from doing repetitive things. We\u2019re not wired to do mindless tasks over and over\u2014but computers are. That\u2019s why self-driving [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/16/lex-expenses-bot-1.gif"
+        },
+        {
+            "id": 1333,
+            "title": "Forecasting financial time series with dynamic deep learning on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/forecasting-time-series-with-dynamic-deep-learning-on-aws/",
+            "authors": "Jeremy Curuksu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-20T00:00:00",
+            "description": "In this post, I will show you how to develop an original RNN (Recurrent Neural Network) deep learning algorithm to forecast time series based on the past trends of multiple factors, taking advantage of Amazon SageMaker (using Bring-Your-Own-Algorithm). Amazon SageMaker is a fully-managed machine learning platform that enables data scientists and developers to quickly and easily build and train machine learning models into production applications, at scale. It enables you to use both built-in algorithms, built-in frameworks, and also import custom code via Docker containers.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/09/financial-time-series-8.gif"
+        }
+    ]
+}

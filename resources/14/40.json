@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9682,
+            "title": "Design and Run your First Experiment in Weka",
+            "url": "https://machinelearningmastery.com/design-and-run-your-first-experiment-in-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-21T00:00:00",
+            "description": "Weka is the perfect platform for learning machine learning. It provides a graphical user interface for exploring and experimenting with machine learning algorithms on datasets, without you having to worry about the mathematics or the programming. A powerful feature of Weka is the Weka Experimenter interface. Unlike the Weka Explorer that is for filtering data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/first-experiment.jpg"
+        },
+        {
+            "id": 9683,
+            "title": "How To Choose The Right Test Options When Evaluating Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/how-to-choose-the-right-test-options-when-evaluating-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-02-19T00:00:00",
+            "description": "The test options you use when evaluating machine learning algorithms can mean the difference between over-learning, a mediocre result and a usable state-of-the-art result that you can confidently shout from the roof tops (you really do feel like doing that sometimes). In this post you will discover the standard test options you can use in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/coin-toss.jpg"
+        },
+        {
+            "id": 9684,
+            "title": "How to Run Your First Classifier in Weka",
+            "url": "https://machinelearningmastery.com/how-to-run-your-first-classifier-in-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-17T00:00:00",
+            "description": "Weka\u00a0makes learning applied machine learning easy, efficient, and fun. It is a GUI tool that allows you to load datasets, run algorithms and design and run experiments with results statistically robust enough to publish. I recommend Weka\u00a0to beginners in machine learning because it lets them focus on learning the process of applied machine learning rather [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/weka-zeror.png"
+        },
+        {
+            "id": 9685,
+            "title": "Applied Machine Learning Process",
+            "url": "https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-02-12T00:00:00",
+            "description": "The Systematic Process For Working Through Predictive Modeling Problems That Delivers Above Average Results Over time, working on applied machine learning problems you develop a pattern or process for quickly getting to good robust results. Once developed, you can use this process again and again on project after project. The more robust and developed your [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/production-line.jpg"
+        },
+        {
+            "id": 9686,
+            "title": "Why you should be Spot-Checking Algorithms on your Machine Learning Problems",
+            "url": "https://machinelearningmastery.com/why-you-should-be-spot-checking-algorithms-on-your-machine-learning-problems/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-02-07T00:00:00",
+            "description": "Spot-checking algorithms is about getting a quick assessment of a bunch of different algorithms on your machine learning problem so that you know what algorithms to focus on and what to discard. In this post you will discover the 3 benefits of spot-checking algorithms, 5 tips for spot-checking on your next problem and the top [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/Tips-for-Spot-Checking-Algorithms.jpg"
+        },
+        {
+            "id": 9687,
+            "title": "What is the Weka Machine Learning Workbench",
+            "url": "https://machinelearningmastery.com/what-is-the-weka-machine-learning-workbench/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-05T00:00:00",
+            "description": "Machine learning is an iterative process rather than a linear process that requires each step to be revisited as more is learned about the problem under investigation. This iterative process can require using many different tools, programs and scripts for each process. A machine learning workbench is a platform or environment that supports and facilitates [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/weka-explorer.png"
+        },
+        {
+            "id": 9688,
+            "title": "How to get the most from Machine Learning Books and Courses",
+            "url": "https://machinelearningmastery.com/how-to-get-the-most-from-machine-learning-books-and-courses/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-01-31T00:00:00",
+            "description": "There are a lot of machine learning books and courses available and a trend towards free university courses and ebooks. With so much excellent resources available it can feel overwhelming. So much so that it may prevent you from getting started or making progress. In this post I want to share with you my tips [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/How-to-get-the-most-from-Machine-Learning-Books-and-Courses.jpg"
+        },
+        {
+            "id": 9689,
+            "title": "5 Mistakes Programmers Make when Starting in Machine Learning",
+            "url": "https://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-29T00:00:00",
+            "description": "There is no right way to get into machine learning. We all learn slightly different ways and have different objectives of what we want to do with or for machine learning. A common goal is to get productive with machine learning quickly. If that is your goal then this post highlights five common mistakes programmers [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/Mistakes-Programmers-Make-when-Starting-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9690,
+            "title": "6 Practical Books for Beginning Machine Learning",
+            "url": "https://machinelearningmastery.com/6-practical-books-for-beginning-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-01-27T00:00:00",
+            "description": "There are a lot of good books on machine learning, but most people buy the wrong ones. A question I get asked the most is what books should people buy to get stared in machine learning. My answer to beginners is: \u201cdon\u2019t buy textbooks\u201c. In this post I want to point out a few key [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/machine_learning_for_hackers.jpg"
+        },
+        {
+            "id": 9691,
+            "title": "How to Implement a Machine Learning Algorithm",
+            "url": "https://machinelearningmastery.com/how-to-implement-a-machine-learning-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-01-24T00:00:00",
+            "description": "Implementing a machine learning algorithm in code can teach you a lot about the algorithm and how it works. In this post you will learn how to be effective at implementing machine learning algorithms and how to maximize your learning from these projects. Let\u2019s get started. Benefits of Implementing Machine Learning Algorithms You can use [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Learning-Vector-Quantization-Tutorial-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9692,
+            "title": "Applied Machine Learning is a Meritocracy",
+            "url": "https://machinelearningmastery.com/applied-machine-learning-is-a-meritocracy/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-22T00:00:00",
+            "description": "When making a start in a new field it is common to feel overwhelmed. You may lack confidence or feel as though you are not good enough or that you are lacking some prerequisite. You will explore these issues in this post and learn that such feelings can lead to actions that can consume a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/many-paths.jpg"
+        },
+        {
+            "id": 9693,
+            "title": "What if I\u2019m Not a Good Programmer",
+            "url": "https://machinelearningmastery.com/what-if-im-not-a-good-programmer/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-20T00:00:00",
+            "description": "Programming is a part of machine learning, but machine learning is much larger than just programming.\u00a0 In this post you will learn that you do not have to be a programmer to get started in machine learning or find solutions to complex problems. Programming Machine Learning Machine learning algorithms are implemented in code. Programmers like [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/What-if-Im-Not-a-Good-Programmer.jpg"
+        },
+        {
+            "id": 9694,
+            "title": "What if I Don\u2019t Have a Degree",
+            "url": "https://machinelearningmastery.com/what-if-i-dont-have-a-degree/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-16T00:00:00",
+            "description": "I have seen people that think that they need to get a degree in machine learning. I am all for degrees, I just don\u2019t think they are for everyone. I also know that you can get started in machine learning and go far without a degree. In this post I will convince you that you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/What-if-I-Dont-Have-a-Degree.jpg"
+        },
+        {
+            "id": 9695,
+            "title": "What If I Am Not Good At Mathematics",
+            "url": "https://machinelearningmastery.com/what-if-im-not-good-at-mathematics/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-14T00:00:00",
+            "description": "Practitioners of practical subjects can suffer from math envy. This is where they think that mathematicians are smarter than they are and that they cannot excel in a subject until they \u201cknow the math\u201d. I have seen this first hand, and I have seen it stop people from getting started. In this post, I want [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/What-if-Im-Not-Good-at-Mathematics.jpg"
+        },
+        {
+            "id": 9696,
+            "title": "How to Learn a Machine Learning Algorithm",
+            "url": "https://machinelearningmastery.com/how-to-learn-a-machine-learning-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-01-11T00:00:00",
+            "description": "The question of how to learn a machine learning algorithm has come up a few times on the email list. In this post I\u2019ll share with you the strategy I have been using for years to learn and build up a structured description of an algorithm in a step-by-step manner that I can add to, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/Implement-a-Machine-Leaning-Algorithm.jpg"
+        },
+        {
+            "id": 9697,
+            "title": "Hands on Big Data by Peter Norvig",
+            "url": "https://machinelearningmastery.com/hands-on-big-data-by-peter-norvig/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-01-10T00:00:00",
+            "description": "When I\u2019m asked about resources for big data, I typically recommend people watch Peter Norvig\u2019s Big Data tech talk to Facebook Engineering from 2009. It\u2019s fantastic because he\u2019s a great communicator and clearly and presents the deceptively simple thesis of big data in this video. In this blog post I summarize this video for you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-28-at-10.36.00-AM.jpg"
+        },
+        {
+            "id": 9698,
+            "title": "Reproducible Machine Learning Results By Default",
+            "url": "https://machinelearningmastery.com/reproducible-machine-learning-results-by-default/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-01-08T00:00:00",
+            "description": "It is good practice to have reproducible outcomes in software projects. It might even be standard practice by now, I hope it is. You can take any developer off the street and they should be able to follow your process to check out the code base from revision control and make a build of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/Reproducible-Computational-Research.jpg"
+        },
+        {
+            "id": 9699,
+            "title": "What is Data Mining and KDD",
+            "url": "https://machinelearningmastery.com/what-is-data-mining-and-kdd/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-01-06T00:00:00",
+            "description": "I am very interested in processes. I want to know good ways to do things, even the best way to do things if possible. Even if you don\u2019t have skill or deep understanding, process can get you a long way. It can lead the way and skill and deep understanding can follow. At least, I [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/Gold-Mine.jpg"
+        },
+        {
+            "id": 9700,
+            "title": "4 Self-Study Machine Learning Projects",
+            "url": "https://machinelearningmastery.com/self-study-machine-learning-projects/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-01-03T00:00:00",
+            "description": "There are many paths into the field of machine learning and most start with theory. If you are a programmer then you already have the skills to decompose problems into their constituent parts and to prototype small projects in order to learn new technologies, libraries and methods. These are important skills for any professional programmer [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/Study-a-Machine-Learning-Algorithm.jpg"
+        },
+        {
+            "id": 9701,
+            "title": "How to Use Machine Learning Results",
+            "url": "https://machinelearningmastery.com/how-to-use-machine-learning-results/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-01-01T00:00:00",
+            "description": "Once you have found and tuned a viable model of your problem it is time to make use of that model. You may need to revisit your why and remind yourself what form you need a solution for the problem you are solving. The problem is not addressed until you do something with the results. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/01/presentation-of-results.jpg"
+        },
+        {
+            "id": 9702,
+            "title": "How to Identify Outliers in your Data",
+            "url": "https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2013-12-31T00:00:00",
+            "description": "Bojan Miletic asked a question about outlier detection in datasets when working with machine learning algorithms. This post is in answer to his question. If you have a question about machine learning, sign-up to the newsletter and reply to an email or use the contact form and ask, I will answer your question and may [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/outlier.jpg"
+        },
+        {
+            "id": 9703,
+            "title": "How to Improve Machine Learning Results",
+            "url": "https://machinelearningmastery.com/how-to-improve-machine-learning-results/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2013-12-30T00:00:00",
+            "description": "Having one or two algorithms that perform reasonably well on a problem is a good start, but sometimes you may be incentivised to get the best result you can given the time and resources you have available. In this post, you will review methods you can use to squeeze out extra performance and improve the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/ensemble.jpg"
+        },
+        {
+            "id": 9704,
+            "title": "How to Evaluate Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2013-12-27T00:00:00",
+            "description": "Once you have defined your problem and prepared your data you need to apply machine learning algorithms to the data in order to solve your problem. You can spend a lot of time choosing, running and tuning algorithms. You want to make sure you are using your time effectively to get closer to your goal. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/test-harness.jpg"
+        },
+        {
+            "id": 9705,
+            "title": "How to Prepare Data For Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2013-12-25T00:00:00",
+            "description": "Machine learning algorithms learn from data. It is critical that you feed them the right data for the problem you want to solve. Even if you have good data, you need to make sure that it is in a useful scale, format and even that meaningful features are included. In this post you will learn [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/So-much-data.jpg"
+        },
+        {
+            "id": 9706,
+            "title": "How to Define Your Machine Learning Problem",
+            "url": "https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2013-12-23T00:00:00",
+            "description": "The first step in any project is defining your problem. You can use the most powerful and shiniest algorithms available, but the results will be meaningless if you are solving the wrong problem. In this post you will learn the process for thinking deeply about your problem before you get started. This is unarguably the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/question.jpg"
+        },
+        {
+            "id": 9707,
+            "title": "Data, Learning and Modeling",
+            "url": "https://machinelearningmastery.com/data-learning-and-modeling/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2013-12-20T00:00:00",
+            "description": "There are key concepts in machine learning that lay the foundation for understanding the field. In this post, you will learn the nomenclature (standard terms) that is used when describing data and datasets. You will also learn the concepts and terms used to describe learning and modeling from data that will provide a valuable intuition [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/Table-of-Data-Showing-an-Instance-Feature-and-Train-Test-Datasets.png"
+        },
+        {
+            "id": 9708,
+            "title": "Where Does Machine Learning Fit In?",
+            "url": "https://machinelearningmastery.com/where-does-machine-learning-fit-in/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2013-12-18T00:00:00",
+            "description": "Machine Learning is a multidisciplinary field and it can be very confusing when you are getting started to differentiate machine learning from the closely related fields of Artificial Intelligence and Data Mining. In this post you will learn about those fields that are related to machine learning. Specifically, you will learn about the boundaries of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/dice.jpg"
+        },
+        {
+            "id": 9709,
+            "title": "Programmers Should Get Into Machine Learning",
+            "url": "https://machinelearningmastery.com/programmers-should-get-into-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2013-12-16T00:00:00",
+            "description": "Programmers should get involved in the field of machine learning because they are uniquely skilled to make huge contributions. In this post you will learn that as a programmer it can be easy to overlook the skills you have and overvalue those things you don\u2019t know. You will learn about four opportunities for programmers to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/software-development.jpg"
+        },
+        {
+            "id": 9710,
+            "title": "Machine Learning is Popular Right Now",
+            "url": "https://machinelearningmastery.com/machine-learning-is-popular/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2013-12-13T00:00:00",
+            "description": "It is important to know what is special right now to make machine learning an attractive field to study. Knowing why it is popular now can act like a guide together with knowledge of the promise that the field makes. It can highlight open questions and methods which are growth areas and why that may [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/Abundant-Computation.jpg"
+        },
+        {
+            "id": 9711,
+            "title": "Machine Learning is Fascinating",
+            "url": "https://machinelearningmastery.com/machine-learning-is-fascinating/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2013-12-11T00:00:00",
+            "description": "Curiosity is a powerful motivator that you can put to work for you. A need to know more or to understand is a deep-seated human trait that we all have to varying degrees. In this post I want to share with you three aspects of machine learning that drive my curiosity to know more. Like [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2013/12/code.jpg"
+        }
+    ]
+}

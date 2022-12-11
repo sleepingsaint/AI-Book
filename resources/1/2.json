@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14,
+            "title": "Model Hosting Patterns in SageMaker: Best practices in testing and updating models on SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-hosting-patterns-in-sagemaker-best-practices-in-testing-and-updating-models-on-sagemaker/",
+            "authors": "Deepali Rajale, Dhawalkumar Patel, Saurabh Trikande",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. With SageMaker, you can deploy your ML models on hosted endpoints and get inference results in real time. You can easily view the performance metrics for your endpoints in Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/09/best-practices-in-testing-sagemaker.jpg"
+        },
+        {
+            "id": 15,
+            "title": "\u201cID + Selfie\u201d \u2013 Improving digital identity verification using AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+            "authors": "Mike Ames, Noah Donaldson",
+            "tags": "Amazon Rekognition, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity verification. \u00a0The question is, how do you verify real people [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Getting started with deploying real-time models on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
+            "authors": "Raghu Ramesha, Dhawalkumar Patel, Marc Karp, Ram Vegiraju, Saurabh Trikande",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous Inference Batch Transform These four options can be broadly classified into Online [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/getting-started-real-time-sagemaker.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Predict lung cancer survival status using multimodal data on Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predict-lung-cancer-survival-status-using-multimodal-data-on-amazon-sagemaker-jumpstart/",
+            "authors": "Michael Hsieh, Olivia Choudhury, Curt Lockhart",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and is composed of tumors with significant molecular heterogeneity resulting from differences in intrinsic oncogenic signaling pathways [1]. Enabling precision medicine, anticipating patient preferences, detecting disease, and improving care quality for NSCLC patients are important topics among healthcare and life sciences (HCLS) [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/predict-lung-cancer-status-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+            "authors": "Rajakumar Sampathkumar, Rahul Nabera",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Best Practices",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks to minutes. With Data Wrangler, you can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Generate images from text with the stable diffusion model on Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-from-text-with-the-stable-diffusion-model-on-amazon-sagemaker-jumpstart/",
+            "authors": "Vivek Madan, Leonardo Bachega, Santoshkumar Kulkarni",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular ML tasks, as well as a selection of end-to-end solutions that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/generate-images-from-text-with-stable-diffusion.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Run text generation with GPT and Bloom models on Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-text-generation-with-gpt-and-bloom-models-on-amazon-sagemaker-jumpstart/",
+            "authors": "Vivek Madan, Ashish Khetan, Santoshkumar Kulkarni",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular ML tasks, as well as a selection of end-to-end solutions that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/run-text-generation-gpt-bloom.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Deploy BLOOM-176B and OPT-30B on Amazon SageMaker with large model inference Deep Learning Containers and DeepSpeed",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-bloom-176b-and-opt-30b-on-amazon-sagemaker-with-large-model-inference-deep-learning-containers-and-deepspeed/",
+            "authors": "Rupinder Grewal, Alan Tan, Dhawalkumar Patel, Frank Liu, Qing Lan, Qingwei Li, Robert Van Dusen, Siddharth Venkatesan, Simon Zamarin",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "The last few years have seen rapid development in the field of deep learning. Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large deep learning models for applications such as natural language processing (NLP). In an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/deploy-bloom-deepspeed.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Use Github Samples with Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-github-samples-with-amazon-sagemaker-data-wrangler/",
+            "authors": "Isha Dua",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence",
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Amazon SageMaker Data Wrangler is a UI-based data preparation tool that helps perform data analysis, preprocessing, and visualization with features to clean, transform, and prepare data faster. Data Wrangler pre-built flow templates help make data preparation quicker for data scientists and machine learning (ML) practitioners by helping you accelerate and understand best practice patterns for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/github-samples-sagemaker.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
+            "authors": "Vivek Madan, Joao Moura, Ashish Khetan",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised learning. They can process various types of input data, including tabular, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Transfer learning for TensorFlow text classification models in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-text-classification-models-in-amazon-sagemaker/",
+            "authors": "Vivek Madan, Joao Moura, Ashish Khetan",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised learning. They can process various types of input data, including tabular, image, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-text-models-sagemaker.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Intelligent document processing with AWS AI and Analytics services in the insurance industry: Part 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part-2-intelligent-document-processing-with-aws-ai-and-analytics-services-in-the-insurance-industry/",
+            "authors": "Chinmayee Rane, Sonali Sahu, Uday Narayanan",
+            "tags": "Amazon Comprehend, Amazon Comprehend Medical, Amazon Machine Learning, Amazon Textract, Analytics, Artificial Intelligence",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "In Part 1 of this series, we discussed intelligent document processing (IDP), and how IDP can accelerate claims processing use cases in the insurance industry. We discussed how we can use AWS AI services to accurately categorize claims documents along with supporting documents. We also discussed how to extract various types of documents in an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/ML-10191-Featuredimage-1120x630.png"
+        },
+        {
+            "id": 26,
+            "title": "Intelligent document processing with AWS AI services in the insurance industry: Part 1",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
+            "authors": "Chinmayee Rane, Sonali Sahu, Tim Condello",
+            "tags": "Amazon Comprehend, Amazon Comprehend Medical, Amazon Machine Learning, Amazon Textract, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "The goal of intelligent document processing (IDP) is to help your organization make faster and more accurate decisions by applying AI to process your paperwork. This two-part series highlights the AWS AI technologies that insurance companies can use to speed up their business processes. These AI technologies can be used across insurance use cases such [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/07/ML-10224-Featuredimage-1120x630.png"
+        },
+        {
+            "id": 27,
+            "title": "Improving stability and flexibility of ML pipelines at Amazon Packaging Innovation with Amazon SageMaker Pipelines",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improving-stability-and-flexibility-of-ml-pipelines-at-amazon-packaging-innovation-with-amazon-sagemaker-pipelines/",
+            "authors": "Ankur Shukla, Akash Singla, Vitalina Komashko, Prasanth Meiyappan, Matthew Bales",
+            "tags": "Amazon SageMaker, Customer Solutions, Sustainability",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "To delight customers and minimize packaging waste, Amazon must select the optimal packaging type for billions of packages shipped every year. If too little protection is used for a fragile item such as a coffee mug, the item will arrive damaged and Amazon risks their customer\u2019s trust. Using too much protection will result in increased [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/training-1.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Improve data extraction and document processing with Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+            "authors": "Sathya Balakrishnan",
+            "tags": "Advanced (300), Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured data from a variety of document formats into actionable information. Processing unstructured data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/improve-data-extract-textract.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Automated exploratory data analysis and model operationalization framework with a human in the loop",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-exploratory-data-analysis-and-model-operationalization-framework-with-a-human-in-the-loop/",
+            "authors": "Shikhar Kwatra, Sachin Thakkar",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence, AWS Step Functions, Serverless, Technical How-to",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Identifying, collecting, and transforming data is the foundation for machine learning (ML). According to a Forbes survey, there is widespread consensus among ML practitioners that data preparation accounts for approximately 80% of the time spent in developing a viable ML model. In addition, many of our customers face several challenges during the model operationalization phase [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/automated-exploratory-data-analysis.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines",
+            "url": "https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/",
+            "authors": "Pierre de Malliard, Marcelo Aberle, Paavani Dua",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Autopilot",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best custom machine learning (ML) models based on your data. It\u2019s an automated machine learning (AutoML) solution that eliminates the heavy lifting of handwritten ML models that requires ML expertise. Data scientists need to only provide a tabular dataset and select the target column to predict, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
+            "url": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
+            "authors": "Swami Sivasubramanian, Manpreet Mattu",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements in problem-solving. Now, with cloud-enabled democratized availability, technologies like artificial intelligence (AI) and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/startups-across-aws.jpg"
+        },
+        {
+            "id": 32,
+            "title": "Cost efficient ML inference with multi-framework models on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/",
+            "authors": "Dhawalkumar Patel, Vikram Elango, Saurabh Trikande",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Machine learning (ML) has proven to be one of the most successful and widespread applications of technology, affecting a wide range of industries and impacting billions of users every day. With this rapid adoption of ML into every industry, companies are facing challenges in supporting low-latency predictions and with high availability while maximizing resource utilization [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/cost-efficient-ml-inference.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Solve business problems end-to-end through machine learning in Amazon SageMaker JumpStart solutions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/solve-business-problems-end-to-end-through-machine-learning-in-amazon-sagemaker-jumpstart-solutions/",
+            "authors": "Raju Penmatcha, Manan Shah",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker JumpStart",
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML). JumpStart also provides solution templates that set up infrastructure for common use cases, and executable example notebooks for ML with Amazon SageMaker. As a business user, you get to do the following [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/solve-business-problems-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Train gigantic models with near-linear scaling using sharded data parallelism on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-gigantic-models-with-near-linear-scaling-using-sharded-data-parallelism-on-amazon-sagemaker/",
+            "authors": "Emily Webber, Can Karakus, Erin Ho, Rahul Huilgol, Suhit Kodgule",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Expert (400)",
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "In the pursuit of superior accuracy, deep learning models in areas such as natural language processing and computer vision have significantly grown in size in the past few years, frequently counted in tens to hundreds of billions of parameters. Training these gigantic models is challenging and requires complex distribution strategies. Data scientists and machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/31/train-gigantic-shard-sagemaker.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/",
+            "authors": "Gili Nachum, Chaim Rand, Gal Oshri, Hrushikesh Gangur",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing, like image augmentation. When both types of tasks run on the same [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg"
+        },
+        {
+            "id": 36,
+            "title": "Reduce food waste to improve sustainability and financial results in retail with Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast/",
+            "authors": "Josie Cheng, Dan Sinnreich, Ray Wang, Peiyang He, Shanger Lin",
+            "tags": "Amazon Forecast, Artificial Intelligence, Best Practices, Customer Solutions, Intermediate (200), Sustainability",
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "With environmental, social, and governance (ESG) initiatives becoming more important for companies, our customer, one of Greater China region\u2019s top convenience store chains, has been seeking a solution to reduce food waste (currently over $3.5 million USD per year). Doing so will allow them to not only realize substantial operating savings, but also support corporate [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/reduce-food-waste-forecast.jpg"
+        },
+        {
+            "id": 37,
+            "title": "Amazon SageMaker Automatic Model Tuning now supports grid search",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-grid-search/",
+            "authors": "Doug Mbaya",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Today Amazon SageMaker announced the support of Grid search for automatic model tuning, providing users with an additional strategy to find the best hyperparameter configuration for your model. Amazon SageMaker automatic model tuning finds the best version of a model by running many training jobs on your dataset using a range of hyperparameters that you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/automatic-model-tuning-grid-search.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Introducing the Amazon SageMaker Serverless Inference Benchmarking Toolkit",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-serverless-inference-benchmarking-toolkit/",
+            "authors": "Simon Zamarin, Dhawalkumar Patel, Rishabh Ray Chaudhury",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Amazon SageMaker Serverless Inference is a purpose-built inference option that makes it easy for you to deploy and scale machine learning (ML) models. It provides a pay-per-use model, which is ideal for services where endpoint invocations are infrequent and unpredictable. Unlike a real-time hosting endpoint, which is backed by a long-running instance, compute resources for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/sagemaker-serverless-inference-benchmarking.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+            "authors": "Dan Fox, Newton Jain, Josh Kahn, Diksha Sharma, Veda Raman",
+            "tags": "AWS Lambda, Technical How-to",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take corrective actions, such as retraining models, auditing upstream systems, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/deploy-machine-learning-inference-lambda.jpg"
+        },
+        {
+            "id": 40,
+            "title": "AWS Celebrates 5 Years of Innovation with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-celebrates-5-years-of-innovation-with-amazon-sagemaker/",
+            "authors": "Ankur Mehrotra",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of parameters, and generate hundreds of billions of monthly predictions. The seeds of a machine learning (ML) paradigm shift were there for decades, but with the ready availability of virtually infinite compute capacity, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/5-years-of-innovation-sagemaker.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Configure DTMF slots and ordered retry prompts with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/configure-dtmf-slots-and-ordered-retry-prompts-with-amazon-lex/",
+            "authors": "Thomas Rindfuss",
+            "tags": "Amazon Lex, Artificial Intelligence, Foundational (100)",
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "This post walks you through a few new features that make it simple to design a conversational flow entirely within Amazon Lex that adheres to best practices for IVR design related to retry prompting. We also cover how to configure a DTMF-only prompt as well as other attributes like timeouts and barge-in. When designing an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/configure-dtmf-slots-lex.jpg"
+        },
+        {
+            "id": 42,
+            "title": "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
+            "authors": "Dhawalkumar Patel, Kshitiz Gupta, Deepti Ragha, Vikram Elango, Jiahong Liu, Maximiliano Maccanti, Nikhil Kulkarni, Saurabh Trikande",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing (NLP), computer vision, speech recognition, medical research, cybersecurity, protein structure prediction, and many others. For [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg"
+        },
+        {
+            "id": 43,
+            "title": "Detect patterns in text data with Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-patterns-in-text-data-with-amazon-sagemaker-data-wrangler/",
+            "authors": "Vishaal Kapoor, Ajai Sharma, Derek Baron, Zohar Karnin",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-10-24T00:00:00",
+            "description": "In this post, we introduce a new analysis in the Data Quality and Insights Report of Amazon SageMaker Data Wrangler. This analysis assists you in validating textual features for correctness and uncovering invalid rows for repair or omission. Data Wrangler reduces the time it takes to aggregate and prepare data for machine learning (ML) from [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/detect-patterns-text-data-data-wrangler.jpg"
+        }
+    ]
+}

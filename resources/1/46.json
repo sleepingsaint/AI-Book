@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1334,
+            "title": "Build a model to predict the impact of weather on urban air quality using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-to-predict-the-impact-of-weather-on-urban-air-quality-using-amazon-sagemaker/",
+            "authors": "Jonathan Taws, Conor Delaney",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-16T00:00:00",
+            "description": "Air pollution in cities can be an acute problem leading to damaging effects on people, animals, plants and property. It is an important topic which is getting increased attention as the human population of cities continues to increase. This year it was the subject the 2018 KDD Cup, the annual data mining and knowledge discovery [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/14/urban-air-quality-6-756x630.gif"
+        },
+        {
+            "id": 1335,
+            "title": "TINT uses Amazon Comprehend to find and aggregate the best social media content for customers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tint-uses-amazon-comprehend-to-find-and-aggregate-the-best-social-media-content-for-customers/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "TINT is a simple, DIY platform that helps brands find, curate, and display their most effective customer-generated content from social media on marketing channels such as websites, mobile apps, and event displays. Businesses can link their Twitter, YouTube, Pinterest, Instagram, Facebook, and RSS feeds to their TINT accounts The social media aggregator uses machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/15/tint-1-1.gif"
+        },
+        {
+            "id": 1336,
+            "title": "Aella Credit empowers underbanked individuals by using Amazon Rekognition for identity verification",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aella-credit-empowers-underbanked-individuals-by-using-amazon-rekognition-for-identity-verification/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "Aella Credit is a financial services company based in West Africa that provides instant loans to individuals with a verifiable source of income in emerging markets by using biometric and employer data. For those in emerging markets, identity verification and validation is one of the major challenges for people who don\u2019t have easy access to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/08/aella-credit-3.gif"
+        },
+        {
+            "id": 1337,
+            "title": "Deploy a TensorFlow trained image classification model to AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-tensorflow-trained-image-classification-model-to-aws-deeplens/",
+            "authors": "Tatsuya Arai, Eddie Calleja, Jyothi Nookula",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "We are very excited to announce that you can deploy your computer vision model trained using TensorFlow (version 1.4) to AWS DeepLens. Head pose detection is part of the AWS DeepLens sample projects. In this blog post, we will show you how to train a model from scratch using a P2 training instance of Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/13/tensorflow-trained-deeplens-1.jpg"
+        },
+        {
+            "id": 1338,
+            "title": "Build an automatic alert system to easily moderate content at scale with Amazon Rekognition Video",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-alert-system-to-easily-moderate-content-at-scale-with-amazon-rekognition-video/",
+            "authors": "Suman Koduri",
+            "tags": "Amazon Rekognition Video, Artificial Intelligence",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "There has been a steep increase in people creating videos, spending time watching videos, and sharing videos. Most of the videos created today are user-generated content, but publishing this raw content comes with risk. To help ensure a positive website experience for customers by removing inappropriate or unwanted content, companies need a scalable content moderation [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/26/automated-alerts-rekognition-1-1000.gif"
+        },
+        {
+            "id": 1339,
+            "title": "Announcing the Artificial Intelligence (AI) Hackathon: Build Intelligent Applications using machine learning APIs and serverless",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-artificial-intelligence-ai-hackathon-build-intelligent-applications-using-machine-learning-apis-and-serverless/",
+            "authors": "Cameron Peron",
+            "tags": "Amazon Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "Amazon Web Services (AWS) brings image and video analysis, natural language processing, speech recognition, text-to-speech, and machine translation within the reach of every developer. With machine learning (ML) services by AWS, you can plug in prebuilt AI functionality into your apps without having to worry about ML models. Thousands of developers have used Amazon ML [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/15/ai-hackathon.gif"
+        },
+        {
+            "id": 1340,
+            "title": "Securing all Amazon SageMaker API calls with AWS PrivateLink",
+            "url": "https://aws.amazon.com/blogs/machine-learning/securing-all-amazon-sagemaker-api-calls-with-aws-privatelink/",
+            "authors": "Urvashi Chowdhary",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-14T00:00:00",
+            "description": "All Amazon SageMaker API operations are now fully supported via AWS PrivateLink, which increases the security of data shared with cloud-based applications by reducing data exposure to the internet. In this blog, I show you how to set up a VPC endpoint to secure your Amazon SageMaker API calls using AWS PrivateLink. AWS PrivateLink traffic [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/14/securing-sagemaker-privatelink-2.gif"
+        },
+        {
+            "id": 1341,
+            "title": "Amazon Translate now available in the Memsource translation management system",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-available-in-the-memsource-translation-management-system/",
+            "authors": "Andrea Tabacchi",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-08-14T00:00:00",
+            "description": "Memsource is always looking out for exciting new integrations that enhance its cutting-edge translation solutions. With machine translation (MT) continuing to be a hot topic in the localization industry, Memsource is focusing on integrating with innovative MT engines that meet customers\u2019 growing MT needs.\r\n\r\nIn particular, Memsource strives to offer neural machine translation (NMT) engines, such as Amazon Translate. NMT is proving to be a highly influential technology. The quality of NMT output continues to improve, making it a powerful productivity tool and therefore more in demand. Amazon Translate, with its deep learning methods, has started to make its mark in the translation and localization industry. It\u2019s become a priority to add it to Memsource\u2019s range of MT engines. It is also a natural fit for existing AWS customers.\r\n\r\nAnother draw is that the engine aligns with Memsource\u2019s enterprise focus, particularly B2C. Amazon Translate is built on Amazon\u2019s expertise in consumer products and communication, and the localization problems they have solved using machine translation.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/13/memsource-1-986x630.gif"
+        },
+        {
+            "id": 1342,
+            "title": "Curalate makes social sell with AI using Apache MXNet on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/curalate-makes-social-sell-with-ai-using-apache-mxnet-on-aws/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2018-08-13T00:00:00",
+            "description": "Curalate helps brands convert social influence into sales. The Philadelphia-based startup makes it easy for digital-savvy consumers to make associations between products they see on social channels and where they can buy the very same products. Previously, consumers had to hunt through online catalogs on their own to find a specific product from a social [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/08/curalate-1.jpg"
+        },
+        {
+            "id": 1343,
+            "title": "Create video subtitles with translation using machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/",
+            "authors": "Rob Dachowski",
+            "tags": "Amazon Polly, Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-08-10T00:00:00",
+            "description": "Businesses from around the globe require fast and reliable ways to transcribe an audio or video file, and often in multiple languages. \u00a0This audio and video content can range from a news broadcast, call center phone interactions, a job interview, a product demonstration, or even court proceedings. \u00a0The traditional process for transcription is both expensive [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/10/subtitle-social.png"
+        },
+        {
+            "id": 1344,
+            "title": "Marinus Analytics fights human trafficking using Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/marinus-analytics-fights-human-trafficking-using-amazon-rekognition/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-08-09T00:00:00",
+            "description": "Marinus Analytics is a woman-owned company, founded in 2014, that builds AI tools that turn big data into actionable intelligence. They are dedicated to using artificial intelligence, such as the facial recognition features available in Amazon Rekognition, to help find human trafficking victims and reunite them with their families. \u201cWe believe that artificial intelligence shouldn\u2019t [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/07/marinus-analytics-visual.jpg"
+        },
+        {
+            "id": 1345,
+            "title": "Amazon Lex integration with Genesys PureCloud IVR now available",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-integration-with-genesys-purecloud-ivr-now-available/",
+            "authors": "Harshal Pimpalkhute",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-08-09T00:00:00",
+            "description": "We are excited to announce the general availability of the Amazon Lex and Genesys PureCloud integrated interactive voice response (IVR) solution. First launched in preview at re:Invent 2017, the solution allows Genesys customers to integrate Amazon Lex chatbots into the PureCloud \u00a0IVR flows to provide an enhanced conversational experience. About Genesys PureCloud The Genesys PureCloud\u00a0platform [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/08/lex-genesys-1.gif"
+        },
+        {
+            "id": 1346,
+            "title": "Amazon Rekognition is now available in the Asia Pacific (Seoul) and Asia Pacific (Mumbai) Regions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-is-now-available-in-the-asia-pacific-seoul-and-asia-pacific-mumbai-regions/",
+            "authors": "Venkatesh Bagaria, Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-08-08T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Amazon Rekognition is now available in the Asia Pacific (Seoul) and Asia Pacific (Mumbai) AWS Regions. Amazon Rekognition is a deep learning-based image and video analysis service that can identify objects, people, text, scenes, and activities, as well as detect [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/07/Rekognition-social.png"
+        },
+        {
+            "id": 1347,
+            "title": "Announcing the Amazon SageMaker MXNet 1.2 container",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-sagemaker-mxnet-1-2-container/",
+            "authors": "David Arpin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-06T00:00:00",
+            "description": "The Amazon SageMaker pre-built MXNet container now uses the latest\u00a0release of Apache MXNet 1.2.\u00a0 Amazon SageMaker is a fully-managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale.\u00a0 And the pre-built MXNet container makes it easy to write your deep learning scripts naturally [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1348,
+            "title": "Twilio offers greater voice selection to customers with Amazon Polly integration",
+            "url": "https://aws.amazon.com/blogs/machine-learning/twilio-offers-greater-voice-selection-to-customers-with-amazon-polly-integration/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-08-06T00:00:00",
+            "description": "By providing a scalable cloud platform for building communications experiences, Twilio enables developers and businesses to build any customer engagement into their applications using simple and powerful APIs for voice, messaging, and video. Businesses like Morgan Stanley, Marks & Spencer, Netflix, Lyft, Airbnb, and more than 50,000 others are modernizing the way they communicate with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1349,
+            "title": "Thorn collaborates with Amazon Rekognition to help fight child sexual abuse and trafficking",
+            "url": "https://aws.amazon.com/blogs/machine-learning/thorn-partners-with-amazon-rekognition-to-help-fight-child-sexual-abuse-and-trafficking/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-08-03T00:00:00",
+            "description": "Thorn is a non-profit organization dedicated to stopping the spread of child sexual abuse material and standing up to child traffickers. Thorn\u2019s tools have been used to identify 5,894 child sex trafficking victims and rescue 103 children where their sexual abuse was recorded and distributed. Using AWS services such as Amazon Rekognition, Thorn has seen [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/04/thorn.jpg"
+        },
+        {
+            "id": 1350,
+            "title": "Bring your own pre-trained MXNet or TensorFlow models into Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-pre-trained-mxnet-or-tensorflow-models-into-amazon-sagemaker/",
+            "authors": "Ragav Venkatesan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-03T00:00:00",
+            "description": "Not only does Amazon\u00a0SageMaker\u00a0 provide\u00a0easy scalability and distribution to train and host ML models, it is modularized so that the process of training a model is decoupled from deploying the model. This means that models that are trained outside of Amazon SageMaker can be brought into SageMaker only to be deployed. This is very useful [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/08/02/pre-trained-models-sagemaker-1.gif"
+        },
+        {
+            "id": 1351,
+            "title": "Use Amazon Mechanical Turk with Amazon SageMaker for supervised learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-mechanical-turk-with-amazon-sagemaker-for-supervised-learning/",
+            "authors": "Dave Schultz",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-08-02T00:00:00",
+            "description": "Supervised learning needs labels, or annotations, that tell the algorithm what the right answers are in the training phases of your project. In fact, many of the examples of using MXNet, TensorFlow, and PyTorch start with annotated data sets you can use to explore the various features of those frameworks. Unfortunately, when you move from [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/31/mturk-sagemaker-1-social.jpg"
+        },
+        {
+            "id": 1352,
+            "title": "Amazon Polly adds bilingual Indian English/Hindi language support",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-adds-bilingual-indian-english-hindi-language-support/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-08-02T00:00:00",
+            "description": "Amazon Polly is an AWS service that turns text into lifelike speech. We\u2019re excited to announce new Hindi language support and the release of our first bilingual voice. Aditi is a female voice that speaks Hindi and Indian English fluently. Let\u2019s hear Aditi introduce herself in both Indian English and Hindi. Listen to the Hindi [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/31/polly-hindi.jpg"
+        },
+        {
+            "id": 1353,
+            "title": "Build a document search bot using Amazon Lex and Amazon OpenSearch Service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-document-search-bot-using-amazon-lex-and-amazon-elasticsearch-service/",
+            "authors": "Akash Jain, Rahul Kulkarni",
+            "tags": "Amazon Lex, Amazon OpenSearch Service, Artificial Intelligence",
+            "publishedOn": "2018-08-01T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. People spend a lot of time searching documents. First you go to your document store and then you search for relevant documents. If you\u2019re looking for a text inside the document, then you need to do another search. In this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/26/document-search-bot-3-2.gif"
+        },
+        {
+            "id": 1354,
+            "title": "Transfer learning for custom labels using a TensorFlow container and \u201cbring your own algorithm\u201d in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-custom-labels-using-a-tensorflow-container-and-bring-your-own-algorithm-in-amazon-sagemaker/",
+            "authors": "Amit Sharma",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-27T00:00:00",
+            "description": "Data scientists and developers can use the Amazon SageMaker fully managed machine learning service to build and train machine learning (ML) models, and then directly deploy them into a production-ready hosted environment. In this blog post we\u2019ll show you \u00a0how to use Amazon SageMaker to do transfer learning using a TensorFlow container with our own [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1355,
+            "title": "Thoughts On Machine Learning Accuracy",
+            "url": "https://aws.amazon.com/blogs/machine-learning/thoughts-on-machine-learning-accuracy/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-07-27T00:00:00",
+            "description": "This blog shares some brief thoughts on machine learning accuracy and bias. Let\u2019s start with some comments about a recent ACLU blog in which they ran a facial recognition trial. Using Rekognition, the ACLU built a face database using 25,000 publicly available arrest photos and then performed facial similarity searches on that database using public [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1356,
+            "title": "AWS Deep Learning AMIs now include ONNX, enabling model portability across deep learning frameworks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-include-onnx-enabling-model-portability-across-deep-learning-frameworks/",
+            "authors": "Anirudh Acharya, Hagay Lupesko",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-07-26T00:00:00",
+            "description": "The AWS Deep Learning AMIs\u00a0(DLAMI) for\u00a0Ubuntu and Amazon Linux\u00a0are now pre-installed and fully configured with Open Neural Network Exchange (ONNX), enabling model portability across deep learning frameworks. In this blog post we\u2019ll introduce ONNX, and demonstrate how ONNX can be used on the DLAMI to port models across frameworks. What is ONNX? ONNX\u00a0is an open [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1357,
+            "title": "The AWS DeepLens Inclusivity Challenge submission period extended to 8/19",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deeplens-inclusivity-challenge-submission-period-extended-to-8-19/",
+            "authors": "Sally Revell",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-07-24T00:00:00",
+            "description": "We announced the AWS DeepLens Inclusivity Challenge two weeks ago, and how time has flown! In this first challenge, we invite you to create an AWS DeepLens project that fosters inclusion for people of all abilities and helps individuals overcome barriers associated with special needs. For each project that meets the participation criteria, we will [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/24/deep-lens-1.jpg"
+        },
+        {
+            "id": 1358,
+            "title": "AWS Deep Learning AMIs now with optimized TensorFlow 1.9 and Apache MXNet 1.2 with Keras 2 support to accelerate deep learning on Amazon EC2 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-with-optimized-tensorflow-1-9-and-apache-mxnet-1-2-with-keras-2-support-to-accelerate-deep-learning-on-amazon-ec2-instances/",
+            "authors": "Sumit Thakur",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-07-23T00:00:00",
+            "description": "The AWS Deep Learning AMIs for Ubuntu and Amazon Linux now come with an optimized build of TensorFlow 1.9 custom-built directly from source and fine-tuned for high performance training across Amazon EC2 instances. In addition, the AMIs come with the latest Apache MXNet 1.2 with several performance and usability improvements, the new Keras 2-MXNet backend [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1359,
+            "title": "Scalable multi-node deep learning training using GPUs in the AWS Cloud",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scalable-multi-node-deep-learning-training-using-gpus-in-the-aws-cloud/",
+            "authors": "Amr Ragab, Chetan Kapoor, Rahul Huilgol, Jarvis Lee, Tyler Mullenbach, Yong Wu",
+            "tags": "Amazon EC2, Amazon Machine Learning, Artificial Intelligence, Compute",
+            "publishedOn": "2018-07-20T00:00:00",
+            "description": "A key barrier to the wider adoption of deep neural networks on industrial-size datasets is the time and resources required to train them. AlexNet, which won the 2012 ImageNet Large Scale Visual Recognition Competition (ILSVRC) and kicked off the current boom in deep neural networks, took nearly a week to train across the 1.2-million-image, 1000-category [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/20/scalable-multi-node-2.gif"
+        },
+        {
+            "id": 1360,
+            "title": "Classify your own images using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/classify-your-own-images-using-amazon-sagemaker/",
+            "authors": "Samir Araujo",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-07-20T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that supports all of the steps of a ML model's development: data exploration and building, training, and deploying ML models. With Amazon SageMaker, you can pick and use any of the built-in algorithms, reducing the time to market and the development cost. ",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/04/ImagesSageMaker3.png"
+        },
+        {
+            "id": 1361,
+            "title": "Call an Amazon SageMaker model endpoint using Amazon API Gateway and AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/",
+            "authors": "Rumi Olsen",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-19T00:00:00",
+            "description": "April 2021 \u2013 This post has been updated to ensure the solution walkthrough reflects the changes made to relevant AWS services and notebooks. At AWS Machine Learning (ML) workshops, customers often ask, \u201cAfter I deploy an endpoint, where do I go from there?\u201d You can deploy an Amazon SageMaker trained and validated ML model as [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/18/sagemaker-endpoint-14.gif"
+        },
+        {
+            "id": 1362,
+            "title": "Amazon Comprehend now supports Syntax Analysis",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-syntax-analysis/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-07-18T00:00:00",
+            "description": "We\u2019re excited to announce that Amazon Comprehend now provides a Syntax API. \u00a0This enables you to tokenize text (for example, to extract word boundaries) and the corresponding part of speech (PoS) for each word. Today, Amazon Comprehend enables analysis use cases like such as knowing whether a customer comment is negative or positive, and identifying [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/27/social-comprehend.jpg"
+        },
+        {
+            "id": 1363,
+            "title": "Create a model for predicting orthopedic pathology using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-model-for-predicting-orthopedic-pathology-using-amazon-sagemaker/",
+            "authors": "Sunaina Rajani",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-17T00:00:00",
+            "description": "Artificial intelligence (AI) and machine learning (ML) are gaining momentum in the healthcare industry, especially in healthcare imaging. The Amazon SageMaker approach to ML presents promising potential in the healthcare field. ML is considered a horizontal enabling layer applicable across industries. Within healthcare, this can serve analogous to a radiology or lab report as a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/17/ortho-social.jpg"
+        }
+    ]
+}

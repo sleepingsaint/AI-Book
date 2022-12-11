@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3264,
+            "title": "Getting Started with Data Analysis using Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/getting-started-with-data-analysis-using-power-bi/",
+            "authors": "Sonia Singla",
+            "tags": "Data Visualization, Power BI",
+            "publishedOn": "2021-11-21T00:00:00",
+            "description": "Power BI makes it simple to connect to your data sources, visualize what matters, and share it with anyone you want. Learn how to do it with article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/Power-BI-DAX.jpg"
+        },
+        {
+            "id": 3265,
+            "title": "Using Data Visualization to Explore the Human Space Race!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/exploratory-data-analysis-of-the-human-space-race/",
+            "authors": "Prateek Majumder",
+            "tags": "Data Exploration, Data Visualization, Intermediate",
+            "publishedOn": "2021-11-21T00:00:00",
+            "description": "Take a deep dive in space race, with exploratory data analysis and visualization of all the human spaceflight since 1957.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/traffic_world_map_data_visualization_python.png"
+        },
+        {
+            "id": 3266,
+            "title": "Polish Up your ML model!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/polish-up-your-ml-model/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Machine Learning, Python, Regression, Structured Data, Technique",
+            "publishedOn": "2021-11-20T00:00:00",
+            "description": "In this article, we will be discussing various ways through which we can polish-up or fine-tune our machine learning model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/74584polishup.jpg"
+        },
+        {
+            "id": 3267,
+            "title": "Top 7 Cross-Validation Techniques with Python Code",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/top-7-cross-validation-techniques-with-python-code/",
+            "authors": "Abhishek Hazra",
+            "tags": "Beginner, Classification, Machine Learning, Pandas, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-11-19T00:00:00",
+            "description": "Learn in-depth about the different techniques of cross validation and how to implement them in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/interpretable_machine_learning.jpg"
+        },
+        {
+            "id": 3268,
+            "title": "Here\u2019s How to use Sankey Diagrams for Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/visualize-data-using-sankey-diagram/",
+            "authors": "Sreedevi Gattu",
+            "tags": "Data Exploration, Data Visualization, Intermediate, Libraries, Python, Technique",
+            "publishedOn": "2021-11-18T00:00:00",
+            "description": "Sankey diagram are used to depict the flow from one entity to another. Learn how to use plot Sankey diagram with Plotly in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 3269,
+            "title": "A Quick Tutorial on Clustering for Data Science Professionals",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/quick-tutorial-clustering-data-science/",
+            "authors": "Karan Pradhan",
+            "tags": "Algorithm, Beginner, Clustering, Machine Learning, Python, Technique, Unsupervised, Use Cases",
+            "publishedOn": "2021-11-18T00:00:00",
+            "description": "Learn about the different applications of clustering like image segmentation, data processing, and how to implement k means clustering algorithm in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/k_means_clustering.jpg"
+        },
+        {
+            "id": 3270,
+            "title": "How to Deploy Machine Learning(ML) Model on Android",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/how-to-deploy-machine-learningml-model-on-android/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Guide, Machine Learning, Model Deployment",
+            "publishedOn": "2021-11-17T00:00:00",
+            "description": "In this article, we will learn how can you deploy any Machine learning problem statement into an Android by creating an application",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/55626ML-on-Android-feature-img.png"
+        },
+        {
+            "id": 3271,
+            "title": "An Introduction to Chatbot Development using RASA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/an-introduction-to-chatbot-development-using-rasa/",
+            "authors": "Basil Saji",
+            "tags": "Advanced, chatbot, NLP, Python",
+            "publishedOn": "2021-11-17T00:00:00",
+            "description": "RASA easily create highly accurate chatbots and can easily integrate these chatbots with our website, telegram, Facebook, Whatsapp, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/rasa_chatbot.png"
+        },
+        {
+            "id": 3272,
+            "title": "Analytics Vidhya Presents INTERN-A-THON: Your First Step to Enter the Data Science World",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/analytics-vidhya-presents-intern-a-thon-your-first-step-to-enter-the-data-science-world/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Announcement, Interview Questions, Job Roles",
+            "publishedOn": "2021-11-16T00:00:00",
+            "description": "\"INTERN-A-THON\" is India's largest Data Science Internship Event, where every data science enthusiast can showcase their skills and get a job",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/feature1-1.png"
+        },
+        {
+            "id": 3273,
+            "title": "Build Face Recognition Attendance System using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/build-face-recognition-attendance-system-using-python/",
+            "authors": "Thetechwriters",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-11-16T00:00:00",
+            "description": "In this article, Learn in detail how to build a face recognition attendance system with OpenCV and dlib library in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Face-Recognition-app.jpg"
+        },
+        {
+            "id": 3274,
+            "title": "NLP \u2013 Tags, Frequencies, Unique Terms, n-grams",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/nlp-tags-frequencies-unique-terms-n-grams/",
+            "authors": "Binai Rai",
+            "tags": "Advanced, NLP, Python, Text",
+            "publishedOn": "2021-11-16T00:00:00",
+            "description": "NLP is a game-changer in the world of artificial intelligence. Learn about text processing, n-gram analysis, etc., in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/44589nlp.png"
+        },
+        {
+            "id": 3275,
+            "title": "Analytics Vidhya Presents JOB-A-THON \u2013 Your Chance to Enter the Post-Pandemic Data Science World",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/analytics-vidhya-presents-job-a-thon-your-chance-to-enter-the-post-pandemic-data-science-world/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Announcement, Interview Questions, Job Roles",
+            "publishedOn": "2021-11-15T00:00:00",
+            "description": "\"JOB-A-THON\" is India's largest Data Science Hackathon, where every data science enthusiasts can showcase their skills and get a job",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/JOBATHON1.jpg"
+        },
+        {
+            "id": 3276,
+            "title": "The Fundamentals of Exploratory Data Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/fundamentals-of-exploratory-data-analysis/",
+            "authors": "Swapnil Vishwakarma",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python",
+            "publishedOn": "2021-11-15T00:00:00",
+            "description": "Exploratory data analysis is an indispensable tool for finding patterns, anomalies, and information from the data. Learn how to perform EDA",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/13213Eda-with-Visualization-feature-img.png"
+        },
+        {
+            "id": 3277,
+            "title": "Neural Network For Classification with Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-classification-with-tensorflow/",
+            "authors": "Aytan Hajiyeva",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2021-11-13T00:00:00",
+            "description": "In this article, we are going to build neural network models with TensorFlow to solve a classification problem with efficiency and ease",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/deep-learning-framework-icon.png"
+        },
+        {
+            "id": 3278,
+            "title": "Optimizing Pokemon Team using Python\u2019s PuLP Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/optimizing-pokemon-team-using-pythons-pulp-library/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Guide, Machine Learning, Python",
+            "publishedOn": "2021-11-12T00:00:00",
+            "description": "This article is a walkthrough to perform optimization on Pokemon data using PuLp, the linear programming and optimization library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Start-Using-The-timeit-Library-in-Python1.png"
+        },
+        {
+            "id": 3279,
+            "title": "A Guide to Automated Deep/Machine Learning for Natural Language Processing: Text Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-guide-to-automated-deep-machine-learning-for-natural-language-processing-text-prediction/",
+            "authors": "Rendyk",
+            "tags": "Advanced, Deep Learning, Guide, Machine Learning, NLP, Programming, Python",
+            "publishedOn": "2021-11-12T00:00:00",
+            "description": "This article starts with fundamentals of Natural Language Processing (NLP) and later demonstrates using Automated Deep Learning/ AutoML",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Keyword-Extraction-using-TextRank-and-textaCy.jpg"
+        },
+        {
+            "id": 3280,
+            "title": "A Tool for Investor \u2013 The Art of Web Scraping",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-tool-for-investor-the-art-of-web-scraping/",
+            "authors": "Aryan Bajaj",
+            "tags": "Advanced, Beginner, Data Mining, Python",
+            "publishedOn": "2021-11-11T00:00:00",
+            "description": "Learn the art of web scraping to automate the collection of data from BSE/NSE websites and use them to make judicious investments.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Pneumonia-Detection-using-CNN.jpg"
+        },
+        {
+            "id": 3281,
+            "title": "How To Use Python To Analyse Fitness Tracker Market: Step By Step EDA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/how-to-use-python-to-analyse-fitness-tracker-market-step-by-step-eda/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python",
+            "publishedOn": "2021-11-10T00:00:00",
+            "description": "In this article, we are going to perform Exploratory Data Analysis on a dataset to analyse fitness tracker market and know more",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/11858healthcare2.png"
+        },
+        {
+            "id": 3282,
+            "title": "Study of Regularization Techniques of Linear Models and Its Roles",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/study-of-regularization-techniques-of-linear-model-and-its-roles/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner, Linear Regression, Python, Regression",
+            "publishedOn": "2021-11-10T00:00:00",
+            "description": "Learn about the different types of regularization techniques and their implementation in Python to reduce error and improve model prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/A-look-into-Regularized-Greedy-Forest.jpg"
+        },
+        {
+            "id": 3283,
+            "title": "Neural Network for Regression with Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/",
+            "authors": "Aytan Hajiyeva",
+            "tags": "Advanced, Deep Learning, Libraries, Python, Regression",
+            "publishedOn": "2021-11-09T00:00:00",
+            "description": "This article was published as a part of the\u00a0Data Science Blogathon In this article, I am going to build multiple neural network models to solve a regression problem. Before we start working on the model, I would like to give a brief overview of what we will touch on and what steps we will follow. [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/type_of_neural_networks.png"
+        },
+        {
+            "id": 3284,
+            "title": "Autocorrect Feature using NLP in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/autocorrect-feature-using-nlp-in-python/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-11-08T00:00:00",
+            "description": "Let\u2019s understand how these autocorrect features work. In this article, we are going to take you through \"How to build Autocorrect using nlp",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/94326Top-10-NLP-Startups-to-Lookout-for-in-2021.jpg"
+        },
+        {
+            "id": 3285,
+            "title": "A Comprehensive guide to Linear Regression with Perceptron in PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-comprehensive-guide-to-linear-regression-with-pytorch/",
+            "authors": "Gargeya Sharma",
+            "tags": "Advanced, Deep Learning, Linear Regression, Python, PyTorch",
+            "publishedOn": "2021-11-08T00:00:00",
+            "description": "Get a thorough conceptual understanding of Linear Regression and implement them with Neural Networks by building perceptron in PyTorch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/33.png"
+        },
+        {
+            "id": 3286,
+            "title": "Getting started with Microsoft Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/getting-started-with-microsoft-power-bi/",
+            "authors": "Carol_n",
+            "tags": "Beginner, Data Visualization, Power BI",
+            "publishedOn": "2021-11-06T00:00:00",
+            "description": "Microsoft Power BI is a cloud-based business analytics service that provides interactive visualizations and BI capabilities.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/32939homephoto2.png"
+        },
+        {
+            "id": 3287,
+            "title": "A Simple Guide to Pandas Dataframe Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-simple-guide-to-pandas-dataframe-operations/",
+            "authors": "Thetechwriters",
+            "tags": "Beginner, Pandas, Programming, Python",
+            "publishedOn": "2021-11-06T00:00:00",
+            "description": "This article serves as a simple Guide to Pandas Dataframe Operations in Python that all data scientists should be familiar with",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/40248PandasGUI.png"
+        },
+        {
+            "id": 3288,
+            "title": "An Introduction to Automated Multi-Class Text Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/introduction-to-automated-multi-class-text-classification/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Automl, Beginner, Classification, Libraries, Python, Text",
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "Learn about Automated Multi-Class Text Classification with AutoVIML snd Build a classifier with Amazon Personal Care Appliances dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Multi-label-Text-Classification.jpg"
+        },
+        {
+            "id": 3289,
+            "title": "Building an Infinite Timer using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/building-an-infinite-timer-using-python/",
+            "authors": "Atulya Khatri",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "Build an Infinite Timer in Python to remind you of your routine tasks, with speech recognition, Pyttsx3 , Plyer, and Time module.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/76389time-series-forecasting-feature-img.png"
+        },
+        {
+            "id": 3290,
+            "title": "Visualize data using Parallel Coordinates Plot",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/visualize-data-using-parallel-coordinates-plot/",
+            "authors": "Sreedevi Gattu",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "Learn to visualize high dimensional numerical data with Parallel Coordinates Plot using Plotly and Pandas for effective visualization",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Visualize-a-Single-Value-Against-Others-in-Tableau.jpg"
+        },
+        {
+            "id": 3291,
+            "title": "Introduction to Aggregation Functions in Apache Spark",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/introduction-to-aggregation-functions-in-apache-spark/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Beginner, Data Engineering, Python, Spark",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "This article is a proper Introduction to Aggregation Functions in Apache Spark. Let's calculate mean, varaince, SD, skewness and kurtosis",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/99189download.png"
+        },
+        {
+            "id": 3292,
+            "title": "How sklearn\u2019s Tfidfvectorizer Calculates tf-idf Values",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/how-sklearns-tfidfvectorizer-calculates-tf-idf-values/",
+            "authors": "Unnikrishnan C S",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "In NLP, tf-idf is an important measure and is used by algorithms like cosine similarity to find documents that are similar to a given search",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/41583scott-graham-5fNmWej4tAA-unsplash1.jpg"
+        },
+        {
+            "id": 3293,
+            "title": "Training Neural Network with Keras and basics of Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/training-neural-network-with-keras-and-basics-of-deep-learning/",
+            "authors": "Pranshu Sharma",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "Understand neural network with Keras. Keras is a Python library having an API for working with neural networks & deep learning frameworks",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/53764First-Keras-Model-Feature-img.png"
+        }
+    ]
+}

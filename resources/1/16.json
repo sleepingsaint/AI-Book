@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 434,
+            "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
+            "authors": "Daniel Pendlebury, Nathanael Weldon, Derrick Choo, David Motamed, Eden Duthie, Jiyang Kang, Muhyun Kim, Sujoy Roy, Simon Johnston",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Case Study, Customer Solutions",
+            "publishedOn": "2021-11-09T00:00:00",
+            "description": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019\u20132020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property, infrastructure, social, and environmental costs. With increasingly extreme [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/ML5275-image009.jpg"
+        },
+        {
+            "id": 435,
+            "title": "Bring your own data to classify news with Amazon SageMaker and Hugging Face",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/",
+            "authors": "Antonio Rodriguez",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-11-09T00:00:00",
+            "description": "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures such as transformers are making this evolution possible. Looking at text classification in particular, a supervised [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
+        },
+        {
+            "id": 436,
+            "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
+            "authors": "Winston Nwanne, Raju Penmatcha",
+            "tags": "Amazon Rekognition, Artificial Intelligence, Industries, Power & Utilities",
+            "publishedOn": "2021-11-08T00:00:00",
+            "description": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue to resolve. Normally, the standard wooden distribution pole is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg"
+        },
+        {
+            "id": 437,
+            "title": "Use AutoGluon-Tabular in AWS Marketplace",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+            "authors": "Yohei Nakayama, Tatsuya Arai, Austin Welch",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Artificial Intelligence, AWS Marketplace",
+            "publishedOn": "2021-11-08T00:00:00",
+            "description": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this process to train and deploy a highly [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 438,
+            "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
+            "authors": "James Poquiz",
+            "tags": "Amazon Comprehend, Amazon Kendra, Amazon Textract",
+            "publishedOn": "2021-11-08T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they\u2019re looking for, even when it\u2019s scattered across multiple locations and content repositories within your organization. With Amazon Kendra, you can stop searching [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 439,
+            "title": "Run AlphaFold v2.0 on Amazon EC2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+            "authors": "Qi Wang",
+            "tags": "Amazon EC2, AWS Deep Learning AMIs, Life Sciences, Technical How-to",
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind\u2019s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you can quickly get AlphaFold running and try it out yourself. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML_5671_feature.png"
+        },
+        {
+            "id": 440,
+            "title": "Intelligently split multi-form document packages with Amazon Textract and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/intelligently-split-multi-form-document-packages-with-amazon-textract-and-amazon-comprehend/",
+            "authors": "Aditi Rajnish, Raj Pathak",
+            "tags": "Amazon Comprehend, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Many organizations spanning different sizes and industry verticals still rely on large volumes of documents to run their day-to-day operations. To solve this business challenge, customers are using intelligent document processing services from AWS such as Amazon Textract and Amazon Comprehend to help with extraction and process automation. Before you can extract text, key-value pairs, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-4118-image001-1193x630.png"
+        },
+        {
+            "id": 441,
+            "title": "Process and add additional file formats to your Amazon Kendra Index",
+            "url": "https://aws.amazon.com/blogs/machine-learning/process-and-add-additional-file-formats-to-your-amazon-kendra-index/",
+            "authors": "Gaurav Rele, Sia Gholami",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Amazon ML Solutions Lab, Artificial Intelligence",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "If you have a corpus of internal documents that you frequently search through, Amazon Kendra can help you find your content faster and easier. These documents can be in different locations and repositories, and can be structured or unstructured. Amazon Kendra is a fully managed service backed by machine learning (ML). You don\u2019t need to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-4922-image001.jpg"
+        },
+        {
+            "id": 442,
+            "title": "Automate model retraining with Amazon SageMaker Pipelines when drift is detected",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
+            "authors": "Julian Bright, Alessandro Cer\u00e8, Georgios Schinas, Theiss Heilker",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also be affected by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg"
+        },
+        {
+            "id": 443,
+            "title": "Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/host-rstudio-connect-and-package-manager-for-ml-development-in-rstudio-on-amazon-sagemaker/",
+            "authors": "Michael Hsieh, Farooq Sabir, Chayan Panda",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Today, we announced RStudio on Amazon SageMaker, the first machine learning (ML) integrated development environment (IDE) in the cloud for data scientists working in R. The open-source language R and its rich ecosystem with more than 18,000 packages has been a top choice for statisticians, quant analysts, data scientists, and ML engineers. RStudio on SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5364-image001-657x630.png"
+        },
+        {
+            "id": 444,
+            "title": "Get started with RStudio on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-rstudio-on-amazon-sagemaker/",
+            "authors": "Michael Hsieh, Sam Liu",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Today, we\u2019re excited to announce RStudio on Amazon SageMaker, the industry\u2019s first fully-managed RStudio integrated development environment (IDE) in the cloud. You can now bring the current RStudio licenses and migrate your self-managed RStudio environments to Amazon SageMaker in a few simple steps. RStudio is one of the most popular IDEs among R developers for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-5807-image001.jpg"
+        },
+        {
+            "id": 445,
+            "title": "Automated claims processing at Xactware with machine learning on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+            "authors": "Aaron Brunko, Emmanuel Salawu, Hussain Karimi, Daniel Horowitz, Shane Rai",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Amazon SageMaker JumpStart, Case Study, Customer Solutions",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events such as hurricanes, tornados, and wildfires, to theft and vandalism, claim [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png"
+        },
+        {
+            "id": 446,
+            "title": "Build a shelf monitoring application using AWS Panorama",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-shelf-monitoring-application-using-aws-panorama/",
+            "authors": "Amit Mukherjee, Laith Al-Saadoon, Sourabh Agnihotri",
+            "tags": "Artificial Intelligence, AWS Panorama",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "Out-of-stock (OOS) is an essential metric tracked across the retail industry. Brick-and-mortar retailers seek to reduce their costs associated with OOS items, while simultaneously increasing shopper satisfaction without inventory surplus. A product can be OOS in three main ways: Distribution OOS, Store OOS, and Shelf OOS. This post focuses on Shelf OOS. Shelf OOS occurs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-2364-image003-1260x548.png"
+        },
+        {
+            "id": 447,
+            "title": "Deliver natural and efficient customer service experiences to mobile subscribers with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deliver-natural-and-efficient-customer-service-experiences-to-mobile-subscribers-with-amazon-lex/",
+            "authors": "Jaya Prakash Kommu, Sandeep Srinivasan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Mobile service providers manage a high volume of customer service calls daily. Rapidly evolving network technology and device innovations are shaping customer expectations. Delighting callers with a quick interaction is core to a successful customer experience strategy. Mobile subscribers contact customer support for several reasons such as requesting a new SIM card, changing a plan, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Ext_Blog_Mobile_services_image001-737x630.png"
+        },
+        {
+            "id": 448,
+            "title": "Build conversational experiences for retail order management using Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
+            "authors": "Jaya Prakash Kommu, Sandeep Srinivasan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers\u2019 customer support for reasons such as checking order status, updating shipping preferences, redeeming loyalty points, managing refunds, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Lex-Retail-image001-961x630.png"
+        },
+        {
+            "id": 449,
+            "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
+            "authors": "Anjan Biswas",
+            "tags": "Amazon Cognito, Amazon Fraud Detector, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying the profile behavior and transaction history of a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-featured-1260x630.png"
+        },
+        {
+            "id": 450,
+            "title": "Automate the customer service experience for flight reservations using Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-the-customer-service-experience-for-flight-reservations-using-amazon-lex/",
+            "authors": "Jaya Prakash Kommu, Sandeep Srinivasan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "As air travel starts to pick up in many parts of the world, digitization continues to transform the aviation industry. Airlines are working to reduce the number of touchpoints at the airport. Best practices have been implemented to minimize the number of physical interactions between employees and travelers. As a result, customer service is undergoing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098B-Arch.jpg"
+        },
+        {
+            "id": 451,
+            "title": "Build conversational experiences for auto insurance using Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-auto-insurance-using-amazon-lex/",
+            "authors": "Sandeep Srinivasan, Harish Lanka",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Auto insurance companies are focusing on digital innovations to meet customer needs. Digital-first engagements provide tailored coverage, transparent information, and seamless experiences. The shift to virtual channels for customer service that occurred during the pandemic is unlikely to revert to traditional channels for many customers. The change in consumer behavior continues to accelerate due to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/1-6098-Architecture.jpg"
+        },
+        {
+            "id": 452,
+            "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+            "authors": "Gergely Kadi, Martin Petraschek-Stummer",
+            "tags": "Amazon EventBridge, Amazon Machine Learning, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English. As the company grew, we saw an opportunity to expand our [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-2804-IMG1.png"
+        },
+        {
+            "id": 453,
+            "title": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
+            "authors": "Mohammad Alauddin, Md Kamal Hossain, Fabian Tan",
+            "tags": "Amazon SageMaker, Case Study, Customer Solutions",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru Group. iProperty.com.my offers a search experience that enables property seekers to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png"
+        },
+        {
+            "id": 454,
+            "title": "Enhance your machine learning development by using a modular architecture with Amazon SageMaker projects",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhance-your-machine-learning-development-by-using-a-modular-architecture-with-amazon-sagemaker-projects/",
+            "authors": "Yevgeniy Ilyin",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "One of the main challenges in a machine learning (ML) project implementation is the variety and high number of development artifacts and tools used. This includes code in notebooks, modules for data processing and transformation, environment configuration, inference pipeline, and orchestration code. In production workloads, the ML model created within your development framework is almost [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML6147-image002-whitebackground-1260x401.png"
+        },
+        {
+            "id": 455,
+            "title": "Onboard OneLogin SSO users to Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/onboard-onelogin-sso-users-to-amazon-sagemaker-studio/",
+            "authors": "Sam Palani, Sunil Ramachandra",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that provides every machine learning (ML) developer and data scientist the ability to build, train, and deploy ML models at scale. Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for ML. Amazon SageMaker Studio provides all the tools you need to take your models from experimentation [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/24/ML3071-image001-1260x559.png"
+        },
+        {
+            "id": 456,
+            "title": "Optimize your budget and time by submitting Amazon Polly voice synthesis tasks in bulk",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimize-your-budget-and-time-by-submitting-amazon-polly-voice-synthesis-tasks-in-bulk/",
+            "authors": "Jon Peterson, Prateek Jain",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "Amazon Polly is a service that turns text into natural-sounding speech, using dozens of voices in more than 30 languages. You can use it for all sorts of applications, ranging from talking animated avatars, to lifelike virtual agents that answer customer support requests, to automated newscasters reading stories aloud. You can have Amazon Polly return [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/6160-Architecture.jpg"
+        },
+        {
+            "id": 457,
+            "title": "Build Custom SageMaker Project Templates \u2013 Best Practices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-sagemaker-project-templates-best-practices/",
+            "authors": "Kirit Thadaka, Durga Sury",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "SageMaker Projects give organizations the ability to easily setup and standardize developer environments for data scientists and CI/CD systems for MLOps Engineers. With SageMaker Projects, MLOps engineers or organization admins can define templates which bootstrap the ML Workflow with source version control, automated ML Pipelines, and a set of code to quickly start iterating over [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/ML-5456-triggeringpipeline-1260x532.png"
+        },
+        {
+            "id": 458,
+            "title": "Train models faster with an automated data profiler for Amazon Fraud Detector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
+            "authors": "Hao Zhou, Anqi Cheng",
+            "tags": "Amazon Fraud Detector, Artificial Intelligence",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Amazon Fraud Detector uses machine learning (ML) under the hood and is based on over 20 years of fraud detection expertise from Amazon. It automatically identifies [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 459,
+            "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+            "authors": "Bobby Lindsey, Mohan Pasappulatti, Mark Roy",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature store by enabling feature reuse, you need to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png"
+        },
+        {
+            "id": 460,
+            "title": "Detect industrial defects at low latency with computer vision at the edge with Amazon SageMaker Edge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-industrial-defects-at-low-latency-with-computer-vision-at-the-edge-with-amazon-sagemaker-edge/",
+            "authors": "David Lichtenwalter, Samir Araujo, Hasan Poonawala",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "Defect detection in manufacturing can benefit from machine learning (ML) and computer vision (CV) to reduce operational costs, improve time to market, and increase productivity, quality, and safety. According to McKinsey, the \u201cbenefits of defect detection and other Industry 4.0 applications are estimated to create a potential value of $3.7 trillion in 2025 for manufacturers [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/20/ML-4887-image09-new-1073x630.png"
+        },
+        {
+            "id": 461,
+            "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
+            "authors": "Bruno Klein",
+            "tags": "Amazon SageMaker, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Service Catalog, Technical How-to",
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel and eventually merge their experiment back into the main [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image003.png"
+        },
+        {
+            "id": 462,
+            "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
+            "authors": "Sanjiv Das, Bodhisatta Saha, Daniel Zhu, Derrick Zhang",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools, including example notebooks, text models, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 463,
+            "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
+            "authors": "Sayon Saha, Hasan Poonawala",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other objects. Identity verification systems for the financial services industry train CV models to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png"
+        }
+    ]
+}

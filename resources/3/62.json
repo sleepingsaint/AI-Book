@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3804,
+            "title": "Support Vector Machine and Principal Component Analysis Tutorial for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/svm-and-pca-tutorial-for-beginners/",
+            "authors": "Hardikkumar Dhaduk",
+            "tags": "Beginner, Classification, Machine Learning, Python",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "In this article, we are presenting two concepts of machine learning i.e SVM and PCA with theoretical explanation and python implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg"
+        },
+        {
+            "id": 3805,
+            "title": "Colour Quantization Using K-Means Clustering and OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/colour-quantization-using-k-means-clustering-and-opencv/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Clustering, Computer Vision, Image, Intermediate, Project, Python",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "Here we will perform colour quantization using k-means clustering. It is the method of lessening the abundance of different colors in an image",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg"
+        },
+        {
+            "id": 3806,
+            "title": "Build Sketches from Photographs using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/build-sketches-from-photographs-using-opencv/",
+            "authors": "JYOTHI P",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Programming, Python, Regression, Technique, Unsupervised",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this project, we will learn to convert an photo into a sketch, using the OpenCV library in Python. This is an important application of CV",
+            "thumbnail": "https://editor.analyticsvidhya.com/uploads/82476hibiscus.jpg"
+        },
+        {
+            "id": 3807,
+            "title": "Topic Modelling With LDA -A Hands-on Introduction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/topic-modelling-with-lda-a-hands-on-introduction/",
+            "authors": "Mimi Dutta",
+            "tags": "Advanced, Clustering, NLP, Project, Python, Text, Topic Modeling",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "LDA is one of the ways to implement Topic Modelling. It is clustering a collection of documents based on the topics they cover.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/2868507623a1e07ae153046bc387e0136a65f.image001-min.png"
+        },
+        {
+            "id": 3808,
+            "title": "The Measure of Central Tendencies in Statistics -A Beginner\u2019s Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/the-measure-of-central-tendencies-in-statistics-a-beginners-guide/",
+            "authors": "Shrish Mohadarkar",
+            "tags": "Beginner, Data Science, Statistics",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this article we will see a fundamental concept of statistics i.e central tendency. we will also see some measure of central tendencies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/12080659/statistics.png"
+        },
+        {
+            "id": 3809,
+            "title": "Building a Classification Model and Making predictions Using Google Automl and Bigquery",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/building-a-classification-model-and-making-predictions-using-google-automl-and-bigquery/",
+            "authors": "Ashams Mathew",
+            "tags": "Advanced, Automl, Classification, Cloud Computing, Data Science, Project, Python",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "Here, we are going to develop a classification model. The model will be trained using Google automl and we will use bigquery for predictions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Google-Cloud-AutoML.jpg"
+        },
+        {
+            "id": 3810,
+            "title": "How to treat outliers in a data set?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-treat-outliers-in-a-data-set/",
+            "authors": "Snehal_bm",
+            "tags": "Beginner, Data Exploration, Machine Learning, Project, Python, Structured Data, Technique",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "Outlier treatment is one of the most important steps while cleaning data. In this article, we will see how to treat outliers in data science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/outlier.png"
+        },
+        {
+            "id": 3811,
+            "title": "Indexing in Natural Language Processing for Information Retrieval",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/indexing-in-natural-language-processing-for-information-retrieval/",
+            "authors": "Nilanjan Sengupta",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this article, we understand indexing in Natural Language Processing for Information retrieval in with implementation in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/39035download.png"
+        },
+        {
+            "id": 3812,
+            "title": "Building a Hand Tracking System using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/building-a-hand-tracking-system-using-opencv/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python, Unstructured Data",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "This article is a guide to Building a Hand Tracking System using OpenCV. Let's understand this with implementation in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/handpose.png"
+        },
+        {
+            "id": 3813,
+            "title": "Getting Started With Snowflake Data Platform",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-snowflake-data-platform/",
+            "authors": "Deepti J",
+            "tags": "Advanced, Data Engineering, Project, Python",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this tutorial, you will see an overview of Snowflake, its architecture, and how to create a database, schema, and tables inside Snowflake.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/752162021-07-08_00h42_50.png"
+        },
+        {
+            "id": 3814,
+            "title": "AutoML using Pycaret with a Regression Use-Case",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/automl-using-pycaret-with-a-regression-use-case/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Automl, Beginner, Libraries, Machine Learning, Project, Python, Regression",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this article, we will be working with a Regression problem, and you will see how easy it becomes to code using Pycaret with AutoML.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/PyCaret-.jpg"
+        },
+        {
+            "id": 3815,
+            "title": "Data Visualization \u2013 A Useful tool to Explore Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/data-visualization-a-useful-tool-to-explore-data/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "Using data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data and derive insights",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/data-visualization-whiz.png"
+        },
+        {
+            "id": 3816,
+            "title": "15 Python Built-in Functions which You Should Know while learning Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/15-python-built-in-functions-which-you-should-know-while-learning-data-science/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In this article, we will be discussing some of the most useful and important built-in Python Functions that data scientists should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/77010python.jpg"
+        },
+        {
+            "id": 3817,
+            "title": "Working with Modules in Python: Must Known Fundamentals for Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/working-with-modules-in-python-must-known-fundamentals-for-data-scientists/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Project",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "In Python, Modules are simply files with the \u201c.py\u201d extension containing Python code that can be imported inside another Python Program.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/63566moduled.png"
+        },
+        {
+            "id": 3818,
+            "title": "How to choose an appropriate Machine Learning Algorithm for Data Science Projects?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-choose-an-appropriate-ml-algorithm-data-science-projects/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Data Science, Machine Learning",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "In this article, we will explain the steps of how to choose an appropriate ml algorithm for developing an excellent Data Science Project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/76079algm.jpg"
+        },
+        {
+            "id": 3819,
+            "title": "Shipping your Machine Learning Models With Dockers",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/shipping-your-machine-learning-models-with-dockers/",
+            "authors": "Mimi Dutta",
+            "tags": "Advanced, Data Engineering, Docker, Machine Learning, Model Deployment",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "Docker is a platform that deals with building, running,distributing applications with containers. Dockers csn be used to distribute ML models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/89641docker_intro1.jpg"
+        },
+        {
+            "id": 3820,
+            "title": "AI VS ML VS DL-Let\u2019s Understand The Difference",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/ai-vs-ml-vs-dl-lets-understand-the-difference/",
+            "authors": "Chockz21",
+            "tags": "Artificial Intelligence, Beginner, Data Science, Deep Learning, Machine Learning",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "This \u0430rti\u0441le tries t\u043e ex\u0440l\u0430in the AI vs ML VS DL , by defining them \u0430nd ex\u0440l\u0430ining the v\u0430ri\u043eus sub\u0441\u0430teg\u043eries within e\u0430\u0441h t\u043e\u0440i\u0441",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/FI1.jpg"
+        },
+        {
+            "id": 3821,
+            "title": "Deep Convolutional Generative Adversarial Network (DCGAN) for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/deep-convolutional-generative-adversarial-network-dcgan-for-beginners/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Project, Python",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "DCGAN uses convolutional and convolutional-transpose layers in the generator and discriminator, respectively for image data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/98573Example-of-100-GAN-Generated-CIFAR-10-Small-Object-Photographs-1024x768-1.png"
+        },
+        {
+            "id": 3822,
+            "title": "Different types of Bias that arise during Data Handling",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/different-types-of-bias-that-arise-during-data-handling/",
+            "authors": "K HITHEESH RAJ",
+            "tags": "Advanced, Beginner, Machine Learning",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "Bias is a vast term and it could be present during the data collection, set of rules or algorithms, or even at the ML output interpretation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/96716human.jpg"
+        },
+        {
+            "id": 3823,
+            "title": "A beginner\u2019s Guide to Database: Part 1",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-beginners-guide-to-database-part-1/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Beginner, Data Engineering, Database",
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "Database is a collection of well-organized related records incoherent manner. These records are stored in the form of a table.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56615dbms.jpg"
+        },
+        {
+            "id": 3824,
+            "title": "Facial Landmark Detection Simplified With Opencv",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/facial-landmark-detection-simplified-with-opencv/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Image, Project, Python",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "In this article we are going to perform facial landmark detection using opencv and mediapipe. We will detect 468 face landmarks in an image.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/31127mesh_index_front.jpg"
+        },
+        {
+            "id": 3825,
+            "title": "A Brief Introduction to the Concept of Data Warehouse",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-brief-introduction-to-data-warehouse/",
+            "authors": "Neelu Tiwari",
+            "tags": "Advanced, Cloud Computing, Data Engineering, Data Warehouse, python",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "A Data Warehouse is a collection of tools to facilitates analysis of large set of business data and to help an organization to make decisions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 3826,
+            "title": "Learn How To Do Real-Time Background Replacement using OpenCV and CVzone",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/learn-how-to-do-real-time-background-replacement-using-opencv-and-cvzone/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Image, Project, Python",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "Here, we will use the real-time background replacement technique to substitute the backgrounds and add replace them with the desired content.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg"
+        },
+        {
+            "id": 3827,
+            "title": "All Fundamentals of Python Functions that You Should Know \u2013 A Quick Brush Up!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/all-fundamentals-of-python-functions-that-you-should-know-a-quick-brush-up/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "In this article, you\u2019ll learn about Python\u00a0functions and their applications while we writing the python programs in an optimized manner.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/50297functions.jpg"
+        },
+        {
+            "id": 3828,
+            "title": "Everything You Should Know about Iterables and Iterators in Python as a Data Scientist!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/everything-you-should-know-about-iterables-and-iterators-in-python-as-a-data-scientist/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "The term Iteration not comes alone but comes up with two other terms that pertain to iteration. They are iterators and iterables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/12374python.jpg"
+        },
+        {
+            "id": 3829,
+            "title": "Start Learning SVM (Support Vector Machine) Algorithm Here!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/svm-support-vector-machine-algorithm/",
+            "authors": "Harika Bonthu",
+            "tags": "Algorithm, Beginner, Classification, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "In this article, we will learn the working of the Support Vector Machine algorithm (SVM) and the implementation of SVM by taking an example",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Support-Vector-Regression.gif"
+        },
+        {
+            "id": 3830,
+            "title": "Understanding Taming Transformers for High-Resolution Image Synthesis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/understanding-taming-transformers-for-high-resolution-image-synthesis-vqgan/",
+            "authors": "Tanishq Gautam",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis",
+            "publishedOn": "2021-07-05T00:00:00",
+            "description": "In this article, we will be Understanding Taming Transformers for High-Resolution Image Synthesis using VQGAN and VQ-VAE approaches",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pytorch-transformers.jpg"
+        },
+        {
+            "id": 3831,
+            "title": "PyTorch 1.9 \u2013 Towards Distributed Training and Scientific Computing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/pytorch-1-9-towards-distributed-training-and-scientific-computing/",
+            "authors": "Tanishq Gautam",
+            "tags": "Advanced, Deep Learning, Libraries, Python, PyTorch",
+            "publishedOn": "2021-07-02T00:00:00",
+            "description": "So what does the newest release of PyTorch, i.e, 1.9 have to offer? Let's explore the new offerings by Facebook's PyTorch 1.9",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/PyTorch-768x432.png"
+        },
+        {
+            "id": 3832,
+            "title": "An Ultimate Guide to Opencv-Learning Libraries 1.0",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/an-ultimate-guide-to-opencv-learning-libraries-1-0/",
+            "authors": "Saakshi Malhotra",
+            "tags": "Beginner, Image, Libraries, Programming, Python",
+            "publishedOn": "2021-07-01T00:00:00",
+            "description": "In this blog, we will explained some basic functions of OpenCV Library to get started with learning and using this library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/85757Learning-Libraries.png"
+        },
+        {
+            "id": 3833,
+            "title": "Perform Logistic Regression with PyTorch Seamlessly",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/perform-logistic-regression-with-pytorch-seamlessly/",
+            "authors": "Shri Varsheni R",
+            "tags": "Beginner, Libraries, Machine Learning, Project, Python, PyTorch, Regression",
+            "publishedOn": "2021-07-01T00:00:00",
+            "description": "In this article, we will talk about Logistic Regression in Pytorch. Logistic Regression is one of the most important classification algorithms",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        }
+    ]
+}

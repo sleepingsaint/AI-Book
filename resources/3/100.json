@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4944,
+            "title": "Data Engineering for Beginners \u2013 Partitioning vs Bucketing in Apache Hive",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-partitioning-vs-bucketing-in-apache-hive/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Data Engineering, Hadoop, Technique",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "Partitioning and bucketing in Hive are storage techniques to get faster results for the search queries. Learn about bucketing vs partitioning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Partitioning-vs-Bucketing-in-Apache-Hive.jpg"
+        },
+        {
+            "id": 4945,
+            "title": "Deep Unsupervised Learning in Energy Sector \u2013 Autoencoders in Action",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/deep-unsupervised-learning-in-energy-sector-autoencoders-in-action/",
+            "authors": "PATTABHIRAMAN SRINIVASAN",
+            "tags": "Advanced, Autoencoder, Deep Learning, Python, Unsupervised",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "Autoencoder is a type of unsupervised learning method used to compress the original dataset and then reconstruct it from the compressed data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/featured_image-1.jpg"
+        },
+        {
+            "id": 4946,
+            "title": "Introduction to Spark MLlib for Big Data and Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/introduction-to-spark-mllib-for-big-data-and-machine-learning/",
+            "authors": "MankayarKarasi Chandrasekaran",
+            "tags": "Beginner, Classification, Data Engineering, Spark",
+            "publishedOn": "2020-11-11T00:00:00",
+            "description": "With the demand for big data and machine learning, Spark MLlib is required if you are dealing with big data and machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/67681SPMLLibH1.png"
+        },
+        {
+            "id": 4947,
+            "title": "Baseline for Policy Gradients that All Deep Learning Enthusists Must Know",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/baseline-for-policy-gradients/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Deep Learning, Maths, Reinforcement Learning",
+            "publishedOn": "2020-11-11T00:00:00",
+            "description": "Baseline is a function when added to an expectation, does not change the expected value but, it significantly affects the variance",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/1kSw-njRsFwVlqbTElIX8oQ-scaled.jpeg"
+        },
+        {
+            "id": 4948,
+            "title": "A Guide to Data Types in MySQL for Data Science Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/guide-data-types-mysql-data-science-beginners/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, SQL, Technique",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "Data types in MySQL are divided into 3 broad categories. We will cover various mysql data types in detail to give you a clear sense of them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/A-Guide-to-Data-Types-in-MySQL-for-Beginners-in-Data-Science.jpg"
+        },
+        {
+            "id": 4949,
+            "title": "Text Mining Simplified \u2013 IPL 2020 Tweet Analysis with R",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/text-mining-simplified-ipl-2020-tweet-analysis-with-r/",
+            "authors": "Samprita Das",
+            "tags": "Advanced, NLP, Sports, Technique, Text, Unsupervised, Use Cases",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "Text Mining is the process of transforming unstructured text data into meaningful information. Analyze IPL 2020 tweets to learn text mining.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/79320Cricket-e1426153649896-1-1.jpg"
+        },
+        {
+            "id": 4950,
+            "title": "Demystifying Model Interpretation using ELI5",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/demystifying-model-interpretation-using-eli5/",
+            "authors": "Priyanka Meena",
+            "tags": "Classification, Intermediate, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "ELI5 is a python package that is used to inspect ML classifiers and explain their predictions. It is popularly used to debug algorithms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/69618photo-1588600878108-578307a3cc9d.jpeg"
+        },
+        {
+            "id": 4951,
+            "title": "Generate Carnatic Music with Google Magenta",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/generate-carnatic-music-with-google-magenta/",
+            "authors": "Prasad TVSNV",
+            "tags": "Advanced, Deep Learning, Project, Python, Sequence Modeling, Technique",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "In this article, we attempt to generate Carnatic Music using Google Magenta.It has a simple yet powerful way to generate Note sequence music.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/nepalbuzz-scaled.jpg"
+        },
+        {
+            "id": 4952,
+            "title": "Data Engineering for Beginners \u2013 Difference Between OLTP and OLAP",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/oltp-vs-olap/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Big data, Data Engineering",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "OLTP and OLAP are 2 data processing capabilities that every big data engineer must know. Lets find the difference between OLTP and OLAP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-%E2%80%93-Difference-Between-OLTP-and-OLAP.jpg"
+        },
+        {
+            "id": 4953,
+            "title": "Binary Cross Entropy aka Log Loss-The cost function used in Logistic Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/binary-cross-entropy-aka-log-loss-the-cost-function-used-in-logistic-regression/",
+            "authors": "Megha Setia",
+            "tags": "Algorithm, Classification, Intermediate, Maths, Statistics",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "Log loss is a logistic regression cost function and a classification metric based on probabilities. We cover the math behind the log loss",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/14790Webp.net-resizeimage-1.jpg"
+        },
+        {
+            "id": 4954,
+            "title": "Create a Pipeline to Perform Sentiment Analysis using NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/create-a-pipeline-to-perform-sentiment-analysis-using-nlp/",
+            "authors": "Vaibhav Haswani",
+            "tags": "Advanced, Maths, NLP",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "Sentiment Analysis is a supervised Machine Learning technique that is used to analyze and predict the polarity of sentiments within a text",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/42876Webp.net-resizeimage.jpg"
+        },
+        {
+            "id": 4955,
+            "title": "Entropy \u2013 A Key Concept for All Data Science Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/entropy-a-key-concept-for-all-data-science-beginners/",
+            "authors": "Neha Seth",
+            "tags": "Algorithm, Beginner, Machine Learning, Maths, Python, Structured Data, Supervised",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "Entropy is one of the key aspects of ML. It is a guide to entropy in ML for beginners who want to make a mark in Machine Learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/60066pic1.png"
+        },
+        {
+            "id": 4956,
+            "title": "Create Your Own Movie Movie Recommendation System",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/",
+            "authors": "Soham Das",
+            "tags": "Advanced, Machine Learning, Python, Recommendation, Structured Data, Technique",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "Build a movie recommendation system, such that when the user searches for a movie we will recommend the top 10 similar movies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/75825featured2.png"
+        },
+        {
+            "id": 4957,
+            "title": "Computer Vision: A Key Concept to Solve Many Problems Related to Image Data",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/computer-vision-a-key-concept-to-solve-many-problems-related-to-image-data/",
+            "authors": "Likhitha Kakanuru",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Structured Data",
+            "publishedOn": "2020-11-08T00:00:00",
+            "description": "Computer vision has been used widely in various sectors. We will learn about the detailed structure of computer vision pipeline",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/22781Untitled-design-3.png"
+        },
+        {
+            "id": 4958,
+            "title": "An Efficient way of performing EDA- Hypothesis Generation",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/",
+            "authors": "Sarthak Arora",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data, Structured Thinking, Technique",
+            "publishedOn": "2020-11-08T00:00:00",
+            "description": "Hypothesis generation is an educated \u201cguess\u201d of various factors that are impacting the business problem that needs to be solved using ML",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/53428Cover.jpg"
+        },
+        {
+            "id": 4959,
+            "title": "Writing a CSV File with Scala and Using it to Create a Machine Learning Model",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/writing-a-csv-file-with-scala-and-using-it-to-create-a-machine-learning-model/",
+            "authors": "Saanya Lasod",
+            "tags": "Intermediate, Machine Learning, Programming, Project, Python, Structured Data, Technique",
+            "publishedOn": "2020-11-08T00:00:00",
+            "description": "In this project, we will see how to write a CSV file using Scala, which we will then use to create a basic fruit detection ML model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ebook_machine_learning_starter_program.jpg"
+        },
+        {
+            "id": 4960,
+            "title": "How to Download, Install and Use Nvidia GPU for Training Deep Neural Networks by TensorFlow on Windows Seamlessly",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/how-to-download-install-and-use-nvidia-gpu-for-tensorflow-on-windows/",
+            "authors": "Satya M",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2020-11-08T00:00:00",
+            "description": "In this article, we will see how to Download, Install and use Nvidia GPU for tensorflow on windows seamlessly. We also understand GPUs in DL",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/gpu-dl-1.jpg"
+        },
+        {
+            "id": 4961,
+            "title": "Handling Imbalanced Data \u2013 Machine Learning, Computer Vision and NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/",
+            "authors": "Nandhini Nallamuthu",
+            "tags": "Computer Vision, Intermediate, Machine Learning, NLP, Python",
+            "publishedOn": "2020-11-07T00:00:00",
+            "description": "This article discusses methods to handle imbalanced data. Learn how to handle imbalance data in machine learning, computer vision, and NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/How-to-treat-Class-Imbalance-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 4962,
+            "title": "A Short Intuitive Explanation of Convolutional Recurrent Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/a-short-intuitive-explanation-of-convolutional-recurrent-neural-networks/",
+            "authors": "Sorana",
+            "tags": "Advanced, Algorithm, Computer Vision, Deep Learning",
+            "publishedOn": "2020-11-07T00:00:00",
+            "description": "In this article, we discussed shortly what are Convolutional Neural Networks. Discover how CNN work, how they analyze and extract features",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/46345intuition_title_image.jpg"
+        },
+        {
+            "id": 4963,
+            "title": "Big Data to Small Data \u2013 Welcome to the World of Reservoir Sampling",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/big-data-to-small-data-welcome-to-the-world-of-reservoir-sampling/",
+            "authors": "Sreenath S",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2020-11-07T00:00:00",
+            "description": "Reservoir sampling is defined as to create a reservoir from a big ocean of data. Understand the concept of reservoir sampling",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/math_machine_learning.jpg.jpg"
+        },
+        {
+            "id": 4964,
+            "title": "Data Engineering for Beginners \u2013 Get Acquainted with the Spark Architecture",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-get-acquainted-with-the-spark-architecture/",
+            "authors": "Siddharth Sonkar",
+            "tags": "Beginner, Data Engineering, Spark",
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Apache Spark is a unified computing engine. Learn about the architecture of apache spark in detail in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-Get-Acquainted-with-the-Spark-Architecture.png"
+        },
+        {
+            "id": 4965,
+            "title": "Hyperparameter Tuning using Optuna",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/",
+            "authors": "Sreenath S",
+            "tags": "Clustering, Intermediate, Machine Learning, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Optuna is a software framework for automating the optimization process of hyperparameter tuning. Lets understand how to use it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Alternative-Hyperparameter-Optimization-Techniques-You-Need-to-Know.jpg"
+        },
+        {
+            "id": 4966,
+            "title": "Summarize Twitter Live data using Pretrained NLP models",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/summarize-twitter-live-data-using-pretrained-nlp-models/",
+            "authors": "Manmohan24nov",
+            "tags": "Advanced, NLP, Python, Social Media, Technique, Text, Unstructured Data, Unsupervised",
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Understand how you can leverage Natural Language Processing (NLP) pre-trained models to summarize live twitter data based on hashtags.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/twitter-mute-filter.png"
+        },
+        {
+            "id": 4967,
+            "title": "RDDs vs. Dataframes vs. Datasets \u2013 What is the Difference and Why Should Data Engineers Care?",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/what-is-the-difference-between-rdds-dataframes-and-datasets/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Data Engineering, Spark",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "Apache spark continues to be the first choice for the data engineers. Understand the difference between RDDs, Dataframes and Datasets in spark",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/RDDs-Dataframes-and-Datasets.jpg"
+        },
+        {
+            "id": 4968,
+            "title": "Lasso Regression causes sparsity while Ridge Regression doesn\u2019t! \u2013 Unfolding the math",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/lasso-regression-causes-sparsity-while-ridge-regression-doesnt-unfolding-the-math/",
+            "authors": "Sreenath S",
+            "tags": "Advanced, Algorithm, Maths, Statistics",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "Lasso regression causes sparsity while Ridge regression doesn\u2019t! In this article let\u2019s unfold the maths behind ridge and lasso regression.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/regression_analysis.jpg"
+        },
+        {
+            "id": 4969,
+            "title": "12 Essential Tips for People starting a Career in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/tips-people-starting-career-data-science/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Beginner, Education, Interview Questions, Interviews, Machine Learning, Profile Building",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "Jobs in the data science industry are booming day by day. This article contains essential tips for starting a career in data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/10/13075123/pexels-photo-77984.jpeg"
+        },
+        {
+            "id": 4970,
+            "title": "Artificial Intelligence in Agriculture : Using Modern Day AI to Solve Traditional Farming Problems",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/artificial-intelligence-in-agriculture-using-modern-day-ai-to-solve-traditional-farming-problems/",
+            "authors": "Pravar Jain",
+            "tags": "Agriculture, Artificial Intelligence, Intermediate, Machine Learning",
+            "publishedOn": "2020-11-04T00:00:00",
+            "description": "Learn how applications of Artificial Intelligence (AI) in Agriculture is revolutionizing traditional Agriculture and overcoming the challenges",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/ai-agri.png"
+        },
+        {
+            "id": 4971,
+            "title": "Create your Own Image Caption Generator using Keras!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/create-your-own-image-caption-generator-using-keras/",
+            "authors": "Tanishq Gautam",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, NLP, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-11-04T00:00:00",
+            "description": "Image caption Generator is a popular research area of AI that deals with image understanding and a language description for that image",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Image-Caption-Generator.jpg"
+        },
+        {
+            "id": 4972,
+            "title": "Top 5 Statistical Concepts Every Data Scientist Should Know in 2020!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/top-5-favorite-statistical-concepts/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Listicle, Statistics",
+            "publishedOn": "2020-11-04T00:00:00",
+            "description": "Statistical concepts help us derive better insights about the data abd help us reach better conclusions. Here are my favorite concepts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/20206agence-olloweb-qfp4-Ud6Fyg-unsplash-scaled.jpg"
+        },
+        {
+            "id": 4973,
+            "title": "Methods in Python \u2013 A Key Concept of Object Oriented Programming",
+            "url": "https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2020-11-03T00:00:00",
+            "description": "Properties of the object are defined by the attributes and behavior is defined using methods in python. They are defined inside a class.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Types-of-Methods-in-Python.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 7059,
+            "title": "Deep Learning from Scratch to GPU - 7 - Learning and Backpropagation",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-7-Learning-and-Backpropagation",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-03-06T00:00:00",
+            "description": "At last, we reached the point where we can take on the implementation of the learning algorithm. Here we look at the basics of backpropagation, the engine th...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7060,
+            "title": "Deep Learning from Scratch to GPU - 6 - CUDA and OpenCL",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-6-CUDA-and-OpenCL",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-28T00:00:00",
+            "description": "We generalize the network code and run it on the GPU. On an Nvidia GPU with CUDA, and on an AMD GPU with OpenCL. Even more - we mix both CUDA and OpenCL, jus...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7061,
+            "title": "Deep Learning from Scratch to GPU - 5 - Sharing Memory",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-5-Sharing-Memory",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-21T00:00:00",
+            "description": "Sharing and reusing memory buffers is inescapable if we want high performance. It is a sharp but powerful tool.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7062,
+            "title": "Deep Learning from Scratch to GPU - 4 - Increasing Performance with Batch Processing",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-4-Increasing-Performance-with-Batch-Processing",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-18T00:00:00",
+            "description": "We increase performance many times by computing a group of (vector) inputs as one (matrix) batch.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7063,
+            "title": "Deep Learning from Scratch to GPU - 3 - Fully Connected Inference Layers",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-3-Fully-Connected-Inference-Layers",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-14T00:00:00",
+            "description": "It's time to formalize some structure of our layers into a layer type.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7064,
+            "title": "Deep Learning from Scratch to GPU - 2 - Bias and Activation Function",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-2-Bias-and-Activation-Function",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-11T00:00:00",
+            "description": "We continue building our network by adding the activation function and bias.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7065,
+            "title": "Deep Learning from Scratch to GPU - 1 - Representing Layers and Connections",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-1-Representing-Layers-and-Connections",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-06T00:00:00",
+            "description": "Here we start our journey of building a deep learning library that runs on both CPU and GPU.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7066,
+            "title": "Deep Learning in Clojure from Scratch to GPU - Part 0 - Why Bother?",
+            "url": "https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-0-Why-Bother",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-02-01T00:00:00",
+            "description": "An introduction to a series of tutorials about Deep Learning in Clojure funded by Clojurists Together. Start with an empty clj file and build a fast neural n...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7067,
+            "title": "CUDA 10 in Clojure",
+            "url": "https://dragan.rocks/articles/18/CUDA-10-in-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-11-21T00:00:00",
+            "description": "CUDA 10 support has just landed in ClojureCUDA with the latest version 0.6.0.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7068,
+            "title": "Neanderthal vs ND4J - vol 5 - Why are native map and reduce up to 100x faster in Clojure?",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-vs-ND4J-vol5",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-11-14T00:00:00",
+            "description": "In which we compare mapping and reduction functions in Clojure's Neanderthal and Nd4j.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7069,
+            "title": "Code Mesh LDN 2018 - Interactive GPU Programming with ClojureCUDA and ClojureCL",
+            "url": "https://dragan.rocks/articles/18/Code-Mesh-LDN-Presentation-Interactive-GPU-Programming",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-11-04T00:00:00",
+            "description": "I'm presenting a talk at CodeMesh LDN 2018 conference in a few days. Here are the slides.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7070,
+            "title": "Easy Probability and Clojure - 1 - The South Park Socks Drawer",
+            "url": "https://dragan.rocks/articles/18/Easy-Probability-Clojure-1-The-South-Park-Socks-Drawer",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-10-31T00:00:00",
+            "description": "Beginner friendly Clojure solutions to the 50 Challenging Problems in Probability book. Problem 1, The Sock Drawer.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7071,
+            "title": "Programmer, Teach Yourself Foundations of ML and AI with these 6 Books",
+            "url": "https://dragan.rocks/articles/18/Programmers-Teach-Yourself-Foundations-of-ML-AI-With-These-X-Books",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-10-27T00:00:00",
+            "description": "Here's what I recommend to programmers if they want to understand machine learning. Six fantastic books that you can work with in your spare time to build yo...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7072,
+            "title": "Clojure Walk through the OpenCL in Action GPU Computing Book - Part 1",
+            "url": "https://dragan.rocks/articles/18/Clojure-and-OpenCL-in-Action-GPU-Computing-Book-1",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-10-24T00:00:00",
+            "description": "Since its inception, ClojureCL tests have been carrying on the walthrough of examples from the best introductory book for GPU computing - OpenCL in Action by...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7073,
+            "title": "I'm ditching Slack and opening a place to foster a more personal interaction",
+            "url": "https://dragan.rocks/articles/18/Ditching-Slack-Opening-Place-Personal-Interaction",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-10-22T00:00:00",
+            "description": "I'm starting a dedicated, more personalized, discussion server about Clojure, machine learning, artificial intelligence, high performance computing, and rela...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7074,
+            "title": "Adopt a Neanderthal function as your own pet! Support my Clojure work on Patreon.",
+            "url": "https://dragan.rocks/articles/18/Patreon-Announcement-Adopt-a-Function",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-10-18T00:00:00",
+            "description": "You can adopt a function in Uncomplicate project as a pet now! Choose a tier on Patreon.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7075,
+            "title": "SmallFP & ClojureTRE: Interactive, Functional, GPU Accellerated Programming in Clojure",
+            "url": "https://dragan.rocks/articles/18/SmallFP-presentation-Interactive-Functional-GPU-Accellerated-Programming-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-09-11T00:00:00",
+            "description": "I'm presenting a talk at SmallFP conference in Helsinki, Finland. Here are the slides.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7076,
+            "title": "Neanderthal vs ND4J - vol 4 - Fast Vector Broadcasting in Java, CPU and CUDA",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-vs-ND4J-vol4",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-07-25T00:00:00",
+            "description": "In which we implement our own vector broadcasting function that matches the performance of Nd4j's optimized one and even surpasses it on the GPU.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7077,
+            "title": "Fast Function Currying in Clojure (Without Macros)",
+            "url": "https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-07-08T00:00:00",
+            "description": "Fluokitten 0.8.0 just got released. I significantly improved the performance of existing currying functionality. Here's a walkthrough.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7078,
+            "title": "Map and Reduce Primitive Arrays Without Clojure Macros",
+            "url": "https://dragan.rocks/articles/18/Fluokitten-070-map-reduce-primitive-arrays-without-macros",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-07-05T00:00:00",
+            "description": "Fluokitten 0.7.0 just got released. Now it supports Java arrays. A brief walktrough.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7079,
+            "title": "Neanderthal vs ND4J - vol 3 - Clojure Beyond the Fast Native MKL Backend",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-vs-ND4J-vol3",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-06-29T00:00:00",
+            "description": "Some free time fell into my lap, and I decided to continue helping the DL4J team at Skymind improve ND4J. This is a direct continuation of Vol 2.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7080,
+            "title": "Neanderthal vs ND4J - vol 2 - The Same Native MKL Backend, 1000 x Speedup",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-vs-ND4J-vol2",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-06-28T00:00:00",
+            "description": "Mercenary work have been finished ahead of time; a handful of time to spare. Time for free software! More Neanderthal vs ND4J comparison, then?",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7081,
+            "title": "Neanderthal vs ND4J - vol 1 - Native performance, Java and CPU",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-vs-ND4J-vol1",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-06-22T00:00:00",
+            "description": "Today, Java has a choice of a few well maintained libraries that can use Intel's MKL for fast native operations. MKL is basically as fast as you can get toda...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7082,
+            "title": "Out of the box support for TensorFlow and PyTorch for Clojure has landed in Neanderthal",
+            "url": "https://dragan.rocks/articles/18/Out-of-the-box-for-TensorFlow-PyTorch-from-Clojure-Neanderhtal",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-04-01T00:00:00",
+            "description": "Out of the box support for TensorFlow and PyTorch for Clojure has landed in Neanderthal.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7083,
+            "title": "Interactive GPU Programming - Part 3 - CUDA Context Shenanigans",
+            "url": "https://dragan.rocks/articles/18/Interactive-GPU-Programming-3-CUDA-Context",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-03-01T00:00:00",
+            "description": "All communication with the GPU takes place in a context. Context is an analogous to a CPU program. It sets the environment for the particular GPU we want to ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7084,
+            "title": "Interactive GPU Programming - Part 2 - Hello OpenCL",
+            "url": "https://dragan.rocks/articles/18/Interactive-GPU-Programming-2-Hello-OpenCL",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-02-07T00:00:00",
+            "description": "This is really the same article as Part 1 - Hello CUDA, but with the focus on OpenCL, so I'll skip most of the narration and just show you the code.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7085,
+            "title": "Neanderthal and friends support CUDA 9, Java 9, and Clojure 1.9",
+            "url": "https://dragan.rocks/articles/18/Neanderthal-018-CUDA9-Java9-Clojure19-update",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-01-17T00:00:00",
+            "description": "Uncomplicate libraries have just got a nice update and are ready for the latest underlying platform releases. CUDA 9, Java 9, and Clojure 1.9.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7086,
+            "title": "Interactive GPU Programming - Part 1 - Hello CUDA",
+            "url": "https://dragan.rocks/articles/18/Interactive-GPU-Programming-1-Hello-CUDA",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2018-01-17T00:00:00",
+            "description": "Today, fast number crunching means parallel programs that run on Graphical Processing Units (GPUs). Thanks to the recent highly publicized deep learning and ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7087,
+            "title": "Clojure Numerics, Part 6 - More Linear Algebra Fun with Least Squares",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-6-More-Linear-Algebra-Fun-with-Least-Squares",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-12-27T00:00:00",
+            "description": "This time, we look at a few important variants of the least squares problem. Least squares with equality constraints, and generalized least squares. They sho...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7088,
+            "title": "Clojure Numerics, Part 5 - Orthogonalization and Least Squares",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-5-Orthogonalization-and-Least-Squares",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-10-17T00:00:00",
+            "description": "How to solve linear systems that have many solutions, or those that have no solutions at all? That's the theme for a thick math textbook, of course, but from...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        }
+    ]
+}

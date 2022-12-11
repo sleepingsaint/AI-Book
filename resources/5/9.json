@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6712,
+            "title": "Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum",
+            "url": "https://machinelearning.apple.com/research/data-parameters",
+            "authors": "Shreyas Saxena, Oncel Tuzel, Dennis DeCoste",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Recent works have shown that learning from easier instances first can help deep neural networks (DNNs) generalize better. However, knowing\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6713,
+            "title": "Nonlinear Conjugate Gradients For Scaling Synchronous Distributed DNN Training",
+            "url": "https://machinelearning.apple.com/research/nonlinear-conjugate-gradients-for-scaling-synchronous-distributed-dnn-training",
+            "authors": "Saurabh Adya, Vinay Palakkode, Oncel Tuzel",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Nonlinear conjugate gradient (NLCG) based optimizers have shown superior loss convergence properties compared to gradient descent based\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6714,
+            "title": "Modeling Patterns of Smartphone Usage and their Relationship to Cognitive Health",
+            "url": "https://machinelearning.apple.com/research/modeling-patterns-of-smartphone-usage-and-their-relationship-to-cognitive-health",
+            "authors": "Jonas Rauber, Emily B. Fox, Leon A. Gatys",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "The ubiquity of smartphone usage in many people's lives make it a rich source of information about a person's mental and cognitive state. In\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6715,
+            "title": "Worst Cases Policy Gradients",
+            "url": "https://machinelearning.apple.com/research/worst-cases-policy-gradients",
+            "authors": "Yichuan Charlie Tang, Jian Zhang, Ruslan Salakhutdinov",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Recent advances in deep reinforcement learning have demonstrated the capability of learning complex control policies from many types of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6716,
+            "title": "Empirical Evaluation of Active Learning Techniques for Neural MT",
+            "url": "https://machinelearning.apple.com/research/empirical-evaluation-of-active-learning-techniques-for-neural-mt",
+            "authors": "Xiangkai Zeng, Sarthak Garg, Rajen Chatterjee, Udhyakumar Nallasamy, Matthias Paulik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Active learning (AL) for machine translation (MT) has been well-studied for the phrase-based MT paradigm. Several AL algorithms for data\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6717,
+            "title": "Skip-Clip: Self-Supervised Spatiotemporal Representation Learning by Future Clip Order Ranking",
+            "url": "https://machinelearning.apple.com/research/skip-clip-self-supervised-spatiotemporal-representation-learning-by-future-clip-order-ranking",
+            "authors": "Alaaeldin El-Nouby, Shuangfei Zhai, Graham W. Taylor, Joshua M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Deep neural networks require collecting and annotating large amounts of data to train successfully. In order to alleviate the annotation\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6718,
+            "title": "Single Training Dimension Selection for Word Embedding with PCA",
+            "url": "https://machinelearning.apple.com/research/single-training-dimension-selection-for-word-embedding-with-pca",
+            "authors": "Yu Wang",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this paper, we present a fast and reliable method based on PCA to select the number of dimensions for word embeddings. First, we train\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6719,
+            "title": "Overton: A Data System for Monitoring and Improving Machine-Learned Products",
+            "url": "https://machinelearning.apple.com/research/overton",
+            "authors": "Christopher R\u00e9, Feng Niu, Pallavi Gudipati, Charles Srisuwananukorn",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "We describe a system called Overton, whose main design goal is to support engineers in building, monitoring, and improving production\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6720,
+            "title": "Leveraging User Engagement Signals For Entity Labeling in a Virtual Assistant",
+            "url": "https://machinelearning.apple.com/research/leveraging-user-engagement-signals-for-entity-labeling-in-virtual-assistant",
+            "authors": "Deepak Muralidharan, Justine Kao, Xiao Yang, Lin Li, Lavanya Viswanathan, Mubarak Seyed Ibrahim, Kevin Luikens, Stephen Pulman, Ashish Garg, Atish Kothari, Jason Williams",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Personal assistant AI systems such as Siri, Cortana, and Alexa have become widely used as a means to accomplish tasks through natural\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6721,
+            "title": "Reverse Transfer Learning: Can Word Embeddings Trained for Different NLP Tasks Improve Neural Language Models?",
+            "url": "https://machinelearning.apple.com/research/reverse-transfer-learning-can-word-embeddings-trained-for-different-nlp-tasks-improve-neural-language-models",
+            "authors": "Lyan Verwimp, Jerome R. Bellegarda",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Natural language processing (NLP) tasks tend to suffer from a paucity of suitably annotated training data, hence the recent success of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6722,
+            "title": "Variational Saccading: Efficient Inference for Large Resolution Images",
+            "url": "https://machinelearning.apple.com/research/variational-saccading-efficient-inference-for-large-resolution-images",
+            "authors": "Jason Ramapuram, Maurits Diephuis, Frantzeska Lavda, Russ Webb, Alexandros Kalousis",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Image classification with deep neural networks is typically restricted to images of small dimensionality such as R224 x 244 in Resnet models\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6723,
+            "title": "Jointly Learning to Align and Translate with Transformer Models",
+            "url": "https://machinelearning.apple.com/research/jointly-learning-to-align-and-translate-with-transformer-models",
+            "authors": "Sarthak Garg, Stephan Peitz, Udhyakumar Nallasamy, Matthias Paulik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "The state of the art in machine translation (MT) is governed by neural approaches, which typically provide superior translation accuracy\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6724,
+            "title": "Connecting and Comparing Language Model Interpolation Techniques",
+            "url": "https://machinelearning.apple.com/research/connecting-and-comparing-language-model-interpolation-techniques",
+            "authors": "Ernest Pusateri, Christophe Van Gysel, Rami Botros, Sameer Badaskar, Mirko Hannemann, Youssef Oualil, Ilya Oparin",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this work, we uncover a theoretical connection between two language model interpolation techniques, count merging and Bayesian\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6725,
+            "title": "Active Learning for Domain Classification in a Commercial Spoken Personal Assistant",
+            "url": "https://machinelearning.apple.com/research/active-learning-for-domain-classification",
+            "authors": "Xi C. Chen, Adithya Sagar, Justine T. Kao, Tony Y. Li, Christopher Klein, Stephen Pulman, Ashish Garg, Jason D. Williams",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "We describe a method for selecting relevant new training data for the LSTM-based domain selection component of our personal assistant\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6726,
+            "title": "Coarse-to-fine Optimization for Speech Enhancement",
+            "url": "https://machinelearning.apple.com/research/coarse-to-fine-optimization-for-speech-enhancement",
+            "authors": "Jian Yao, Ahmad Al-Dahle",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this paper, we propose the coarse-to-fine optimization for the task of speech enhancement. Cosine similarity loss [1] has proven to be an\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6727,
+            "title": "Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Streams",
+            "url": "https://machinelearning.apple.com/research/developing-measures-of-cognitive-impairment-in-the-real-world-from-consumer-grade-multimodal-sensor-streams",
+            "authors": "Richard Chen, Filip Jankovic, Nikki Marinsek, Luca Foschini, Lampros Kourtis, Alessio Signorini, Melissa Pugh, Jie Shen, Roy Yaari, Vera Maljkovic, Marc Sunga, Han Hee Song, Hyun Joon Jung, Belle Tseng, Andrew Trister",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "The ubiquity and remarkable technological progress of wearable consumer devices and mobile-computing platforms (smart phone, smart watch\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6728,
+            "title": "Raise to Speak: An Accurate, Low-power Detector for Activating Voice Assistants on Smartwatches",
+            "url": "https://machinelearning.apple.com/research/raise-to-speak-an-accurate-low-power-detector-for-activating-voice-assistants-on-smartwatches",
+            "authors": "Shiwen Zhao, Brandt Westing, Shawn Scully, Heri Nieto, Roman Holenstein, Minwoo Jeong, Krishna Sridhar, Brandon Newendorp, Mike Bastian, Sethu Raman, Tim Paek, Kevin Lynch and Carlos Guestrin",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "The two most common ways to activate intelligent voice assistants (IVAs) are button presses and trigger phrases. This paper describes a new\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6729,
+            "title": "Language Identification from Very Short Strings",
+            "url": "https://machinelearning.apple.com/research/language-identification-from-very-short-strings",
+            "authors": "Input & Intelligence \u2014 Natural Language Processing Team",
+            "tags": "Article, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Many language-related tasks, such as entering text on your iPhone, discovering news articles you might enjoy, or finding out answers to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6730,
+            "title": "Learning Conditional Error Model for Simulated Time-Series Data",
+            "url": "https://machinelearning.apple.com/research/learning-conditional-error-model-for-simulated-time-series-data",
+            "authors": "Ashish Shrivastava, Oncel Tuzel",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Applications such as autonomous navigation [1], human-robot interaction [2], game-playing robots [8], etc., use simulation to minimize the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6731,
+            "title": "Bridging the Domain Gap for Neural Models",
+            "url": "https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "Deep neural networks are a milestone technique in the advancement of modern machine perception systems. However, in spite of the exceptional\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6732,
+            "title": "Improving Knowledge Base Construction from Robust Infobox Extraction",
+            "url": "https://machinelearning.apple.com/research/improving-knowledge-base-construction-from-robust-infobox-extraction",
+            "authors": "Boya Peng, Yejin Huh, Xiao Ling, Michele Banko",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "A capable, automatic Question Answering (QA) system can provide more complete and accurate answers using a comprehensive knowledge base\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6733,
+            "title": "Protection Against Reconstruction and Its Applications in Private Federated Learning",
+            "url": "https://machinelearning.apple.com/research/protection-against-reconstruction-and-its-applications-in-private-federated-learning",
+            "authors": "Abhishek Bhowmick, John Duchi, Julien Freudiger, Gaurav Kapoor, Ryan Rogers",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "In large-scale statistical learning, data collection and model fitting are moving increasingly toward peripheral devices\u2014phones, watches\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6734,
+            "title": "Data Platform for Machine Learning",
+            "url": "https://machinelearning.apple.com/research/data-platform-machine-learning",
+            "authors": "Pulkit Agrawal, Rajat Arya, Aanchal Bindal, Sandeep Bhatia, Anupriya Gagneja, Joseph Godlewski, Yucheng Low, Timothy Muss, Mudit Manu Paliwal, Sethu Raman, Vishrut Shah, Bochao Shen, Laura Sugden, Kaiyu Zhao, Ming-Chuan Wu",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "In this paper, we present a purpose-built data management system, MLdp, for all machine learning (ML) datasets. ML applications pose some\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6735,
+            "title": "Speaker-Independent Speech-Driven Visual Speech Synthesis using Domain-Adapted Acoustic Models",
+            "url": "https://machinelearning.apple.com/research/speaker-independent-speech-driven-visual-speech-synthesis-using-domain-adapted-acoustic-models",
+            "authors": "Ahmed Hussen Abdelaziz, Barry-John Theobald, Justin Binder, Gabriele Fanelli, Paul Dixon, Nicholas Apostoloff, Thibaut Weise, Sachin Kajareker",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Speech-driven visual speech synthesis involves mapping features extracted from acoustic speech to the corresponding lip animation controls\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6736,
+            "title": "Addressing the Loss-Metric Mismatch with Adaptive Loss Alignment",
+            "url": "https://machinelearning.apple.com/research/addressing-the-loss-metric-mismatch-with-adaptive-loss-alignment",
+            "authors": "Chen Huang, Shuangfei Zhai, Walter Talbott, Miguel Angel Bautista, Shih-Yu Sun, Carlos Guestrin, Joshua M. Susskind",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In most machine learning training paradigms a fixed, often handcrafted, loss function is assumed to be a good proxy for an underlying\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6737,
+            "title": "Lower Bounds for Locally Private Estimation via Communication Complexity",
+            "url": "https://machinelearning.apple.com/research/lower-bounds-for-locally-private-estimation-via-communication-complexity",
+            "authors": "John Duchi, Ryan Rogers",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "We develop lower bounds for estimation under local privacy constraints\u2014including differential privacy and its relaxations to approximate or\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6738,
+            "title": "Exploring Retraining-free Speech Recognition for Intra-sentential Code-switching",
+            "url": "https://machinelearning.apple.com/research/exploring-retraining-free-speech-recognition-for-intra-sentential-code-switching",
+            "authors": "Zhen Huang, Xiaodan Zhuang, Daben Liu, Xiaoqiang Xiao, Yuchen Zhang, Sabato Marco Siniscalchi",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Code Switching refers to the phenomenon of changing languages within a sentence or discourse, and it represents a challenge for conventional\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6739,
+            "title": "Parametric Cepstral Mean Normalization for Robust Speech Recognition",
+            "url": "https://machinelearning.apple.com/research/parametric-cepstral-mean-normalization-for-robust-speech-recognition",
+            "authors": "Ozlem Kalinli, Gautam Bhattacharya, Chao Weng",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "This paper proposes a new channel normalization algorithm called parametric cepstral mean normalization (PCMN) to increase robust- ness of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6740,
+            "title": "Voice Trigger Detection from LVCSR Hypothesis Lattices Using Bidirectional Lattice Recurrent Neural Networks",
+            "url": "https://machinelearning.apple.com/research/voice-trigger-detection-from-lvcsr-hypothesis-lattices-using-bidirectional-lattice-recurrent-neural-networks",
+            "authors": "Woojay Jeon, Leo Liu, Henry Mason",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We propose a method to reduce false voice triggers of a speech-enabled personal assistant by post-processing the hypothesis lattice of a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6741,
+            "title": "Neural Network-Based Modeling of Phonetic Durations",
+            "url": "https://machinelearning.apple.com/research/neural-network-based-modeling-of-phonetic-durations",
+            "authors": "Xizi Wei, Melvyn Hunt, Adrian Skilling",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "A deep neural network (DNN)-based model has been developed to predict non-parametric distributions of durations of phonemes in specified\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

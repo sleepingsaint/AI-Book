@@ -1,0 +1,35 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 10427,
+            "title": "Introducing Public Datasets",
+            "url": "https://blog.roboflow.com/introducing-roboflow-public-datasets/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-01-27T00:00:00",
+            "description": "One of the most painstaking components of getting started with computer vision is getting access to clean, labeled data. For example, when the Roboflow team built BoardBoss, we painstakingly collected hundreds of Boggle board images from various devices (iPhone 7, iPhone X, iPhone 11\u2026) and then labeled each individual letter",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/public_datasets.png"
+        },
+        {
+            "id": 10428,
+            "title": "What is Image Preprocessing and Augmentation?",
+            "url": "https://blog.roboflow.com/why-preprocess-augment/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-01-26T00:00:00",
+            "description": "Pre-processing is required to clean image data for model input. Augmentation helps your model generalize by adding more training data.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/image_preocessing_augmentation.png"
+        },
+        {
+            "id": 10429,
+            "title": "Training a YOLOv3 Object Detection Model with a Custom Dataset",
+            "url": "https://blog.roboflow.com/training-a-yolov3-object-detection-model-with-a-custom-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-01-09T00:00:00",
+            "description": "A walkthrough of building chess piece object detection model, easily adapted to your own dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolov3_custom_dataset.png"
+        }
+    ]
+}

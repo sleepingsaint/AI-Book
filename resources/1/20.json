@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 554,
+            "title": "Simplify data annotation and model training tasks with Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-data-annotation-and-model-training-tasks-with-amazon-rekognition-custom-labels/",
+            "authors": "Sherry Ding, Baichuan Sun, Kashif Imran",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2021-07-21T00:00:00",
+            "description": "For a supervised machine learning (ML) problem, labels are values expected to be learned and predicted by a model. To obtain accurate labels, ML practitioners can either record them in real time or conduct offline data annotation, which are activities that assign labels to the dataset based on human intelligence. However, manual dataset annotation can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 555,
+            "title": "Smart city traffic anomaly detection using Amazon Lookout for Metrics and Amazon Kinesis Data Analytics Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/smart-city-traffic-anomaly-detection-using-amazon-lookout-for-metrics-and-amazon-kinesis-data-analytics-studio/",
+            "authors": "Ajay Ravindranathan, Bala KP",
+            "tags": "Amazon Kinesis, Amazon Lookout for Metrics, Amazon Machine Learning, Artificial Intelligence, AWS Panorama, Internet of Things",
+            "publishedOn": "2021-07-21T00:00:00",
+            "description": "Cities across the world are transforming their public services infrastructure with the mission of enhancing the quality of life of its residents. Roads and traffic management systems are part of the central nervous system of every city. They need intelligent monitoring and automation in order to prevent substantial productivity loss and in extreme cases life-threatening [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/image003.jpg"
+        },
+        {
+            "id": 556,
+            "title": "Use Amazon SageMaker Feature Store in a Java environment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/",
+            "authors": "Ivan Cui, Chaitanya Hazarey, Daniel Choi, Raghu Ramesha",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Feature engineering is a process of applying transformations on raw data that a machine learning (ML) model can use. As an organization scales, this process is typically repeated by multiple teams that use the same features for different ML solutions. Because of this, organizations are forced to develop their own feature management system. Additionally, you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 557,
+            "title": "Prepare and clean your data for Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tailor-and-prepare-your-data-for-amazon-forecast/",
+            "authors": "Murat Balkan, Christy Bergman, Brandon How",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "You might use traditional methods to forecast future business outcomes, but these traditional methods are often not flexible enough to account for varying factors, such as weather or promotions, outside of the traditional time series data considered. With the advancement of machine learning (ML) and the elasticity that the AWS Cloud brings, you can now [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 558,
+            "title": "Use contextual information and third party data to improve your recommendations",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/",
+            "authors": "Angel Goni Oramas",
+            "tags": "Amazon Machine Learning, Amazon Personalize, Analytics, Artificial Intelligence, AWS Data Exchange",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Have you noticed that your shopping preferences are influenced by the weather? For example, on hot days would you rather drink a lemonade vs. a hot coffee? Customers from consumer-packaged goods (CPG) and retail industries wanted to better understand how weather conditions like temperature and rain can be used to provide better purchase suggestions to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML-2080-image02.jpg"
+        },
+        {
+            "id": 559,
+            "title": "Automate continuous model improvement with Amazon Rekognition Custom Labels and Amazon A2I: Part 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part2-automate-continuous-model-improvement-with-amazon-rekognition-custom-labels-and-amazon-a2i/",
+            "authors": "Les Chan, Daniel Duplessis",
+            "tags": "Amazon Augmented AI, Amazon Rekognition, Artificial Intelligence, AWS Step Functions, AWS Systems Manager",
+            "publishedOn": "2021-07-19T00:00:00",
+            "description": "In Part 1 of this series, we walk through a continuous model improvement machine learning (ML) workflow with Amazon Rekognition Custom Labels and Amazon Augmented AI (Amazon A2I). We explained how we use AWS Step Functions to orchestrate model training and deployment, and custom label detection backed by a human labeling private workforce. We described [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/28/ML-2048-image3-797x630.png"
+        },
+        {
+            "id": 560,
+            "title": "Automate continuous model improvement with Amazon Rekognition Custom Labels and Amazon A2I: Part 1",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part1-automate-continuous-model-improvement-with-amazon-rekognition-custom-labels-and-amazon-a2i/",
+            "authors": "Les Chan, Daniel Duplessis",
+            "tags": "Amazon Augmented AI, Amazon Rekognition, Artificial Intelligence, AWS Step Functions, AWS Systems Manager, Management Tools",
+            "publishedOn": "2021-07-19T00:00:00",
+            "description": "If you need to integrate image analysis into your business process to detect objects or scenes unique to your business domain, you need to build your own custom machine learning (ML) model. Building a custom model requires advanced ML expertise and can be a technical challenge if you have limited ML knowledge. Because model performance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/ML-2048-image3-new-797x630.png"
+        },
+        {
+            "id": 561,
+            "title": "Unlock information in unstructured text to personalize product and content recommendations with Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize/",
+            "authors": "James Jory, Gaurav Chauhan, Matthew Chwastek, Hao Ding",
+            "tags": "Amazon Machine Learning, Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2021-07-19T00:00:00",
+            "description": "This post was last reviewed and updated June, 2022. When this blog post was initially published, English was the only language supported for the textual field in the items dataset. Now Amazon Personalize supports textual field values in Chinese (simplified and traditional), French, German, Japanese, Portuguese, and Spanish; removes HTML and XML markup and whitespace [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 562,
+            "title": "Unlock patient data insights using Amazon HealthLake",
+            "url": "https://aws.amazon.com/blogs/machine-learning/unlock-patient-data-insights-using-amazon-healthlake/",
+            "authors": "Dr. Taha A. Kass-Hout, Dr. Mia Champion",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-16T00:00:00",
+            "description": "AWS just announced the General Availability of Amazon HealthLake, a HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud at petabyte scale. We believe that the combination of the innovation trends in healthcare (such as reimbursement models around data-driven evidence), [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/15/Site-Merch_Amazon-Health-Lake_SocialMedia_1.jpg"
+        },
+        {
+            "id": 563,
+            "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
+            "authors": "Daniel Ness, Arun Regunathan, Brian Warwick, Pandian Velayutham",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-16T00:00:00",
+            "description": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare facilities are partnering with MEDHOST and enhancing their patient care and operational excellence [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 564,
+            "title": "Simplify secure search solutions with Amazon Kendra\u2019s Principal Store",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+            "authors": "Abhinav Jawadekar, Juan Bustos, Vijai Gandikota",
+            "tags": "Amazon Kendra, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. It is challenging for organizations to make this information available to users when they need it. It is also difficult to do so securely so that relevant information is available to the right users or user groups. Different [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/13/1-4820-Chart.jpg"
+        },
+        {
+            "id": 565,
+            "title": "Announcing the InterSystems HealthShare Message Transformation Service for Amazon HealthLake",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-intersystems-healthshare-message-transformation-service-for-amazon-healthlake/",
+            "authors": "Todd Sylvester, Brian Warwick",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "Amazon HealthLake is a new HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. Amazon HealthLake removes the heavy lifting of organizing, indexing, and structuring patient information to provide a complete view of the health of individual patients and entire patient populations in a secure, compliant, and auditable manner. With the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/1-4145.jpg"
+        },
+        {
+            "id": 566,
+            "title": "Get started with the Redox Amazon HealthLake Connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-redox-amazon-healthlake-connector/",
+            "authors": "Devin Soelberg, Brian Warwick",
+            "tags": "Amazon HealthLake, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "Amazon HealthLake is a new, HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. You can bring your healthcare data into Amazon HealthLake using Fast Healthcare Interoperability Resources (FHIR) R4 APIs. If you don\u2019t have your data in FHIR R4, Amazon has collaborated with industry experts to build Amazon HealthLake connectors [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/1-4144.jpg"
+        },
+        {
+            "id": 567,
+            "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+            "authors": "Yi Xiang",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity; KPI metrics monitoring for critical systems; and predictive maintenance for in-service equipment. There [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg"
+        },
+        {
+            "id": 568,
+            "title": "Run image classification with Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-image-classification-with-amazon-sagemaker-jumpstart/",
+            "authors": "Ali Arsanjani, Ashish Khetan, Li Zhang",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "Last year, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart hosts 196 computer vision models, 64 natural language processing (NLP) models, 18 pre-built end-to-end solutions, and 19 example notebooks to help you get started with using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 569,
+            "title": "Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-a-centralized-deployment-of-amazon-sagemaker-studio-with-aws-service-catalog/",
+            "authors": "Andras Garzo, Rama Thamman, Sam Palani",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Service Catalog",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "This post outlines the best practices for provisioning Amazon SageMaker Studio for data science teams and provides reference architectures and AWS CloudFormation templates to help you get started. We use AWS Service Catalog to provision a Studio domain and users. The AWS Service Catalog allows you to provision these centrally without requiring each user to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML3314-image01.jpg"
+        },
+        {
+            "id": 570,
+            "title": "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/",
+            "authors": "Prashanth Ganapathy, Amit Gupta",
+            "tags": "Amazon Lookout for Vision, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen\u2019s research, \u201cMany organizations will have true quality-related costs as high as 15 to 20 percent of sales revenue.\u201d The current [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image001.jpg"
+        },
+        {
+            "id": 571,
+            "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
+            "url": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+            "authors": "Julian Bright",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure will automatically optimize traffic to the best-performing model [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg"
+        },
+        {
+            "id": 572,
+            "title": "Deploy shadow ML models in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/",
+            "authors": "Ram Vittal, Neelam Koshiya, Raghu Ramesha",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "Amazon SageMaker helps data scientists and developers prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker accelerates innovation within your organization by providing purpose-built tools for every step of ML development, including labeling, data preparation, feature engineering, statistical bias detection, AutoML, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML1688-image003.png"
+        },
+        {
+            "id": 573,
+            "title": "Optimize workforce in your store using Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
+            "authors": "Kayla Jing, Laura Reith",
+            "tags": "Amazon Rekognition, Artificial Intelligence, AWS DeepLens, AWS Panorama",
+            "publishedOn": "2021-07-09T00:00:00",
+            "description": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many employees working can be detrimental to the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 574,
+            "title": "Generate a jazz rock track using AWS DeepComposer with machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/generate-a-jazz-rock-track-using-aws-deepcomposer-with-machine-learning/",
+            "authors": "Paul Colmer",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "At AWS, we love sharing our passion for technology and innovation, and AWS DeepComposer is no exception. This service is designed to help everyone learn about generative artificial intelligence (AI) through the language of music. You can use a sample melody, upload your own melody, or play a tune using the virtual or a real [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 575,
+            "title": "Announcing managed inference for Hugging Face models in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-managed-inference-for-hugging-face-models-in-amazon-sagemaker/",
+            "authors": "Sai Sharanya Nalla, Kartik Kannapur",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "Hugging Face is the technology startup, with an active open-source community, that drove the worldwide adoption of transformer-based models thanks to its eponymous Transformers library. Earlier this year, Hugging Face and AWS collaborated to enable you to train and deploy over 10,000 pre-trained models on Amazon SageMaker. For more information on training Hugging Face models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 576,
+            "title": "Building algorithmic trading strategies with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-algorithmic-trading-strategies-with-amazon-sagemaker/",
+            "authors": "Oliver Steffmann",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "Financial institutions invest heavily to automate their decision-making for trading and portfolio management. In the US, the majority of trading volume is generated through algorithmic trading. [1] With cloud computing, vast amounts of historical data can be processed in real time and fed into sophisticated machine learning (ML) models. This allows market participants to discover [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-558-1.jpg"
+        },
+        {
+            "id": 577,
+            "title": "Bring your own model with Amazon SageMaker script mode",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
+            "authors": "Bobby Lindsey, David Ehrlich",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-07-06T00:00:00",
+            "description": "As the prevalence of machine learning (ML) and artificial intelligence (AI) grows, you need the best mechanisms to aid in the experimentation and development of your algorithms. You might begin with the several built-in algorithms in Amazon SageMaker that simply require you to point the algorithm at your data and start a SageMaker training job. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/26/1-2689-Architecture.jpg"
+        },
+        {
+            "id": 578,
+            "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+            "authors": "Mohsin Khan, Amir Khairalomoum, Ibtehaj Ahmed",
+            "tags": "Amazon Lookout for Vision, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-07-02T00:00:00",
+            "description": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights from the process for business users. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/29/1-2693-Architecture.jpg"
+        },
+        {
+            "id": 579,
+            "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
+            "authors": "Oliver Myers",
+            "tags": "Amazon Machine Learning, Amazon Rekognition, Artificial Intelligence, Automotive, Financial Services, Industries",
+            "publishedOn": "2021-06-29T00:00:00",
+            "description": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can be a painstaking process. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg"
+        },
+        {
+            "id": 580,
+            "title": "Hyundai reduces ML model training time for autonomous driving models using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/hyundai-reduces-training-time-for-autonomous-driving-models-using-amazon-sagemaker/",
+            "authors": "Muhyun Kim, Aditya Bindal, Youngjoon Choi, Jiyang Kang, Jongmo Kim, Nathalie Rauschmayr",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Automotive, Customer Solutions, Industries",
+            "publishedOn": "2021-06-25T00:00:00",
+            "description": "Hyundai Motor Company, headquartered in Seoul, South Korea, is one of the largest car manufacturers in the world. They have been heavily investing human and material resources in the race to develop self-driving cars, also known as autonomous vehicles. One of the algorithms often used in autonomous driving is semantic segmentation, which is a task [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/27/1-3547-Architecture.jpg"
+        },
+        {
+            "id": 581,
+            "title": "Reduce computer vision inference latency using gRPC with TensorFlow serving on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
+            "authors": "Hasan Poonawala, Mark Roy",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-06-25T00:00:00",
+            "description": "AWS customers are increasingly using computer vision (CV) models for improved efficiency and an enhanced user experience. For example, a live broadcast of sports can be processed in real time to detect specific events automatically and provide additional insights to viewers at low latency. Inventory inspection at large warehouses capture and process millions of images [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/15/1-3850.jpg"
+        },
+        {
+            "id": 582,
+            "title": "How Daniel Wellington\u2019s customer service department saved 99% on translation costs with Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+            "authors": "Lezgin Bakircioglu, Esther Lee, Watson Srivathsan, Yassir Jafar",
+            "tags": "Amazon Comprehend, Amazon Translate, Artificial Intelligence, Industries, Retail",
+            "publishedOn": "2021-06-24T00:00:00",
+            "description": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, \u201cDaniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and most coveted brands in the industry.\u201d In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg"
+        },
+        {
+            "id": 583,
+            "title": "ML model explainability with Amazon SageMaker Clarify and the SKLearn pre-built container",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-clarify-with-the-sklearn-pre-built-container/",
+            "authors": "Sabina Przioda, Michael Wallner",
+            "tags": "Amazon SageMaker, Application Services, Artificial Intelligence, AWS Step Functions",
+            "publishedOn": "2021-06-24T00:00:00",
+            "description": "Amazon SageMaker Clarify is a new machine learning (ML) feature that enables ML developers and data scientists to detect possible bias in their data and ML models and explain model predictions. It\u2019s part of Amazon SageMaker, an end-to-end platform to build, train, and deploy your ML models. Clarify was made available at AWS re:Invent 2020. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        }
+    ]
+}

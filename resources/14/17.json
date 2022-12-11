@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8992,
+            "title": "A Gentle Introduction to 1\u00d71 Convolutions to Manage Model Complexity",
+            "url": "https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-29T00:00:00",
+            "description": "Pooling can be used to down sample the content of feature maps, reducing their width and height whilst maintaining their salient features. A problem with deep convolutional neural networks is that the number of feature maps often increases with the depth of the network. This problem can result in a dramatic increase in the number [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/A-Gentle-Introduction-to-1x1-Convolutions-to-Reduce-the-Complexity-of-Convolutional-Neural-Networks.jpg"
+        },
+        {
+            "id": 8993,
+            "title": "How to Develop VGG, Inception and ResNet Modules from Scratch in Keras",
+            "url": "https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-26T00:00:00",
+            "description": "There are discrete architectural elements from milestone models that you can use in the design of your own convolutional neural networks. Specifically, models that have achieved state-of-the-art results for tasks like image classification use discrete architecture elements repeated multiple times, such as the VGG block in the VGG models, the inception module in the GoogLeNet, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Plot-of-Convolutional-Neural-Network-Architecture-with-a-Efficient-Inception-Module.png"
+        },
+        {
+            "id": 8994,
+            "title": "Convolutional Neural Network Model Innovations for Image Classification",
+            "url": "https://machinelearningmastery.com/review-of-architectural-innovations-for-convolutional-neural-networks-for-image-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-24T00:00:00",
+            "description": "A Gentle Introduction to the Innovations in LeNet, AlexNet, VGG, Inception, and ResNet Convolutional Neural Networks. Convolutional neural networks are comprised of two very simple elements, namely convolutional layers and pooling layers. Although simple, there are near-infinite ways to arrange these layers for a given computer vision problem. Fortunately, there are both common patterns for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Architecture-of-the-Residual-Network-for-Object-Photo-Classification.png"
+        },
+        {
+            "id": 8995,
+            "title": "A Gentle Introduction to Pooling Layers for Convolutional Neural Networks",
+            "url": "https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-22T00:00:00",
+            "description": "Convolutional layers in a convolutional neural network summarize the presence of features in an input image. A problem with the output feature maps is that they are sensitive to the location of the features in the input. One approach to address this sensitivity is to down sample the feature maps. This has the effect of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/A-Gentle-Introduction-to-Pooling-Layers-for-Convolutional-Neural-Networks.jpg"
+        },
+        {
+            "id": 8996,
+            "title": "A Gentle Introduction to Padding and Stride for Convolutional Neural Networks",
+            "url": "https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-19T00:00:00",
+            "description": "The convolutional layer in convolutional neural networks systematically applies filters to an input and creates output feature maps. Although the convolutional layer is very simple, it is capable of achieving sophisticated and impressive results. Nevertheless, it can be challenging to develop an intuition for how the shape of the filters impacts the shape of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/A-Gentle-Introduction-to-Padding-and-Stride-for-Convolutional-Neural-Networks.jpg"
+        },
+        {
+            "id": 8997,
+            "title": "How Do Convolutional Layers Work in Deep Learning Neural Networks?",
+            "url": "https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-17T00:00:00",
+            "description": "Convolutional layers are the major building blocks used in convolutional neural networks. A convolution is the simple application of a filter to an input that results in an activation. Repeated application of the same filter to an input results in a map of activations called a feature map, indicating the locations and strength of a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/A-Gentle-Introduction-to-Convolutional-Layers-for-Deep-Learning-Neural-Networks.jpg"
+        },
+        {
+            "id": 8998,
+            "title": "How to Use Test-Time Augmentation to Make Better Predictions",
+            "url": "https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-15T00:00:00",
+            "description": "Data augmentation is a technique often used to improve performance and reduce generalization error when training neural network models for computer vision problems. The image data augmentation technique can also be applied when making predictions with a fit model in order to allow the model to make predictions for multiple different versions of each image [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/How-to-Use-Test-Time-Augmentation-to-Improve-Model-Performance-for-Image-Classification.jpg"
+        },
+        {
+            "id": 8999,
+            "title": "How to Configure Image Data Augmentation in Keras",
+            "url": "https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-12T00:00:00",
+            "description": "Image data augmentation is a technique that can be used to artificially expand the size of a training dataset by creating modified versions of images in the dataset. Training deep learning neural network models on more data can result in more skillful models, and the augmentation techniques can create variations of the images that can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Plot-of-Augmented-Images-with-a-Horizontal-Shift.png"
+        },
+        {
+            "id": 9000,
+            "title": "How to Load Large Datasets From Directories for Deep Learning in Keras",
+            "url": "https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-10T00:00:00",
+            "description": "There are conventions for storing and structuring your image dataset on disk in order to make it fast and efficient to load and when training and evaluating deep learning models. Once structured, you can use tools like the ImageDataGenerator class in the Keras deep learning library to automatically load your train, test, and validation datasets. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/red_car_01.jpg"
+        },
+        {
+            "id": 9001,
+            "title": "How to Get Started With Deep Learning for Computer Vision (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-computer-vision-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-09T00:00:00",
+            "description": "Deep Learning for Computer Vision Crash Course. Bring Deep Learning Methods to Your Computer Vision Project in 7 Days. We are awash in digital images from photos, videos, Instagram, YouTube, and increasingly live video streams. Working with image data is hard as it requires drawing upon knowledge from diverse domains such as digital signal processing, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/How-to-Get-Started-With-Deep-Learning-for-Computer-Vision-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 9002,
+            "title": "How to Load and Visualize Standard Computer Vision Datasets With Keras",
+            "url": "https://machinelearningmastery.com/how-to-load-and-visualize-standard-computer-vision-datasets-with-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-08T00:00:00",
+            "description": "It can be convenient to use a standard computer vision dataset when getting started with deep learning methods for computer vision. Standard datasets are often well understood, small, and easy to load. They can provide the basis for testing techniques and reproducing results in order to build confidence with libraries and methods. In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Plot-of-a-Subset-of-Images-from-the-Fashion-MNIST-Dataset.png"
+        },
+        {
+            "id": 9003,
+            "title": "A Gentle Introduction to Channels-First and Channels-Last Image Formats",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-channels-first-and-channels-last-image-formats-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-05T00:00:00",
+            "description": "Color images have height, width, and color channel dimensions. When represented as three-dimensional arrays, the channel dimension for the image data is last by default, but may be moved to be the first dimension, often for performance-tuning reasons. The use of these two \u201cchannel ordering formats\u201d and preparing data to meet a specific preferred channel [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/penguin_arade.jpg"
+        },
+        {
+            "id": 9004,
+            "title": "How to Normalize, Center, and Standardize Image Pixels in Keras",
+            "url": "https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-03T00:00:00",
+            "description": "The pixel values in images must be scaled prior to providing the images as input to a deep learning neural network model during the training or evaluation of the model. Traditionally, the images would have to be scaled prior to the development of the model and stored in memory or on disk in the scaled [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/How-to-Normalize-Center-and-Standardize-Images-With-the-ImageDataGenerator-in-Keras.jpg"
+        },
+        {
+            "id": 9005,
+            "title": "How to Load, Convert, and Save Images With the Keras API",
+            "url": "https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-04-01T00:00:00",
+            "description": "The Keras deep learning library provides a sophisticated API for loading, preparing, and augmenting image data. Also included in the API are some undocumented functions that allow you to quickly and easily load, convert, and save image files. These functions can be convenient when getting started on a computer vision deep learning project, allowing you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Example-of-Displaying-a-PIL-image-using-the-Default-Application.png"
+        },
+        {
+            "id": 9006,
+            "title": "How to Evaluate Pixel Scaling Methods for Image Classification With CNNs",
+            "url": "https://machinelearningmastery.com/how-to-evaluate-pixel-scaling-methods-for-image-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-27T00:00:00",
+            "description": "Image data must be prepared before it can be used as the basis for modeling in image classification tasks. One aspect of preparing image data is scaling pixel values, such as normalizing the values to the range 0-1, centering, standardization, and more. How do you choose a good, or even best, pixel scaling method for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/How-to-Evaluate-Pixel-Scaling-Methods-for-Image-Classification-With-Convolutional-Neural-Networks.jpg"
+        },
+        {
+            "id": 9007,
+            "title": "A Gentle Introduction to the Promise of Deep Learning for Computer Vision",
+            "url": "https://machinelearningmastery.com/promise-of-deep-learning-for-computer-vision/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-26T00:00:00",
+            "description": "The promise of deep learning in the field of computer vision is better performance by models that may require more data but less digital signal processing expertise to train and operate. There is a lot of hype and large claims around deep learning methods, but beyond the hype, deep learning methods are achieving state-of-the-art results [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/A-Gentle-Introduction-to-the-Promise-of-Deep-Learning-for-Computer-Vision.jpg"
+        },
+        {
+            "id": 9008,
+            "title": "How to Manually Scale Image Pixel Data for Deep Learning",
+            "url": "https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-25T00:00:00",
+            "description": "Images are comprised of matrices of pixel values. Black and white images are single matrix of pixels, whereas color images have a separate array of pixel values for each color channel, such as red, green, and blue. Pixel values are often unsigned integers in the range between 0 and 255. Although these pixel values can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/The-Sydney-Harbor-Bridge.jpg"
+        },
+        {
+            "id": 9009,
+            "title": "How to Load and Manipulate Images for Deep Learning in Python With PIL/Pillow",
+            "url": "https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-22T00:00:00",
+            "description": "Before you can develop predictive models for image data, you must learn how to load and manipulate images and photographs. The most popular and de facto standard library in Python for loading and working with image data is Pillow. Pillow is an updated version of the Python Image Library, or PIL, and supports a range [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Sydney-Opera-House.jpg"
+        },
+        {
+            "id": 9010,
+            "title": "Stanford Convolutional Neural Networks for Visual Recognition Course (Review)",
+            "url": "https://machinelearningmastery.com/stanford-convolutional-neural-networks-for-visual-recognition-course-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-20T00:00:00",
+            "description": "The Stanford course on deep learning for computer vision is perhaps the most widely known course on the topic. This is not surprising given that the course has been running for four years, is presented by top academics and researchers in the field, and the course lectures and notes are made freely available. This is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Example-from-the-Introductory-Lecture-to-the-CS231n-Course.jpg"
+        },
+        {
+            "id": 9011,
+            "title": "A Gentle Introduction to Computer Vision",
+            "url": "https://machinelearningmastery.com/what-is-computer-vision/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-19T00:00:00",
+            "description": "Computer Vision, often abbreviated as CV, is defined as a field of study that seeks to develop techniques to help computers \u201csee\u201d and understand the content of digital images such as photographs and videos. The problem of computer vision appears simple because it is trivially solved by people, even very young children. Nevertheless, it largely [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/A-Gentle-Introduction-to-Computer-Vision.jpg"
+        },
+        {
+            "id": 9012,
+            "title": "DeepLearning.AI Convolutional Neural Networks Course (Review)",
+            "url": "https://machinelearningmastery.com/deeplearning-ai-convolutional-neural-networks-deep-learning-specialization-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-18T00:00:00",
+            "description": "Andrew Ng is famous for his Stanford machine learning course provided on Coursera. In 2017, he released a five-part course on deep learning also on Coursera titled \u201cDeep Learning Specialization\u201d that included one module on deep learning for computer vision titled \u201cConvolutional Neural Networks.\u201d This course provides an excellent introduction to deep learning methods for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/01/Convolutional-Neural-Networks-Taught-by-Andrew-Ng.png"
+        },
+        {
+            "id": 9013,
+            "title": "8 Books for Getting Started With Computer Vision",
+            "url": "https://machinelearningmastery.com/computer-vision-books/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-15T00:00:00",
+            "description": "Computer vision is a subfield of artificial intelligence concerned with understanding the content of digital images, such as photographs and videos. Deep learning has made impressive inroads on challenging computer vision tasks and makes the promise of further advances. Before diving into the application of deep learning techniques to computer vision, it may be helpful [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Programming-Computer-Vision-with-Python.jpg"
+        },
+        {
+            "id": 9014,
+            "title": "9 Applications of Deep Learning for Computer Vision",
+            "url": "https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-13T00:00:00",
+            "description": "The field of computer vision is shifting from statistical methods to deep learning neural network methods. There are still many challenging problems to solve in computer vision. Nevertheless, deep learning methods are achieving state-of-the-art results on some specific problems. It is not just the performance of deep learning models on benchmark problems that is most [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/12/Example-of-Image-Classification-with-Localization-of-Multiple-Chairs-from-VOC-2012.jpg"
+        },
+        {
+            "id": 9015,
+            "title": "How to Develop Competence With Deep Learning for Computer Vision",
+            "url": "https://machinelearningmastery.com/how-to-develop-and-demonstrate-competence-with-deep-learning-for-computer-vision/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-03-11T00:00:00",
+            "description": "Computer vision is perhaps one area that has been most impacted by developments in deep learning. It can be difficult to both develop and to demonstrate competence with deep learning for problems in the field of computer vision. It is not clear how to get started, what the most important techniques are, and the types [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/How-to-Develop-and-Demonstrate-Competence-With-Deep-Learning-for-Computer-Vision.jpg"
+        },
+        {
+            "id": 9016,
+            "title": "How to Demonstrate Your Basic Skills with Deep Learning",
+            "url": "https://machinelearningmastery.com/how-to-demonstrate-basic-deep-learning-competence/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2019-03-08T00:00:00",
+            "description": "Skills in deep learning are in great demand, although these skills can be challenging to identify and to demonstrate. Explaining that you are familiar with a technique or type of problem is very different to being able to use it effectively with open source APIs on real datasets. Perhaps the most effective way of demonstrating [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Simple-Framework-That-You-Can-Use-to-Demonstrate-Basic-Deep-Learning-Competence.jpg"
+        },
+        {
+            "id": 9017,
+            "title": "3 Levels of Deep Learning Competence",
+            "url": "https://machinelearningmastery.com/deep-learning-competence/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2019-03-06T00:00:00",
+            "description": "Deep learning is not a magic bullet, but the techniques have shown to be highly effective in a large number of very challenging problem domains. This means that there is a ton of demand by businesses for effective deep learning practitioners. The problem is, how can the average business differentiate between good and bad practitioners? [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/The-Three-Levels-of-Deep-Learning-Competence.jpg"
+        },
+        {
+            "id": 9018,
+            "title": "What is a Hypothesis in Machine Learning?",
+            "url": "https://machinelearningmastery.com/what-is-a-hypothesis-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2019-03-04T00:00:00",
+            "description": "Supervised machine learning is often described as the problem of approximating a target function that maps inputs to outputs. This description is characterized as searching through and evaluating candidate hypothesis from hypothesis spaces. The discussion of hypotheses in machine learning can be confusing for a beginner, especially when \u201chypothesis\u201d has a distinct, but related meaning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/A-Gentle-Introduction-to-Hypotheses-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9019,
+            "title": "Why Training a Neural Network Is Hard",
+            "url": "https://machinelearningmastery.com/why-training-a-neural-network-is-hard/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2019-03-01T00:00:00",
+            "description": "Or, Why Stochastic Gradient Descent Is Used to Train Neural Networks. Fitting a neural network involves using a training dataset to update the model weights to create a good mapping of inputs to outputs. This training process is solved using an optimization algorithm that searches through a space of possible values for the neural network [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/12/Example-of-Local-and-Global-Minima-on-an-Error-Surface.png"
+        },
+        {
+            "id": 9020,
+            "title": "How to use Learning Curves to Diagnose Machine Learning Model Performance",
+            "url": "https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2019-02-27T00:00:00",
+            "description": "A learning curve is a plot of model learning performance over experience or time. Learning curves are a widely used diagnostic tool in machine learning for algorithms that learn from a training dataset incrementally. The model can be evaluated on the training dataset and on a hold out validation dataset after each update during training [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/12/Example-of-Train-and-Validation-Learning-Curves-Showing-a-Training-Dataset-the-May-be-too-Small-Relative-to-the-Validation-Dataset.png"
+        },
+        {
+            "id": 9021,
+            "title": "How to Fix FutureWarning Messages in scikit-learn",
+            "url": "https://machinelearningmastery.com/how-to-fix-futurewarning-messages-in-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2019-02-26T00:00:00",
+            "description": "Upcoming changes to the scikit-learn library for machine learning are reported through the use of FutureWarning messages when the code is run. Warning messages can be confusing to beginners as it looks like there is a problem with the code or that they have done something wrong. Warning messages are also not good for operational [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/How-to-Fix-FutureWarning-Messages-in-scikit-learn.jpg"
+        }
+    ]
+}

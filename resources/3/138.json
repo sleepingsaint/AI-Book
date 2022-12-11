@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6084,
+            "title": "Cheat Sheet for Exploratory Data Analysis in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Business Analytics, Cheatsheet, Data Exploration, Infographics, Python",
+            "publishedOn": "2015-06-08T00:00:00",
+            "description": "Python data exploration cheat sheet includes how to load a data file,sort data, transpose table and similar steps using NumPy, pandas, matplotlib.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/Capture.jpg"
+        },
+        {
+            "id": 6085,
+            "title": "Beginners Tutorial for Regular Expressions in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/",
+            "authors": "Sunil Ray",
+            "tags": "Beginner, Data Science, Libraries, NLP, Programming, Python, Text, Unstructured Data",
+            "publishedOn": "2015-06-07T00:00:00",
+            "description": "Python regular expression (regex) tutorial for beginners. In this regex tutorial learn various methods and application of regular expression with example.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/caracters008.jpg"
+        },
+        {
+            "id": 6086,
+            "title": "Hackathon Problem Description: Do you know who\u2019s a Megastar?",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/dataset-description-megastar/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Business Analytics, Python, R, SAS",
+            "publishedOn": "2015-06-07T00:00:00",
+            "description": "This hackathon has been designed to help you practice and evaluate your analytics learning. Predict categories Rookie, Champion, Rising Star, Star, Rock Star & Mega Star of professionals.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/hackathon-update.jpg"
+        },
+        {
+            "id": 6087,
+            "title": "The Hackathon Practice Guide by Analytics Vidhya",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/hackathon-practice-guide-analytics-vidhya/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Business Analytics, Data Exploration, Data Visualization, Intermediate, Machine Learning, Python, R, Resource, Structured Data",
+            "publishedOn": "2015-06-05T00:00:00",
+            "description": "Resource and guide to learn python, R, and the overview of logistic regression, decision tree, SVM, hypothesis generation, data exploration, random forest and prepare for Data Hackathon Online Contest.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2015/06/model-building1.png"
+        },
+        {
+            "id": 6088,
+            "title": "Kaggle Competitions: How and where to begin?",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Intermediate, Python, R, Resource",
+            "publishedOn": "2015-06-04T00:00:00",
+            "description": "This article illustrates skills needed to solve kaggle problems in kaggle competitions like titanic and more with their difficulty level and right approach.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle1.jpg"
+        },
+        {
+            "id": 6089,
+            "title": "Data visualization guide for SAS",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/data-visualization-guide-sas/",
+            "authors": "Shuvayan Das",
+            "tags": "Business Intelligence, Data Exploration, Data Visualization, Intermediate, Resource, SAS",
+            "publishedOn": "2015-06-03T00:00:00",
+            "description": "Simple data visualization guide for SAS beginners and learners. It includes various data visualisation methods, and application with implementation in SAS.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/new-DV-in-sas.jpg"
+        },
+        {
+            "id": 6090,
+            "title": "Cheat sheet: Data Visualisation in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Business Analytics, Cheatsheet, Data Visualization, Infographics, Python",
+            "publishedOn": "2015-06-02T00:00:00",
+            "description": "Python data visualization cheat sheet for popular data visualization methods like histogram, scatter plot, pie chart for representing data.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/06/for-fb.png"
+        },
+        {
+            "id": 6091,
+            "title": "All out beginner\u2019s guide to MongoDB",
+            "url": "https://www.analyticsvidhya.com/blog/2015/06/beginners-guide-mongodb/",
+            "authors": "Shuvayan Das",
+            "tags": "Big data, Business Intelligence, Database, Intermediate, Libraries, MongoDB, NoSQL, Programming",
+            "publishedOn": "2015-06-01T00:00:00",
+            "description": "MongoDB beginners guide to learn mongodb, its structural aspects like data model, sharding with comparison of database and steps for how to install mongodb.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/new-c2.1.jpg"
+        },
+        {
+            "id": 6092,
+            "title": "Why Business Intelligence Should Be a Piece of the Security Puzzle?",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/business-intelligence-piece-security-puzzle/",
+            "authors": "guest_blog",
+            "tags": "Analytics Vidhya, Business Intelligence, Intermediate, Resource",
+            "publishedOn": "2015-05-30T00:00:00",
+            "description": "Security analytics and business intelligence tools have a major impact on securing data security in organization. These tools can predict attacks.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/Screenshot-27.png"
+        },
+        {
+            "id": 6093,
+            "title": "k-Fold Cross Validation made simple",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/k-fold-cross-validation-simple/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Classification, Intermediate, Machine Learning, Python, R, Regression, Supervised, Technique",
+            "publishedOn": "2015-05-28T00:00:00",
+            "description": "Learn different model evaluation metrics for machine learning like cross validation, confusion matrix, AUC-ROC, RMSE, Gini coefficients and more.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/02/error.jpg"
+        },
+        {
+            "id": 6094,
+            "title": "Moving into analytics after a break in career? Don\u2019t expect a rosy land!",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/moving-analytics-break-career-expect-rosy-land/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Interview Questions, Interviews, Job Roles",
+            "publishedOn": "2015-05-26T00:00:00",
+            "description": "This article talks about the challenges faced, tips & best practices for people trying to transition into analytics career after a break.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/break2.jpg"
+        },
+        {
+            "id": 6095,
+            "title": "Infographic: Quick Guide on SAS vs R vs Python",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-sas-python/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Beginner, Infographic, Infographics, Python, R, SAS",
+            "publishedOn": "2015-05-26T00:00:00",
+            "description": "SAS vs R vs Python have similar abilities and have its own importance. This infographic describes the best tool to be used in the analytics industry.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/infographic-screen1.jpg"
+        },
+        {
+            "id": 6096,
+            "title": "Case study \u2013 Building and implementing a predictive model in 3 days",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/created-analytics-professional-salary-test/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Business Analytics, Data Exploration, Intermediate, Machine Learning, Resource",
+            "publishedOn": "2015-05-24T00:00:00",
+            "description": "This article is a review of a case study on building predictive model and implementing it to predict salary of analytics professionals in India by startups.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/lightbulb1-copy.jpg"
+        },
+        {
+            "id": 6097,
+            "title": "Launching Analytics Professional Salary Test, India",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/launching-analytics-professional-salary-test-india/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Beginner, Business Analytics, News",
+            "publishedOn": "2015-05-22T00:00:00",
+            "description": "Announcing the launch of Analytics professional salary test for India",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/fb-page-promotion.jpg"
+        },
+        {
+            "id": 6098,
+            "title": "In Conversation with Mr. Sanjeev Mishra, CEO, Convergytics",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/conversation-mr-sanjeev-mishra-ceo-convergytics/",
+            "authors": "Kunal Jain",
+            "tags": "Business Analytics, Intermediate, Interview Questions, Interviews",
+            "publishedOn": "2015-05-21T00:00:00",
+            "description": "Convergytics provides analytics solutions to companies to help them making better decisions. Sanjeev Mishra, CEO talks on growth of analytics industry",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/sanjeev-mishra-copy.jpg"
+        },
+        {
+            "id": 6099,
+            "title": "Getting smart with Machine Learning \u2013 AdaBoost and Gradient Boost",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/boosting-algorithms-simplified/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Business Analytics, Classification, Intermediate, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2015-05-19T00:00:00",
+            "description": "Boosting is a powerful tool in machine learning. Learn the commonly used boosting algorithms Ada Boost, Gradient Boost, Gentle Boost, Brown boost.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/poster-learning-machin.jpg"
+        },
+        {
+            "id": 6100,
+            "title": "Infographic \u2013 Quick Guide to learn Python for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Infographic, Infographics, Python",
+            "publishedOn": "2015-05-19T00:00:00",
+            "description": "This infographic show best resources to learn python for data science. These resources are most useful to practice and learn python quickly.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/python-info-screenshot.jpg"
+        },
+        {
+            "id": 6101,
+            "title": "9 popular ways to perform Data Visualization in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/",
+            "authors": "Sunil Ray",
+            "tags": "Data Visualization, Intermediate, Listicle, Python, Technique",
+            "publishedOn": "2015-05-17T00:00:00",
+            "description": "The article features ways to perform data visualization in python with exclusive libraries matplotlib and seaborn for visualization.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/circle.jpg"
+        },
+        {
+            "id": 6102,
+            "title": "List of amazing talks from New York R Conference 2015",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/talks-new-york-r-conference-2015/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Business Analytics, Conferences, Listicle, R",
+            "publishedOn": "2015-05-14T00:00:00",
+            "description": "From NewYork R conference 2015, here is a list of amazing videos which describes about various application of R i.e. statistics, machine learning",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/list-of-amazing.jpg"
+        },
+        {
+            "id": 6103,
+            "title": "Interview with Daniel Graham, General Manager, Teradata",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/interview-daniel-graham-teradata/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Big data, Business Analytics, Business Intelligence, Data Visualization, Interview Questions, Interviews, Qlikview",
+            "publishedOn": "2015-05-12T00:00:00",
+            "description": "This interview features Daniel Graham, talking about the product offerings of Teradata & how they have made use of technologies to stay ahead",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/AV-banner-green-3.jpg"
+        },
+        {
+            "id": 6104,
+            "title": "A Comprehensive guide to Parametric Survival Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/comprehensive-guide-parametric-survival-analysis/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Intermediate, Machine Learning, Technique",
+            "publishedOn": "2015-05-10T00:00:00",
+            "description": "An introduction to parametric analysis. Learn about parametric survival analysis using distribution like normal, uniform, lognormal along with applications.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/parametric.png"
+        },
+        {
+            "id": 6105,
+            "title": "Why Business Analytics Degrees Aren\u2019t Just a Fad",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/business-analytics-degrees-arent-fad/",
+            "authors": "guest_blog",
+            "tags": "Analytics Vidhya, Beginner, Business Analytics, Education, Resource",
+            "publishedOn": "2015-05-08T00:00:00",
+            "description": "This article explains the importance of business analytics and future growth of business analysts job in industry. How to become business analyst.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/dataviz3.png"
+        },
+        {
+            "id": 6106,
+            "title": "Ultimate resource for understanding & creating data visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/data-visualization-resource/",
+            "authors": "Sunil Ray",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Data Exploration, Data Visualization, Listicle, Machine Learning, Python, R, SAS, Structured Data",
+            "publishedOn": "2015-05-08T00:00:00",
+            "description": "Ultimate guide to create data visualization and resources for understanding various data visualization methods used in graphs, charts, heatmap, box plot etc",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/Viz-Libero-heat-map.png"
+        },
+        {
+            "id": 6107,
+            "title": "Interview with Joe Doliner, Co-Founder and CEO of Pachyderm ( Y Combinator Startup)",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/interview-joe-doliner-founder-pachyderm-ycombinator-startup/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Beginner, Big data, Business Analytics, Startups",
+            "publishedOn": "2015-05-05T00:00:00",
+            "description": "This article features interview with Mr. Joe Doliner, Co-Founder & CEO of Pachyderm, discussed about big data, analytics using docker, mapreduce & big data industry.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/Joe-1.jpg"
+        },
+        {
+            "id": 6108,
+            "title": "How to create Parametric Survival model that gets right distribution?",
+            "url": "https://www.analyticsvidhya.com/blog/2015/05/finding-distribution-parametric-survival-model/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Business Analytics, Infographic, Statistics",
+            "publishedOn": "2015-05-03T00:00:00",
+            "description": "In this article we will discuss how to create Parametric Survival model, types of model, few commonly used distribution in a survival model.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/05/featured-survival.png"
+        },
+        {
+            "id": 6109,
+            "title": "Review \u2013 Business Analytics Post Graduate Program \u2013 Praxis Business School, Kolkata",
+            "url": "https://www.analyticsvidhya.com/blog/2015/04/review-business-analytics-post-graduate-program-praxis-business-school-kolkata/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Resource",
+            "publishedOn": "2015-04-30T00:00:00",
+            "description": "This article reviews Post graduation program in business analytics at Praxis Business School, Kolkata on faculty, course content & placement",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/Praxis-Business-School.jpg"
+        },
+        {
+            "id": 6110,
+            "title": "Swirl Package \u2013 Easy way to \u201clearn R, in R\u201d",
+            "url": "https://www.analyticsvidhya.com/blog/2015/04/swirl-package-easy-learn-r/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Business Analytics, Libraries, Programming, R",
+            "publishedOn": "2015-04-28T00:00:00",
+            "description": "Swirl package is an easy way to learn R in R. This article discusses Why learn R? and provides a guide to swirl and way to learn r programming.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/swirl_logo.jpg"
+        },
+        {
+            "id": 6111,
+            "title": "Comprehensive guide for Data Exploration in R",
+            "url": "https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-r/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Business Analytics, Data Exploration, R, Structured Data, Technique",
+            "publishedOn": "2015-04-26T00:00:00",
+            "description": "A complete guide to data exploration in R explains how to read data sets in R, explore data in R, impute missing values in your dataset, merge in R, etc",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/r.jpg"
+        },
+        {
+            "id": 6112,
+            "title": "Best Data Science talks from PyCon Montreal 2015",
+            "url": "https://www.analyticsvidhya.com/blog/2015/04/pycon-montreal-2015-data-science-talks/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Conferences, Listicle, Python",
+            "publishedOn": "2015-04-23T00:00:00",
+            "description": "This article lists various curated videos from PyCon Montreal 2015 workshops. These videos help to learn Python, Pandas, Hadoop, data analytics, Spark, etc.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/PyCon-Talks.png"
+        },
+        {
+            "id": 6113,
+            "title": "Application of PageRank algorithm to analyze packages in R",
+            "url": "https://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Big data, Graphs & Networks, Intermediate, Project, R, Ranking, Unsupervised",
+            "publishedOn": "2015-04-21T00:00:00",
+            "description": "This article explains the practical application of PageRank algorithm used by search engines to analyze packages in R with R commands like miniCran, pkgdep",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/page-rank.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9652,
+            "title": "How to Layout and Manage Your Machine Learning Project",
+            "url": "https://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-05-12T00:00:00",
+            "description": "Project layout is critical for machine learning projects just as it is for software development projects. I think of it like language. A project layout organizes thoughts and gives you context for ideas just like knowing the names for things gives you the basis for thinking. In this post I want to highlight some considerations [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/project-template.jpg"
+        },
+        {
+            "id": 9653,
+            "title": "Best Programming Language for Machine Learning",
+            "url": "https://machinelearningmastery.com/best-programming-language-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-05-10T00:00:00",
+            "description": "A question I get asked a lot is: What is the best programming language for machine learning? I\u2019ve replied to this question\u00a0many times now it\u2019s about time to explore this further in a blog post. Ultimately, the programming language you use for machine learning should consider your\u00a0own requirements and predilections. No one can meaningfully address [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/kaggle-most-popular-tools.png"
+        },
+        {
+            "id": 9654,
+            "title": "The Seductive Trap of Black-Box Machine Learning",
+            "url": "https://machinelearningmastery.com/the-seductive-trap-of-black-box-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-04-29T00:00:00",
+            "description": "For as long as I have been participating in data mining and machine learning competitions, I have thought about automating my participation. Maybe it shows that I want to solve the problem of building the tool more than I want to solve the problem at hand. When working on a dataset, I typically spend a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/black-box-machine-learning.jpg"
+        },
+        {
+            "id": 9655,
+            "title": "IPython from the shell to a book with a single tool with Fernando Perez",
+            "url": "https://machinelearningmastery.com/ipython-from-the-shell-to-a-book-with-a-single-tool-with-fernando-perez/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-04-27T00:00:00",
+            "description": "If you get serious with data analysis and machine learning in python then you will make good use of IPython notebooks. In this post we will review some takeaway points made by Fernando Perez, the creator of IPython in a keynote presentation at SciPy 2013. The title of the talk was\u00a0IPython: from the shell to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/schematic.jpg"
+        },
+        {
+            "id": 9656,
+            "title": "How to Get Started with Machine Learning in Python",
+            "url": "https://machinelearningmastery.com/how-to-get-started-with-machine-learning-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-04-23T00:00:00",
+            "description": "The Python conference PyCon2014 has held recently and the videos for the conference are online. I have been working my way through the interesting machine learning ones and will share a few on this over the coming weeks. A great talk if you are starting out in data science or machine learning in python was [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/data-science-roles-and-skills.jpg"
+        },
+        {
+            "id": 9657,
+            "title": "The Data Analytics Handbook: Data Analysts and Data Scientists",
+            "url": "https://machinelearningmastery.com/the-data-analytics-handbook-data-analysts-and-data-scientists/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-04-21T00:00:00",
+            "description": "What is the difference between a\u00a0Data Analyst and a Data Scientist and what\u00a0type of work do they do all day? These questions and questions like them are\u00a0answered in the new free ebook\u00a0The Data Analytics Handbook: Data Analysts and Data Scientists. The ebook was created by\u00a0Brian Liou, Tristan Tao and Elizabeth Lin.\u00a0Brian and\u00a0Tristan are Computer Science [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/The-Data-Analytics-Handbook-Data-Analysts-and-Data-Scientists.jpg"
+        },
+        {
+            "id": 9658,
+            "title": "Bootstrapping Machine Learning: An Upcoming Book on Prediction APIs",
+            "url": "https://machinelearningmastery.com/bootstrapping-machine-learning-an-upcoming-book-on-prediction-apis/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-04-18T00:00:00",
+            "description": "I came across an upcoming\u00a0book that might interest you. It is titled\u00a0Bootstrapping Machine Learning by\u00a0Louis Dorard, PhD. A 40-page\u00a0sample is provided and I enjoyed it. I think the final book will be a valuable read. Louis takes the position that machine learning is commoditized\u00a0to the point where\u00a0if you are an application\u00a0developer, you don\u2019t need to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/bootstrapping-machine-learning-cover-web.jpg"
+        },
+        {
+            "id": 9659,
+            "title": "A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-04-16T00:00:00",
+            "description": "In this post you will get an gentle introduction to the scikit-learn Python library and useful references that you can use to dive deeper.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/plot_mean_shift_1.png"
+        },
+        {
+            "id": 9660,
+            "title": "Python Machine Learning Books",
+            "url": "https://machinelearningmastery.com/python-machine-learning-books/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-04-14T00:00:00",
+            "description": "Python is a very popular language for machine learning. The machine learning libraries and frameworks in Python (especially around the SciPy stack) are maturing quickly. They may not be as feature rich as R, but they are robust enough for small to medium scale production implementation. If you are a Python programmer looking to get [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/Building-Machine-Learning-Systems-with-Python.jpg"
+        },
+        {
+            "id": 9661,
+            "title": "Case Study: Predicting the Onset of Diabetes Within Five Years (part 3 of 3)",
+            "url": "https://machinelearningmastery.com/case-study-predicting-the-onset-of-diabetes-within-five-years-part-3-of-3/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-04-11T00:00:00",
+            "description": "This is a guest post by Igor Shvartser, a clever young student I have been coaching. This post is part 3 in a 3 part series on modeling the famous Pima Indians Diabetes dataset that will investigate improvements to the classification accuracy and present final results (update: download from here). In\u00a0Part 1\u00a0we defined the problem [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/diabetes-less-features-results-f1.jpg"
+        },
+        {
+            "id": 9662,
+            "title": "Introduction to Bayesian Networks with Jhonatan de Souza Oliveira",
+            "url": "https://machinelearningmastery.com/introduction-to-bayesian-networks-with-jhonatan-de-souza-oliveira/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-04-09T00:00:00",
+            "description": "This post is a spotlight interview with Jhonatan de Souza Oliveira\u00a0on the topic of\u00a0Bayesian Networks. Could you please introduce yourself? My name is Jhonatan Oliveira and I am an undergraduate student in Electrical Engineering at the Federal University of Vicosa, Brazil. I have been interested in Artificial Intelligence since the beginning of college, when had [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/example-bayesian-network.png"
+        },
+        {
+            "id": 9663,
+            "title": "BigML Tutorial: Develop Your First Decision Tree and Make Predictions",
+            "url": "https://machinelearningmastery.com/bigml-tutorial-develop-your-first-decision-tree-and-make-predictions/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-04-07T00:00:00",
+            "description": "BigML is a fresh new and interesting machine learning as a service company based out of Corvallis, Oregon, USA. In a previous post, we reviewed the BigML service, the key features and the ways in which you could use this service in your business, on you side project or to present to clients. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/bigml-predictive-model.png"
+        },
+        {
+            "id": 9664,
+            "title": "Case Study: Predicting the Onset of Diabetes Within Five Years (part 2 of 3)",
+            "url": "https://machinelearningmastery.com/case-study-predicting-the-onset-of-diabetes-within-five-years-part-2-of-3/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-04-04T00:00:00",
+            "description": "This is a guest post by Igor Shvartser, a clever young student I have been coaching. This post is part 2 in a 3 part series on modeling the famous Pima Indians Diabetes dataset\u00a0(update: download from here).\u00a0 In Part 1 we defined the problem and looked at the dataset, describing observations from the patterns we [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/summary-of-results-f1-score.png"
+        },
+        {
+            "id": 9665,
+            "title": "Project Spotlight: Face Recognition with Shashank Singh",
+            "url": "https://machinelearningmastery.com/project-spotlight-face-recognition-with-shashank-singh/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-04-02T00:00:00",
+            "description": "This is a project spotlight with Shashank Singh a programmer and machine learning enthusiast. Could you please introduce yourself? I did Bachelors of Technology in Computer Science. I co-founded a startup at 23, spectacularly crashed it by 26th birthday.\u00a0After that I was feeling particularly low and pretty dry of inspiration for quite some time. I [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/child-beggers.jpg"
+        },
+        {
+            "id": 9666,
+            "title": "BigML Review: Discover the Clever Features in This Machine Learning as a Service Platform",
+            "url": "https://machinelearningmastery.com/bigml-review-discover-the-clever-features-in-this-machine-learning-as-a-service-platform/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-03-31T00:00:00",
+            "description": "Machine Learning has been commoditized into a service. This is a recent trend that looks like it will develop into the mainstream like commoditized storage and virtualization. It is the natural next step. In this review you will learn about BigML that provides commoditized machine learning as a service for business analysts and application integration. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/bigml-sunburst.jpg"
+        },
+        {
+            "id": 9667,
+            "title": "Case Study: Predicting the Onset of Diabetes Within Five Years (part 1 of 3)",
+            "url": "https://machinelearningmastery.com/case-study-predicting-the-onset-of-diabetes-within-five-years-part-1-of-3/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-03-29T00:00:00",
+            "description": "This is a guest post by Igor Shvartser,\u00a0a clever young student I have been coaching. This post is part 1 in a 3 part series on modeling the famous Pima Indians Diabetes dataset that will introduce the problem and the data. Part 2 will investigate feature selection and spot checking algorithms and Part 3 in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/diabetes.jpg"
+        },
+        {
+            "id": 9668,
+            "title": "5 Steps to Thinking Like a Designer in Machine Learning",
+            "url": "https://machinelearningmastery.com/5-steps-to-thinking-like-a-designer-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-03-26T00:00:00",
+            "description": "This is a guest post by\u00a0Kevin Dalias. I recently had the chance to attend Strata 2014 in Santa Clara, and since it was my first time at the conference, I tried to attend as many sessions as I could to understand what really makes data science tick these days. And of course, I heard plenty [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/wire-frame.jpg"
+        },
+        {
+            "id": 9669,
+            "title": "Machine Learning Tips from a World Class Practitioner: Phil Brierley",
+            "url": "https://machinelearningmastery.com/machine-learning-tips-from-a-world-class-practitioner-phil-brierley/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-03-24T00:00:00",
+            "description": "Phil Brierley won the\u00a0Heritage Health Prize Kaggle machine learning competition.\u00a0Phil\u00a0was trained as a mechanical engineer and has a background in data mining with his company\u00a0Tiberius Data Mining. He is heavily into R these days and keeps a blog at\u00a0Another Data Mining Blog. In October 2013 he presented to the Melbourne Users of R special interest [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/machine-learning-tips-from-phil-brierley.jpg"
+        },
+        {
+            "id": 9670,
+            "title": "Classification Accuracy is Not Enough: More Performance Measures You Can Use",
+            "url": "https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-03-21T00:00:00",
+            "description": "When you build a model for a classification problem you almost always want to look at the accuracy of that model as the number of correct predictions from all predictions made. This is the classification accuracy. In a previous post, we have looked at evaluating the robustness of a model for making predictions on unseen [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/classification-accuracy.jpg"
+        },
+        {
+            "id": 9671,
+            "title": "Project Spotlight: Event Recommendation in Python with Artem Yankov",
+            "url": "https://machinelearningmastery.com/project-spotlight-with-artem-yankov/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-03-19T00:00:00",
+            "description": "This is a project spotlight with\u00a0Artem Yankov. Could you please introduce yourself? My name is Artem Yankov, I have worked as a software engineer for Badgeville for the last 3 years. I\u2019m using there Ruby and Scala although my prior background includes use of various languages such as: Assembly, C/C++, Python, Clojure and JS. I [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/HapsRadar.png"
+        },
+        {
+            "id": 9672,
+            "title": "Market Basket Analysis with Association Rule Learning",
+            "url": "https://machinelearningmastery.com/market-basket-analysis-with-association-rule-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-03-17T00:00:00",
+            "description": "The promise of Data Mining was that algorithms would crunch data and find interesting patterns that you could exploit in your business. The exemplar of this promise is market basket analysis\u00a0(Wikipedia calls it affinity analysis). Given a pile of transactional records, discover interesting purchasing patterns that could be exploited in the store, such as offers [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/market-basket-analysis.jpg"
+        },
+        {
+            "id": 9673,
+            "title": "Project Spotlight: Stack Exchange Clustering using Mahout with Konstantin Slisenko",
+            "url": "https://machinelearningmastery.com/project-spotlight-stack-exchange-clustering-using-mahout-with-konstantin-slisenko/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-03-14T00:00:00",
+            "description": "This is a project spotlight with\u00a0Konstantin Slisenko a programmer and machine learning enthusiast. Could you please introduce yourself? My name is Konstantin Slisenko, I\u2019m from Belarus. I graduated from the Belarusian State University of Informatics and Radioelectronics. I am currently taking a master course. I\u2019m a Java developer and work in JazzTeam company. I like [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/Stack-Exchange-Clustering-using-Mahout.jpg"
+        },
+        {
+            "id": 9674,
+            "title": "Feature Selection to Improve Accuracy and Decrease Training Time",
+            "url": "https://machinelearningmastery.com/feature-selection-to-improve-accuracy-and-decrease-training-time/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-03-12T00:00:00",
+            "description": "Working on a problem, you are always looking to get the most out of the data that you have available. You want the best accuracy you can get. Typically, the biggest wins are in better understanding the problem you are solving. This is why I stress you spend so much time up front defining your [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/feature-selection.jpg"
+        },
+        {
+            "id": 9675,
+            "title": "Biggest Mistake I Made When Starting Machine Learning, And How To Avoid It",
+            "url": "https://machinelearningmastery.com/biggest-mistake-i-made-when-starting-machine-learning-and-how-to-avoid-it/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-03-10T00:00:00",
+            "description": "When I first got started in machine learning I implemented algorithms by hand. It was really slow going. I was a terrible programmer at the time. I was trying to figure out the algorithms from books, how to use them on problems and how to write code \u2013 all at the same time. This was [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Spot-Check-Classification-Machine-Learning-Algorithms-in-Python-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9676,
+            "title": "Template for Working through Machine Learning Problems in Weka",
+            "url": "https://machinelearningmastery.com/template-for-working-through-machine-learning-problems-in-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-03-07T00:00:00",
+            "description": "When you are getting started in Weka, you may feel overwhelmed. There are so many datasets, so many filters and so many algorithms to choose from. There is too much choice. There are too many things you could be doing. Structured process is key. I have talked about process and the need for tasks like [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/choice.jpg"
+        },
+        {
+            "id": 9677,
+            "title": "A Simple Intuition for Overfitting, or Why Testing on Training Data is a Bad Idea",
+            "url": "https://machinelearningmastery.com/a-simple-intuition-for-overfitting/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-03-05T00:00:00",
+            "description": "When you first start out with machine learning you load a dataset and try models. You might think to yourself, why can\u2019t I just build a model with all of the data and evaluate it on the same dataset? It seems reasonable. More data to train the model is better, right? Evaluating the model and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/Modeling-a-Target-Function.jpg"
+        },
+        {
+            "id": 9678,
+            "title": "4-Steps to Get Started in Applied Machine Learning",
+            "url": "https://machinelearningmastery.com/4-steps-to-get-started-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-03-03T00:00:00",
+            "description": "A Top-Down Strategy for Beginners to Start and Practice Machine Learning. Getting started is much easier than you think. In this post I show you the top-down approach for getting started in applied machine learning. You will discover the four steps to this approach. They should feel familiar because it\u2019s probably the same top-down approach [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/beginners-are-different.jpg"
+        },
+        {
+            "id": 9679,
+            "title": "Make Better Predictions with Boosting, Bagging and Blending Ensembles in Weka",
+            "url": "https://machinelearningmastery.com/improve-machine-learning-results-with-boosting-bagging-and-blending-ensemble-methods-in-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-28T00:00:00",
+            "description": "Weka is the perfect platform for studying machine learning. It provides a graphical user interface for exploring and experimenting with machine learning algorithms on datasets, without you having to worry about the mathematics or the programming. In a previous post we looked at how to design and run an experiment running 3 algorithms on a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-25-at-5.30.54-AM.png"
+        },
+        {
+            "id": 9680,
+            "title": "How to Tune a Machine Learning Algorithm in Weka",
+            "url": "https://machinelearningmastery.com/how-to-tune-a-machine-learning-algorithm-in-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-26T00:00:00",
+            "description": "Weka is the perfect platform for learning machine learning. It provides a graphical user interface for exploring and experimenting with machine learning algorithms on datasets, without you having to worry about the mathematics or the programming. In a previous post we looked at how to design and run an experiment with 3 algorithms on a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/manhattan.jpg"
+        },
+        {
+            "id": 9681,
+            "title": "Quick and Dirty Data Analysis for your Machine Learning Problem",
+            "url": "https://machinelearningmastery.com/quick-and-dirty-data-analysis-for-your-machine-learning-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2014-02-24T00:00:00",
+            "description": "A part of having a good understanding of the machine learning problem that you\u2019re working on, you need to know the data intimately. I personally find this step onerous sometimes and just want to get on with defining my test harness, but I know it always flushes out interested ideas and assumptions to test. As [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/02/quick-and-dirty.jpg"
+        }
+    ]
+}

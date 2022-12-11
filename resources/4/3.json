@@ -1,0 +1,185 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 6424,
+            "title": "Model-based Reinforcement Learning with Neural Network Dynamics",
+            "url": "https://bair.berkeley.edu/blog/2017/11/30/model-based-rl/",
+            "authors": "Anusha Nagabandi, Gregory Kahn",
+            "tags": null,
+            "publishedOn": "2017-11-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/model-rl/fig_1a.png"
+        },
+        {
+            "id": 6425,
+            "title": "The Emergence of a Fovea while Learning to Attend",
+            "url": "https://bair.berkeley.edu/blog/2017/11/09/learn-to-attend-fovea/",
+            "authors": "Brian Cheung",
+            "tags": null,
+            "publishedOn": "2017-11-09T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/fovea/translate_only.png"
+        },
+        {
+            "id": 6426,
+            "title": "DART: Noise Injection for Robust Imitation Learning",
+            "url": "https://bair.berkeley.edu/blog/2017/10/26/dart/",
+            "authors": "Michael Laskey, Jonathan Lee, and Ken Goldberg",
+            "tags": null,
+            "publishedOn": "2017-10-26T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/dart/dart_intuition.png"
+        },
+        {
+            "id": 6427,
+            "title": "Learning Long Duration Sequential Task Structure From Demonstrations with Application in Surgical Robotics",
+            "url": "https://bair.berkeley.edu/blog/2017/10/17/lfd-surgical-robots/",
+            "authors": "Sanjay Krishnan, Roy Fox, and Ken Goldberg",
+            "tags": null,
+            "publishedOn": "2017-10-17T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/surgical_robots/tensioning-task.png"
+        },
+        {
+            "id": 6428,
+            "title": "Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/",
+            "authors": "Haoran Tang and Tuomas Haarnoja",
+            "tags": null,
+            "publishedOn": "2017-10-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/softq/figure_3b_multimodal_policy.png"
+        },
+        {
+            "id": 6429,
+            "title": "Learning to Optimize with Reinforcement Learning",
+            "url": "https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/",
+            "authors": "Ke Li",
+            "tags": null,
+            "publishedOn": "2017-09-12T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/lto/teaser.png"
+        },
+        {
+            "id": 6430,
+            "title": "Learning a Multi-View Stereo Machine",
+            "url": "https://bair.berkeley.edu/blog/2017/09/05/unified-3d/",
+            "authors": "Abhishek Kar",
+            "tags": null,
+            "publishedOn": "2017-09-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/unified-3d/problem_fig.png"
+        },
+        {
+            "id": 6431,
+            "title": "How to Escape Saddle Points Efficiently",
+            "url": "https://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/",
+            "authors": "Chi Jin and Michael Jordan",
+            "tags": null,
+            "publishedOn": "2017-08-31T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/saddle_eff/strictsaddle.png"
+        },
+        {
+            "id": 6432,
+            "title": "High Quality 3D Object Reconstruction from a Single Color Image",
+            "url": "https://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/",
+            "authors": "Christian H\u00e4ne",
+            "tags": null,
+            "publishedOn": "2017-08-23T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/hsp/image_0.png"
+        },
+        {
+            "id": 6433,
+            "title": "Cooperatively Learning Human Values",
+            "url": "https://bair.berkeley.edu/blog/2017/08/17/cooperatively-learning-human-values/",
+            "authors": "Dylan Hadfield-Menell",
+            "tags": null,
+            "publishedOn": "2017-08-17T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/coop_irl/cirl.png"
+        },
+        {
+            "id": 6434,
+            "title": "Captioning Novel Objects in Images",
+            "url": "https://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/",
+            "authors": "Subhashini Venugopalan and Lisa Anne Hendricks",
+            "tags": null,
+            "publishedOn": "2017-08-08T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/novel_image_captioning/image_3.png"
+        },
+        {
+            "id": 6435,
+            "title": "Minibatch Metropolis-Hastings",
+            "url": "https://bair.berkeley.edu/blog/2017/08/02/minibatch-metropolis-hastings/",
+            "authors": "Daniel Seita and John Canny",
+            "tags": null,
+            "publishedOn": "2017-08-02T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/mh_test/mhtest_example_progression.png"
+        },
+        {
+            "id": 6436,
+            "title": "Learning to Learn",
+            "url": "https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/",
+            "authors": "Chelsea Finn",
+            "tags": null,
+            "publishedOn": "2017-07-18T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/maml/maml.png"
+        },
+        {
+            "id": 6437,
+            "title": "The Confluence of Geometry and Learning",
+            "url": "https://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/",
+            "authors": "Shubham Tulsiani and Tinghui Zhou",
+            "tags": null,
+            "publishedOn": "2017-07-11T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        },
+        {
+            "id": 6438,
+            "title": "Constrained Policy Optimization",
+            "url": "https://bair.berkeley.edu/blog/2017/07/06/cpo/",
+            "authors": "Joshua Achiam",
+            "tags": null,
+            "publishedOn": "2017-07-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        },
+        {
+            "id": 6439,
+            "title": "Releasing the Dexterity Network (Dex-Net) 2.0 Dataset for Deep Grasping",
+            "url": "https://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/",
+            "authors": "Jeff Mahler",
+            "tags": null,
+            "publishedOn": "2017-06-27T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        },
+        {
+            "id": 6440,
+            "title": "Learning to Reason with Neural Module Networks",
+            "url": "https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/",
+            "authors": "Jacob Andreas",
+            "tags": null,
+            "publishedOn": "2017-06-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/nmns/tying.jpg"
+        },
+        {
+            "id": 6441,
+            "title": "Introducing the BAIR Blog",
+            "url": "https://bair.berkeley.edu/blog/2017/06/20/welcome/",
+            "authors": "Sergey Levine",
+            "tags": null,
+            "publishedOn": "2017-06-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+        }
+    ]
+}

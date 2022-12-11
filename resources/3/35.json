@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2994,
+            "title": "Introducing The DataHour Series \u2013 Webinars with Industry Leaders",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/introducing-the-webinar-series-the-datahour/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Announcement, Beginner, Data Science, Videos",
+            "publishedOn": "2022-02-14T00:00:00",
+            "description": "In this article, we are introducing the webinar series of Analytics Vidhya: The DataHour which will be led by top industry leaders.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/launchingbanner41.jpg"
+        },
+        {
+            "id": 2995,
+            "title": "11 Extensions to Power Up your Jupyter Notebook",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/11-extensions-to-power-up-your-jupyter-notebook/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Listicle, Programming",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "In this article, you will learn about 11 extensions to power up your Jupyter Notebook which is for web-based interactive computing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Screenshot-2022-02-11-at-5.29.44-PM.png"
+        },
+        {
+            "id": 2996,
+            "title": "Optimal Resource Allocation using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/optimal-resource-allocation-using-python/",
+            "authors": "Prachi Prakash",
+            "tags": "Beginner, Datasets, Python",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "This article, we will discuss solving an optimal resource allocation problem using linear programming in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/20245Python-on-frontend-Brython.png"
+        },
+        {
+            "id": 2997,
+            "title": "Heart Disease Prediction using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/heart-disease-prediction-using-machine-learning/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Classification, Datasets, Machine Learning, Python",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "In this article, we will be closely working with the heart disease prediction, we will be looking into the heart disease dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/health.jpg"
+        },
+        {
+            "id": 2998,
+            "title": "Folder Management in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/folder-management-in-python/",
+            "authors": "Prachi Prakash",
+            "tags": "Beginner, Python",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "This article will talk about folder management in Python where scripts an be created for innovative automated solutions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79346python.png"
+        },
+        {
+            "id": 2999,
+            "title": "Workflow of MLOps: Part 2 | Model Building",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/workflow-of-mlops-part-2-model-building/",
+            "authors": "Illiyas Sha",
+            "tags": "Beginner, Machine Learning, MLops",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "This article will see the generic workflow of MLOps from the start to the end. We will deep dive into them step-by-step.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3000,
+            "title": "Different Types of Cross-Validations in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/different-types-of-cross-validations-in-machine-learning/",
+            "authors": "Prashant Sharma",
+            "tags": "Machine Learning",
+            "publishedOn": "2022-02-10T00:00:00",
+            "description": "Cross-Validations in ML is a resampling strategy that ensures our model's efficiency and correctness when applied to previously unknown data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/01_thumb.jpg"
+        },
+        {
+            "id": 3001,
+            "title": "Guide On Customer Churn: Don\u2019t Just Predict, Prevent it!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/guide-on-customer-churn-dont-just-predict-prevent-it/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Classification, Data Visualization, Deep Learning, Guide, Python",
+            "publishedOn": "2022-02-10T00:00:00",
+            "description": "Customer segmentation to reduce churn, churn prediction, and recommendation to arrest churn are the three board areas that modern B2C firms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/customer_support_machine_learning.jpg"
+        },
+        {
+            "id": 3002,
+            "title": "Logistic Regression using Python and Excel",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/logistic-regression-using-python-and-excel/",
+            "authors": "Ami Nagori Munshi",
+            "tags": "Beginner, Datasets, Excel, Machine Learning, Python, Regression",
+            "publishedOn": "2022-02-08T00:00:00",
+            "description": "Logistic Regression is an estimation of the probability of an event occurring. We shall understand Logistic Regression from A-to-Z.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/79060logistic.jpg"
+        },
+        {
+            "id": 3003,
+            "title": "Sentiment Analysis Using Transformers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-using-transformers/",
+            "authors": "Vedansh Shrivastava",
+            "tags": "Beginner, NLP, transformer package",
+            "publishedOn": "2022-02-08T00:00:00",
+            "description": "In this article, Sentiment Analysis using transformers has been a very popular activity since the beginning of\u00a0NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Sentiment-Analysis.png"
+        },
+        {
+            "id": 3004,
+            "title": "Exploratory Data Analysis in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/exploratory-data-analysis-in-python/",
+            "authors": "Ayushi Gupta",
+            "tags": "Datasets, Graphs & Networks, Python",
+            "publishedOn": "2022-02-08T00:00:00",
+            "description": "Understand how exploratory data analysis is done in Python, various steps involved and performance of EDA on a given dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/13213Eda-with-Visualization-feature-img.png"
+        },
+        {
+            "id": 3005,
+            "title": "Understanding Subqueries in SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/understanding-subqueries-in-sql/",
+            "authors": "Ayushi Gupta",
+            "tags": "Beginner, SQL",
+            "publishedOn": "2022-02-07T00:00:00",
+            "description": "We shall understand the Subqueries in SQL. Any structure has a subset or the SELECT query in SQL has a concept of Subquery associated with it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 3006,
+            "title": "Myth Busters in SQL \u2013 Structured Query Language",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/myth-busters-in-sql-structured-query-language/",
+            "authors": "Ayushi Gupta",
+            "tags": "Beginner, SQL",
+            "publishedOn": "2022-02-07T00:00:00",
+            "description": "This article talks about Myth Busters in SQL using the MS SQL Server Database Server to write our queries and will burst common myths on SQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 3007,
+            "title": "Supreme Court Judgement Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/supreme-court-judgement-prediction/",
+            "authors": "Raghav Kachroo",
+            "tags": "Beginner, Data Science, NLP",
+            "publishedOn": "2022-02-04T00:00:00",
+            "description": "This article focuses primarily on text data feature engineering. We will learn how Supreme Court judgement prediction takes place.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/64590automated-feature-engineering.png"
+        },
+        {
+            "id": 3008,
+            "title": "Loan Approval Prediction Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/loan-approval-prediction-machine-learning/",
+            "authors": "Vedansh Shrivastava",
+            "tags": "Banking, Beginner, Machine Learning",
+            "publishedOn": "2022-02-04T00:00:00",
+            "description": "In this article, we will learn how to predict loan approval by using machine learning concepts. Are you excited?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Price-prediction.png"
+        },
+        {
+            "id": 3009,
+            "title": "R Programming Concepts Made Easy!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/r-programming-concepts-made-easy/",
+            "authors": "Ayushi Gupta",
+            "tags": "Beginner, Excel, SQL",
+            "publishedOn": "2022-02-04T00:00:00",
+            "description": "In this article, we will take one step ahead and learn three complicated R programming concepts which are made easy here!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/5.jpg"
+        },
+        {
+            "id": 3010,
+            "title": "Get to know all about the R Language",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/get-to-know-all-about-the-r-language/",
+            "authors": "Ayushi Gupta",
+            "tags": "Beginner, Data Visualization, Deep Learning, Machine Learning, Statistics",
+            "publishedOn": "2022-02-04T00:00:00",
+            "description": "R is not just a programming language rather it is a Statistical Programming Language and is different from Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/2-2.jpg"
+        },
+        {
+            "id": 3011,
+            "title": "Weaviate: Towards the New Era of Vector Search Engines",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/weaviate-towards-the-new-era-of-vector-search-engines/",
+            "authors": "Pradeep T",
+            "tags": "Advanced, NLP, Python",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "Weaviate is a vector database and search engine. It is a low-latency vector search engine that supports various media types.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/732227807104_1578230927_time_analysis_tittle-banner-1.jpg"
+        },
+        {
+            "id": 3012,
+            "title": "Statistical Inference Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/statistical-inference-using-python/",
+            "authors": "ELLURU PAVAN KUMAR REDDY",
+            "tags": "Beginner, Python, Statistics",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "The article will explain Statistical Inference using Python programming by using sampling methods and Hypothesis testing.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/3-2.jpg"
+        },
+        {
+            "id": 3013,
+            "title": "Privacy-Preserving in Machine Learning (PPML)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/privacy-preserving-in-machine-learning-ppml/",
+            "authors": "Dulari Bhatt",
+            "tags": "Artificial Intelligence, Beginner, Guide, Machine Learning",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "Understand how and why Privacy-Preserving ML has become very important when companies shift to cloud environments or work cooperatively.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg"
+        },
+        {
+            "id": 3014,
+            "title": "Deploy your ML Model as a Web Service in Microsoft Azure Cloud",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/deploy-your-ml-model-as-a-web-service-in-microsoft-azure-cloud/",
+            "authors": "Adwait Dathan R",
+            "tags": "Azure, Beginner, Machine Learning, Model Deployment",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "This article will provide you with a hands-on implementation on how to deploy an ML model in the Azure cloud.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Azure-ML-and-Power-Bi.jpg"
+        },
+        {
+            "id": 3015,
+            "title": "Top 10 AI and Data Science Trends in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/top-10-ai-and-data-science-trends-in-2022/",
+            "authors": "Prateek Majumder",
+            "tags": "Artificial Intelligence, AWS, Azure, Beginner, Big data, Business Analytics, Cloud Computing, Cyber Security, Data Engineering, Data Science, Deep Learning",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "In this article, we shall learn about Top 10 AI and Data Science trends in 2022 and understand the buzz created by big data, data analytics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/2022.png"
+        },
+        {
+            "id": 3016,
+            "title": "Implementing Logistic Regression from Scratch using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Datasets, Machine Learning, Python",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "n this article, we will only be dealing with\u00a0 Numpy arrays, implementing logistic regression from scratch and use Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/95170Logistic-Regression-in-Python.png"
+        },
+        {
+            "id": 3017,
+            "title": "Clustering Machine Learning Algorithm using K Means",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/clustering-machine-learning-algorithm-using-k-means/",
+            "authors": "Amrutha K",
+            "tags": "Algorithm, Beginner, Machine Learning",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "K-Means is one of the most popular and simplest clustering machine learning algorithm. K-Means is used when we have unlabeled data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        },
+        {
+            "id": 3018,
+            "title": "Web scraping with PyScrappy",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/web-scraping-with-pyscrappy/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Libraries, Python",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "Web scraping & PyScrappy is a technique that involves gathering data from one or more web pages or websites using a tool like Selenium.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/WebScraping-using-Selenium-with-Python.jpg"
+        },
+        {
+            "id": 3019,
+            "title": "A Simple Guide to RASA 3.x",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/a-simple-guide-to-rasa-3-x/",
+            "authors": "Yashi Saxena",
+            "tags": "Advanced, Artificial Intelligence, chatbot, Guide, Machine Learning, NLP",
+            "publishedOn": "2022-02-03T00:00:00",
+            "description": "RASA 3.x is an open-source ML framework used to build customised AI chatbots. which can be integrated with different websites.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/ipl-bot.jpg"
+        },
+        {
+            "id": 3020,
+            "title": "Industrial Application of NLP: Task I",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/industrial-application-of-nlp-task-i/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Beginner, NLP",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "In this article, we are going to solve a real business problem-centric to consumers using the Industrial application of NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/nlp-models-1.png"
+        },
+        {
+            "id": 3021,
+            "title": "MLOps Part 1: Revealing the Approach behind MLOps",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/mlops-part-1-revealing-the-approach-behind-mlops/",
+            "authors": "Illiyas Sha",
+            "tags": "Beginner, Machine Learning, MLops",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "A generic MLOps workflow can be followed to build, deploy, monitor ML applications. In this article, we will discuss fundamentals of MLOps.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/91058MLOps-Neal-Analytics.png"
+        },
+        {
+            "id": 3022,
+            "title": "Ethics in Data Science and Proper Privacy and Usage of Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-science-and-proper-privacy-and-usage-of-data/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Science",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "In this article, learn about ethics in Data Science. How can businesses acquire, keep, and use data in an ethical manner?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/1.jpg"
+        },
+        {
+            "id": 3023,
+            "title": "What Is a Predictive Analytics AI-Powered SaaS Platform &amp?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/what-is-a-predictive-analytics-ai-powered-saas-platform-amp/",
+            "authors": "Abhishek Jain",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "Predictive analytics AI-powered technology is changing the world as we know it. There is an ocean of data available for every industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/42847artificial-intelligence-4389372_1920.jpg"
+        }
+    ]
+}

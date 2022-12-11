@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1946,
+            "title": "How Alexa Knows \u201cPeanut Butter\u201d Is One Shopping-List Item, Not Two",
+            "url": "https://www.amazon.science/blog/how-alexa-knows-peanut-butter-is-one-shopping-list-item-not-two",
+            "authors": "Sanchit Agarwal",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-18T00:00:00",
+            "description": "At a recent press event on Alexa's latest features, Alexa\u2019s head scientist, Rohit Prasad, mentioned multistep requests in one shot, a capability that allows you to ask Alexa to do multiple things at once. For example, you might say, \u201cAlexa, add bananas, peanut butter, and paper towels to my\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/e5ac315/2147483647/strip/true/crop/876x460+358+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa7%2F97%2Ff7dbe07c4b409cef46ebeb9cd6f2%2Fbio-scheme-examples.png._CB459952676_.png"
+        },
+        {
+            "id": 1947,
+            "title": "With New Data Representation Scheme, Alexa Can Better Match Skills to Customer Requests",
+            "url": "https://www.amazon.science/blog/with-new-data-representation-scheme-alexa-can-better-match-skills-to-customer-requests",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-17T00:00:00",
+            "description": "In recent years, data representation has emerged as an important research topic within machine learning.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/91eeafc/2147483647/strip/true/crop/1988x1044+0+192/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F51%2F33%2Fb61c735442789a20741c46308b68%2Frepresentation-learning-architcture.png._CB459316582_.png"
+        },
+        {
+            "id": 1948,
+            "title": "New Approach to Language Modeling Reduces Speech Recognition Errors by Up to 15%",
+            "url": "https://www.amazon.science/blog/new-approach-to-language-modeling-reduces-speech-recognition-errors-by-up-to-15",
+            "authors": "Ankur Gandhe",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-13T00:00:00",
+            "description": "Language models are a key component of automatic speech recognition systems, which convert speech into text. A language model captures the statistical likelihood of any particular string of words, so it can help decide between different interpretations of the same sequence of sounds.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a68ac73/2147483647/strip/true/crop/1234x648+502+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fe2%2F80%2F607174a14c798e207705fd81973a%2Fsample-grammar.png._CB459480040_.png"
+        },
+        {
+            "id": 1949,
+            "title": "Distributed \u201cRe-Ranker\u201d Ensures That Alexa Improvements Reach Customers ASAP",
+            "url": "https://www.amazon.science/blog/distributed-re-ranker-ensures-that-alexa-improvements-reach-customers-asap",
+            "authors": "Chengwei Su",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-11T00:00:00",
+            "description": "Suppose that you say to Alexa, \u201cAlexa, play Mary Poppins.\u201d Alexa must decide whether you mean the book, the video, or the soundtrack. How should she do it?",
+            "thumbnail": "https://assets.amazon.science/dims4/default/590b1d5/2147483647/strip/true/crop/1269x666+296+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F8e%2F03%2F2f8c9bc743188d5c6972d80b8ebb%2Fsemantic-error-rate-example.png._CB461160527_.png"
+        },
+        {
+            "id": 1950,
+            "title": "The role of context in redefining human-computer interaction",
+            "url": "https://www.amazon.science/blog/the-role-of-context-in-redefining-human-computer-interaction",
+            "authors": "Ruhi Sarikaya",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-07T00:00:00",
+            "description": "In the past few years, advances in artificial intelligence have captured our imaginations and led to the widespread use of voice services on our phones and in our homes. ",
+            "thumbnail": "https://assets.amazon.science/dims4/default/26129e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F57%2F64%2F16e4443b444eb381a0f08e5cdc63%2Fnatural-skill-interaction.png._CB480964660_.png"
+        },
+        {
+            "id": 1951,
+            "title": "Context-Aware Deep-Learning Method Boosts Alexa Dialogue System\u2019s Ability to Recognize Conversation Topics by 35%",
+            "url": "https://www.amazon.science/blog/context-aware-deep-learning-method-boosts-alexa-dialogue-systems-ability-to-recognize-conversation-topics-by-35",
+            "authors": "Behnam Hedayatnia",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-12-04T00:00:00",
+            "description": "Conversational-AI systems have traditionally fallen into two categories: goal-oriented systems, which help users fulfill requests, and chatbots, which carry on informative or entertaining conversations.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/014dde1/2147483647/strip/true/crop/1085x570+0+112/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F7a%2F43%2Febd1bb4a407f8e17570bb4919fcd%2Fbi-lstm-architecture.jpg._CB460793356_.jpg"
+        },
+        {
+            "id": 1952,
+            "title": "Varying speaking styles with neural text-to-speech",
+            "url": "https://www.amazon.science/blog/varying-speaking-styles-with-neural-text-to-speech",
+            "authors": "Trevor Wood, Tom Merritt",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "When people speak, they use different speaking styles depending on context. A TV newscaster, for example, will use a very different style when conveying the day\u2019s headlines than a parent will when reading a bedtime story. Amazon scientists have shown that our latest text-to-speech (TTS) system,\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/c13826e/2147483647/strip/true/crop/4000x2100+0+5/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F25%2F24%2F7fa99d7f4dfea214a216a6ef1046%2Fntts-architecture.jpg._CB480075432_.jpg"
+        },
+        {
+            "id": 1953,
+            "title": "Reducing Customer Friction through Skill Selection",
+            "url": "https://www.amazon.science/blog/reducing-customer-friction-through-skill-selection",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-10-31T00:00:00",
+            "description": "This year, we\u2019ve started to explore ways to make it easier for customers to find and engage with Alexa skills.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/331e0ab/2147483647/strip/true/crop/1490x782+0+42/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fee%2F3d%2F5555d1074078a5bb090168ef93db%2Fshortlister-with-self-distillation.png._CB480942401_.png"
+        },
+        {
+            "id": 1954,
+            "title": "Amazon helps launch workshop on automatic fact verification",
+            "url": "https://www.amazon.science/blog/amazon-helps-launch-workshop-on-automatic-fact-verification",
+            "authors": "Larry Hardesty",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2018-10-25T00:00:00",
+            "description": "At the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Amazon researchers and their colleagues at the University of Sheffield and Imperial College London will host the first Workshop on Fact Extraction and Verification, which will explore how computer systems can learn\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/04c5dd6/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F86%2F97%2Fdd05cdef4b238d9024d4c8e18049%2Ftkam-small.jpg._CB480469600_.jpg"
+        },
+        {
+            "id": 1955,
+            "title": "How an Echo device could locate snaps, claps, and taps",
+            "url": "https://www.amazon.science/blog/how-an-echo-device-could-locate-snaps-claps-and-taps",
+            "authors": "Jun Yang",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "Parallel processing of microphone inputs and separate detectors for periodicity and dynamics improve performance.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/be68db0/2147483647/strip/true/crop/1150x604+0+243/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ff4%2F6d%2F9b46850241f79c4c50c37b436f7c%2Fecho-device.png"
+        },
+        {
+            "id": 1956,
+            "title": "Identifying sounds in audio streams",
+            "url": "https://www.amazon.science/blog/identifying-sounds-in-audio-streams",
+            "authors": "Chieh-Chi Kao, Weiran Wang",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-10-02T00:00:00",
+            "description": "On September 20, Amazon unveiled a host of new products and features, including Alexa Guard, a smart-home feature available on select Echo devices later this year. When activated, Alexa Guard can send a customer alerts if it detects the sound of glass breaking or of smoke or carbon monoxide alarms\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a84eae7/2147483647/strip/true/crop/1648x865+84+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F51%2F27%2F12e83a6d46739a30ce3e108a75ce%2Faed._CB482361287_.jpg"
+        },
+        {
+            "id": 1957,
+            "title": "How Voice and Graphics Working Together Enhance the Alexa Experience",
+            "url": "https://www.amazon.science/blog/how-voice-and-graphics-working-together-enhance-the-alexa-experience",
+            "authors": "Vishal Ishwar Naik",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-09-28T00:00:00",
+            "description": "Last week, Amazon announced the release of both a redesigned Echo Show with a bigger screen and the Alexa Presentation Language, which enables third-party developers to build \u201cmultimodal\u201d skills that coordinate Alexa\u2019s natural-language-understanding systems with on-screen graphics.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8624131/2147483647/strip/true/crop/2000x1050+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F71%2F47%2F0c6ed0d7433aad8afb8d23272090%2Fecho-show-in-use._CB484407549_.jpg"
+        },
+        {
+            "id": 1958,
+            "title": "Whisper to Alexa, and She\u2019ll Whisper Back",
+            "url": "https://www.amazon.science/blog/whisper-to-alexa-and-shell-whisper-back",
+            "authors": "Zeynab Raeesy",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-09-26T00:00:00",
+            "description": "If you\u2019re in a room where a child has just fallen asleep, and someone else walks in, you might start speaking in a whisper, to indicate that you\u2019re trying to keep the room quiet. The other person will probably start whispering, too.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/7999f48/2147483647/strip/true/crop/1600x840+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F6d%2F60f79500449ebda8d71d08a80b08%2Fwhisper-posteriors._CB483854007_.png"
+        },
+        {
+            "id": 1959,
+            "title": "Learning to Recognize the Irrelevant",
+            "url": "https://www.amazon.science/blog/learning-to-recognize-the-irrelevant",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-09-04T00:00:00",
+            "description": "A central task of natural-language-understanding systems, like the ones that power Alexa, is domain classification, or determining the general subject of a user\u2019s utterances. Voice services must make finer-grained determinations, too, such as the particular actions that a customer wants executed.\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/bbf7a52/2147483647/strip/true/crop/3579x1879+0+1061/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F38%2F89%2Fa590951c4f90ba14d19f3b725a6a%2Fout-of-domain._CB486498512_.jpg"
+        },
+        {
+            "id": 1960,
+            "title": "How Alexa Is Learning to Ignore TV, Radio, and Other Media Players",
+            "url": "https://www.amazon.science/blog/how-alexa-is-learning-to-ignore-tv-radio-and-other-media-players",
+            "authors": "Viktor Rozgic, Shiva Sundaram",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-31T00:00:00",
+            "description": "Echo devices have already attracted tens of millions of customers, but in the Alexa AI group, we\u2019re constantly working to make Alexa\u2019s speech recognition systems even more accurate.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/9255310/2147483647/strip/true/crop/2466x1295+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fcb%2F42%2F23831d014da0b8ffa5a12cd94dd8%2Fnoisy-tv._CB486169992_.jpg"
+        },
+        {
+            "id": 1961,
+            "title": "Alexa at Interspeech 2018: How interaction histories can improve speech understanding",
+            "url": "https://www.amazon.science/blog/alexa-at-interspeech-2018-how-interaction-histories-can-improve-speech-understanding",
+            "authors": "Larry Hardesty",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-29T00:00:00",
+            "description": "Alexa\u2019s ability to act on spoken requests depends on statistical models that translate speech to text and text to actions. Historically, the models\u2019 decisions were one-size-fits-all: the same utterance would produce the same action, regardless of context.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a670883/2147483647/strip/true/crop/1099x577+0+279/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F78%2Fac%2F3f6323d14c97b0bb1e5b181ba50f%2Finterspeech-logo._CB486002501_.png"
+        },
+        {
+            "id": 1962,
+            "title": "How Alexa is learning to converse more naturally",
+            "url": "https://www.amazon.science/blog/how-alexa-is-learning-to-converse-more-naturally",
+            "authors": "Arpit Gupta, Chetan Naik",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-27T00:00:00",
+            "description": "To handle more-natural spoken interactions, Alexa must track references through several rounds of conversation. If, for instance, a customer says, \u201cHow far is it to Redmond?\u201d and after the answer follows up by saying, \u201cFind good Indian restaurants there\u201d, Alexa should be able to infer that \u201cthere\u201d\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/2292433/2147483647/strip/true/crop/7111x3733+0+258/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F5e%2Fa0%2F43855e304b6199b2f1c02d7245d5%2Fslot-mapping._CB485625055_.jpg"
+        },
+        {
+            "id": 1963,
+            "title": "3 questions about Interspeech 2018 with Bj\u00f6rn Hoffmeister",
+            "url": "https://www.amazon.science/blog/3-questions-about-interspeech-2018-with-bjorn-hoffmeister",
+            "authors": "Larry Hardesty",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-24T00:00:00",
+            "description": "This year\u2019s Interspeech \u2014 the largest conference in speech technology \u2014 will take place in Hyderabad, India, the first week of September. More than 40 Amazon researchers will be attending, including Bj\u00f6rn Hoffmeister, the senior manager for machine learning in the Alexa Automatic Speech Recognition\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ea948d5/2147483647/strip/true/crop/1592x836+0+503/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F2c%2Fcb%2Fa2b42a634972ad617e8d4bc5b660%2Fbjorn-final._CB485652431_.png"
+        },
+        {
+            "id": 1964,
+            "title": "Alexa, do I need to use your wake word? How about now?",
+            "url": "https://www.amazon.science/blog/alexa-do-i-need-to-use-your-wake-word-how-about-now",
+            "authors": "Sri Harish Mallidi",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-23T00:00:00",
+            "description": "Here\u2019s a fairly common interaction with Alexa: \u201cAlexa, set volume to five\u201d; \u201cAlexa, play music\u201d. Even though the queries come in quick succession, the customer needs to repeat the wake word \u201cAlexa\u201d. To allow for more natural interactions, the device could immediately re-enter its listening state\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1965,
+            "title": "Public release of fact-checking dataset quickly begins to pay dividends",
+            "url": "https://www.amazon.science/blog/public-release-of-fact-checking-dataset-quickly-begins-to-pay-dividends",
+            "authors": "Larry Hardesty",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2018-08-19T00:00:00",
+            "description": "At the annual meeting of the North American chapter of the Association for Computational Linguistics in June, researchers at Amazon and the University of Sheffield released a new dataset that can be used to train machine-learning systems to determine the veracity of factual assertions online. The\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/bbcb3c1/2147483647/strip/true/crop/8332x4374+0+590/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fc0%2F73%2Fa3f9d21c41e18b8f99c364004d77%2Ffever-fact-fake-post-image._CB470119487_.jpg"
+        },
+        {
+            "id": 1966,
+            "title": "Shrinking machine learning models for offline use",
+            "url": "https://www.amazon.science/blog/shrinking-machine-learning-models-for-offline-use",
+            "authors": "Grant Strimel",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-18T00:00:00",
+            "description": "\"Perfect hashing\" is among the techniques that reduce the memory footprints of machine learning models by 94%.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/084d204/2147483647/strip/true/crop/3716x1951+42+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F14%2Ffa%2F910eca124de592e598bd086740d6%2Fperfect-hash-cropped._CB470011001_.jpg"
+        },
+        {
+            "id": 1967,
+            "title": "Automatic transliteration can help Alexa find data across language barriers",
+            "url": "https://www.amazon.science/blog/automatic-transliteration-can-help-alexa-find-data-across-language-barriers",
+            "authors": "Yuval Merhav, Steve Ash",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-08-08T00:00:00",
+            "description": "New machine-learned multilingual named-entity transliteration system.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/919874c/2147483647/strip/true/crop/3549x1863+0+913/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F33%2F2e%2F6960629d456c900dd4601e83b3bc%2Fppap-illo._CB471576278_.jpg"
+        },
+        {
+            "id": 1968,
+            "title": "Contextual Clues Can Help Improve Alexa\u2019s Speech Recognizers",
+            "url": "https://www.amazon.science/blog/contextual-clues-can-help-improve-alexas-speech-recognizers",
+            "authors": "Anirudh Raju",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-07-23T00:00:00",
+            "description": "Automatic speech recognition systems, which convert spoken words into text, are an important component of conversational agents such as Alexa. These systems generally comprise an acoustic model, a pronunciation model, and a statistical language model. The role of the statistical language model is\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/eaf9966/2147483647/strip/true/crop/9648x5065+0+1371/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F14%2F4f%2F0e9bb6164e88bcb5d84a9669b57f%2Flm-high-res._CB471886940_.png"
+        },
+        {
+            "id": 1969,
+            "title": "How Alexa can use song-playback duration to learn customers\u2019 preferences",
+            "url": "https://www.amazon.science/blog/how-alexa-can-use-song-playback-duration-to-learn-customers-preferences",
+            "authors": "Bo Xiao",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-07-16T00:00:00",
+            "description": "To be as useful as possible to customers, Alexa should be able to make educated guesses about the meanings of ambiguous utterances. If, for instance, a customer says, \u201cAlexa, play the song \u2018Hello\u2019\u201d, Alexa should be able to infer from the customer\u2019s listening history whether the song requested is\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/09a58c5/2147483647/strip/true/crop/1677x880+0+166/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F1b%2F4f%2F5226679043b4952455af954d9518%2Fhello._CB473603521_.jpg"
+        },
+        {
+            "id": 1970,
+            "title": "2018 Amazon Research Awards CFP launch announcement",
+            "url": "https://www.amazon.science/blog/2018-amazon-research-awards-seek-to-strengthen-ties-with-academic-community",
+            "authors": "Larry Hardesty",
+            "tags": "Machine learning",
+            "publishedOn": "2018-07-02T00:00:00",
+            "description": "In June 2018, Amazon announced the 11 focus areas of the 2018 Amazon Research Awards.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/cdcab0e/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F99%2Fa5%2F9bb658f94054a6b096bc6e690323%2F2018-amazon-research-awards-cfp-announcement.png"
+        },
+        {
+            "id": 1971,
+            "title": "HypRank: How Alexa determines what skill can best meet a customer\u2019s need",
+            "url": "https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-06-08T00:00:00",
+            "description": "Amazon Alexa currently has more than 40,000 third-party skills, which customers use to get information, perform tasks, play games, and more. To make it easier for customers to find and engage with skills, we are moving toward skill invocation that doesn\u2019t require mentioning a skill by name (as\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/7b84ef2/2147483647/strip/true/crop/2048x1075+0+14/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F21%2Fd5%2Ffc4f2f4e4391b8a289a6b6159d3c%2Fhyprank-overview._CB476739919_.png"
+        },
+        {
+            "id": 1972,
+            "title": "The Scalable Neural Architecture behind Alexa\u2019s Ability to Select Skills",
+            "url": "https://www.amazon.science/blog/the-scalable-neural-architecture-behind-alexas-ability-to-select-skills",
+            "authors": "Young-Bum Kim",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-06-07T00:00:00",
+            "description": "Alexa is a cloud-based service with natural-language-understanding capabilities that powers devices like Amazon Echo, Echo Show, Echo Plus, Echo Spot, Echo Dot, and more. Alexa-like voice services traditionally have supported small numbers of well-separated domains, such as calendar or weather. In\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/5c31eb4/2147483647/strip/true/crop/2048x1075+0+86/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fbe%2F24%2F91514db3480a967ac46b2a3bbb08%2Fyb-sl-architecture1._CB476364052_.png"
+        },
+        {
+            "id": 1973,
+            "title": "New way to annotate training data should enable more sophisticated Alexa interactions",
+            "url": "https://www.amazon.science/blog/new-way-to-annotate-training-data-should-enable-more-sophisticated-alexa-interactions",
+            "authors": "Lambert Mathias",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-06-01T00:00:00",
+            "description": "Developing a new Alexa skill typically means training a machine-learning system with annotated data, and the skill\u2019s ability to \u201cunderstand\u201d natural-language requests is limited by the expressivity of the semantic representation used to do the annotation. So far, the techniques used to represent\u2026",
+            "thumbnail": "https://assets.amazon.science/dims4/default/fc9407f/2147483647/strip/true/crop/590x310+32+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F13%2F29%2Fd0c7c5ab4f0a905c20c6be6019ea%2Flambert-amrl-annotation-v2-003._CB476402567_.jpg"
+        },
+        {
+            "id": 1974,
+            "title": "Machine translation accelerates how Alexa learns new languages",
+            "url": "https://www.amazon.science/blog/machine-translation-accelerates-how-alexa-learns-new-languages",
+            "authors": "Penny Karanasou",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-05-29T00:00:00",
+            "description": "As Alexa-enabled devices continue to expand into new countries, we propose an approach for quickly bootstrapping machine-learning models in new languages, with the aim of more efficiently bringing Alexa to new customers around the world.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ce84994/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F32%2F80%2Fc230480c4f60a534bc077755bae7%2Famazon-science-og-image-squid.png"
+        },
+        {
+            "id": 1975,
+            "title": "Amazon scientists use transfer learning to accelerate development of new Alexa capabilities",
+            "url": "https://www.amazon.science/blog/amazon-scientists-use-transfer-learning-to-accelerate-development-of-new-alexa-capabilities",
+            "authors": "Angeliki Metallinou",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2018-05-24T00:00:00",
+            "description": "Amazon scientists are continuously expanding Alexa\u2019s natural-language-understanding (NLU) capabilities to make Alexa smarter, more useful, and more engaging.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/315cc98/2147483647/strip/true/crop/858x450+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F62%2F19%2Fe195766843c48ae23454612a8d3d%2Fangeliki-model-architecture._CB477603375_.jpg"
+        }
+    ]
+}

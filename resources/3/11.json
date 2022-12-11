@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2274,
+            "title": "Deep Learning Vision: Digitizing the World",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/deep-learning-vision-digitizing-the-world/",
+            "authors": "Murugesan Narayanaswamy",
+            "tags": "Beginner, Deep Learning, Guide, NLP",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "This article explores the promise and potential of Deep Learning from another perspective of Mathematical vision.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/35152Deep_Learning.jpeg"
+        },
+        {
+            "id": 2275,
+            "title": "OpenCV Arithmetic Operations on Images",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/opencv-arithmetic-operations-on-images/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Image Analysis, Maths, OpenCV, Python",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "OpenCV arithmetic operations can help improve the input images' properties and help analyze them. Read more to know!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/76244images1..png"
+        },
+        {
+            "id": 2276,
+            "title": "What is AWS Config?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/what-is-aws-config/",
+            "authors": "Trupti Dekate",
+            "tags": "AWS, Beginner, Cloud Computing, Data Engineering",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "In this article, learn about AWS Config which allows you to track current and historical resource configurations in your AWS account.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2277,
+            "title": "ETL and Workflow Orchestration Tools",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/etl-and-workflow-orchestration-tools/",
+            "authors": "Sanjay Aradhyamath",
+            "tags": "Airflow, Data Engineering, Intermediate, MLops",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "In this article, you will learn about ETL and workflow orchestration tools, which aid in better data management.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/62235Data-Engineering-Thumbnail-2.png"
+        },
+        {
+            "id": 2278,
+            "title": "A Guide on Cloud Access Security Broker (CASB)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/a-guide-on-cloud-access-security-broker-casb/",
+            "authors": "Vijay Sharma",
+            "tags": "Beginner, Cloud Computing",
+            "publishedOn": "2022-08-23T00:00:00",
+            "description": "Growing use cloud computing maturation of cloud access security broker service has led to increased adoption of enterprise-level software.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/11322API-scaled.jpg"
+        },
+        {
+            "id": 2279,
+            "title": "Reduce Retraining by Recycling Prompts",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/reduce-retraining-by-recycling-prompts/",
+            "authors": "Drishti Sharma",
+            "tags": "Advanced, Artificial Intelligence, NLP",
+            "publishedOn": "2022-08-23T00:00:00",
+            "description": "GoogleAI researchers proposed several approaches to Recycling Prompts where prompt trained is transformed to work with a new target model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 2280,
+            "title": "Creating Mathematical Animations in Python using Manim",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/creating-mathematical-animations-in-python-using-manim/",
+            "authors": "Aarti Parekh",
+            "tags": "Advanced, Machine Learning, Maths, Python",
+            "publishedOn": "2022-08-23T00:00:00",
+            "description": "In this article, we will discuss about Manim, an open-source Python library for creating explanatory mathematical videos or animations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/21665MathematicsSubjectImage-e1586461204136.jpg"
+        },
+        {
+            "id": 2281,
+            "title": "Product Quantization: Nearest Neighbor\u00a0Search",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/product-quantization-nearest-neighbor-search/",
+            "authors": "Vishal Rajput",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "Product quantization uses the idea of a lookup table, thus saving us redundant calculations and increasing the speed by many folds.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/machine_learning_state.png"
+        },
+        {
+            "id": 2282,
+            "title": "10 Frequently Encountered Issues in Data Preprocessing",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/10-frequently-encountered-issues-in-data-preprocessing/",
+            "authors": "Saikat Das",
+            "tags": "Beginner, Data Cleaning, Data Science, Machine Learning",
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "Data preprocessing involves cleaning, transformation, and reduction of the data set. It is the first step of any data mining project.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/06/big_data_integration-1024x658.jpg"
+        },
+        {
+            "id": 2283,
+            "title": "Advanced SQL for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/advanced-sql-for-data-science/",
+            "authors": "Simran Joshi",
+            "tags": "Advanced, Data Engineering, Database, SQL",
+            "publishedOn": "2022-08-22T00:00:00",
+            "description": "The article aims to expand the fundamental knowledge of SQL. It also covers the concept of subqueries and advanced SQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/A-Guide-to-Data-Types-in-MySQL-for-Beginners-in-Data-Science.jpg"
+        },
+        {
+            "id": 2284,
+            "title": "Create RDD in Apache Spark using Pyspark",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/create-rdd-in-apache-spark-using-pyspark/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Data Engineering, Datasets, Python, Spark",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "RDD stands for Resilient Distributed Dataset, which are elements that run & work on multiple nodes to perform parallel processing in cluster",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 2285,
+            "title": "What is Azure Batch Service?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/what-is-azure-batch-service/",
+            "authors": "Gitesh Dhore",
+            "tags": "Azure, Beginner, Cloud Computing, Data Engineering, SQL",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "Azure Batch requires the use of an application or service manager to set up pools, assign jobs, and monitor if necessary.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.png"
+        },
+        {
+            "id": 2286,
+            "title": "How Does Amazon SNS Work?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/how-does-amazon-sns-work/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Cloud Computing, Data Science",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "Amazon SNS is a managed service that delivers messages from publishers to subscribers (also known as producers and consumers).",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 2287,
+            "title": "Google Dataproc Functionalities and Use Cases",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/google-dataproc-functionalities-and-use-cases/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Cloud Computing, Data Engineering",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "Google Cloud Dataproc is built on several open-source platforms, including Apache Hadoop, Apache Pig, Apache Spark, and Apache hive.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/google-cloud-platform2.jpg"
+        },
+        {
+            "id": 2288,
+            "title": "Data Science\u2019s Role in the 5 Technologies that Enable IIoT",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/data-sciences-role-in-the-5-technologies-that-enable-iiot/",
+            "authors": "Justo Ruiz",
+            "tags": "Beginner, Data Science, IOT",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "The IIoT is the application of IoT technologies to manufacturing and industrial environments, and Data Science plays a special role in it.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/01/iot1.png"
+        },
+        {
+            "id": 2289,
+            "title": "Simplifying AI Models with the PEAS Representation System",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/simplifying-ai-models-with-the-peas-representation-system/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Artificial Intelligence, Beginner",
+            "publishedOn": "2022-08-21T00:00:00",
+            "description": "PEAS is a representation system for AI agents which caters to measuring Performance with respect to Environment, Sensors, and actuators.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2290,
+            "title": "20 Most Asked Interview Questions of Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/20-most-asked-interview-questions-of-machine-learning/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Interview Questions, Interviews, Machine Learning",
+            "publishedOn": "2022-08-20T00:00:00",
+            "description": "This article covers the questions that will enhance your skills in Machine Learning and prepare you for future job interviews.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Get-Certified-with-Free-Courses-in-Data-Science-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 2291,
+            "title": "Understanding the need for DBMS",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/understanding-the-need-for-dbms/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Beginner, Data Engineering, Database, SQL",
+            "publishedOn": "2022-08-20T00:00:00",
+            "description": "DBMS is a computer-based data record-keeping system providing enhanced security for storing and retrieving data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56615dbms.jpg"
+        },
+        {
+            "id": 2292,
+            "title": "Evolution of TPUs and GPUs in Deep Learning Applications",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/evolution-of-tpus-and-gpus-in-deep-learning-applications/",
+            "authors": "Aryan Garg",
+            "tags": "Artificial Intelligence, Beginner, Deep Learning",
+            "publishedOn": "2022-08-20T00:00:00",
+            "description": "This article will briefly discuss some research papers using TPUs and GPUs in Deep Learning applications, using research papers",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/graphics-.jpg"
+        },
+        {
+            "id": 2293,
+            "title": "Building a Content-Based Recommendation System",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/building-a-content-based-recommendation-system/",
+            "authors": "Aakash93 Makwana",
+            "tags": "Beginner, Clustering, Data Engineering, Guide, Python",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "This article will show you the importance of recommendation system and how to build a recommendation system for Bigbasket.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/recommendation-system.png"
+        },
+        {
+            "id": 2294,
+            "title": "AWS Glue for Handling Metadata",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/aws-glue-for-handling-metadata/",
+            "authors": "Chetan Dekate",
+            "tags": "AWS, Cloud Computing, Data Engineering, Intermediate",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "AWS Glue helps Data Engineers to prepare data for other data consumers through the Extract, Transform & Load (ETL) Process.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 2295,
+            "title": "The DataHour: Your Upcoming Learning Timeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/the-datahour-your-upcoming-learning-timeline/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence, Data Science, Deep Learning, Machine Learning",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "Come, register yourself for the DataHour of your choice, where you can learn the application of data science in real life.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/08/launchingbanner4.jpg"
+        },
+        {
+            "id": 2296,
+            "title": "Building a simple Flask App using Docker vs Code",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/building-a-simple-flask-app-using-docker-vs-code/",
+            "authors": "Mimi Dutta",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Docker",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "In this article, you will learn how to build a simple flask app using docker vs code. Sounds interesting, right?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/11/06110003/docker.png"
+        },
+        {
+            "id": 2297,
+            "title": "Colorization of Faded Images",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/colorization-of-faded-images/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Computer Vision, Deep Learning, Image gradient, OpenCV, Python",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "In this article, we will see how colorization of images can be done using some concepts of OpenCV and Deep Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/45605deep_learning.jpg"
+        },
+        {
+            "id": 2298,
+            "title": "Apache Impala- Features and Architecture",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/what-is-apache-impala-features-and-architecture/",
+            "authors": "Trupti Dekate",
+            "tags": "Big data, Data Engineering, Hadoop, Intermediate",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "Apache Impala runs several systems in an Apache Hadoop cluster. Unlike traditional storage systems, it is not tied to its storage core.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Understanding-the-Hadoop-Ecosystem.jpg"
+        },
+        {
+            "id": 2299,
+            "title": "Test your Data Science Skills on Transformers library",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/test-your-data-science-skills-on-transformers-library/",
+            "authors": "Pradeep T",
+            "tags": "Deep Learning, Intermediate, Interview Questions, Interviews, Machine Learning, NLP, transformer package",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "An innovative design called The Transformers in NLP tries to tackle sequence problems while skillfully managing long-range dependencies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pytorch-transformers.jpg"
+        },
+        {
+            "id": 2300,
+            "title": "Image Contrast Enhancement Using CLAHE",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/image-contrast-enhancement-using-clahe/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Image, Python",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "CLAHE works on small areas of an image called tiles rather than the complete image. This algorithm can be used to improve image contrast.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/gray-image-output.png"
+        },
+        {
+            "id": 2301,
+            "title": "Introduction to Apache Spark and its Datasets",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-on-apache-spark-and-its-datasets/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Beginner, Big data, Data Engineering, Python, Spark",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "In this article, we will introduce you to the big data ecosystem and the role of Apache Spark in Big data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/apache-spark.jpg"
+        },
+        {
+            "id": 2302,
+            "title": "Getting Started with RESTful APIs and Fast API",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/getting-started-with-restful-apis-and-fast-api/",
+            "authors": "Sunil Kumar Dash",
+            "tags": "Beginner, Data Engineering, Guide, Machine Learning, Python",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "Fast API is a Python web framework for creating APIs and web services. It got released in 2018 as an open-source Python web framework.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/81090Techniques-for-Proper-API-Caching.png"
+        },
+        {
+            "id": 2303,
+            "title": "On-Device Personalization of ASR Models for Disordered Speech",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/on-device-personalization-of-asr-models-for-disordered-speech/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Beginner, NLP",
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "Google AI researchers have proposed on-device personalization of ASR models with a focus on acoustic adaptation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/44589nlp.png"
+        }
+    ]
+}

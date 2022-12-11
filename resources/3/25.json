@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2694,
+            "title": "Comparison of the RMS Energy and the Amplitude Envelope",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/comparison-of-the-rms-energy-and-the-amplitude-envelope/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Intermediate, Python",
+            "publishedOn": "2022-05-27T00:00:00",
+            "description": "We'll visualize and examine the RMS Energy and the Amplitude Envelope of different music genre tracks, using the librosa library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/sound-1449118.png"
+        },
+        {
+            "id": 2695,
+            "title": "15 Most Common Data Science Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/15-most-common-data-science-interview-questions/",
+            "authors": "Subhadeep Mandal",
+            "tags": "Beginner, Data Science, Interviews, Learning Path",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "This article explains you some of the most commonly asked Data Science interview questions with its answers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2696,
+            "title": "Adding Explainability to Clustering",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/adding-explainability-to-clustering/",
+            "authors": "Mimi Dutta",
+            "tags": "Algorithm, Beginner, Machine Learning, Python",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "Clustering is an unsupervised algorithm that is used for determining the intrinsic groups present in unlabelled data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/369202-variable-clustering.png"
+        },
+        {
+            "id": 2697,
+            "title": "Prompt Engineering in GPT-3",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/",
+            "authors": "Pradeep T",
+            "tags": "Intermediate, NLP, Probability",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "In this article, you will learn fundamental concept and understand before moving to play with GPT-3 models, which is - Prompt engineering.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Importance-Of-Feature-Engineering-In-DataHack-Competitions.jpg"
+        },
+        {
+            "id": 2698,
+            "title": "An End-to-end Guide on Building a Regression Pipeline Using\u00a0Pyspark",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/an-end-to-end-guide-on-building-a-regression-pipeline-using-pyspark/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Data Engineering, Intermediate, Machine Learning, Python, Spark",
+            "publishedOn": "2022-05-25T00:00:00",
+            "description": "We are going to discuss machine learning with Spark in Python and build a regression Pipeline in Pyspark and gives a real-time prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.png"
+        },
+        {
+            "id": 2699,
+            "title": "Amazon Price Tracking System Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/amazon-price-tracking-system-using-python/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Libraries, Python",
+            "publishedOn": "2022-05-25T00:00:00",
+            "description": "In this article, you will learn about the Amazon price tracking system using python wherein you will learn to implement the budget price.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/29710python-programming-language.png"
+        },
+        {
+            "id": 2700,
+            "title": "A Guide for Plotly to Add Magic in Charts",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/a-guide-for-plotly-to-add-magic-in-charts/",
+            "authors": "Kruti Patel",
+            "tags": "Beginner, Data Visualization, Libraries, Python",
+            "publishedOn": "2022-05-25T00:00:00",
+            "description": "Plotly is an open-source data visualization library that provide chart types as a Plotly Dash tool for making Dashboard with callbacks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png"
+        },
+        {
+            "id": 2701,
+            "title": "The DataHour: Introduction to Blockchain",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/the-datahour-introduction-to-blockchain/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Announcement, Videos",
+            "publishedOn": "2022-05-25T00:00:00",
+            "description": "This DataHour session will give you insights on 'Blockchain'. The world of cryptocurrency is trending, so time to update and upgrade!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/og4.png"
+        },
+        {
+            "id": 2702,
+            "title": "A Comprehensive Guide to Apache Hive",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-apache-hive/",
+            "authors": "Shikha Gupta",
+            "tags": "Data Engineering, Guide, Intermediate, Python",
+            "publishedOn": "2022-05-24T00:00:00",
+            "description": "In this article, we will be learning in depth about the A to Z about Apache Hive. And how its storage functionality works.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Getting-started-with-apache-hive.jpg"
+        },
+        {
+            "id": 2703,
+            "title": "Scraping Jobs on LinkedIn Using Scrapy",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/scraping-jobs-on-linkedin-using-scrapy/",
+            "authors": "Subhradeep Rang",
+            "tags": "Intermediate, Python",
+            "publishedOn": "2022-05-24T00:00:00",
+            "description": "In this article, we will be learning in depth about how one can scrape jobs especially on LinkedIn employing scrapy.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/jobs.jpg"
+        },
+        {
+            "id": 2704,
+            "title": "Market Basket Analysis Based on RFM Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/market-basket-analysis-based-on-rfm-analysis/",
+            "authors": "Akhilesh Kulkarni",
+            "tags": "Guide, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-05-24T00:00:00",
+            "description": "In this article we will learn all about the market basket analysis in depth which is based on RFM analysis using Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/regression_analysis.jpg"
+        },
+        {
+            "id": 2705,
+            "title": "The Tale of Kubernetes!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/the-tale-of-kubernetes/",
+            "authors": "Vijay Sharma",
+            "tags": "Beginner, Data Engineering, kubernetes, Model Deployment",
+            "publishedOn": "2022-05-23T00:00:00",
+            "description": "A complete guide on Kubernetes that you tell you about some key features, advantages, disadvantages and much more!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/Kubernetes.png"
+        },
+        {
+            "id": 2706,
+            "title": "Use of Aggregate Functions and GroupBy in SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/use-of-aggregate-functions-and-group-by-in-sql/",
+            "authors": "Sonali Dash",
+            "tags": "Intermediate, SQL",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": "In this article we will be learning and understanding the proper usage of aggregate functions and Group by in SQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/Loss-Functions-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 2707,
+            "title": "Loan Prediction Problem From Scratch to End",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/loan-prediction-problem-from-scratch-to-end/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Classification, Guide, Python",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 2708,
+            "title": "Building a 3D-CNN in TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/building-a-3d-cnn-in-tensorflow/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Advanced, Computer Vision, Datasets, Deep Learning",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": "In this article we will be learning all about the building of a 3D- CNN in Tensorflow. And why it is useful to properly be trained.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/40160REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 2709,
+            "title": "Introduction to Azure Databricks Notebook",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/introduction-to-azure-databricks-notebook/",
+            "authors": "Kishan Yadav",
+            "tags": "AWS, Azure, Cloud Computing, Data Science, Intermediate, Machine Learning",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": "In this article we will be learning all about the introduction to the Azure Databricks and why it is the hot trending topic.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/04/azure.jpg"
+        },
+        {
+            "id": 2710,
+            "title": "Organised Preprocessing for Pandas Dataframe",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/organised-preprocessing-for-pandas-dataframe/",
+            "authors": "Mitul Agrawal",
+            "tags": "Guide, Intermediate, Machine Learning, Pandas, Python",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": "In this article, we will be learning all there is about Organised preprocessing method especially designed for pandas Dataframe.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.jpg"
+        },
+        {
+            "id": 2711,
+            "title": "Data Preprocessing Using PySpark \u2013 Filter Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/data-preprocessing-using-pyspark-filter-operations/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Datasets, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-05-21T00:00:00",
+            "description": "In this article, we will learn in detail about data preprocessing while usurping the pyspark filter operation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 2712,
+            "title": "Understanding the Basics of Docker Container Networking\u2019s Basic",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/understanding-the-basics-of-docker-container-networkings-basic/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Data Engineering, Docker, Intermediate",
+            "publishedOn": "2022-05-21T00:00:00",
+            "description": "In this article, we will be understanding in depth about the basics and nitty gritties of the Docker Containers Networking.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/89641docker_intro1.jpg"
+        },
+        {
+            "id": 2713,
+            "title": "A Guide to Gathering Requirements as Business Analyst",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/a-guide-to-gathering-requirements-as-a-business-analyst/",
+            "authors": "Ananya Chakraborty",
+            "tags": "Business Analytics, Business Intelligence, Guide, Intermediate",
+            "publishedOn": "2022-05-21T00:00:00",
+            "description": "In this article we will be learning in depth about how to gather all the requirements as a business analyst.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/la-2.png"
+        },
+        {
+            "id": 2714,
+            "title": "The DataHour: Create Effective DS Notebooks and Communication",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/the-datahour-create-effective-ds-notebooks-and-communication/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Announcement, Videos",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this DataHour Session, Martin Henze will discuss how to crate an effective data science notebooks and communication.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/og2.png"
+        },
+        {
+            "id": 2715,
+            "title": "Multiple Web Scraping Using Beautiful Soap Library",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/collect-content-from-multiple-web-scraping-using-beautiful-soap-library/",
+            "authors": "Akhilesh Kulkarni",
+            "tags": "Data Cleaning, Data Exploration, Datasets, Intermediate, Libraries",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, you will learn to collect content from web scraping using a beautiful soap library. Read more to know!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/76526Web-Scraping-using-Python.png"
+        },
+        {
+            "id": 2716,
+            "title": "Most Important SQL Queries for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/most-important-sql-queries-for-beginners/",
+            "authors": "Amandeep Gill",
+            "tags": "Beginner, Data Engineering, Programming, SQL",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, we shall understand about some of the most important SQL Queries that you must know if you're a beginner!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2717,
+            "title": "Advanced OpenCV: BGR Pixel Intensity Plots",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/advanced-opencv-bgr-pixel-intensity-plots/",
+            "authors": "Shiv Maharaj",
+            "tags": "Computer Vision, Data Visualization, Intermediate, Programming, Python",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, you will learn advanced level of OpenCV wherein we will discuss about BGR pixel intensity plots.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/74738Computer_vision.jpeg"
+        },
+        {
+            "id": 2718,
+            "title": "Knapsack Problem in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/knapsack-problem-in-python/",
+            "authors": "Prashant Sharma",
+            "tags": "Intermediate, Programming, Python",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "The greedy methodology, dynamic programming, or a brute force approach can be used in the Knapsack problem in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/AI-Virtual-Assistant-using-Python.jpg"
+        },
+        {
+            "id": 2719,
+            "title": "Working with DynamoDb in Python using BOTO3",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/working-with-dynamodb-in-python-using-boto3/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "AWS, Cloud Computing, Intermediate, Python",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, we are going to talk about a dynamoDB a No-SQL, and a very highly scalable database provided by Amazon AWS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.jpg"
+        },
+        {
+            "id": 2720,
+            "title": "PySpark MLIB Library",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/pyspark-mlib-library/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Datasets, Libraries, Machine Learning, SQL",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "We will be working with PySpark's MLIB library it is commonly known as the Machine learning library of PySpark.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/3.png"
+        },
+        {
+            "id": 2721,
+            "title": "Analysis of the Amplitude Envelopes of Various Music Genre Tracks",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/analysis-of-the-amplitude-envelopes-of-various-music-genre-tracks/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Machine Learning, Python",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, we are going to do the analysis of the Amplitude Envelopes of different music genre tracks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/nepalbuzz-scaled.jpg"
+        },
+        {
+            "id": 2722,
+            "title": "Creating an ML Web App and Deploying it on AWS",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/creating-an-ml-web-app-and-deploying-it-on-aws/",
+            "authors": "Parth Singh",
+            "tags": "AWS, Cloud Computing, Data Engineering, Machine Learning, Model Deployment, Python",
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "In this article, We'll start with Model Deployment and understand why we should deploy the ML web app model on AWS.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 2723,
+            "title": "How to Approach CNN Architecture from Scratch?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/05/how-to-approach-cnn-architecture-from-scratch/",
+            "authors": "Premanand S",
+            "tags": "Deep Learning, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-05-19T00:00:00",
+            "description": "In this article, we will be dealing in depth about how to approach the CNN Architecture from scratch especially fitted for beginners.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/Faster-R-CNN-Architecture-9.png"
+        }
+    ]
+}

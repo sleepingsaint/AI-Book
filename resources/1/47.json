@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1364,
+            "title": "Enhanced text classification and word vectors using Amazon SageMaker BlazingText",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhanced-text-classification-and-word-vectors-using-amazon-sagemaker-blazingtext/",
+            "authors": "Saurabh Gupta, Vineet Khare",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-13T00:00:00",
+            "description": "Today, we are launching several new features for the\u00a0Amazon SageMaker BlazingText algorithm. Many downstream natural language processing (NLP) tasks like sentiment analysis, named entity recognition, and machine translation require the text data to be converted into real-valued vectors. Customers have been using BlazingText\u2019s highly optimized implementation of the Word2Vec algorithm, for learning these vectors from [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1365,
+            "title": "Object Detection algorithm now available in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/object-detection-algorithm-now-available-in-amazon-sagemaker/",
+            "authors": "Xiong Zhou, Ragav Venkatesan, Saksham Saini, Vineet Khare",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-13T00:00:00",
+            "description": "Amazon SageMaker is a fully-managed and highly scalable machine learning (ML) platform that makes it easy build, train, and deploy machine learning models. This is a giant step towards the democratization of ML and in lowering the bar for entry in to the ML space for developers. Computer vision is the branch of machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/11/object-detection-1-1.jpg"
+        },
+        {
+            "id": 1366,
+            "title": "Build multiclass classifiers with Amazon SageMaker linear learner",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-multiclass-classifiers-with-amazon-sagemaker-linear-learner/",
+            "authors": "Philip Gautier, Saswata Chakravarty, Zohar Karnin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-12T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service for scalable training and hosting of machine learning models. We\u2019re adding multiclass classification support to the linear learner algorithm in Amazon SageMaker. Linear learner already provides convenient APIs for linear models such as logistic regression for ad click prediction, fraud detection, or other classification problems, and linear regression [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1367,
+            "title": "Amazon SageMaker DeepAR now supports missing values, categorical and time series features, and generalized frequencies",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-deepar-now-supports-missing-values-categorical-and-time-series-features-and-generalized-frequencies/",
+            "authors": "Valentin Flunkert, Alexander Alexandrov, Michael Bohlke-Schneider, David Salinas, Jan Gasthaus, Syama Rangapuram, Lorenzo Stella, Tim Januschowski",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-11T00:00:00",
+            "description": "Today we are launching several new features for\u00a0DeepAR in Amazon SageMaker. DeepAR is a supervised machine learning algorithm for time series prediction, or\u00a0forecasting,\u00a0that uses recurrent neural networks (RNNs) to produce probabilistic forecasts. Since its launch, the algorithm has been used for a variety of use cases. We are excited to give developers access to new [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/10/sagemaker-deepar-3.gif"
+        },
+        {
+            "id": 1368,
+            "title": "Amazon SageMaker supports kNN classification and regression",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-supports-knn-classification-and-regression/",
+            "authors": "Zohar Karnin, Amir Sadoughi",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-11T00:00:00",
+            "description": "We\u2019re excited to announce that starting today Amazon SageMaker supports a built-in k-Nearest-Neighbor (kNN) algorithm for solving classification and regression problems. kNN is a simple, interpretable, and surprisingly strong model for multi-class classification, ranking, and regression. Introduction to kNN The idea behind kNN is that similar data points should have the same class, at least [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/11/sagemaker-knn-1.gif"
+        },
+        {
+            "id": 1369,
+            "title": "Amazon Transcribe now lets you designate your own Amazon S3 buckets to store transcription outputs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-lets-you-designate-your-own-amazon-s3-buckets-to-store-transcription-outputs/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2018-07-11T00:00:00",
+            "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for you to add a speech-to-text capability to your applications. You can use Amazon Transcribe to create text transcripts of audio and video files. Starting today, you can designate your own S3 buckets to store transcription outputs rather than S3 buckets maintained [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg"
+        },
+        {
+            "id": 1370,
+            "title": "Discover Financial Services applies machine learning through a Robocar event powered by Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/discover-financial-services-applies-machine-learning-through-a-robocar-event-powered-by-amazon-sagemaker/",
+            "authors": "Todd Escalona",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-10T00:00:00",
+            "description": "The Discover Financial Services (DFS) team members who attended AWS re:Invent agreed that the Robocar Rally was an extremely impactful experience. By participating in this hackathon, six members of Discover\u2019s core team received hands-on experience using machine learning (ML) and deep learning on AWS. They had a blast and created lasting memories! Discover\u2019s Cloud Center [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/09/discover-robocar-3.jpg"
+        },
+        {
+            "id": 1371,
+            "title": "Secure prediction calls in Amazon SageMaker with AWS PrivateLink",
+            "url": "https://aws.amazon.com/blogs/machine-learning/secure-prediction-calls-in-amazon-sagemaker-with-aws-privatelink/",
+            "authors": "Urvashi Chowdhary",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-03T00:00:00",
+            "description": "Amazon SageMaker\u00a0now supports Amazon Virtual Private Cloud (VPC) Endpoints\u00a0via\u00a0AWS PrivateLink so you can initiate prediction calls to your machine learning models hosted on Amazon SageMaker inside your VPC, without going over the internet. Amazon SageMaker is a fully-managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/03/sagemaker-privatelink-5.gif"
+        },
+        {
+            "id": 1372,
+            "title": "Running Principal Component Analysis in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-principal-component-analysis-in-amazon-sagemaker/",
+            "authors": "Can Balioglu, Harsha Viswanath, Zohar Karnin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-07-02T00:00:00",
+            "description": "Principal Component Analysis (PCA) is a very popular technique used by data scientists primarily for dimensionality reduction in numerous applications ranging from stock market prediction to medical image classification. Other uses of PCA include de-noising and feature extraction. PCA is also used as an exploratory data analysis tool. To better understand PCA let\u2019s consider an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1373,
+            "title": "Building a scalable and adaptable video processing pipeline with Amazon Rekognition Video",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-and-adaptable-video-processing-pipeline-with-amazon-rekognition-video/",
+            "authors": "Joe Monti",
+            "tags": "Amazon Rekognition Video, Artificial Intelligence",
+            "publishedOn": "2018-06-29T00:00:00",
+            "description": "This is a guest post by Joe Monti, Sr. Software Engineer at VidMob. Vidmob is, in their own words, \u201cthe world\u2019s leading video creation platform, with innovative technology solutions that enable a network of highly trained creators to develop marketing communications that are insight-driven, personalized, and scalable. VidMob creators are trained to produce the full [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/26/vidmob-3.jpg"
+        },
+        {
+            "id": 1374,
+            "title": "Are you ready for a new challenge? You have an opportunity to make a difference! Announcing the AWS DeepLens Challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/are-you-ready-for-a-new-challenge-you-have-an-opportunity-to-make-a-difference-announcing-the-aws-deeplens-challenge/",
+            "authors": "Sally Revell",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-06-28T00:00:00",
+            "description": "Technology like machine learning (ML) has the potential to profoundly impact the world, and we believe, benefit society in materially beneficial ways. It\u2019s one of the reasons why AWS is committed to putting machine learning into the hands of every developer and data scientist. And now, with the AWS DeepLens deep learning-enabled video camera, developers [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/deeplens-challenge-1.jpg"
+        },
+        {
+            "id": 1375,
+            "title": "Monitor Amazon Transcribe applications with AWS CloudTrail and Amazon CloudWatch Events",
+            "url": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-transcribe-applications-with-aws-cloudtrail-and-amazon-cloudwatch-events/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2018-06-28T00:00:00",
+            "description": "Monitoring your AWS resources is critical for security, performance, compliance, and cost control purposes. Therefore, our customers always ask for features to enable monitoring. Today, we are pleased to announce that Amazon Transcribe is integrated with AWS CloudTrail and Amazon CloudWatch Events to give you more visibility and control of your Amazon Transcribe resources. Let\u2019s [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg"
+        },
+        {
+            "id": 1376,
+            "title": "Amazon Comprehend now supports asynchronous processing along with larger document sizes",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-asynchronous-processing-along-with-larger-document-sizes/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-06-27T00:00:00",
+            "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.\u00a0 Starting today, you have the option to analyze a collection of documents stored in an Amazon S3 bucket using our new asynchronous job service. This is in addition to single and multiple document synchronous calls [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/27/social-comprehend.jpg"
+        },
+        {
+            "id": 1377,
+            "title": "Build a serverless frontend for an Amazon SageMaker endpoint",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-frontend-for-an-amazon-sagemaker-endpoint/",
+            "authors": "Thomas Hughes",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-06-25T00:00:00",
+            "description": "Amazon SageMaker provides a powerful platform for building, training, and deploying machine learning models into a production environment on AWS. By combining this powerful platform with the serverless capabilities of Amazon Simple Storage Service (S3), Amazon API Gateway, and AWS Lambda, it\u2019s possible to transform an Amazon SageMaker endpoint into a web application that accepts [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/22/serverless-frontend-sagemaker-1-w.gif"
+        },
+        {
+            "id": 1378,
+            "title": "Introduction to the Amazon SageMaker Neural Topic Model",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introduction-to-the-amazon-sagemaker-neural-topic-model/",
+            "authors": "David Ping, Bing Xiang, Julio Delgado Mangas, Ran Ding, Ramesh Nallapati",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-06-22T00:00:00",
+            "description": "Structured and unstructured data are being generated at an unprecedented rate, so you need the right tools to help organize, search, and understand this vast amount of information,\u00a0it\u2019s challenging to make the data useful. This is especially true for unstructured data, and it\u2019s estimated that over 80% of the data in enterprises is unstructured.\u00a0Text analytics [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/23/sagemaker-ntm-2-1.gif"
+        },
+        {
+            "id": 1379,
+            "title": "Simplify machine learning with XGBoost and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-with-xgboost-and-amazon-sagemaker/",
+            "authors": "Eitan Sela, Saksham Saini, Yash Pant, Yijie Zhuang",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Top Posts",
+            "publishedOn": "2018-06-21T00:00:00",
+            "description": "January 2021: Post updated with changes required for SageMaker SDK v2, courtesy of Eitan Sela, Senior Startup Solutions Architect Machine learning is a powerful tool that has recently enabled use cases that were never previously possible\u2013computer vision, self-driving cars, natural language processing, and more. Machine learning is a promising technology, but it can be complex [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1380,
+            "title": "AWS Deep Learning AMIs Now Available in AWS GovCloud (US) Region",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-available-in-aws-govcloud-us-region/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-06-21T00:00:00",
+            "description": "The AWS Deep Learning AMIs (Amazon machine images) are now available in AWS GovCloud (US), Amazon\u2019s isolated cloud region built for sensitive data and regulated workloads. Available in Ubuntu and Amazon\u00a0Linux, the AMIs provide fully-configured development environments to quickly build AI applications using popular deep learning frameworks including TensorFlow, Apache MXNet and Gluon, PyTorch, Chainer, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1381,
+            "title": "Toyota Research Institute accelerates safe automated driving with deep learning at a global scale on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/toyota-research-institute-accelerates-safe-automated-driving-with-deep-learning-at-a-global-scale-on-aws/",
+            "authors": "Geoff Murase",
+            "tags": "Amazon EC2, Artificial Intelligence, Compute",
+            "publishedOn": "2018-06-20T00:00:00",
+            "description": "Vehicles with self-driving technology can bring many benefits to society. One of the top priorities at Toyota Research Institute (TRI) is to apply the latest advancements in artificial intelligence (AI) to help Toyota produce cars that are safer, more accessible, and more environmentally friendly. To help TRI achieve their goals, they turned to deep learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/20/TRI-data-flow.gif"
+        },
+        {
+            "id": 1382,
+            "title": "Amazon SageMaker now supports PyTorch and TensorFlow 1.8",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-now-supports-pytorch-and-tensorflow-1-8/",
+            "authors": "David Arpin, Nadia Yakimakha",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-06-20T00:00:00",
+            "description": "Starting today, you can easily train and deploy your PyTorch deep learning models in Amazon SageMaker. This is the fourth deep learning framework that Amazon SageMaker has added support for, in addition to TensorFlow, Apache MXNet, and Chainer.\u00a0 Just like with those frameworks, now you can write your PyTorch script like you normally would and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1383,
+            "title": "Customers can now use Amazon Translate, a neural machine translation service, in the AWS GovCloud (US) Region",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customers-can-now-use-amazon-translate-a-neural-machine-translation-service-in-the-aws-govcloud-us-region/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-06-20T00:00:00",
+            "description": "For AWS government customers and organizations in government-regulated industries it is critical to communicate with people in their preferred languages. CSA Research shows that 51 percent of consumers prefer content in their own language, even if the language quality is less than perfect. To help our government customers and organizations in government-regulated industries, we are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1384,
+            "title": "Open Influence uses Amazon Rekognition to enhance its influencer marketing platform",
+            "url": "https://aws.amazon.com/blogs/machine-learning/open-influence-uses-amazon-rekognition-to-enhance-its-influencer-marketing-platform/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-06-18T00:00:00",
+            "description": "Open Influence is an end-to-end influencer marketing platform that uses artificial intelligence to enable global brands and agencies to quickly and easily identify relevant influencers. \u00a0Influencer marketing has become a popular way for corporate brand marketers to work with influential leaders on social media to reach a specific audience. These influencers are critical in executing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/18/oi-2.jpg"
+        },
+        {
+            "id": 1385,
+            "title": "Creating virtual guided navigation using a Question and Answer Bot with Amazon Lex and Amazon Alexa",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-virtual-guided-navigation-using-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/",
+            "authors": "Arun Donti, John Calhoun, Bob Strahan",
+            "tags": "Alexa, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-06-18T00:00:00",
+            "description": "If our users are using Question and Answer Bot (QnABot), and they are getting the right answers for their questions, what else can you do for them? Now you can create a bot to guide them through a series of logically connected answers. This means, for example, that the bot can guide them through the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/18/qna-virtual-tour-1.gif"
+        },
+        {
+            "id": 1386,
+            "title": "Build a movie recommender with factorization machines on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker/",
+            "authors": "Julien Simon",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-06-18T00:00:00",
+            "description": "Factorization machines can be used for classification or regression and are much more computationally efficient on large sparse data sets than traditional algorithms like linear regression. This property is why FM are widely used for recommendation. ",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/04/Factorization1.png"
+        },
+        {
+            "id": 1387,
+            "title": "Create a questionnaire bot with Amazon Lex and Amazon Alexa",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-questionnaire-bot-with-amazon-lex-and-amazon-alexa/",
+            "authors": "Adam Imeson, John Calhoun, Bob Strahan",
+            "tags": "Alexa, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-06-15T00:00:00",
+            "description": "In the Create a Question and Answer Bot with Amazon Lex and Amazon Alexa blog post, we showed you how you could create a QnABot (pronounced \u201cQ and A Bot\u201d) for a situation in which your users have questions and you have answers. Now, what if this situation were reversed? What if you could ask [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/14/questionnaire-bot-14.gif"
+        },
+        {
+            "id": 1388,
+            "title": "Video analytics in the cloud and at the edge with AWS DeepLens and Kinesis Video Streams",
+            "url": "https://aws.amazon.com/blogs/machine-learning/video-analytics-in-the-cloud-and-at-the-edge-with-aws-deeplens-and-kinesis-video-streams/",
+            "authors": "Roy Ben-Alta, Nehal Mehta",
+            "tags": "Artificial Intelligence, AWS DeepLens, Kinesis Video Streams",
+            "publishedOn": "2018-06-15T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Yesterday we announced the integration of AWS DeepLens with Amazon Kinesis Video Streams, allowing you to easily and securely stream a video feed from AWS DeepLens to Amazon Kinesis Video Streams for analytics, machine learning and other processing. To help [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/14/dog-monitor-7.jpg"
+        },
+        {
+            "id": 1389,
+            "title": "Analyze US census data for population segmentation using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyze-us-census-data-for-population-segmentation-using-amazon-sagemaker/",
+            "authors": "Han Man, Eitan Sela",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-06-12T00:00:00",
+            "description": "August 2021: Post updated with changes required for SageMaker SDK v2, courtesy of Eitan Sela, Senior Startup Solutions Architect In the United States, with the 2018 midterm elections approaching, people are looking for more information about the voting process. This blog post explores how we can apply machine learning (ML) to better integrate science into [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/12/population-segmentation-social.gif"
+        },
+        {
+            "id": 1390,
+            "title": "VidMob combines computer vision and language AI services for data-driven creative asset production",
+            "url": "https://aws.amazon.com/blogs/machine-learning/vidmob-combines-computer-vision-and-language-ai-services-for-data-driven-creative-asset-production/",
+            "authors": "Kaiser Larsen",
+            "tags": "Amazon Comprehend, Amazon Rekognition Video, Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2018-06-07T00:00:00",
+            "description": "VidMob is a social video creation platform that marketers of all sizes can use to develop personalized advertising communications at scale. VidMob uses machine learning (ML) to power its SaaS application. This application uses metadata extraction and sentiment analysis to provide marketers with actionable insights into which creative assets resonate with their intended audience, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/29/vidmob-1.gif"
+        },
+        {
+            "id": 1391,
+            "title": "AWS internal use-case: Evaluating and adopting Amazon SageMaker within AWS Marketing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-internal-use-case-evaluating-and-adopting-amazon-sagemaker-within-aws-marketing/",
+            "authors": "Azman Sami, Mohammd Alam Khan, Neelesh Gattani",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-06-07T00:00:00",
+            "description": "We\u2019re the AWS Marketing Data Science team. We use advanced analytical and machine learning (ML) techniques so we can share insights into business problems across the AWS customer lifecycle, such as ML-driven scoring of sales leads, ML-based targeting segments, and econometric models for downstream impact measurement. Within Amazon, each team operates independently and owns the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1392,
+            "title": "Amazon SageMaker console now supports training job cloning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-console-now-supports-training-job-cloning/",
+            "authors": "Fan Li",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-06-06T00:00:00",
+            "description": "Today we are launching the training job cloning feature on the Amazon SageMaker console, which makes it much easier for you to create training jobs based on existing ones. When you use Amazon SageMaker, it\u2019s common to run multiple training jobs using different training sets and identical configuration. It\u2019s also common to adjust a specific [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/06/sagemaker-training-job-cloning-1.gif"
+        },
+        {
+            "id": 1393,
+            "title": "AWS Deep Learning AMIs now include Horovod for faster multi-GPU TensorFlow training on Amazon EC2 P3 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-include-horovod-for-faster-multi-gpu-tensorflow-training-on-amazon-ec2-p3-instances/",
+            "authors": "Sumit Thakur",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-06-06T00:00:00",
+            "description": "The AWS Deep Learning AMIs for Ubuntu and Amazon Linux now come pre-installed and fully configured with Horovod, the popular open source distributed training framework to scale TensorFlow training on multiple GPUs. This is an update to the optimized build of TensorFlow 1.8 that we launched in early May. This custom build of TensorFlow 1.8 [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

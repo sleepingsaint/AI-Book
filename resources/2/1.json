@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1616,
+            "title": "Alexa\u2019s spoken-language-understanding research at Interspeech 2022",
+            "url": "https://www.amazon.science/blog/amazons-spoken-language-understanding-research-at-interspeech-2022",
+            "authors": "Gokhan Tur",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-23T00:00:00",
+            "description": "Methods for learning from noisy data, using phonetic embeddings to improve entity resolution, and quantization-aware training are a few of the highlights.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/af369d6/2147483647/strip/true/crop/2638x1385+0+50/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F13%2Fc1%2Fccfbbd3a407eae6f09ffed34e98c%2Fmultitask-network.16x9.png"
+        },
+        {
+            "id": 1617,
+            "title": "Alexa speech science developments at Interspeech 2022",
+            "url": "https://www.amazon.science/blog/alexa-speech-science-developments-at-interspeech-2022",
+            "authors": "Andreas Stolcke",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "Research from Alexa Speech covers a range of topics related to end-to-end neural speech recognition and fairness.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ac7653c/2147483647/strip/true/crop/796x418+2+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F78%2F01%2Fd7f37f3c4edeb5484da65e5f5194%2Finterspeech-amazon-science.png"
+        },
+        {
+            "id": 1618,
+            "title": "RecSys 2022: \u201cRecommenders are ubiquitous\u201d",
+            "url": "https://www.amazon.science/blog/recsys-2022-recommenders-are-ubiquitous",
+            "authors": "Larry Hardesty",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Adapting natural-language-processing techniques to recommendation systems and algorithmic fairness are two central topics at this year\u2019s conference.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/66a86da/2147483647/strip/true/crop/926x486+0+17/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fea%2Fb6%2F410c60b6443db2d03e60222e34bd%2Frecsys-portrait.png"
+        },
+        {
+            "id": 1619,
+            "title": "Scaling multilingual virtual assistants to 1,000 languages",
+            "url": "https://www.amazon.science/blog/scaling-multilingual-virtual-assistants-to-1-000-languages",
+            "authors": "Jack FitzGerald",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-15T00:00:00",
+            "description": "Self-supervised training, distributed training, and knowledge distillation have delivered remarkable results, but they\u2019re just the tip of the iceberg.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/7c81679/2147483647/strip/true/crop/1515x795+0+53/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F80%2F2d%2F21aee8164dcc8a2f731abb9e1a83%2Ffitzgerald-keynote.png"
+        },
+        {
+            "id": 1620,
+            "title": "Interspeech 2022: The growth of interdisciplinary research",
+            "url": "https://www.amazon.science/blog/interspeech-2022-the-growth-of-interdisciplinary-research",
+            "authors": "Larry Hardesty",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "Cyclic training of speech synthesis and speech recognition models and language understanding for better speech prosody are just a few examples of cross-pollination in speech-related fields.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/03f6daf/2147483647/strip/true/crop/1777x933+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa8%2F0c%2F82980cb3475388e8cadebcb53d6b%2Fpenny-karanasou.16x9.png"
+        },
+        {
+            "id": 1621,
+            "title": "Amazon scientists win best-paper award for ad auction simulator",
+            "url": "https://www.amazon.science/blog/amazon-scientists-win-best-paper-award-for-ad-auction-simulator",
+            "authors": "Olivier Jeunen",
+            "tags": "Economics",
+            "publishedOn": "2022-09-13T00:00:00",
+            "description": "Paper introduces a unified view of the learning-to-bid problem and presents AuctionGym, a simulation environment that enables reproducible validation of new solutions.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/d980e46/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa6%2Fec%2F44782e0c4955872a6a5e3852f7e2%2Fauctiongym-image.png"
+        },
+        {
+            "id": 1622,
+            "title": "Automatically optimizing execution of dynamic tensor operations",
+            "url": "https://www.amazon.science/blog/automatically-optimizing-execution-of-unfamiliar-tensor-operations",
+            "authors": "BOJIAN ZHENG, Yida Wang",
+            "tags": "Machine learning",
+            "publishedOn": "2022-09-08T00:00:00",
+            "description": "New auto-scheduler speeds optimization process sixfold while improving performance of resulting code up to 70%.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/c0f5793/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fef%2F80%2F56b41b1a4baba65367ec847c4538%2Fdietcode-v.%20conventional.png"
+        },
+        {
+            "id": 1623,
+            "title": "A quick guide to Amazon\u2019s 40-plus papers at Interspeech 2022",
+            "url": "https://www.amazon.science/blog/a-quick-guide-to-amazons-40-plus-interspeech-papers",
+            "authors": "Staff writer",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-06T00:00:00",
+            "description": "Speech recognition and text-to-speech predominate, but other topics include audio watermarking, automatic dubbing, and compression.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/b02453a/2147483647/strip/true/crop/796x418+2+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F00%2F0d%2F311c1ad54bf5b7da55832de7d232%2Fa-quick-guide-to-amazons-40-plus-papers-at-interspeech-2022.png"
+        },
+        {
+            "id": 1624,
+            "title": "Model assesses the validity of tips offered in product reviews",
+            "url": "https://www.amazon.science/blog/model-assesses-the-validity-of-tips-offered-in-product-reviews",
+            "authors": "Lital Kuchy, Avihai Mejer",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-09-02T00:00:00",
+            "description": "Method would enable customers to evaluate supporting evidence for tip reliability.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/af38d67/2147483647/strip/true/crop/796x418+2+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F9c%2Fb4%2Fcbec8bfa45808a91e7edd2d0841f%2Fsocial-model-assesses-the-validity-of-tips-offered-in-product-reviews.png"
+        },
+        {
+            "id": 1625,
+            "title": "The science behind NFL Next Gen Stats\u2019 new passing metric",
+            "url": "https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric",
+            "authors": "Francois-Xavier Aubet, Elena Ehrlich",
+            "tags": "Machine learning",
+            "publishedOn": "2022-08-26T00:00:00",
+            "description": "Spliced binned-Pareto distributions are flexible enough to handle symmetric, asymmetric, and multimodal distributions, offering a more consistent metric.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/4e062d3/2147483647/strip/true/crop/5120x2688+0+96/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fe4%2F50%2Faa5adcdb4de2ae32eea21e7f2869%2Frodgers-option3.png"
+        },
+        {
+            "id": 1626,
+            "title": "Amazon product query competition draws more than 9,200 submissions",
+            "url": "https://www.amazon.science/blog/amazon-product-query-competition-draws-more-than-9-200-submissions",
+            "authors": "Chandan K. Reddy",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "Launched under the auspices of the KDD Cup at KDD 2022, the competition included the release of a new product query dataset.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8ebec32/2147483647/strip/true/crop/796x418+2+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F6c%2Fb6%2F2cf4f79141a6b19c4ccbd1ee2727%2Fesci-new-fig-1.png"
+        },
+        {
+            "id": 1627,
+            "title": "A billion SMT queries a day",
+            "url": "https://www.amazon.science/blog/a-billion-smt-queries-a-day",
+            "authors": "Neha Rungta",
+            "tags": "Automated reasoning",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "CAV keynote lecture by the director of applied science for AWS Identity explains how AWS is making the power of automated reasoning available to all customers.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8fa48fb/2147483647/strip/true/crop/2161x1135+0+37/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fd0%2F47%2F3efb496d4a6b97c59d3058aded29%2Fzelkova-design.png"
+        },
+        {
+            "id": 1628,
+            "title": "Scaling graph-neural-network training with CPU-GPU clusters",
+            "url": "https://www.amazon.science/blog/scaling-graph-neural-network-training-with-cpu-gpu-clusters",
+            "authors": "Da Zheng",
+            "tags": "Machine learning",
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "In tests, new approach is 15 to 18 times as fast as predecessors.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/f9d5fb6/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fdd%2F74%2F4b2765124e8f9f123c4ed5cf514d%2Fgnn-training-pipeline.jpeg"
+        },
+        {
+            "id": 1629,
+            "title": "Amazon wins contest to control \"formality\" in machine translation",
+            "url": "https://www.amazon.science/blog/amazon-wins-contest-to-control-formality-in-machine-translation",
+            "authors": "Daniel Zhang",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-08-15T00:00:00",
+            "description": "Data augmentation and post-editing strategies lift Amazon\u2019s submission above competitors.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/7331d3a/2147483647/strip/true/crop/1471x772+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F7b%2Fb7%2Fb0e615c44bb0a17ea823becd2515%2Fformality-control.16x9.png"
+        },
+        {
+            "id": 1630,
+            "title": "KDD: Graph neural networks, fairness, and inclusivity",
+            "url": "https://www.amazon.science/blog/kdd-graph-neural-networks-fairness-and-inclusivity",
+            "authors": "Larry Hardesty",
+            "tags": "Machine learning",
+            "publishedOn": "2022-08-11T00:00:00",
+            "description": "The general chair of this year\u2019s Conference on Knowledge Discovery and Data Mining on what excites him most about the conference program.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a476725/2147483647/strip/true/crop/833x437+0+17/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F75%2Fe6%2Fc9225c2f4d2ca43cf029933da301%2Fhuzefa.16x9.png"
+        },
+        {
+            "id": 1631,
+            "title": "Automated reasoning at Amazon: a conversation",
+            "url": "https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc",
+            "authors": "Larry Hardesty",
+            "tags": "Automated reasoning",
+            "publishedOn": "2022-08-08T00:00:00",
+            "description": "To mark the occasion of the eighth Federated Logic Conference (FloC), Amazon\u2019s Byron Cook, Daniel Kr\u00f6ning, and Marijn Heule discussed automated reasoning\u2019s prospects.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ac3a4a5/2147483647/strip/true/crop/1616x848+0+32/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F51%2Fc1%2F9de030384a66a9c41b7bef707401%2Far-scientists.png"
+        },
+        {
+            "id": 1632,
+            "title": "Amazon wins best-paper award at first AutoML conference",
+            "url": "https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference",
+            "authors": "Cedric Archambeau",
+            "tags": "Machine learning",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Paper presents a criterion for halting the hyperparameter optimization process.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/202aedd/2147483647/strip/true/crop/1288x676+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F19%2Fd0%2F22264ddd497f864c7a0d7e02c333%2Fregret-bound-16x9.jpg"
+        },
+        {
+            "id": 1633,
+            "title": "20B-parameter Alexa model sets new marks in few-shot learning",
+            "url": "https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning",
+            "authors": "Saleh Soltan",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "With an encoder-decoder architecture \u2014 rather than decoder only \u2014 the Alexa Teacher Model excels other large language models on few-shot tasks such as summarization and machine translation.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/16d2c9c/2147483647/strip/true/crop/1024x538+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F1e%2F50%2Fcd352fc7424eb331a53382e6bb08%2F20b-parameter-still.jpg"
+        },
+        {
+            "id": 1634,
+            "title": "The path to carbon reductions in high-growth economic sectors",
+            "url": "https://www.amazon.science/blog/the-path-to-carbon-reductions-in-high-growth-economic-sectors",
+            "authors": "Miguel Jaller",
+            "tags": "Sustainability",
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "Confronting climate change requires the participation of governments, companies, academics, civil-society organizations, and the public.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/896562a/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fe9%2F8a%2F2c89520e4daa962657ad2d81b841%2Fcarbon-reduction.jpeg"
+        },
+        {
+            "id": 1635,
+            "title": "A hyperparameter optimization library for reproducible research",
+            "url": "https://www.amazon.science/blog/a-hyperparameter-optimization-library-for-reproducible-research",
+            "authors": "Cedric Archambeau",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-29T00:00:00",
+            "description": "Syne Tune supports multiple backends, single-fidelity and multi-fidelity (early-exit) optimization algorithms, and hyperparameter transfer learning.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8199fe1/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Faa%2F0e%2Fa2b3000b4d85b3f2699506175edd%2Fsyne-tune.jpeg"
+        },
+        {
+            "id": 1636,
+            "title": "Preparing today for a post-quantum cryptographic future",
+            "url": "https://www.amazon.science/blog/preparing-today-for-a-post-quantum-cryptographic-future",
+            "authors": "Matthew Campagna",
+            "tags": "Security, privacy, and abuse prevention",
+            "publishedOn": "2022-07-26T00:00:00",
+            "description": "Amazon is helping develop standards for post-quantum cryptography and deploying promising technologies for customers to experiment with.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/b3c95f2/2147483647/strip/true/crop/4000x2100+0+75/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F2c%2F26%2F2bf8f5ac48f8affbeab08e2791c6%2Fsphincs-procedure.jpg"
+        },
+        {
+            "id": 1637,
+            "title": "Causal inference when treatments are continuous variables",
+            "url": "https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables",
+            "authors": "Mohammad Taha Bahadori",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "Combining a cutting-edge causal-inference technique and end-to-end machine learning reduces root-mean-square error by 27% to 38%.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/75590ba/2147483647/strip/true/crop/1920x1008+0+37/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F41%2F6c%2F14c96dfd4a0faef7c8bf7ed08fb3%2Fcontinuous-treatment-architecture.png"
+        },
+        {
+            "id": 1638,
+            "title": "Massively Multilingual NLU 2022: Call for papers and shared-task entries",
+            "url": "https://www.amazon.science/blog/massively-multilingual-nlu-2022-call-for-papers-and-shared-task-entries",
+            "authors": "Jack FitzGerald, Kay Rottmann",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "New EMNLP workshop will feature talks, papers, posters, and a competition built around the 50-plus-language, million-utterance MASSIVE dataset.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/300fbb7/2147483647/strip/true/crop/3188x1674+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F7d%2Fbe%2F08199245417b886c6fe583838f8b%2Fmultilingual-hello.16x9.png"
+        },
+        {
+            "id": 1639,
+            "title": "Honorable mention to Amazon researchers for ICML test-of-time award",
+            "url": "https://www.amazon.science/blog/honorable-mention-to-amazon-researchers-for-icml-test-of-time-award",
+            "authors": "Staff writer",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "Amazon's Bernhard Sch\u00f6lkopf and Dominik Janzing are first and second authors on \"breakthrough 2012 paper\". ",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8d884dc/2147483647/strip/true/crop/1440x756+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F30%2F74%2Fc53a1a614b99ac6c6752eecb1912%2Famazonscience-bernhard-dominik-220727114545.jpg"
+        },
+        {
+            "id": 1640,
+            "title": "ICML: Where causality meets machine learning",
+            "url": "https://www.amazon.science/blog/icml-where-causality-meets-machine-learning",
+            "authors": "Larry Hardesty",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "Amazon\u2019s Dominik Janzing on the history and promise of the young field of causal machine learning.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a8d4694/2147483647/strip/true/crop/1170x614+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F16%2F49%2F62f3c71b4ab18b5f0f93fcbaf57b%2Fjanzing.16x9.jpg"
+        },
+        {
+            "id": 1641,
+            "title": "New method identifies the root causes of statistical outliers",
+            "url": "https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers",
+            "authors": "Kailash Budhathoki, Patrick Bloebaum",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Amazon ICML paper proposes information-theoretic measurement of quantitative causal contribution.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ecda52d/2147483647/strip/true/crop/1994x1047+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F8c%2Fc7%2F5be2cc354114b3c4fb2c1fb9c6d3%2Fcausal-circuits-16x9.png"
+        },
+        {
+            "id": 1642,
+            "title": "Filtering out \"forbidden\" documents during information retrieval",
+            "url": "https://www.amazon.science/blog/filtering-out-forbidden-documents-during-information-retrieval",
+            "authors": "David Carmel",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "New method optimizes the twin demands of retrieving relevant content and filtering out bad content.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/b9d22f4/2147483647/strip/true/crop/2400x1260+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fc0%2F99%2F095d845344c0a5d091a4ed0f17a5%2Fforbidden-docs.png"
+        },
+        {
+            "id": 1643,
+            "title": "Why ambient computing needs self-learning",
+            "url": "https://www.amazon.science/blog/why-ambient-computing-needs-self-learning",
+            "authors": "Ruhi Sarikaya",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "To become the interface for the Internet of things, conversational agents will need to learn on their own. Alexa has already started down that path.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8899a2d/2147483647/strip/true/crop/1536x806+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F23%2Fa3%2Fb566b8d343e39072a2724396f682%2Fruhi-keynote-1.png"
+        },
+        {
+            "id": 1644,
+            "title": "Knowledge distillation for better convergence in multitask learning",
+            "url": "https://www.amazon.science/blog/knowledge-distillation-for-better-convergence-in-multitask-learning",
+            "authors": "Weiyi Lu",
+            "tags": "Machine learning",
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "Allowing separate tasks to converge on their own schedules and using knowledge distillation to maintain performance improves accuracy.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/58f50e0/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F06%2F2c%2F16a79ab3485cabc962a8c2ba1596%2Fmultitask-distillation.png"
+        },
+        {
+            "id": 1645,
+            "title": "NAACL: Industry track offers reality checks, new directions",
+            "url": "https://www.amazon.science/blog/naacl-industry-track-offers-reality-checks-new-directions",
+            "authors": "Larry Hardesty",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2022-07-08T00:00:00",
+            "description": "Industry track chair and Amazon principal research scientist Rashmi Gangadharaiah on trends in industry papers and the challenges of building practical dialogue systems.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/79abcab/2147483647/strip/true/crop/889x467+0+113/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F0a%2Fe5%2F41b5bbda46ed9eff1a1341d0a9b8%2Frashmi-gangadharaiah.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2424,
+            "title": "NoSQL Data Modeling Technique",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/nosql-data-modeling-technique/",
+            "authors": "Chetan Dekate",
+            "tags": "Database, Intermediate, NoSQL",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "In this article, we will cover all the different NoSQL data modelling techniques you can use when building a NoSQL database.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/nosql-logo.png"
+        },
+        {
+            "id": 2425,
+            "title": "Training and Inference of Language Models using Embedding Recycling",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/training-and-inference-of-language-models-using-embedding-recycling/",
+            "authors": "Drishti Sharma",
+            "tags": "Intermediate, NLP, Technique",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "In this article, you will learn how to speed up the training and inferencing of language models using embedding recycling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67274portada-nlp.jpg"
+        },
+        {
+            "id": 2426,
+            "title": "High Accuracy Lightweight and Superfast Model Nanodet Plus",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/high-accuracy-lightweight-and-superfast-model-nanodet-plus/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Object Tracking, Python",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "This article teaches you about fully convolutional one-Stage object detection, NanoDet plus and train dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Focal-loss-in-object-detection.jpg"
+        },
+        {
+            "id": 2427,
+            "title": "Understanding Web 3.0 \u2013 Kickstart with the Basics of the Next-Gen Web",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/understanding-web-3-0-kickstart-with-the-basics-of-the-next-gen-web/",
+            "authors": "Anusha Meghawat",
+            "tags": "Beginner, Web 3.0",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "In this article, you will understand the basics and overview of Web 3.0, the next-gen web. Let's deep dive?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/4-2.jpg"
+        },
+        {
+            "id": 2428,
+            "title": "Analytics Vidhya Presents JOB-A-THON \u2013 Look No Further for Your Dream Data Science Job",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/analytics-vidhya-presents-job-a-thon-look-no-further-for-your-dream-data-science-job/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Announcement, Data Science, Interview Questions",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "JOB-A-THON is India's largest Data Science Hackathon, where every data science enthusiast can showcase their skills and get a job",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/jobathon-3.png"
+        },
+        {
+            "id": 2429,
+            "title": "Introduction to Classification Problem using PySpark",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-classification-problem-using-pyspark/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Python, Spark",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "This article from PySpark series helps in problem statement of predicting dog food quality using PySpark's MLIB.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/3.png"
+        },
+        {
+            "id": 2430,
+            "title": "Introduction to Elasticsearch using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-elasticsearch-using-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Beginner, Cloud Computing, Python",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Elasticsearch is the most popular near real-time (NRT) search engine used by major companies like Uber, to speed up the searching operations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/data-science-leadership-role.png"
+        },
+        {
+            "id": 2431,
+            "title": "Identifying Potential YouTube Influencers Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/identifying-potential-youtube-influencers-using-python/",
+            "authors": "Sharkbite",
+            "tags": "Beginner, Python, Videos",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Learn the best way of finding Youtube influencers for your brand using python using this article, and grow your brand.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/08/aaa.jpg"
+        },
+        {
+            "id": 2432,
+            "title": "Spark SQL for Relational Databases",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/spark-sql-for-relational-databases/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Database, Python, SQL",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Study a real-world case study of KDD 99 Cup Data-based breach attack analysis using Spark SQL and DataFrames.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 2433,
+            "title": "Introduction to Supabase: Postgres Database using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-supabase-postgres-database-using-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Database, Intermediate, Python, SQL",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Supabase is an open-source Backend as a Service (BaaS) that is gaining traction among developers in recent times.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/database.png"
+        },
+        {
+            "id": 2434,
+            "title": "Fractal & Analytics Vidhya set a New GUINNESS WORLD RECORDS\u2122 Title",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/fractal-analytics-vidhya-set-a-new-guinness-world-records-title/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence",
+            "publishedOn": "2022-07-18T00:00:00",
+            "description": "Fractal and Analytics Vidhya have set a\u00a0GUINNESS WORLD RECORDS\u2122 title in a recently conducted event: 1729.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/article-record.png"
+        },
+        {
+            "id": 2435,
+            "title": "Apache Airflow used for Performing ETL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/apache-airflow-used-for-performing-etl/",
+            "authors": "Gitesh Dhore",
+            "tags": "Airflow, Data Engineering, Intermediate, SAS",
+            "publishedOn": "2022-07-18T00:00:00",
+            "description": "This post will help you learn the basics of Airflow and perform an ETL job to transfer data from Amazon S3 to Redshift.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/overview-of-data-engineering.jpg"
+        },
+        {
+            "id": 2436,
+            "title": "Role of AI in Software Development",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/role-of-ai-in-software-development/",
+            "authors": "NEHAAL PANDEY",
+            "tags": "Artificial Intelligence, Beginner",
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "The use of AI is increasing and advancing in every sector and field of industry. The scope of AI is unrestricted and even sky's not the limit",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/96476ai-game-theory.jpg"
+        },
+        {
+            "id": 2437,
+            "title": "Everything You Need to Know about LIME",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/everything-you-need-to-know-about-lime/",
+            "authors": "Vignesh Mathivanan",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "LIME aims to identify an interpretable model over the interpretable representation that is locally faithful to the classifier.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/LIME-models.jpg"
+        },
+        {
+            "id": 2438,
+            "title": "Top 10 Mistakes to avoid in SQL Query",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-10-mistakes-to-avoid-in-sql-query/",
+            "authors": "Kruti Patel",
+            "tags": "Beginner, Data Engineering, SQL",
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "This article will describe all the common mistakes we can avoid by practicing SQL often and how to resolve them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 2439,
+            "title": "Market Basket Analysis for Coffee Shop with Apriori",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/market-basket-analysis-for-coffee-shop-with-apriori/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Datasets, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "finding association rules for the product team to use insights to make the coffee shop even more profitable at all these stores with Apriori",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/2-2.jpg"
+        },
+        {
+            "id": 2440,
+            "title": "Introduction to Google Firebase Cloud Storage using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-google-firebase-cloud-storage-using-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Beginner, Cloud Computing, Data Engineering, Python",
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "This article was published as a part of the Data Science Blogathon. Introduction Firebase is a very popular Backend as a Service (BaaS) offered by Google. It aims to replace conventional backend servers for web and mobile applications by offering multiple services on the same platform like authentication, real-time database, Firestore (NoSQL database), cloud functions, [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/google-cloud-platform2.jpg"
+        },
+        {
+            "id": 2441,
+            "title": "Classification using Pyspark, DataBricks, and Koalas",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/classification-using-pyspark-databricks-and-koalas/",
+            "authors": "Sanket Barhate",
+            "tags": "Data Science, Data Warehouse, Datasets, Intermediate, python",
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "PySpark is A tool to handle large-scale data processing. To store and process data, this PySpark library employs data parallelism technique.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/data-lake-2-adobe.jpg"
+        },
+        {
+            "id": 2442,
+            "title": "Top Delta Lake Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-10-delta-lake-interview-questions/",
+            "authors": "Jayachandra Reddy",
+            "tags": "Beginner, Data Engineering, Database, Python",
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "Organizations are integrating delta lake into their data stack to gain all the benefits that delta lake delivers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/overview-of-data-engineering.jpg"
+        },
+        {
+            "id": 2443,
+            "title": "Recommending Similar Images using Image Embedding",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/recommending-similar-images-using-image-embedding/",
+            "authors": "Aakash93 Makwana",
+            "tags": "Image, Intermediate, NLP, Python",
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "In this article, learn the step by step process of image embedding and image-classification with similar food images.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/image-embedding.jpg"
+        },
+        {
+            "id": 2444,
+            "title": "Analyzing Hacker\u2019s Dataset using KMeans MLIB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/analyzing-hackers-dataset-using-kmeans-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Machine Learning, Python, Unsupervised",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "The dataset was generated after the hackers hacked the servers to save the company data from such activities in future forensic engineers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/hacker-2883632_1920.jpg"
+        },
+        {
+            "id": 2445,
+            "title": "Segmentation of Wheat Crops using MLIB\u2019s K-Means",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/segmentation-of-wheat-crops-using-mlibs-k-means/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Machine Learning, Python, Unsupervised",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "In this article, you will learn about segmentation of wheat crops using MLIBs and K-Means clustering and pyspark dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 2446,
+            "title": "End-to-End Project on SMS/Email Spam Detection using Naive Bayes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/end-to-end-project-on-sms-email-spam-detection-using-naive-bayes/",
+            "authors": "Riya Parikh",
+            "tags": "Intermediate, Machine Learning, Project, Python",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "In this article, you will learn through a project which is on spam detection of emails and sms using Naive Bayes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image-2.jpg"
+        },
+        {
+            "id": 2447,
+            "title": "Different Types of Normalization Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/different-types-of-normalization-techniques/",
+            "authors": "Anushkakhatri",
+            "tags": "Beginner, Database",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "In this article, we talked about how normalization helps eliminate anomalies, which can result in data duplication. Read more to learn!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/84934data-viz-scaled.jpg"
+        },
+        {
+            "id": 2448,
+            "title": "Introduction to Google Firebase: Firestore using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-google-firebase-firestore-using-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Database, NoSQL, Python",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "In this article, you will learn about a NoSQL database offering on the Google Firebase platform, and perform basic CRUD operations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/icml_2019_best_paper_google_ai.jpg"
+        },
+        {
+            "id": 2449,
+            "title": "Classify University as Private or Public using MLIB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/classify-university-as-private-or-public-using-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "In this article, we will use MLIB to identify different universities if they're private or public. Sounds, interesting right?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 2450,
+            "title": "Introduction to K-Means Clustering using MLIB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-k-means-clustering-using-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Libraries, Machine Learning, Python, Unsupervised",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "This article will give you an overview of the K-Means clustering using MLIB comparing the two different cases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 2451,
+            "title": "Scraping IMDB Reviews in Python using Selenium",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/scraping-imdb-reviews-in-python-using-selenium/",
+            "authors": "Aakash93 Makwana",
+            "tags": "Data Mining, Libraries, Python",
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "In this article, you will learn how to do web scraping on IMDB reviews in Python using the Selenium library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/76526Web-Scraping-using-Python.png"
+        },
+        {
+            "id": 2452,
+            "title": "Brain MRI Segmentation with 0.95 Dice Score",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/brain-mri-segmentation-with-0-95-dice-score/",
+            "authors": "Harsh Nandwana",
+            "tags": "Image Analysis, Intermediate",
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "In this article, learn how to use brain MRI images and use segmentation with 0.95 dice score and decide if the person has tumor or not.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/heroimage.png"
+        },
+        {
+            "id": 2453,
+            "title": "Handwritten Digit Recognition using TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/handwritten-digit-recognition-using-tensorflow/",
+            "authors": "Amrutha K",
+            "tags": "Beginner, Image Analysis, Libraries, Python",
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "In this article, you will learn about how to recognise the handwritten digits using the tensorflow library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        }
+    ]
+}

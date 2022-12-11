@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6532,
+            "title": "Can Open Domain Question Answering Models Answer Visual Knowledge Questions?",
+            "url": "https://machinelearning.apple.com/research/open-domain-question-answering",
+            "authors": "Jiawen Zhang, Abhijit Mishra, Avinesh P.V.S, Siddharth Patwardhan, Sachin Agarwal",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "The task of Outside Knowledge Visual Question Answering (OKVQA) requires an automatic system to answer natural language questions about\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6533,
+            "title": "Non-verbal Sound Detection for Disordered Speech",
+            "url": "https://machinelearning.apple.com/research/non-verbal-sound",
+            "authors": "Colin Lea, Zifang Huang, Dhruv Jain, Lauren Tooley, Zeinab Liaghat, Shrinath Thelapurath, Leah Findlater, Jeffrey P. Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Voice assistants have become an essential tool for people with various disabilities because they enable complex phone- or tablet-based\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6534,
+            "title": "Symphony: Composing Interactive Interfaces for Machine Learning",
+            "url": "https://machinelearning.apple.com/research/composing-interactive-interfaces",
+            "authors": "Alex B\u00e4uerle*, \u00c1ngel Alexander Cabrera*, Fred Hohman, Megan Maher, David Koski, Xavier Suau, Titus Barik, Dominik Moritz",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Interfaces for machine learning (ML), information and visualizations about models or data, can help practitioners build robust and\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6535,
+            "title": "Hierarchical Prosody Modeling and Control in Non-Autoregressive Parallel Neural TTS",
+            "url": "https://machinelearning.apple.com/research/hierarchical-prosody-modeling",
+            "authors": "Tuomo Raitio, Jiangchuan Li, Shreyas Seshadri",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Neural text-to-speech (TTS) synthesis can generate speech that is indistinguishable from natural speech. However, the synthetic speech often\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6536,
+            "title": "Element Level Differential Privacy: The Right Granularity of Privacy",
+            "url": "https://machinelearning.apple.com/research/element-level-differential-privacy",
+            "authors": "Hilal Asi, John Duchi, Omid Javidbakht",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "Differential Privacy (DP) provides strong guarantees on the risk of compromising a users data in statistical learning applications, though\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6537,
+            "title": "Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes",
+            "url": "https://machinelearning.apple.com/research/learning-spatiotemporal-occupancy",
+            "authors": "Hugues Thomas, Matthieu Gallet de Saint Aurin, Jian Zhang, Timothy D. Barfoot",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a novel method for generating, predicting, and using Spatiotemporal Occupancy Grid Maps (SOGM), which embed future information of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6538,
+            "title": "Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time",
+            "url": "https://machinelearning.apple.com/research/modeling-covid-mobility",
+            "authors": "",
+            "tags": "Article, Health",
+            "publishedOn": null,
+            "description": "As the COVID-19 pandemic took off during early 2020, widespread interest in modeling the trajectory of infections emerged. This interest was\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6539,
+            "title": "Fast and Explicit Neural View Synthesis",
+            "url": "https://machinelearning.apple.com/research/fast-and-explicit-neural-view-synthesis",
+            "authors": "Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We study the problem of novel view synthesis from sparse source observations of a scene comprised of 3D objects. We propose a simple yet\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6540,
+            "title": "Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications",
+            "url": "https://machinelearning.apple.com/research/federated-personalization",
+            "authors": "Matthias Paulik, Matt Seigel, Henry Mason, Dominic Telaar, Joris Kluivers, Rogier van Dalen, Chi Wai Lau, Luke Carlson, Filip Granqvist, Chris Vandevelde, Sudeep Agarwal, Julien Freudiger, Andrew Byde, Abhishek Bhowmick, Gaurav Kapoor, Si Beaumont, \u00c1ine Cahill, Dominic Hughes, Omid Javidbakht, Fei Dong, Rehan Rishi, Stanley Hung",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We describe the design of our federated task processing system. Originally, the system was created to support two specific federated tasks:\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6541,
+            "title": "Lyric Document Embeddings for Music Tagging",
+            "url": "https://machinelearning.apple.com/research/lyric-document-embeddings",
+            "authors": "Matt McVicar, Bruno Di Giorgi, Baris Dundar, Matthias Mauch",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "We present an empirical study on embedding the lyrics of a song into a fixed-dimensional feature for the purpose of music tagging. Five\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6542,
+            "title": "Acoustic Neighbor Embeddings",
+            "url": "https://machinelearning.apple.com/research/acoustic-neighbor-embeddings",
+            "authors": "Woojay Jeon",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper proposes a novel acoustic word embedding called Acoustic Neighbor Embeddings where speech or text of arbitrary length are mapped\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6543,
+            "title": "Model Stability with Continuous Data Updates",
+            "url": "https://machinelearning.apple.com/research/model-stability-with-continuous-data",
+            "authors": "Huiting Liu, Avinesh P.V.S, Siddharth Patwardhan, Peter Grasch, Sachin Agarwal",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "In this paper, we study the \"stability\" of machine learning (ML) models within the context of larger, complex NLP systems with continuous\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6544,
+            "title": "Reconstructing Training Data from Diverse ML Models by Ensemble Inversion",
+            "url": "https://machinelearning.apple.com/research/reconstructing-training-data",
+            "authors": "Qian Wang, Daniel Kurz",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Model Inversion (MI), in which an adversary abuses access to a trained Machine Learning (ML) model attempting to infer sensitive information\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6545,
+            "title": "Fair SA: Sensitivity Analysis for Fairness in Face Recognition",
+            "url": "https://machinelearning.apple.com/research/fair-sa",
+            "authors": "Aparna R. Joshi, Xavier Suau, Nivedha Sivakumar, Luca Zappella, Nicholas Apostoloff",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "As the use of deep learning in high impact domains becomes ubiquitous, it is increasingly important to assess the resilience of models. One\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6546,
+            "title": "Learning Invariant Representations with Missing Data",
+            "url": "https://machinelearning.apple.com/research/learning-invariant-representations",
+            "authors": "Mark Goldstein, J\u00f6rn-Henrik Jacobsen, Olina Chau, Adriel Saporta, Aahlad Puli, Rajesh Ranganath, Andrew C. Miller",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Spurious correlations allow flexible models to predict well during training but poorly on related test populations. Recent work has shown\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6547,
+            "title": "Interpretable Adaptive Optimization",
+            "url": "https://machinelearning.apple.com/research/interpretable-adaptive-optimization",
+            "authors": "",
+            "tags": "Article, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Providing new features\u2014while preserving user privacy\u2014requires techniques for learning from private and anonymized user feedback. To learn\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6548,
+            "title": "Robust Robotic Control from Pixels Using Contrastive Recurrent State-Space Models",
+            "url": "https://machinelearning.apple.com/research/contrastive-recurrent-state-space-models",
+            "authors": "Nitish Srivastava, Walter Talbott, Martin Bertran Lopez, Shuangfei Zhai, Josh Susskind",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Modeling the world can benefit robot learning by providing a rich training signal for shaping an agent's latent state space. However\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6549,
+            "title": "Challenges of Adversarial Image Augmentations",
+            "url": "https://machinelearning.apple.com/research/challenges-adversarial-image",
+            "authors": "Arno Blaas, Xavier Suau Cuadros, Jason Ramapuram, Luca Zappella, Nicholas Apostoloff",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Image augmentations applied during training are crucial for the generalization performance of image classifiers. Therefore, a large body of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6550,
+            "title": "Self-supervised Semi-supervised Learning for Data Labeling and Quality Evaluation",
+            "url": "https://machinelearning.apple.com/research/self-supervised-semi-supervised-learning",
+            "authors": "Haoping Bai, Meng Cao, Ping Huang, Jiulong Shan",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Data-Centric AI Workshop at the NeurIPS 2021 conference. \nAs the adoption of deep learning techniques in\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6551,
+            "title": "BatchQuant: Quantized-for-all Architecture Search with Robust Quantizer",
+            "url": "https://machinelearning.apple.com/research/batchquant",
+            "authors": "Haoping Bai, Meng Cao, Ping Huang, Jiulong Shan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "As the applications of deep learning models on edge devices increase at an accelerating pace, fast adaptation to various scenarios with\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6552,
+            "title": "High Fidelity 3D Reconstructions with Limited Physical Views",
+            "url": "https://machinelearning.apple.com/research/high-fidelity-3d-reconstructions",
+            "authors": "Mosam Dabhi, Chaoyang Wang, Kunal Saluja, Laszlo A. Jeni, Ian Fasel, Simon Lucey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Multi-view triangulation is the gold standard for 3D reconstruction from 2D correspondences, given known calibration and sufficient views\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6553,
+            "title": "ARKitScenes - A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data",
+            "url": "https://machinelearning.apple.com/research/arkitscenes",
+            "authors": "Gilad Baruch, Zhuoyuan Chen, Afshin Dehghan, Tal Dimry, Yuri Feigin, Peter Fu, Thomas Gebauer, Brandon Joffe, Daniel Kurz, Arik Schwartz, Elad Shulman",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Scene understanding is an active research area. Commercial depth sensors, such as Kinect, have enabled the release of several RGB-D datasets\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6554,
+            "title": "Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?",
+            "url": "https://machinelearning.apple.com/research/self-supervised-supervised-methods",
+            "authors": "Tom George Grigg*, Dan Busbridge*, Jason Ramapuram, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "*=Equal Contribution\nDespite the success of a number of recent techniques for visual self-supervised deep learning, there remains limited\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6555,
+            "title": "Enforcing Fairness in Private Federated Learning via The Modified Method of Differential Multipliers",
+            "url": "https://machinelearning.apple.com/research/enforcing-fairness",
+            "authors": "Borja Rodr\u00edguez-G\u00e1lvez, Filip Granqvist, Rogier van Dalen, Matt Seigel",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Federated learning with differential privacy, or private federated learning, provides a strategy to train machine learning models while\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6556,
+            "title": "Individual Privacy Accounting via a Renyi Filter",
+            "url": "https://machinelearning.apple.com/research/individual-privacy-accounting",
+            "authors": "Vitaly Feldman, Tijana Zrnic",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "We consider a sequential setting in which a single dataset of individuals is used to perform adaptively-chosen analyses, while ensuring that\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6557,
+            "title": "Probabilistic Attention for Interactive Segmentation",
+            "url": "https://machinelearning.apple.com/research/probabilistic-attention-for-interactive-segmentation",
+            "authors": "Prasad Gabbur, Manjot Bilkhu, Javier Movellan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We provide a probabilistic interpretation of attention and show that the standard dot-product attention in transformers is a special case of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6558,
+            "title": "RIM: Reliable Influence-based Active Learning on Graphs",
+            "url": "https://machinelearning.apple.com/research/rim",
+            "authors": "Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, Bin Cui",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Message passing is the core of most graph models such as Graph Convolutional Network (GCN) and Label Propagation (LP), which usually require\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6559,
+            "title": "Stochastic Contrastive Learning",
+            "url": "https://machinelearning.apple.com/research/stochastic-contrastive-learning",
+            "authors": "Jason Ramapuram*, Dan Busbridge*, Xavier Suau, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "*=Equal Contribution\nWhile state-of-the-art contrastive Self-Supervised Learning (SSL) models produce results competitive with their\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6560,
+            "title": "It\u2019s Complicated: Characterizing The Time-varying Relationship Between Cell Phone Mobility and COVID-19 Spread in the US",
+            "url": "https://machinelearning.apple.com/research/covid-mobility",
+            "authors": "Sean Jewell, Joseph Futoma, Lauren Hannah, Andrew C. Miller, Nicholas J. Foti, Emily B. Fox",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Restricting in-person interactions is an important technique for limiting the spread of severe acute respiratory syndrome coronavirus-2\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6561,
+            "title": "Plan-then-Generate: Controlled Data-to-Text",
+            "url": "https://machinelearning.apple.com/research/data-to-text",
+            "authors": "Yixuan Su, David Vandyke, Sihui Wang, Yimai Fang, Nigel Collier",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Recent developments in neural networks have led to the advance in data-to-text generation. However, the lack of ability of neural models to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

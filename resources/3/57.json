@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3654,
+            "title": "How much Mathematics do you need to know for Machine Learning?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-much-mathematics-do-you-need-to-know-for-machine-learning/",
+            "authors": "KAVITA MALI",
+            "tags": "Beginner, Machine Learning, Maths",
+            "publishedOn": "2021-07-29T00:00:00",
+            "description": "Mathematics is a subject that is required in almost any field. In this article, we will look into the Mathematics For Machine Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/math_machine_learning.jpg.jpg"
+        },
+        {
+            "id": 3655,
+            "title": "DeepDive into the Emerging concpet of Machine Learning Operations or MLOPs",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/deepdive-into-the-emerging-concpet-of-machine-learning-operations-or-mlops/",
+            "authors": "Mukul Kirti Verma",
+            "tags": "Beginner, MLops",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "MLOps are intelligence that minimizes the gap uniting data scientists & production teams that minimise waste & make ML systems more scalable",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/91058MLOps-Neal-Analytics.png"
+        },
+        {
+            "id": 3656,
+            "title": "Using Seaborn\u2019s FacetGrid Based Methods for Exploratory Data Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/using-seaborns-facetgrid-based-methods-for-exploratory-data-analysis/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Visualization, Libraries, Project, Python, Structured Data",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "FacetGrid is a multi-axes grid with subplots visualizing the distribution of variables of a data and relationship between multiple variables",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_visualization_python_r_tableau.jpg"
+        },
+        {
+            "id": 3657,
+            "title": "How to use Machine Learning on Microcontroller Devices",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/",
+            "authors": "Sanjay Dasgupta",
+            "tags": "Algorithm, Intermediate, Machine Learning, Project, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "Microcontrollers are\u00a0computers in very small packages without the usual peripherals. Let's use Machine Learning on Microcontroller Devices.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/78196fridge-door-alarm-cropped.png"
+        },
+        {
+            "id": 3658,
+            "title": "Advanced OpenCV and NumPy Operations: Cropping, Copying, And Pasting",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/advanced-opencv-numpy-operations-cropping-copying-and-pasting/",
+            "authors": "Shiv Maharaj",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "This article will aim to introduce us to Cropping, Copying, And Pasting operations pertaining to the OpenCV and Numpy package in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Image-Caption-Generator.jpg"
+        },
+        {
+            "id": 3659,
+            "title": "A Simple Guide to Hypothesis Testing for Dummies!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-simple-guide-to-hypothesis-testing-for-dummies/",
+            "authors": "Vennela Sunnam",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "Hypothesis testing quantifies an observation or outcome of an experiment under a given assumption and interpret whether it holds or not",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 3660,
+            "title": "Beginner\u2019s Guide to Cluster Analysis of Stock Returns",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/beginners-guide-to-cluster-analysis-of-stock-returns/",
+            "authors": "Prasanna Rajagopal",
+            "tags": "Algorithm, Beginner, Classification, Clustering, Machine Learning, Project, R, Structured Data, Unsupervised",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In this article, we perform cluster analysis of stock returns. We have clustered the returns of 139 either current or past companies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 3661,
+            "title": "Gearing up to dive into Mariana Trench of Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/gearing-up-to-dive-into-mariana-trench-of-deep-learning/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Advanced, Deep Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article would try to make an effort to take the deepest possible plunge in the ocean of deep learning with python implementation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 3662,
+            "title": "Getting Started with Natural Language Processing using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/",
+            "authors": "Pritha Roy Choudhury",
+            "tags": "Advanced, NLP, Project, Python, Supervised, Text, Unstructured Data",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In this article, we are going to learn about Natural Language Processing and how to implement it in python and derive insults from text data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        },
+        {
+            "id": 3663,
+            "title": "Diabetes Prediction With PyCaret",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/diabetes-prediction-with-pycaret/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Classification, Data Science, Libraries, Machine Learning, Project, Python",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In this article we are going to perform diabetes prediction with pycaret an automl library. The dataset used is Pima Indians Diabetes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/56224Diabetes-Prediction-1.jpg"
+        },
+        {
+            "id": 3664,
+            "title": "Beginner\u2019s Guide to Python OpenCV Operation: Rotation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/beginners-guide-to-python-opencv-operation-rotation/",
+            "authors": "Shiv Maharaj",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article will introduce us to a few of the image rotation operations that may be applied to image data using the OpenCV library in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84497https___specials-images.forbesimg.com_imageserve_5ee30129d8bc730007cc701c_0x0.jpg"
+        },
+        {
+            "id": 3665,
+            "title": "Practicing Your Deep Learning Skills- a Hands-On Project with Keras",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/practicing-your-deep-learning-skills-a-hands-on-project-with-keras/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Deep Learning, Image, Intermediate, Python, Unstructured Data",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article aims to enhance deep learning of skills of data science beginners. Here we present a hands-on project with keras and tensorflow.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/43710dl.jpg"
+        },
+        {
+            "id": 3666,
+            "title": "Understanding K \u2013 Means Clustering WIth Customer Segmentation Usecase",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/understanding-k-means-clustering-using-customer-segmentation/",
+            "authors": "Mohammed Muzammil",
+            "tags": "Beginner, Clustering, Data Science, Machine Learning, Pandas, Project, Python",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article will help us understand the working behind K-means Clustering with customer segmentation Usecase and python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/17783Customer.jpg"
+        },
+        {
+            "id": 3667,
+            "title": "Mathematics Behind Principle Component Analysis In Statistics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/mathematics-behind-principle-component-analysis-in-statistics/",
+            "authors": "Mayur Badole",
+            "tags": "Intermediate, Maths, Statistics",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article is based on the mathematics behind the dimensionality reduction techniques called Principle Component Analysis",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 3668,
+            "title": "Age and Gender Detection Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/age-and-gender-detection-using-deep-learning/",
+            "authors": "Sonia Singla",
+            "tags": "Advanced, Computer Vision, Deep Learning, Project, Python, Unstructured Data",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "The main aim of this article is to perform age and gender detection through the given data set using deep learning model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Face-Detection-Using-Pre-trained-MTCNN.jpg"
+        },
+        {
+            "id": 3669,
+            "title": "Credit Card Fraud Detection Using Gated Recurrent Unit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/credit-card-fraud-detection-using-gated-recurrent-unit/",
+            "authors": "SALONI",
+            "tags": "Advanced, Deep Learning, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In this article, we have discussed fraud Detection in credit cards using Gated Recurrent Unit (GRU) deep learning Architecture.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 3670,
+            "title": "New Anaphora and Co-reference Resolution Technique for Biographies",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/new-anaphora-and-co-reference-resolution-technique-for-biographies/",
+            "authors": "Pearl Miglani",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "This article will help you with the explanation and python implementation for anaphora resolution and co-reference resolution of biographies",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/31025pronouns-in-english-language-istock-modified.jpg"
+        },
+        {
+            "id": 3671,
+            "title": "Convolution Neural Network \u2013 CNN Illustrated With 1-D ECG signal",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/convolution-neural-network-the-base-for-many-deep-learning-algorithms-cnn-illustrated-by-1-d-ecg-signal-physionet/",
+            "authors": "Premanand S",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Structured Data, Web Analytics",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In this article we will see working of CNN With 1-D ECG signal. Here we will understand the in depth concepts of CNN using Physionet.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/825451_BIpRgx5FsEMhr1k2EqBKFg-768x461.gif"
+        },
+        {
+            "id": 3672,
+            "title": "Anomaly detection using Isolation Forest \u2013 A Complete Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/anomaly-detection-using-isolation-forest-a-complete-guide/",
+            "authors": "Akshara_416",
+            "tags": "Intermediate, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "In an Isolation Forest, randomly sub-sampled data is processed in a tree structure based on randomly selected features for anomaly detection",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/53651unsplash_forest.jpg"
+        },
+        {
+            "id": 3673,
+            "title": "Predicting The Wind Speed Using K-Neighbors Classifier",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/predicting-the-wind-speed-using-k-neighbors-classifier/",
+            "authors": "Abhishek Singh",
+            "tags": "Beginner, Data Science, Machine Learning, Python",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "In this article, we will be predicting the wind speed of the current date and time for any given latitude and longitude coordinates.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 3674,
+            "title": "How to Watermark images using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-watermark-images-using-opencv/",
+            "authors": "Harika Bonthu",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Project, Python, Unsupervised",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "In this article, we will learn how to Watermark Images using OpenCV. Its main purpose is to promote brands and make it more difficult to copy",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/football_analytics_open_source_project.jpg"
+        },
+        {
+            "id": 3675,
+            "title": "Cyberpunk Themed Charts: Advanced Data Visualization in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/cyberpunk-themed-charts-advanced-data-visualization-in-python/",
+            "authors": "Rahul Shah",
+            "tags": "Advanced, Data Visualization, Libraries, Pandas, Python",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "Cyberpunk is a fictitious genre of Science backed by technology resembling the dystopian future. We will see Cyberpunk Themed Charts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70583featured-data-visualization.png"
+        },
+        {
+            "id": 3676,
+            "title": "A Guide To Monte Carlo Simulation!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-guide-to-monte-carlo-simulation/",
+            "authors": "Dinesh Junjariya",
+            "tags": "Algorithm, Beginner, Data Science, Probability, Python, Statistics",
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "Monte Carlo simulation is a computational algorithm that makes use of repeated random sampling to get the likelihood of an unknown quantity.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/35094Statistics-for-machine-learning.png"
+        },
+        {
+            "id": 3677,
+            "title": "Car Price Prediction \u2013 Machine Learning vs Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/car-price-prediction-machine-learning-vs-deep-learning/",
+            "authors": "Kajal Kumari",
+            "tags": "Data Science, Deep Learning, Intermediate, Linear Regression, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "In this article, we will perform car price prediction. For that we will build various ML and DL models with different architectures.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg"
+        },
+        {
+            "id": 3678,
+            "title": "Basic Statistics Concepts for Machine Learning Newbies!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/basic-statistics-concepts-for-machine-learning-newbies/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Data Exploration, Data Science, Pandas, Probability, Python, Statistics",
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "In this article, we are going to learn some of the basic and most important statistics topics along with their implementation in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/35094Statistics-for-machine-learning.png"
+        },
+        {
+            "id": 3679,
+            "title": "Players Selling Price Prediction In IPL? Let\u2019s See If Machine Learning Can Help!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/players-selling-price-prediction-in-ipl-lets-see-if-machine-learning-can-help/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Data Science, Machine Learning, Python, Regression, Structured Data",
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "In this article, we will try players Selling Price Prediction given their past performances in other cricket formats Using machine Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/60792Screenshot-from-2021-07-23-23-42-38.png"
+        },
+        {
+            "id": 3680,
+            "title": "Hypothesis Testing Made Easy For The Data Science Beginners!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/hypothesis-testing-made-easy-for-the-data-science-beginners/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Data Exploration, Data Science, Pandas, Python, Statistics",
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "In this article, we will be learning the theory, types of hypothesis testing. And, we will be taking sample problem statements and solve them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 3681,
+            "title": "Image Denoising using AutoEncoders -A Beginner\u2019s Guide to Deep Learning Project",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/image-denoising-using-autoencoders-a-beginners-guide-to-deep-learning-project/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, Autoencoder, Computer Vision, Deep Learning, Image, Python, Unsupervised",
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "In this article, we will see how we can remove the noise from the noisy images with neural networks i.e Image Denoising using AutoEncoders.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/82442aut.jpg"
+        },
+        {
+            "id": 3682,
+            "title": "Implementing LSTM for Human Activity Recognition using Smartphone Accelerometer data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/implementing-lstm-for-human-activity-recognition-using-smartphone-accelerometer-data/",
+            "authors": "Pratik Nabriya",
+            "tags": "Advanced, Classification, Deep Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-07-24T00:00:00",
+            "description": "In this article, we will be Implementing LSTM for Human Activity Recognition using Smartphone Accelerometer data and derive insights",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/33969kevin-laminto-1gDglaBxcpQ-unsplash.jpg"
+        },
+        {
+            "id": 3683,
+            "title": "Plunging into Deep Learning carrying a red wine",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/plunging-into-deep-learning-carrying-a-red-wine/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Advanced, Deep Learning, Project, Python",
+            "publishedOn": "2021-07-24T00:00:00",
+            "description": "This article would try to address the basic aspects of deep learning. Deep learning attempts to copy the working mechanism of the human brain",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        }
+    ]
+}

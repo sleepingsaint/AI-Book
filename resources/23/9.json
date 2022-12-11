@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14708,
+            "title": "The Best Feature Engineering Tools",
+            "url": "https://neptune.ai/blog/feature-engineering-tools",
+            "authors": "Tanay Agrawal",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When it comes to predictive models, the dataset always needs a good description. In the real world, datasets are raw and need plenty of work. If the model is to understand a dataset for supervised or unsupervised learning, there are several operations you need to perform and this is where feature engineering comes in. In\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Feature-Engineering-Tools-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14709,
+            "title": "Keras Tuner: Lessons Learned From Tuning Hyperparameters of a Real-Life Deep Learning Model",
+            "url": "https://neptune.ai/blog/keras-tuner-tuning-hyperparameters-deep-learning-model",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The performance of your machine learning model depends on your configuration. Finding an optimal configuration, both for the model and for the training algorithm, is a big challenge for every machine learning engineer.\u00a0 Model configuration can be defined as a set of hyperparameters which influences model architecture. In case of deep learning, these can be\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Keras-Tuner-Lessons-Learned-From-Tuning-Hyperparameters-of-a-Real-Life-Deep-Learning-Model-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14710,
+            "title": "PyTorch Lightning vs Ignite: What Are the Differences?",
+            "url": "https://neptune.ai/blog/pytorch-lightning-vs-ignite-differences",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Pytorch is one of the most widely used deep learning libraries, right after Keras. It provides agility, speed and good community support for anyone using deep learning methods in development and research.\u00a0 Pytorch has certain advantages over Tensorflow. As an AI engineer, the two key features I liked a lot are: Pytorch has dynamic graphs\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/PyTorch-Lightning-vs-Ignite-What-Are-the-Differences-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14711,
+            "title": "Experiment Tracking vs Machine Learning Model Management vs MLOps",
+            "url": "https://neptune.ai/blog/experiment-tracking-vs-ml-model-management-vs-mlops",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "It takes quite a lot of steps to take a machine learning model from idea to production. These steps can get too complex, too quickly.\u00a0 In this article, we\u2019ll focus on dissecting the three main aspects of model deployment.\u00a0 These are: experiment tracking\u00a0 machine learning model management\u00a0 MLOps (machine learning operations)\u00a0 At the end of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Experiment-tracking-vs-MLOps.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14712,
+            "title": "Best Tools to Do ML Model Serving",
+            "url": "https://neptune.ai/blog/ml-model-serving-best-tools",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Tools for model serving in machine learning can provide you with solutions to many of the data engineers\u2019 and DevOp\u2019s concerns. They have many functionalities that make it easier to manage your models. You can use them during the entire lifecycle of your ML project, beginning with building a trained model, to deploying, monitoring, providing\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Tools-to-Do-ML-Model-Serving-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14713,
+            "title": "What Are The Best Machine Learning Conferences in 2021?",
+            "url": "https://neptune.ai/blog/machine-learning-conferences-2021",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "ML conferences are gaining popularity as the field constantly grows and presents new possibilities. Conferences are a great way to exchange the latest research results, learn from experts, and establish professional relationships that can help grow your business. Attending conferences is one of the best ways to learn and develop skills. Additionally, you can meet\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/What-Are-The-Best-Machine-Learning-Conferences-in-2021-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14714,
+            "title": "The Best ML Frameworks & Extensions For TensorFlow",
+            "url": "https://neptune.ai/blog/extensions-for-tensorflow",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "TensorFlow has a large ecosystem of libraries and extensions. If you\u2019re a developer, you can easily add them into your ML work without having to build new functions.\u00a0 In this article, we will explore some of the TensorFlow extensions that you can start using right away.\u00a0 To start, let\u2019s check out domain-specific pre-trained models from\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-ML-Frameworks-Extensions-For-TensorFlow-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14715,
+            "title": "Monte Carlo Simulation: \u200aA Hands-On Guide",
+            "url": "https://neptune.ai/blog/monte-carlo-simulation",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Monte Carlo Simulations are a series of experiments that help us understand the probability of different outcomes when the intervention of random variables is present. It\u2019s a technique you can use to understand the impact of risk and uncertainty in prediction and forecasting models. Although Monte Carlo Methods can be studied and applied in many\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Monte-carlo-simulation.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14716,
+            "title": "The Best ML Frameworks & Extensions For Scikit-learn",
+            "url": "https://neptune.ai/blog/the-best-ml-framework-extensions-for-scikit-learn",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Plenty of packages implement the Scikit-learn estimator API.\u00a0 If you\u2019re already familiar with Scikit-learn, you\u2019ll find the integration of these libraries pretty straightforward.\u00a0 With these packages, we can extend the functionality of Scikit-learn estimators, and I\u2019ll show you how to use some of them in this article. Data formats In this section, we\u2019ll explore libraries\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Machine-Learning-Frameworks-Extensions-For-Scikit-learn-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14717,
+            "title": "A Quickstart Guide to Auto-Sklearn (AutoML) For Machine Learning Practitioners",
+            "url": "https://neptune.ai/blog/a-quickstart-guide-to-auto-sklearn-automl-for-machine-learning-practitioners",
+            "authors": "MJ Bahmani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Using AutoML frameworks in the real world is becoming a regular thing for machine learning practitioners. People often ask: does automated machine learning (AutoML) replace data scientists?\u00a0 Not really. If you\u2019re eager to find out what AutoML is and how it works, join me in this article. I\u2019m going to show you auto-sklearn, a state-of-the-art\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/A-Quickstart-Guide-to-Auto-Sklearn-AutoML-For-Machine-Learning-Practitioners-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14718,
+            "title": "Optuna Guide: How to Monitor Hyper-Parameter Optimization Runs",
+            "url": "https://neptune.ai/blog/optuna-guide-how-to-monitor-hyper-parameter-optimization-runs",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Hyper-parameter search is a part of almost every machine learning and deep learning project. When you select a candidate model, you make sure that it generalizes to your test data in the best way possible.\u00a0 Selecting the best hyper-parameters manually is easy if it\u2019s a simple model like linear regression. For complex models like neural\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Optuna-Guide-How-to-Monitor-Hyper-Parameter-Optimization-Runs-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14719,
+            "title": "Use Cases, Algorithms, Tools, and Example Implementations of Machine Learning in Supply Chain",
+            "url": "https://neptune.ai/blog/use-cases-algorithms-tools-and-example-implementations-of-machine-learning-in-supply-chain",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "We live in a time when speed is essential. The faster your company delivers the product, the faster it makes a profit. Speed is a crucial area where companies compete.\u00a0 Compared to machines, humans are slow and inconsistent. Managing the end-to-end process of a delivery system from acquiring data, managing data, understanding it and making\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Use-Cases-Algorithms-Tools-and-Example-Implementations-of-Machine-Learning-in-Supply-Chain-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14720,
+            "title": "MLflow vs Kubeflow vs Neptune: What Are the Differences?",
+            "url": "https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences",
+            "authors": "Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "As a Data Scientist, ML/DL Researcher, or Engineer you might have come across or heard about MLflow, Kubeflow, and Neptune. Due to the large adoption of ML and DL, many questions arose around deployment, scalability, and reproducibility. Thus MLOps was born as a hybrid of Data engineering, DevOps, and Machine Learning. We had to come\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLflow-vs-Kubeflow-vs-Neptune-What-Are-the-Differences-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14721,
+            "title": "Using Differential Privacy to Build Secure Models: Tools, Methods, Best Practices",
+            "url": "https://neptune.ai/blog/using-differential-privacy-to-build-secure-models-tools-methods-best-practices",
+            "authors": "Shaistha Fathima",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "COVID-19 pandemic in 2020 made us look at different challenges of life, some being painful and others bringing out the flaws of the society. It also made us remember the importance and lack of proper data.\u00a0 This article by WHO cites that \u201cthe collection, use, sharing and further processing of data can help limit the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Using-Differential-Privacy-to-Build-Secure-Models-Tools-Methods-Best-practices-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14722,
+            "title": "Best Alternatives to MLflow Model Registry",
+            "url": "https://neptune.ai/blog/best-alternatives-to-mlflow-model-registry",
+            "authors": "Patrycja Jenkner",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "MLflow Model Registry is one of the four components of the MLflow platform. The other three components are Tracking, Projects and Models. The way they are designed makes it possible to use every component separately, but they also work well together.\u00a0 \u201cThe MLflow Model Registry component is a centralized model store, set of APIs, and\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLflow-model-registry-alternatives.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14723,
+            "title": "Training, Visualizing, and Understanding Word Embeddings: Deep Dive Into Custom Datasets",
+            "url": "https://neptune.ai/blog/word-embeddings-deep-dive-into-custom-datasets",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "One of the most powerful trends in Artificial Intelligence (AI) development is the rapid advance in the field of Natural Language Processing (NLP). This advance has mainly been driven by the application of deep learning techniques to neural network architectures which has enabled models like BERT and GPT-3 to perform better in a range of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Training-Visualizing-and-Understanding-Word-Embeddings-Deep-Dive-Into-Custom-Datasets-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14725,
+            "title": "How to Keep Track of Experiments in PyTorch",
+            "url": "https://neptune.ai/blog/how-to-keep-track-of-experiments-in-pytorch-using-neptune",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine Learning development seems a lot like conventional software development since both of them require us to write a lot of code. But it\u2019s not! Let us go through some points to understand this better. Machine Learning code doesn\u2019t throw errors (of course I\u2019m talking about semantics), the reason being, even if you configured a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-keep-track-of-experiments-in-Pytorch.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14726,
+            "title": "How to Organize Your LightGBM ML Model Development Process \u2013 Examples of Best Practices",
+            "url": "https://neptune.ai/blog/how-to-organize-your-lightgbm-ml-model-development-process-examples-of-best-practices",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "LightGBM is a distributed and efficient gradient boosting framework that uses tree-based learning. It\u2019s known for its fast training, accuracy, and efficient utilization of memory. It uses a leaf-wise tree growth algorithm that tends to converge faster compared to depth-wise growth algorithms.\u00a0 LightGBM is great, and building models with LightGBM is easy. But when you\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Organize-Your-LightGBM-ML-Model-Development-Process-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14727,
+            "title": "How to Organize Deep Learning Projects \u2013 Examples of Best Practices",
+            "url": "https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "For a successful deep learning project, you need a lot of iterations, a lot of time, and a lot of effort. To make this process less painful, you should try to use your resources to the max. A good step-by-step workflow will help you do that. With it, your projects become productive, reproducible, and understandable.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Organize-Deep-Learning-Projects-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14728,
+            "title": "MLOps: What It Is, Why It Matters, and How to Implement It",
+            "url": "https://neptune.ai/blog/mlops",
+            "authors": "Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "What is this MLOps thing?\u00a0 It was the question I had on my mind, but until recently, I had only heard about MLOps a few times at big AI conferences, I saw some mentions in papers I read over the years, but I didn\u2019t know anything specific.\u00a0 Interestingly enough, around the same time, I had\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14729,
+            "title": "MLflow vs TensorBoard vs Neptune: What Are the Differences?",
+            "url": "https://neptune.ai/blog/mlflow-vs-tensorboard-vs-neptune-what-are-the-differences",
+            "authors": "Rita Bodepudi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You see endless columns and rows, random colors, and don\u2019t know where to find any values? Ahh, the beautifully chaotic spreadsheet of experiments. Machine learning developers shouldn\u2019t have to go through that pain. Tracking and managing countless variables and artifacts in a spreadsheet is exhausting. You have to manually take care of: Parameters: hyperparameters, model\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLflow-vs-TensorBoard-vs-Neptune-What-Are-the-Differences-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14730,
+            "title": "Best 8 Machine Learning Model Deployment Tools That You Need to Know",
+            "url": "https://neptune.ai/blog/best-8-machine-learning-model-deployment-tools",
+            "authors": "Krissanawat Kaewsanmua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning is nothing new in the tech world. It brought about a revolutionary change for many industries, with the ability to do channel automation, and add flexibility to business workflows.\u00a0 How we create and deploy trained model APIs in the production environment is governed by many aspects of the machine learning lifecycle. The concept\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-8-ML-Model-Deployment-Tools-That-You-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14731,
+            "title": "How to Organize Your XGBoost Machine Learning (ML) Model Development Process: Best Practices",
+            "url": "https://neptune.ai/blog/how-to-organize-your-xgboost-machine-learning-ml-model-development-process",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "XGBoost is a top gradient boosting library that is available in\u00a0Python, Java, C++, R, and Julia.\u00a0 The library offers support for GPU training, distributed computing, parallelization, and cache optimization. Developers also love it for its execution speed, accuracy, efficiency, and usability. However, when you are developing machine learning models in any framework, XGBoost included, you\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Organize-Your-XGBoost-Machine-Learning-Model-Development-Process-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14732,
+            "title": "Best Alternatives to ModelDB",
+            "url": "https://neptune.ai/blog/best-alternatives-to-modeldb",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "ModelDB is an open-source system to version machine learning models including their ingredients: code, data, config, and environment and to track ML metadata across the model lifecycle. It\u2019s a great tool \u2013 no questions asked. But! It\u2019s not the only tool. There are other options that can help you keep track of all your data,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-ModelDB-Alternatives-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14733,
+            "title": "Data Science and Machine Learning in the E-Commerce Industry: Insider Talks About Tools, Use-Cases, Problems, and More",
+            "url": "https://neptune.ai/blog/data-science-and-machine-learning-in-the-e-commerce-industry-tools-use-cases-problems",
+            "authors": "Revannth Vedala",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine Learning has engulfed our personal and private spaces without reprise, extending to horizons that are only limited by our ability to comprehend it. What was once used to statistically appropriate a mathematical pattern is now being used to understand and predict human behavior.\u00a0 The advances in Neural and Linguistic Computation has opened avenues for\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Science-and-Machine-Learning-in-the-E-Commerce-Industry-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14734,
+            "title": "Top 10 Best Machine Learning Tools for Model Training",
+            "url": "https://neptune.ai/blog/top-10-best-machine-learning-tools-for-model-training",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Contrary to the popular notion, model training in machine learning is not simply a black box activity. For the machine learning (ML) solution to consistently perform well, the developers have to deep dive into each model to find the right fit with the data and the business use case. In simple terms, a machine learning\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-10-Best-Machine-Learning-Tools-for-Model-Training.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14735,
+            "title": "How to Use Google Colab for Deep Learning \u2013 Complete Tutorial",
+            "url": "https://neptune.ai/blog/how-to-use-google-colab-for-deep-learning-complete-tutorial",
+            "authors": "Harshit Dwivedi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you\u2019re a programmer, you want to explore deep learning, and need a platform to help you do it \u2013 this tutorial is exactly for you. Google Colab is a great platform for deep learning enthusiasts, and it can also be used to test basic machine learning models, gain experience, and develop an intuition about\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Use-Google-Colab-for-Deep-Learning-Complete-Tutorial.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14736,
+            "title": "The Best Posts in 2020 \u2013 Neptune\u2019s Blog Summary",
+            "url": "https://neptune.ai/blog/the-best-posts-in-2020-neptune-blog",
+            "authors": "Patrycja Jenkner",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "It\u2019s the last day of the year, so we decided to go with the end-of-the-year flow and create our own blog summary! It was a very active time on Neptune\u2019s blog \u2013 tons of articles written by amazing authors, thousands of blog visitors, and many important topics covered.\u00a0 We always say that visualization is the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Posts-in-2020-Neptunes-Blog-Summary.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14737,
+            "title": "Applications of AI in Drone Technology: Building Machine Learning Models That Work on Drones (With TensorFlow/Keras)",
+            "url": "https://neptune.ai/blog/applications-of-ai-in-drone-technology-machine-learning-models-with-tensorflow-keras",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Welcome back to the second part of Building a Facemask Surveillance System with Drone Technology and Deep Learning. In the first part, we covered an introduction to drone technology, various classifications, the architecture of the drone utilized for this project, and setting up the environment for programming the drone with python. If you are not\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Applications-of-AI-in-Drone-Technology-Building-Machine-Learning-Models-That-Work-on-Drones.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14738,
+            "title": "Adversarial Attacks on Neural Networks: Exploring the Fast Gradient Sign Method",
+            "url": "https://neptune.ai/blog/adversarial-attacks-on-neural-networks-exploring-the-fast-gradient-sign-method",
+            "authors": "Henry Ansah",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Since their invention, neural networks have always been the cr\u00e8me de la cr\u00e8me of machine learning algorithms. They have driven most of the breakthroughs in artificial intelligence.\u00a0 Neural networks have proven to be robust at performing highly complex tasks that even humans find very challenging.\u00a0 Can their incredible robustness extend beyond their original purpose? That\u2019s\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Adversarial-Attacks-on-Neural-Networks-Exploring-the-Fast-Gradient-Sign-Method.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

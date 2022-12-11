@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9082,
+            "title": "How to Load, Visualize, and Explore a Multivariate Multistep Time Series Dataset",
+            "url": "https://machinelearningmastery.com/how-to-load-visualize-and-explore-a-complex-multivariate-multistep-time-series-forecasting-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-12T00:00:00",
+            "description": "Real-world time series forecasting is challenging for a whole host of reasons not limited to problem features such as having multiple input variables, the requirement to predict multiple time steps, and the need to perform the same type of prediction for multiple physical sites. The EMC Data Science Global Hackathon dataset, or the \u2018Air Quality [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Box-and-whisker-plots-of-target-variables-for-one-chunk.png"
+        },
+        {
+            "id": 9083,
+            "title": "Multi-Step LSTM Time Series Forecasting Models for Power Usage",
+            "url": "https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-10T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables that in turn could be used to model and even forecast future electricity consumption. Unlike other machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/10/How-to-Develop-LSTM-Models-for-Multi-Step-Time-Series-Forecasting-of-Household-Power-Consumption.jpg"
+        },
+        {
+            "id": 9084,
+            "title": "Convolutional Neural Networks for Multi-Step Time Series Forecasting",
+            "url": "https://machinelearningmastery.com/how-to-develop-convolutional-neural-networks-for-multi-step-time-series-forecasting/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-08T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables that in turn could be used to model and even forecast future electricity consumption. Unlike other machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/10/How-to-Develop-Convolutional-Neural-Networks-for-Multi-Step-Time-Series-Forecasting.jpg"
+        },
+        {
+            "id": 9085,
+            "title": "Multi-step Time Series Forecasting with Machine Learning for Electricity Usage",
+            "url": "https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-05T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables that in turn could be used to model and even forecast future electricity consumption. Machine learning algorithms predict [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Line-Plot-of-Direct-Per-Lead-Time-Multi-step-Forecasts-With-Linear-Algorithms.png"
+        },
+        {
+            "id": 9086,
+            "title": "Autoregression Forecast Model for Household Electricity Consumption",
+            "url": "https://machinelearningmastery.com/how-to-develop-an-autoregression-forecast-model-for-household-electricity-consumption/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-03T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables that in turn could be used to model and even forecast future electricity consumption. Autocorrelation models are very [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Zoomed-in-ACF-and-PACF-plots-for-the-univariate-series-of-power-consumption.png"
+        },
+        {
+            "id": 9087,
+            "title": "Evaluate Naive Models for Forecasting Household Electricity Consumption",
+            "url": "https://machinelearningmastery.com/naive-methods-for-forecasting-household-electricity-consumption/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-10-01T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables that in turn could be used to model and even forecast future electricity consumption. In this tutorial, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Line-Plot-Comparing-Naive-Forecast-Strategies-for-Household-Power-Forecasting.png"
+        },
+        {
+            "id": 9088,
+            "title": "How to Load and Explore Household Electricity Usage Data",
+            "url": "https://machinelearningmastery.com/how-to-load-and-explore-household-electricity-usage-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-28T00:00:00",
+            "description": "Given the rise of smart electricity meters and the wide adoption of electricity generation technology like solar panels, there is a wealth of electricity usage data available. This data represents a multivariate time series of power-related variables, that in turn could be used to model and even forecast future electricity consumption. In this tutorial, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Line-Plots-of-Active-Power-for-Most-Years.png"
+        },
+        {
+            "id": 9089,
+            "title": "Deep Learning Models for Human Activity Recognition",
+            "url": "https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-26T00:00:00",
+            "description": "Human activity recognition, or HAR, is a challenging time series classification task. It involves predicting the movement of a person based on sensor data and traditionally involves deep domain expertise and methods from signal processing to correctly engineer features from the raw data in order to fit a machine learning model. Recently, deep learning methods [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Depiction-of-CNN-Model-for-Accelerompter-Data.png"
+        },
+        {
+            "id": 9090,
+            "title": "LSTMs for Human Activity Recognition Time Series Classification",
+            "url": "https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-recognition-time-series-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-24T00:00:00",
+            "description": "Human activity recognition is the problem of classifying sequences of accelerometer data recorded by specialized harnesses or smart phones into known well-defined movements. Classical approaches to the problem involve hand crafting features from the time series data based on fixed-sized windows and training machine learning models, such as ensembles of decision trees. The difficulty is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/09/How-to-Develop-RNN-Models-for-Human-Activity-Recognition-Time-Series-Classification.jpg"
+        },
+        {
+            "id": 9091,
+            "title": "1D Convolutional Neural Network Models for Human Activity Recognition",
+            "url": "https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-21T00:00:00",
+            "description": "Human activity recognition is the problem of classifying sequences of accelerometer data recorded by specialized harnesses or smart phones into known well-defined movements. Classical approaches to the problem involve hand crafting features from the time series data based on fixed-sized windows and training machine learning models, such as ensembles of decision trees. The difficulty is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Histograms-of-each-variable-in-the-training-data-set.png"
+        },
+        {
+            "id": 9092,
+            "title": "Evaluate Machine Learning Algorithms for Human Activity Recognition",
+            "url": "https://machinelearningmastery.com/evaluate-machine-learning-algorithms-for-human-activity-recognition/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-19T00:00:00",
+            "description": "Human activity recognition is the problem of classifying sequences of accelerometer data recorded by specialized harnesses or smart phones into known well-defined movements. Classical approaches to the problem involve hand crafting features from the time series data based on fixed-sized windows and training machine learning models, such as ensembles of decision trees. The difficulty is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/09/How-to-Evaluate-Machine-Learning-Algorithms-for-Human-Activity-Recognition.jpg"
+        },
+        {
+            "id": 9093,
+            "title": "How to Model Human Activity From Smartphone Data",
+            "url": "https://machinelearningmastery.com/how-to-model-human-activity-from-smartphone-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-17T00:00:00",
+            "description": "Human activity recognition is the problem of classifying sequences of accelerometer data recorded by specialized harnesses or smart phones into known well-defined movements. It is a challenging problem given the large number of observations produced each second, the temporal nature of the observations, and the lack of a clear way to relate accelerometer data to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/09/Histograms-of-the-body-gyroscope-data-by-activity.png"
+        },
+        {
+            "id": 9094,
+            "title": "How to Develop a Framework to Spot-Check Machine Learning Algorithms in Python",
+            "url": "https://machinelearningmastery.com/spot-check-machine-learning-algorithms-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2018-09-14T00:00:00",
+            "description": "Spot-checking algorithms is a technique in applied machine learning designed to quickly and objectively provide a first set of results on a new predictive modeling problem. Unlike grid searching and other types of algorithm tuning that seek the optimal algorithm or optimal configuration for an algorithm, spot-checking is intended to evaluate a diverse set of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Boxplot-of-top-10-Spot-Checking-Algorithms-on-a-Classification-Problem.png"
+        },
+        {
+            "id": 9095,
+            "title": "A Gentle Introduction to a Standard Human Activity Recognition Problem",
+            "url": "https://machinelearningmastery.com/how-to-load-and-explore-a-standard-human-activity-recognition-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-12T00:00:00",
+            "description": "Human activity recognition is the problem of classifying sequences of accelerometer data recorded by specialized harnesses or smart phones into known well-defined movements. It is a challenging problem given the large number of observations produced each second, the temporal nature of the observations, and the lack of a clear way to relate accelerometer data to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-plots-of-x-y-z-and-class-for-the-second-loaded-subject.png"
+        },
+        {
+            "id": 9096,
+            "title": "Indoor Movement Time Series Classification with Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/indoor-movement-time-series-classification-with-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-10T00:00:00",
+            "description": "Indoor movement prediction involves using wireless sensor strength data to predict the location and motion of subjects within a building. It is a challenging problem as there is no direct analytical model to translate the variable length traces of signal strength data from multiple sensors into user behavior. The \u2018indoor user movement\u2018 dataset is a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-plots-for-the-time-series-in-a-single-trace-with-trend-lines.png"
+        },
+        {
+            "id": 9097,
+            "title": "Probabilistic Forecasting Model to Predict Air Pollution Days",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-probabilistic-forecasting-model-to-predict-air-pollution-days/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-07T00:00:00",
+            "description": "Air pollution is characterized by the concentration of ground ozone. From meteorological measurements, such as wind speed and temperature, it is possible to forecast whether the ground ozone will be at a sufficiently high level tomorrow to issue a public air pollution warning. This is the basis behind a standard machine learning dataset used for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Box-and-whisker-plot-of-ensemble-decision-tree-BSS-scores-on-the-test-set.png"
+        },
+        {
+            "id": 9098,
+            "title": "A Gentle Introduction to Probability Scoring Methods in Python",
+            "url": "https://machinelearningmastery.com/how-to-score-probability-predictions-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2018-09-05T00:00:00",
+            "description": "How to Score Probability Predictions in Python and Develop an Intuition for Different Metrics. Predicting probabilities instead of class labels for a classification problem can provide additional nuance and uncertainty for the predictions. The added nuance allows more sophisticated metrics to be used to interpret and evaluate the predicted probabilities. In general, methods for the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-Plot-of-Evaluating-Predictions-with-Log-Loss.png"
+        },
+        {
+            "id": 9099,
+            "title": "How to Get Started with Deep Learning for Time Series Forecasting (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-09-04T00:00:00",
+            "description": "Deep Learning for Time Series Forecasting Crash Course. Bring Deep Learning methods to Your Time Series project in 7 Days. Time series forecasting is challenging, especially when working with long sequences, noisy data, multi-step forecasts and multiple input and output variables. Deep learning methods offer a lot of promise for time series forecasting, such as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/11/How-to-Get-Started-with-Deep-Learning-for-Time-Series-Forecasting-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 9100,
+            "title": "How and When to Use a Calibrated Classification Model with scikit-learn",
+            "url": "https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2018-09-03T00:00:00",
+            "description": "Instead of predicting class values directly for a classification problem, it can be convenient to predict the probability of an observation belonging to each possible class. Predicting probabilities allows some flexibility including deciding how to interpret the probabilities, presenting predictions with uncertainty, and providing more nuanced ways to evaluate the skill of the model. Predicted [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Calibrated-and-Uncalibrated-SVM-Reliability-Diagram.png"
+        },
+        {
+            "id": 9101,
+            "title": "How to Use ROC Curves and Precision-Recall Curves for Classification in Python",
+            "url": "https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2018-08-31T00:00:00",
+            "description": "It can be more flexible to predict probabilities of an observation belonging to each class in a classification problem rather than predicting classes directly. This flexibility comes from the way that probabilities may be interpreted using different thresholds that allow the operator of the model to trade-off concerns in the errors made by the model, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/ROC-Curve-Plot-for-a-No-Skill-Classifier-and-a-Logistic-Regression-Model.png"
+        },
+        {
+            "id": 9102,
+            "title": "How to Predict Room Occupancy Based on Environmental Factors",
+            "url": "https://machinelearningmastery.com/how-to-predict-room-occupancy-based-on-environmental-factors/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-08-29T00:00:00",
+            "description": "Small computers, such as Arduino devices, can be used within buildings to record environmental variables from which simple and useful properties can be predicted. One example is predicting whether a room or rooms are occupied based on environmental measures such as temperature, humidity, and related measures. This is a type of common time series classification [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-Plot-Showing-Time-Series-Plots-for-all-variables-and-each-dataset.png"
+        },
+        {
+            "id": 9103,
+            "title": "Predict Whether a Persons Eyes are Open or Closed Using Brain Waves",
+            "url": "https://machinelearningmastery.com/how-to-predict-whether-eyes-are-open-or-closed-using-brain-waves/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-08-27T00:00:00",
+            "description": "A Case Study in How to Avoid Methodological Errors when Evaluating Machine Learning Methods for Time Series Forecasting. Evaluating machine learning models on time series forecasting problems is challenging. It is easy to make a small error in the framing of a problem or in the evaluation of models that give impressive results but result [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-Plot-for-each-EEG-trace-and-the-output-variable-without-outliers.png"
+        },
+        {
+            "id": 9104,
+            "title": "How to Model Volatility with ARCH and GARCH for Time Series Forecasting in Python",
+            "url": "https://machinelearningmastery.com/develop-arch-and-garch-models-for-time-series-forecasting-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Time Series",
+            "publishedOn": "2018-08-24T00:00:00",
+            "description": "A change in the variance or volatility over time can cause problems when modeling time series with classical methods like ARIMA. The ARCH or\u00a0Autoregressive Conditional Heteroskedasticity method provides a way to model a change in variance in a time series that is time dependent, such as increasing or decreasing volatility. An extension of this approach [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Line-Plot-of-Dataset-with-Increasing-Variance.png"
+        },
+        {
+            "id": 9105,
+            "title": "4 Common Machine Learning Data Transforms for Time Series Forecasting",
+            "url": "https://machinelearningmastery.com/machine-learning-data-transforms-for-time-series-forecasting/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-08-22T00:00:00",
+            "description": "Time series data often requires some preparation prior to being modeled with machine learning algorithms. For example, differencing operations can be used to remove trend and seasonal structure from the sequence in order to simplify the prediction problem. Some algorithms, such as neural networks, prefer data to be standardized and/or normalized prior to modeling. Any [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/4-Common-Machine-Learning-Data-Transforms-for-Time-Series-Forecasting.jpg"
+        },
+        {
+            "id": 9106,
+            "title": "A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python",
+            "url": "https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Time Series",
+            "publishedOn": "2018-08-20T00:00:00",
+            "description": "Exponential smoothing is a time series forecasting method for univariate data that can be extended to support data with a systematic trend or seasonal component. It is a powerful forecasting method that may be used as an alternative to the popular Box-Jenkins ARIMA family of methods. In this tutorial, you will discover the exponential smoothing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/A-Gentle-Introduction-to-Exponential-Smoothing-for-Time-Series-Forecasting-in-Python.jpg"
+        },
+        {
+            "id": 9107,
+            "title": "A Gentle Introduction to SARIMA for Time Series Forecasting in Python",
+            "url": "https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Time Series",
+            "publishedOn": "2018-08-17T00:00:00",
+            "description": "Autoregressive Integrated Moving Average, or ARIMA, is one of the most widely used forecasting methods for univariate time series data forecasting. Although the method can handle data with a trend, it does not support time series with a seasonal component. An extension to ARIMA that supports the direct modeling of the seasonal component of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/A-Gentle-Introduction-to-SARIMA-for-Time-Series-Forecasting-in-Python.jpg"
+        },
+        {
+            "id": 9108,
+            "title": "17 Statistical Hypothesis Tests in Python (Cheat Sheet)",
+            "url": "https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-08-15T00:00:00",
+            "description": "Quick-reference guide to the 17 statistical hypothesis tests that you need in applied machine learning, with sample code in Python. Although there are hundreds of statistical hypothesis tests that you could use, there is only a small subset that you may need to use in a machine learning project. In this post, you will discover [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/Statistical-Hypothesis-Tests-in-Python-Cheat-Sheet.jpg"
+        },
+        {
+            "id": 9109,
+            "title": "How to Reduce Variance in a Final Machine Learning Model",
+            "url": "https://machinelearningmastery.com/how-to-reduce-model-variance/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2018-08-13T00:00:00",
+            "description": "A final machine learning model is one trained on all available data and is then used to make predictions on new data. A problem with most final models is that they suffer variance in their predictions. This means that each time you fit a model, you get a slightly different set of parameters that in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/How-to-Reduce-Variance-in-a-Final-Machine-Learning-Model.jpg"
+        },
+        {
+            "id": 9110,
+            "title": "How to Develop a Skillful Machine Learning Time Series Forecasting Model",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-08-10T00:00:00",
+            "description": "You are handed data and told to develop a forecast model. What do you do? This is a common situation; far more common than most people think. Perhaps you are sent a CSV file. Perhaps you are given access to a database. Perhaps you are starting a competition. The problem can be reasonably well defined: [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/How-to-Develop-a-Skilful-Time-Series-Forecasting-Model.jpg"
+        },
+        {
+            "id": 9111,
+            "title": "Taxonomy of Time Series Forecasting Problems",
+            "url": "https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2018-08-08T00:00:00",
+            "description": "When you are presented with a new time series forecasting problem, there are many things to consider. The choice that you make directly impacts each step of the project from the design of a test harness to evaluate forecast models to the fundamental difficulty of the forecast problem that you are working on. It is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/Taxonomy-of-Time-Series-Forecasting-Problems.jpg"
+        }
+    ]
+}

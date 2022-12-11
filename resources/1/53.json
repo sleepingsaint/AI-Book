@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1544,
+            "title": "Train Neural Machine Translation Models with Sockeye",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-neural-machine-translation-models-with-sockeye/",
+            "authors": "Felix Hieber, Tobias Domhan",
+            "tags": null,
+            "publishedOn": "2017-07-20T00:00:00",
+            "description": "Have you ever wondered how you can use machine learning (ML) for translation? With our new framework, Sockeye, you can model machine translation (MT) and other sequence-to-sequence tasks. Sockeye, which is built on Apache MXNet, does most of the heavy lifting for building, training, and running state-of-the-art sequence-to-sequence models. In natural language processing (NLP), many [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/07/20/sockeye_2.gif"
+        },
+        {
+            "id": 1545,
+            "title": "Building a Reliable Text-to-Speech Service with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-reliable-text-to-speech-service-with-amazon-polly/",
+            "authors": "Yiannis Philipopoulos",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-07-19T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly This is a guest post by Yiannis Philipopoulos, a Software Developer at Bandwidth. In Yiannis\u2019 words: \u201cBandwidth\u2019s solutions are shaping the future of how we connect with voice and messaging for mobile apps and large-scale, enterprise-level solutions. At the core of Bandwidth\u2019s business-grade Communications Platform as a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1546,
+            "title": "Amazon Lex Now Supports Telephony Audio (8 kHz) for Increased Speech Recognition Accuracy",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-now-supports-telephony-audio-8-khz-for-increased-speech-recognition-accuracy/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-07-14T00:00:00",
+            "description": "To increase the accuracy of speech recognition for conversations over the phone, Amazon Lex now supports telephony audio (8 kHz). You can now employ the same deep learning technology as Amazon Alexa to converse with your applications and fulfill the most common requests. Amazon Lex maintains context and dynamically manages the dialogue, adjusting responses based [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/07/14/telephony_800.jpg"
+        },
+        {
+            "id": 1547,
+            "title": "Voice-Enabled Mobile Bot Drives Auto Industry Innovation with Real-Time Trade-in Values for Vehicles",
+            "url": "https://aws.amazon.com/blogs/machine-learning/voice-enabled-mobile-bot-drives-auto-industry-innovation-with-real-time-trade-in-values-for-vehicles/",
+            "authors": "Harshal Pimpalkhute, Dennis Hills",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-07-12T00:00:00",
+            "description": "The Kelley Blue Book Bot allows users to get real-time Kelley Blue Book\u00ae Trade-In Value for vehicles using natural language. Users can interact with the chatbot in both voice and text. A simple question like, \u201cKelley Blue Book, can you tell me the trade-in value for my 2012 Honda Civic?\u201d is all that is needed [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/16/Lex_KBB_12.gif"
+        },
+        {
+            "id": 1548,
+            "title": "Find Distinct People in a Video with Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/find-distinct-people-in-a-video-with-amazon-rekognition/",
+            "authors": "Nicolas Malaval",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-07-06T00:00:00",
+            "description": "Note: AWS released Amazon Rekognition Video on November 29, 2017 which is now the preferred approach for analyzing videos and finding distinct people. Nevertheless, we continue to make this blog post available for educational purposes on how to use Amazon Rekognition. Amazon Rekognition makes it easy to detect, search for, and compare faces in images [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/07/06/Identify_Unique_2.jpg"
+        },
+        {
+            "id": 1549,
+            "title": "Using Amazon Polly to Deliver Health Care for People with Long-Term Conditions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-polly-to-deliver-health-care-for-people-with-long-term-conditions/",
+            "authors": "Michael Wray",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-06-30T00:00:00",
+            "description": "This is a guest post by Michael Wray, senior software architect at Inhealthcare. Founded in 2012, Inhealthcare has created a digital infrastructure which supports remote home monitoring for the entire UK population. Listen to this post Voiced by Amazon Polly \u00a0 With an aging population that continues to grow, healthcare is being changed forever. Are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/29/inhealthcare_2_1.gif"
+        },
+        {
+            "id": 1550,
+            "title": "Build PMML-based Applications and Generate Predictions in AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-pmml-based-applications-and-generate-predictions-in-aws/",
+            "authors": "Gitansh Chadha",
+            "tags": "Amazon EMR",
+            "publishedOn": "2017-06-30T00:00:00",
+            "description": "If you generate machine learning (ML) models, you know that the key challenge is exporting and importing them into other frameworks to separate model generation and prediction. Many applications use PMML (Predictive Model Markup Language) to move ML models from one framework to another. PMML is an XML representation of a data mining model. In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1551,
+            "title": "In the Research Spotlight: Zornitsa Kozareva",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-zornitsa-kozareva/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-06-27T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release of\u00a0Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1552,
+            "title": "Build a Real-time Object Classification System with Apache MXNet on Raspberry Pi",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-real-time-object-classification-system-with-apache-mxnet-on-raspberry-pi/",
+            "authors": "Aran Khanna",
+            "tags": null,
+            "publishedOn": "2017-06-23T00:00:00",
+            "description": "In the past five years, deep neural networks have solved many computationally difficult problems, particularly in the field of computer vision. Because deep networks require a lot of computational power to train, often using tens of GPUs, many people assume that you can run them only on powerful cloud servers. In fact, after a deep [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/20/MXNet_Pi_6.gif"
+        },
+        {
+            "id": 1553,
+            "title": "\u201cGreetings, visitor!\u201d \u2014 Engage Your Web Users with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/greetings-visitor-engage-your-web-users-with-amazon-lex/",
+            "authors": "Niranjan Hira",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-06-23T00:00:00",
+            "description": "All was well with the world last night. You went to bed thinking about convincing your manager to add some time in the next sprint for much-needed improvements to the recommendation engine for shoppers on your website. The machine learning models are out of date and people are complaining, but no one is looking past [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/23/greetings_visitor_7.gif"
+        },
+        {
+            "id": 1554,
+            "title": "In the Research Spotlight: Hassan Sawaf",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-hassan-sawaf/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-06-16T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release of\u00a0Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1555,
+            "title": "Activity Tracking with a Voice-Enabled Bot on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/activity-tracking-with-a-voice-enabled-bot-on-aws/",
+            "authors": "Bob Strahan, Oliver Atoa, Bob Potterveld",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-06-09T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly It\u2019s New Year\u2019s Eve. Your friends and loved ones have gone to the party, but you can\u2019t go just yet because you haven\u2019t figured out how to track the key performance indicators for your New Year\u2019s resolution. You\u2019ve already divided your resolution into categories, and you\u2019ve set [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/08/TrackingBot_2.gif"
+        },
+        {
+            "id": 1556,
+            "title": "Capturing Voice Input in a Browser and Sending it to Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/capturing-voice-input-in-a-browser/",
+            "authors": "Andrew Lafranchise",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-06-07T00:00:00",
+            "description": "Ever since we released Amazon Lex, customers have asked us how to embed voice into a web application. In this blog post, we show how to build a simple web application that uses the AWS SDK for JavaScript to do that. The example application, which users can access from a browser, records audio, sends the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1557,
+            "title": "Updated AWS Deep Learning AMIs with Apache MXNet 0.10 and TensorFlow 1.1 Now Available",
+            "url": "https://aws.amazon.com/blogs/machine-learning/updated-aws-deep-learning-amis-with-apache-mxnet-0-10-and-tensorflow-1-1-now-available/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-06-06T00:00:00",
+            "description": "You can now use Apache MXNet v0.10 and TensorFlow v1.1 with the AWS Deep Learning AMIs for Amazon Linux and Ubuntu. Apache MXNet announced version 0.10, available at http://mxnet.io, with significant improvements to documentation and tutorials including updated installation guides for running MXNet on various operating systems and environments, such as NVIDIA\u2019s Jetson TX2. In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1558,
+            "title": "Tuning Your DBMS Automatically with Machine Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tuning-your-dbms-automatically-with-machine-learning/",
+            "authors": "Dana Van Aken, Geoff Gordon, Andy Pavlo",
+            "tags": null,
+            "publishedOn": "2017-06-02T00:00:00",
+            "description": "This is a guest post by Dana Van Aken, Andy Pavlo, and Geoff Gordon of Carnegie Mellon University. This project demonstrates how academic researchers can leverage our AWS Cloud Credits for Research Program to support their scientific breakthroughs. Database management systems (DBMSs) are the most important component of any data-intensive application. They can handle large [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1559,
+            "title": "In the Research Spotlight: Edo Liberty",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-edo-liberty/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-31T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release of\u00a0Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1560,
+            "title": "Personalizing Videos: BeeLiked uses Amazon Polly to Launch the #DanBrownOrigin campaign, the World\u2019s First Virtual Book Signing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/personalizing-videos-beeliked-uses-amazon-polly-to-launch-the-danbrownorigin-campaign-the-worlds-first-virtual-book-signing/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-05-26T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly Just as Dan Brown has captivated millions of readers through countless plot twists and turns, the launch of his new novel, Origin, will lead you along an inspired journey that guarantees to speak to you and draw you in. Literally. The 2003 best-selling author of The Da [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/05/25/Dan_Video_Personalized_Message2.jpg"
+        },
+        {
+            "id": 1561,
+            "title": "In the Research Spotlight: Mu Li",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-mu-li/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-24T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release of\u00a0Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1562,
+            "title": "Join Us as We Go Deep with AI on AWS at These Upcoming Events",
+            "url": "https://aws.amazon.com/blogs/machine-learning/join-us-as-we-go-deep-with-ai-on-aws-at-these-upcoming-events/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-20T00:00:00",
+            "description": "For our customers in Europe, Julien Simon, Principal Technical Evangelist at Amazon Web Services, is leading workshops and speaking at several events throughout the month. Julien is a frequent speaker at workshops and conferences taking participants on a journey through Deep Learning with AWS, Amazon Lex, Amazon Polly, Amazon Rekognition, Apache MXNet and more.\u00a0If you\u2019re [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/02/17/ConnectedHeads_800_o.jpg"
+        },
+        {
+            "id": 1563,
+            "title": "Integrate Your Amazon Lex Bot with Any Messaging Service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/integrate-your-amazon-lex-bot-with-any-messaging-service/",
+            "authors": "Ahmad Khan",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-05-19T00:00:00",
+            "description": "Is your Amazon Lex chatbot ready to talk to the world? When it is, chances are that you\u2019ll want it to be able to interact with as many users as possible. Amazon Lex offers built-in integration with Facebook, Slack and Twilio. But what if you want to connect to a messaging service that isn\u2019t supported? [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/05/19/Lex_Bot_6.gif"
+        },
+        {
+            "id": 1564,
+            "title": "In the Research Spotlight: Anima Anandkumar",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-anima-anandkumar/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-16T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1565,
+            "title": "Powering Language Learning on Duolingo with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/powering-language-learning-on-duolingo-with-amazon-polly/",
+            "authors": "Andr\u00e9 Kenji Horie",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-05-12T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly This is a guest post by Andr\u00e9 Kenji Horie, a software engineer on Duolingo\u2019s Learning Team. In their own words, \u201cDuolingo is the most popular language-learning platform and the most downloaded education app in the world, with more than 170 million users.\u201d When teaching a foreign language, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/05/11/Duolingo_1.gif"
+        },
+        {
+            "id": 1566,
+            "title": "In the Research Spotlight: Alex Smola",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-alex-smola/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-11T00:00:00",
+            "description": "As AWS continues to support the Artificial Intelligence (AI) community with contributions to Apache MXNet and the release of\u00a0Amazon Lex, Amazon Polly, and Amazon Rekognition managed services, we are also expanding our team of AI experts, who have one primary mission: To lower the barrier to AI for all AWS developers, making AI more accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1567,
+            "title": "AWS and NVIDIA Expand Deep Learning Partnership at GTC 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-expand-deep-learning-partnership-at-gtc-2017/",
+            "authors": "Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-05-10T00:00:00",
+            "description": "This year at NVIDIA\u2019s GPU Technology Conference, AWS and NVIDIA partnered on multiple initiatives. The first is an exciting new Volta-based GPU instance that we think will completely change the face of the AI developer world through a 3x speedup on LSTM training. Second, we are announcing plans to train 100,000+ developers through the Deep [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/05/09/GTC17-Deep_Learning-Email-800.jpg"
+        },
+        {
+            "id": 1568,
+            "title": "AWS AI Blog Month in Review: April 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-blog-month-in-review-april-2017/",
+            "authors": "Derek Young",
+            "tags": null,
+            "publishedOn": "2017-05-09T00:00:00",
+            "description": "Another month of AI solutions on the AWS AI Blog.\u00a0Take a look at the summaries below and learn, comment and share. Thank you for reading! NEW POSTS AI Tech Talk: An Overview of AI on the AWS Platform AWS offers a family of intelligent services that provide cloud-native machine learning and deep learning technologies to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1569,
+            "title": "Join AWS User Group Dublin for an Evening of AI & Deep Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/join-aws-user-group-dublin-for-an-evening-of-ai-deep-learning/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-05-08T00:00:00",
+            "description": "\u00a0 Join Julien Simon, Principal Technical Evangelist at Amazon Web Services, on May 9 for an evening of AI and Deep Learning hosted by the AWS User Group Dublin. The event will feature Amazon Lex, Amazon Polly, and Amazon Rekognition.\u00a0Julien will take participants on a journey through Deep Learning with AWS covering AI theory to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/05/05/May9_DLTalk-1.jpg"
+        },
+        {
+            "id": 1570,
+            "title": "Create Audiobooks with Amazon Polly and AWS Batch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-audiobooks-with-amazon-polly-and-aws-batch/",
+            "authors": "Matthew McClean",
+            "tags": "Amazon Polly, AWS Batch",
+            "publishedOn": "2017-05-05T00:00:00",
+            "description": "I hope that you are enjoying the Polly-powered audio that is available for the newest posts on this blog, including the DeepLens Challenge and the Storage Gateway Recap. As part of my blogging process, I now listen to the synthesized speech for my draft blog posts in order to get a better sense for how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2018/07/17/trans-681x630.png"
+        },
+        {
+            "id": 1571,
+            "title": "Changing Lives with AI: Pollexy (\u201cPolly\u201d + \u201cLex\u201d), A Special Needs Verbal Assistant",
+            "url": "https://aws.amazon.com/blogs/machine-learning/changing-lives-with-ai-pollexy-polly-lex-a-special-needs-verbal-assistant/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-05-04T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly With the emergence of devices like the Amazon Echo and AWS services like Amazon Polly and Amazon Lex, it\u2019s easier to develop integrated voice solutions that can simplify life and make it more enjoyable. In some cases, the resulting innovations can lead to life-changing experiences because the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1572,
+            "title": "\u201cIn the Research Spotlight\u201d: A New Blog Post Series",
+            "url": "https://aws.amazon.com/blogs/machine-learning/in-the-research-spotlight-a-new-blog-post-series/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-05-04T00:00:00",
+            "description": "In addition to the continued contributions to the AI community through Apache MXNet and the Amazon AI services of Amazon Lex, Amazon Polly, and Amazon Rekognition, AWS also has an active team of AI researchers. These researchers have rich and interesting backgrounds in machine learning and deep learning, from academia, startups, and enterprises, all with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/06/13/Spotlight_BlogBanner_800.png"
+        },
+        {
+            "id": 1573,
+            "title": "Deep Learning on AWS at NVIDIA\u2019s GPU Technology Conference, GTC 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deep-learning-on-aws-at-nvidias-gpu-technology-conference-gtc-2017/",
+            "authors": "Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-05-02T00:00:00",
+            "description": "This year at NVIDIA\u2019s GPU Technology Conference, AWS is hosting several tech sessions ranging from how to get started with Apache MXNet to running deep learning on IoT devices on the edge. If you\u2019re in Silicon Valley the week of May 8, we hope that you\u2019ll join us for the following sessions. An Introduction to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

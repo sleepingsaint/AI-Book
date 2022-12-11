@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14770,
+            "title": "HyperBand and BOHB: Understanding State of the Art Hyperparameter Optimization Algorithms",
+            "url": "https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms",
+            "authors": "MJ Bahmani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you want to learn about state-of-the-art hyperparameter optimization algorithms (HPO), in this article I\u2019ll tell you what they are and how they work. As an ML researcher I\u2019ve read about and used state-of-the-art HPO algorithms quite a bit and in the next few sections I\u2019m going to share with you what I\u2019ve discovered so\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/HyperBand-and-BOHB-Understanding-State-of-the-Art-Hyperparameter-Optimization-Algorithms.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14771,
+            "title": "Data Science & Machine Learning in Containers",
+            "url": "https://neptune.ai/blog/data-science-machine-learning-in-containers",
+            "authors": "Bamigbade Opeyemi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When building data science and machine learning powered products the research-development-production workflow is not linear like in traditional software development where the specs are known and problems are (mostly) understood beforehand.\u00a0 There are lots of trial and error involved, including the test and use of new algorithms, trying new data versions (and managing it), packaging\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Science-Machine-Learning-in-Containers.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14772,
+            "title": "Understanding Representation Learning With Autoencoder",
+            "url": "https://neptune.ai/blog/representation-learning-with-autoencoder",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning is a subfield of Artificial Intelligence, where we try to build intelligent systems that have the function and behavior of our brain. Through ML, we try to build machines that can compute, extract patterns, automate routine tasks, diagnose biological anomalies, and prove scientific theories and hypotheses. Because machine learning is a subset of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Understanding-Representation-Learning-With-Autoencoder.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14773,
+            "title": "Top 12 On-Prem Tracking Tools in Machine Learning",
+            "url": "https://neptune.ai/blog/top-12-on-prem-tracking-tools-in-machine-learning",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Clouds are cool \u2013 they deliver scalability, cost savings, and the ability to be integrated with numerous tools. There are apps for everything \u2013 machine learning platforms, data storage, project management, debugging, and many other tools competing for us and ready to be used. Yet there are multiple situations when one needs (or wants!) to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-12-On-Prem-Tracking-Tools-in-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14774,
+            "title": "7 Applications of Reinforcement Learning in Finance and Trading",
+            "url": "https://neptune.ai/blog/7-applications-of-reinforcement-learning-in-finance-and-trading",
+            "authors": "Soumo Chatterjee",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, we will explore 7 real world trading and finance applications where reinforcement learning is used to get a performance boost. Ok but before we move on to the nitty gritty of this article let\u2019s define a few concepts that I will use later.\u00a0 For starters let\u2019s quickly define reinforcement learning: A learning\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/7-Applications-of-Reinforcement-Learning-in-Finance-and-Trading.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14775,
+            "title": "The Ultimate Guide to Evaluation and Selection of Models in Machine Learning",
+            "url": "https://neptune.ai/blog/the-ultimate-guide-to-evaluation-and-selection-of-models-in-machine-learning",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "On a high level, Machine Learning is the union of statistics and computation. The crux of machine learning revolves around the concept of algorithms or models which are in fact statistical estimations on steroids. However, any given model has several limitations depending on the data distribution. None of them can be entirely accurate since they\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Ultimate-Guide-to-Evaluation-and-Selection-of-Models-in-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14777,
+            "title": "Building a Facemask Surveillance System With Drone Technology and Deep Learning",
+            "url": "https://neptune.ai/blog/building-a-facemask-surveillance-system-with-drone-technology",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The outbreak of COVID19 caught the world off-guard, affecting governments, companies, and individuals globally. The pandemic had detrimental effects on the global due to tight restrictions on movement imposed by various countries to hamper the effect of the virus. World Bank Global Economic Prospects forecasts a 5.2 percent contraction in global GDP in 2020-the deepest\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Building-a-Facemask-Surveillance-System-With-Drone-Technology-and-Deep-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14778,
+            "title": "Machine Learning as a Service: What It Is, When to Use It and What Are the Best Tools Out There",
+            "url": "https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Over the past decade, machine learning has grown to be quite the game-changer for different businesses and organizations. Thus, it is not a surprise that numerous tailored, cloud-based solutions emerged to support data scientists\u2019 work in many ways.\u00a0\u00a0 According to Forbes, the global machine learning market is projected to grow from $7.3B in 2020 to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/What-It-Is-When-to-Use-It-and-What-Are-the-Best-Tools-Out-There.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14779,
+            "title": "Best Reinforcement Learning Tutorials, Examples, Projects, and Courses",
+            "url": "https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses",
+            "authors": "Krissanawat Kaewsanmua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In reinforcement learning, your system learns how to interact intuitively with the environment by basically doing stuff and watching what happens \u2013 but obviously, there\u2019s a lot more to it. If you\u2019re interested in RL, this article will provide you with a ton of new content to explore this concept. A lot of work has\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Reinforcement-Learning-Tutorials-Examples-Projects-and-Courses.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14780,
+            "title": "Understanding Gradient Clipping (and How It Can Fix Exploding Gradients Problem)",
+            "url": "https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Gradient Clipping solves one of the biggest problems that we have while calculating gradients in Backpropagation for a Neural Network.\u00a0 You see, in a backward pass, we calculate gradients of all weights and biases in order to converge our cost function. These gradients, and the way they are calculated, are the secret behind the success\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Understanding-Gradient-Clipping.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14781,
+            "title": "Understanding GAN Loss Functions",
+            "url": "https://neptune.ai/blog/gan-loss-functions",
+            "authors": "Harshit Dwivedi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Ian Goodfellow introduced Generative Adversarial Networks (GAN) in 2014. It was one of the most beautiful, yet straightforward implementations of Neural Networks, and it involved two Neural Networks competing against each other. Yann LeCun, the founding father of Convolutional Neural Networks (CNNs), described GANs as \u201cthe most interesting idea in the last ten years in\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Understanding-GAN-Loss-Functions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14782,
+            "title": "Brier Score: Understanding Model Calibration",
+            "url": "https://neptune.ai/blog/brier-score-and-model-calibration",
+            "authors": "Anass El Houd",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Do you ever encounter a storm when the probability of rain in your weather app is below 10%? Well, this shows perfectly how your plans can be destroyed with a not well-calibrated model (also known as an ill-calibrated model, or a model with a very high Brier score). When building a prediction model, you take\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Brier-Score-Understanding-Model-Calibration.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14783,
+            "title": "Data Augmentation in Python: Everything You Need to Know",
+            "url": "https://neptune.ai/blog/data-augmentation-in-python",
+            "authors": "Vladimir Lyashenko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In machine learning (ML), the situation when the model does not generalize well from the training data to unseen data is called overfitting. As you might know, it is one of the trickiest obstacles in applied machine learning.\u00a0 The first step in tackling this problem is to actually know that your model is overfitting. That\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Augmentation-in-Python-Everything-You-Need-to-Know.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14784,
+            "title": "Deep Dive into ML Models in Production Using TensorFlow Extended (TFX) and Kubeflow",
+            "url": "https://neptune.ai/blog/deep-dive-into-ml-models-in-production-using-tfx-and-kubeflow",
+            "authors": "Rising Odegua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If I had a dollar for every machine learning model wasting in Jupyter Notebooks across the industry, I\u2019d be a millionaire.\u200a\u2014\u200aMe It is one thing to build models, yet another to put them in production. One of the hardest parts of machine learning is effectively putting models in production.\u00a0 With an emphasis on effectively here,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deep-Dive-into-ML-Models-in-Production-Using-TensorFlow-Extended-TFX-and-Kubeflow.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14785,
+            "title": "PyTorch Loss Functions: The Ultimate Guide",
+            "url": "https://neptune.ai/blog/pytorch-loss-functions",
+            "authors": "Alfrick Opidi, Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Your neural networks can do a lot of different tasks. Whether it\u2019s classifying data, like grouping pictures of animals into cats and dogs, regression tasks, like predicting monthly revenues, or anything else.\u00a0 Every task has a different output and needs a different type of loss function. The way you configure your loss functions can make\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/PyTorch-Loss-Functions-The-Ultimate-Guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14786,
+            "title": "Image Processing Techniques That You Can Use in Machine Learning Projects",
+            "url": "https://neptune.ai/blog/image-processing-techniques-you-can-use-in-machine-learning",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Image processing is a method to perform operations on an image to extract information from it or enhance it. Digital image processing has a broad range of applications such as image restoration, medical imaging, remote sensing, image segmentation, etc. Every process requires a different technique. In this article, we will be covering the top 6\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Image-Processing-Techniques-That-You-Can-Use-in-Machine-Learning-Projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14787,
+            "title": "Computer Vision in Machine Learning Industry \u2013 Top 12 Best Resources and How to Use Them to Follow Current Trends",
+            "url": "https://neptune.ai/blog/computer-vision-resources",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "To stay on top of the latest trends in machine learning, you need to be fast. Things change quickly and round the clock. And things happen even faster in computer vision. People and machines generate millions of visuals\u2013videos, images, gifs, memes\u2026 Take this\u2013 according to these statistics, Instagram users upload over 100 million photos and\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Computer-Vision-in-Machine-Learning-Industry.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14788,
+            "title": "Essential Pil (Pillow) Image Tutorial (For Machine Learning People)",
+            "url": "https://neptune.ai/blog/pil-image-tutorial-for-machine-learning",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "PIL stands for Python Image Library. In this article, we will look at its fork: Pillow. PIL has not been updated since 2011 and so the case for Pillow is obvious.\u00a0 The library provides support for various image formats including the popular JPEG and PNG formats. Another reason you would consider using Pillow is the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Essential-Pil-Pillow-Image-Tutorial-For-Machine-Learning-People.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14789,
+            "title": "How to Structure and Manage Natural Language Processing (NLP) Projects",
+            "url": "https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If there is one thing I learned working in the ML industry is this: machine learning projects are messy. It is not that people don\u2019t want to have things organized it is just there are many things that are hard to structure and manage over the course of the project.\u00a0 You may start clean but\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Structure-and-Manage-Natural-Language-Processing-NLP-Projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14790,
+            "title": "Sentiment Analysis in Python: TextBlob vs Vader Sentiment vs Flair vs Building It From Scratch",
+            "url": "https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair",
+            "authors": "Shahul ES",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Sentiment analysis is one of the most widely known Natural Language Processing (NLP) tasks. This article aims to give the reader a very clear understanding of sentiment analysis and different methods through which it is implemented in NLP. So let\u2019s dive in. The field of\u00a0NLP has evolved very much in the last five years, open-source\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Sentiment-Analysis-in-Python-2.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14791,
+            "title": "Top 8 Image-Processing Python Libraries Used in Machine Learning",
+            "url": "https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "According to IDC, digital data will skyrocket up to 175 zettabytes, and the huge part of this data is images. Data scientists need to (pre) process these images before feeding them into any machine learning models. They have to do the important (and sometimes dirty) work before the fun part begins.\u00a0\u00a0 To process a large\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-8-Image-Processing-Python-Libraries-Used-in-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14792,
+            "title": "How to Serve Machine Learning Models With TensorFlow Serving and Docker",
+            "url": "https://neptune.ai/blog/how-to-serve-machine-learning-models-with-tensorflow-serving-and-docker",
+            "authors": "Rising Odegua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning (ML) has the potential to greatly improve businesses, but this can only happen when models are put in production and users can interact with them.\u00a0 Global companies like Amazon, Microsoft, Google, Apple, and Facebook have hundreds of ML models in production. From better search to recommendation engines and as far as 40% reduction\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Serve-Machine-Learning-Models-With-TensorFlow-Serving-and-Docker.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14793,
+            "title": "Cross-Validation in Machine Learning: How to Do It Right",
+            "url": "https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right",
+            "authors": "Vladimir Lyashenko, Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In machine learning (ML), generalization usually refers to the ability of an algorithm to be effective across various inputs. It means that the ML model does not encounter performance degradation on the new inputs from the same distribution of the training data. For human beings generalization is the most natural thing possible. We can classify\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Cross-Validation-in-Machine-Learning-How-to-Do-It-Right.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14794,
+            "title": "Top \u201cApplied Data Science\u201d Papers from the ECML-PKDD 2020 Conference",
+            "url": "https://neptune.ai/blog/ecml-pkdd-2020-applied-data-science",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Last week I participated in the ECML-PKDD 2020 Conference. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases is one of the most recognized academic conferences on ML in Europe. In the spirit of spreading the word about ML developments, I wanted to share my selection of the best\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-22Applied-Data-Science22-Papers-from-the-ECML-PKDD-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14795,
+            "title": "Best YouTube Machine Learning Channels That You Should Subscribe To",
+            "url": "https://neptune.ai/blog/best-youtube-machine-learning-channels",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning has revolutionized the world in a very short span of time. Since the data is growing at an exponential rate we need to learn how to process it and gain insights from it.\u00a0 Machine learning is a field that combines stats and software development into one profession whose primary goal is to build\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-YouTube-Machine-Learning-Channels-That-You-Should-Subscribe-To.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14797,
+            "title": "Top Research Papers From the ECML-PKDD 2020 Conference",
+            "url": "https://neptune.ai/blog/ecml-pkdd-2020-research",
+            "authors": "Kamil Kaczmarek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Last week I had the pleasure to participate in an ECML-PKDD 2020 Conference. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases is one of the most recognized academic conferences on ML in Europe. Fully online event, run around the clock \u2013 nice idea to make it accessible in\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-Research-Papers-From-the-ECML-PKDD-2020-Conference.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14798,
+            "title": "Best Image Processing Tools Used in Machine Learning",
+            "url": "https://neptune.ai/blog/best-image-processing-tools-used-in-machine-learning",
+            "authors": "Vitaliy Lyalin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Image processing is a very useful technology and the demand from the industry seems to be growing every year.\u00a0Historically, image processing that uses machine learning appeared in the 1960s as an attempt to simulate the human vision system and automate the image analysis process. As the technology developed and improved, solutions for specific tasks began\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Image-Processing-Tools-Used-in-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14799,
+            "title": "Deep Dive Into TensorBoard: Tutorial With Examples",
+            "url": "https://neptune.ai/blog/tensorboard-tutorial",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "There is a common business saying that you can\u2019t improve what you don\u2019t measure. This is true in machine learning as well. There are various tools for measuring the performance of a deep learning model: Neptune AI, MLflow, Weights and Biases, Guild AI, just to mention a few. In this piece, we\u2019ll focus on TensorFlow\u2019s\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deep-Dive-into-TensorBoard-Tutorial-With-Examples.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14800,
+            "title": "Best Tools to Manage Machine Learning Projects",
+            "url": "https://neptune.ai/blog/best-tools-to-manage-machine-learning-projects",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Managing Machine Learning Projects is not exactly a piece of cake but every data scientist already knows that. It touches many things: Data exploration,\u00a0 Data preparation and setting up machine learning pipelines\u00a0 Experimentation and model tuning\u00a0 Data, pipeline, and model versioning Managing infrastructure and run orchestration Model serving and productionalization Model maintenance (retraining and monitoring\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Tools-to-Manage-Machine-Learning-Projects.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14801,
+            "title": "Machine Learning Trends to Watch Out in 2020 and 2021",
+            "url": "https://neptune.ai/blog/machine-learning-trends-2020-2021",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "\u201cArtificial intelligence will reach human levels by around 2029. Follow that out further to, say, 2045, and we will have multiplied the intelligence \u2013 the human biological machine intelligence of our civilization \u2013 a billion-fold.\u201d \u2013 Ray Kurzweil, American inventor and futurist. As we know, \u201cData\u201d is the new power, and companies around the globe\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Machine-Learning-Trends-to-Watch-Out-in-2020-and-2021.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

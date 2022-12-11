@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1184,
+            "title": "Creating a recommendation engine using Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-recommendation-engine-using-amazon-personalize/",
+            "authors": "Phil Basford",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2019-06-13T00:00:00",
+            "description": "This is a guest blog post by Phil Basford, lead AWS solutions architect, Inawisdom. At re:Invent 2018, AWS announced Amazon Personalize, which allows you to get your first recommendation engine running quickly, to deliver immediate value to your end user or business. As your understanding increases (or if you are already familiar with data science), [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/10/inawisdom-1.gif"
+        },
+        {
+            "id": 1185,
+            "title": "Build your own real-time voice translator application with AWS services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-your-own-real-time-voice-translator-application-with-aws-services/",
+            "authors": "Tomasz Stachlewski",
+            "tags": "Amazon Polly, Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-06-12T00:00:00",
+            "description": "Just imagine\u2014you say something in one language, and a tool immediately translates it to another language. Wouldn\u2019t it be even cooler to build your own real-time voice translator application using AWS services? It would be similar to the Babel fish in The Hitchhiker\u2019s Guide to the Galaxy: \u201cThe Babel fish is small, yellow, leech-like\u2014and probably [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/06/real-time-translator-4.gif"
+        },
+        {
+            "id": 1186,
+            "title": "Announcing AWS DeepLens (2019 Edition): Now available for pre-order in seven new countries",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deeplens-2019-edition-zooms-out-to-more-countries-around-the-world/",
+            "authors": "Rick Mitchell",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2019-06-12T00:00:00",
+            "description": "We\u2019re pleased to announce AWS DeepLens (2019 Edition), an update to the world\u2019s first machine learning\u2013enabled video camera. The new AWS DeepLens (2019 Edition) is available to purchase in the US and for the first time in seven new countries: UK, Germany, France, Spain, Italy, Japan, and Canada. We have improved the hardware and software [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/13/deeplens2019.jpg"
+        },
+        {
+            "id": 1187,
+            "title": "Amazon SageMaker Neo Helps Detect Objects and Classify Images on Edge Devices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-neo-helps-detect-objects-and-classify-images-on-edge-devices/",
+            "authors": "Satadal Bhattacharjee, Kimberly Madia",
+            "tags": "Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2019-06-12T00:00:00",
+            "description": "Nomura Research Institute\u00a0(NRI) is a leading global provider of system solutions and consulting services in Japan and an APN Premium Consulting Partner. NRI is increasingly getting requests to help customers optimize inventory and production plans, reduce costs, and create better customer experiences. To address these demands, NRI is turning to new sources of data, specifically [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/11/nri.gif"
+        },
+        {
+            "id": 1188,
+            "title": "Amazon SageMaker Neo\u00a0Enables Pioneer\u2019s Machine Learning in Cars",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-neo-enables-pioneers-machine-learning-in-cars/",
+            "authors": "Satadal Bhattacharjee, Kimberly Madia",
+            "tags": "Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2019-06-11T00:00:00",
+            "description": "Pioneer Corp is a Japanese multinational corporation specializing in digital entertainment products. Pioneer wanted to help their customers\u00a0check road and traffic conditions through in-car navigation systems. They developed a real-time, image-sharing service to help drivers navigate. The solution analyzes photos, diverts traffic, and sends alerts based on the observed conditions.\u00a0 Because the pictures are of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/11/pioneer.gif"
+        },
+        {
+            "id": 1189,
+            "title": "AWS DeepRacer League: The June race gets underway, as the first Virtual Circuit champion is crowned!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-the-june-race-gets-underway-as-the-first-virtual-circuit-champion-is-crowned/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-06-06T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league, open to anyone. Developers of all skill levels can get hands on with machine learning in a fun and exciting way, racing for prizes and glory at 21 events globally and online via the DeepRacer console. The Virtual Circuit launched at the end [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/07/deepracer-june-2.jpg"
+        },
+        {
+            "id": 1190,
+            "title": "Turning unstructured text into insights with Bewgle powered by AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/turning-unstructured-text-into-insights-with-bewgle-powered-by-aws/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon DynamoDB, Amazon SageMaker, Artificial Intelligence, AWS Lambda",
+            "publishedOn": "2019-06-06T00:00:00",
+            "description": "Bewgle is an SAP.iO, Techstars-funded company that uses AWS services to surface insights from user-generated text and audio streams. Bewgle generates insights to help product managers to increase customer satisfaction and engagement with their various products\u2014beauty, electronics, or anything in between.\u00a0 By listening to the voices of their customers with the help of Bewgle powered [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/06/bewgle.gif"
+        },
+        {
+            "id": 1191,
+            "title": "Creating neural time series models with Gluon Time Series",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-neural-time-series-models-with-gluon-time-series/",
+            "authors": "Jan Gasthaus, Alexander Alexandrov, Michael Bohlke-Schneider, Danielle Robinson, David Salinas, Valentin Flunkert, Konstantinos Benidis, Syama Rangapuram, Richard Lee, Jasper Schulz, Lorenzo Stella, Tim Januschowski, Bernie Wang",
+            "tags": "Artificial Intelligence, Gluon",
+            "publishedOn": "2019-06-03T00:00:00",
+            "description": "We are excited to announce the open source release of Gluon Time Series (GluonTS), a Python toolkit developed by Amazon scientists for building, evaluating, and comparing deep learning\u2013based time series models. GluonTS is based on the Gluon interface to Apache MXNet and provides components that make building time series models simple and efficient. In this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/03/gluonts-5.gif"
+        },
+        {
+            "id": 1192,
+            "title": "Capturing memories: GeoSnapShot uses Amazon Rekognition to identify athletes",
+            "url": "https://aws.amazon.com/blogs/machine-learning/capturing-memories-geosnapshot-uses-amazon-rekognition-to-identify-athletes/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2019-05-31T00:00:00",
+            "description": "If you\u2019ve ever competed in a sporting event and painstakingly sifted through event photos to find yourself later, you\u2019ll appreciate GeoSnapShot\u2019s innovative solution powered by Amazon Rekognition. GeoSnapShot founder Andy Edwards was first introduced to the world of sports photography when he started accompanying his wife, a competitive equestrian, to her riding events and photographing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/31/geosnapshot-1.jpg"
+        },
+        {
+            "id": 1193,
+            "title": "Automatically extract text and structured data from documents with Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automatically-extract-text-and-structured-data-from-documents-with-amazon-textract/",
+            "authors": "Kashif Imran, Martin Schade",
+            "tags": "Amazon Comprehend, Amazon Machine Learning, Amazon Textract, Amazon Translate, Artificial Intelligence, Top Posts",
+            "publishedOn": "2019-05-30T00:00:00",
+            "description": "September 2022: Post was reviewed for messaging and accuracy. December 2021: This post has been updated with the latest use cases and capabilities for Amazon Textract.\u00a0 September 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Documents are a primary tool for record keeping, communication, collaboration, and transactions across many industries, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/30/textract-ga-4.gif"
+        },
+        {
+            "id": 1194,
+            "title": "Powering a search engine with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/powering-a-search-engine-with-amazon-sagemaker/",
+            "authors": "Evan Harris",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-05-29T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. This is a guest post by Evan Harris, Manager of Machine Learning at Ibotta. In their own words, \u201cIbotta is transforming the shopping experience by making it easy for consumers to earn cash back on everyday purchases through a single [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/29/Ibotta-featured-image.png"
+        },
+        {
+            "id": 1195,
+            "title": "Racing tips from AWS DeepRacer League winners in Stockholm, and AWS DeepRacer TV!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/racing-tips-from-aws-deepracer-league-winners-in-stockholm-and-aws-deepracer-tv/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-05-24T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league. There are races at 21 AWS Summits globally and select Amazon events, as well as monthly virtual races happening online and open for racing. No matter where you are in the world or your skill level, you can join the league. Get a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/24/deepracer-amsterdam-1.jpg"
+        },
+        {
+            "id": 1196,
+            "title": "Exploring data warehouse tables with machine learning and Amazon SageMaker notebooks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/exploring-data-warehouse-tables-with-machine-learning-and-amazon-sagemaker-notebooks/",
+            "authors": "Veronika Megler",
+            "tags": "Amazon EMR, Amazon Redshift, Amazon SageMaker, Analytics, Artificial Intelligence",
+            "publishedOn": "2019-05-17T00:00:00",
+            "description": "Are you a data scientist with data warehouse tables that you\u2019d like to explore in your machine learning (ML) environment? If so, read on. In this post, I show you how to perform exploratory analysis on large datasets stored in your data warehouse and cataloged in your AWS Glue Data Catalog from your Amazon SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/16/data-warehouse-sagemaker-1.gif"
+        },
+        {
+            "id": 1197,
+            "title": "The AWS DeepRacer League virtual circuit is underway\u2014win a trip to re:Invent 2019!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deepracer-league-virtual-circuit-is-underway-win-a-trip-to-reinvent-2019/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-05-10T00:00:00",
+            "description": "The competition is heating up in the AWS DeepRacer League, the world\u2019s first global autonomous racing league, open to anyone. The first round is almost halfway home, now that 9 of the 21 stops on the summit circuit schedule are complete. Developers continue to build new machine learning skills and post winning times to the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/10/dr-london-madrid-2.gif"
+        },
+        {
+            "id": 1198,
+            "title": "Build end-to-end machine learning workflows with Amazon SageMaker and Apache Airflow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/",
+            "authors": "Rajesh Thallam, Martin Dominguez",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-05-08T00:00:00",
+            "description": "October 2021: Updating for airflow versions with MWAA supported releases, simplifying dependencies and adding Aurora Serverless as a DB option. In addition, new features (Session Manager integration and CloudFormation Stack status for the EC2 deployment) have been added. Machine learning (ML) workflows orchestrate and automate sequences of ML tasks by enabling data collection and transformation. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/17/sagemaker-airflow-2.gif"
+        },
+        {
+            "id": 1199,
+            "title": "More ways to compete and win in the AWS DeepRacer League and two new champions!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/more-ways-to-compete-and-win-in-the-aws-deepracer-league-and-two-new-champions/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-05-03T00:00:00",
+            "description": "It\u2019s been a busy week for the AWS DeepRacer League. The world\u2019s first global autonomous racing league allows machine learning developers of all skill levels to get hands-on with machine learning in a fun and exciting way. On April 29 2019, the virtual circuit of the AWS DeepRacer League opened. The virtual circuit allows racers [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/04/deepracer-sydney-1-945x630.jpg"
+        },
+        {
+            "id": 1200,
+            "title": "Build a custom data labeling workflow with Amazon SageMaker\u00a0Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-data-labeling-workflow-with-amazon-sagemaker-ground-truth/",
+            "authors": "Nitin Wagh, Hareesh Lakshmi Narayanan, Ted Lee",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-05-03T00:00:00",
+            "description": "Good machine learning models are built with large volumes of high-quality training data. But creating this kind of training data is expensive, complicated, and time-consuming. To help a model learn how to make the right decisions, you typically need a human to manually label the training data. Amazon SageMaker Ground Truth provides labeling workflows for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1201,
+            "title": "Amazon SageMaker Object2Vec adds new features that support automatic negative sampling and speed up training",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-object2vec-adds-new-features-that-support-automatic-negative-sampling-and-speed-up-training/",
+            "authors": "Cheng Tang, Bing Xiang, Patrick Ng, Ramesh Nallapati",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-05-01T00:00:00",
+            "description": "Today, we introduce four new features of Amazon SageMaker Object2Vec: negative sampling, sparse gradient update, weight-sharing, and comparator operator customization. Amazon SageMaker Object2Vec is a general-purpose neural embedding algorithm. If you\u2019re unfamiliar with Object2Vec, see the blog post Introduction to Amazon SageMaker Object2Vec, which\u00a0provides a high-level overview of the algorithm with links to four notebook [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1202,
+            "title": "End document drudgery with Alkymi\u2019s AWS-powered automated data entry and document insights",
+            "url": "https://aws.amazon.com/blogs/machine-learning/end-document-drudgery-with-alkymis-aws-powered-automated-data-entry-and-document-insights/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-04-30T00:00:00",
+            "description": "Even in today\u2019s highly digital workplace, documents are often manually processed in many enterprise workflows, including workflows in financial services. \u00a0Alkymi, founded by a team from Bloomberg and x.ai, enlists automation to streamline this laborious and error-prone work. Using deep learning models hosted on Amazon SageMaker, Alkymi identifies patterns and relationships in unstructured data and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/29/alkymi-1.gif"
+        },
+        {
+            "id": 1203,
+            "title": "Running Java-based deep learning with MXNet and Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-java-based-deep-learning-with-mxnet-and-amazon-elastic-inference/",
+            "authors": "Zach Kimberg, Denis Davydenko, Sam Skalicky",
+            "tags": "Amazon Elastic Inference, Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2019-04-29T00:00:00",
+            "description": "The new release of MXNet 1.4 for Amazon Elastic Inference now includes Java and Scala support. Apache MXNet is an open source deep learning framework used to build, train, and deploy deep neural networks. Amazon Elastic Inference (EI) is a service that allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/26/mxnet-aei-1.gif"
+        },
+        {
+            "id": 1204,
+            "title": "Udacity\u2019s Machine Learning Nanodegree now includes Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/udacitys-machine-learning-nanodegree-now-includes-amazon-sagemaker/",
+            "authors": "Sally Revell",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-04-24T00:00:00",
+            "description": "During the past few years, the demand for machine learning specialists and engineers has soared. These two roles now rank among the top emerging jobs on LinkedIn. More recently, machine learning is being adopted by a wide range of industries, from medical diagnostic companies to finance firms and more. Udacity created the Intro to Machine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/24/udacity-1.gif"
+        },
+        {
+            "id": 1205,
+            "title": "An introduction to reinforcement learning with AWS RoboMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/an-introduction-to-reinforcement-learning-with-aws-robomaker/",
+            "authors": "Tristan Li, Robert Meagher, Wayne Davis",
+            "tags": "AWS RoboMaker, Robotics",
+            "publishedOn": "2019-04-24T00:00:00",
+            "description": "Robotics often involves training complex sequences of behaviors. For example, consider a robot designed to follow or track another object. Although the goal is easy to describe (the closer the robot is to the object, the better), creating the logic that accomplishes the task is much more difficult. Reinforcement learning (RL), an emerging Machine Learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/23/robomaker.jpg"
+        },
+        {
+            "id": 1206,
+            "title": "Use the wisdom of crowds with Amazon SageMaker Ground Truth to annotate data more accurately",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-the-wisdom-of-crowds-with-amazon-sagemaker-ground-truth-to-annotate-data-more-accurately/",
+            "authors": "Sheeraz Ahmad, Lauren Moos",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-04-23T00:00:00",
+            "description": "Amazon SageMaker Ground Truth helps you quickly build highly accurate training datasets for machine learning (ML). To get your data labeled, you can use your own workers, a choice of vendor-managed workforces that specialize in data labeling, or a public workforce powered by Amazon Mechanical Turk. The public workforce is large and economical but as [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/19/wisdom-of-crowds-3.gif"
+        },
+        {
+            "id": 1207,
+            "title": "The AWS DeepRacer League triple \u2013 Three countries, three races and three new champions!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deepracer-league-triple-three-countries-three-races-and-three-new-champions/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-04-22T00:00:00",
+            "description": "The AWS DeepRacer League is the first of its kind global autonomous racing league, providing developers of all skill levels with the opportunity to get hands-on with machine learning and have fun doing it. In another first for the AWS DeepRacer League, the race went truly global on April 17, 2019 as three live racing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/22/deepracer-triple-1.jpg"
+        },
+        {
+            "id": 1208,
+            "title": "Analyze content with Amazon Comprehend and Amazon SageMaker notebooks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyze-content-with-amazon-comprehend-and-amazon-sagemaker-notebooks/",
+            "authors": "Pranati Sahu",
+            "tags": "Amazon Comprehend, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-04-19T00:00:00",
+            "description": "In today\u2019s connected world, it\u2019s important for companies to monitor social media channels to protect their brand and customer relationships. Companies try to learn about their customers, products, and services through social media, emails, and other communications. Machine learning (ML) models can help address some of these needs. However, the process to build and train [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/03/analyze-twitter-comprehend-sagemaker-1.gif"
+        },
+        {
+            "id": 1209,
+            "title": "Amazon Polly adds Arabic language support",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-adds-arabic-language-support/",
+            "authors": "Marta Smolarek",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-04-17T00:00:00",
+            "description": "On April 17th, 2019 Amazon Polly launched an Arabic female text-to-speech (TTS) voice called Zeina. This voice is clear and natural-sounding. The voice masters tongue twisters, and it can whisper, just like all other Amazon Polly products. Let\u2019s hear Zeina introduce herself: Listen\u00a0now Voiced by Amazon Polly Hello, my name is Zeina, I am the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1210,
+            "title": "Your guide to Amazon re:MARS: Jeff Bezos, Andrew Ng, Robert Downey Jr. and more\u2026",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-amazon-remars-jeff-bezos-andrew-ng-robert-downey-jr-and-more/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-04-16T00:00:00",
+            "description": "The inaugural Amazon re:MARS event pairs the best of what\u2019s possible today with perspectives on the future of machine learning, automation, robotics, and space travel. Based on the exclusive MARS event founded by Jeff Bezos, Amazon re:MARS brings together the world of business and technology in a premier thought-leadership event. With more than 100 sessions, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/16/reMars.png"
+        },
+        {
+            "id": 1211,
+            "title": "Developer at the AWS DeepRacer League Singapore race sets new world record lap time",
+            "url": "https://aws.amazon.com/blogs/machine-learning/developer-at-the-aws-deepracer-league-singapore-race-sets-new-world-record-lap-time/",
+            "authors": "Sally Revell",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-04-12T00:00:00",
+            "description": "The AWS DeepRacer League, the world\u2019s first autonomous racing league open to developers of all skill levels held a race in Singapore this week (April 10-11). This was the third of twenty races on the worldwide Summit Circuit.\u00a0 Following the first two races in Santa Clara, California and Paris, France, excitement was building to see [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/12/SingaporeSummit2.png"
+        },
+        {
+            "id": 1212,
+            "title": "Protagonist adopts Amazon Translate to expand analytics to multilingual content",
+            "url": "https://aws.amazon.com/blogs/machine-learning/protagonist-adopts-amazon-translate-to-expand-analytics-to-multilingual-content/",
+            "authors": "Bryan Pelley",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-04-12T00:00:00",
+            "description": "This is a guest blog post by Bryan Pelley, COO of Protagonist. Protagonist, in their own words \u201chelps organizations communicate more effectively through a data-driven understanding of public discourse.\u201d Protagonist is a pioneer of the art and science of understanding narratives. We define narratives as the beliefs that an audience holds that are \u00a0composed of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/04/protagonist-2.gif"
+        },
+        {
+            "id": 1213,
+            "title": "Extending Amazon SageMaker factorization machines algorithm to predict top x recommendations",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extending-amazon-sagemaker-factorization-machines-algorithm-to-predict-top-x-recommendations/",
+            "authors": "Zohar Karnin, Rama Thamman",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-04-05T00:00:00",
+            "description": "Amazon SageMaker gives you the flexibility that you need to address sophisticated business problems with your machine learning workloads. Built-in algorithms help you get started quickly. \u00a0In this blog post we\u2019ll outline how you can extend the built-in factorization machines algorithm to predict top x recommendations. This approach is ideal when you want to generate [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

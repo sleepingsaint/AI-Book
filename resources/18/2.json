@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10097,
+            "title": "How to Deploy YOLOv7 to Jetson Nano",
+            "url": "https://blog.roboflow.com/how-to-deploy-yolov7-to-jetson-nano/",
+            "authors": "Ananth Vivekanand",
+            "tags": null,
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "We'll be creating a dataset, training a YOLOv7 computer vision model, and deploying it to a Jetson Nano to perform real-time object detection.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/rf_yolov7_to_jetson_nano_og.png"
+        },
+        {
+            "id": 10098,
+            "title": "Open Source at Roboflow",
+            "url": "https://blog.roboflow.com/open-source-computer-vision-roboflow/",
+            "authors": "Thomas Hansen",
+            "tags": null,
+            "publishedOn": "2022-07-27T00:00:00",
+            "description": "We host and maintain open source repos to make computer vision more accessible and provide the best tools to integrate vision into your apps",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/open_source_at_roboflow.png"
+        },
+        {
+            "id": 10099,
+            "title": "How To Train SegFormer on a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-segformer-on-a-custom-dataset-with-pytorch-lightning/",
+            "authors": "Paul Guerrie",
+            "tags": null,
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "In this post, we will walk through how to train SegFormer on a custom dataset using Pytorch Lightning to classify every pixel in an image.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/how_to_train_segformer-1.webp"
+        },
+        {
+            "id": 10100,
+            "title": "Deploy a Computer Vision Model: A How-To Guide",
+            "url": "https://blog.roboflow.com/deploy-tab/",
+            "authors": "Lukas Kelsey-Friedemann",
+            "tags": null,
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Production ready inference capabilities for videos, images, and using your webcam with code snippets for API and edge deployment options.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_new_deploy_tab.jpg"
+        },
+        {
+            "id": 10101,
+            "title": "Launch: Edge Tiling During Inference",
+            "url": "https://blog.roboflow.com/edge-tiling-during-inference/",
+            "authors": "Jon Cheng",
+            "tags": null,
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "Roboflow supports tiling during training to detect small objects in large images, and now you can use tiling during inference on edge devices.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_launch_edge_tiling_during_inference.webp"
+        },
+        {
+            "id": 10102,
+            "title": "What is YOLOv7? A Complete Guide.",
+            "url": "https://blog.roboflow.com/yolov7-breakdown/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-07-17T00:00:00",
+            "description": "In this post, we break down the internals of how YOLOv7 works and the novel research involved in its construction.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/YOLOv7_explained.webp"
+        },
+        {
+            "id": 10103,
+            "title": "Using Polygon Annotations for Object Detection in Computer Vision",
+            "url": "https://blog.roboflow.com/polygons-object-detection/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": "Polygon annotations give a model information about the objects which helps them learn more and make better predictions. Learn how to apply this!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_polygon_annotations_for_object_detection.webp"
+        },
+        {
+            "id": 10104,
+            "title": "What is TensorFlow Lite?",
+            "url": "https://blog.roboflow.com/what-is-tensorflow-lite/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "TensorFlow Lite, often referred to as TFLite, is an open source library developed by Google for deploying machine learning models to edge devices",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/Blog-Image-Template--Fall-2021---2-.jpg"
+        },
+        {
+            "id": 10105,
+            "title": "How to Use Polygon Annotation and Labeling with Roboflow",
+            "url": "https://blog.roboflow.com/polygon-annotation-labeling/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "Polygons have traditionally been used for training image segmentation models, but they can also improve the training of object detection models. Object detection models are typically much faster and more widely supported, so they're still the best choice for solving many problems.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_polygon_annotations.jpg"
+        },
+        {
+            "id": 10106,
+            "title": "How to Train YOLOv7 on a Custom Dataset",
+            "url": "https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-07-13T00:00:00",
+            "description": "Follow this tutorial to learn how you can train a Yolov7 model with custom data for you next computer vision project.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_train_yolov7_custom_data2-1.jpg"
+        },
+        {
+            "id": 10107,
+            "title": "Launch: Search Datasets and Assign Jobs",
+            "url": "https://blog.roboflow.com/launch-search-and-assign/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-07-11T00:00:00",
+            "description": "Assigning specific data to be annotated helps improve models by filtering the data and can improve efficiency for dedicated labeling teams",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/rf_launch_search_and_assign.jpg"
+        },
+        {
+            "id": 10108,
+            "title": "Roboflow Changelog: May & June 2022",
+            "url": "https://blog.roboflow.com/changelog-may-june-2022/",
+            "authors": "Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-07-06T00:00:00",
+            "description": "Each month, we share a recap of product and company updates. Here's what's new for May and June in 2022!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/Roboflow-May-and-June-2022-Changelog-2.jpg"
+        },
+        {
+            "id": 10109,
+            "title": "What's New in YOLOv6?",
+            "url": "https://blog.roboflow.com/yolov6/",
+            "authors": "Jacob Solawetz, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "In this blog, we give a rundown of the changes made in YOLOv6 and our initial assessments of the new network and repository.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/whats_new_in_yolov6.jpg"
+        },
+        {
+            "id": 10110,
+            "title": "How to Train YOLOv6 on a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-yolov6-on-a-custom-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "Let's dive in to how to train YOLOv6 on a custom dataset. In this post, we'll cover all you need to train YOLOv6.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/07/yolov6-custom-data.webp"
+        },
+        {
+            "id": 10111,
+            "title": "Launch: Roboflow Native iOS SDK",
+            "url": "https://blog.roboflow.com/roboflow-ios-sdk/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "Constrained bandwith? Left without the option to extend production data beyond your local network or corporate firewall? In need of real-time inference speeds on the edge? The Roboflow Mobile iOS SDK is a great option if you are developing an iOS application.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/roboflow_ios_sdk.png"
+        },
+        {
+            "id": 10112,
+            "title": "Using Gaming Datasets for Game Automation with Computer Vision",
+            "url": "https://blog.roboflow.com/game-automation-computer-vision/",
+            "authors": "Ananth Vivekanand",
+            "tags": null,
+            "publishedOn": "2022-06-29T00:00:00",
+            "description": "How to bring computer vision to Minecraft using Roboflow, an end-to-end computer vision platform.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/game_automation_with_computer_vision.webp"
+        },
+        {
+            "id": 10113,
+            "title": "What is TensorFlow?",
+            "url": "https://blog.roboflow.com/what-is-tensorflow/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-06-29T00:00:00",
+            "description": "TensorFlow is Googles open source machine learning framework and is used to implement machine learning models",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/Blog-Image-Template--Fall-2021---1-.webp"
+        },
+        {
+            "id": 10114,
+            "title": "Open source datasets and pre-trained models for computer vision",
+            "url": "https://blog.roboflow.com/computer-vision-datasets-and-apis/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-06-28T00:00:00",
+            "description": "90,000 Datasets and 7,000 Pre-trained Models Available for Object Detection, Image Recognition, and Image Classification",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/rf_universe_updates.png"
+        },
+        {
+            "id": 10115,
+            "title": "CVPR 2022 - Best Papers and Highlights",
+            "url": "https://blog.roboflow.com/cvpr-2022-best-papers-and-highlights/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2022-06-24T00:00:00",
+            "description": "In this post, we take the opportunity to reflect on the computer vision research landscape at CVPR 2022 and highlight our favorite research papers and themes.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/cvpr_2022_best_papers.jpg"
+        },
+        {
+            "id": 10116,
+            "title": "What is cuDNN?",
+            "url": "https://blog.roboflow.com/what-is-cudnn/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-06-24T00:00:00",
+            "description": "NVIDIA CUDA Deep Neural Network (cuDNN) is a GPU-accelerated library of primitives for deep neural networks.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/Blog-Image-Template--Fall-2021-.webp"
+        },
+        {
+            "id": 10117,
+            "title": "Launch: Label Only Role-based Access Control",
+            "url": "https://blog.roboflow.com/labeler-access/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "Role-based access controls give users in Roboflow specific access within the annotation workflow - starting with Labelers.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/roboflow_rbac_labeler_only.webp"
+        },
+        {
+            "id": 10118,
+            "title": "Train and Deploy YOLOS Transformer On a Custom Dataset",
+            "url": "https://blog.roboflow.com/train-yolos-transformer-custom-dataset/",
+            "authors": "Jacob Solawetz, Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-06-15T00:00:00",
+            "description": "In this post, we showcase training and deploying YOLOS end to end, from labeling your data, to training your model, to deploying your model on AWS for inference.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/roboflow_howto_yolos_custom_data.jpg"
+        },
+        {
+            "id": 10119,
+            "title": "Roboflow Now Available in the Microsoft Azure Marketplace",
+            "url": "https://blog.roboflow.com/roboflow-now-available-in-the-microsoft-azure-marketplace/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-06-08T00:00:00",
+            "description": "Microsoft Azure customers can access Roboflow to take advantage of the end-to-end computer vision platform",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/roboflow_microsoft_azure_marketplace2.png"
+        },
+        {
+            "id": 10120,
+            "title": "Detecting Lucky Charm Marshmallows Using Computer Vision - They're Mathematically Delicious",
+            "url": "https://blog.roboflow.com/object-detection-food-manufacturing/",
+            "authors": "Jake Barone Malis",
+            "tags": null,
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "This tutorial shows how to use object detection to identify food objects and produce a computer vision model to use with a robotic arm.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/06/Screen-Shot-2022-06-16-at-10.13.07-AM.webp"
+        },
+        {
+            "id": 10121,
+            "title": "Building an Autonomous Vehicle with Object Detection",
+            "url": "https://blog.roboflow.com/autonomous-vehicle-object-detection/",
+            "authors": "Guilherme Mertens de Andrade",
+            "tags": null,
+            "publishedOn": "2022-06-06T00:00:00",
+            "description": "Object detection for autonomous vehicles is much simpler, needing to detect only cones.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/IMG_2284.webp"
+        },
+        {
+            "id": 10122,
+            "title": "Launch: Instance Segmentation Project Training and Inference",
+            "url": "https://blog.roboflow.com/instance-segmentation-training-roboflow/",
+            "authors": "Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-05-19T00:00:00",
+            "description": "What Is Instance Segmentation?Instance segmentation, also known as image segmentation, is the computer vision task of recognizing objects in images along with their associated shape. In other words, it is the outline of a given object. It also includes a bounding box surrounding the object in addition to its",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/roboflow_launch_instance_seg_train_infer.png"
+        },
+        {
+            "id": 10123,
+            "title": "Launch: Roboflow OAK pip package",
+            "url": "https://blog.roboflow.com/roboflow-oak-pip-package/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2022-05-19T00:00:00",
+            "description": "roboflowoak pip package lets you natively interface with your Roboflow workspace through Python scripts and deploy to an OAK device.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/roboflowOAK_pip_package.png"
+        },
+        {
+            "id": 10124,
+            "title": "Boxing Punch Detection Using Computer Vision",
+            "url": "https://blog.roboflow.com/boxing-punch-detection-computer-vision/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-05-17T00:00:00",
+            "description": "Computer vision is able to capture the type of punches being thrown during a boxing match or workout as well as total punches in a round.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/rf_boxing_punch_detection_with_cv2.jpg"
+        },
+        {
+            "id": 10125,
+            "title": "Recipe for a Company On-site",
+            "url": "https://blog.roboflow.com/remote-company-onsite-ideas/",
+            "authors": "Kate Wagner",
+            "tags": null,
+            "publishedOn": "2022-05-16T00:00:00",
+            "description": "We want our remote-first culture to be the best option for our team, not just because of the pandemic or anything else. We choose to be remote.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/remote-on-site-headr.jpeg"
+        },
+        {
+            "id": 10126,
+            "title": "YOLOv5 for Oriented Object Detection",
+            "url": "https://blog.roboflow.com/yolov5-for-oriented-object-detection/",
+            "authors": "Kelly M.",
+            "tags": null,
+            "publishedOn": "2022-05-11T00:00:00",
+            "description": "Oriented bounding boxes are bounding boxes rotated to better fit the objects represented on an angle. Follow this guide to learn more.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/05/oriented_bounding_box.webp"
+        }
+    ]
+}

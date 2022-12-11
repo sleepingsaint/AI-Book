@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3204,
+            "title": "Pre-trained Stacked Model to Detect Pneumonia",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/pneumonia-detection-with-pre-trained-stacked-model/",
+            "authors": "Thetechwriters",
+            "tags": "Beginner, Deep Learning, Healthcare, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-10T00:00:00",
+            "description": "In this article, we will learn to design a model using pre-trained stacked which takes X-Ray pictures and detect if the person has Pneumonia.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Pneumonia-Detection-using-CNN.jpg"
+        },
+        {
+            "id": 3205,
+            "title": "How to maintain your GitHub Profile?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/github-profile-and-its-maintenance/",
+            "authors": "Deepak Moonat",
+            "tags": "Beginner, Data Science, Github",
+            "publishedOn": "2021-12-10T00:00:00",
+            "description": "This blog focuses on developing your GitHub profile. Why it is important to have it? And how you can maintain it?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/machine_learning_github.jpg"
+        },
+        {
+            "id": 3206,
+            "title": "Implementing Computer Vision \u2013 Face Detection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/implementing-computer-vision-face-detection/",
+            "authors": "Andre Vianna",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-09T00:00:00",
+            "description": "In this first article, we will focus on the introduction of computer vision, and the face detection application based on the Python OpenCV",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/21364Computer-Vision-Thumbnail-Resize.png"
+        },
+        {
+            "id": 3207,
+            "title": "Top 10 Articles Published in 2021 on Analytics Vidhya",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/top-10-articles-published-in-2021-on-analytics-vidhya/",
+            "authors": "Sakshi Raheja",
+            "tags": "Algorithm, Data Science, Linear Regression, Listicle, Python",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "We organize a \u2018Blogathon\u2019 where the writers submit their entries. Let's take a look at the top 10 articles of data science in 2021.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/38423article_image-scaled.jpg"
+        },
+        {
+            "id": 3208,
+            "title": "Stress Detection using AutoML: FEDOT Framework",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/stress-detection-using-automl-fedot-framework/",
+            "authors": "N_Lakshmi",
+            "tags": "Algorithm, Beginner, Classification, Python",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "In this article, we will learn how stress detection can take place using AutoML. We will use the FEDOT framework.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/face-detection-4760361_1920.jpg"
+        },
+        {
+            "id": 3209,
+            "title": "What does numpy.random.seed() do?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/what-does-numpy-random-seed-do/",
+            "authors": "Mohamed Thoufeeq Rahman",
+            "tags": "Beginner, Libraries, Python",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "Are you wondering what does numpy.random.seed() do?\u00a0Are you confused about what number to feed in the seed?\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/04_thumb.jpg"
+        },
+        {
+            "id": 3210,
+            "title": "Understanding hypothesis testing through an end to end case study",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/understanding-hypothesis-testing-through-an-end-to-end-case-study/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2021-12-06T00:00:00",
+            "description": "This article was published as a part of the Data Science Blogathon. \u201d The only way to test the hypothesis is to look for all the information that disagrees with it \u2013 Karl Popper\u201c Hypothesis Testing comes under a broader subject of Inferential Statistics where we use data samples to draw inferences on the population [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 3211,
+            "title": "Stock price using LSTM and its implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/stock-price-prediction-using-lstm/",
+            "authors": "Siddharth M",
+            "tags": "Advanced, Deep Learning, Python, Stock Trading",
+            "publishedOn": "2021-12-06T00:00:00",
+            "description": "We will learn to implement the stock price prediction using LSTM. It is a model that increases the memory of recurrent neural networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/732227807104_1578230927_time_analysis_tittle-banner-1.jpg"
+        },
+        {
+            "id": 3212,
+            "title": "Creating ChatBot Using Natural Language Processing in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/creating-chatbot-building-using-python/",
+            "authors": "Sonia Singla",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "A chatBot is an AI program that communicates with users through an app, message, or phone. Build a chatbot with python in this article",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Keyword-Extraction-using-TextRank-and-textaCy.jpg"
+        },
+        {
+            "id": 3213,
+            "title": "Bank Note Authentication using Keras Sequential Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/bank-note-authentication-using-keras-sequential-model/",
+            "authors": "Prateek Majumder",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "Keras is an open-source library that is used to implement ANN in Keras. We will use Keras Sequential Model to authenticate banknotes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/36936neuron.jpg"
+        },
+        {
+            "id": 3214,
+            "title": "Using Django Framework For Making Exciting Data Science Projects \u2013 An Example Use Case",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/using-django-framework-for-making-exciting-data-science-projects-an-example-use-case/",
+            "authors": "Aryan Garg",
+            "tags": "Advanced, Model Deployment, Python",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "Django Framework is used for creating some really exciting data science projects. It is used to code the backend of a webpage in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/31710markus-winkler-Q2J2qQsoYH8-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3215,
+            "title": "Cryptocurrency Price Prediction using ARIMA Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/cryptocurrency-price-prediction-using-arima-model/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Advanced, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "ARIMA Model (AutoRegressive Integrated Moving Average)has 3 parameters p, d, and q accounting for seasonality, trend, and noise in the dataset",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/36499btc.jpg"
+        },
+        {
+            "id": 3216,
+            "title": "Building an End- to-End Data Science App with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/data-science-app-with-python/",
+            "authors": "Andre Vianna",
+            "tags": "Beginner, Data Engineering, Machine Learning, Model Deployment, Python, Streamlit",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "In this article, get a detailed understanding on how to build and deploy your first data science app with Python and Streamlit.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/2548815223web-app-resize.png"
+        },
+        {
+            "id": 3217,
+            "title": "Want to Survive in Data Science: Understand the Basics of Relational Databases",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/want-to-survive-in-data-science-understand-the-basics-of-relational-database/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Database, SQL",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "In this article, I will attempt to explain all of the ideas that you should be familiar with about relational database and how it works",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Functions-for-Data-Analysis-task.jpg"
+        },
+        {
+            "id": 3218,
+            "title": "Landmark Detection with Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/landmark-detection-with-deep-learning/",
+            "authors": "Shikha Gupta",
+            "tags": "Advanced, Deep Learning, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "Landmark detection with deep learning is the mechanism of detecting human-made sculptures, structures, buildings, and monuments.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69371Spacy-Tutorial-Feature-img.png"
+        },
+        {
+            "id": 3219,
+            "title": "How a Math equation is used in building a Linear Regression model?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/linear-regression-model-machine-learning-python/",
+            "authors": "Maha Lakshmi",
+            "tags": "Linear Regression, Machine Learning, Maths, Python, Regression",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "In this article, we will learn how a simple, school-level math equation can be used to develop a linear regression model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/26630linear_Regression.jpeg"
+        },
+        {
+            "id": 3220,
+            "title": "Application of Tree-Based Models for Healthcare analysis \u2013 Breast Cancer Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/application-of-tree-based-models-for-healthcare-analysis/",
+            "authors": "LAVANYA S",
+            "tags": "Algorithm, Beginner, Machine Learning",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "In this article, We will understand the core concepts of the Decision Tree for healthcare analysis and different ensemble techniques.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/41233out3.png"
+        },
+        {
+            "id": 3221,
+            "title": "How do Neural Networks really work?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/how-do-neural-networks-really-work/",
+            "authors": "Daniel Ching",
+            "tags": "Advanced, Deep Learning, Machine Learning, Python",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "Neural networks are a subset of machine learning. People exposed to artificial intelligence generally have a good high-level idea about it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/64630Neural_Networks_2880x1620-2048x1152-1.jpg"
+        },
+        {
+            "id": 3222,
+            "title": "A Comprehensive Guide on Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-data-visualisation-with-power-bi/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Data Visualization, Power BI",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "Power BI is a Microsoft cloud-based business analysis and intelligence service. Lets have a good understanding of Power BI using this guide",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Time-Intelligence-in-Power-BI.jpg"
+        },
+        {
+            "id": 3223,
+            "title": "Dependency Parsing in Natural Language Processing with Examples",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/dependency-parsing-in-natural-language-processing-with-examples/",
+            "authors": "Prashant Sharma",
+            "tags": "Advanced, NLP",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "Dependency Parsing in NLP is an interdisciplinary concept that uses the fundamentals of computational linguistics and Synthetic Intelligence.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/NLP_Hack_Sessions1.jpg"
+        },
+        {
+            "id": 3224,
+            "title": "Evaluating A Classification Model for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/evaluation-of-classification-model/",
+            "authors": "Harsh Kulkarni",
+            "tags": "Beginner, Classification, Maths",
+            "publishedOn": "2021-12-02T00:00:00",
+            "description": "Accuracy is not enough for the evaluation of the classification model. Learn about metrics like confusion matrix, ROC curve, Precision",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/How-to-treat-Class-Imbalance-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 3225,
+            "title": "How to Implement Data Engineering in Practice?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/how-to-implement-data-engineering-in-practice/",
+            "authors": "Andre Vianna",
+            "tags": "Beginner, Data Engineering, Machine Learning, MLops, Python",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "Data Engineering as a subset of Data Science, which receives data from Big Data and prepares them to be used in a Machine Learning Model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/62235Data-Engineering-Thumbnail-2.png"
+        },
+        {
+            "id": 3226,
+            "title": "The Guide to Data Analysis with DuckDB",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/",
+            "authors": "Abid Ali Awan",
+            "tags": "Beginner, Database, Guide, Machine Learning, Python",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "Understand Python API and various ways to read and perform queries in CSV files with SQL\u00a0script in DuckDB with this comprehensive guide.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/473401_GFBJcFL355Fccyb3LaA0Dw-e1638359248575.jpeg"
+        },
+        {
+            "id": 3227,
+            "title": "Different Methods for Calculating Sentiment of Text",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/different-methods-for-calculating-sentiment-score-of-text/",
+            "authors": "Rahul Shah",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "Learn how to analyze the text in order to find its sentiment score with Normalization, Semi-Normalization and Vader in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/Sentiment-Analysis_2.png"
+        },
+        {
+            "id": 3228,
+            "title": "Beginner\u2019s Guide to Ensemble Learning in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-detailed-guide-to-ensemble-learning/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Datasets, Guide, Machine Learning, python",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "Ensemble learning in python is a meta approach that works on predictive performance by mixing different combinations of the prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/54463en.jpg"
+        },
+        {
+            "id": 3229,
+            "title": "Tune ML Models in No Time with Optuna",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/tune-ml-models-in-no-time-with-optuna/",
+            "authors": "Thetechwriters",
+            "tags": "Beginner, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Optuna is the SOTA algorithm for fine-tuning ML and deep learning models. It depends on the Bayesian fine-tuning technique.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/41432featured.png"
+        },
+        {
+            "id": 3230,
+            "title": "Good ETL Practices with Apache Airflow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/good-etl-practices-with-apache-airflow/",
+            "authors": "Andre Vianna",
+            "tags": "Beginner, Data Engineering, Model Deployment, Python",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "ETL is a type of three-step data integration: Extraction, Transformation, Load are processing, used to combine data from multiple sources.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/77545output-onlinepngtools-1.png"
+        },
+        {
+            "id": 3231,
+            "title": "Basic understanding of Time Series Modelling with Auto ARIMAX",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/basic-understanding-of-time-series-modelling-with-auto-arimax/",
+            "authors": "Siddharth M",
+            "tags": "Time Series, Time Series Forecasting, Uncategorized",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Get a thorough understanding of ARIMA and how the Auto ARIMAX model can be used on a stock market dataset to forecast results.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/985591_8Q478bKzRGSb2HSyUcyTsg.jpeg"
+        },
+        {
+            "id": 3232,
+            "title": "String Data Structure in Python | Complete Case study",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/string-data-structure-in-python-complete-case-study/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Python String is a one of the most basic and most important data structure. Learn how to create , access and manipulate strings in depth.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/43331Strings-in-python.png"
+        },
+        {
+            "id": 3233,
+            "title": "How To Containerize Your Data Science Workflow With Docker System",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/how-to-containerize-your-data-science-workflow-with-docker-system/",
+            "authors": "Saikat Mazumder",
+            "tags": "Advanced, Docker, Machine Learning, MLops, Model Deployment",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Docker system makes Machine Learning Engineers' lives much easier. It helps to easily deploy and manage applications by using containers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/33430pexels-photo-3278012.jpeg"
+        }
+    ]
+}

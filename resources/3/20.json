@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2544,
+            "title": "Getting started with Apache Pig!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/getting-started-with-apache-pig/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Data Engineering, Datasets, Guide",
+            "publishedOn": "2022-06-24T00:00:00",
+            "description": "In this article, you will learn about the Apache Pig in details and analyze any type of data present in HDFS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/apache-pig.png"
+        },
+        {
+            "id": 2545,
+            "title": "AI/ML Use Cases for Supply Chain Management (SCM)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/ai-ml-use-cases-for-supply-chain-management-scm/",
+            "authors": "Jayantakut",
+            "tags": "Artificial Intelligence, Beginner, Machine Learning, Use Cases",
+            "publishedOn": "2022-06-24T00:00:00",
+            "description": "In this article, you will study different AI/ML use cases for supply chain management industry. Read more to know!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/machine_learning_use_cases.jpg"
+        },
+        {
+            "id": 2546,
+            "title": "Stop Storing Data in CSVs vs Feather",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/stop-storing-data-in-csvs-vs-feather/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Datasets, Libraries, Python",
+            "publishedOn": "2022-06-24T00:00:00",
+            "description": "In this article, you will understand how feather is faster and help you save significant amount of time and disc space.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2547,
+            "title": "Data Engineering \u2013 A Journal with Pragmatic Blueprint",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/data-engineering-a-journal-with-pragmatic-blueprint/",
+            "authors": "Pavithra Mahalingam",
+            "tags": "Beginner, Data Engineering",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": "In this article, learn about the role of data engineering which is to design the pipeline in a way that we acquire the data without any loss.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/overview-of-data-engineering.jpg"
+        },
+        {
+            "id": 2548,
+            "title": "The DataHour: Writing Reproducible Pipelines for Training Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/the-datahour-writing-reproducible-pipelines-for-training-neural-networks/",
+            "authors": "Dhruv Aggarwal",
+            "tags": "Analytics Vidhya, Announcement, Deep Learning, Videos",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": "In this DataHour session, you will be learning about how to write reusable and reproducible pipelines for training neural networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/og10.png"
+        },
+        {
+            "id": 2549,
+            "title": "Hypothesis Testing in Inferential Statistics",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/hypothesis-testing-in-inferential-statistics/",
+            "authors": "Monica Seles Muwaya",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": "In this article, you will learn about hypothesis testing in inferential statistics and we will explain the 5 steps taken to conduct it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 2550,
+            "title": "Spring Security Oauth2 with Keycloak \u2013 PKCE Authorization Code Flow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/spring-security-oauth2-with-keycloak-pkce-authorization-code-flow/",
+            "authors": "Paul Issack",
+            "tags": "Advanced, Cloud Computing, Python, Web Analytics",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": "In this article, you will learn about spring security with keycloak using proof key code enhanced authorization code flow.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 2551,
+            "title": "Introduction to Energy Analytics 101",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/energy-analytics-101/",
+            "authors": "Nitin Chauhan",
+            "tags": "Beginner, Education, Environmental Sector",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "Want to know the energy analytics of your company? If it consumes a large amount of electricity - ML& AI can boost its performance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/forest-trees-ecology-environment-60062.jpeg"
+        },
+        {
+            "id": 2552,
+            "title": "Gradio App for Detecting Whether the Audio Content is Sexist",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/gradio-app-for-detecting-whether-the-audio-content-is-sexist/",
+            "authors": "Drishti Sharma",
+            "tags": "Audio, Intermediate, Libraries, Python",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "In this article, we will study if the audio content is sexist or not? For this, we will be using gradio app for detection.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/speech-recognition.jpg"
+        },
+        {
+            "id": 2553,
+            "title": "Top 10 Web 3.0 Technologies that will Shape our Future World",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/top-10-web-3-0-technologies-that-will-shape-our-future-world/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Blockchain, Cryptocurrency, Technology, Web 3.0",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "In this article, you will learn about the Web 3.0 technologies which will shape the future. Exciting, isn't it?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/3-1.jpg"
+        },
+        {
+            "id": 2554,
+            "title": "Getting Started with Google Big Query",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/getting-started-with-google-big-query/",
+            "authors": "Chaitanya Shah",
+            "tags": "Advanced, Data Engineering, SQL",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "In this article, you will learn to store a huge amount of data using Google Big Query to gain useful insights from the collected data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/bigquery.png"
+        },
+        {
+            "id": 2555,
+            "title": "GATO \u2013 A New Generalist Artificial Intelligence Agent",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/gato-a-new-generalist-artificial-intelligence-agent/",
+            "authors": "Pradeep T",
+            "tags": "Advanced, Artificial Intelligence, Deep Learning",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "In this article, you will learn about the basic properties of GATO: Generalist Artificial Intelligence Agent.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/98055artificial-intelligence-companies.jpg"
+        },
+        {
+            "id": 2556,
+            "title": "Data Visualisation: Alluvial Diagram vs. Sankey Diagram",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/data-visualisation-alluvial-diagram-vs-sankey-diagram/",
+            "authors": "Lori Gillen",
+            "tags": "Beginner, Data Visualization, Technique",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "In this article, learn two different types of diagrams: Alluvial and Sankey through data visualisation techniques.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 2557,
+            "title": "Handling Streaming Data with Apache Kafka \u2013 A First Look",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/handling-streaming-data-with-apache-kafka-a-first-look/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Big data, Data Engineering, Intermediate, Python",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "We will look at the basics of how Apache Kafka handles streaming data through some coding exercises with Kafka-Python.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Apache-Kafka-A-metaphorical-introduction-to-event-streaming.jpg"
+        },
+        {
+            "id": 2558,
+            "title": "Customer Churn Prediction Using MLlib",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/customer-churn-prediction-using-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Libraries, Python, Spark",
+            "publishedOn": "2022-06-21T00:00:00",
+            "description": "In this blog, we will build the potential model to predict customer churn prediction with the help of PySpark's MLIB library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/customer-churn-edit.jpeg"
+        },
+        {
+            "id": 2559,
+            "title": "Become a Web 3 Developer in 2022",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/become-a-web-3-developer-in-2022/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Blockchain, Interview Questions, Technology, Web 3.0",
+            "publishedOn": "2022-06-21T00:00:00",
+            "description": "Web3 is a blockchain technology where a digital ledger securely records all network transactions. Want to become a web 3.0 developer?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.jpg"
+        },
+        {
+            "id": 2560,
+            "title": "Which is better? Bitcoin Vs Ethereum",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/which-is-better-bitcoin-vs-ethereum/",
+            "authors": "Amrutha K",
+            "tags": "Beginner, Blockchain, Cryptocurrency, Learning Path",
+            "publishedOn": "2022-06-21T00:00:00",
+            "description": "In this article, you will read about the comparison made between ethereal and bitcoin. What are your thoughts? Which is better?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/1-2.jpg"
+        },
+        {
+            "id": 2561,
+            "title": "Getting Started With AWS S3",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/getting-started-with-aws-s3/",
+            "authors": "Purnendu Shukla",
+            "tags": "Advanced, AWS, Cloud Computing, Data Engineering, Guide",
+            "publishedOn": "2022-06-21T00:00:00",
+            "description": "AWS S3, is an Object Level Storage service where the idea is to store different file types in a bucket and access them independently.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2562,
+            "title": "Most Frequently Asked Google Big Query Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/most-frequently-asked-google-big-query-interview-questions/",
+            "authors": "Chaitanya Shah",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Interview Questions, Interviews",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "A big Query data warehouse provides global availability of data, can be connected to the other Google Services.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/bigquery.png"
+        },
+        {
+            "id": 2563,
+            "title": "Is Adult Income Dataset Imbalanced?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/is-adult-income-dataset-imbalanced/",
+            "authors": "Murugesan Narayanaswamy",
+            "tags": "Beginner, Classification, Guide, Machine Learning, Python",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article, learn fundamental concepts pertaining to income dataset and when should we really need to apply imbalance techniques.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/income_expenditure_gaussian.jpg"
+        },
+        {
+            "id": 2564,
+            "title": "Differences Between Web 2.0 and Web 3.0",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/differences-between-web-2-0-and-web-3-0/",
+            "authors": "Amey Band",
+            "tags": "Beginner, Web 3.0",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article, learn the difference between Web 2.0 and Web 3.0. Let's understand how Web 3.0 will help us to advance in technology.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/h-heyerlein-ndja2LJ4IcM-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2565,
+            "title": "Recommender Systems from Scratch!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/recommender-systems-from-scratch/",
+            "authors": "Akash Das",
+            "tags": "Beginner, Recommendation, Technique",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "This article will give you all the details about the recommender systems from a beginner level. So, what are you waiting for?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/Recommendation-Engine-.png"
+        },
+        {
+            "id": 2566,
+            "title": "Web 3.0: The Evolution of Web",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/difference-between-web-2-0-and-web-3-0/",
+            "authors": "Vijay Sharma",
+            "tags": "Beginner, Guide, Web 3.0",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "What is the future of Web 3.0? Read the differences between Web 2.0 and 3.0 and understand the pros and cons of the decentralised web.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/luca-bravo-XJXWbfSo2f0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2567,
+            "title": "What is Web 3.0? Journey from Web 1.0 to Web 3.0",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/what-is-web-3-0-journey-from-web-1-0-to-web-3-0/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Web 3.0",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article, get to know all the buzz about Web 3.0 and entire transition journey from web 1.0 to web 3.0.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/2548815223web-app-resize.png"
+        },
+        {
+            "id": 2568,
+            "title": "Understanding Loss Function in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/understanding-loss-function-in-deep-learning/",
+            "authors": "Shankar297",
+            "tags": "Deep Learning, Intermediate, Machine Learning, Maths",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "The loss function is very important in machine learning or deep learning. It is a metric or technique that helps you to evaluate the model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/Loss-Functions-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 2569,
+            "title": "Artificial General Intelligence Safety: Distillation of Richard Ngo",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/distillation-of-richard-ngos-artificial-general-intelligence-safety/",
+            "authors": "Sejal Anand",
+            "tags": "Advanced, Artificial Intelligence, Guide",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "Richard Ngo has summarised some compelling arguments for the existential threat Artificial General Intelligence pose in future.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/artificial-intelligence-comp42.jpg"
+        },
+        {
+            "id": 2570,
+            "title": "QR Codes Creation Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/qr-codes-creation-using-python/",
+            "authors": "Shrish Mohadarkar",
+            "tags": "Beginner, Libraries, Python",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article, you will learn how to create QR codes using Python and learn to embed your data into QR codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/61214python.jpg"
+        },
+        {
+            "id": 2571,
+            "title": "Speed up Pandas in Python with Modin",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/speed-up-pandas-in-python-with-modin/",
+            "authors": "Aakash93 Makwana",
+            "tags": "Intermediate, Libraries, Python",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article we will learn in depth about what is Modin and how one can harness modin to speed up pandas in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/40248PandasGUI.png"
+        },
+        {
+            "id": 2572,
+            "title": "Building a Blockchain in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/building-a-blockchain-in-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Advanced, Blockchain, Python",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "In this article we will learn in depth about what is blockchain and how to build a blockchain using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2573,
+            "title": "The Most Comprehensive Guide On Explainable AI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/the-most-comprehensive-guide-on-explainable-ai-xai/",
+            "authors": "Mohamed Bakrey",
+            "tags": "Artificial Intelligence, Intermediate, Python",
+            "publishedOn": "2022-06-19T00:00:00",
+            "description": "Are you a artificial intelligence fanatic? if yes this article is perfect for you where in we talk about what is Explainable AI and etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/42847artificial-intelligence-4389372_1920.jpg"
+        }
+    ]
+}

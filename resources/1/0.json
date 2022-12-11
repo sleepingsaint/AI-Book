@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15080,
+            "title": "Exafunction supports AWS Inferentia to unlock best price performance for machine learning inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference/",
+            "authors": "Nicholas Jiang, Anshul Ramachandran, Jonathan Ma, Prem Nair, Shruti Koparkar",
+            "tags": "AWS Inferentia, Customer Solutions",
+            "publishedOn": "2022-12-08T00:00:00",
+            "description": "Across all industries, machine learning (ML) models are getting deeper, workflows are getting more complex, and workloads are operating at larger scales. Significant effort and resources are put into making these models more accurate since this investment directly results in better products and experiences. On the other hand, making these models run efficiently in production [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/exafunction-aws-inferentia.jpg"
+        },
+        {
+            "id": 15081,
+            "title": "Damage assessment using Amazon SageMaker geospatial capabilities and custom SageMaker models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/damage-assessment-using-amazon-sagemaker-geospatial-capabilities-and-custom-sagemaker-models/",
+            "authors": "Aaron Sengstacken",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-12-08T00:00:00",
+            "description": "In this post, we show how to train, deploy, and predict natural disaster damage with Amazon SageMaker with geospatial capabilities. We use the new SageMaker geospatial capabilities to generate new inference data to test the model. Many government and humanitarian organizations need quick and accurate situational awareness when a disaster strikes. Knowing the severity, cause, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/damage-assessment-geospatial.jpg"
+        },
+        {
+            "id": 15082,
+            "title": "Deploy Amazon SageMaker Autopilot models to serverless inference endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/",
+            "authors": "Praveen Chamarthi",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Autopilot, Technical How-to",
+            "publishedOn": "2022-12-08T00:00:00",
+            "description": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. Autopilot can also deploy trained models to real-time inference endpoints automatically. If you have workloads with spiky or unpredictable traffic patterns that can tolerate cold starts, then deploying [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/deploy-sagemaker-autopilot-models-serverless-endpoints.jpg"
+        },
+        {
+            "id": 15086,
+            "title": "Prepare data from Amazon EMR for machine learning using Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-amazon-emr-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+            "authors": "Ajjay G, Isha Dua",
+            "tags": "Amazon EMR, Amazon SageMaker, Amazon SageMaker Data Wrangler, Analytics, Artificial Intelligence",
+            "publishedOn": "2022-12-08T00:00:00",
+            "description": "Data preparation is a principal component of machine learning (ML) pipelines. In fact, it is estimated that data professionals spend about 80 percent of their time on data preparation. In this intensive competitive market, teams want to analyze data and extract more meaningful insights quickly. Customers are adopting more efficient and visual ways to build [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/prepare-data-from-emr-for-ml.jpg"
+        },
+        {
+            "id": 15071,
+            "title": "Improve scalability for Amazon Rekognition stateless APIs using multiple regions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions/",
+            "authors": "Sharon Li, Vaibhav Shah",
+            "tags": "Advanced (300), Amazon Rekognition, Technical How-to",
+            "publishedOn": "2022-12-07T00:00:00",
+            "description": "In previous blog post, we described an end-to-end identity verification solution in a single AWS Region. The solution uses the Amazon Rekognition APIs DetectFaces for face detection and CompareFaces for face comparison. We think of those APIs as stateless APIs because they don\u2019t depend on an Amazon Rekognition face collection. They\u2019re also idempotent, meaning repeated [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/07/improve-scalability-rekognition-multiple-regions.jpg"
+        },
+        {
+            "id": 15072,
+            "title": "Use your own training scripts and automatically select the best model using hyperparameter optimization in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-your-own-training-scripts-and-automatically-select-the-best-model-using-hyperparameter-optimization-in-amazon-sagemaker/",
+            "authors": "Sam Price",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-12-07T00:00:00",
+            "description": "The success of any machine learning (ML) pipeline depends not just on the quality of model used, but also the ability to train and iterate upon this model. One of the key ways to improve an ML model is by choosing better tunable parameters, known as hyperparameters. This is known as hyperparameter optimization (HPO). However, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/07/use-your-own-training-scripts-sagemaker.jpg"
+        },
+        {
+            "id": 15059,
+            "title": "Build a robust text-based toxicity predictor",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-robust-text-based-toxicity-predictor/",
+            "authors": "Yi Xiang, Yanjun Qi",
+            "tags": "Advanced (300), Amazon ML Solutions Lab, Artificial Intelligence, Technical How-to",
+            "publishedOn": "2022-12-06T00:00:00",
+            "description": "With the growth and popularity of online social platforms, people can stay more connected than ever through tools like instant messaging. However, this raises an additional concern about toxic speech, as well as cyber bullying, verbal harassment, or humiliation. Content moderation is crucial for promoting healthy online discussions and creating healthy online environments. To detect [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/06/build-a-robust-toxicity-detector.jpg"
+        },
+        {
+            "id": 15046,
+            "title": "Metrics for evaluating an identity verification solution",
+            "url": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-an-identity-verification-solution/",
+            "authors": "Mike Ames, Amit Gupta, Zuhayr Raghib, Marcel Pividal",
+            "tags": "Amazon Rekognition, Artificial Intelligence, Best Practices",
+            "publishedOn": "2022-12-05T00:00:00",
+            "description": "Globally, there has been an accelerated shift toward frictionless digital user experiences. Whether it\u2019s registering at a website, transacting online, or simply logging in to your bank account, organizations are actively trying to reduce the friction their customers experience while at the same time enhance their security, compliance, and fraud prevention measures. The shift toward [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/05/metrics-identity-verification.jpg"
+        },
+        {
+            "id": 15027,
+            "title": "Introducing one-step classification and entity recognition with Amazon Comprehend for intelligent document processing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/",
+            "authors": "Anjan Biswas, Godwin Sahayaraj Vincent, Wrick Talukdar",
+            "tags": "Advanced (300), Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2022-12-02T00:00:00",
+            "description": "\u201cIntelligent document processing (IDP) solutions extract data to support automation of high-volume, repetitive document processing tasks and for analysis and insight. IDP uses natural language technologies and computer vision to extract data from structured and unstructured content, especially from documents, to support automation and augmentation.\u201d\u00a0 \u2013 Gartner The goal of Amazon\u2019s intelligent document processing (IDP) [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/02/one-step-classification-comprehend.jpg"
+        },
+        {
+            "id": 15001,
+            "title": "Protecting Consumers and Promoting Innovation \u2013 AI Regulation and Building Trust in Responsible AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/",
+            "authors": "Nicole Foster",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides huge opportunities to be a force for good and drive economic growth. It can help scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield more crops. AI allows us to make sense of our world as never before\u2014and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/ai-regulation-and-building-trust-in-responsible-ai.jpg"
+        },
+        {
+            "id": 15008,
+            "title": "How xarvio Digital Farming Solutions accelerates its development with Amazon SageMaker geospatial capabilities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-xarvio-digital-farming-solutions-accelerates-its-development-with-amazon-sagemaker-geospatial-capabilities/",
+            "authors": "Julian Blau, Antonio Rodriguez",
+            "tags": "Agriculture, Amazon SageMaker, Case Study, Customer Solutions, Sustainability",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "This is a guest post co-written by Julian Blau, Data Scientist at xarvio Digital Farming Solutions; BASF Digital Farming GmbH, and Antonio Rodriguez, AI/ML Specialist Solutions Architect at AWS xarvio Digital Farming Solutions is a brand from BASF Digital Farming GmbH, which is part of BASF Agricultural Solutions division. xarvio Digital Farming Solutions offers precision [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/18/ML-11873-Featured.png"
+        },
+        {
+            "id": 15010,
+            "title": "Organize machine learning development using shared spaces in SageMaker Studio for real-time collaboration",
+            "url": "https://aws.amazon.com/blogs/machine-learning/organize-machine-learning-development-using-shared-spaces-in-sagemaker-studio-for-real-time-collaboration/",
+            "authors": "Sean Morgan, Arkaprava De, Han Zhang, Kunal Jha",
+            "tags": "Amazon Elastic File System (EFS), Amazon SageMaker, Intermediate (200)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. Within an Amazon SageMaker Domain, users can provision a personal Amazon SageMaker Studio IDE application, which [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/organize-machine-learning-development-shared-spaces.jpg"
+        },
+        {
+            "id": 15011,
+            "title": "Minimize the production impact of ML model updates with Amazon SageMaker shadow testing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/minimize-the-production-impact-of-ml-model-updates-with-amazon-sagemaker-shadow-testing/",
+            "authors": "Raghu Ramesha, Qiyun Zhao, Qingwei Li, Tarun Sairam",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker Autopilot",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Amazon SageMaker now allows you to compare the performance of a new version of a model serving stack with the currently deployed version prior to a full production rollout using a deployment safety practice known as shadow testing. Shadow testing can help you identify potential configuration errors and performance issues before they impact end-users. With [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/minimize-the-production-impact-of-ml-models-shadow-testing.jpg"
+        },
+        {
+            "id": 15012,
+            "title": "Improve governance of your machine learning models with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/",
+            "authors": "Kirit Thadaka, Sahil Saini, Marc Karp, Raghu Ramesha, Ram Vittal",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "As companies are increasingly adopting machine learning (ML) for their mainstream enterprise applications, more of their business decisions are influenced by ML models. As a result of this, having simplified access control and enhanced transparency across all your ML models makes it easier to validate that your models are performing well and take action when [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/improve-governance-ml-models-sagemaker.jpg"
+        },
+        {
+            "id": 15013,
+            "title": "Define customized permissions in minutes with Amazon SageMaker Role Manager",
+            "url": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager/",
+            "authors": "Giuseppe Zappia, Arvind Sowmyan, Ozan Eken, Ram Vittal",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Administrators of machine learning (ML) workloads are focused on ensuring that users are operating in the most secure manner, striving towards a principal of least privilege design. They have a wide variety of personas to account for, each with their own unique sets of needs, and building the right sets of permissions policies to meet [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/define-customized-permission-sagemaker-role-manager.jpg"
+        },
+        {
+            "id": 15014,
+            "title": "Build an agronomic data platform with Amazon SageMaker geospatial capabilities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-agronomic-data-platform-with-amazon-sagemaker-geospatial-capabilities/",
+            "authors": "Will Conrad, Bishesh Adhikari, Priyanka Mahankali, Ron Osborne",
+            "tags": "Amazon SageMaker, Foundational (100)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "The world is at increasing risk of global food shortage as a consequence of geopolitical conflict, supply chain disruptions, and climate change. Simultaneously, there\u2019s an increase in overall demand from population growth and shifting diets that focus on nutrient- and protein-rich food. To meet the excess demand, farmers need to maximize crop yield and effectively [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/agronomic-data-platform-sagemaker.jpg"
+        },
+        {
+            "id": 15015,
+            "title": "Separate lines of business or teams with multiple Amazon SageMaker domains",
+            "url": "https://aws.amazon.com/blogs/machine-learning/separate-lines-of-business-or-teams-with-multiple-amazon-sagemaker-domains/",
+            "authors": "Sean Morgan, Arkaprava De, Han Zhang, Kunal Jha",
+            "tags": "Amazon SageMaker, Foundational (100)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) that enables data scientists and developers to perform every step of the ML workflow, from preparing data to building, training, tuning, and deploying models. To access SageMaker Studio, Amazon SageMaker Canvas, or other Amazon ML environments like RStudio on Amazon SageMaker, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/separate-lines-of-business-sagemaker.jpg"
+        },
+        {
+            "id": 15016,
+            "title": "Operationalize your Amazon SageMaker Studio notebooks as scheduled notebook jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/operationalize-your-amazon-sagemaker-studio-notebooks-as-scheduled-notebook-jobs/",
+            "authors": "Sean Morgan, Sumedha Swamy, Edward Sun",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Amazon SageMaker Studio provides a fully managed solution for data scientists to interactively build, train, and deploy machine learning (ML) models. In addition to the interactive ML experience, data workers also seek solutions to run notebooks as ephemeral jobs without the need to refactor code as Python modules or learn DevOps tools and best practices [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/operationalize-your-sagemaker-notebooks.jpg"
+        },
+        {
+            "id": 15020,
+            "title": "Run notebooks as batch jobs in Amazon SageMaker Studio Lab",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-notebooks-as-batch-jobs-in-amazon-sagemaker-studio-lab/",
+            "authors": "Mike Chambers, Michele Monclova",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Recently, the Amazon SageMaker Studio launched an easy way to run notebooks as batch jobs that can run on a recurring schedule. Amazon SageMaker Studio Lab also supports this feature, enabling you to run notebooks that you develop in SageMaker Studio Lab in your AWS account. This enables you to quickly scale your machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/run-notebooks-as-batch-jobs.jpg"
+        },
+        {
+            "id": 15021,
+            "title": "Interactive data prep widget for notebooks powered by Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/interactive-data-prep-widget-for-notebooks-powered-by-amazon-sagemaker-data-wrangler/",
+            "authors": "Parth Patel, buzecd, Isha Dua, Hariharan Suresh",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler, Intermediate (200)",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "According to a 2020 survey of data scientists conducted by Anaconda, data preparation is one of the critical steps in machine learning (ML) and data analytics workflows, and often very time consuming for data scientists. Data scientists spend about 66% of their time on data preparation and analysis tasks, including loading (19%), cleaning (26%), and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/interactive-data-prep-widget.jpg"
+        },
+        {
+            "id": 15022,
+            "title": "Illustrative notebooks in Amazon SageMaker JumpStart",
+            "url": "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/",
+            "authors": "Raju Penmatcha",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Amazon SageMaker JumpStart is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. JumpStart also offers example notebooks that use Amazon SageMaker features like spot instance training and experiments over a large variety of model types and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/illustrative-notebooks-sagemaker-jumpstart.jpg"
+        },
+        {
+            "id": 14983,
+            "title": "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/",
+            "authors": "Vasi Philomin, Peter Hallinan",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation\u2014to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition that we must all build responsibly. At AWS, we think responsible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg"
+        },
+        {
+            "id": 14989,
+            "title": "Launch Amazon SageMaker Autopilot experiments directly from\u00a0within Amazon SageMaker Pipelines to easily automate MLOps workflows",
+            "url": "https://aws.amazon.com/blogs/machine-learning/launch-amazon-sagemaker-autopilot-experiments-directly-from-within-amazon-sagemaker-pipelines-to-easily-automate-mlops-workflows/",
+            "authors": "Janisha Anand, Marcelo Aberle, Geremy Cohen, Shenghua Yue",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence",
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "Amazon SageMaker Autopilot, a low-code machine learning (ML) service that automatically builds, trains, and tunes the best ML models based on tabular data, is now integrated with Amazon SageMaker Pipelines, the first purpose-built continuous integration and continuous delivery (CI/CD) service for ML. This enables the automation of an end-to-end flow of building ML models using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/launch-sagemaker-autopilot-experiments-directly.jpg"
+        },
+        {
+            "id": 14990,
+            "title": "AI21 Jurassic-1 foundation model is now available on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/",
+            "authors": "Karthik Bharathy, Tomer Asida",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "Today we are excited to announce that AI21 Jurassic-1 (J1) foundation models are available for customers using Amazon SageMaker. Jurassic-1 models are highly versatile, capable of both human-like text generation, as well as solving complex tasks such as question answering, text classification, and many others. You can easily try out this model and use it [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai21-jurassic-sagemaker.jpg"
+        },
+        {
+            "id": 14995,
+            "title": "Stability AI builds foundation models on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/",
+            "authors": "Aditya Bindal",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "We\u2019re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough technologies. With Amazon SageMaker, Stability AI will build AI models on compute clusters [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
+        },
+        {
+            "id": 14959,
+            "title": "Deploy an MLOps solution that hosts your model endpoints in AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda/",
+            "authors": "Laurens van der Maas, Kangkang Wang, Selena Tabbara, Michael Wallner",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence, Manufacturing, Sustainability",
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "In 2019, Amazon co-founded the climate pledge. The pledge\u2019s goal is to achieve net zero carbon by 2040. This is 10 years earlier than the Paris agreement outlines. Companies who sign up are committed to regular reporting, carbon elimination, and credible offsets. At the time of this writing, 377 companies have signed the climate pledge, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/deploy-an-mlops-lambda.jpg"
+        },
+        {
+            "id": 14968,
+            "title": "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
+            "authors": "Bratin Saha",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business use cases to automate repetitive and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg"
+        },
+        {
+            "id": 14952,
+            "title": "Enterprise administrative controls, simple sign-up, and expanded programming language support for Amazon CodeWhisperer",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enterprise-administrative-controls-simple-sign-up-and-expanded-programming-language-support-for-amazon-codewhisperer/",
+            "authors": "Bharadwaj Tanikella, Ankur Desai",
+            "tags": "Amazon CodeWhisperer",
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "Amazon CodeWhisperer is a machine learning (ML)-powered service that helps improve developer productivity by generating code recommendations based on developers\u2019 prior code and comments. Today, we are excited to announce that AWS administrators can now enable CodeWhisperer for their organization with single sign-n (SSO) authentication. Administrators can easily integrate CodeWhisperer with their existing workforce identity [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/enterprise-admin-control-code-whisperer.jpg"
+        },
+        {
+            "id": 14953,
+            "title": "Introducing Amazon Kendra tabular search for HTML Documents",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-tabular-search-for-html-documents/",
+            "authors": "Vikas Shah",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they\u2019re looking for, even when it\u2019s scattered across multiple locations and content repositories within your organization. Amazon Kendra users can now quickly find the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/kendra-tabular-search.jpg"
+        },
+        {
+            "id": 14935,
+            "title": "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/",
+            "authors": "Andrew Ellul, Elina Lesyk, Mariano Kamp",
+            "tags": "Amazon SageMaker, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn\u2019t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task. These deferred design decisions manifest themselves [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/25/optimize-hyperparameters-sagemaker.jpg"
+        }
+    ]
+}

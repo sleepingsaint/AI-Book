@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10067,
+            "title": "What is an Autoencoder?",
+            "url": "https://blog.roboflow.com/what-is-an-autoencoder-computer-vision/",
+            "authors": "Petru Potrimba",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": "An autoencoder is an artificial neural network used to learn data encodings in an unsupervised manner.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--3-.webp"
+        },
+        {
+            "id": 10068,
+            "title": "What is Object Tracking in Computer Vision?",
+            "url": "https://blog.roboflow.com/what-is-object-tracking-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-10-21T00:00:00",
+            "description": "Object tracking is an application of computer vision. The program detects objects and then tracks their movements in space or across frames.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--2-.webp"
+        },
+        {
+            "id": 10069,
+            "title": "Top 6 Manufacturing Datasets for Computer Vision",
+            "url": "https://blog.roboflow.com/top-manufacturing-datasets-computer-vision/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "This post will show you 6 of the best open source datasets for computer vision tasks in the manufacturing industry.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_universe_manufacturing_datasets2.jpg"
+        },
+        {
+            "id": 10070,
+            "title": "Accelerate PyTorch Models via OpenVINO\u2122 Integration with Torch-ORT",
+            "url": "https://blog.roboflow.com/accelerate-pytorch-openvino-torch-ort/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "Inference on Intel\u00ae hardware by integrating OpenVINO\u2122 toolkit with Torch-ORT while maintaining the native PyTorch experience.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/Blog-Image-Template--1-.webp"
+        },
+        {
+            "id": 10071,
+            "title": "How to Use Computer Vision to Control OBS Studio",
+            "url": "https://blog.roboflow.com/use-computer-vision-to-control-obs/",
+            "authors": "Tyler Odenthal",
+            "tags": null,
+            "publishedOn": "2022-10-18T00:00:00",
+            "description": "Run a computer vision model in your web browser that controls OBS Studio with objects and gestures.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/use-roboflow-cv-to-control-obs2.png"
+        },
+        {
+            "id": 10072,
+            "title": "Launch: Cloning Images from Open Source Datasets",
+            "url": "https://blog.roboflow.com/use-open-source-computer-vision-datasets/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "Clone any of the 100+ million open source images in Roboflow Universe and add them into your Roboflow account",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_launch_cloning_images.jpg"
+        },
+        {
+            "id": 10073,
+            "title": "Roboflow Joins AWS Global Startup Program and Becomes AWS ISV Accelerate Partner",
+            "url": "https://blog.roboflow.com/roboflow-aws-partnership-isv/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "Roboflow joins the AWS Global Startup Program and becomes an AWS ISV Accelerate Partner",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_aws_startup_program_partner.png"
+        },
+        {
+            "id": 10074,
+            "title": "Sharing Your Computer Vision Project on Roboflow Universe",
+            "url": "https://blog.roboflow.com/sharing-on-roboflow-universe/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "Roboflow Universe is the best place to host your public computer vision datasets and share them with the community for free.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/rf_universe_shareproject.jpg"
+        },
+        {
+            "id": 10075,
+            "title": "Semantic Segmentation vs. Instance Segmentation: Explained",
+            "url": "https://blog.roboflow.com/difference-semantic-segmentation-instance-segmentation/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "This article explains the two types of segmentations and compares and contrasts possible distinctions between instance and semantic segmentation.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/semantic-vs-instance-segmentation.jpg"
+        },
+        {
+            "id": 10076,
+            "title": "Launch: Use YouTube Videos for Training Data and Inference Testing",
+            "url": "https://blog.roboflow.com/youtube-video-computer-vision/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "Roboflow supports using Youtube video links for uploading data and testing model performance in the browser.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/10/launch_youtube_for_training_and_inference.jpg"
+        },
+        {
+            "id": 10077,
+            "title": "Launch: Smart Polygon Labeling",
+            "url": "https://blog.roboflow.com/automated-polygon-labeling-computer-vision/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "Polygon annotations are used for training instance segmentation or semantic segmentation models and can improve model accuracy.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/roboflow_smart_polygon.jpg"
+        },
+        {
+            "id": 10078,
+            "title": "Object Detection vs. Image Classification vs. Keypoint Detection",
+            "url": "https://blog.roboflow.com/object-detection-vs-image-classification-vs-keypoint-detection/",
+            "authors": "Mrinal Walia",
+            "tags": null,
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "This blog will help you understand object detection, image classification, and keypoint detection.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/object_v_classification_v_keypoint.jpg"
+        },
+        {
+            "id": 10079,
+            "title": "Supervised Learning vs. Unsupervised Learning: Explained",
+            "url": "https://blog.roboflow.com/supervised-learning-vs-unsupervised-learning/",
+            "authors": "Petru Potrimba",
+            "tags": null,
+            "publishedOn": "2022-09-28T00:00:00",
+            "description": "In this blog post, we explain supervised and unsupervised learning and discuss their differences alongside their advantages and drawbacks.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/supervised_v_unsupervised_learning.png"
+        },
+        {
+            "id": 10080,
+            "title": "Measure Distance in Photos and Videos Using Computer Vision",
+            "url": "https://blog.roboflow.com/computer-vision-measure-distance/",
+            "authors": "Tyler Odenthal",
+            "tags": null,
+            "publishedOn": "2022-09-21T00:00:00",
+            "description": "By the end of this blog post, you will be able to calculate distance between two objects in an image or video.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/Blog-Image-Template--Fall-2021---8-.jpg"
+        },
+        {
+            "id": 10081,
+            "title": "How to Train YOLOv5 Instance Segmentation on a Custom Dataset",
+            "url": "https://blog.roboflow.com/train-yolov5-instance-segmentation-custom-dataset/",
+            "authors": "Paul Guerrie, Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-09-21T00:00:00",
+            "description": "This blog will walk through how to train YOLOv5 for instance segmentation on a custom dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/rf_train_yolov5_instance_segmentation.jpg"
+        },
+        {
+            "id": 10082,
+            "title": "Launch: Test Computer Vision Models Locally",
+            "url": "https://blog.roboflow.com/locally-deploy-computer-vision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-09-20T00:00:00",
+            "description": "Learn how to deploy your computer vision model on your development machine with only a few lines of code.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/Blog-Image-Template--Fall-2021---1-.png"
+        },
+        {
+            "id": 10083,
+            "title": "Using Computer Vision with Drones for Georeferencing",
+            "url": "https://blog.roboflow.com/georeferencing-drone-videos/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "Learn how to train a computer vision model to detect objects and combine with a video from a drone to plot object detections on a map",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/rf_computer_vision_georeferencing2--1-.jpg"
+        },
+        {
+            "id": 10084,
+            "title": "Roboflow Changelog: July & August 2022",
+            "url": "https://blog.roboflow.com/changelog-july-august-2022/",
+            "authors": "Mohamed Traore, Mat Winegarden",
+            "tags": null,
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "Each month, we share a recap of product and company updates. In this post, we detail Roboflow's updates from July and August 2022.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/changelog_JulAug2022.jpeg"
+        },
+        {
+            "id": 10085,
+            "title": "Roboflow now available in the AWS Marketplace",
+            "url": "https://blog.roboflow.com/roboflow-aws-marketplace/",
+            "authors": "Mark McQuade, Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "Roboflow\u2019s computer vision platform is transforming the way businesses use computer vision and can now be purchased through the AWS Marketplace",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/Blog-Image-Template--Fall-2021---6-.jpg"
+        },
+        {
+            "id": 10086,
+            "title": "How I use Computer Vision and Twilio to Guarantee Availability at Busy Public Tennis Courts",
+            "url": "https://blog.roboflow.com/computer-vision-twilio-notifications/",
+            "authors": "Jacob Witt",
+            "tags": null,
+            "publishedOn": "2022-09-07T00:00:00",
+            "description": "This guide will show you how to create a computer vision application that detects people playing tennis and sends a text notification.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/rf_stop_waiting_for_tennis_courts-min.png"
+        },
+        {
+            "id": 10087,
+            "title": "Train Activity Recognition Models Using Spectrograms and Computer Vision",
+            "url": "https://blog.roboflow.com/spectrograms-computer-vision/",
+            "authors": "Mohamed Traore, Jeremy Park, Sanjana Banerjee",
+            "tags": null,
+            "publishedOn": "2022-09-05T00:00:00",
+            "description": "As Ph.D. students in the Active Robotics Sensing Lab (ARoS) at NC State under the supervision of Dr. Edgar Lobaton, we developed in conjunction with The Engineering Place at NC State a set of activities to walk high school students through the entire computer vision pipeline.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/09/Blog-Image-Template--Fall-2021---5-.jpg"
+        },
+        {
+            "id": 10088,
+            "title": "WTF COCO - The Weird Images that Underpin Modern Computer Vision Models",
+            "url": "https://blog.roboflow.com/coco-dataset-image-search/",
+            "authors": "Francesco, Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-08-30T00:00:00",
+            "description": "Do you know what is inside the COCO dataset? This post helps you query COCO directly, no login or understanding of computer vision required.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/roboflow_wtf_coco2.jpg"
+        },
+        {
+            "id": 10089,
+            "title": "How to Train YOLOv5-Classification on a Custom Dataset",
+            "url": "https://blog.roboflow.com/train-yolov5-classification-custom-data/",
+            "authors": "Paul Guerrie, Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "This blog will walk through how to train YOLOv5 for Classification on a custom dataset.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/Blog-Image-Template--Fall-2021---3-.jpg"
+        },
+        {
+            "id": 10090,
+            "title": "How to Use S3 in Your Computer Vision Pipeline",
+            "url": "https://blog.roboflow.com/how-to-use-s3-computer-vision-pipeline/",
+            "authors": "Mark McQuade",
+            "tags": null,
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "In this blog, we will show you how to use AWS S3  in conjunction with Roboflow to store and share your image data across platforms.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/how_to_use_s3_in_cv_pipeline2.png"
+        },
+        {
+            "id": 10091,
+            "title": "Launch: Dataset Search",
+            "url": "https://blog.roboflow.com/dataset-search/",
+            "authors": "Trevor Lynn",
+            "tags": null,
+            "publishedOn": "2022-08-17T00:00:00",
+            "description": "Roboflow has been used to manage and label 90k datasets containing 66 million images and now you can use text search to understand those datasets",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/rf_launch_dataset_search.jpg"
+        },
+        {
+            "id": 10092,
+            "title": "Building Custom Computer Vision Models with NVIDIA TAO Toolkit and Roboflow",
+            "url": "https://blog.roboflow.com/nvidia-tao-toolkit-roboflow/",
+            "authors": "Ananth Vivekanand",
+            "tags": null,
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "NVIDIA's TAO Toolkit provides a framework for fine-tuning popular computer vision models using your own data. In this tutorial, we'll be demonstrating how to use Roboflow to curate a high-quality computer vision dataset to use with NVIDIA's TAO Toolkit.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/custom_cv_models_w_nvidia_tao_and_roboflow.png"
+        },
+        {
+            "id": 10093,
+            "title": "Using Object Detection to Trigger Automated Email Alerts",
+            "url": "https://blog.roboflow.com/object-detection-jetson-nano-python/",
+            "authors": "Ananth Vivekanand",
+            "tags": null,
+            "publishedOn": "2022-08-08T00:00:00",
+            "description": "In this tutorial, we'll show you how to use object detection to identify specific configurations within an image to trigger email notifications",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/rf_object_detection_email_trigger2.png"
+        },
+        {
+            "id": 10094,
+            "title": "Launch: Deploy Computer Vision Models to a Raspberry Pi",
+            "url": "https://blog.roboflow.com/raspberry-pi-computer-vision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "Roboflow supports deploying to Raspberry Pi via our Inference Server for computer vision tasks like object detection.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/roboflow_raspberry_pi_support.webp"
+        },
+        {
+            "id": 10095,
+            "title": "Develop like a Pro with NVIDIA + Docker + VS Code + PyTorch",
+            "url": "https://blog.roboflow.com/nvidia-docker-vscode-pytorch/",
+            "authors": "Francesco",
+            "tags": null,
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "See how to install NVIDIA drivers, docker & nvidia docker, run gpu accelerated containers with PyTorch, develop with VSCode within the container",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/developing_w_nvidia_docker_vs-code_pytorch.jpg"
+        },
+        {
+            "id": 10096,
+            "title": "Use Raspberry Pi and Luxonis OAK to Deploy Vision Models in Robotics",
+            "url": "https://blog.roboflow.com/raspberry-pi-luxonis-oak-computer-vision/",
+            "authors": "Ananth Vivekanand",
+            "tags": null,
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "With Roboflow and Luxonis OAK, you can develop and run powerful computer vision models on your robots.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/08/raspberrypi_oak_deploy_computer_vision_robotics.webp"
+        }
+    ]
+}

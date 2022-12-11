@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14960,
+            "title": "Causal Confounds in Sequential Decision Making",
+            "url": "https://blog.ml.cmu.edu/2022/11/28/causal-confounds-in-sequential-decision-making/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "A standard assumption in sequential decision making is that we observe everything required to make good decisions. In practice however, this isn't always the case. We discuss two specific examples (temporally correlated noise (a) and unobserved contexts (c)) that have stymied the use of IL/RL algori",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/11/Screen-Shot-2022-11-14-at-10.02.30-PM-970x319.png"
+        },
+        {
+            "id": 14894,
+            "title": "How do Authors\u2019 Perceptions about their Papers Compare with Co-authors\u2019 Perceptions and Peer-review Decisions?",
+            "url": "https://blog.ml.cmu.edu/2022/11/22/neurips2021-author-perception-experiment/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "NeurIPS 2021 Author Perception Experiment\n\n\n\nAlina Beygelzimer, Yann N. Dauphin, Percy Liang, Jennifer Wortman Vaughan(NeurIPS 2021 Program Chairs)\n\n\n\nCharvi Rastogi, Ivan Stelmakh, Zhenyu Xue, Hal Daum\u00e9 III, Emma Pierson, and Nihar B. Shah\n\n\n\nThere is a considerable body of research on peer review.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/11/cover-938x625.png"
+        },
+        {
+            "id": 13782,
+            "title": "Tackling Diverse Tasks with Neural Architecture Search",
+            "url": "https://blog.ml.cmu.edu/2022/10/14/tackling-diverse-tasks-with-neural-architecture-search/",
+            "authors": null,
+            "tags": "Automl, Deep learning, Machine learning, Research",
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "DASH searches for the optimal kernel size and dilation rate efficiently from a large set of options for each convolutional layer in a CNN backbone. The resulting model can achieve task-specific feature extraction and work as well as hand-designed expert architectures, making DASH an effective tool f",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/08/dash-1.gif"
+        },
+        {
+            "id": 13783,
+            "title": "Tracking Any Pixel in a Video",
+            "url": "https://blog.ml.cmu.edu/2022/09/09/tracking-any-pixel-in-a-video/",
+            "authors": null,
+            "tags": "Computer vision, Deep learning, Machine learning, Research",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "We upgrade pixels into PIPs: \"Persistent Independent Particles\". With this representation, we track any pixel over time, and overcome visibility issues with a learned temporal prior.\n\n\n\n\n\n\n\nMotion estimation is a fundamental task of computer vision, with extremely broad applications. By tracking som",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/08/pup_long_compressed.gif"
+        },
+        {
+            "id": 13784,
+            "title": "Long-term Dynamics of Fairness Intervention in Connection Recommender Systems",
+            "url": "https://blog.ml.cmu.edu/2022/09/02/long-term-dynamics-of-fairness-intervention-in-connection-recommender-systems/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-09-02T00:00:00",
+            "description": "Figure 1: Modeled recommendation cycle. We demonstrate how enforcing group-fairness in every recommendation slate separately does not necessarily promote equity in second order variables of interest like network size.\n\n\n\nConnection recommendation is at the heart of user experience in many online soc",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/09/fimage-970x555.png"
+        },
+        {
+            "id": 13785,
+            "title": "Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs",
+            "url": "https://blog.ml.cmu.edu/2022/08/26/recurrent-model-free-rl-can-be-a-strong-baseline-for-many-pomdps-2/",
+            "authors": null,
+            "tags": "Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2022-08-26T00:00:00",
+            "description": "Recurrent model-free RL is competitive with more sophisticated methods on many partially-observed tasks, provided that some design decisions are made carefully.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/08/barplot_Normalized_return_td3-gru-64-oa-separate_ppo_gru-VRM-a2c_gru-Oracle-Markovian-Random-max_x1500000-945x625.png"
+        },
+        {
+            "id": 13786,
+            "title": "Galaxies on Graph Neural Networks",
+            "url": "https://blog.ml.cmu.edu/2022/08/19/galaxies-on-graph-neural-networks/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-08-19T00:00:00",
+            "description": "The current accelerated expansion of the Universe is driven by the mysterious dark energy. Upcoming astronomical imaging surveys, such as LSST at Rubin Observatory, are set to provide unprecedented precise measurement of cosmological parameters, including this dark energy, using measurements such as",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/05/Screen-Shot-2022-05-06-at-16.29.41-970x468.png"
+        },
+        {
+            "id": 13787,
+            "title": "auton-survival: An Open-Source Package for Regression, Counterfactual Estimation, Evaluation and Phenotyping Censored Time-to-Event Data",
+            "url": "https://blog.ml.cmu.edu/2022/08/05/auton-survival-an-open-source-package-for-regression-counterfactual-estimation-evaluation-and-phenotyping-censored-time-to-event-data/",
+            "authors": null,
+            "tags": "Educational, Machine learning",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "Real-world decision-making often requires reasoning about when an event will occur. The overarching goal of such reasoning is to help aid decision-making for optimal triage and subsequent intervention. Such problems involving estimation of Times-to-an-Event frequently arise across multiple applicati",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/08/auton_survival_teaser-pdf.jpg"
+        },
+        {
+            "id": 13788,
+            "title": "Does AutoML work for diverse tasks?",
+            "url": "https://blog.ml.cmu.edu/2022/07/07/automl-for-diverse-tasks/",
+            "authors": null,
+            "tags": "Artificial intelligence, Automl, Deep learning, Machine learning, Research",
+            "publishedOn": "2022-07-07T00:00:00",
+            "description": "Over the past decade, machine learning (ML) has grown rapidly in both popularity and complexity. Driven by advances in deep neural networks, ML is now being applied far beyond its traditional domains like computer vision and text processing, with applications in areas as diverse as solving partial d",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/07/FeaturedImage.001.png"
+        },
+        {
+            "id": 13789,
+            "title": "Deep Attentive Variational Inference",
+            "url": "https://blog.ml.cmu.edu/2022/05/27/deep-attentive-variational-inference/",
+            "authors": null,
+            "tags": "Computer vision, Deep learning, Machine learning, Research",
+            "publishedOn": "2022-05-27T00:00:00",
+            "description": "Figure 1: Overview of a local variational layer (left) and an attentive variational layer (right) proposed in this post. Attention blocks in the variational layer are responsible for capturing long-range statistical dependencies in the latent space of the hierarchy.\n\n\n\nGenerative models are a class",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/05/drawing-1-1.svg"
+        },
+        {
+            "id": 13790,
+            "title": "An Experimental Design Perspective on Model-Based Reinforcement Learning",
+            "url": "https://blog.ml.cmu.edu/2022/05/06/barl/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-05-06T00:00:00",
+            "description": "Reinforcement learning (RL) has achieved astonishing successes in domains where the environment is easy to simulate. For example, in games like Go or those in the Atari library, agents can play millions of games in the course of days to explore the environment and find superhuman policies. However,",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/04/barl-cartoon%20(1)-970x546.png"
+        },
+        {
+            "id": 13791,
+            "title": "Two Experiments in Peer Review: Posting Preprints and Citation Bias",
+            "url": "https://blog.ml.cmu.edu/2022/04/01/peer_review_experiments_2022/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-04-01T00:00:00",
+            "description": "There is increasing interest in computer science and elsewhere to understand and improve peer review (see here for an overview). With this motivation, we conducted two experiments regarding peer review which we summarize in this blog post.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2022/04/Screenshot-2022-04-01-at-16.14.50-970x512.png"
+        },
+        {
+            "id": 13792,
+            "title": "Assessing Generalization of SGD via Disagreement",
+            "url": "https://blog.ml.cmu.edu/2022/03/04/assessing-generalization-of-sgd-via-disagreement/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-03-04T00:00:00",
+            "description": "Imagine training a deep network twice with two different random seeds on the same data, and then measuring the rate at which they disagree on unlabeled test points. Naively, they can disagree with one another with probability anywhere between zero and twice the error rate. But surprisingly, in pract",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/12/1-970x523.jpg"
+        },
+        {
+            "id": 13793,
+            "title": "Why Spectral Normalization Stabilizes GANs: Analysis and Improvements",
+            "url": "https://blog.ml.cmu.edu/2022/01/21/why-spectral-normalization-stabilizes-gans-analysis-and-improvements/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2022-01-21T00:00:00",
+            "description": "Figure 1: Training instability is one of the biggest challenges in training GANs. Despite the existence of successful heuristics like Spectral Normalization (SN) for improving stability, it is poorly-understood why they work. In our research, we theoretically explain why SN stabilizes GAN training.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/12/feature_image-1-970x328.png"
+        },
+        {
+            "id": 13794,
+            "title": "Improving RL with Lookahead: Learning Off-Policy with Online Planning",
+            "url": "https://blog.ml.cmu.edu/2022/01/07/loop/",
+            "authors": null,
+            "tags": "Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2022-01-07T00:00:00",
+            "description": "Overview of LOOP: LOOP reduces dependency on value errors by using an H-step Lookahead Policy that plans online using learned dynamics with a terminal value function. The value function is efficiently learned by a model-free off-policy algorithm using the transitions collected in the environment whe",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/11/Screen-Shot-2021-10-31-at-8.03.21-PM-970x574.png"
+        },
+        {
+            "id": 13795,
+            "title": "An Energy-based Perspective on Learning Observation Models",
+            "url": "https://blog.ml.cmu.edu/2021/12/17/learning-observation-models/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-12-17T00:00:00",
+            "description": "Robots perceive the rich world around them through the lens of their sensors. Each sensor observation is a tiny window into the world that provides only a partial, simplified view of reality. To complete their tasks, robots combine multiple readings from sensors into an internal task-specific repres",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/11/coverInferenceLearning-1-970x394.png"
+        },
+        {
+            "id": 13796,
+            "title": "Understanding User Interfaces with Screen Parsing",
+            "url": "https://blog.ml.cmu.edu/2021/12/10/understanding-user-interfaces-with-screen-parsing/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-12-10T00:00:00",
+            "description": "This blog post summarizes our paper Screen Parsing: Towards Reverse Engineering of UI Models from Screenshots, which was published in the proceedings of UIST 2021. [This blog post was cross-posted in the ACM UIST 2021 Blog on 10/22/2021.]\n\n\n\nThe Benefits of Machines that Understand User Interfaces",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/11/1ODBmbHSwFRMgGTreeZLegw.gif"
+        },
+        {
+            "id": 13797,
+            "title": "Carnegie Mellon University at NeurIPS 2021",
+            "url": "https://blog.ml.cmu.edu/2021/12/06/carnegie-mellon-university-at-neurips-2021/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-12-06T00:00:00",
+            "description": "Carnegie Mellon University is proud to present 92 papers in the main conference and 9 papers in the datasets and benchmarks track at the 35th Conference on Neural Information Processing Systems (NeurIPS 2021), which will be held virtually this week. Additionally, CMU faculty and students are co-orga",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/12/neurips2021_image-970x334.jpg"
+        },
+        {
+            "id": 13798,
+            "title": "PASS: Performance-Adaptive Sampling Strategy for Graph Convolutional Networks",
+            "url": "https://blog.ml.cmu.edu/2021/12/03/pass-performance-adaptive-sampling-strategy-for-graph-convolutional-networks/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-12-03T00:00:00",
+            "description": "On LinkedIn, people are commonly connected with members from the same field who are likely to share skills and/or job preferences. Graph Convolutional Networks (GCNs) leverage this feature of the LinkedIn network and make better job recommendations by aggregating information from a member's connecti",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/12/pass_image-970x440.png"
+        },
+        {
+            "id": 13799,
+            "title": "Safety Envelopes using Light Curtains with Probabilistic Guarantees",
+            "url": "https://blog.ml.cmu.edu/2021/11/19/active-safety-envelopes-using-light-curtains-with-probabilistic-guarantees/",
+            "authors": null,
+            "tags": "Artificial intelligence, Computer vision, Deep learning, Machine learning, Research",
+            "publishedOn": "2021-11-19T00:00:00",
+            "description": "The safety envelope (in green) is an imaginary surface that separates the robot from all obstacles in its environment. As long as the robot never intersects the safety envelope, it is guaranteed to not collide with any obstacle. Our task is to estimate this envelope.",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/11/smaller-featured-image.gif"
+        },
+        {
+            "id": 13800,
+            "title": "Analyzing and Improving the Optimization Landscape of Noise-Contrastive Estimation",
+            "url": "https://blog.ml.cmu.edu/2021/11/05/analyzing-and-improving-the-optimization-landscape-of-noise-contrastive-estimation/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "Example of an extremely flat loss landscape on Gaussian mean estimation: starting from the noise Q (orange), the NCE loss (blue) flattens out quickly before reaching the ground truth distribution P* (green).\n\n\n\nIntroduction\n\n\n\nDensity estimation is the task of estimating the probability density func",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/11/G2d_pdf_10_-30_v2-970x572.png"
+        },
+        {
+            "id": 13801,
+            "title": "Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation",
+            "url": "https://blog.ml.cmu.edu/2021/10/29/compression-transduction-and-creation-a-unified-framework-for-evaluating-natural-language-generation/",
+            "authors": null,
+            "tags": "Machine learning, Natural language processing, Research",
+            "publishedOn": "2021-10-29T00:00:00",
+            "description": "Our framework classifies language generation tasks into compression, transduction, and creation (left), and unifies the evaluation (middle) of key quality aspects with the common operation of information alignment (right).",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/10/unified_illustration_blog_final_2.005-970x459.png"
+        },
+        {
+            "id": 13802,
+            "title": "When Curation Becomes Creation: Algorithms, microcontent, and the vanishing distinction between platforms and creators",
+            "url": "https://blog.ml.cmu.edu/2021/10/01/when-curation-becomes-creation-algorithms-microcontent-and-the-vanishing-distinction-between-platforms-and-creators/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-10-01T00:00:00",
+            "description": "[This blog post was cross-posted in the Approximately Correct Blog on 7/2/2021.]\n\n\n\nTo appear in Communications of the ACM (CACM) and available on acm.org.\n\n\n\nEver since social activity on the Internet began migrating from the wilds of the open web to the walled gardens erected by so-called platform",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/10/Image-from-iOS-2-2-1024x512-1-970x485.jpeg"
+        },
+        {
+            "id": 13803,
+            "title": "The Limitations of Limited Context for Constituency Parsing",
+            "url": "https://blog.ml.cmu.edu/2021/09/17/the-limitations-of-limited-context-for-constituency-parsing/",
+            "authors": null,
+            "tags": "Machine learning, Natural language processing, Research",
+            "publishedOn": "2021-09-17T00:00:00",
+            "description": "Compare the above two sentences \u201cI drink coffee with milk\u201d and \u201cI drink coffee with friends\u201d. They only differ at their very last words, but their parses differ at earlier places, too. Now imagine you read sentences like these. How well can you parse such sentences without going back and forth? This",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/07/counterexample_motivation_annotated-970x455.png"
+        },
+        {
+            "id": 13804,
+            "title": "Strategic Instrumental Variable Regression: Recovering Causal Relationships from Strategic Responses",
+            "url": "https://blog.ml.cmu.edu/2021/08/27/strategic-instrumental-variable-regression-recovering-causal-relationships-from-strategic-responses/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-08-27T00:00:00",
+            "description": "In social domains, machine learning algorithms often prompt individuals to strategically modify their observable attributes to receive more favorable predictions. As a result, the distribution the predictive model is trained on may differ from the one it operates on in deployment. While such distrib",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/08/thumbnail-970x546.jpg"
+        },
+        {
+            "id": 13805,
+            "title": "A Unifying, Game-Theoretic Framework for Imitation Learning",
+            "url": "https://blog.ml.cmu.edu/2021/07/30/a-unifying-game-theoretic-framework-for-imitation-learning/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-07-30T00:00:00",
+            "description": "Imitation learning (IL) is the problem of finding a policy that is as close as possible to an expert\u2019s policy. IL algorithms can be grouped broadly into (a) online, (b) offline, and (c) interactive methods. By taking a game-theoretic perspective we are able to provide, for each setting, performance",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/06/Screen-Shot-2021-06-29-at-12.32.41-PM-970x551.png"
+        },
+        {
+            "id": 13806,
+            "title": "Document Grounded Generation",
+            "url": "https://blog.ml.cmu.edu/2021/06/25/document-grounded-generation/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-06-25T00:00:00",
+            "description": "Document Grounded Generation - An example of a conversation that is grounded in the given document (text in green shows information from the document that was used to generate the response).",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/05/content_grounded_v3_1-1024x374-1-970x354.png"
+        },
+        {
+            "id": 13807,
+            "title": "See, Hear, Explore: Curiosity via Audio-Visual Association",
+            "url": "https://blog.ml.cmu.edu/2021/06/11/see-hear-explore-curiosity-via-audio-visual-association/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-06-11T00:00:00",
+            "description": "See, Hear, Explore: We propose a formulation of curiosity that encourages the agent to explore novel associations between modalities, such as audio and vision. In Habitat,  the photorealistic navigation simulator shown above, our method allows for more efficient exploration than baselines.\n\n\n\nMany s",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/06/see-hear-explore.png"
+        },
+        {
+            "id": 13808,
+            "title": "Decentralized Multi-Robot Active Search",
+            "url": "https://blog.ml.cmu.edu/2021/06/04/decentralized-multi-robot-active-search/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2021-06-04T00:00:00",
+            "description": "Active Search (Active Sensing) in robotics refers to the problem of searching for objects of interest in an unknown environment by making data-collection decisions. Active Search has many applications including the search and rescue of human survivors following disasters, detecting gas leaks or loca",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/05/Featured2-970x347.png"
+        },
+        {
+            "id": 13809,
+            "title": "PLAS: Latent Action Space for Offline Reinforcement Learning",
+            "url": "https://blog.ml.cmu.edu/2021/04/30/plas-latent-action-space-for-offline-reinforcement-learning/",
+            "authors": null,
+            "tags": "Artificial intelligence, Machine learning, Reinforcement learning, Research",
+            "publishedOn": "2021-04-30T00:00:00",
+            "description": "Overview: To avoid out-of-distribution actions in the Offline Reinforcement Learning problem, we propose to implicitly constrain the policy by modifying the action space instead of enforcing explicit constraints. The policy is trained to output a latent action which will be passed into a decoder pre",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2021/03/overview-pdf.jpg"
+        }
+    ]
+}

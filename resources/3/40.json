@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3144,
+            "title": "Classification of Tweets using SpaCy",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/classification-of-tweets-using-spacy/",
+            "authors": "Pavan Kalyan",
+            "tags": "Datasets, Guide, Linear Regression, NLP, Text",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "This article discusses the classification of Tweets using SpaCy, which include key concepts of the NLP project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/twitter-mute-filter.png"
+        },
+        {
+            "id": 3145,
+            "title": "Google Cloud Platform with ML Pipeline: A Step-to-Step Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/google-cloud-platform/",
+            "authors": "Illiyas Sha",
+            "tags": "Big data, Cloud Computing, Guide, Machine Learning, MLops",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "In this article, we are going to deep dive into the ML pipeline in the Google cloud platform. Here, we will build an end-to-end pipeline.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/google-cloud-platform2.jpg"
+        },
+        {
+            "id": 3146,
+            "title": "Data Science Interview Questions: Land to your Dream Job",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/data-science-interview-questions-land-to-your-dream-job/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Data Science, Interview Questions, Interviews",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "These 15 Data Science questions created by one of our authors will help you prepare for your dream Data Science Job.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/04/tough-questions.jpg"
+        },
+        {
+            "id": 3147,
+            "title": "COVID-19 Safety Protocol Tracker Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/covid-19-safety-protocol-tracker-using-deep-learning/",
+            "authors": "Bitsme 20",
+            "tags": "Algorithm, Datasets, Deep Learning",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "This article is focused on COVID-19 Safety Protocol Tracker that includes: People Tracker, Social Distancing Detector, and Face Mask Detector.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/85672covid.jpg"
+        },
+        {
+            "id": 3148,
+            "title": "Complete Guide to Anomaly Detection with AutoEncoders using Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/complete-guide-to-anomaly-detection-with-autoencoders-using-tensorflow/",
+            "authors": "Raghav Agrawal",
+            "tags": "Data Visualization, Deep Learning, Guide, Machine Learning",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "In this guide, we will learn about Autoencoders using tensorflow which are based on unsupervised machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 3149,
+            "title": "What do Banks do with data? Case Study: Predicting the salary of a Bank Customer using Financial Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/what-do-banks-do-with-data-case-study-predicting-the-salary-of-a-bank-customer-using-financial-data/",
+            "authors": "Prateek Majumder",
+            "tags": "Advanced, Banking, Machine Learning, Python",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "Ever wondered what do Banks do with data? This is a case study on predicting the salary of a Bank Customer using Financial Data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/personalized_banking_machine_learning.jpg"
+        },
+        {
+            "id": 3150,
+            "title": "Vehicle Detection and Counting System using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/vehicle-detection-and-counting-system-using-opencv/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Python",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "In this article, we will be coding a vehicle counting and detection system. It\u00a0will be enough to work for both the images or the video",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/Window-functions-%E2%80%93-A-must-know-for-Data-Engineers-and-Data-ScientistsTop-5-GAN-Libraries-you-must-know.png"
+        },
+        {
+            "id": 3151,
+            "title": "Text Classification using BERT and TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/text-classification-using-bert-and-tensorflow/",
+            "authors": "Saumyab271",
+            "tags": "Artificial Intelligence, Beginner, NLP",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "We will learn in-text classification using Bert and TensorFlow. The main aim of the model is to categorize a text into a predefined category.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/artificial-intelligence-3382507_1920.jpg"
+        },
+        {
+            "id": 3152,
+            "title": "Stock Market Analysis with Pandas \u2013 DataReader and Plotly for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/stock-market-analysis-with-pandas-datareader-and-plotly-for-beginners/",
+            "authors": "Akshay Dani",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "In this article we will perform a Stock Market Analysis with Pandas and will also be using DataReader and Plotly for Beginners",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/GroupBy-function-in-Pandas-Featured-Image.jpg"
+        },
+        {
+            "id": 3153,
+            "title": "Fast and Effective ways to Extract Keyphrases using TFIDF with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/how-to-extract-key-phrases-using-tfidf-with-python/",
+            "authors": "Ali Mansour",
+            "tags": "Beginner, Datasets, Python",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "We are going to learn how to extract keywords from text documents in a smooth and simple way step by step, using TFIDF in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Extraction-using-Python.jpg"
+        },
+        {
+            "id": 3154,
+            "title": "Optical Character Recognition using Pytesseract",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/optical-character-recognition-using-pytesseract/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Libraries, Python",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "In this blog, we will be using Optical character recognition to extract the text from the images and see its python implementation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/36865text_recognition2x.png"
+        },
+        {
+            "id": 3155,
+            "title": "Manual for the First Time Users: Google BERT for Text Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/manual-for-the-first-time-users-google-bert-for-text-classification/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Advanced, Classification, NLP, Python, Text",
+            "publishedOn": "2021-12-31T00:00:00",
+            "description": "In this article we will learn how to Implement BERT for Text Classification.Bert works on language modelling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/2.png"
+        },
+        {
+            "id": 3156,
+            "title": "Computer Vision to Detect License Number Plate",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/computer-vision-to-detect-license-number-plate/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Computer Vision, Datasets, Deep Learning, Libraries",
+            "publishedOn": "2021-12-30T00:00:00",
+            "description": "In this article, We\u2019re going to build a project to detect number plates using computer vision which helps in security monitoring.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/fraud_detection_machine_learning.jpg"
+        },
+        {
+            "id": 3157,
+            "title": "Image Operations in Python with OpenCV: Eroding, Dilation, and more!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/image-operations-in-python-with-opencv/",
+            "authors": "Prateek Majumder",
+            "tags": "Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-30T00:00:00",
+            "description": "In this article, we will learn how Image Operations in Python with OpenCV will take place with optimised algorithms and functions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Extraction-using-Python.jpg"
+        },
+        {
+            "id": 3158,
+            "title": "Pokemon Prediction using Random Forest",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/pokemon-prediction-using-random-forest/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Datasets, Machine Learning",
+            "publishedOn": "2021-12-29T00:00:00",
+            "description": "In this blog, we will analyze Pokemon Prediction using Random Forest and understand whether the pokemon is legendary or not.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ebook_machine_learning_starter_program.jpg"
+        },
+        {
+            "id": 3159,
+            "title": "A Guide on Deep Learning: From Basics to Advanced Concepts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-guide-on-deep-learning-from-basics-to-advanced-concepts/",
+            "authors": "Sarvagya Agrawal",
+            "tags": "Datasets, Deep Learning, Graphs & Networks",
+            "publishedOn": "2021-12-29T00:00:00",
+            "description": "In this guide, we will cover basic as well as advanced topics involved in Deep Learning which will help you understand the concepts better.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 3160,
+            "title": "Deep Learning in Medical: Classification of Malaria Infected Blood Cells with ResNet",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/deep-learning-in-medical-field/",
+            "authors": "Muhammad Arnaldo",
+            "tags": "Datasets, Deep Learning, Machine Learning, NLP",
+            "publishedOn": "2021-12-28T00:00:00",
+            "description": "This article will discuss the classification of malaria-infected blood cells using a deep learning algorithm in the medical field, Resnet.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/Medical-scaled.jpg"
+        },
+        {
+            "id": 3161,
+            "title": "A Comprehensive Guide on Deep learning for Computer vision",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-deep-learning-for-computer-vision/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Beginner, Computer Vision, Deep Learning, Python",
+            "publishedOn": "2021-12-28T00:00:00",
+            "description": "This article is a Comprehensive Guide on Deep learning for Computer vision. Explore how CNN can be applied to an image classification task.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/74738Computer_vision.jpeg"
+        },
+        {
+            "id": 3162,
+            "title": "Comprehensive Project on Building a Movie Recommender Website",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Advanced, Machine Learning, Python, Recommendation",
+            "publishedOn": "2021-12-28T00:00:00",
+            "description": "In this article, we are going to start an end-to-end project where we will build a movie Recommender system using Machine learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/87128boitumelo-phetla-0DJHJcpwN9Q-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3163,
+            "title": "All about Data Science Professionals",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/all-about-data-science-professionals/",
+            "authors": "Harshit Ahluwalia",
+            "tags": "Beginner, Data Engineering, Data Science, Interview Questions, Job Roles",
+            "publishedOn": "2021-12-28T00:00:00",
+            "description": "In this article, you will learn the difference between the different data science professionals roles and the career opportunities.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 3164,
+            "title": "Fine-tune BERT Model for Sentiment Analysis in Google Colab",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/fine-tune-bert-model-for-sentiment-analysis-in-google-colab/",
+            "authors": "Deepak Moonat",
+            "tags": "Advanced, Classification, NLP, Python, Text",
+            "publishedOn": "2021-12-28T00:00:00",
+            "description": "In this blog, we will learn how to Fine-tune a Pre-trained BERT model for the Sentiment analysis task and execute it in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 3165,
+            "title": "All NLP tasks using Transformers Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/all-nlp-tasks-using-transformers-package/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Advanced, NLP, Python, PyTorch, Text",
+            "publishedOn": "2021-12-27T00:00:00",
+            "description": "We will use transformers package that helps us to implement NLP tasks by providing pre-trained models and simple implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/69467Machine-Learning-with-kdb-blog-3.jpg"
+        },
+        {
+            "id": 3166,
+            "title": "Text Classification of News Articles",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/text-classification-of-news-articles/",
+            "authors": "DEEPAK SINGH",
+            "tags": "Advanced, Data Visualization, NLP, Python, Text",
+            "publishedOn": "2021-12-27T00:00:00",
+            "description": "Text Classification for news articles uses the datasets that are used to categorize natural language texts according to content.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/38423article_image-scaled.jpg"
+        },
+        {
+            "id": 3167,
+            "title": "Anomaly Detection Model on Time Series Data in Python using Facebook Prophet",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/anomaly-detection-model-using-facebook-prophet/",
+            "authors": "Raghav Agrawal",
+            "tags": "Data Visualization, Datasets, Time Series",
+            "publishedOn": "2021-12-24T00:00:00",
+            "description": "This article is about Anomaly Detection Model. Learn and practise detecting anomalies in time-series data using Facebook Prophet.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/graph-3033203_1280.jpg"
+        },
+        {
+            "id": 3168,
+            "title": "ML Hyperparameter Optimization App using Streamlit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/ml-hyperparameter-optimization-app-using-streamlit/",
+            "authors": "Nandan Kakadiya",
+            "tags": "Beginner, Machine Learning, Model Deployment, Python",
+            "publishedOn": "2021-12-24T00:00:00",
+            "description": "In this article, we will learn to build a Machine Learning Hyperparameter Optimization App using Streamlit in real-world effortlessly",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/spark21-768x512.png"
+        },
+        {
+            "id": 3169,
+            "title": "MLOPs Operations: A Beginner\u2019s Guide in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/mlops-operations-a-guide-for-beginners/",
+            "authors": "LAVANYA S",
+            "tags": "Beginner, Guide, MLops, Python",
+            "publishedOn": "2021-12-24T00:00:00",
+            "description": "MLOPs Operations is vital to combine the mechanics of DevOps and Operations with machine learning development.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/99587pro.png"
+        },
+        {
+            "id": 3170,
+            "title": "Real-Life Applications of Data Science in Education",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/real-life-applications-of-data-science-in-education/",
+            "authors": "Sakshi Raheja",
+            "tags": "Data Science, Education, Learning Path, Listicle, Stories",
+            "publishedOn": "2021-12-23T00:00:00",
+            "description": "In this article, we will learn about various applications of data science that are used in the education industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/55626ML-on-Android-feature-img.png"
+        },
+        {
+            "id": 3171,
+            "title": "Introduction to Linear Model for Optimization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/introduction-to-linear-model-for-optimization/",
+            "authors": "Abdiel Goni",
+            "tags": "Beginner, Regression, Statistics",
+            "publishedOn": "2021-12-23T00:00:00",
+            "description": "Linear Model for Optimization is concerned with finding a suitable model. One of the goals is to reduce generalization errors.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/file-20170505-21003-zbguhy.jpg"
+        },
+        {
+            "id": 3172,
+            "title": "A Comprehensive Guide on Markov Chain",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-markov-chain/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Algorithm, Guide, Intermediate, Maths",
+            "publishedOn": "2021-12-23T00:00:00",
+            "description": "In this guide on Markov Chain, several value-able ideas have been developed which are paramount in the field of data analytics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/ai-ml.jpg"
+        },
+        {
+            "id": 3173,
+            "title": "Building a custom CNN model: Identification of COVID-19",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/cnn-model-covid-19/",
+            "authors": "Nithyashree V",
+            "tags": "Beginner, Computer Vision, Guide, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-22T00:00:00",
+            "description": "You will be able to build a CNN model for COVID-19 to perform multi-class image classification by training it with your own dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/88509feat-COVID.png"
+        }
+    ]
+}

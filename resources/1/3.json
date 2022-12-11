@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 44,
+            "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+            "authors": "Bandish Shah, Olivier Cruchant",
+            "tags": "Advanced (300), Amazon Machine Learning, Artificial Intelligence, PyTorch on AWS",
+            "publishedOn": "2022-10-24T00:00:00",
+            "description": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural language processing (NLP), time series processing, and more. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg"
+        },
+        {
+            "id": 45,
+            "title": "Create synthetic data for computer vision pipelines on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/",
+            "authors": "Matt Krzus",
+            "tags": "Artificial Intelligence, Best Practices, Data Science & Analytics for Media, Technical How-to",
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "Collecting and annotating image data is one of the most resource-intensive tasks on any computer vision project. It can take months at a time to fully collect, analyze, and experiment with image streams at the level you need in order to compete in the current marketplace. Even after you\u2019ve successfully collected data, you still have [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/image043.png"
+        },
+        {
+            "id": 46,
+            "title": "Enable CI/CD of multi-Region Amazon SageMaker endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enable-ci-cd-of-multi-region-amazon-sagemaker-endpoints/",
+            "authors": "Mehran Najafi, Steven Alyekhin",
+            "tags": "Advanced (300), Amazon SageMaker, Artificial Intelligence, Learning Levels, Technical How-to",
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "Amazon SageMaker and SageMaker inference endpoints provide a capability of training and deploying your AI and machine learning (ML) workloads. With inference endpoints, you can deploy your models for real-time or batch inference. The endpoints support various types of ML models hosted using AWS Deep Learning Containers or your own containers with custom AI/ML algorithms. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/07/Figure_1_Blog_latest-BLOG-Latest.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Detect fraudulent transactions using machine learning with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/",
+            "authors": "Xiaoli Shen, Vedant Jain, Xin Huang",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-10-19T00:00:00",
+            "description": "Businesses can lose billions of dollars each year due to malicious users and fraudulent transactions. As more and more business operations move online, fraud and abuses in online systems are also on the rise. To combat online fraud, many businesses have been using rule-based fraud detection systems. However, traditional fraud detection systems rely on a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/detect-fraudulent-transactions-sagemaker.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
+            "authors": "Venkata Kampana, Dawn Heisey-Grove",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-19T00:00:00",
+            "description": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready professional software for teams to develop and share their work across their organization Building, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/implement-rstudio-data-lake.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Design patterns for serial inference on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
+            "authors": "Rahul Sharma, Dhawalkumar Patel, Anand Prakash, Saurabh Trikande",
+            "tags": "Advanced (300), Amazon Machine Learning, Amazon SageMaker",
+            "publishedOn": "2022-10-19T00:00:00",
+            "description": "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined to perform various tasks, such as preprocessing, data transformation, model selection, inference [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg"
+        },
+        {
+            "id": 50,
+            "title": "Train a time series forecasting model faster with Amazon SageMaker Canvas Quick build",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-a-time-series-forecasting-model-faster-with-amazon-sagemaker-canvas-quick-build/",
+            "authors": "Davide Gallitelli, Nikiforos Botis",
+            "tags": "Amazon SageMaker, Amazon SageMaker Canvas, Artificial Intelligence, Intermediate (200)",
+            "publishedOn": "2022-10-18T00:00:00",
+            "description": "Today, Amazon SageMaker Canvas introduces the ability to use the Quick build feature with time series forecasting use cases. This allows you to train models and generate the associated explainability scores in under 20 minutes, at which point you can generate predictions on new, unseen data. Quick build training enables faster experimentation to understand how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/train-a-time-series-forecasting-mode-canvas-1256x630.png"
+        },
+        {
+            "id": 51,
+            "title": "Use Amazon SageMaker Canvas for exploratory data analysis",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-canvas-for-exploratory-data-analysis/",
+            "authors": "Rajakumar Sampathkumar, Rahul Nabera, Raviteja Yelamanchili",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Canvas, Technical How-to",
+            "publishedOn": "2022-10-18T00:00:00",
+            "description": "Exploratory data analysis (EDA) is a common task performed by business analysts to discover patterns, understand relationships, validate assumptions, and identify anomalies in their data. In machine learning (ML), it\u2019s important to first understand the data and its relationships before getting into model building. Traditional ML development cycles can sometimes take months and require advanced [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/sagemaker-canvas-exploratory-analysis-1260x630.png"
+        },
+        {
+            "id": 52,
+            "title": "Run ensemble ML models on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+            "authors": "James Park, Vikram Elango, Saurabh Trikande",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Deep Learning AMIs, Technical How-to",
+            "publishedOn": "2022-10-18T00:00:00",
+            "description": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to adhere to various performance and latency requirements. Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Host code-server on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/",
+            "authors": "Sofian Hamiti, Eric Pe\u00f1a, Giuseppe Angelo Porcelli",
+            "tags": "Advanced (300), Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-17T00:00:00",
+            "description": "Machine learning (ML) teams need the flexibility to choose their integrated development environment (IDE) when working on a project. It allows you to have a productive developer experience and innovate at speed. You may even use multiple IDEs within a project. Amazon SageMaker lets ML teams choose to work from fully managed, cloud-based environments within [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/17/host-code-server-sagemaker.jpg"
+        },
+        {
+            "id": 54,
+            "title": "Real estate brokerage firm John L. Scott uses Amazon Textract and Amazon Comprehend to strike racially restrictive language from property deeds for homeowners",
+            "url": "https://aws.amazon.com/blogs/machine-learning/real-estate-brokerage-firm-john-l-scott-uses-amazon-textract-and-amazon-comprehend-to-strike-racially-restrictive-language-from-property-deeds-for-homeowners/",
+            "authors": "Jeff Stockamp, Jarman Hauser, Moussa Koulbou",
+            "tags": "Amazon Comprehend, Amazon Textract, Customer Solutions, Technical How-to",
+            "publishedOn": "2022-10-17T00:00:00",
+            "description": "Founded more than 91 years ago in Seattle, John L. Scott Real Estate\u2019s core value is Living Life as a Contribution\u00ae. The firm helps homebuyers find and buy the home of their dreams, while also helping sellers move into the next chapter of their home ownership journey. John L. Scott currently operates over 100 offices [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/17/ML-11607-featured-images.jpg"
+        },
+        {
+            "id": 55,
+            "title": "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/",
+            "authors": "Syed Jaffry, Saurabh Trikande",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Best Practices, Expert (400)",
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within your machine learning (ML) infrastructure. We have seen software as a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
+        },
+        {
+            "id": 56,
+            "title": "Testing approaches for Amazon SageMaker ML models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
+            "authors": "Tobias Wenzel, Alan Tan, Shivanshu Upadhyay",
+            "tags": "Amazon SageMaker, Best Practices, Customer Solutions",
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an important role in less obvious ways\u2014they\u2019re used by business applications, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
+        },
+        {
+            "id": 57,
+            "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+            "authors": "Jiani Zhang",
+            "tags": "Advanced (300), Amazon Neptune",
+            "publishedOn": "2022-10-14T00:00:00",
+            "description": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at hand. Traditional methods either only use [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg"
+        },
+        {
+            "id": 58,
+            "title": "Build a solution for a computer vision skin lesion classifier using Amazon SageMaker Pipelines",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-solution-for-a-computer-vision-skin-lesion-classifier-using-amazon-sagemaker-pipelines/",
+            "authors": "Mariem Kthiri, Fotinos Kyriakides, Yassine Zaafouri",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "Amazon SageMaker Pipelines is a continuous integration and continuous delivery (CI/CD) service designed for machine learning (ML) use cases. You can use it to create, automate, and manage end-to-end ML workflows. It tackles the challenge of orchestrating each step of an ML process, which requires time, effort, and resources. To facilitate its use, multiple templates [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/13/skin-lesion-detector-sagemaker.jpg"
+        },
+        {
+            "id": 59,
+            "title": "How Amazon Search runs large-scale, resilient machine learning projects with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker/",
+            "authors": "Luochao Wang, Abhinandan Patni, Eiman Elnahrawy, Sofian Hamiti, Ishan Bhatt, RJ, Romi Datta",
+            "tags": "Advanced (300), Amazon SageMaker Autopilot, Artificial Intelligence",
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "If you have searched for an item to buy on amazon.com, you have used Amazon Search services. At Amazon Search, we\u2019re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use advanced machine learning (ML) to match [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/05/architecture-conceptual-1026x630.png"
+        },
+        {
+            "id": 60,
+            "title": "Customize business rules for intelligent document processing with human review and BI visualization",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customize-business-rules-for-intelligent-document-processing-with-human-review-and-bi-visualization/",
+            "authors": "Lana Zhang, Sonali Sahu",
+            "tags": "Advanced (300), Amazon Augmented AI, Amazon QuickSight, Amazon Textract, Artificial Intelligence, Technical How-to",
+            "publishedOn": "2022-10-12T00:00:00",
+            "description": "A massive amount of business documents are processed daily across industries. Many of these documents are paper-based, scanned into your system as images, or in an unstructured format like PDF. Each company may apply unique rules associated with its business background while processing these documents. How to extract information accurately and process them flexibly is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/21/Screen-Shot-2022-09-21-at-1.43.46-PM.png"
+        },
+        {
+            "id": 61,
+            "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+            "authors": "Arnab Chakraborty, Viral Desai",
+            "tags": "Advanced (300), Amazon Comprehend, Artificial Intelligence, Intermediate (200), Technical How-to",
+            "publishedOn": "2022-10-11T00:00:00",
+            "description": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity, a decrease in customer satisfaction, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/11/Featured-images-for-ML-1148.jpg"
+        },
+        {
+            "id": 62,
+            "title": "Detect fraud in mobile-oriented businesses using GrabDefence device intelligence and Amazon Fraud Detector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-fraud-in-mobile-oriented-businesses-using-grabdefence-device-intelligence-and-amazon-fraud-detector/",
+            "authors": "Marcel Pividal, Adriaan de Jonge, Jianbo Liu",
+            "tags": "Advanced (300), Amazon Fraud Detector, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-10-10T00:00:00",
+            "description": "In this post, we present a solution that combines rich mobile device intelligence with customized machine learning (ML) modeling to help you catch fraudsters who exploit mobile apps. GrabDefence (GD), Grab\u2019s proprietary fraud detection and prevention technology, and AWS have launched GDxAFD, a fraud detection solution tailored for mobile apps that integrates GD\u2019s device intelligence [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/10/Featured-images-for-ML-9227.jpg"
+        },
+        {
+            "id": 63,
+            "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/",
+            "authors": "Daniel Burke, John Shaw",
+            "tags": "Amazon Rekognition, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-10-06T00:00:00",
+            "description": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content protection and piracy disruption. Synamedia partnered with AWS to use artificial intelligence (AI) to develop [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/synamedia-rekognition.jpg"
+        },
+        {
+            "id": 64,
+            "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+            "authors": "Vedant Jain, Tao Sun",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-10-06T00:00:00",
+            "description": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead to high infrastructure and personnel costs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg"
+        },
+        {
+            "id": 65,
+            "title": "InformedIQ automates verifications for Origence\u2019s auto lending using machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/informediq-automates-verifications-for-origences-auto-lending-using-machine-learning/",
+            "authors": "Robert Berger, Adine Deford, Jessica Oliveira, Malini Chatterjee",
+            "tags": "Amazon SageMaker, Amazon Textract, Artificial Intelligence, Customer Solutions",
+            "publishedOn": "2022-10-06T00:00:00",
+            "description": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation\u2019s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders\u2019 policies. They improve regulatory compliance, reduce cost, and increase accuracy by decreasing human error [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/informediq-automates-verification.jpg"
+        },
+        {
+            "id": 66,
+            "title": "Prevent account takeover at login with the new Account Takeover Insights model in Amazon Fraud Detector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/prevent-account-takeover-at-login-with-the-new-account-takeover-insights-model-in-amazon-fraud-detector/",
+            "authors": "Marcel Pividal, Mike Ames",
+            "tags": "Amazon Fraud Detector, Artificial Intelligence",
+            "publishedOn": "2022-10-05T00:00:00",
+            "description": "Digital is the new normal, and there\u2019s no going back. Every year, consumers visit, on average, 191 websites or services requiring a user name and password, and the digital footprint is expected to grow exponentially. So much exposure naturally brings added risks like account takeover (ATO). Each year, bad actors compromise billions of accounts through [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/05/prevent-account-takeover-fraud-detector.jpg"
+        },
+        {
+            "id": 67,
+            "title": "Metrics for evaluating content moderation in Amazon Rekognition and other content moderation services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/",
+            "authors": "Amit Gupta, Davide Modolo, Jian Wu",
+            "tags": "Advanced (300), Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2022-10-05T00:00:00",
+            "description": "Content moderation is the process of screening and monitoring user-generated content online. To provide a safe environment for both users and brands, platforms must moderate content to ensure that it falls within preestablished guidelines of acceptable behavior that are specific to the platform and its audience. When a platform moderates content, acceptable user-generated content (UGC) [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/05/metrics-for-content-moderation-1255x630.png"
+        },
+        {
+            "id": 68,
+            "title": "Face-off Probability, part of NHL Edge IQ: Predicting face-off winners in real time during televised games",
+            "url": "https://aws.amazon.com/blogs/machine-learning/face-off-probability-part-of-nhl-edge-iq-predicting-face-off-winners-in-real-time-during-televised-games/",
+            "authors": "Ryan Gillespie, Alexander Egorov, Erick Martinez, Miguel Romero Calvo, Yash Shah",
+            "tags": "Amazon Kinesis, Amazon ML Solutions Lab, Amazon SageMaker, AWS Professional Services, Customer Solutions, Sports",
+            "publishedOn": "2022-10-05T00:00:00",
+            "description": "Face-off Probability is the National Hockey League\u2019s (NHL) first advanced statistic using machine learning (ML) and artificial intelligence. It uses real-time Player and Puck Tracking (PPT) data to show viewers which player is likely to win a face-off before the puck is dropped, and provides broadcasters and viewers the opportunity to dive deeper into the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/26/image002-4.png"
+        },
+        {
+            "id": 69,
+            "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
+            "url": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+            "authors": "Joe Morotti, Sriharsh Adari",
+            "tags": "Amazon Kinesis, Analytics, Intermediate (200), Kinesis Data Firehose",
+            "publishedOn": "2022-10-04T00:00:00",
+            "description": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers\u2019 needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being ingested from multiple sources, businesses look for solutions to protect [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg"
+        },
+        {
+            "id": 70,
+            "title": "Reduce cost and development time with Amazon SageMaker Pipelines local mode",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-cost-and-development-time-with-amazon-sagemaker-pipelines-local-mode/",
+            "authors": "Paul Hargis, Kirit Thadaka, Niklas Palm",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence, Technical How-to",
+            "publishedOn": "2022-10-04T00:00:00",
+            "description": "Creating robust and reusable machine learning (ML) pipelines can be a complex and time-consuming process. Developers usually test their processing and training scripts locally, but the pipelines themselves are typically tested in the cloud. Creating and running a full pipeline during experimentation adds unwanted overhead and cost to the development lifecycle. In this post, we [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/reduce-development-time-pipelines-local-mode.jpg"
+        },
+        {
+            "id": 71,
+            "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
+            "authors": "Jasleen Grewal, Boris Aronchik, Lin Lee Cheong, Miguel Romero Calvo, Panpan Xu",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Amazon SageMaker Ground Truth, Artificial Intelligence, AWS Professional Services",
+            "publishedOn": "2022-10-03T00:00:00",
+            "description": "Machine learning (ML) has improved business across industries in recent years\u2014from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa\u2019s voice assistance. However, the question remains of how to incorporate this technology into your business. Unlike traditional rule-based methods, ML automatically infers patterns from data so as to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg"
+        },
+        {
+            "id": 72,
+            "title": "Automate your time series forecasting in Snowflake using Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
+            "authors": "Bosco Albuquerque, Andries Engelbrecht, Charles Laughlin, Frank Dallezotte, James Sun",
+            "tags": "Amazon Athena, Amazon Forecast, Artificial Intelligence, AWS CloudFormation, AWS Step Functions, CPG, Manufacturing, Retail, Technical How-to",
+            "publishedOn": "2022-10-03T00:00:00",
+            "description": "This post is a joint collaboration with Andries Engelbrecht and James Sun of Snowflake, Inc. The cloud computing revolution has enabled businesses to capture and retain corporate and organizational data without capacity planning or data retention constraints. Now, with diverse and vast reserves of longitudinal data, companies are increasingly able to find novel and impactful [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/automate-forecasting-snowflake.jpg"
+        },
+        {
+            "id": 73,
+            "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+            "authors": "Ankur Srivastava, Amr Ragab, Mahadevan Balasubramaniam, Sundar Ranganathan",
+            "tags": "Advanced (300), Amazon EC2",
+            "publishedOn": "2022-10-03T00:00:00",
+            "description": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient infrastructure to train and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/ec2-g5-instances-four-times-1260x630.png"
+        }
+    ]
+}

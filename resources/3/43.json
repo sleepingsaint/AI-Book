@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3234,
+            "title": "A Comprehensive Guide on Inferrd : The easiest way to deploy ML models",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-comprehensive-guide-on-inferrd-the-easiest-way-to-deploy-ml-models/",
+            "authors": "Pradeep T",
+            "tags": "Beginner, Model Deployment, Python",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Inferrd makes it easy to deploy machine learning models to the GPU without having to deal with the underlying infrastructure.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/43.png"
+        },
+        {
+            "id": 3235,
+            "title": "Traverse Trees Using Level Order Traversal in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/traverse-trees-using-level-order-traversal-in-python/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-11-30T00:00:00",
+            "description": "Traversal is the process of traveling a tree node by node, level by level until all nodes have been searched effectively and thoroghly",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Integrating-Python-in-Power-BI.jpg"
+        },
+        {
+            "id": 3236,
+            "title": "A Complete Beginner-Friendly Guide to SQL for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-complete-beginner-friendly-guide-to-sql-for-data-science/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Guide, SQL",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "SQL stands for Structured Query Language which is used to deal with Relational Databases to query from and manipulate databases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 3237,
+            "title": "End to End Question-Answering System Using NLP and SQuAD Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/end-to-end-question-answering-system-using-nlp-and-squad-dataset/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Guide, NLP, Python",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "Question answering is a critical NLP problem. In this article, build an End to End Question-Answering System Using NLP and SQuAD Dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/33407pro-ques.png"
+        },
+        {
+            "id": 3238,
+            "title": "Artificial Neural Network and Its Implementation From Scratch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/artificial-neural-network-and-its-implementation-from-scratch/",
+            "authors": "Abhishek Hazra",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "Learn how to implement Artificial Neural Network in Python from scratch. They are great at information processing and detecting new patterns.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/36936neuron.jpg"
+        },
+        {
+            "id": 3239,
+            "title": "Benchmarking CPU And GPU Performance With Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/benchmarking-cpu-and-gpu-performance-with-tensorflow/",
+            "authors": "Purnendu Shukla",
+            "tags": "Advanced, Python",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "GPU or Graphical Processing Units are similar to their counterpart but have a lot of cores that allow them for faster computation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/gpu-dl.jpg"
+        },
+        {
+            "id": 3240,
+            "title": "Web Scraping a News Article and performing Sentiment Analysis using NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/web-scraping-a-news-article-and-performing-sentiment-analysis-using-nlp/",
+            "authors": "Prateek Majumder",
+            "tags": "Advanced, Data Mining, Libraries, NLP, Text",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "Web scraping and NLP have many applications. Learn how to scrape news articles and perform sentiment analysis with Textblob and Pattern",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/Sentiment-Analysis_31.png"
+        },
+        {
+            "id": 3241,
+            "title": "Implementation of Gaussian Naive Bayes in Python Sklearn",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/implementation-of-gaussian-naive-bayes-in-python-sklearn/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Machine Learning, Probability, Python, Statistics",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "Gaussian Naive Bayes is the easiest and rapid classification method available. Learn how to implement it in Python with sklearn.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/2.png"
+        },
+        {
+            "id": 3242,
+            "title": "An End-to-End Guide to Model Explainability",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/model-explainability/",
+            "authors": "Priyanka Dalmia",
+            "tags": "Beginner, Datasets, Deep Learning, Guide, Machine Learning, Python",
+            "publishedOn": "2021-11-29T00:00:00",
+            "description": "In this article, we will explore what is meant by model explainability and the different ways to interpret a machine learning model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/machine_learning_state.png"
+        },
+        {
+            "id": 3243,
+            "title": "A beginner\u2019s guide to understanding Text Summarization with NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-beginners-guide-to-understanding-text-summarization-with-nlp/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Advanced, NLP, Python, Text",
+            "publishedOn": "2021-11-28T00:00:00",
+            "description": "Text summarization takes an input of a sequence of words aka the input article and returns an output of words aka the summary",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Types-of-Methods-in-Python.jpg"
+        },
+        {
+            "id": 3244,
+            "title": "An Introduction to TFLearn using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/an-introduction-to-tflearn-using-python/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Beginner, Deep Learning, Libraries, Python",
+            "publishedOn": "2021-11-27T00:00:00",
+            "description": "TFlearn is a high-level deep learning library built on the top of TensorFlow. It is modular and transparent with several facilities",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/0_ZoctfwNbrIza7VMS.jpg"
+        },
+        {
+            "id": 3245,
+            "title": "Transfer learning with TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/transfer-learning-with-tensorflow/",
+            "authors": "Jafar Isbarov",
+            "tags": "Advanced, Deep Learning, Libraries, Python",
+            "publishedOn": "2021-11-27T00:00:00",
+            "description": "In this article, we are going to learn how to learn Transfer Learning model with TensorFlow in python for deep learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/97217tensorflow-machine-learning-tutorial-26fa8049469031aea4f81144704dfea3_1050x520.png"
+        },
+        {
+            "id": 3246,
+            "title": "Creating a Simple Z-test Calculator using Streamlit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/creating-a-simple-z-test-calculator-using-streamlit/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Maths, Python, Statistics",
+            "publishedOn": "2021-11-27T00:00:00",
+            "description": "Let us learn about one of the most popular Hypothesis tests, i.e. Z-test or and create a z-test calculator in python for hypothesis testing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/normal-distribution.png"
+        },
+        {
+            "id": 3247,
+            "title": "An Empirical study of Machine Learning Classifiers with Tweet Sentiment Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/an-empirical-study-of-machine-learning-classifier-with-tweet-sentiment-classification/",
+            "authors": "Sawan Rai",
+            "tags": "Data Science, Datasets, Graphs & Networks, Intermediate, Machine Learning",
+            "publishedOn": "2021-11-26T00:00:00",
+            "description": "Learn about different ML classifiers with Twitter US airline sentiment datasets by training tweet classification models and comparing them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/twitter.jpg"
+        },
+        {
+            "id": 3248,
+            "title": "Newbie\u2019s Deep Learning Project to Recognize Handwritten Digit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/newbies-deep-learning-project-to-recognize-handwritten-digit/",
+            "authors": "Shikha Gupta",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-11-26T00:00:00",
+            "description": "Learn and how to create and deploy beginner friendly handwritten digit recognition deep learning project with MNIST dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/5600161625_e9e1205a08_b.jpg"
+        },
+        {
+            "id": 3249,
+            "title": "A Brief Guide on how to build a Named Entity Extraction (NER) Model with Apache OpenNLP Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-brief-guide-on-how-to-build-a-named-entity-extraction-ner-model-with-apache-opennlp-library/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Guide, NLP, Text",
+            "publishedOn": "2021-11-26T00:00:00",
+            "description": "Named Entity Extraction is a NLP subtask that is important in automated information extraction. Learn how to use Apache OpenNLP to build NER.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 3250,
+            "title": "Pattern Library for Natural Language Processing in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/pattern-library-for-natural-language-processing-in-python/",
+            "authors": "Prateek Majumder",
+            "tags": "Advanced, Libraries, NLP, Python",
+            "publishedOn": "2021-11-25T00:00:00",
+            "description": "Learn about Pattern which is an extremely useful open source library in Python, that can be used to implement Natural Language processing",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Start-Using-The-timeit-Library-in-Python1.png"
+        },
+        {
+            "id": 3251,
+            "title": "Complete Guide to People Counting and Tracking: End-to-end Deep Learning Project",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/complete-guide-to-people-counting-and-tracking-end-to-end-deep-learning-project/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Deep Learning, Guide, Image, Python",
+            "publishedOn": "2021-11-25T00:00:00",
+            "description": "Deep learning is a byproduct of AI. Learn how to build an end-to-end deep learning project for people counting and tracking system",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/iStock-681734914.jpg"
+        },
+        {
+            "id": 3252,
+            "title": "An Introduction to Stemming in Natural Language Processing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/an-introduction-to-stemming-in-natural-language-processing/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, NLP, Python, Text",
+            "publishedOn": "2021-11-25T00:00:00",
+            "description": "In this article, we will explain in depth what is stemming, how it works, and implement stemming for Natural language processing in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/NLP_transfer_learning_DHS19.jpg"
+        },
+        {
+            "id": 3253,
+            "title": "Deep Learning to Create your Emoji",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/deep-learning-to-create-your-emoji/",
+            "authors": "Shikha Gupta",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-11-25T00:00:00",
+            "description": "Emojis have become the modern way to express emotions. In this article we are going to see how to use Deep Learning for emojis",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/23690ML-emoji.jpg"
+        },
+        {
+            "id": 3254,
+            "title": "A Comprehensive Guide on Microsoft Excel for Data Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-comprehensive-guide-on-microsoft-excel-for-data-analysis/",
+            "authors": "Gunjan Agarwal",
+            "tags": "Beginner, Excel, Guide",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "Learn in depth about in depth data analysis with MS Excel. An end-to-end guide to all the analytical function and methods you'll need.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/amazing-Dashboard-templates-for-excel.jpg"
+        },
+        {
+            "id": 3255,
+            "title": "Understanding K-means Clustering in Machine Learning(With Examples)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/understanding-k-means-clustering-in-machine-learningwith-examples/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Clustering, Machine Learning, Python",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "K-means is a technique for data clustering that may be used for unsupervised machine learning. Learn about the working k-means algorithm here",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/88693feature_image.jpg"
+        },
+        {
+            "id": 3256,
+            "title": "An Introduction to Separable Convolutions",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/an-introduction-to-separable-convolutions/",
+            "authors": "Sumant Hegde",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "Separable Convolutions is a process in which a single convolution can be divided into two or more convolutions to produce the same output",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Face-Detection-Using-Pre-trained-MTCNN.jpg"
+        },
+        {
+            "id": 3257,
+            "title": "3 ways to deal with SettingWithCopyWarning in Pandas",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/3-ways-to-deal-with-settingwithcopywarning-in-pandas/",
+            "authors": "Padhma M",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "If you're trying to wrap your heads around what SettingWithCopyWarning is and why it keeps showing up, then this article is for you",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 3258,
+            "title": "Beginners Guide to Password Generator using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/password-generator-using-python/",
+            "authors": "Atulya Khatri",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "In this article, we are going to create a password generator using python. It will suggest passwords for any site in which you try to sign in",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/94316safety_img.jpg"
+        },
+        {
+            "id": 3259,
+            "title": "Loan Risk Analysis with Supervised Machine Learning Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/loan-risk-analysis-with-supervised-machine-learning-classification/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Beginner, Classification, Machine Learning, Python",
+            "publishedOn": "2021-11-24T00:00:00",
+            "description": "Learn about the two major machine learning classification algorithm decision trees and random forests to analyze loan risks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Multi-label-Text-Classification.jpg"
+        },
+        {
+            "id": 3260,
+            "title": "Building an end-to-end Polynomial Regression Model in R",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/building-an-end-to-end-polynomial-regression-model-in-r/",
+            "authors": "Iuliia Ignatova",
+            "tags": "Beginner, R, Regression, Structured Data",
+            "publishedOn": "2021-11-23T00:00:00",
+            "description": "Regression analysis is used for prediction. In this article, we will look at the use of a polynomial regression using real statistic data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/Linear-Algebra-in-Data-Science.png"
+        },
+        {
+            "id": 3261,
+            "title": "Performing Time Series Analysis using ARIMA Model in R",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/performing-time-series-analysis-using-arima-model-in-r/",
+            "authors": "De-Yu Chao",
+            "tags": "R, Time Series",
+            "publishedOn": "2021-11-22T00:00:00",
+            "description": "Gain comprehensive knowledge about the working of Arima. Learn how to perform time series analysis using the ARIMA model in R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/time-series1.jpg"
+        },
+        {
+            "id": 3262,
+            "title": "A Guide to Building an End-to-End Multiclass Text Classification Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-guide-to-building-an-end-to-end-multiclass-text-classification-model/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Classification, Guide, Text",
+            "publishedOn": "2021-11-22T00:00:00",
+            "description": "Learn how to build a multiclass text classification model from opensource dataset in Python from scratch with this end-to-end guide.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 3263,
+            "title": "KNIME Tutorial \u2013 A Friendly Introduction to Components using the KNIME Analytics Platform",
+            "url": "https://www.analyticsvidhya.com/blog/2021/11/a-friendly-introduction-to-components-with-knime-analytics/",
+            "authors": "Elisabeth Richter",
+            "tags": "KNIME",
+            "publishedOn": "2021-11-22T00:00:00",
+            "description": "Learn in depth about components and their functionalities. Create and setup your very own component in a few steps with Knime Analytics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/27668feature-image.png"
+        }
+    ]
+}

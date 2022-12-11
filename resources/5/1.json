@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6472,
+            "title": "Two-Layer Bandit Optimization for Recommendations",
+            "url": "https://machinelearning.apple.com/research/two-layer-bandit",
+            "authors": "Siyong Ma, Puja Das, Sofia Maria Nikolakaki, Qifeng Chen, Humeyra Topcu Altintas",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Online commercial app marketplaces serve millions of apps to billions of users in an efficient manner. Bandit optimization algorithms are\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6473,
+            "title": "GAUDI: A Neural Architect for Immersive 3D Scene Generation",
+            "url": "https://machinelearning.apple.com/research/gaudi",
+            "authors": "Miguel Angel Bautista, Pengsheng Guo, Samira Abnar, Walter Talbott, Alexander Toshev, Zhuoyuan Chen, Laurent Dinh, Shuangfei Zhai, Hanlin Goh, Daniel Ulbricht, Afshin Dehghan, Josh Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6474,
+            "title": "PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression",
+            "url": "https://machinelearning.apple.com/research/physiomtl",
+            "authors": "Jiacheng Zhu, Gregory Darnell, Agni Kumar, Ding Zhao, Bo Li, Xuanlong Nguyen, Shirley You Ren",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Heart rate variability (HRV) is a practical and noninvasive measure of autonomic nervous system activity, which plays an essential role in\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6475,
+            "title": "Toward Supporting Quality Alt Text in Computing Publications",
+            "url": "https://machinelearning.apple.com/research/toward-supporting-quality",
+            "authors": "Candace Williams, Lilian de Greef, Ed Harris, Leah Findlater, Amy Pavel, Cynthia Bennett",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "While researchers have examined alternative (alt) text for social media and news contexts, few have studied the status and challenges for\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6476,
+            "title": "Providing Insights for Open-Response Surveys via End-to-End Context-Aware Clustering",
+            "url": "https://machinelearning.apple.com/research/open-response-surveys",
+            "authors": "Soheil Esmaeilzadeh, Brian Williams, Davood Shamsi, Onar Vikingstad",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Teachers often conduct surveys in order to collect data from a predefined group of students to gain insights into topics of interest. When\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6477,
+            "title": "Layer-Wise Data-Free CNN Compression",
+            "url": "https://machinelearning.apple.com/research/layer-wise-data-free-cnn-compression",
+            "authors": "Maxwell Horton, Yanzi Jin, Ali Farhadi, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present an efficient method for compressing a trained neural network without using any data. Our data-free method requires 14x-450x fewer\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6478,
+            "title": "RGB-X Classification for Electronics Sorting",
+            "url": "https://machinelearning.apple.com/research/rgb-x-classification",
+            "authors": "FNU Abhimanyu*, Tejas Zodage*, Umesh Thillaivasan, Xinyue Lai, Rahul Chakwate, Javier Santillan, Emma Oti, Ming Zhao, Ralph Boirum Howie Choset, Matthew Travers",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Effectively disassembling and recovering materials from waste electrical and electronic equipment (WEEE) is a critical step in moving global\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6479,
+            "title": "ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer",
+            "url": "https://machinelearning.apple.com/research/detector-free-image",
+            "authors": "Hongkai Chen, Zixin Luo, Lei Zhou, Yurun Tian, Mingmin Zhen, Tian Fang, David Mckinnon, Yanghai Tsin, Long Quan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Generating robust and reliable correspondences across images is a fundamental task for a diversity of applications. To capture context at\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6480,
+            "title": "Mel Spectrogram Inversion with Stable Pitch",
+            "url": "https://machinelearning.apple.com/research/mel-spectrogram",
+            "authors": "Bruno Di Giorgi*, Mark Levy*, Richard Sharp",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Vocoders are models capable of transforming a low-dimensional spectral representation of an audio signal, typically the mel spectrogram, to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6481,
+            "title": "Multi-objective Hyper-parameter Optimization of Behavioral Song Embeddings",
+            "url": "https://machinelearning.apple.com/research/multi-objective-hyper-parameter",
+            "authors": "Massimo Quadrana, Antoine Larreche-Mouly, Matthias Mauch",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Song embeddings are a key component of most music recommendation engines. In this work, we study the hyper-parameter optimization of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6482,
+            "title": "Improving Voice Trigger Detection with Metric Learning",
+            "url": "https://machinelearning.apple.com/research/improving-voice-trigger",
+            "authors": "Prateeth Nayak, Takuya Higuchi, Anmol Gupta, Shivesh Ranjan, Stephen Shum, Siddharth Sigtia, Erik Marchi, Varun Lakshminarasimhan, Minsik Cho, Saurabh Adya, Chandra Dhir, Ahmed Tewfik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Voice trigger detection is an important task, which enables activating a voice assistant when a target user speaks a keyword phrase. A\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6483,
+            "title": "NeILF: Neural Incident Light Field for Material and Lighting Estimation",
+            "url": "https://machinelearning.apple.com/research/neural-incident-light-field",
+            "authors": "Yao Yao, Jingyang Zhang, Jingbo Liu, Yihang Qu, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a differentiable rendering framework for material and lighting estimation from multi-view images and a reconstructed geometry. In\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6484,
+            "title": "Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks",
+            "url": "https://machinelearning.apple.com/research/combining-compressions",
+            "authors": "Rajiv Movva*, Jinhao Lei*, Shayne Longpre, Ajay Gupta, Chris DuBois",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Quantization, knowledge distillation, and magnitude pruning are among the most popular methods for neural network compression in NLP\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6485,
+            "title": "Integrating Categorical Features in End-To-End ASR",
+            "url": "https://machinelearning.apple.com/research/integrating-categorical-features",
+            "authors": "Rongqing Huang",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "All-neural, end-to-end ASR systems gained rapid interest from the speech recognition community. Such systems convert speech input to text\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6486,
+            "title": "CVNets: High Performance Library for Computer Vision",
+            "url": "https://machinelearning.apple.com/research/high-performance-library",
+            "authors": "Sachin Mehta, Farzad Abdolhosseini, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We introduce CVNets, a high-performance open-source library for training deep neural networks for visual recognition tasks, including\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6487,
+            "title": "Space-Efficient Representation of Entity-centric Query Language Models",
+            "url": "https://machinelearning.apple.com/research/space-efficient-representation",
+            "authors": "Christophe Van Gysel, Mirko Hannemann, Ernest Pusateri, Youssef Oualil, Ilya Oparin",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Virtual assistants make use of automatic speech recognition (ASR) to help users answer entity-centric queries. However, spoken entity\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6488,
+            "title": "A Dense Material Segmentation Dataset for Indoor and Outdoor Scene Parsing",
+            "url": "https://machinelearning.apple.com/research/dense-material",
+            "authors": "Paul Upchurch* and Ransen Niu*",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "A key algorithm for understanding the world is material segmentation, which assigns a label (metal, glass, etc.) to each pixel. We find that\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6489,
+            "title": "Benign, Tempered, or Catastrophic: A Taxonomy of Overfitting",
+            "url": "https://machinelearning.apple.com/research/taxonomy-overfitting",
+            "authors": "Neil Mallinar, James B. Simon, Amirhesam Abedsoltan, Parthe Pandit, Mikhail Belkin, Preetum Nakkiran",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "The practical success of overparameterized neural networks has motivated the recent scientific study of interpolating methods, which\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6490,
+            "title": "FORML: Learning to Reweight Data for Fairness",
+            "url": "https://machinelearning.apple.com/research/learning-to-reweight-data",
+            "authors": "Bobby Yan*, Skyler Seto*, Nicholas Apostoloff",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Machine learning models are trained to minimize the mean loss for a single metric, and thus typically do not consider fairness and\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6491,
+            "title": "Regularized Training of Nearest Neighbor Language Models",
+            "url": "https://machinelearning.apple.com/research/regularized-training",
+            "authors": "Jean-Francois Ton, Walter Talbott, Shuangfei Zhai, Josh Susskind",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Including memory banks in a natural language processing architecture increases model capacity by equipping it with additional data at\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6492,
+            "title": "Minimax Demographic Group Fairness in Federated Learning",
+            "url": "https://machinelearning.apple.com/research/minimax-demographic-group",
+            "authors": "Afroditi Papadaki, Natalia Martinez, Martin Bertran, Guillermo Sapiro and Miguel Rodrigues",
+            "tags": "Paper, Privacy",
+            "publishedOn": null,
+            "description": "Federated learning is an increasingly popular paradigm that enables a large number of entities to collaboratively learn better models. In\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6493,
+            "title": "NeuMan: Neural Human Radiance Field from a Single Video",
+            "url": "https://machinelearning.apple.com/research/neural-human-radiance-field",
+            "authors": "Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Photorealistic rendering and reposing of humans is important for enabling augmented reality experiences. We propose a novel framework to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6494,
+            "title": "Device-Directed Speech Detection: Regularization via Distillation for Weakly-Supervised Models",
+            "url": "https://machinelearning.apple.com/research/device-directed-speech",
+            "authors": "Vineet Garg*, Ognjen (Oggi) Rudovic*, Pranay Dighe*, Ahmed H. Abdelaziz, Erik Marchi, Saurabh Adya, Chandra Dhir, Ahmed Tewfik",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We address the problem of detecting speech directed to a device that does not contain a specific wake-word that is traditionally used to\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6495,
+            "title": "Vocal Effort Modeling in Neural TTS for Improving the Intelligibility of Synthetic Speech in Noise",
+            "url": "https://machinelearning.apple.com/research/vocal-effort-modeling",
+            "authors": "Tuomo Raitio, Petko Petkov, Jiangchuan Li, Muhammed Shifas, Andrea Davis, Yannis Stylianou",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "We present a neural text-to-speech (TTS) method that models natural vocal effort variation to improve the intelligibility of synthetic\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6496,
+            "title": "Reachability Embeddings: Self-Supervised Representation Learning from Spatiotemporal Motion Trajectories for Multimodal Geospatial Computer Vision",
+            "url": "https://machinelearning.apple.com/research/reachability-embeddings",
+            "authors": "Swetava Ganguli, C. V. Krishnakumar Iyer, Vipul Pandey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Self-supervised representation learning techniques utilize large datasets without semantic annotations to learn meaningful, universal\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6497,
+            "title": "Dynamic Memory for Interpretable Sequential Optimization",
+            "url": "https://machinelearning.apple.com/research/dynamic-memory",
+            "authors": "Srivas Chennu*, Andrew Maher*, Jamie Martin*, Subash Prabhanantham*",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "Real-world applications of reinforcement learning for recommendation and experimentation faces a practical challenge: the relative reward of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6498,
+            "title": "ARtonomous: Introducing Middle School Students to Reinforcement Learning Through Virtual Robotics",
+            "url": "https://machinelearning.apple.com/research/reinforcement-learning-robotics",
+            "authors": "Griffin Dietz, Jennifer King Chen, Jazbo Beason, Matthew Tarrow, Adriana Hilliard, and R. Benjamin Shapiro",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "Typical educational robotics approaches rely on imperative programming for robot navigation. However, with the increasing presence of AI in\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6499,
+            "title": "Efficient Representation Learning via Adaptive Context Pooling",
+            "url": "https://machinelearning.apple.com/research/efficient-representation",
+            "authors": "Chen Huang, Walter Talbott, Navdeep Jaitly, Josh Susskind",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Self-attention mechanisms model long-range context by using pairwise attention between all input tokens. In doing so, they assume a fixed\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6500,
+            "title": "Leveraging Entity Representations, Dense-Sparse Hybrids, and Fusion-in-Decoder for Cross-Lingual Question Answering",
+            "url": "https://machinelearning.apple.com/research/leveraging-entity-representations",
+            "authors": "Zhucheng Tu, Janani Padmanabhan",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "We describe our two-stage system for the Multilingual Information Access (MIA) 2022 Shared Task on Cross-Lingual Open-Retrieval Question\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6501,
+            "title": "Optimal Algorithms for Mean Estimation under Local Differential Privacy",
+            "url": "https://machinelearning.apple.com/research/optimal-algorithms",
+            "authors": "Hilal Asi*, Vitaly Feldman*, Kunal Talwar*",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We study the problem of mean estimation of -bounded vectors under the constraint of local differential privacy. While the literature has a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

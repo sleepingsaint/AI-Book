@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4644,
+            "title": "Quick Guide To Estimation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/quick-guide-to-estimation/",
+            "authors": "Namrata Tolani",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2021-03-15T00:00:00",
+            "description": "Estimation techniques are used to help organizations make strategic business decisions as it is difficult to get data for the population",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.png"
+        },
+        {
+            "id": 4645,
+            "title": "Understanding Robotics With Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/understanding-robotics-with-python/",
+            "authors": "Shiv Maharaj",
+            "tags": "Advanced, Python, Research & Technology",
+            "publishedOn": "2021-03-15T00:00:00",
+            "description": "In this article, we will speak about Robotics with Python in the fourth industrial revolution and improving the existing efficiency",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/57144Shadow_Hand_Bulb_large-scaled.jpg"
+        },
+        {
+            "id": 4646,
+            "title": "Exploring Suicide Data in India with Python Code",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/exploring-suicide-data-in-india-with-python-code/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Beginner, Classification, Data Exploration, Data Visualization, Project, Python, Resource, Social Sector, Structured Data, Technique",
+            "publishedOn": "2021-03-15T00:00:00",
+            "description": "In this article, we would be exploring suicide data in India. We would be using Matplotlib and Seaborn libraries to graphically represent it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Exponential-Data-Analysis.jpg"
+        },
+        {
+            "id": 4647,
+            "title": "Introduction to K-Fold Cross-Validation in R",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/introduction-to-k-fold-cross-validation-in-r/",
+            "authors": "Muhammad Arnaldo",
+            "tags": "Classification, Clustering, Intermediate, Machine Learning, R, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-03-15T00:00:00",
+            "description": "K-fold cross-validation is one of the most commonly used model evaluation methods. This is a beginners guide to K-fold cross validation in R",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/56522data_science.jpg"
+        },
+        {
+            "id": 4648,
+            "title": "Comparison of Pearson and Spearman correlation coefficients",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/comparison-of-pearson-and-spearman-correlation-coefficients/",
+            "authors": "Sereno",
+            "tags": "Beginner, R, Statistics, Structured Data, Technique",
+            "publishedOn": "2021-03-14T00:00:00",
+            "description": "Pearson vs Spearman correlation comparison to see whether they will give the same level of strength or is there any deviation between the two",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/statistics-1020319_960_720.png"
+        },
+        {
+            "id": 4649,
+            "title": "Edge Detection: Extracting The Edges From An Image",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/edge-detection-extracting-the-edges-from-an-image/",
+            "authors": "Shipra Saxena",
+            "tags": "Advanced, Computer Vision, Deep Learning, Videos",
+            "publishedOn": "2021-03-12T00:00:00",
+            "description": "Edge detection is an image processing technique. In this article, let\u2019s Understand what is edge detection and how it can be helpful",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Focal-loss-in-object-detection.jpg"
+        },
+        {
+            "id": 4650,
+            "title": "7 Popular Feature Selection Routines in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/7-popular-feature-selection-routines-in-machine-learning/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Listicle, Machine Learning",
+            "publishedOn": "2021-03-12T00:00:00",
+            "description": "Feature selection techniques for training a robust ML model. In this article we will learn about 7 feature selection techniques",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Importance-Of-Feature-Engineering-In-DataHack-Competitions.jpg"
+        },
+        {
+            "id": 4651,
+            "title": "Language Detection Using Natural Language Processing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/language-detection-using-natural-language-processing/",
+            "authors": "Basil Saji",
+            "tags": "Advanced, Classification, NLP, Project, Python, Structured Data, Supervised, Technique, Text",
+            "publishedOn": "2021-03-12T00:00:00",
+            "description": "Language Detection is an important utilization of Natural Language Processing. In this article let's see implementation of Language Detection",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 4652,
+            "title": "Who Will\u00a0Be The Useless Species of\u00a02050? Human Intelligence v/s Artificial Intelligence",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/who-will-be-the-useless-species-of-2050-human-intelligence-v-s-artificial-intelligence/",
+            "authors": "Hrishabh Digaari \ud83c\uddee\ud83c\uddf3",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2021-03-12T00:00:00",
+            "description": "Human intelligence vs artificial intelligence! Let\u2019s go through the history of humankind and collect shreds of evidence on the impact of AI",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/42847artificial-intelligence-4389372_1920.jpg"
+        },
+        {
+            "id": 4653,
+            "title": "Step by Step process of Feature Engineering for Machine Learning Algorithms in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/step-by-step-process-of-feature-engineering-for-machine-learning-algorithms-in-data-science/",
+            "authors": "ELLURU PAVAN KUMAR REDDY",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2021-03-11T00:00:00",
+            "description": "Feature engineering is a very important aspect of machine learning. This article covers the step by step process of feature engineering",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Importance-Of-Feature-Engineering-In-DataHack-Competitions.jpg"
+        },
+        {
+            "id": 4654,
+            "title": "Basic Ensemble Techniques in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/basic-ensemble-technique-in-machine-learning/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Machine Learning, Videos",
+            "publishedOn": "2021-03-10T00:00:00",
+            "description": "Ensemble Technique combines several individual predictive models to come up with the final predictive model for better accuracy",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/machine.jpg"
+        },
+        {
+            "id": 4655,
+            "title": "Image Augmentation Techniques for Training Deep Learning Models",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/image-augmentation-techniques-for-training-deep-learning-models/",
+            "authors": "Shipra Saxena",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image Analysis, Videos",
+            "publishedOn": "2021-03-10T00:00:00",
+            "description": "Image augmentation techniques help in altering the existing image data to create some more data for the model training process",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/image_augmentation.jpg"
+        },
+        {
+            "id": 4656,
+            "title": "An Image is Worth 16\u00d716 Words: Transformers for Image Recognition at Scale (Vision Transformers)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vision-transformers/",
+            "authors": "Satishkumar Moparthi",
+            "tags": "Advanced, Computer Vision, Deep Learning, Research & Technology, Resource",
+            "publishedOn": "2021-03-10T00:00:00",
+            "description": "Vision Transformers is one of the prominent tranformers for Image Recognition at Scale. Let'd deep dive into Vision transformers",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pytorch-transformers.jpg"
+        },
+        {
+            "id": 4657,
+            "title": "Interview Questions on Exploratory Data Analysis (EDA)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/interview-questions-on-exploratory-data-analysis-eda/",
+            "authors": "Radhika",
+            "tags": "Beginner, Data Exploration, Interview Questions, Interviews",
+            "publishedOn": "2021-03-10T00:00:00",
+            "description": "Exploratory Data Analysis interview questions to crack the interview. Take a look at some Interview Questions on Exploratory Data Analysis.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/telephonic-interview_v-01-01.png"
+        },
+        {
+            "id": 4658,
+            "title": "Introduction to Batch Normalization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization/",
+            "authors": "Shipra Saxena",
+            "tags": "Advanced, Deep Learning, Videos",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "Batch normalization is the process to make neural networks faster and more stable through adding extra layers in a deep neural network.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 4659,
+            "title": "Forward Propagation and Errors in a Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/forward-propagation-and-errors-in-a-neural-netwrok/",
+            "authors": "Himanshi Singh",
+            "tags": "Advanced, Deep Learning, Videos",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "Forward propagation is the first step of training a neural network. In this article, learn about the errors and forward propagation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 4660,
+            "title": "Python Treatment for Outliers in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/zooming-out-a-look-at-outlier-and-how-to-deal-with-them-indata-science/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner, Python, Statistics, Structured Data, Technique",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "Outlier is an object that deviates significantly from the rest of the object collection. Learn about how to deal with outliers",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/outlier.png"
+        },
+        {
+            "id": 4661,
+            "title": "Data Science is Not Good for Health \u2013 A Unique Look at Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/data-science-is-not-good-for-health-a-unique-look-at-data-science/",
+            "authors": "Soumyadeep Auddy",
+            "tags": "Beginner, Interview Questions",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "In the article, Data Science is Not Good for Health, we try get a Unique Look at Data Science and its different components",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/health.jpg"
+        },
+        {
+            "id": 4662,
+            "title": "A Super Quick Introduction to Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/a-super-quick-introduction-to-machine-learning/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Interview Questions, Machine Learning",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "Machine Learning is one of the most trending topics in the fourth industrial revolution. Let's see an overview of machine learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Machine-Learning-and-Supply-Chain-Management.jpg"
+        },
+        {
+            "id": 4663,
+            "title": "Understanding Data Science from a Beginner\u2019s Lens",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/understanding-data-science-from-a-beginners-lens/",
+            "authors": "Ayan DOGRA",
+            "tags": "Beginner, Interview Questions",
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "Data Science is the field of study of data, which in its raw form is meaningless. Let us understand data science further in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/29155a.jpg"
+        },
+        {
+            "id": 4664,
+            "title": "Beginner\u2019s Guide to Support Vector Machine(SVM)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/beginners-guide-to-support-vector-machine-svm/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Machine Learning, Videos",
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "In this article, we are going to see what is SVM and how SVM works and the different kernel functions used by the algorithm to predict",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Support-Vector-Regression.gif"
+        },
+        {
+            "id": 4665,
+            "title": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Kaggle Notebooks Grandmaster Tarun Paparaju (#Rank 25)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/kaggle-grandmaster-series-exclusive-interview-with-kaggle-notebooks-grandmaster-tarun-paparaju-rank-25/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Beginner, Interview Questions, Interviews, Profile Building",
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "In the 22nd edition of the Kaggle Grandmaster Series, we are thrilled to be joined by Kaggle Notebooks Grandmaster Tarun Paparaju",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/20210308_180332_0000.png"
+        },
+        {
+            "id": 4666,
+            "title": "Customer Loyalty Program with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/customer-loyalty-program-with-python/",
+            "authors": "Amit Kulkarni",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data",
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "Let's build a customer loyalty program with python-Dash to segment our customers to make data-driven decisions to improve customer loyalty.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/17783Customer.jpg"
+        },
+        {
+            "id": 4667,
+            "title": "Stock Options Chain Analysis Using Excel",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/stock-options-chain-analysis-using-excel/",
+            "authors": "[email\u00a0protected]",
+            "tags": "Beginner, Excel, Machine Learning, Project, Stock Trading, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "In this article, we will be focusing on one particular type of stock analysis termed as the Options Chain analysis using Excel",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/92495stock-market-trends-what-causes-stock-prices-to-change.jpg"
+        },
+        {
+            "id": 4668,
+            "title": "Data Scientist\u2019s Guide to Logistic regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/logistic-regression/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Maths, Statistics, Videos",
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "Logistic Regression is a mathematical model used in statistics to estimate the probability of an event occurring using some previous data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 4669,
+            "title": "Axioms of Probability Every Data Scientist Should Know!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/axioms-of-probability-every-data-scientist-should-know/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Probability, Videos",
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "Axioms of probability is one of the fundamental concepts of probability. In this article we understand the 3 axioms of probability in detail",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Understand-Conditional-probability-using-Monty-Hall-Problem.jpg"
+        },
+        {
+            "id": 4670,
+            "title": "Data Validation and Data Verification \u2013 From Dictionary to Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/data-validation-and-data-verification-from-dictionary-to-machine-learning/",
+            "authors": "Aditya Agarwal",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "Data validation and verification are often used interchangeably when we talk about data quality. Learn the difference between them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/42847artificial-intelligence-4389372_1920.jpg"
+        },
+        {
+            "id": 4671,
+            "title": "International Space Station(ISS) Detector using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/international-space-stationiss-detector-using-python/",
+            "authors": "Shrish Mohadarkar",
+            "tags": "Advanced, Computer Vision, Object Detection, Project, Python, Structured Data, Technique",
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "In this article we are going to create our own International Space Station(ISS) detector using Python and test it to see if it works",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/file-20170505-21003-zbguhy.jpg"
+        },
+        {
+            "id": 4672,
+            "title": "Understanding Gradient Descent Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/understanding-gradient-descent-algorithm/",
+            "authors": "Shipra Saxena",
+            "tags": "Advanced, Machine Learning, Maths, Statistics, Videos",
+            "publishedOn": "2021-03-04T00:00:00",
+            "description": "Gradient descent is a first-order iterative optimization algorithm. In this article, learn how does gradient descent work and optimize model",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 4673,
+            "title": "Data Science 101: Introduction to Cost Function",
+            "url": "https://www.analyticsvidhya.com/blog/2021/03/data-science-101-introduction-to-cost-function/",
+            "authors": "Himanshi Singh",
+            "tags": "Advanced, Machine Learning, Maths, Python, Statistics, Videos",
+            "publishedOn": "2021-03-04T00:00:00",
+            "description": "Cost function gives the lowest MSE which is the sum of the squared differences between the prediction and true value for Linear Regression",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/22295t1.jpg"
+        }
+    ]
+}

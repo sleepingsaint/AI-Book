@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5124,
+            "title": "The Lifecycle to Build a Web Application for Prediction from Scratch",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/web-application/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Machine Learning, Programming, Python, Structured Data, Technique",
+            "publishedOn": "2020-09-01T00:00:00",
+            "description": "Data Science project consists of 7 steps. This article goes through this lifecycle to build a web application for heart disease classification",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Web-Application-for-Prediction.jpg"
+        },
+        {
+            "id": 5125,
+            "title": "Basic Concepts of Object-Oriented Programming in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/",
+            "authors": "Himanshi Singh",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2020-09-01T00:00:00",
+            "description": "Object Oriented programming in python is famous because it implements real world entities. Learn about the major oops concepts in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 5126,
+            "title": "A Simple Introduction to Sequence to Sequence Models",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/a-simple-introduction-to-sequence-to-sequence-models/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Deep Learning, Intermediate, NLP, Supervised, Text, Unstructured Data",
+            "publishedOn": "2020-08-31T00:00:00",
+            "description": "The Seq2Seq model is a special class of RNNs used to solve complex language problems. In this article understand seq2seq architecture.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Introduction-to-Sequence-to-Sequence-Models.jpg"
+        },
+        {
+            "id": 5127,
+            "title": "Plotting Decision Surface for Classification Machine Learning Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/plotting-decision-surface-for-classification-machine-learning-algorithms/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Visualization, Machine Learning, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2020-08-31T00:00:00",
+            "description": "A Decision Surface could be a powerful tool to visualize and understand how a model arrives at its predictions. We will plot decision surface",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 5128,
+            "title": "Integrating Python in Power BI: Get the best of both worlds",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/integrating-python-in-power-bi/",
+            "authors": "Kaushik Roy Chowdhury",
+            "tags": "Beginner, Big data, Data Exploration, Data Visualization, Power BI, Python, Technique",
+            "publishedOn": "2020-08-31T00:00:00",
+            "description": "Understand Integrating Python with Power BI. Also understand the importance of this integration for business analysts and data scientist.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Integrating-Python-in-Power-BI.jpg"
+        },
+        {
+            "id": 5129,
+            "title": "Web Scraping using Selenium with Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/",
+            "authors": "guest_blog",
+            "tags": "Intermediate, Libraries, Programming, Project, Python",
+            "publishedOn": "2020-08-30T00:00:00",
+            "description": "In this article learn about web scraping and selenium for web scraping. Explore implementation of image web scraping using selenium python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/WebScraping-using-Selenium-with-Python.jpg"
+        },
+        {
+            "id": 5130,
+            "title": "6 Top Tools for Analytics and Business Intelligence in 2020",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/6-top-tools-for-analytics-and-business-intelligence-in-2020/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Data Visualization, Listicle, Power BI, Qlikview, Tableau",
+            "publishedOn": "2020-08-29T00:00:00",
+            "description": "Business intelligence tools used by organizations. A list of top BI tools to analyze data from business operations to find actionable insight",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Analytics-and-Business-Intelligence-in-2020.jpg"
+        },
+        {
+            "id": 5131,
+            "title": "A Beginner\u2019s Guide to Focal Loss in Object Detection!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Computer Vision, Deep Learning, Image, Intermediate",
+            "publishedOn": "2020-08-28T00:00:00",
+            "description": "In this article we explain Focal Loss which is an improved version of Cross-Entropy Loss, that tries to handle the class imbalance problem.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Focal-loss-in-object-detection.jpg"
+        },
+        {
+            "id": 5132,
+            "title": "What is Better for Data Science Learning and Work: Julia or Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/what-is-better-for-data-science-learning-and-work-julia-or-python/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Julia, Python, Resource",
+            "publishedOn": "2020-08-28T00:00:00",
+            "description": "We decided to address the julia python comparison. This article help you to answer the julia vs python question that a lot of us ask.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Julia-vs-Python.jpg"
+        },
+        {
+            "id": 5133,
+            "title": "Essential Functionalities to Guide you While using AWS Glue and PySpark!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/essential-functionalities-to-guide-you-while-using-aws-glue-and-pyspark/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Python, Technique",
+            "publishedOn": "2020-08-28T00:00:00",
+            "description": "In this article we talk about some specific features and functionalities in AWS Glue and PySpark which can be helpful while writing scripts",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/aws.jpg"
+        },
+        {
+            "id": 5134,
+            "title": "How to Create Aggregation Pipelines in a MongoDB Database Using PyMongo",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/how-to-create-aggregation-pipelines-in-a-mongodb-database-using-pymongo/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Big data, Database, Libraries, MongoDB, NoSQL, Programming, Python",
+            "publishedOn": "2020-08-28T00:00:00",
+            "description": "The aggregation pipelines in MongoDB provides you a framework to aggregate data and is built on the concept of the data processing pipelines.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Aggregation-Pipelines-in-MongoDB.jpg"
+        },
+        {
+            "id": 5135,
+            "title": "Exploratory Data Analysis(EDA) in Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data, Technique",
+            "publishedOn": "2020-08-27T00:00:00",
+            "description": "Exploratory data analysis is one of the best practices used in data science today. It is imporatnt as it helps in understanding the data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Exponential-Data-Analysis.jpg"
+        },
+        {
+            "id": 5136,
+            "title": "4 Impressive GAN Libraries Every Data Scientist Should Know!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/",
+            "authors": "Shipra Saxena",
+            "tags": "Computer Vision, Deep Learning, Intermediate, Listicle, Python",
+            "publishedOn": "2020-08-26T00:00:00",
+            "description": "GAN is a state of the art deep learning method usd for image data. This article introduces you to various GAN libraries in the industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Please-make-a-featured-image-using-this.jpg"
+        },
+        {
+            "id": 5137,
+            "title": "Top 4 Sentence Embedding Techniques using Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/",
+            "authors": "Purva Huilgol",
+            "tags": "Intermediate, Listicle, NLP, Python, Technique, Text",
+            "publishedOn": "2020-08-25T00:00:00",
+            "description": "Sentence embedding techniques represent entire sentences and their semantic information, etc as vectors. Let us have a look at the top ones",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-5-Sentence-Embedding-Techniques-using-Python.png"
+        },
+        {
+            "id": 5138,
+            "title": "How to build a Face Mask Detector using RetinaNet Model!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Project, Python, Technique, Unstructured Data, Use Cases",
+            "publishedOn": "2020-08-25T00:00:00",
+            "description": "Face Mask Detector is a prime requirement of this pandemic. Learn to create a Face Mask Detector using RetinaNet in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Face-Mask-Detection-using-RetinaNet-Model.jpg"
+        },
+        {
+            "id": 5139,
+            "title": "A Beginner\u2019s Guide to CAP Theorem for Data Engineering",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-cap-theorem-for-data-engineering/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Data Engineering, NoSQL",
+            "publishedOn": "2020-08-24T00:00:00",
+            "description": "CAP theorem helps to handle your distributed database systems when a few database servers refuse to communicate with each other.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Understanding-CAP-theorem.jpg"
+        },
+        {
+            "id": 5140,
+            "title": "Query a MongoDB Database using PyMongo!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/query-a-mongodb-database-using-pymongo/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Big data, Libraries, MongoDB, Python",
+            "publishedOn": "2020-08-21T00:00:00",
+            "description": "Learn how to query a MongoDB database using PyMongo. We will see how to apply the different kinds of filters for querying a database.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Query-MongoDB-using-PyMongo.png"
+        },
+        {
+            "id": 5141,
+            "title": "Movie Recommendation and Rating Prediction using K-Nearest Neighbors",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/recommendation-system-k-nearest-neighbors/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Project, Python, Technique, Unsupervised, Use Cases",
+            "publishedOn": "2020-08-20T00:00:00",
+            "description": "We will understand Recommendation Systems and how to build a Movie Recommendation System using K-Nearest Neighbors algorithm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/stats.jpg"
+        },
+        {
+            "id": 5142,
+            "title": "5 Pressing Global Issues AI is Solving",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/5-pressing-global-issues-ai-is-solving/",
+            "authors": "MUKUL850",
+            "tags": "Artificial Intelligence, Beginner, Listicle, Use Cases",
+            "publishedOn": "2020-08-20T00:00:00",
+            "description": "This article enumerates 5 global issues that AI can help solve and create a better and more sustainable future for humanity.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/5-Pressing-Global-Issues-AI-is-Solving.jpg"
+        },
+        {
+            "id": 5143,
+            "title": "Docker-based Python Development with CUDA Support on PyCharm and/or Visual Studio Code",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/docker-based-python-development-with-cuda-support-on-pycharm-and-or-visual-studio-code/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Programming, Python, Technique",
+            "publishedOn": "2020-08-19T00:00:00",
+            "description": "This article shows you how to set up Docker-based Python development environment with CUDA support in PyCharm or Visual Studio Code",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Docker-based-Python-.jpg"
+        },
+        {
+            "id": 5144,
+            "title": "Understand Conditional Probability Solving the Monty Hall Problem!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/probability-conditional-probability-monty-hall-problem/",
+            "authors": "Subhash Meena",
+            "tags": "Beginner, Probability, Statistics",
+            "publishedOn": "2020-08-19T00:00:00",
+            "description": "Understand conditional probability using the famous monty hall problem and excel in your journey to becoming a better data scientist.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Understand-Conditional-probability-using-Monty-Hall-Problem.jpg"
+        },
+        {
+            "id": 5145,
+            "title": "Top 4 Pre-Trained Models for Image Classification with Python Code",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/",
+            "authors": "Purva Huilgol",
+            "tags": "Computer Vision, Image, Intermediate, Listicle, Python, Unstructured Data",
+            "publishedOn": "2020-08-18T00:00:00",
+            "description": "We cover 4 pre-trained models for Image Classification that are state-of-the-art(SOTA) and are widely used in the industry as well.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-4-Pretrained-Image-classification-models.jpg"
+        },
+        {
+            "id": 5146,
+            "title": "Analysing Streaming Tweets with Python and PostgreSQL",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/analysing-streaming-tweets-with-python-and-postgresql/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Data Engineering, Intermediate, Python, Social Media, SQL, Unstructured Data",
+            "publishedOn": "2020-08-17T00:00:00",
+            "description": "Learn how to stream tweets in real-time, store them in a database, and finally analyse streaming tweets to get the present mood of the public.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design11.png"
+        },
+        {
+            "id": 5147,
+            "title": "How to Extract tabular data from PDF document using Camelot in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/how-to-extract-tabular-data-from-pdf-document-using-camelot-in-python/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Python, Structured Data, Technique",
+            "publishedOn": "2020-08-14T00:00:00",
+            "description": "Camelot is a Python library that makes it easy for anyone to extract tables from PDF files. Learn using cameot in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design9-768x512.png"
+        },
+        {
+            "id": 5148,
+            "title": "Here\u2019s All you Need to Know About Encoding Categorical Data (with Python code)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2020-08-13T00:00:00",
+            "description": "Dealing with categorical data is key to creating a successful model. Learn what is categorical data and various categorical data encoding methods.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design81.png"
+        },
+        {
+            "id": 5149,
+            "title": "How to Reduce Computational Constraints using Momentum Contrast V2(Moco-v2) in PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/moco-v2-in-pytorch/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Deep Learning, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-08-13T00:00:00",
+            "description": "MoCo-v2 comes with the simplicity and power of SimCLR with fewer compute requirements. It is unsupervised technique for visual representation learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-10-channel-for-Data-science6-768x512.png"
+        },
+        {
+            "id": 5150,
+            "title": "10 Powerful YouTube Channels for Data Science Aspirants!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/10-powerful-youtube-channels-for-data-science-aspirants/",
+            "authors": "MUKUL850",
+            "tags": "Beginner, Listicle, Resource, Videos",
+            "publishedOn": "2020-08-13T00:00:00",
+            "description": "Best youtube channels for data science aspirants to learn data science. This article enumerates the top data science youtube channels to follow.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-10-channel-for-Data-science2.png"
+        },
+        {
+            "id": 5151,
+            "title": "Image Augmentation on the fly using Keras ImageDataGenerator!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/image-augmentation-on-the-fly-using-keras-imagedatagenerator/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-08-11T00:00:00",
+            "description": "Image augmentation in keras is used to expand the size of your dataset. In this article learn how to do that on the fly with Keras ImageDataGenerator.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design7-768x512.png"
+        },
+        {
+            "id": 5152,
+            "title": "Bias and Variance in Machine Learning \u2013 A Fantastic Guide for Beginners!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/bias-and-variance-tradeoff-machine-learning/",
+            "authors": "Purva Huilgol",
+            "tags": "Beginner, Machine Learning, Python, Statistics, Structured Data",
+            "publishedOn": "2020-08-11T00:00:00",
+            "description": "Bias variance is used to minimize the total predictive error of any model. In this article learn what is bias and variance and difference between them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Copy-of-Add-a-subheading5.png"
+        },
+        {
+            "id": 5153,
+            "title": "Building Sales Prediction Web Application using Machine Learning Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2020/08/building-sales-prediction-web-application-using-machine-learning-dataset/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Machine Learning, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2020-08-10T00:00:00",
+            "description": "We create a video game sales prediction model using a dataset and then using trained model for creating a basic Sales Prediction Web Application.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Untitled-design1.png"
+        }
+    ]
+}

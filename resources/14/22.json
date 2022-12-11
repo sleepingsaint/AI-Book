@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9142,
+            "title": "How to Transform Data to Better Fit The Normal Distribution",
+            "url": "https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-21T00:00:00",
+            "description": "A large portion of the field of statistics is concerned with methods that assume a Gaussian distribution: the familiar bell curve. If your data has a Gaussian distribution, the parametric methods are powerful and well understood. This gives some incentive to use them if possible. Even if your data does not have a Gaussian distribution. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/How-to-Transform-Data-to-Better-Fit-The-Normal-Distribution.jpg"
+        },
+        {
+            "id": 9143,
+            "title": "How to Calculate Parametric Statistical Hypothesis Tests in Python",
+            "url": "https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-18T00:00:00",
+            "description": "Parametric statistical methods often mean those methods that assume the data samples have a Gaussian distribution. in applied machine learning, we need to compare data samples, specifically the mean of the samples. Perhaps to see if one technique performs better than another on one or more datasets. To quantify this question and interpret the results, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/Introduction-to-Use-Parametric-Statistical-Significance-Tests-in-Python.jpg"
+        },
+        {
+            "id": 9144,
+            "title": "How to Calculate Nonparametric Statistical Hypothesis Tests in Python",
+            "url": "https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-16T00:00:00",
+            "description": "In applied machine learning, we often need to determine whether two data samples have the same or different distributions. We can answer this question using statistical significance tests that can quantify the likelihood that the samples have the same distribution. If the data does not have the familiar Gaussian distribution, we must resort to nonparametric [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/Introduction-to-Nonparametric-Statistical-Significance-Tests-in-Python.jpg"
+        },
+        {
+            "id": 9145,
+            "title": "A Gentle Introduction to Statistical Hypothesis Testing",
+            "url": "https://machinelearningmastery.com/statistical-hypothesis-tests/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-14T00:00:00",
+            "description": "Data must be interpreted in order to add meaning. We can interpret data by assuming a specific structure our outcome and use statistical methods to confirm or reject the assumption. The assumption is called a hypothesis and the statistical tests used for this purpose are called statistical hypothesis tests. Whenever we want to make claims [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-Statistical-Hypothesis-Tests.jpg"
+        },
+        {
+            "id": 9146,
+            "title": "A Gentle Introduction to Normality Tests in Python",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-11T00:00:00",
+            "description": "An important decision point when working with a sample of data is whether to use parametric or nonparametric statistical methods. Parametric statistical methods assume that the data has a known and specific distribution, often a Gaussian distribution. If a data sample is not Gaussian, then the assumptions of parametric statistical tests are violated and nonparametric [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-Normality-Tests-in-Python.jpg"
+        },
+        {
+            "id": 9147,
+            "title": "A Gentle Introduction to Nonparametric Statistics",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-nonparametric-statistics/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-09T00:00:00",
+            "description": "A large portion of the field of statistics and statistical methods is dedicated to data where the distribution is known. Samples of data where we already know or can easily identify the distribution of are called parametric data. Often, parametric is used to refer to data that was drawn from a Gaussian distribution in common [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-Nonparametric-Statistics.jpg"
+        },
+        {
+            "id": 9148,
+            "title": "Statistics Books for Machine Learning",
+            "url": "https://machinelearningmastery.com/statistics-books-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-07T00:00:00",
+            "description": "Statistical methods are used at each step in an applied machine learning project. This means it is important to have a strong grasp of the fundamentals of the key findings from statistics and a working knowledge of relevant statistical methods. Unfortunately, statistics is not covered in many computer science and software engineering degree programs. Even [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/Statistics-Books-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9149,
+            "title": "A Gentle Introduction to the Central Limit Theorem for Machine Learning",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-04T00:00:00",
+            "description": "The central limit theorem is an often quoted, but misunderstood pillar from statistics and machine learning. It is often confused with the law of large numbers. Although the theorem may seem esoteric to beginners, it has important implications about how and why we can make inferences about the skill of machine learning models, such as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-the-Central-Limit-Theorem-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9150,
+            "title": "A Gentle Introduction to the Law of Large Numbers in Machine Learning",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-02T00:00:00",
+            "description": "We have an intuition that more observations is better. This is the same intuition behind the idea that if we collect more data, our sample of data will be more representative of the problem domain. There is a theorem in statistics and probability that supports this intuition that is a pillar of both of these [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-the-Law-of-Large-Numbers-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9151,
+            "title": "A Gentle Introduction to Calculating Normal Summary Statistics",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-calculating-normal-summary-statistics/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-04-30T00:00:00",
+            "description": "A sample of data is a snapshot from a broader population of all possible observations that could be taken of a domain or generated by a process. Interestingly, many observations fit a common pattern or distribution called the normal distribution, or more formally, the Gaussian distribution. A lot is known about the Gaussian distribution, and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Line-plot-of-Gaussian-distributions-with-low-and-high-variance.png"
+        },
+        {
+            "id": 9152,
+            "title": "How to Calculate Correlation Between Variables in Python",
+            "url": "https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-04-27T00:00:00",
+            "description": "There may be complex and unknown relationships between the variables in your dataset. It is important to discover and quantify the degree to which variables in your dataset are dependent upon each other. This knowledge can help you better prepare your data to meet the expectations of machine learning algorithms, such as linear regression, whose [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Scatter-plot-of-the-test-correlation-dataset.png"
+        },
+        {
+            "id": 9153,
+            "title": "How to Remove Outliers for Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2018-04-25T00:00:00",
+            "description": "When modeling, it is important to clean the data sample to ensure that the observations best represent the problem. Sometimes a dataset can contain extreme values that are outside the range of what is expected and unlike the other data. These are called outliers and often machine learning modeling and model skill in general can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/How-to-Use-Statistics-to-Identify-Outliers-in-Data.jpg"
+        },
+        {
+            "id": 9154,
+            "title": "Introduction to Random Number Generators for Machine Learning in Python",
+            "url": "https://machinelearningmastery.com/introduction-to-random-number-generators-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-04-23T00:00:00",
+            "description": "Randomness is a big part of machine learning. Randomness is used as a tool or a feature in preparing data and in learning algorithms that map input data to output data in order to make predictions. In order to understand the need for statistical methods in machine learning, you must understand the source of randomness [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Introduction-to-Random-Number-Generators-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9155,
+            "title": "How To Know if Your Machine Learning Model Has Good Performance",
+            "url": "https://machinelearningmastery.com/how-to-know-if-your-machine-learning-model-has-good-performance/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2018-04-20T00:00:00",
+            "description": "After you develop a machine learning model for your predictive modeling problem, how do you know if the performance of the model is any good? This is a common question I am asked by beginners. As a beginner, you often seek an answer to this question, e.g. you want someone to tell you whether an [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/How-To-Know-if-Your-Machine-Learning-Model-Has-Good-Performance.jpg"
+        },
+        {
+            "id": 9156,
+            "title": "The Model Performance Mismatch Problem (and what to do about it)",
+            "url": "https://machinelearningmastery.com/the-model-performance-mismatch-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2018-04-18T00:00:00",
+            "description": "What To Do If Model Test Results Are Worse than Training. The procedure when evaluating machine learning models is to fit and evaluate them on training data, then verify that the model has good skill on a held-back test dataset. Often, you will get a very promising performance when evaluating the model on the training [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/The-Model-Performance-Mismatch-Problem-and-what-to-do-about-it.jpg"
+        },
+        {
+            "id": 9157,
+            "title": "How to Get the Most From Your Machine Learning Data",
+            "url": "https://machinelearningmastery.com/how-to-get-the-most-from-your-machine-learning-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2018-04-16T00:00:00",
+            "description": "The data that you use, and how you use it, will likely define the success of your predictive modeling problem. Data and the framing of your problem may be the point of biggest leverage on your project. Choosing the wrong data or the wrong framing for your problem may lead to a model with poor [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/How-to-Get-the-Most-From-Your-Machine-Learning-Data.jpg"
+        },
+        {
+            "id": 9158,
+            "title": "Analytical vs Numerical Solutions in Machine Learning",
+            "url": "https://machinelearningmastery.com/analytical-vs-numerical-solutions-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2018-04-13T00:00:00",
+            "description": "Do you have questions like: What data is best for my problem? What algorithm is best for my data? How do I best configure my algorithm? Why can\u2019t a machine learning expert just give you a straight answer to your question? In this post, I want to help you see why no one can ever [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Analytical-vs-Numerical-Solutions-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9159,
+            "title": "Machine Learning Development Environment",
+            "url": "https://machinelearningmastery.com/machine-learning-development-environment/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2018-04-11T00:00:00",
+            "description": "The development environment that you use for machine learning may be just as important as the machine learning methods that you use to solve your predictive modeling problem. A few times a week, I get a question such as: What is your development environment for machine learning? In this post, you will discover the development [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Machine-Learning-Development-Environment.jpg"
+        },
+        {
+            "id": 9160,
+            "title": "How to Make Predictions with scikit-learn",
+            "url": "https://machinelearningmastery.com/make-predictions-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2018-04-06T00:00:00",
+            "description": "How to predict classification or regression outcomes with scikit-learn models in Python. Once you choose and fit a final machine learning model in scikit-learn, you can use it to make predictions on new data instances. There is some confusion amongst beginners about how exactly to do this. I often see questions such as: How do [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/02/Gentle-Introduction-to-Vector-Norms-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9161,
+            "title": "So, You are Working on a Machine Learning Problem\u2026",
+            "url": "https://machinelearningmastery.com/working-machine-learning-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2018-04-04T00:00:00",
+            "description": "So, you\u2019re working on a machine learning problem. I want to really nail down where you\u2019re at right now. Let me make some guesses\u2026 1) You Have a Problem So you have a problem that you need to solve. Maybe it\u2019s your problem, an idea you have, a question, or something you want to address. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/So-You-are-Working-on-a-Machine-Learning-Problem....jpg"
+        },
+        {
+            "id": 9162,
+            "title": "How to Think About Machine Learning",
+            "url": "https://machinelearningmastery.com/think-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2018-04-02T00:00:00",
+            "description": "Machine learning is a large and interdisciplinary field of study. You can achieve impressive results with machine learning and find solutions to very challenging problems. But this is only a small corner of the broader field of machine learning often called predictive modeling or predictive analytics. In this post, you will discover how to change [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/How-to-Think-About-Machine-Learning.jpg"
+        },
+        {
+            "id": 9163,
+            "title": "Comparing 13 Algorithms on 165 Datasets (hint: use Gradient Boosting)",
+            "url": "https://machinelearningmastery.com/start-with-gradient-boosting/",
+            "authors": "Jason Brownlee",
+            "tags": "XGBoost",
+            "publishedOn": "2018-03-30T00:00:00",
+            "description": "Which machine learning algorithm should you use? It is a central question in applied machine learning. In a recent paper by Randal Olson and others, they attempt to answer it and give you a guide for algorithms and parameters to try on your problem first, before spot checking a broader suite of algorithms. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/01/Algorithm-performance-improvement-via-parameter-tuning.png"
+        },
+        {
+            "id": 9164,
+            "title": "Why Machine Learning Does Not Have to Be So Hard",
+            "url": "https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2018-03-28T00:00:00",
+            "description": "Technical topics like mathematics, physics, and even computer science are taught using a bottom-up approach. This approach involves laying out the topics in an area of study in a logical way with a natural progression in complexity and capability. The problem is, humans are not robots executing a learning program. We require motivation, excitement, and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Youre-Doing-it-Wrong.-Why-Machine-Learning-Does-Not-Have-to-Be-So-Hard.jpg"
+        },
+        {
+            "id": 9165,
+            "title": "Basics of Mathematical Notation for Machine Learning",
+            "url": "https://machinelearningmastery.com/basics-mathematical-notation-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-26T00:00:00",
+            "description": "You cannot avoid mathematical notation when reading the descriptions of machine learning methods. Often, all it takes is one term or one fragment of notation in an equation to completely derail your understanding of the entire procedure. This can be extremely frustrating, especially for machine learning beginners coming from the world of development. You can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Basics-of-Mathematical-Notation-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9166,
+            "title": "Linear Algebra for Machine Learning (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-23T00:00:00",
+            "description": "Linear Algebra for Machine Learning Crash Course. Get on top of the linear algebra used in machine learning in 7 Days. Linear algebra is a field of mathematics that is universally agreed to be a prerequisite for a deeper understanding of machine learning. Although linear algebra is a large field with many esoteric theories and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Linear-Algebra-for-Machine-Learning-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 9167,
+            "title": "Computational Linear Algebra for Coders Review",
+            "url": "https://machinelearningmastery.com/computational-linear-algebra-coders-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-21T00:00:00",
+            "description": "Numerical linear algebra is concerned with the practical implications of implementing and executing matrix operations in computers with real data. It is an area that requires some previous experience of linear algebra and is focused on both the performance and precision of the operations. The company fast.ai released a free course titled \u201cComputational Linear Algebra\u201d [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Computational-Linear-Algebra-for-Coders-Review.jpg"
+        },
+        {
+            "id": 9168,
+            "title": "Linear Algebra for Deep Learning",
+            "url": "https://machinelearningmastery.com/linear-algebra-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-16T00:00:00",
+            "description": "Linear algebra is a field of applied mathematics that is a prerequisite to reading and understanding the formal description of deep learning methods, such as in papers and textbooks. Generally, an understanding of linear algebra (or parts thereof) is presented as a prerequisite for machine learning. Although important, this area of mathematics is seldom covered [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Linear-Algebra-for-Deep-Learning.jpg"
+        },
+        {
+            "id": 9169,
+            "title": "A Gentle Introduction to Sparse Matrices for Machine Learning",
+            "url": "https://machinelearningmastery.com/sparse-matrices-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-14T00:00:00",
+            "description": "Matrices that contain mostly zero values are called sparse, distinct from matrices where most of the values are non-zero, called dense. Large sparse matrices are common in general and especially in applied machine learning, such as in data that contains counts, data encodings that map categories to counts, and even in whole subfields of machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/A-Gentle-Introduction-to-Sparse-Matrices-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9170,
+            "title": "A Gentle Introduction to Broadcasting with NumPy Arrays",
+            "url": "https://machinelearningmastery.com/broadcasting-with-numpy-arrays/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-12T00:00:00",
+            "description": "Arrays with different sizes cannot be added, subtracted, or generally be used in arithmetic. A way to overcome this is to duplicate the smaller array so that it is the dimensionality and size as the larger array. This is called array broadcasting and is available in NumPy when performing array arithmetic, which can greatly reduce [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/Introduction-to-Broadcasting-with-NumPy-Arrays.jpg"
+        },
+        {
+            "id": 9171,
+            "title": "10 Examples of Linear Algebra in Machine Learning",
+            "url": "https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2018-03-09T00:00:00",
+            "description": "Linear algebra is a sub-field of mathematics concerned with vectors, matrices, and linear transforms. It is a key foundation to the field of machine learning, from notations used to describe the operation of algorithms to the implementation of algorithms in code. Although linear algebra is integral to the field of machine learning, the tight relationship [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/03/10-Examples-of-Linear-Algebra-in-Machine-Learning.jpg"
+        }
+    ]
+}

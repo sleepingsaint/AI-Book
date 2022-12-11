@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 704,
+            "title": "Reviewing online fraud using Amazon Fraud Detector and Amazon A2I",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
+            "authors": "Srinath Godavarthi, Mona Mona, Pranusha Manchala",
+            "tags": "Amazon Augmented AI, Amazon Fraud Detector, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-02-19T00:00:00",
+            "description": "Each year, organizations lose tens of billions of dollars to online fraud globally. Organizations such as ecommerce companies and credit card companies use machine learning (ML) to detect online fraud. Some of the most common types of online fraud include email account compromise (personal or business), new account fraud, and non-payment or non-delivery (including card [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/15/1559Architecture.jpg"
+        },
+        {
+            "id": 705,
+            "title": "How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-zopa-enhanced-their-fraud-detection-application-using-amazon-sagemaker-clarify/",
+            "authors": "Hasan Poonawala, Jiahang Zhong",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-19T00:00:00",
+            "description": "This post is co-authored by Jiahang Zhong, Head of Data Science at Zopa.\u00a0 Zopa is a UK-based digital bank and peer to peer (P2P) lender. In 2005, Zopa launched the first ever P2P lending company to give people access to simpler, better-value loans and investments. In 2020, Zopa received a full bank license to offer [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/Zopa-Diagram.jpg"
+        },
+        {
+            "id": 706,
+            "title": "Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker/",
+            "authors": "Prem Ranga, Jana Gnanachandran, Mona Mona, Nathalie Rauschmayr",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-19T00:00:00",
+            "description": "Time series forecasting is an approach to predict future data values by analyzing the patterns and trends in past observations over time. Organizations across industries require time series forecasting for a variety of use cases, including seasonal sales prediction, demand forecasting, stock price forecasting, weather forecasting, financial planning, and inventory planning. Various cutting edge algorithms [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/17/ML-2290-9.jpg"
+        },
+        {
+            "id": 707,
+            "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
+            "authors": "Gang Fu, Ujjwal Ratan, Wei Yih Yap",
+            "tags": "Amazon Connect, Amazon DynamoDB, Amazon Kinesis, Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Lambda, Kinesis Video Streams",
+            "publishedOn": "2021-02-18T00:00:00",
+            "description": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound application and demonstrated that a simple binary ML classifier can classify healthy and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/ML-2176-1.png"
+        },
+        {
+            "id": 708,
+            "title": "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
+            "authors": "Ram Vittal, Sireesha Muppala",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Fargate",
+            "publishedOn": "2021-02-18T00:00:00",
+            "description": "As businesses around the world are embarking on building innovative solutions, we\u2019re seeing a growing trend adopting data science workloads across various industries. Recently, we\u2019ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now enabled to run their experiments on their local machine and port to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/22/ML-1156-1.jpg"
+        },
+        {
+            "id": 709,
+            "title": "Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/solving-numerical-optimization-problems-like-scheduling-routing-and-allocation-with-amazon-sagemaker-processing/",
+            "authors": "Shreyas Subramanian",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-17T00:00:00",
+            "description": "In this post, we discuss solving numerical optimization problems using the very flexible Amazon SageMaker Processing API. Optimization is the process of finding the minimum (or maximum) of a function that depends on some inputs, called design variables. This pattern is relevant to solving business-critical problems such as scheduling, routing, allocation, shape optimization, trajectory optimization, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/30/ML-969-1-WHITE.png"
+        },
+        {
+            "id": 710,
+            "title": "Building an omnichannel Q&A chatbot with Amazon Connect, Amazon Lex, Amazon Kendra, and the open-source QnABot project",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-multi-channel-qa-chatbot-with-amazon-connect-amazon-lex-amazon-kendra-and-the-open-source-qnabot-project/",
+            "authors": "Bob Strahan, Michael Widell",
+            "tags": "Amazon Connect, Amazon Kendra, Amazon Lex, Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2021-02-16T00:00:00",
+            "description": "For many students, embarking on a higher education journey is an exciting time filled with new experiences. However, like anything new, it also can also bring plenty of questions to answer and obstacles to overcome. Oklahoma State University, Oklahoma City (OSU-OKC) recognized this, and was intent on providing a better solution to address student questions [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/10/ML-2235-2.jpg"
+        },
+        {
+            "id": 711,
+            "title": "Data processing options for AI/ML",
+            "url": "https://aws.amazon.com/blogs/machine-learning/data-processing-options-for-ai-ml/",
+            "authors": "Brent Rabowsky",
+            "tags": "Amazon EMR, Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-16T00:00:00",
+            "description": "This blog post was reviewed and updated June, 2022 to include new features that have been added to the Data processing such as Amazon SageMaker Studio and EMR integration. Training an accurate machine learning (ML) model requires many different steps, but none are potentially more important than data processing. Examples of processing steps include converting [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 712,
+            "title": "Translating JSON documents using Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translating-json-documents-using-amazon-translate/",
+            "authors": "Siva Rajamani, Raju Penmatcha",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2021-02-16T00:00:00",
+            "description": "September 2021: This post and the solution has been updated to use the Amazon EventBridge events notifications in Amazon Translate for tracking Amazon Translate Batch Translation job completion. JavaScript Object Notation (JSON) is a schema-less, lightweight format for storing and transporting data. It\u2019s a text-based, self-describing representation of structured data that is based on key-value [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/25/ML-2037-1.jpg"
+        },
+        {
+            "id": 713,
+            "title": "Using container images to run PyTorch models in AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/",
+            "authors": "Jan Bauer",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS Lambda, PyTorch on AWS",
+            "publishedOn": "2021-02-12T00:00:00",
+            "description": "PyTorch is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they\u2019re trained, these models are deployed in production to produce inferences. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/PyTorch-Lambda.jpg"
+        },
+        {
+            "id": 714,
+            "title": "Building secure machine learning environments with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+            "authors": "Jason Barto, Stefan Natu",
+            "tags": "Amazon Machine Learning, Amazon SageMaker, Artificial Intelligence, AWS Service Catalog",
+            "publishedOn": "2021-02-10T00:00:00",
+            "description": "As businesses and IT leaders look to accelerate the adoption of machine learning (ML) and artificial intelligence (AI), there is a growing need to understand how to build secure and compliant ML environments that meet enterprise requirements. One major challenge you may face is integrating ML workflows into existing IT and business work streams. A [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/ML-1341-1.jpg"
+        },
+        {
+            "id": 715,
+            "title": "Running multiple HPO jobs in parallel on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-multiple-hpo-jobs-in-parallel-on-amazon-sagemaker/",
+            "authors": "Iaroslav Shcherbatyi, Enrico Sartorello, Qingwei Li, Stefan Natu, Tushar Saxena",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-10T00:00:00",
+            "description": "The ability to rapidly iterate and train machine learning (ML) models is key to deriving business value from ML workloads. Because ML models often have many tunable parameters (known as hyperparameters) that can influence the model\u2019s ability to effectively learn, data scientists often use a technique known as hyperparameter optimization (HPO) to achieve the best-performing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/10/Batching-HPO-Pipeline.jpg"
+        },
+        {
+            "id": 716,
+            "title": "Accelerating the deployment of PPE detection solution to comply with safety guidelines",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-the-deployment-of-ppe-detection-solution-to-comply-with-safety-guidelines/",
+            "authors": "Pranati Sahu, Surya Dulla, Jin Fei, Han Man, Kareem Williams, Ray Li, Rohit Rangnekar",
+            "tags": "Amazon ML Solutions Lab, Amazon Rekognition, Artificial Intelligence, AWS Professional Services",
+            "publishedOn": "2021-02-09T00:00:00",
+            "description": "Personal protective equipment (PPE) such as face covers (face mask), hand covers (gloves), and head covers (helmet) are essential for many businesses. For example, helmets are required at construction sites for employee safety, and gloves and face masks are required in the restaurant industry for hygienic operations. In the current COVID-19 pandemic environment, PPE compliance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg"
+        },
+        {
+            "id": 717,
+            "title": "Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/",
+            "authors": "Sofian Hamiti, Othmane Hamzaoui",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2021-02-09T00:00:00",
+            "description": "With the rapid growth of object detection techniques, several frameworks with packaged pre-trained models have been developed to provide users easy access to transfer learning. For example, GluonCV, Detectron2, and the TensorFlow Object Detection API are three popular computer vision frameworks with pre-trained models. In this post, we use Amazon SageMaker to build, train, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/14/ML-1262-2.jpg"
+        },
+        {
+            "id": 718,
+            "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
+            "authors": "Paloma Pineda",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2021-02-08T00:00:00",
+            "description": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer to create original AI-generated compositions and compete to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/08/ML-1854-1.jpg"
+        },
+        {
+            "id": 719,
+            "title": "Amazon DevOps Guru is powered by pre-trained ML models that encode operational excellence",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
+            "authors": "Caner Turkmen, Ravi Turlapati, Tim Januschowski",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, DevOps",
+            "publishedOn": "2021-02-05T00:00:00",
+            "description": "On December 1, 2020, we announced the preview of Amazon DevOps Guru, a machine learning (ML)-powered service that gives operators of cloud-based applications a simpler way to measure and improve an application\u2019s operational performance and availability to reduce expensive downtime. Amazon DevOps Guru is a turn-key solution that helps operators by automatically ingesting operational data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail-1.jpg"
+        },
+        {
+            "id": 720,
+            "title": "Anomaly detection with Amazon Lookout for Metrics",
+            "url": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
+            "authors": "Vibhav Gupta, Tripurana Rahul",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2021-02-05T00:00:00",
+            "description": "This is a guest blog post from Quantiphi, an AWS Advanced Consulting Partner that specializes in artificial intelligence, machine learning, and data and analytics solutions. We\u2019ve all heard the saying \u201ctime is money,\u201d and that\u2019s especially true for the retail industry. In a highly competitive environment where large volumes of data are generated, quick and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/LookoutforMetrics.jpg"
+        },
+        {
+            "id": 721,
+            "title": "Using genetic algorithms on AWS for optimization problems",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
+            "authors": "Greg Sommerville",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-02-04T00:00:00",
+            "description": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output that can be interpreted as a word, face, or classification [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg"
+        },
+        {
+            "id": 722,
+            "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
+            "authors": "Juan Bustos, Harshal Pimpalkhute, Esther Lee",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-02-03T00:00:00",
+            "description": "This blog post was last reviewed and updated August, 2022 with updated verbiage and screenshots for BankingBot. Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2423-NEW-1.jpg"
+        },
+        {
+            "id": 723,
+            "title": "Using Amazon Translate to provide language support to Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
+            "authors": "Juan Bustos, David Shute",
+            "tags": "Amazon Kendra, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2021-02-03T00:00:00",
+            "description": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra supports English. This post provides a set of techniques to provide non-English language support when using Amazon Kendra. We demonstrate these techniques within the context of a question-answer chatbot use case (Q&A bot) where a user can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-2024-3.jpg"
+        },
+        {
+            "id": 724,
+            "title": "Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
+            "authors": "Eddie Calleja",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2021-02-03T00:00:00",
+            "description": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. We\u2019re excited to bring you two new features available on the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail.jpg"
+        },
+        {
+            "id": 725,
+            "title": "Scheduling work meetings in Slack with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scheduling-work-meetings-in-slack-with-amazon-lex/",
+            "authors": "Kevin Wang, Kim Wendt",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2021-02-03T00:00:00",
+            "description": "Imagine being able to schedule a meeting or get notified about updates in your code repositories without leaving your preferred messaging platform. This could save you time and increase productivity. With the advent of chatbots, these mundane tasks are now easier than ever. Amazon Lex, a service for building chatbots, offers native integration with popular [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/02/ML-1304-2-WHITE.jpg"
+        },
+        {
+            "id": 726,
+            "title": "Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
+            "authors": "Peyman Razaghi, Ross Claytor",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Step Functions",
+            "publishedOn": "2021-02-02T00:00:00",
+            "description": "Amazon SageMaker Debugger can monitor ML model parameters, metrics, and computation resources as the model optimization is in progress. You can use it to identify issues during training, gain insights, and take actions like stopping the training or sending notifications through built-in or custom actions. Debugger is particularly useful in training challenging deep learning model [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 727,
+            "title": "Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services/",
+            "authors": "Michael Wallner, Chris Boomhower",
+            "tags": "Amazon Comprehend, Amazon Connect, Amazon Transcribe, Artificial Intelligence, Kinesis Video Streams",
+            "publishedOn": "2021-02-02T00:00:00",
+            "description": "As many companies place their focus on customer centricity, customer feedback becomes a top priority. However, as new laws are formed, for instance GDPR in Europe, collecting feedback from customers can become increasingly difficult. One means of collecting this feedback is via phone. When a customer calls an agency or call center, feedback may be [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-1454-1.jpg"
+        },
+        {
+            "id": 728,
+            "title": "This month in AWS Machine Learning: January edition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
+            "authors": "Laura Jones",
+            "tags": "Amazon Augmented AI, Amazon Comprehend, Amazon Lex, Amazon Machine Learning, Amazon SageMaker, Amazon Textract, Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2021-02-01T00:00:00",
+            "description": "Hello and welcome to our first \u201cThis month in AWS Machine Learning\u201d of 2021! Every day there is something new going on in the world of AWS Machine Learning\u2014from launches to new to use cases to interactive trainings. We\u2019re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg"
+        },
+        {
+            "id": 729,
+            "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2021-02-01T00:00:00",
+            "description": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying underway We\u2019re excited to announce that racing action is right [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg"
+        },
+        {
+            "id": 730,
+            "title": "Performing anomaly detection on industrial equipment using audio signals",
+            "url": "https://aws.amazon.com/blogs/machine-learning/performing-anomaly-detection-on-industrial-equipment-using-audio-signals/",
+            "authors": "Micha\u00ebl Hoarau",
+            "tags": "Amazon Rekognition, Amazon SageMaker, Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2021-01-29T00:00:00",
+            "description": "Industrial companies have been collecting a massive amount of time-series data about operating processes, manufacturing production lines, and industrial equipment. You might store years of data in historian systems or in your factory information system at large. Whether you\u2019re looking to prevent equipment breakdown that would stop a production line, avoid catastrophic failures in a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1479-1.jpg"
+        },
+        {
+            "id": 731,
+            "title": "Forecasting AWS spend using the AWS Cost and Usage Reports, AWS Glue DataBrew, and Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/forecasting-aws-spend-using-the-aws-cost-and-usage-reports-aws-glue-databrew-and-amazon-forecast/",
+            "authors": "Jyoti Tyagi, Peter Chung",
+            "tags": "Amazon Forecast, Artificial Intelligence, AWS Cloud Financial Management, AWS Cost and Usage Report, AWS Glue",
+            "publishedOn": "2021-01-28T00:00:00",
+            "description": "AWS Cost Explorer enables you to view and analyze your AWS Cost and Usage Reports (AWS CUR). You can also predict your overall cost associated with AWS services in the future by creating a forecast of AWS Cost Explorer, but you can\u2019t view historical data beyond 12 months. Moreover, running custom machine learning (ML) models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/29/ML-2179-1_Update.jpg"
+        },
+        {
+            "id": 732,
+            "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+            "authors": "Sofian Hamiti, Shreyas Subramanian",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-01-28T00:00:00",
+            "description": "June 2022: Post was reviewed for messaging and accuracy. With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg"
+        },
+        {
+            "id": 733,
+            "title": "Understanding the key capabilities of Amazon SageMaker Feature Store",
+            "url": "https://aws.amazon.com/blogs/machine-learning/understanding-the-key-capabilities-of-amazon-sagemaker-feature-store/",
+            "authors": "Lakshmi Ramakrishnan, Ravi Khandelwal, Romi Datta, Mark Roy, Saurabh Gupta",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2021-01-28T00:00:00",
+            "description": "October 2022: This post was reviewed and updated for messaging and accuracy. One of the challenging parts of machine learning (ML) is feature engineering, the process of transforming data to create features for ML. Features are processed data signals used for training ML models and for deployed models to make accurate predictions. Data scientists and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-2183-1.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5904,
+            "title": "8 Reasons Why Analytics / Machine Learning Models Fail To Get Deployed",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/8-reasons-analytics-machine-learning-models-fail-deployed/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Listicle, Machine Learning, Resource",
+            "publishedOn": "2016-05-30T00:00:00",
+            "description": "This article explain the reasons behind analytics / machine learning models deployment failure in business world to a data scientists/analyst.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/monday-1024x683.jpg"
+        },
+        {
+            "id": 5905,
+            "title": "Learning Path for Developers & IT Professionals to become a Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/learning-path-turning-web-developer-professional-data-scientist/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Learning Path",
+            "publishedOn": "2016-05-26T00:00:00",
+            "description": "This is a career guide for IT professionals and developers who want to build their career in data science industry and find a successful job",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/webdevelopertodatascientist.jpg"
+        },
+        {
+            "id": 5906,
+            "title": "Infographic: 16 Genius Minds Whose Inventions Made Data Science Easier For Us",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/infographic-16-genius-minds-inventions-data-science-easier/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Big data, Business Analytics, Infographic",
+            "publishedOn": "2016-05-23T00:00:00",
+            "description": "This infographic shows 16 genius minds who invented concepts like regression, ANOVA, python, R, SQL, cloud computing and shaped the future",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/featurepic.jpg"
+        },
+        {
+            "id": 5907,
+            "title": "A comprehensive beginner\u2019s guide to start ML with Amazon Web Services (AWS)",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/comprehensive-guide-ml-amazon-web-services-aws/",
+            "authors": "Aarshay Jain",
+            "tags": "Big data, Business Analytics, Cloud Computing, Intermediate, Libraries, Machine Learning, Programming",
+            "publishedOn": "2016-05-19T00:00:00",
+            "description": "A tutorial to configure aws instances to do faster data computation. In this article learn how to build your first model in machine learning with aws.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 5908,
+            "title": "Solve Interview Case Studies 10x Faster Using Dynamic Programming",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/ase-studies-10x-faster-using-dynamic-programming/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Intermediate, Interview Questions, Interviews, Python, R, Structured Data, Structured Thinking, Technique",
+            "publishedOn": "2016-05-16T00:00:00",
+            "description": "This article explains using dynamic programming technique to solve business analytics case studies using structured thinking in analytics",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/picture-1024x683.jpg"
+        },
+        {
+            "id": 5909,
+            "title": "Use H2O and data.table to build models on large data sets in R",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/",
+            "authors": "avcontentteam",
+            "tags": "Intermediate, Libraries, Machine Learning, Programming, Project, R, Regression, Structured Data, Supervised",
+            "publishedOn": "2016-05-12T00:00:00",
+            "description": "This article explains machine learning algorithms and data exploration, manipulation using data.table and h2o package including deep learning",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/pexels-photo-min.jpg"
+        },
+        {
+            "id": 5910,
+            "title": "Winners Talk: Top 3 Solutions of\u00a0The Seer\u2019s Accuracy Competition",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/winners-approach-solution-seers-accuracy/",
+            "authors": "avcontentteam",
+            "tags": "Intermediate, Listicle, Machine Learning, R, Winners Approach",
+            "publishedOn": "2016-05-09T00:00:00",
+            "description": "This article highlights the top 3 winning solutions from The seer's accuracy. The winners used xgboost, feature engineering and ensembled.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/win-win.jpe"
+        },
+        {
+            "id": 5911,
+            "title": "data.table() vs data.frame() \u2013 Learn to work on large data sets in R",
+            "url": "https://www.analyticsvidhya.com/blog/2016/05/data-table-data-frame-work-large-data-sets/",
+            "authors": "avcontentteam",
+            "tags": "Advanced, Libraries, Machine Learning, Programming, R, Structured Data, Technique",
+            "publishedOn": "2016-05-03T00:00:00",
+            "description": "R users struggle while dealing with large data sets. In this article learn about data.table and data. frame packages and handling large datasets in R.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/article.jpg"
+        },
+        {
+            "id": 5912,
+            "title": "How to predict waiting time using Queuing Theory ?",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/predict-waiting-time-queuing-theory/",
+            "authors": "Tavish Srivastava",
+            "tags": "Advanced, Business Analytics, R, Structured Thinking, Technique",
+            "publishedOn": "2016-04-28T00:00:00",
+            "description": "This tutorial on queuing theory explains the use of kendall's theorem and little theorem concepts in estimating queue length and time in R",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/11-1024x679.jpg"
+        },
+        {
+            "id": 5913,
+            "title": "15 Must Read Books for Entrepreneurs in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/15-read-books-entrepreneurs-data-science/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Big data, Books, Business Analytics, Listicle",
+            "publishedOn": "2016-04-25T00:00:00",
+            "description": "This article features the 15 best books to read by founders / entrepreneurs in data science industry. They give an overview of using analytics",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/cover.jpg"
+        },
+        {
+            "id": 5914,
+            "title": "It\u2019s our 3rd Birthday \u2013 Come & Celebrate",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/celebrating-3-years-analytics-vidhyas-success/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement, Beginner",
+            "publishedOn": "2016-04-21T00:00:00",
+            "description": "It's third anniversary of Analytics Vidhya and we are proud to announce our contribution to data science.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/party_3.jpg"
+        },
+        {
+            "id": 5915,
+            "title": "Practical Guide to implementing Neural Networks in Python (using Theano)",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/",
+            "authors": "Aarshay Jain",
+            "tags": "Advanced, Algorithm, Deep Learning, Libraries, Machine Learning, Programming, Python",
+            "publishedOn": "2016-04-18T00:00:00",
+            "description": "Theano is a programming language which runs on top of Python. This article explains deep learning with theano and how implementing neural networks in python.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/1-1.jpg"
+        },
+        {
+            "id": 5916,
+            "title": "Case Study For Freshers (Level : Medium) \u2013 Call Center Optimization",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/case-study-level-medium-call-center-optimization/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Interview Questions, Interviews, R, Structured Thinking, Technique",
+            "publishedOn": "2016-04-14T00:00:00",
+            "description": "The is a operational analytics case study for freshers in interview which requires logical understanding, maths and skills in Excel and R",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/design.jpg"
+        },
+        {
+            "id": 5917,
+            "title": "Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python)",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/",
+            "authors": "avcontentteam",
+            "tags": "Algorithm, Beginner, Classification, Intermediate, Machine Learning, Python, R, Structured Data, Supervised",
+            "publishedOn": "2016-04-12T00:00:00",
+            "description": "Tutorial on tree based algorithms for data science which includes decision trees, random forest, ensemble methods and its implementation in R and python.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/otree.jpg"
+        },
+        {
+            "id": 5918,
+            "title": "Operational Analytics Case study For Freshers: Call Center optimization",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/operational-analytics-case-study-freshers-call-center-optimization/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Call Center, Intermediate, Interview Questions, Interviews, Resource, Structured Thinking",
+            "publishedOn": "2016-04-07T00:00:00",
+            "description": "This operational analytics case study is made for freshers and less experienced people in analytics to practice for interviews and new jobs",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/join.jpg"
+        },
+        {
+            "id": 5919,
+            "title": "Deep Learning for Computer Vision \u2013 Introduction to Convolution Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/",
+            "authors": "Aarshay Jain",
+            "tags": "Algorithm, Classification, Computer Vision, Deep Learning, Image, Intermediate, Machine Learning, Python, Supervised, Unstructured Data",
+            "publishedOn": "2016-04-04T00:00:00",
+            "description": "A tutorial for convolution neural networks to identify images. Learn about deep learning for computer vision and implement CNNs using graphlab in python.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/cat_poses.jpg"
+        },
+        {
+            "id": 5920,
+            "title": "New Case Study for Analytics Interviews: Dawn of Taxi Aggregators",
+            "url": "https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Business Analytics, Interview Questions, Interviews, Interviews, Maths, Structured Thinking",
+            "publishedOn": "2016-04-01T00:00:00",
+            "description": "This is a new case study for analytics and data science interviews. The case requires sound structured thinking and knowledge of mathematics",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/case.jpg"
+        },
+        {
+            "id": 5921,
+            "title": "News: Praxis Business School launches PGP Business Analytics Program in Bangalore",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/praxis-business-school-launches-pgp-business-analytics-program-bangalore/",
+            "authors": "Kunal Jain",
+            "tags": "Business Analytics",
+            "publishedOn": "2016-03-31T00:00:00",
+            "description": "This news articles highlights the launch of post graduation program in business analytics by praxis business school. It is a full time course",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/prax.jpg"
+        },
+        {
+            "id": 5922,
+            "title": "13 Machine Learning & Data Science Startups from Y Combinator Winter 2016",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/13-machine-learning-data-science-startups-combinator-winter-2016/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Data Science, Listicle, Machine Learning, Startups",
+            "publishedOn": "2016-03-30T00:00:00",
+            "description": "This article presents the machine learning, data science startups from Y Combinator winter batch 2016. These startups use data and analytics",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/combi.jpg"
+        },
+        {
+            "id": 5923,
+            "title": "Practical Guide to deal with Imbalanced Classification Problems in R",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/",
+            "authors": "avcontentteam",
+            "tags": "Classification, Intermediate, Machine Learning, Project, R, Structured Data, Supervised, Technique",
+            "publishedOn": "2016-03-28T00:00:00",
+            "description": "A practical guide to deal with imbalanced classification problems in R. It includes sampling techniques, synthetic techniques etc.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/image11.jpg"
+        },
+        {
+            "id": 5924,
+            "title": "Exploring Recommendation System (with an implementation model in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/exploring-building-banks-recommendation-system/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Banking, Business Analytics, Intermediate, Machine Learning, R, Recommendation, Structured Data, Supervised",
+            "publishedOn": "2016-03-24T00:00:00",
+            "description": "This tutorial illustrates use of recommendation engines in the banking industry with practicals done in R. It also explains types of recommendation engines.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/11.jpg"
+        },
+        {
+            "id": 5925,
+            "title": "How to perform feature selection (i.e. pick important variables) using Boruta Package in R ?",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Banking, Beginner, Libraries, Machine Learning, Programming, R, Statistics, Structured Data, Technique",
+            "publishedOn": "2016-03-22T00:00:00",
+            "description": "Boruta package is a wrapper algorithm around random forest for important variables and used to perform feature selection in R for data science.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/borutagr.jpg"
+        },
+        {
+            "id": 5926,
+            "title": "Course Review \u2013 Big data and Hadoop Developer Certification Course by Simplilearn",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/review-big-data-hadoop-developer-certification-simplilearn/",
+            "authors": "Kunal Jain",
+            "tags": "Big data, Business Analytics",
+            "publishedOn": "2016-03-22T00:00:00",
+            "description": "Big Data and Hadoop Certification by Simplilearn offers teaches apache spark, hadoop 2.7, mapreduce and other useful big data technologies",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/Simplilearn-logo-Small-Size.jpg"
+        },
+        {
+            "id": 5927,
+            "title": "PCA: A Practical Guide to Principal Component Analysis in R & Python",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/",
+            "authors": "avcontentteam",
+            "tags": "Algorithm, Data Science, Intermediate, Python, R, Statistics, Structured Data",
+            "publishedOn": "2016-03-21T00:00:00",
+            "description": "Concept of principal component analysis (PCA) in Data Science and machine learning is used for extracting important variables from dataset in R and Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2016/03/Practical-Guide-to-Principal-Component-Analysis-PCA-in-R-Python.png"
+        },
+        {
+            "id": 5928,
+            "title": "Winning Solutions of DYD Competition \u2013 R and XGBoost Ruled",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/winning-solutions-dyd-competition-xgboost-ruled/",
+            "authors": "avcontentteam",
+            "tags": "Intermediate, Listicle, Machine Learning, Python, R, Winners Approach",
+            "publishedOn": "2016-03-18T00:00:00",
+            "description": "This article reveals the winning solutions of date your data competition. Winners used R, python and boosting algorithms to get winning scores",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/main.jpg"
+        },
+        {
+            "id": 5929,
+            "title": "Fundamentals of Deep Learning \u2013 Starting with Artificial Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/",
+            "authors": "Aarshay Jain",
+            "tags": "Algorithm, Deep Learning, Intermediate, Machine Learning",
+            "publishedOn": "2016-03-16T00:00:00",
+            "description": "This article explains artificial neural networks and fundamentals of deep learning. Learn about forward and backward propagation.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/ann3.jpg"
+        },
+        {
+            "id": 5930,
+            "title": "What did you miss ? Complete Solution of Mini Hack Excel",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/complete-solution-mini-hack-excel/",
+            "authors": "avcontentteam",
+            "tags": "Business Analytics, Excel, Intermediate, Project, Statistics",
+            "publishedOn": "2016-03-14T00:00:00",
+            "description": "This is a solution of mini hack excel which involves solving a business problem using advanced excel, logical and structured thinking to solve",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/28.png"
+        },
+        {
+            "id": 5931,
+            "title": "Complete Solution: How I got in Top 11% of Kaggle Telstra Competition ?",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/complete-solution-top-11-telstra-network-disruptions-kaggle-competition/",
+            "authors": "Aarshay Jain",
+            "tags": "Advanced, Classification, Data Exploration, Listicle, Machine Learning, Python, Structured Data, Supervised, Winners Approach",
+            "publishedOn": "2016-03-09T00:00:00",
+            "description": "This is a complete solution of machine learning data mining competition Kaggle Telstra network disruption competition using xgboost ensemble",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/code.jpg"
+        },
+        {
+            "id": 5932,
+            "title": "10 Questions R Users always ask while using ggplot2 package",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/questions-ggplot2-package-r/",
+            "authors": "avcontentteam",
+            "tags": "Business Analytics, Data Visualization, Intermediate, Libraries, Programming, R",
+            "publishedOn": "2016-03-08T00:00:00",
+            "description": "This is a tutorial on creating maps, scatter plots, bar plots, box plots, heat maps, area chart, correlogram using ggplot package in R",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/graphics-2.jpg"
+        },
+        {
+            "id": 5933,
+            "title": "Tutorial on 5 Powerful R Packages used for imputing missing values",
+            "url": "https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/",
+            "authors": "avcontentteam",
+            "tags": "Data Science, Intermediate, Libraries, Listicle, Machine Learning, R, Structured Data",
+            "publishedOn": "2016-03-04T00:00:00",
+            "description": "Learn about powerful R packages like amelia, missForest, hmisc, mi and mice used for imputing missing values in R for predictive modeling in data science.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/imputing.jpg"
+        }
+    ]
+}

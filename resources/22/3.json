@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 13953,
+            "title": "Berkeley Streaming Data Workshop",
+            "url": "https://hunch.net/?p=2278",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2012-02-20T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13954,
+            "title": "ICML Posters and Scope",
+            "url": "https://hunch.net/?p=2246",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2012-01-30T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13955,
+            "title": "Why COLT?",
+            "url": "https://hunch.net/?p=2241",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2012-01-28T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/a7387a90d56f47af17f3bf6b6ac87ad7?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13956,
+            "title": "Why ICML? and the summer conferences",
+            "url": "https://hunch.net/?p=2177",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2012-01-04T00:00:00",
+            "description": "Here\u2019s a quick reference for summer ML-related conferences sorted by due date:",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13957,
+            "title": "Vowpal Wabbit version 6.1 & the NIPS tutorial",
+            "url": "https://hunch.net/?p=2159",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-12-13T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13958,
+            "title": "Hadoop AllReduce and Terascale Learning",
+            "url": "https://hunch.net/?p=2094",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-12-02T00:00:00",
+            "description": "Suppose you have a dataset with 2 terafeatures (we only count nonzero entries in a datamatrix), and want to learn a good linear predictor in a reasonable amount of time.  How do you do it?  As a learning theorist, the first thing you do is pray that this is too much data for the number of parameters\u2014but that\u2019s not the case, there are around 16 billion examples, 16 million parameters, and people really care about a high quality predictor, so subsampling is not a good strategy.",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13959,
+            "title": "Giving Thanks",
+            "url": "https://hunch.net/?p=2075",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-11-26T00:00:00",
+            "description": "Thanksgiving is perhaps my favorite holiday, because pausing your life and giving thanks provides a needed moment of perspective.",
+            "thumbnail": "https://secure.gravatar.com/avatar/ffadc501b44422df789deeb39c770d38?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13960,
+            "title": "2011 ML symposium and the bears",
+            "url": "https://hunch.net/?p=2062",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-10-24T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13961,
+            "title": "ML Symposium and ICML details",
+            "url": "https://hunch.net/?p=2049",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-10-10T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/f6814a20041615f11dd577395b06092d?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13962,
+            "title": "Monday announcements",
+            "url": "https://hunch.net/?p=2043",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-10-03T00:00:00",
+            "description": "Various people want to use hunch.net to announce things.  I\u2019ve generally resisted this because I feared hunch becoming a pure announcement zone while I am much more interested contentful posts and discussion personally.  Nevertheless there is clearly some value and announcements are easy, so I\u2019m planning to summarize announcements on Mondays.",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13963,
+            "title": "Somebody\u2019s Eating Your Lunch",
+            "url": "https://hunch.net/?p=2016",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-09-28T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/3fbde6ca7558fc407da0b24c30c433ed?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13964,
+            "title": "KDD and MUCMD 2011",
+            "url": "https://hunch.net/?p=1977",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-09-07T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/f0a9ca1a078d88eaf2bc17ef98a205ef?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13965,
+            "title": "Fall Machine Learning Events",
+            "url": "https://hunch.net/?p=1955",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-09-03T00:00:00",
+            "description": "Many Machine Learning related events are coming up this fall.",
+            "thumbnail": "https://secure.gravatar.com/avatar/a7387a90d56f47af17f3bf6b6ac87ad7?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13966,
+            "title": "The Large Scale Learning Survey Tutorial",
+            "url": "https://hunch.net/?p=1946",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-08-20T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13967,
+            "title": "Vowpal Wabbit 6.0",
+            "url": "https://hunch.net/?p=1917",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-08-15T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13968,
+            "title": "Interesting thing at UAI 2011",
+            "url": "https://hunch.net/?p=1909",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-08-06T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/3fbde6ca7558fc407da0b24c30c433ed?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13969,
+            "title": "Interesting papers at COLT 2011",
+            "url": "https://hunch.net/?p=1900",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-08-01T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/2b12affc2ffabd53e0aced823d0fe43c?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13970,
+            "title": "Interesting Neural Network Papers at ICML 2011",
+            "url": "https://hunch.net/?p=1852",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-07-11T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/838fe4f0c962d69777611eed07281bd2?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13971,
+            "title": "ICML 2011 and the future",
+            "url": "https://hunch.net/?p=1861",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-07-10T00:00:00",
+            "description": "Unfortunately, I ended up sick for much of this ICML.  I did manage to catch one interesting paper:",
+            "thumbnail": "https://secure.gravatar.com/avatar/3ea4681cb99615eee7a992354bdc43eb?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13972,
+            "title": "Ultra LDA",
+            "url": "https://hunch.net/?p=1848",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-06-22T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13973,
+            "title": "Research Directions for Machine Learning and Algorithms",
+            "url": "https://hunch.net/?p=1822",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-05-16T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/77f083909d955b715846250a33340a14?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13974,
+            "title": "CI Fellows, again",
+            "url": "https://hunch.net/?p=1818",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-05-09T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13975,
+            "title": "ICML workshops due",
+            "url": "https://hunch.net/?p=1814",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-04-23T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13976,
+            "title": "The End of the Beginning of Active Learning",
+            "url": "https://hunch.net/?p=1800",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-04-20T00:00:00",
+            "description": "This post is by Daniel Hsu and John Langford.",
+            "thumbnail": "https://secure.gravatar.com/avatar/8568528b37ad2e84830c2c9aa9260369?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13977,
+            "title": "A paper not at Snowbird",
+            "url": "https://hunch.net/?p=1772",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-04-18T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/c6f2f058debdde1bacf111a186841ab0?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13978,
+            "title": "The Heritage Health Prize",
+            "url": "https://hunch.net/?p=1762",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-04-11T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13979,
+            "title": "COLT open questions",
+            "url": "https://hunch.net/?p=1749",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-04-06T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13980,
+            "title": "Vowpal Wabbit, v5.1",
+            "url": "https://hunch.net/?p=1739",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-03-27T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/57058fc9812bc7b090fbb1fbc4746b0e?s=100&d=blank&r=g"
+        },
+        {
+            "id": 13981,
+            "title": "KDD Cup 2011",
+            "url": "https://hunch.net/?p=1733",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-03-20T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+        },
+        {
+            "id": 13982,
+            "title": "The Ideal Large Scale Learning Class",
+            "url": "https://hunch.net/?p=1729",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2011-03-19T00:00:00",
+            "description": "Machine Learning (Theory)",
+            "thumbnail": "https://secure.gravatar.com/avatar/e5eb87172eb616d3d2ad10eeb82466df?s=100&d=blank&r=g"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2304,
+            "title": "Database Normalization- A Step-by-Step Guide with Examples",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/database-normalization-a-step-by-step-guide-with-examples/",
+            "authors": "SATHISH ROUTHU",
+            "tags": "Beginner, Data Engineering, Database",
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "Normalization is a technique for organizing the data into multiple related tables to minimize Data Redundancy and Data Inconsistency.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 2305,
+            "title": "Basic Introduction to Data Science Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/basic-introduction-to-data-science-pipeline/",
+            "authors": "Pranshu Sharma",
+            "tags": "Beginner, Data Engineering, Data Science, Data Warehouse, Database, MLops",
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "A data science pipeline is a process collection that transforms raw data into useful solutions to business issues.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/5-prominent-data-science-languages.jpg"
+        },
+        {
+            "id": 2306,
+            "title": "Different Ways of Loading Data using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/different-ways-of-loading-data-using-python/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Deep Learning, Programming, Python",
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "In this article, we will learn the different ways of loading data using numerous functions available with Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/learning-path.jpg"
+        },
+        {
+            "id": 2307,
+            "title": "Build your Recommendation System using MLIB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/build-your-recommendation-system-using-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Clustering, Data Engineering, Python, Spark",
+            "publishedOn": "2022-08-16T00:00:00",
+            "description": "recommendation system recommends the video based on user preferences on platforms such as youtube, instagram, movie websites etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/recommendation-system.png"
+        },
+        {
+            "id": 2308,
+            "title": "Template for Data Cleaning using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/template-for-data-cleaning-using-python/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Cleaning, Pandas, Python",
+            "publishedOn": "2022-08-15T00:00:00",
+            "description": "Data cleaning is one area in the Data Science life cycle that is not performed by data analysts, and needs a template for it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/68692how-to-clean-machine-learning-datasets-using-pandas-blog-hero.jpg"
+        },
+        {
+            "id": 2309,
+            "title": "Introduction to Spark Streaming",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-spark-streaming/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Engineering, Spark",
+            "publishedOn": "2022-08-14T00:00:00",
+            "description": "Spark Streaming combination deals with a static dataset and a live dataset with interactive queries, providing\u00a0native support to end users.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/3.png"
+        },
+        {
+            "id": 2310,
+            "title": "Step-by-step Explanation of Text Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/step-by-step-explanation-of-text-classification/",
+            "authors": "Adnan Afzal",
+            "tags": "Beginner, Machine Learning, NLP, Python",
+            "publishedOn": "2022-08-14T00:00:00",
+            "description": "Text classification is a machine learning algorithm that allocates categories to the input text with predefined and customizable links",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        },
+        {
+            "id": 2311,
+            "title": "Dealing with outliers using the Z-Score method",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/dealing-with-outliers-using-the-z-score-method/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Exploration, Machine Learning, Python, Statistics",
+            "publishedOn": "2022-08-13T00:00:00",
+            "description": "Outliers detection is widely used method in data science project, as its presence can lead to the development of bad machine learning model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 2312,
+            "title": "A Comparative Analysis of Community Detection Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/a-comparative-analysis-of-community-detection-algorithms/",
+            "authors": "Tanisha Mandal",
+            "tags": "Algorithm, Beginner, Graphs & Networks, Python",
+            "publishedOn": "2022-08-12T00:00:00",
+            "description": "Community detection in a network identifies and groups the more\u00a0densely interconnected nodes in a given graph.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/artificial-neural-network-3501528_960_720.png"
+        },
+        {
+            "id": 2313,
+            "title": "Outliers Pruning Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/outliers-pruning-using-python/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Exploration, Machine Learning",
+            "publishedOn": "2022-08-12T00:00:00",
+            "description": "Outliers pruning on three types of data, i.e., dimensional, two-dimensional, and Curve data, using some statistical methods.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/interpretable_machine_learning.jpg"
+        },
+        {
+            "id": 2314,
+            "title": "Apache Airflow Essential Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/apache-airflow-essential-guide/",
+            "authors": "Vijay Sharma",
+            "tags": "Airflow, Beginner, Data Engineering, Guide, Python",
+            "publishedOn": "2022-08-11T00:00:00",
+            "description": "Apache airflow is a free and open source platform for automating workflows' creation, scheduling, and mirroring.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/data-lake-2-adobe.jpg"
+        },
+        {
+            "id": 2315,
+            "title": "Dropout Regularization in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/dropout-regularization-in-deep-learning/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Deep Learning, Intermediate, Python, Technique",
+            "publishedOn": "2022-08-11T00:00:00",
+            "description": "This blog talks about dropout regularization that is one technique used to tackle overfitting problems in deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/45605deep_learning.jpg"
+        },
+        {
+            "id": 2316,
+            "title": "Data Warehousing with Microsoft Azure",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/data-warehousing-with-microsoft-azure/",
+            "authors": "Gitesh Dhore",
+            "tags": "Azure, Beginner, Cloud Computing, Data Engineering, SQL",
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "Data Warehousing is an MPP system with a shared-type architecture, used for large-scale analytic workloads and take advantage of parallelism",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 2317,
+            "title": "Connecting and Reading Data From Azure Data Lake",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/connecting-and-reading-data-from-azure-data-lake/",
+            "authors": "Gitesh Dhore",
+            "tags": "Azure, Cloud Computing, Data Engineering, Intermediate",
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "Azure Data Lake includes all the features needed to make it easy for developers, data scientists, and analysts to store data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.png"
+        },
+        {
+            "id": 2318,
+            "title": "Object Detection Lite: Template Matching",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/object-detection-lite-template-matching/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Object Detection, Python",
+            "publishedOn": "2022-08-10T00:00:00",
+            "description": "Template matching is a high-level computer vision approach that detects image portions that match a predetermined template",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 2319,
+            "title": "Minerva \u2013 Google\u2019s Language Model for Quantitative Reasoning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/minerva-googles-language-model-for-quantitative-reasoning/",
+            "authors": "Vijay Sharma",
+            "tags": "Artificial Intelligence, Intermediate, Machine Learning, Maths",
+            "publishedOn": "2022-08-09T00:00:00",
+            "description": "Minerva is a new language model that uses sequential logic to answer good and scientific problems. Let's read to understand it in depth.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/google-76522_960_720.png"
+        },
+        {
+            "id": 2320,
+            "title": "DataHour: Data Science in a FAANG Company!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/datahour-data-science-in-a-faang-company/",
+            "authors": "Ankita Acharya",
+            "tags": "Data Science, Interview Questions, Researchers & Scientists",
+            "publishedOn": "2022-08-08T00:00:00",
+            "description": "In this DataHour session, you will get to know about data science job roles and responsibilities in a FAANG company.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/medium.png"
+        },
+        {
+            "id": 2321,
+            "title": "Data Science Blogathon 23rd Edition",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/data-science-blogathon-23rd-edition/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement, Blockchain, Data Engineering, Machine Learning, MLops, Web 3.0",
+            "publishedOn": "2022-08-08T00:00:00",
+            "description": "Analytics Vidhya is excited to announce the upcoming Data Science Blogathon, 23 rd Edition. So, start writing data science articles.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/08/blogathon.jpg"
+        },
+        {
+            "id": 2322,
+            "title": "A Beginners Guide to understand the Blockchain Ecosystem",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/a-beginners-guide-to-understand-the-blockchain-ecosystem/",
+            "authors": "Anusha Meghawat",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-08-07T00:00:00",
+            "description": "Blockchain ecosystem has enabled us with a new way of perceiving, storing, and sharing data based on the concept of peer-to-peer technologies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2323,
+            "title": "Comprehensive Guide to Edge Detection Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/comprehensive-guide-to-edge-detection-algorithms/",
+            "authors": "Vikram M",
+            "tags": "Computer Vision, Deep Learning, Image, Image Analysis, Python",
+            "publishedOn": "2022-08-07T00:00:00",
+            "description": "Edge detection is detecting the edges in the image. The blog talk about Canny edge detector and Holistically Nested Edge Detector.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/edgeDetection.png"
+        },
+        {
+            "id": 2324,
+            "title": "The Ultimate Guide to Pandas For Data Science!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/the-ultimate-guide-to-pandas-for-data-science/",
+            "authors": "Shreya Ganguly",
+            "tags": "Beginner, Machine Learning, Pandas, Python",
+            "publishedOn": "2022-08-07T00:00:00",
+            "description": "Pandas is user-friendly data science and machine learning libraries aiding in deriving meaningful insights from various types of datasets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/40248PandasGUI.png"
+        },
+        {
+            "id": 2325,
+            "title": "LOGOS: A Brand Independent logo detection model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/logos-a-brand-independent-logo-detection-model/",
+            "authors": "Maitri Das",
+            "tags": "Computer Vision, Image, Image Analysis, Intermediate, Libraries",
+            "publishedOn": "2022-08-07T00:00:00",
+            "description": "Logo detection is a part of a broader family of object detection. In object detection, we predict the bounding box for objects in an image.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg"
+        },
+        {
+            "id": 2326,
+            "title": "QlikView for Data Engineers Explained with Architecture",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/qlikview-for-data-engineers-explained-with-architecture/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Business Intelligence, Data Engineering, Data Visualization, Libraries",
+            "publishedOn": "2022-08-07T00:00:00",
+            "description": "The frontend of QlikView architecture visualizes the processed data, while its backend provides security of QlikView documents.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/01/Qlikview.jpg"
+        },
+        {
+            "id": 2327,
+            "title": "ETL vs ELT in 2022: Do they matter?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/etl-vs-elt-in-2022-do-they-matter/",
+            "authors": "Iva Works",
+            "tags": "Beginner, Data Engineering",
+            "publishedOn": "2022-08-06T00:00:00",
+            "description": "The difference between ETL and ELT is the order in which they process the data. The question is-which of them should you use?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-Get-Acquainted-with-the-Spark-Architecture.png"
+        },
+        {
+            "id": 2328,
+            "title": "Building Data Warehouse Using Google Big Query",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/building-data-warehouse-using-google-big-query/",
+            "authors": "Chaitanya Shah",
+            "tags": "Big data, Cloud Computing, Data Warehouse, Guide, Intermediate, Use Cases",
+            "publishedOn": "2022-08-06T00:00:00",
+            "description": "A data warehouse aggregates data into a central consistent data repository to generate business insights and help in effective decision-making",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/bigquery.png"
+        },
+        {
+            "id": 2329,
+            "title": "Statistical Effect Size and Python Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/statistical-effect-size-and-python-implementation/",
+            "authors": "Dsanr",
+            "tags": "Beginner, Python, Statistics",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "This article will help you look into different effect sizes types and calculate them using various Python libraries.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/22197Intermediate-statistics-feature-img.png"
+        },
+        {
+            "id": 2330,
+            "title": "A Compressive Guide to Build Image Caption Generator",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/a-compressive-guide-to-build-image-caption-generator/",
+            "authors": "Anshul Saini",
+            "tags": "Computer Vision, Deep Learning, Guide, Image Analysis, Intermediate, Python",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "Image caption generator is the most used application in the industry these days. This article will tell you how to build and evaluate it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Image-Caption-Generator.jpg"
+        },
+        {
+            "id": 2331,
+            "title": "Applications of EdgeML",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/applications-of-edgeml/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, Cloud Computing, Machine Learning",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "In this article, you will learn some of the applications used in machine learning through EdgeML. Head on to read more!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 2332,
+            "title": "12 FAQs on AWS Asked in Interviews",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/12-faqs-on-aws-asked-in-interviews/",
+            "authors": "Pinak Datta",
+            "tags": "AWS, Beginner, Interview Questions, Interviews",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "In this article, you will know some of the frequently asked questions during the interviews on AWS. Let's get started?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2333,
+            "title": "Bridging the Gap: Drug Discovery and AI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/bridging-the-gap-drug-discovery-and-ai/",
+            "authors": "Rishabh Raman",
+            "tags": "Artificial Intelligence, Beginner, Healthcare, Use Cases",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "In this article, you will learn how artificial intelligence is helping to bridge the gap between the drug discovery industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_discovery.jpg"
+        }
+    ]
+}

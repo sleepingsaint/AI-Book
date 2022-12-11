@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15067,
+            "title": "Deployment of Data and ML Pipelines for the Most Chaotic Industry: The Stirred Rivers of Crypto",
+            "url": "https://neptune.ai/blog/deployment-of-data-and-ml-pipelines-crypto-industry",
+            "authors": "Hernan Escudero",
+            "tags": null,
+            "publishedOn": "2022-12-07T00:00:00",
+            "description": "There\u2019s an old saying in Argentina that goes: \u201cA r\u00edo revuelto, ganancia de pescadores\u201d. This translates to \u201cwhen the rivers are stirred, the fishermen profit\u201d. 2022 will be remembered as a defining year for the crypto ecosystem. If this will be for good or for bad reasons it is yet to be known, but there\u2019s\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/12/01_luna_crypto_crash.png"
+        },
+        {
+            "id": 14986,
+            "title": "Why is Git Not the Best for ML Model Version Control",
+            "url": "https://neptune.ai/blog/git-for-ml-model-version-control",
+            "authors": "Vidhi Chugh",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "These days enterprises are sitting on a pool of data and increasingly employing machine learning and deep learning algorithms to forecast sales, predict customer churn and fraud detection, etc., across industries and domains. Data science practitioners experiment with algorithms, data, and hyperparameters to develop a model that generates business insights. However, the increasing scale of\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/11/git-is-not-for-model-version-control-1.png"
+        },
+        {
+            "id": 14987,
+            "title": "Optimizing Models for Deployment and Inference",
+            "url": "https://neptune.ai/blog/optimizing-models-for-deployment-and-inference",
+            "authors": "Tim Ta-Ying Cheng",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "The evolution of artificial intelligence and machine learning was rapid and unanticipated. These advanced models paint Van Gogh-inspired paintings of your backyard, snatch the name of the familiar tune you heard in your high school prom, and finish your meticulously worded email for your client. They are everywhere, and companies are desperately adapting their business\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/11/optimizing-models-for-deployment-and-inference-1.png"
+        },
+        {
+            "id": 14957,
+            "title": "How to Version and Organize ML Experiments That You Run in Google Colab",
+            "url": "https://neptune.ai/blog/google-colab-version-organize-ml-experiments",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "Running ML experiments has never been easier since the advent of Google Colab. It has been able to offer a seamless experience to run experiments with the advantage of on-demand shared GPU instances. However, ML experiments come with a natural requirement of tracking and organization, which Colab doesn\u2019t offer natively. In this blog, we\u2019re going\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/11/Colab-versioning.png"
+        },
+        {
+            "id": 14481,
+            "title": "Data Science Project Management [The New Guide For ML Teams]",
+            "url": "https://neptune.ai/blog/data-science-project-management",
+            "authors": "Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Data Science Project Management",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/DS-Project-Management.jpg"
+        },
+        {
+            "id": 14502,
+            "title": "Transformer NLP Models (Meena and LaMDA): Are They \u201cSentient\u201d and What Does It Mean for Open-Domain Chatbots?",
+            "url": "https://neptune.ai/blog/transformer-nlp-models-meena-lamda-chatbots",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "First of all, this is not a post about whether Google\u2019s latest Deep Learning Natural Language Processing (NLP) model LaMDA is the real-life version of Hal-9000, the sentient Artificial Intelligence (AI) computer in 2001: A Space Odyssey. This is not to say that it is a pointless question to ask. Quite opposite, it is a\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Transformer-models-for-chatbots.jpg"
+        },
+        {
+            "id": 14535,
+            "title": "Building and Managing Data Science Pipelines with Kedro",
+            "url": "https://neptune.ai/blog/data-science-pipelines-with-kedro",
+            "authors": "Kenneth Leung",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Data science promises to generate immense business value across all industries through the compelling capabilities of machine learning. However, a recent report by Gartner revealed that most data science projects fail to progress beyond experimentation despite having sufficient data and intent. To unlock the full potential of data science, machine learning models need to be\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Data-science-pipelines-with-Kedro.png"
+        },
+        {
+            "id": 14556,
+            "title": "The Best Weights & Biases Alternatives",
+            "url": "https://neptune.ai/blog/weights-and-biases-alternatives",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Weights & Biases, also known as WandB, is an MLOps tool for performance visualization and experimental tracking of machine learning models. It helps with automation, tracking, training, and improvement of ML models.\u00a0 Weights & Biases is a cloud-based service that allows you to host your experiments in a single central repository and if you have\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Weights-Biases-alternatives.jpg"
+        },
+        {
+            "id": 14577,
+            "title": "Depth Estimation Models with Fully Convolutional Residual Networks (FCRN)",
+            "url": "https://neptune.ai/blog/depth-estimation-models-with-fully-convolutional-residual-networks-fcrn",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Estimating and evaluating the depth of a 2D scene is a difficult computer vision task. First, you need costly equipment to make a depth mapping. Bulky systems like 3D stereoscopic sensors for vision, motion, and light projection, are the most reliable technologies used nowadays, and they depend on external factors that need to be additionally\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Depth-estimation.jpg"
+        },
+        {
+            "id": 14595,
+            "title": "Self-Driving Cars With Convolutional Neural Networks (CNN)",
+            "url": "https://neptune.ai/blog/self-driving-cars-with-convolutional-neural-networks-cnn",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Humanity has been waiting for self-driving cars for several decades. Thanks to the extremely fast evolution of technology, this idea recently went from \u201cpossible\u201d to \u201ccommercially available in a Tesla\u201d. Deep learning is one of the main technologies that enabled self-driving. It\u2019s a versatile tool that can solve almost any problem \u2013 it can be\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Self-driving-cars-1.jpg"
+        },
+        {
+            "id": 14608,
+            "title": "15 Computer Visions Projects You Can Do Right Now",
+            "url": "https://neptune.ai/blog/15-computer-visions-projects",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Computer vision deals with how computers extract meaningful information from images or videos. It has a wide range of applications, including reverse engineering, security inspections, image editing and processing, computer animation, autonomous navigation, and robotics.\u00a0 In this article, we\u2019re going to explore 15 great OpenCV projects, from beginner-level to expert-level. For each project, you\u2019ll see\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Computer-Vision-projects.jpg"
+        },
+        {
+            "id": 14724,
+            "title": "How to Make Your TensorBoard Projects Easy to Share and Collaborate On",
+            "url": "https://neptune.ai/blog/how-to-make-your-tensorboard-projects-easy-to-share-and-collaborate-on",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "We all know that teamwork is an essential part of every machine learning project. Although each engineer has their own piece of the project to work on, they still need to share their results with the team and be open to collaboration. So in this article, you\u2019ll learn how to make your ML projects easy\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-Make-Your-TensorBoard-Projects-Easy-to-Share-and-Collaborate-On-High-Quality.jpg"
+        },
+        {
+            "id": 14769,
+            "title": "Can GPT-3 or BERT Ever Understand Language?\u2060\u2014The Limits of Deep Learning Language Models",
+            "url": "https://neptune.ai/blog/gpt-3-bert-limits-of-deep-learning-language-models",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "It\u2019s safe to assume a topic can be considered mainstream when it is the basis for an opinion piece in the Guardian. What is unusual is when that topic is a fairly niche area that involves applying Deep Learning techniques to develop natural language models. What is even more unusual is when one of those\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/GPT-3-BERT-language-models.jpg"
+        },
+        {
+            "id": 14776,
+            "title": "How to Train Your Own Object Detector Using TensorFlow Object Detection API",
+            "url": "https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Object detection is a computer vision task that has recently been influenced by the progress made in Machine Learning.\u00a0 In the past, creating a custom object detector looked like a time-consuming and challenging task. Now, with tools like TensorFlow Object Detection API, we can create reliable models quickly and with ease. In this article we\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-Train-Your-Own-Object-Detector-Using-TensorFlow.jpg"
+        },
+        {
+            "id": 14796,
+            "title": "How to Make Sense of the Reinforcement Learning Agents? What and Why I Log During Training and Debug",
+            "url": "https://neptune.ai/blog/reinforcement-learning-agents-training-debug",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Based on simply watching how an agent acts in the environment it is hard to tell anything about why it behaves this way and how it works internally. That\u2019s why it is crucial to establish metrics that tell WHY the agent performs in a certain way.\u00a0 This is challenging especially when the agent doesn\u2019t behave\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-Make-Sense-of-the-Reinforcement-Learning-Agents-What-and-Why-I-Log-During-Training-and-Debug.jpg"
+        },
+        {
+            "id": 14806,
+            "title": "Explainable and Reproducible Machine Learning Model Development With DALEX and Neptune",
+            "url": "https://neptune.ai/blog/explainable-and-reproducible-machine-learning-with-dalex-and-neptune",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Machine learning model development is hard, especially in the real world.\u00a0 Typically, you need to:\u00a0 And that is not all.\u00a0 You should have the experiments you run and models you train versioned in case you or anyone else needs to inspect them or reproduce the results in the future. From my experience, this moment comes\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Explainable-and-Reproducible-ML-Model-Development-With-DALEX-and-Neptune.jpg"
+        },
+        {
+            "id": 14808,
+            "title": "10 Real-Life Applications of Reinforcement Learning",
+            "url": "https://neptune.ai/blog/reinforcement-learning-applications",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "In Reinforcement Learning (RL), agents are trained on a reward and punishment mechanism. The agent is rewarded for correct moves and punished for the wrong ones. In doing so, the agent tries to minimize wrong moves and maximize the right ones.\u00a0 In this article, we\u2019ll look at some of the real-world applications of reinforcement learning.\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/10-Real-Life-Applications-of-Reinforcement-Learning-1.jpg"
+        },
+        {
+            "id": 14809,
+            "title": "A Complete Guide to Monitoring ML Experiments Live in Neptune",
+            "url": "https://neptune.ai/blog/monitoring-machine-learning-experiments-guide",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "Training machine learning or deep learning models can take a really long time. If you are like me, you like to know what is happening during that time: Neptune lets you do all that, and in this post I will show you how to make it happen. Step by step. Check out this example run\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/A-Complete-Guide-to-Monitoring-ML-Experiments-Live-in-Neptune.jpg"
+        },
+        {
+            "id": 14816,
+            "title": "Best Practices for Dealing With Concept Drift",
+            "url": "https://neptune.ai/blog/concept-drift-best-practices",
+            "authors": "Shibsankar Das",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "You trained a machine learning model, validated its performance across several metrics which are looking good, you put it in production, and then something unforeseen happened (a pandemic like COVID-19 arrived) and the model predictions have gone crazy. Wondering what happened?\u00a0 You fell victim to a phenomenon called concept drift. But don\u2019t feel bad as\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Best-Practices-for-Dealing-With-Concept-Drift.jpg"
+        },
+        {
+            "id": 14821,
+            "title": "How to Do Data Exploration for Image Segmentation and Object Detection (Things I Had to Learn the Hard Way)",
+            "url": "https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection",
+            "authors": "Jakub Cie\u015blik",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "I\u2019ve been working with object detection and image segmentation problems for many years. An important realization I made is that people don\u2019t put the same amount of effort and emphasis on data exploration and results analysis as they would normally in any other\u00a0non-image machine learning project.\u00a0\u00a0 Why is it so?\u00a0 I\u00a0 believe there are two\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-Do-Data-Exploration-for-Image-Segmentation-and-Object-Detection.jpg"
+        },
+        {
+            "id": 14846,
+            "title": "8 Creators and Core Contributors Talk About Their Model Training Libraries From PyTorch Ecosystem",
+            "url": "https://neptune.ai/blog/model-training-libraries-pytorch-ecosystem",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-18T00:00:00",
+            "description": "I started using Pytorch to train my models back in early 2018 with 0.3.1 release. I got hooked by the Pythonic feel, ease of use and flexibility. It was just so much easier to do things in Pytorch than in Tensorflow or Theano. But\u00a0something I missed was the Keras-like high-level interface to PyTorch\u00a0and there was\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/8-Creators-and-Core-Contributors-Talk-About-Their-Model-Training-Libraries-From-PyTorch-Ecosystem.jpg"
+        },
+        {
+            "id": 14506,
+            "title": "Building MLOps Pipeline for Time Series Prediction [Tutorial]",
+            "url": "https://neptune.ai/blog/mlops-pipeline-for-time-series-prediction-tutorial",
+            "authors": "Enes Zvorni\u010danin",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "In this tutorial, we\u2019ll present a simple example of a time-series-based ML project and build an MLOps pipeline for that. Every step will be executed following the best practices from MLOps, and the whole project will be explained step by step. This time-series project is based on the Binance trading app, but similar logic is\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Building-MLOps-pipeline-for-time-series.jpg"
+        },
+        {
+            "id": 14520,
+            "title": "9 Things That Can Make Your ML Team Meetings More Effective",
+            "url": "https://neptune.ai/blog/machine-learning-team-meetings",
+            "authors": "Tim Ta-Ying Cheng",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "According to a report by\u00a0WaveStone, over 90% of the leading companies now have ongoing investments in Artificial Intelligence \u2013 a significant yet not-so-surprising result reflecting the blooming of the machine learning era. Its applications rapidly expand due to its data-agnostic nature (e.g., a fully-connected network can be used for weather forecasting just as well as\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/ML-team-meetings.jpg"
+        },
+        {
+            "id": 14527,
+            "title": "How to Deploy NLP Models in Production",
+            "url": "https://neptune.ai/blog/deploy-nlp-models-in-production",
+            "authors": "Daniel McNeela",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "NLP is currently one of the most exciting areas of ML, as the advent of Transformers and large language models such as GPT and BERT have redefined what is possible within the field. However, much of the focus in blogs and the popular media is on the models themselves and not on highly important practical\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-deploy-NLP-models-in-production.jpg"
+        },
+        {
+            "id": 14534,
+            "title": "Kedro Pipelines With Optuna: Running Hyperparameter Sweeps",
+            "url": "https://neptune.ai/blog/kedro-pipelines-with-optuna-hyperparameter-sweeps",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Software engineering\u2019s workflow management ecosystem is quite mature \u2013 Git for version control, Postman for API testing and many tools to make your life easier. In ML, we consistently experiment with code and data, contrary to software development where \u2018experimentation\u2019 is not so common. In addition, ML experiments can get messy quickly and often fail\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Kedro-pipelines-with-Optuna.jpg"
+        },
+        {
+            "id": 14557,
+            "title": "Best Tools for ML Model Governance, Provenance, and Lineage",
+            "url": "https://neptune.ai/blog/tools-for-ml-model-governance-provenance-lineage",
+            "authors": "Yulia Gavrilova",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "ML software development is complex; building an ML model is one thing, improving and maintaining it, is another. If you want your machine learning models to be robust, compliant, and give reproducible results, you must invest time and money in quality model management.\u00a0 Model governance, model provenance, and model lineage tools help you in doing\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Tools-for-ML-model-governance.jpg"
+        },
+        {
+            "id": 14575,
+            "title": "Debug and Visualize Your TensorFlow/Keras Model: Hands-on Guide",
+            "url": "https://neptune.ai/blog/debug-and-visualize-tensorflow-keras-model",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Data config logs Neptune",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Debug-and-visualize-Keras.jpg"
+        },
+        {
+            "id": 14579,
+            "title": "MLOps Model Stores: Definition, Functionality, Tools Review",
+            "url": "https://neptune.ai/blog/mlops-model-stores",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "What is ML (Machine Learning) Model Store? Here\u2019s a scenario you might find yourself in. You\u2019ve gone through a rigorous development workflow, experimenting and training various machine learning models with different results and performance scores. You decide the best way to collaborate is by sharing your models stored in object storage like S3 or GCS\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/MLOps-model-store.jpg"
+        },
+        {
+            "id": 14580,
+            "title": "Visualizing Machine Learning Models: Guide and Tools",
+            "url": "https://neptune.ai/blog/visualizing-machine-learning-models",
+            "authors": "Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Why do we need to visualize Machine Learning models? \u201cIf you refuse to trust decision-making to something whose process you don\u2019t entirely understand, then why even hire people to work? No one knows how the human brain (with its hundred billion neurons!) makes decisions.\u201d \u2013 Cassie Kozyrkov This quote has been used by some people\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Visualize-ML-models.jpg"
+        },
+        {
+            "id": 14600,
+            "title": "Reinforcement Learning Basics With Examples (Markov Chain and Tree Search)",
+            "url": "https://neptune.ai/blog/reinforcement-learning-basics-markov-chain-tree-search",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Have you ever played against the computer in a video game, and wondered how it gets so good? Well, a big part of it is reinforcement learning. Reinforcement Learning (RL) is a machine learning domain that focuses on building self-improving systems that learn for their own actions and experiences in an interactive environment. In RL,\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Reinforcement-Learning-basics.jpg"
+        }
+    ]
+}

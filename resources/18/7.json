@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10247,
+            "title": "Using Computer Vision to Extract Document Structure",
+            "url": "https://blog.roboflow.com/using-computer-vision-extract-document-structure/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-04-06T00:00:00",
+            "description": "This is a guest post written by Frederik Brammer, a student in Germany. Due to the Coronavirus pandemic, working from home has become more important than ever. Because of homeschooling, school servers have crashed due to the enormous amount of traffic \u2013 in some cases, multiple days go by without contact",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/doc_structure.001.jpeg"
+        },
+        {
+            "id": 10248,
+            "title": "How to Use Roboflow with IBM Visual Recognition (IBM Watson vs Roboflow)",
+            "url": "https://blog.roboflow.com/ibm-watson-computer-vision-alternatives/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-04-04T00:00:00",
+            "description": "IBM recently announced they are shutting down IBM Visual Inspection, their product for creating custom computer vision models for classification and object detection. No new instances can be created and all current instances will be fully shutdown in December 2021. This has left many looking for IBM Visual Inspection alternatives.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/ibm-visual-recognition-to-roboflow.png"
+        },
+        {
+            "id": 10249,
+            "title": "Top 5 Ways Manufacturers Are Already Using Computer Vision",
+            "url": "https://blog.roboflow.com/computer-vision-use-cases-for-manufacturing/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-02T00:00:00",
+            "description": "Computer vision has become essential to building strong and stable manufacturing processes for operations of all sizes, and manufacturers across every industry are using the technology to boost the productivity and quality of their production lines. What was once reserved for only the largest manufacturers to invest time and money",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/manufacturing-1.jpg"
+        },
+        {
+            "id": 10250,
+            "title": "Roboflow Changelog: April 2021",
+            "url": "https://blog.roboflow.com/roboflow-changelog-april-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-01T00:00:00",
+            "description": "Each month we bring you the high level bullet-points of improvements and additions to Roboflow. If you missed it, last month's changelog is here. In March we were focused on expanding Roboflow's inference capabilities with the release of on-device NVIDIA Jetson support, our open source video inference library, a Python",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/april-changelog.jpg"
+        },
+        {
+            "id": 10251,
+            "title": "Using Your Webcam with Roboflow Models",
+            "url": "https://blog.roboflow.com/python-webcam/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-30T00:00:00",
+            "description": "Computer vision models are normally trained to give you predictions on a single image at a time. The input to these models are often individual photos or frames from recorded videos collected asynchronously. But oftentimes you'll want to get predictions from a camera feed in realtime. The final result.We",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/webcam.jpg"
+        },
+        {
+            "id": 10252,
+            "title": "Zero-Shot Content Moderation with OpenAI's New CLIP Model",
+            "url": "https://blog.roboflow.com/zero-shot-content-moderation-openai-new-clip-model/",
+            "authors": "Matt Brems, Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-28T00:00:00",
+            "description": "OpenAI's CLIP model can \"zero-shot\" understand an image's semantic meaning. We walk through how we use CLIP to moderate content for our game paint.wtf.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/zeroshotcontentmoderation.001.jpeg"
+        },
+        {
+            "id": 10253,
+            "title": "Andrew Ng: \"Deploying to production means you're halfway there.\"",
+            "url": "https://blog.roboflow.com/andrew-ng-scale-transform-conference/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-27T00:00:00",
+            "description": "Andrew Ng, the co-founder of Google Brain and Coursera and former Chief Scientist at Baidu, spoke at this week's Scale Transform conference on the transition from \"big data\" to \"good data.\" He relayed several insights learned from his efforts to deploy AI for real-world applications. On Iteration in Machine LearningOne",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/andrew-ng.jpg"
+        },
+        {
+            "id": 10254,
+            "title": "Webinar: How to Build a Detectron2 Model with Roboflow and Paperspace Gradient",
+            "url": "https://blog.roboflow.com/webinar-how-to-build-detectron-model-roboflow-paperspace-gradient-gpu/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-03-24T00:00:00",
+            "description": "Missed the event or looking for the recording? Check out the Roboflow + Paperspace Detectron2 webinar recording here and notebook here!Tomorrow, Roboflow and Paperspace are co-hosting a webinar teaching you how to build a Detectron2 model with our tools. Roboflow gives you \"everything you need to start building computer vision",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/Webinar-Title-Slide-v2.jpg"
+        },
+        {
+            "id": 10255,
+            "title": "Video Inference with Roboflow",
+            "url": "https://blog.roboflow.com/video-inference/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-22T00:00:00",
+            "description": "One common question we get is \"Can I use my Roboflow model on a video?\" The answer is yes! Videos are really just a sequence of images, so your model can give predictions just like it does on images. The process is simple: 1) split your video into frames, 2)",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/video-inference.jpg"
+        },
+        {
+            "id": 10256,
+            "title": "Danger Monitoring for Cyclists using Raspberry Pi and Object Detection",
+            "url": "https://blog.roboflow.com/danger-monitoring-raspberry-pi-object-detection/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-03-21T00:00:00",
+            "description": "My solution is a low-cost prototype danger monitoring application on Raspberry Pi that detects cars and bicycles, then warns the cyclist with an LED light.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/monitoring_cyclists.001.jpeg"
+        },
+        {
+            "id": 10257,
+            "title": "What is Embedded Machine Learning?",
+            "url": "https://blog.roboflow.com/what-is-embedded-machine-learning/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-03-20T00:00:00",
+            "description": "Machine learning \u2013 the software discipline of mapping inputs to outputs without explicitly programmed relationships \u2013 requires substantial computational resources. Traditionally, this limits where machine learning models can run to very powerful supercomputers. But this is changing.  Computation is required at two core moments in the machine learning development lifecycle: model training",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/embedded-ml-photo.png"
+        },
+        {
+            "id": 10258,
+            "title": "Using Computer Vision to Detect Personal Protective Equipment",
+            "url": "https://blog.roboflow.com/computer-vision-detect-ppe-personal-protective-equipment/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-03-15T00:00:00",
+            "description": "From 2018 to 2019, construction injuries rose 61% with over 5,000 workers dying on the job. I built a computer vision application to detect proper PPE.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolov5_ppe.webp"
+        },
+        {
+            "id": 10259,
+            "title": "How We Built Paint.wtf, an AI Game with 150,000+ Submissions that Judges Your Art",
+            "url": "https://blog.roboflow.com/how-we-built-paint-wtf-an-ai-that-judges-your-art-100-000-submissions/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-03-14T00:00:00",
+            "description": "Paint.wtf is an online game that uses AI to score user-submitted digital drawings to zany prompts like, \"Draw a giraffe in the arctic\" or \"Draw a bumblebee loves capitalism.\" It's Cards Against Humanity meets Microsoft Paint. The quality and quantity of submissions on paint.wtf really impressed us.Paint.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/how-we-built-paint-thumbnail.png"
+        },
+        {
+            "id": 10260,
+            "title": "Introducing Roboflow Support for NVIDIA Jetson",
+            "url": "https://blog.roboflow.com/deploy-to-nvidia-jetson/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-11T00:00:00",
+            "description": "Deploy Models to NVIDIA Embedded Devices Deploying models to the edge offers unique benefits: inference speeds can be increased, the model can run offline, and data can be processed locally. But getting models onto embedded hardware can be a tedious task \u2013 compiling a model in the right format, wrestling with",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/nvidia-jetson.jpg"
+        },
+        {
+            "id": 10261,
+            "title": "ELI5 CLIP: A Beginner's Guide to the CLIP Model",
+            "url": "https://blog.roboflow.com/clip-model-eli5-beginner-guide/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "I'll break OpenAI's CLIP model down for you in an accessible and fun read! In this post, I'll cover what CLIP is, how CLIP works, and applications of CLIP.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/openai_clip_1.001.jpeg"
+        },
+        {
+            "id": 10262,
+            "title": "3 Things You Should Know From This Year's 2021 Startup Summit",
+            "url": "https://blog.roboflow.com/startup-summit-takeaways/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-03-08T00:00:00",
+            "description": "Last week, I attended the 2021 Startup Summit from my home office in Des Moines, Iowa. Perhaps one of the few good things to come out of this pandemic are virtual conferences, which have significantly increased the accessibility of thought leadership in our respective industries. Read about some of the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/Blog-post-image-updated.jpg"
+        },
+        {
+            "id": 10263,
+            "title": "Roboflow Changelog: March 2021",
+            "url": "https://blog.roboflow.com/changelog-march-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-05T00:00:00",
+            "description": "The monthly changelog showcases improvements in Roboflow over the past month. You can find the previous changelog here. In February we had a major focus on reinforcing our foundation; after several months of rapid feature expansion we spent a considerable amount of time fixing bugs, improving infrastructure, and preparing for",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/march-changelog.jpg"
+        },
+        {
+            "id": 10264,
+            "title": "5 Emerging Trends in Computer Vision Applications from OpenCV's AI Competition",
+            "url": "https://blog.roboflow.com/5-emerging-trends-in-computer-vision-applications-opencv-competition/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-03-01T00:00:00",
+            "description": "After reviewing submissions from the OpenCV AI competition, I noticed themes in how people are innovating with computer vision. I share 5 emerging trends.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/5_emerging_trends.001-1.jpeg"
+        },
+        {
+            "id": 10265,
+            "title": "Running Tensorflow JS on an NVIDIA Jetson",
+            "url": "https://blog.roboflow.com/run-tensorflow-js-on-nvidia-jetson/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-03-01T00:00:00",
+            "description": "The NVIDIA Jetson line is a series of AI-capable low-power computers. They range from the $59 Jetson Nano (2GB) to the $899 Jetson AGX Xavier and are a popular choice for powering machine learning projects on the edge. Tensorflow.js is a library for deploying machine learning in JavaScript; it",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/03/jetson.jpg"
+        },
+        {
+            "id": 10266,
+            "title": "Roboflow and OpenCV Partner to Advance Computer Vision Capabilities for All Developers",
+            "url": "https://blog.roboflow.com/roboflow-opencv-partnership/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-02-25T00:00:00",
+            "description": "OpenCV has been a key part of advancing computer vision capabilities for developers for over 20 years. The Open Source Computer Vision Library on Github has over 50,000 stars, 42,000 forks and nearly 30,000 commits. opencv/opencvOpen Source Computer Vision Library. Contribute to opencv/opencv development by",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/roboflow-open-cv-partnership.png"
+        },
+        {
+            "id": 10267,
+            "title": "How to Use Roboflow and Streamlit to Visualize Object Detection Output",
+            "url": "https://blog.roboflow.com/how-to-use-roboflow-and-streamlit-to-visualize-object-detection-output/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-02-23T00:00:00",
+            "description": "Follow this \"how to\" guide to build your own computer vision object detection model and deployed app with Roboflow and Streamlit.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/streamlit.001-1.jpeg"
+        },
+        {
+            "id": 10268,
+            "title": "How to Use Google Earth Engine and Python API to Export Images to Roboflow",
+            "url": "https://blog.roboflow.com/how-to-use-google-earth-engine-with-roboflow/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-02-22T00:00:00",
+            "description": "Ethan Arsht and Raluca C\u00eerju show how they used Google Earth Engine to prepare images for Roboflow. They've included their Colab notebook to make it simple!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/blog_images_v2.001.jpeg"
+        },
+        {
+            "id": 10269,
+            "title": "Introducing Upload Batches, the Unannotated Queue, and Mark as Null",
+            "url": "https://blog.roboflow.com/upload-batches-unannotated-queue-mark-as-null/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-02-20T00:00:00",
+            "description": "This week we updated the workflow for uploading and annotating images to streamline the process, help you keep track of your progress, and make it easier to divide work amongst your team. If you've worked on an ongoing computer vision project with iterative improvement via active learning and multiple contributors,",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/batches-queue-null.jpg"
+        },
+        {
+            "id": 10270,
+            "title": "Using Computer Vision to Improve Disability Access in Music Education",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-improve-disability-access-in-music-education/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-02-15T00:00:00",
+            "description": "This is a guest post by Mehek Gosalia, a high school student from Sammamish, Washington. She plans to study computer science. Over the past 4 years, I've worked to develop a disability-accessible rhythm education tool called the Mehek Box. It started as a physical tool, a box representing a measure",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/music_ed.001.jpeg"
+        },
+        {
+            "id": 10271,
+            "title": "Liquid Neural Networks in Computer Vision",
+            "url": "https://blog.roboflow.com/liquid-neural-netowrks/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-02-12T00:00:00",
+            "description": "Excitement is building in the artificial intelligence community around MIT's recent release of liquid neural networks. The breakthroughs that Hasani and team have made are incredible. In this post, we will discuss the new liquid neural networks and what they might mean for the vision field.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/02/liquid_neural_network.jpeg"
+        },
+        {
+            "id": 10272,
+            "title": "Using Computer Vision to Help Win $1 Million in Mountain Dew's Big Game Contest",
+            "url": "https://blog.roboflow.com/mountain-dew-contest-computer-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-02-08T00:00:00",
+            "description": "Last night during Super Bowl LV, Mountain Dew ran an ad featuring John Cena riding through a Mountain Dew-themed amusement park. Bottles are scattered all over the scene: neon signs on buildings, in fun house mirrors, and flying out of the car trunk. At the end of the ad, John",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/blog-thumbnail.png"
+        },
+        {
+            "id": 10273,
+            "title": "How to Train and Deploy a License Plate Detector to the Luxonis OAK",
+            "url": "https://blog.roboflow.com/oak-deploy-license-plate/",
+            "authors": "Jacob Solawetz, Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-02-08T00:00:00",
+            "description": "In this post, we will leverage Roboflow and the Luxonis OAK to train and deploy a custom license plate model to your OAK device.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/license_plate_blog.001.jpeg"
+        },
+        {
+            "id": 10274,
+            "title": "Using Computer Vision to Make Card Grading Faster and Cheaper",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-make-card-grading-faster-and-cheaper/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-02-08T00:00:00",
+            "description": "James Nitsch used Roboflow to organize his images and build models, enabling him to quickly assess quality and whether the card should be officially graded.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/card.001.jpeg"
+        },
+        {
+            "id": 10275,
+            "title": "Roboflow Changelog: February 2021",
+            "url": "https://blog.roboflow.com/changelog-february-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-02-03T00:00:00",
+            "description": "Welcome to our monthly roundup post of new features and enhancements. You can find the previous changelog here. The biggest new features released this month were transfer learning and Label Assist. Roboflow Organize Announced teams for all (now teams of up to 3 people can collaborate on the Starter Plan",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/02/changelog.jpg"
+        },
+        {
+            "id": 10276,
+            "title": "What is Object Detection? The Ultimate Guide.",
+            "url": "https://blog.roboflow.com/object-detection/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-02-01T00:00:00",
+            "description": "In this article, we give you an idea of what object detection is and how you can start using it for your own use case.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/guide_to_od.webp"
+        }
+    ]
+}

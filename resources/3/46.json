@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3324,
+            "title": "Introduction to Partitioned hive table and PySpark",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/introduction-to-partitioned-hive-table-and-pyspark/",
+            "authors": "Akil Ram",
+            "tags": "Beginner, Data Engineering, Python",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "In this article is an Introduction to Partitioned hive table and PySpark. These are really important things that data engineers should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/41583scott-graham-5fNmWej4tAA-unsplash1.jpg"
+        },
+        {
+            "id": 3325,
+            "title": "Understanding Indian Cuisine: A data-driven study",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/indian-cuisine-analysis-a-data-driven-study/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2021-10-28T00:00:00",
+            "description": "To understand Indian cuisine, let's perform an analysis of the geographic distribution of Indian dishes and the ingredients used in the food.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/open_source_projects_data_science.jpg"
+        },
+        {
+            "id": 3326,
+            "title": "Customer Churn Prediction Using Artificial Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/customer-churn-prediction-using-artificial-neural-network/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "In this article, we are going to build a Customer Churn Prediction Using Artificial Neural Network to estimate how many employees might leave",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/199632-things-that-will-reduce-your-churn.png"
+        },
+        {
+            "id": 3327,
+            "title": "Getting started with the basic tasks of Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/getting-started-with-the-basic-tasks-of-computer-vision/",
+            "authors": "Prathamesh Dinkar",
+            "tags": "Beginner, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "In this article we are going to get a hang of Getting started with the basic tasks of Computer Vision which including blending images",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/29443title.jpg"
+        },
+        {
+            "id": 3328,
+            "title": "Introduction to File Operations in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/introduction-to-file-operations-in-python/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "This article is a Comprehensive Guide to File Operations in Python. Python is one of the most popular languages to efficiently",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3329,
+            "title": "A Comprehensive Guide on Feature Engineering",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-feature-engineering/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Machine Learning, Project, Python",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "Feature engineering is an indispensable part of machine learning. At this end to end guide, you will learn how to create features",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/91914feature-images-1.png"
+        },
+        {
+            "id": 3330,
+            "title": "A Comprehensive Guide on using Flask for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-using-flask-for-data-science/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Data Engineering, Python",
+            "publishedOn": "2021-10-27T00:00:00",
+            "description": "Flask is a web framework written in python used for easy and fast web application development and for configuring backend applications.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/78008Flask-tutorial-feature-img.png"
+        },
+        {
+            "id": 3331,
+            "title": "kNN Algorithm \u2013 An Instance-based ML Model to Predict Heart Disease",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/knn-algorithm-an-instance-based-ml-model-to-predict-heart-disease/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Beginner, Classification, Python",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "In this article, we shall discuss kNN algorithm along with its practical implementation. It is one of the important instance based model",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-3.jpg"
+        },
+        {
+            "id": 3332,
+            "title": "Rapid Keyword Extraction (RAKE) Algorithm in Natural Language Processing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/rapid-keyword-extraction-rake-algorithm-in-natural-language-processing/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Advanced, Algorithm, NLP, Text",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "Rapid Automatic Keyword Extraction(RAKE) is a Domain-Independent keyword extraction algorithm in Natural Language Processing.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/15708algorithm-3859539_1280.jpg"
+        },
+        {
+            "id": 3333,
+            "title": "Human Pose Estimation Using Machine Learning in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/human-pose-estimation-using-machine-learning-in-python/",
+            "authors": "Ayush Gupta",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "In this article we understand Pose Estimation. Pose estimation is a computer vision technique to track the movements of a person or an object",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/human-skelaton.png"
+        },
+        {
+            "id": 3334,
+            "title": "Google OAuth for MongoDB User Authentication Sign-in",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/google-oauth-for-mongodb-user-authentication-sign-in/",
+            "authors": "LAVANYA S",
+            "tags": "Beginner, Data Engineering, MongoDB",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "In this article we are going to understand Google OAuth for MongoDB User Authentication Sign-in which is an authentic part of MongoDB",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/31561myriam-jessier-eveI7MOcSmw-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3335,
+            "title": "How To Build A Treemap In 3 Ways Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/how-to-build-a-treemap-in-3-ways-using-python/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "A treemap is a special type of chart for visualization using a set of nested rectangles of categorical data that is preferably hierarchical.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/36506tree-736885_1280.jpg"
+        },
+        {
+            "id": 3336,
+            "title": "End-to-End Predictive Analysis on Zomato",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/end-to-end-predictive-analysis-on-zomato/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Python",
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "Zomato is a major food delivery aggregator with a markdown cap of 1 Trillion INR. Let's perform predictive analysis on Zomato data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/22483Analytics_Vidya_blog_image.jpeg"
+        },
+        {
+            "id": 3337,
+            "title": "Complete Guide to build your AI Chatbot with NLP in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/",
+            "authors": "Arnab Mondal",
+            "tags": "Advanced, chatbot, NLP, Text",
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "In this article, we are going to be cover some topics and the end goal is to teach you how to make your own personal intelligent AI chatbot",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/64742Chatbots-feature-img.png"
+        },
+        {
+            "id": 3338,
+            "title": "A Comprehensive Insight into Human Perception and Speech",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-insight-into-human-perception-and-speech/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Advanced, Audio, NLP",
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "In this article, we discuss Human Perception and Speech, and human incapability of time perception and capability of frequency perception",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/speech-recognition.jpg"
+        },
+        {
+            "id": 3339,
+            "title": "Feed Forward Neural Networks \u2013 Intuition on Forward Propagation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/feed-forward-neural-networks-intuition-on-forward-propagation/",
+            "authors": "Ashwin Prasad",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "This article serves as an introduction to forward propagation which is a very prominent topic with respect to deep learning",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/deep-learning.jpg"
+        },
+        {
+            "id": 3340,
+            "title": "Time Series Forecasting Made Easy Using Darts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/time-series-forecasting-made-easy-using-darts/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Libraries, Machine Learning, Python, Time Series",
+            "publishedOn": "2021-10-24T00:00:00",
+            "description": "This article is a practical introduction to how to get started with creating a time series model using the darts library in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/76389time-series-forecasting-feature-img.png"
+        },
+        {
+            "id": 3341,
+            "title": "Emotion Detection using Bidirectional LSTM and Word2Vec",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/emotion-detection-using-bidirectional-lstm-and-word2vec/",
+            "authors": "Thetechwriters",
+            "tags": "Advanced, Classification, NLP, Python, Text",
+            "publishedOn": "2021-10-24T00:00:00",
+            "description": "Emotion detection is already implemented in various business tasks. Companies like twitter and amazon extremely leverage this",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/Sentiment-Analysis_3.png"
+        },
+        {
+            "id": 3342,
+            "title": "An introduction to Autoencoders for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-autoencoders-for-beginners/",
+            "authors": "Prakhar Gurawa",
+            "tags": "Advanced, Autoencoder, Deep Learning, Project, Python",
+            "publishedOn": "2021-10-23T00:00:00",
+            "description": "Autoencoders are unstructured learning models that utilize the power of neural networks to perform the task of representation learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 3343,
+            "title": "Face Mesh Application using OpenCV and dlib",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/face-mesh-application-using-opencv-and-dlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Python",
+            "publishedOn": "2021-10-23T00:00:00",
+            "description": "In this article, we will be using OpenCV and dlib to extract faces from a given image and then we will try to creeate a face mesh application",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/face-detection-4760361_1920.jpg"
+        },
+        {
+            "id": 3344,
+            "title": "A Comprehensive Guide to Time Series Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner, Guide, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2021-10-23T00:00:00",
+            "description": "Learn in-depth about Time Series Analysis from scratch with this comprehensive guide and Build your own time series model with Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/time-series.jpg"
+        },
+        {
+            "id": 3345,
+            "title": "Tracking Your Machine Learning Project Changes with Neptune",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/tracking-your-machine-learning-project-changes-with-neptune/",
+            "authors": "Mimi Dutta",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "In this article we will be looking into how to Track Your Machine Learning Project Changes with Neptune and keep track of your work",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 3346,
+            "title": "Forest Fire prediction using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/forest-fire-prediction-using-machine-learning/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Python",
+            "publishedOn": "2021-10-21T00:00:00",
+            "description": "Machine Learning is required for Forest Fire Prediction as it can handle numerous parameters that are responsible for a forest fire.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/53651unsplash_forest.jpg"
+        },
+        {
+            "id": 3347,
+            "title": "10 Ideas that every Professional should avoid for Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/10-ideas-that-every-professional-should-avoid-for-data-visualization/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Visualization, Listicle, Python",
+            "publishedOn": "2021-10-21T00:00:00",
+            "description": "In this article, we will be summing up some of the worst ideas to avoid in data visualization so you can stop this if you are doing it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/data-viz.png"
+        },
+        {
+            "id": 3348,
+            "title": "An Introduction to Deepfakes with Only One Source Video",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-deepfakes-with-only-one-source-video/",
+            "authors": "Suvojit Hore",
+            "tags": "Advanced, Computer Vision, Project, Python, Videos",
+            "publishedOn": "2021-10-21T00:00:00",
+            "description": "Deepfakes are synthetic videos generated by Artificial Intelligence of any person or celebrity that impersonates the actual person",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/93294deepfake.jpg"
+        },
+        {
+            "id": 3349,
+            "title": "A Comprehensive Guide to Apache Spark RDD and PySpark",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-apache-spark-rdd-and-pyspark/",
+            "authors": "LAVANYA S",
+            "tags": "Beginner, Data Engineering, Guide, Python, Spark",
+            "publishedOn": "2021-10-21T00:00:00",
+            "description": "Apache Spark is an innovative cluster computing platform that is optimized for speed and it is based on the famous Hadoop MapReduce",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/8-Must-Know-Spark-Optimization-Tips-for-Data-Engineering-Beginners-.jpg"
+        },
+        {
+            "id": 3350,
+            "title": "Perceptron: Building Block of Artificial Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/perceptron-building-block-of-artificial-neural-network/",
+            "authors": "Pratik Nabriya",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-10-21T00:00:00",
+            "description": "Perceptron is taught in the first chapter of many deep learning courses. It is one of the major concepts of deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/42.png"
+        },
+        {
+            "id": 3351,
+            "title": "Sentiment Analysis with TextBlob and Vader",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/sentiment-analysis-with-textblob-and-vader/",
+            "authors": "Mohit Kumar Barai",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "Deep dive into the world of sentiment analysis with TextBlob and Vader and decide which one is better based on the practical implementation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/Sentiment-Analysis_4.png"
+        },
+        {
+            "id": 3352,
+            "title": "An End-to-End Introduction to Generative Adversarial Networks(GANs)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-end-to-end-introduction-to-generative-adversarial-networksgans/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Algorithm, Computer Vision, Guide, Image, Image Analysis, Python",
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "Generative Adversarial Networks is an approach to generative modeling that makes a new set of data based on training data that look similar",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/cv-app.jpg"
+        },
+        {
+            "id": 3353,
+            "title": "Learn how to make your own Optical Illusion in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/learn-how-to-make-your-own-optical-illusion-in-python/",
+            "authors": "Ujjayanta Bhaumik",
+            "tags": "Advanced, Computer Vision, Libraries, Python",
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "In this article, learn how to create mind-boggling optical illusions with OpenCV, Numpy, and Matplotlib in Python in less than 15 minutes",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        }
+    ]
+}

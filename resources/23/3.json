@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14508,
+            "title": "Reducing Pipeline Debt With Great Expectations",
+            "url": "https://neptune.ai/blog/reducing-pipeline-debt-great-expectations",
+            "authors": "Micha\u0142 Oleszak",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You are a part of a data science team at a product company. Your team has a number of machine learning models in place. Their outputs guide critical business decisions, as well as a couple of dashboards displaying important KPIs that are closely watched by your executives day and night.\u00a0 On that fatal day, you\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Reducing-pipeline-debt-with-great-expectations.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14509,
+            "title": "The Best Tools, Libraries, Frameworks and Methodologies that Machine Learning Teams Actually Use \u2013 Things We Learned from 41 ML Startups [ROUNDUP]",
+            "url": "https://neptune.ai/blog/tools-libraries-frameworks-methodologies-ml-startups-roundup",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Setting up a good tool stack for your Machine Learning team is important to work efficiently and be able to focus on delivering results. If you work at a startup you know that setting up an environment that can grow with your team, needs of the users and rapidly evolving ML landscape is especially important.\u00a0\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Tools-Libraries-and-Frameworks-Used-by-ML-Startups.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14510,
+            "title": "Fighting Overfitting With L1 or L2 Regularization: Which One Is Better?",
+            "url": "https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization",
+            "authors": "Kurtis Pykes",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Poor performance in machine learning models comes from either overfitting or underfitting, and we\u2019ll take a close look at the first one. Overfitting happens when the learned hypothesis is fitting the training data so well that it hurts the model\u2019s performance on unseen data. The model generalizes poorly to new instances that aren\u2019t a part\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Fighting-Overfitting-With-L1-or-L2-Regularization-Which-One-Is-Better-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14511,
+            "title": "Overfitting vs Underfitting in Machine Learning: Everything You Need to Know",
+            "url": "https://neptune.ai/blog/overfitting-vs-underfitting-in-machine-learning",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "We live in a world where data dictates a lot of our activity. Some say data is the new fuel. Data doesn\u2019t only tell us about the past. If we model it carefully, with accurate methods, then we can find patterns and correlations to predict stock markets, generate protein sequences, explore biological structures like viruses,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Overfitting-vs-Underfitting-in-Machine-Learning-Everything-You-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14512,
+            "title": "How to Manage a Deep Reinforcement Learning Research Team \u2013 Part 1",
+            "url": "https://neptune.ai/blog/how-to-manage-a-deep-reinforcement-learning-research-team-part-1",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This blog post is the start of a series on managing research work. In it, you\u2019ll see how I maintain a helpful list of tasks, and manage my teams to finish these tasks. At some point in our careers as researchers, a lot of us have to switch from a one-man army mode of work\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Manage-a-Deep-Reinforcement-Learning-Research-Team-Part-1-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14513,
+            "title": "Machine Learning Model Management in 2021 and Beyond \u2013 Everything That You Need to Know",
+            "url": "https://neptune.ai/blog/machine-learning-model-management-in-2020-and-beyond",
+            "authors": "Sumit Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Model management is a relatively new issue when it comes to Machine Learning. Since the technique is widely used in business, the need to manage multiple experiments and optimize dozens of parameters has become bread-and-butter of data scientists around the world. And thus, the tools supporting the Model management have emerged on the market.\u00a0 The\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Machine-Learning-Model-Management-in-2021-and-Beyond-Everything-That-You-Need-to-Know.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14514,
+            "title": "Building a Search Engine With Pre-Trained Transformers: A Step By Step Guide",
+            "url": "https://neptune.ai/blog/building-search-engine-with-pre-trained-transformers-guide",
+            "authors": "Aravind CR",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "We all use search engines. We search for information about the best item to purchase, a nice place to hangout, or to answer our questions about anything we want to know.\u00a0 We also rely heavily on search to check emails, documents and financial transactions. A lot of these search interactions happen through text or speech\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Building-a-search-engine.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14515,
+            "title": "Distributed Training: Frameworks and Tools",
+            "url": "https://neptune.ai/blog/distributed-training-frameworks-and-tools",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Recent developments in deep learning have led to some fascinating state-of-the-art results especially in the areas like natural language processing and computer vision. A couple of the reasons for the success usually comes from the availability of a huge amount of data and the increasing size of deep learning (DL) models. These algorithms are capable\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Distributed-training-frameworks-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14516,
+            "title": "Deep Learning Guide: Choosing Your Data Annotation Tool",
+            "url": "https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "We all know what data annotation is. It\u2019s a part of any supervised deep learning project, including computer vision. A common computer vision task, like image classification, object detection, and segmentation requires annotations for each and every image fed into the model training algorithm.\u00a0 You simply must get a good tool for image annotation. In\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deep-Learning-Guide-Choosing-Your-Data-Annotation-Tool-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14517,
+            "title": "neptune.new",
+            "url": "https://neptune.ai/blog/neptune-new",
+            "authors": "Marcin Mycek",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "First of all \u2013 we\u2019re sorry! We\u2019ve been awfully quiet in the last months in terms of product updates. You\u2019ve seen here and there an update in the web interface or a bug fix in the Python client library, but nothing larger than that.\u00a0 What was going on? Over time we got a tremendous amount\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Product-update-neptune-new.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14518,
+            "title": "How to Fit Experiment Tracking Tools Into Your Project Management Setup",
+            "url": "https://neptune.ai/blog/experiment-tracking-tools-in-project-management-setup",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In machine learning, engineers tend to do a whole lot of experiments (to say the least). Because of this, experiment tracking is an essential part of every ML project. There\u2019s a need for a tool that won\u2019t just do the tracking for us, but also easily integrate into our existing project management setup, so the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Fit-Experiment-Tracking-Tools-Into-Your-Project-Management-Setup-High-Quality-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14519,
+            "title": "Building Deep Learning-Based OCR Model: Lessons Learned",
+            "url": "https://neptune.ai/blog/building-deep-learning-based-ocr-model",
+            "authors": "Gourav Bais",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Deep learning solutions have taken the world by storm, and all kinds of organizations like tech giants, well-grown companies, and startups are now trying to incorporate deep learning (DL) and machine learning (ML) somehow in their current workflow. One of these important solutions that have gained quite a popularity over the past few years is\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/OCR-model-lessons-learned.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14521,
+            "title": "Kedro vs ZenML vs Metaflow: Which Pipeline Orchestration Tool Should You Choose?",
+            "url": "https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow",
+            "authors": "Ricardo Raspini Motta",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, I\u2019m going to compare Kedro, Metaflow, and ZenML, but before that, I think it\u2019s worth taking a few steps back. Why even bother using ML orchestration tools such as these three? It is not that hard to start a Machine Learning project. You install some python libraries, initiate the model, train it,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Kedro-vs-ZenML-vs-Metaflow.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14522,
+            "title": "Real-World MLOps Examples: Model Development in Hypefactors",
+            "url": "https://neptune.ai/blog/mlops-examples-model-development-in-hypefactors",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this first installment of the series \u201cReal-world MLOps Examples,\u201d Jules Belveze, an MLOps Engineer, will walk you through the model development process at Hypefactors, including the types of models they build, how they design their training pipeline, and other details you may find valuable. Enjoy the chat! Company profile Hypefactors provides an all-in-one media\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Real-World-MLOps-Examples-Model-Development-in-Hypefactors-High-Quality-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14523,
+            "title": "5 Model Deployment Mistakes That Can Cost You a Lot",
+            "url": "https://neptune.ai/blog/model-deployment-mistakes",
+            "authors": "Manuel Martin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In Data Science projects, model deployment is probably the most critical and complex part of the whole lifecycle. Operational or mission-critical ML requires thorough design. You have to think about artifacts lineage and tracking, automatic deployments to avoid human errors, testing, and quality checks, feature availability when the model is online\u2026 and many more things.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-deployment-mistakes.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14524,
+            "title": "Imbalanced Data in Object Detection Computer Vision Projects",
+            "url": "https://neptune.ai/blog/imbalanced-data-in-object-detection-computer-vision",
+            "authors": "Tanay Agrawal",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "One of the typical issues faced by data science practitioners is the data imbalance problem. It plagues every other ML project and we all have faced it while working on some classification problem.\u00a0 There can be several types of data imbalances. For instance, one of the most frequently discussed problems is class imbalance. While collecting\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Imbalance-Object-Detection.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14525,
+            "title": "Automated Testing in Machine Learning Projects [Best Practices for MLOps]",
+            "url": "https://neptune.ai/blog/automated-testing-machine-learning",
+            "authors": "Enes Zvorni\u010danin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Automated testing in machine learning is a very useful segment of the ML project which can make some long-term differences. Probably underrated in the early stages of development, it gets attention only in the late stages, when the system starts to break apart with annoying bugs which only grow with time. To ease these issues\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Automated-Testing-Machine-Learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14526,
+            "title": "How to Test a Recommender System",
+            "url": "https://neptune.ai/blog/how-to-test-recommender-system",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Recommender systems fundamentally address the question \u2013 What do people want? Although it is an extensive question, in the context of a consumer application like e-commerce, the answer could be to serve the best products in terms of price and quality for a consumer. For a news aggregator website, it could be to show reliable\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-test-recommender-system.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14528,
+            "title": "Building MLOps Pipeline for NLP: Machine Translation Task [Tutorial]",
+            "url": "https://neptune.ai/blog/mlops-pipeline-for-nlp-machine-translation",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning operations popularly known as MLOps enable us to create an end-to-end machine learning pipeline right from designing the experiment, building the ML model, training and testing, to deploying and monitoring in other words machine learning lifecycle. This field of MLOps is similar to DevOps but specifically tailored for machine learning projects.\u00a0 Being a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-pipeline-for-NLP-Machine-Translation.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14529,
+            "title": "Deploying Computer Vision Models: Tools & Best Practices",
+            "url": "https://neptune.ai/blog/deploying-computer-vision-models",
+            "authors": "Arun C John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Computer vision models have become insanely sophisticated with a wide variety of use cases enhancing business effectiveness, automating critical decision systems, and so on. But a promising model can turn out to be a costly liability if the model fails to perform as expected in production. Having said that, how we develop and deploy computer\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deploying-Computer-Vision-Models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14530,
+            "title": "5 Must-Do Error Analysis Before You Put Your Model in Production",
+            "url": "https://neptune.ai/blog/must-do-error-analysis",
+            "authors": "Tim Ta-Ying Cheng",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The blossom of the deep learning era began in 2012 when Alex Krizhevsky created a convolutional neural network that boosted the accuracies in image classification by more than 10%. The drastic success was soon followed by other research domains and soon other businesses \u2013 both conglomerates and startups \u2013 hoped to apply this cutting-edge technology\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Must-do-error-analysis.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14531,
+            "title": "Multi GPU Model Training: Monitoring and Optimizing",
+            "url": "https://neptune.ai/blog/multi-gpu-model-training-monitoring-and-optimizing",
+            "authors": "Mirza Mujtaba",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Do you struggle with monitoring and optimizing the training of Deep Neural Networks on multiple GPUs? If yes, you\u2019re in the right place. In this article, we will discuss multi GPU training with Pytorch Lightning and find out the best practices that should be adopted to optimize the training process. We shall also see how\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Multi-GPU-Model-Training-Monitoring-and-Optimizing.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14532,
+            "title": "Experiment Tracking in Kubeflow Pipelines",
+            "url": "https://neptune.ai/blog/kubeflow-pipelines-experiment-tracking",
+            "authors": "Mateusz Kwasniak",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Experiment tracking has been one of the most popular topics in the context of machine learning projects. It is difficult to imagine a new project being developed without tracking each experiment\u2019s run history, parameters, and metrics. While some projects may use more \u201cprimitive\u201d solutions like storing all the experiment metadata in spreadsheets, it is definitely\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Experiment-tracking-in-kubeflow-pipelines.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14533,
+            "title": "Building Machine Learning Pipelines: Common Pitfalls",
+            "url": "https://neptune.ai/blog/building-ml-pipelines-common-pitfalls",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In recent years, there have been rapid advancements in Machine Learning and this has led to many companies and startups delving into the field without understanding the pitfalls. Common examples are the pitfalls involved when building ML pipelines. Machine Learning pipelines are complex and there are several ways they can fail or be misused. Stakeholders\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-pipelines-pitfalls.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14536,
+            "title": "Recommender Systems: Machine Learning Metrics and Business Metrics",
+            "url": "https://neptune.ai/blog/recommender-systems-metrics",
+            "authors": "Zuzanna Deutschman",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Often, there are debates around how to evaluate a recommender system or what KPIs should we focus on? Recommender systems can be evaluated in many ways using several metrics groups. Each metric group has its own purpose. In this article, we will take a look at what they are and how to combine them so\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Recommender-systems-metrics.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14537,
+            "title": "Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing",
+            "url": "https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing",
+            "authors": "Katherine (Yi) Li",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Neural network models are trained by the optimization algorithm of gradient descent. The input training data helps these models learn, and the loss function gauges how accurate the prediction performance is for each iteration when parameters get updated. As training goes, the goal is to reduce the loss function/prediction error by adjusting the parameters iteratively.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Vanishing-and-exploding-gradients.jpg?fit=1200%2C628"
+        },
+        {
+            "id": 14538,
+            "title": "Model Deployment Strategies",
+            "url": "https://neptune.ai/blog/model-deployment-strategies",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In recent years, big data and machine learning has been adopted in most of the major industries and most startups are leaning towards the same. As data has become an integral part of all companies, ways to process them i.e. derive meaningful insights and patterns are essential. This is where machine learning comes into the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-Deployment-Strategies.png?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14539,
+            "title": "Self-Supervised Learning and Its Applications",
+            "url": "https://neptune.ai/blog/self-supervised-learning",
+            "authors": "Deval Shah, Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the past decade, the research and development in AI have skyrocketed, especially after the results of the ImageNet competition in 2012. The focus was largely on supervised learning methods that require huge amounts of labeled data to train systems for specific use cases. In this article, we will explore Self Supervised Learning (SSL) \u2013\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Self-supervised-learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14540,
+            "title": "GANs Failure Modes: How to Identify and Monitor Them",
+            "url": "https://neptune.ai/blog/gan-failure-modes",
+            "authors": "Tanay Agrawal",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "A Generative Adversarial Network is a combination of two sub-networks, which compete with each other while training in order to generate realistic data. A Generator Network generates genuine looking artificial data while Discriminator Network identifies if the data is artificial or real. While GANs are powerful models, they can be rather difficult to train. We\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/GAN-failure-modes.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14541,
+            "title": "Is MLOps Engineer a Thing? We Asked 6 Engineers About It",
+            "url": "https://neptune.ai/blog/mlops-engineer",
+            "authors": "Dairenkon Majime",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When it comes to using machine learning technologies in the workplace, IT departments have encountered some difficulties. One is the requirement to design a framework that will allow the models to be scaled up and deployed safely at the same time. The development and operational teams must thus work together more closely. A term for\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-Engineer-interview.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

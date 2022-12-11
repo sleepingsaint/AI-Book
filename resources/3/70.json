@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4044,
+            "title": "15 Pandas functions to replicate basic SQL Queries in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/15-pandas-functions-to-replicate-basic-sql-queries-in-python/",
+            "authors": "Nilabh Nishchhal",
+            "tags": "Beginner, Data Exploration, Libraries, Pandas, Programming, Python, Structured Data",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article, we are going to deep dive into 15 Pandas functions to replicate basic SQL Queries in Python that data scientists should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39665Pandawithdolphin-768x512.png"
+        },
+        {
+            "id": 4045,
+            "title": "Complete Guide to Prevent Overfitting in Neural Networks (Part-2)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-prevent-overfitting-in-neural-networks-part-2/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Deep Learning, Technique",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article we will cover the following techniques to prevent Overfitting in neural networks: DropoutEarly, Stopping and Weight Decay.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 4046,
+            "title": "Master Computer Vision In Just A Few Minutes!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/master-computer-vision-in-just-a-few-minutes/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Artificial Intelligence, Beginner, Computer Vision, Data Science, Image, Unsupervised",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "Master computer vision technologies in this article. Here we will discuss a brief history of CV and how computers understand an image",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg"
+        },
+        {
+            "id": 4047,
+            "title": "Data Engineering \u2013 Concepts and Importance",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/data-engineering-concepts-and-importance/",
+            "authors": "VIKRAM RAJKUMAR",
+            "tags": "Beginner, Business Intelligence, Data Engineering, Interview Questions, Job Roles, Jobs- Big Data",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article learn about data engineering concepts, roles, and the importance of data engineering in 21st century and the coming future",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/dscareer.png"
+        },
+        {
+            "id": 4048,
+            "title": "Analyzing customer feedbacks using Aspect Based Sentiment Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/analyzing-customer-feedbacks-using-aspect-based-sentiment-analysis/",
+            "authors": "Swetha Manoj",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "Sentiment analysis involves examining online conversations like tweets, blog posts, or comments about particular services or topics",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/86762why-is-NLP-relevant-for-insurers-cover-e1566482047860.jpg"
+        },
+        {
+            "id": 4049,
+            "title": "Crowd Counting using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/crowd-counting-using-deep-learning/",
+            "authors": "Yash Khandelwal",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Maths, Project, Python, Structured Data, Technique",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "Crowd counting is prominent in the various object counting tasks due to its specific significance to social security & development",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74655jacek-dylag-PMxT0XtQ-A-unsplash-scaled.jpg"
+        },
+        {
+            "id": 4050,
+            "title": "Feature Detection, Description and Matching of Images using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/feature-detection-description-and-matching-of-images-using-opencv/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Algorithm, Beginner, Computer Vision, Image, Python",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article, I am gonna discuss various algorithms of image feature detection, description, and feature matching using OpenCV.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/30437det13.jpg"
+        },
+        {
+            "id": 4051,
+            "title": "Complete Guide to Gradient-Based Optimizers in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-gradient-based-optimizers/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Deep Learning",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article, we\u2019re going to explore and deep dive into the world of gradient-based optimizers for deep learning models eg gradient descent.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/42880deep.jpg"
+        },
+        {
+            "id": 4052,
+            "title": "DataTypes and Containers in Python : A complete Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/datatypes-and-containers-in-python-a-complete-guide/",
+            "authors": "Gunjan Goyal",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article, we will be discussing the\u00a0DataTypes and Containers\u00a0within Python and how useful it's to Data Scientists and Programmers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79346python.png"
+        },
+        {
+            "id": 4053,
+            "title": "Image Classification using Convolutional Neural Network with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Computer Vision, Deep Learning, Intermediate, Project, Python",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this article we will discuss some deep learning basics. We will also perform image classification using CNN with python implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/58963cnn-scaled.jpeg"
+        },
+        {
+            "id": 4054,
+            "title": "Artificial Neural Networks \u2013 Better Understanding !",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/artificial-neural-networks-better-understanding/",
+            "authors": "Premanand S",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "Artificial Neural Networks are the basic algorithm and also simplified method used in Deep Learning approach.In this article we will discuss ANN.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/42712g-neuron-56a792cd5f9b58b7d0ebd043.jpg"
+        },
+        {
+            "id": 4055,
+            "title": "Introductory Statistics for Data\u00a0Science!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/introductory-statistics-for-data-science/",
+            "authors": "Illiyas Sha",
+            "tags": "Beginner, Data Science, Machine Learning, Statistics, Structured Data",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this blog, we will see introductory statistics for Data science. let's see some basic statistical concepts and where they will be used.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74092Stat1.png"
+        },
+        {
+            "id": 4056,
+            "title": "Machine Learning vs Deep Learning vs Artificial Intelligence| Know in-depth Difference",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/machine-learning-vs-artificial-intelligence-vs-deep-learning/",
+            "authors": "Saumyab271",
+            "tags": "Artificial Intelligence, Beginner, Deep Learning, Machine Learning",
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this blog, we will be discussing the difference among popular buzzwords, Machine Learning vs Deep Learning vs Artificial Intelligence (ML VS DL VS AI ).",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Machine-Learning-and-Supply-Chain-Management.jpg"
+        },
+        {
+            "id": 4057,
+            "title": "A Detailed Explanation of GAN with Implementation Using Tensorflow and Keras",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-detailed-explanation-of-gan-with-implementation-using-tensorflow-and-keras/",
+            "authors": "Harsh Dhamecha",
+            "tags": "Advanced, Deep Learning, Image, Project, Python, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "In this article, We'll be discussing the Generative Adversarial Networks(GAN in short). We will also implement it using tensorflow and keras.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/96552capture.jpg"
+        },
+        {
+            "id": 4058,
+            "title": "A comprehensive tutorial on Deep Learning \u2013 Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-comprehensive-tutorial-on-deep-learning-part-2/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "This is Part 2 in the series of A Comprehensive tutorial on Deep learning. Let's understand the various concepts related to deep learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/32432d1.jpg"
+        },
+        {
+            "id": 4059,
+            "title": "Understand Weight of Evidence and Information Value!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/understand-weight-of-evidence-and-information-value/",
+            "authors": "Kruthika Kulkarni",
+            "tags": "Beginner, Core ML, Machine Learning, Python, Regression, Structured Data",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "In this article we will discuss weight of evidence. It tells the predictive power of a single feature concerning its independent feature",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/informationvalue1.png"
+        },
+        {
+            "id": 4060,
+            "title": "Steal the code (ethically) and get better at ML/AI research",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/steal-the-code-ethically-get-better-at-ml-ai-research/",
+            "authors": "Jyotisman Rath",
+            "tags": "Beginner, Interview Questions, Researchers & Scientists",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "Once you get going in the field of AI/ML research, you must keep a glance over research papers and publications to elevate your standards",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69933Poster.jpg"
+        },
+        {
+            "id": 4061,
+            "title": "The 10 most frequently used functions you must know to manipulate pandas dataframe",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/the-10-most-frequently-used-functions-you-must-know-to-manipulate-pandas-dataframe/",
+            "authors": "Saikat Mazumder",
+            "tags": "Beginner, Libraries, Machine Learning, Pandas, Python, Structured Data",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "In this article, we discuss some useful functions and significant techniques to manipulate pandas dataframe in python easily",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/pandasdataframe1050.png"
+        },
+        {
+            "id": 4062,
+            "title": "Analyze Cricket Data With Python : A hands-on guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/analyze-cricket-data-with-python-a-hands-on-guide/",
+            "authors": "Vishesh Arora",
+            "tags": "Beginner, Data Exploration, Data Visualization, Project, Python, Structured Data",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "In this article, We will use Python to analyze cricket data, the performance of an Indian cricketer MS Dhoni in his One Day International (ODI) career.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/64159sport_analytics.jpg"
+        },
+        {
+            "id": 4063,
+            "title": "Recurrent Neural Networks : Introduction for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/recurrent-neural-networks-introduction-for-beginners/",
+            "authors": "Aman Singh",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "Recurrent neural networks is a type of neural network in which the output form the previous step is fed as input to the current step",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/87566tra11.jpg"
+        },
+        {
+            "id": 4064,
+            "title": "MFCC Technique for Speech Recognition",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mfcc-technique-for-speech-recognition/",
+            "authors": "Uday Kiran",
+            "tags": "Advanced, Algorithm, Audio",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "MFCC is the widely used technique for extracting the features from the audio signal.Let's dive into the MFCC algorithm in detail",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/43553speech-recognition-system-1-638.jpg"
+        },
+        {
+            "id": 4065,
+            "title": "Visualizing Sounds Using Librosa Machine Learning Library!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/",
+            "authors": "Priya Kalyanakrishnan",
+            "tags": "Advanced, Audio, Data Engineering, Data Exploration, Data Visualization, Machine Learning, Python, Unstructured Data",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "In this article we will see the process of visualizing sounds using a machine library Librosa. It can generate many views of audio files and interpreted.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79032logo.jpg"
+        },
+        {
+            "id": 4066,
+            "title": "Binary Image Classifier using PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/binary-image-classifier-using-pytorch/",
+            "authors": "Shri Varsheni R",
+            "tags": "Advanced, Classification, Computer Vision, Image, Image Analysis, Libraries, Project, Python, PyTorch",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "This blog is an introduction to binary image classifier. In this article we will be building a binary image classifier with Pytorch",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Create-your-Own-Image-Classifier.jpg"
+        },
+        {
+            "id": 4067,
+            "title": "4 Ways to Handle Insufficient Data In Machine Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/4-ways-to-handle-insufficient-data-in-machine-learning/",
+            "authors": "Priya_dharshini__",
+            "tags": "Beginner, Data Cleaning, Data Exploration, Machine Learning",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "So in this blog, we are going to dive deeper into the problem of, insufficient data for training machine learning models and how to handle it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/65234datascience-pdusit-stock.jpg"
+        },
+        {
+            "id": 4068,
+            "title": "KModes Clustering Algorithm for Categorical data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/",
+            "authors": "Harika Bonthu",
+            "tags": "Algorithm, Beginner, Clustering, Data Science, Python, Unsupervised",
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "Here, we will discuss KModes clustering. It is one of the unsupervised Machine Learning algorithms that is used to cluster categorical variables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/machine_learning_use_cases.jpg"
+        },
+        {
+            "id": 4069,
+            "title": "Predict Future Sales using XGBRegressor",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/predict-future-sales-using-xgbregressor/",
+            "authors": "De-Yu Chao",
+            "tags": "Algorithm, Intermediate, Machine Learning, Project, Python",
+            "publishedOn": "2021-06-12T00:00:00",
+            "description": "In this article, you will learn how to predict the monthly sales of all different items at different shops using XGBRegressor in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/451832020_0213_18360900.jpg"
+        },
+        {
+            "id": 4070,
+            "title": "Decoding the Chi-Square Test\u200a-\u200aUse along with Implementation and Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/decoding-the-chi-square-test%e2%80%8a-%e2%80%8ause-along-with-implementation-and-visualization/",
+            "authors": "Yashowardhan Shinde",
+            "tags": "Beginner, Maths, Python, Statistics",
+            "publishedOn": "2021-06-12T00:00:00",
+            "description": "We will take a look at test that we can conduct to find out the correlation between the categorical variables in our data is Chi-Square Test",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 4071,
+            "title": "Anonymous or Lambda Functions in Python: A Beginner\u2019s Guide!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/",
+            "authors": "Gunjan Goyal",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2021-06-12T00:00:00",
+            "description": "In this article, you'll learn about the anonymous functions, which are also known as the Lambda functions in python .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 4072,
+            "title": "Complete Guide to Prevent Overfitting in Neural Networks (Part-1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-prevent-overfitting-in-neural-networks-part-1/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Deep Learning",
+            "publishedOn": "2021-06-12T00:00:00",
+            "description": "To prevent Overfitting, there are a few techniques that can be used. In this article, we will be discussing the different techniques to avoid overfitting the model.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/ANN-1024x768.jpg"
+        },
+        {
+            "id": 4073,
+            "title": "15 Functions you should Know to Master Lists in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/15-functions-you-should-know-to-master-lists-in-python/",
+            "authors": "Gunjan Goyal",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-06-12T00:00:00",
+            "description": "A list is defined as an ordered, mutable, and heterogeneous collection of objects. In this article we will discuss lists in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/5-Python-IDEs.jpg"
+        }
+    ]
+}

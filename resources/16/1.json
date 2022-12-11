@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9847,
+            "title": "Neural Magic 1.4 Product Release",
+            "url": "https://neuralmagic.com/blog/neural-magic-1-4-product-release/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-01-08T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9848,
+            "title": "Product Release Notes",
+            "url": "https://neuralmagic.com/blog/release-notes/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2021-01-04T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9849,
+            "title": "Using Sparse-Quantization in Inference: NeurIPS 2020",
+            "url": "https://neuralmagic.com/blog/sparse-quantization-neurips-2020/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9850,
+            "title": "Neural Magic at NeurIPS 2020",
+            "url": "https://neuralmagic.com/blog/neural-magic-at-neurips-2020/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9851,
+            "title": "Neural Magic 1.2 Product Release (Version Number Deprecated)",
+            "url": "https://neuralmagic.com/blog/neural-magic-1-2-product-release-2-2/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-10-06T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9852,
+            "title": "Speeding Up Memory-Bound Object Detection Models: MobileNetV2_SSD",
+            "url": "https://neuralmagic.com/blog/speeding-up-mobilenetv2ssd/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-09-28T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9853,
+            "title": "Neural Magic End-to-End Demo Videos",
+            "url": "https://neuralmagic.com/blog/end-to-end-demo/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-09-15T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9854,
+            "title": "Part 4: Sparsity per Layer Hyperparameter",
+            "url": "https://neuralmagic.com/blog/pruning-sparsity-per-layer-hyperparameter/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-27T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9855,
+            "title": "Part 3: Gradual Magnitude Pruning (GMP) Hyperparameters",
+            "url": "https://neuralmagic.com/blog/gmp-hyperparameters/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-18T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9856,
+            "title": "Machine Learning Engineer Spotlight: Mani Sarkar",
+            "url": "https://neuralmagic.com/blog/machine-learning-engineer-spotlight-mani-sarkar/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-14T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9857,
+            "title": "Part 2: An Intro to Gradual Magnitude Pruning (GMP)",
+            "url": "https://neuralmagic.com/blog/pruning-gmp/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-10T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9858,
+            "title": "Neural Magic 1.1 Product Release",
+            "url": "https://neuralmagic.com/blog/neural-magic-1-1-product-release/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-08-06T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9859,
+            "title": "Part 1: What is Pruning in Machine Learning?",
+            "url": "https://neuralmagic.com/blog/pruning-overview/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9860,
+            "title": "Profile: Jeannie Finks",
+            "url": "https://neuralmagic.com/blog/jeannie-finks-profile/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9861,
+            "title": "How to Get Faster MobileNetV2 Performance on CPUs",
+            "url": "https://neuralmagic.com/blog/faster-mobilenetv2/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9862,
+            "title": "What deep learning models are in the Neural Magic Model Repo?",
+            "url": "https://neuralmagic.com/blog/what-deep-learning-models-are-in-the-neural-magic-model-repo/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-06-18T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9863,
+            "title": "Neural Magic Launches High-Performance Inference Engine and Tool Suite for CPUs",
+            "url": "https://neuralmagic.com/blog/neural-magic-inference-engine/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-06-18T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9864,
+            "title": "How to Run ResNet at a Fraction of the Cost",
+            "url": "https://neuralmagic.com/blog/sparse-resnet/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-06-04T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9865,
+            "title": "Neural Magic, Cisco, and Intel Collaborate to Accelerate Deep Learning Performance",
+            "url": "https://neuralmagic.com/blog/neuralmagic-cisco-intel-collaboration/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-05-29T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9866,
+            "title": "Who is Neural Magic? How does it work?",
+            "url": "https://neuralmagic.com/blog/who-is-neural-magic/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-05-22T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9867,
+            "title": "The combination of the right software and commodity hardware will prove capable of handling most machine learning tasks",
+            "url": "https://neuralmagic.com/blog/data-exchange-podcast-nir-shavit/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-05-14T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9868,
+            "title": "Companies Lack Resources to Get Deep Learning Models into Production [Survey]",
+            "url": "https://neuralmagic.com/blog/deep-learning-survey-results/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-04-30T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9869,
+            "title": "The Challenges of EfficientNets And the Way Forward",
+            "url": "https://neuralmagic.com/blog/the-challenges-of-efficientnets-and-the-way-forward/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-04-27T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9870,
+            "title": "The Software GPU, Pruning for Success & More at ODSC East",
+            "url": "https://neuralmagic.com/blog/neural-magic-at-odsc-2020/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-04-01T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9871,
+            "title": "Challenging Memory Requirements and Performance Standards in ML",
+            "url": "https://neuralmagic.com/blog/the-fallacy-of-the-flops/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-03-20T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9872,
+            "title": "Contribute to Neural Magic\u2019s First Annual State of Deep Learning Report",
+            "url": "https://neuralmagic.com/blog/contribute-to-neural-magics-first-annual-state-of-deep-learning-report/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-03-10T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9873,
+            "title": "How to Use Machine Learning in Visual Search for Retail",
+            "url": "https://neuralmagic.com/blog/machine-learning-in-visual-search/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-03-03T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9874,
+            "title": "Counterintuitive Lessons: How to Improve Machine Learning",
+            "url": "https://neuralmagic.com/blog/counterintuitive-lessons-how-to-improve-machine-learning/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-02-24T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9875,
+            "title": "Neural Magic is Coming to SXSW 2020: What\u2019s Wrong with AI Computing?",
+            "url": "https://neuralmagic.com/blog/neural-magic-at-sxsw-whats-wrong-with-ai-computing/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-02-12T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 9876,
+            "title": "Built in Boston & Bostinno Honor Neural Magic for Potential",
+            "url": "https://neuralmagic.com/blog/built-in-boston-bostinno-honor-neural-magic-for-growth-potential/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2020-01-31T00:00:00",
+            "description": null,
+            "thumbnail": null
+        }
+    ]
+}

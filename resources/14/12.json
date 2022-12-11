@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8842,
+            "title": "Neural Networks are Function Approximation Algorithms",
+            "url": "https://machinelearningmastery.com/neural-networks-are-function-approximators/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2020-03-18T00:00:00",
+            "description": "Supervised learning in machine learning can be described in terms of function approximation. Given a dataset comprised of inputs and outputs, we assume that there is an unknown underlying function that is consistent in mapping inputs to outputs in the target domain and resulted in the dataset. We then use supervised learning algorithms to approximate [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Scatter-Plot-of-Input-vs-Actual-and-Predicted-Values-for-the-Neural-Net-Approximation.png"
+        },
+        {
+            "id": 8843,
+            "title": "Imbalanced Multiclass Classification with the E.coli Dataset",
+            "url": "https://machinelearningmastery.com/imbalanced-multiclass-classification-with-the-e-coli-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-16T00:00:00",
+            "description": "Multiclass classification problems are those where a label must be predicted, but there are more than two labels that may be predicted. These are challenging predictive modeling problems because a sufficiently representative number of examples of each class is required for a model to learn the problem. It is made challenging when the number of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Histogram-of-Variables-in-the-E.coli-Dataset.png"
+        },
+        {
+            "id": 8844,
+            "title": "Imbalanced Multiclass Classification with the Glass Identification Dataset",
+            "url": "https://machinelearningmastery.com/imbalanced-multiclass-classification-with-the-glass-identification-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-13T00:00:00",
+            "description": "Multiclass classification problems are those where a label must be predicted, but there are more than two labels that may be predicted. These are challenging predictive modeling problems because a sufficiently representative number of examples of each class is required for a model to learn the problem. It is made challenging when the number of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Box-and-Whisker-Plot-of-Machine-Learning-Models-on-the-Imbalanced-Glass-Identification-Dataset.png"
+        },
+        {
+            "id": 8845,
+            "title": "Imbalanced Classification with the Fraudulent Credit Card Transactions Dataset",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-with-the-fraudulent-credit-card-transactions-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-11T00:00:00",
+            "description": "Fraud is a major problem for credit card companies, both because of the large volume of transactions that are completed each day and because many fraudulent transactions look a lot like normal transactions. Identifying fraudulent credit card transactions is a common type of imbalanced binary classification where the focus is on the positive class (is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/How-to-Predict-the-Probability-of-Fraudulent-Credit-Card-Transactions.jpg"
+        },
+        {
+            "id": 8846,
+            "title": "Step-By-Step Framework for Imbalanced Classification Projects",
+            "url": "https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-09T00:00:00",
+            "description": "Classification predictive modeling problems involve predicting a class label for a given set of inputs. It is a challenging problem in general, especially if little is known about the dataset, as there are tens, if not hundreds, of machine learning algorithms to choose from. The problem is made significantly more difficult if the distribution of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Spot-Check-Imbalanced-Machine-Learning-Algorithms.png"
+        },
+        {
+            "id": 8847,
+            "title": "Imbalanced Classification with the Adult Income Dataset",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-with-the-adult-income-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-06T00:00:00",
+            "description": "Many binary classification tasks do not have an equal number of examples from each class, e.g. the class distribution is skewed or imbalanced. A popular example is the adult income dataset that involves predicting personal income levels as above or below $50,000 per year based on personal details such as relationship and education level. There [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Develop-an-Imbalanced-Classification-Model-to-Predict-Income.jpg"
+        },
+        {
+            "id": 8848,
+            "title": "Predictive Model for the Phoneme Imbalanced Classification Dataset",
+            "url": "https://machinelearningmastery.com/predictive-model-for-the-phoneme-imbalanced-classification-dataset/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-04T00:00:00",
+            "description": "Many binary classification tasks do not have an equal number of examples from each class, e.g. the class distribution is skewed or imbalanced. Nevertheless, accuracy is equally important in both classes. An example is the classification of vowel sounds from European languages as either nasal or oral on speech recognition where there are many more [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Histogram-Plots-of-the-Variables-for-the-Phoneme-Dataset.png"
+        },
+        {
+            "id": 8849,
+            "title": "Imbalanced Classification Model to Detect Mammography Microcalcifications",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-model-to-detect-microcalcifications/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-03-02T00:00:00",
+            "description": "Cancer detection is a popular example of an imbalanced classification problem because there are often significantly more cases of non-cancer than actual cancer. A standard imbalanced classification dataset is the mammography dataset that involves detecting breast cancer from radiological scans, specifically the presence of clusters of microcalcifications that appear bright on a mammogram. This dataset [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Develop-an-Imbalanced-Classification-Model-to-Detect-Microcalcifications.jpg"
+        },
+        {
+            "id": 8850,
+            "title": "Develop a Model for the Imbalanced Classification of Good and Bad Credit",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-of-good-and-bad-credit/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-28T00:00:00",
+            "description": "Misclassification errors on the minority class are more important than other types of prediction errors for some imbalanced classification tasks. One example is the problem of classifying bank customers as to whether they should receive a loan or not. Giving a loan to a bad customer marked as a good customer results in a greater [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Box-and-Whisker-Plot-of-Machine-Learning-Models-on-the-Imbalanced-German-Credit-Dataset.png"
+        },
+        {
+            "id": 8851,
+            "title": "How to Calibrate Probabilities for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/probability-calibration-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-26T00:00:00",
+            "description": "Many machine learning models are capable of predicting a probability or probability-like scores for class membership. Probabilities provide a required level of granularity for evaluating and comparing models, especially on imbalanced classification problems where tools like ROC Curves are used to interpret predictions and the ROC AUC metric is used to compare model performance, both [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/How-to-Calibrate-Probabilities-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8852,
+            "title": "A Gentle Introduction to the Fbeta-Measure for Machine Learning",
+            "url": "https://machinelearningmastery.com/fbeta-measure-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-24T00:00:00",
+            "description": "Fbeta-measure is a configurable single-score metric for evaluating a binary classification model based on the predictions made for the positive class. The Fbeta-measure is calculated using precision and recall. Precision is a metric that calculates the percentage of correct predictions for the positive class. Recall calculates the percentage of correct predictions for the positive class [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/A-Gentle-Introduction-to-the-Fbeta-Measure-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8853,
+            "title": "How to Develop an Imbalanced Classification Model to Detect Oil Spills",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-model-to-detect-oil-spills/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-21T00:00:00",
+            "description": "Many imbalanced classification tasks require a skillful model that predicts a crisp class label, where both classes are equally important. An example of an imbalanced classification problem where a class label is required and both classes are equally important is the detection of oil spills or slicks in satellite images. The detection of a spill [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Histogram-of-Each-Variable-in-the-Oil-Spill-Dataset.png"
+        },
+        {
+            "id": 8854,
+            "title": "How to Develop a Probabilistic Model of Breast Cancer Patient Survival",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-probabilistic-model-of-breast-cancer-patient-survival/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-19T00:00:00",
+            "description": "Developing a probabilistic model is challenging in general, although it is made more so when there is skew in the distribution of cases, referred to as an imbalanced dataset. The Haberman Dataset describes the five year or greater survival of breast cancer patient patients in the 1950s and 1960s and mostly contains patients that survive. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Box-and-Whisker-Plot-of-Probabilistic-Models-on-the-Haberman-Breast-Cancer-Survival-Dataset.png"
+        },
+        {
+            "id": 8855,
+            "title": "Why Is Imbalanced Classification Difficult?",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-is-hard/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-17T00:00:00",
+            "description": "Imbalanced classification is primarily challenging as a predictive modeling task because of the severely skewed class distribution. This is the cause for poor performance with traditional machine learning models and evaluation metrics that assume a balanced class distribution. Nevertheless, there are additional properties of a classification dataset that are not only challenging for predictive modeling [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plots-of-an-Imbalanced-Classification-Dataset-with-Different-Numbers-of-Clusters.png"
+        },
+        {
+            "id": 8856,
+            "title": "One-Class Classification Algorithms for Imbalanced Datasets",
+            "url": "https://machinelearningmastery.com/one-class-classification-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-14T00:00:00",
+            "description": "Outliers or anomalies are rare examples that do not fit in with the rest of the data. Identifying outliers in data is referred to as outlier or anomaly detection and a subfield of machine learning focused on this problem is referred to as one-class classification. These are unsupervised learning algorithms that attempt to model \u201cnormal\u201d [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-a-Binary-Classification-Problem-with-a-1-to-1000-Class-Imbalance.png"
+        },
+        {
+            "id": 8857,
+            "title": "Bagging and Random Forest for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-12T00:00:00",
+            "description": "Bagging is an ensemble algorithm that fits multiple models on different subsets of a training dataset, then combines the predictions from all models. Random forest is an extension of bagging that also randomly selects subsets of features used in each data sample. Both bagging and random forests have proven effective on a wide range of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Bagging-and-Random-Forest-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8858,
+            "title": "A Gentle Introduction to Threshold-Moving for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-10T00:00:00",
+            "description": "Classification predictive modeling typically involves predicting a class label. Nevertheless, many machine learning algorithms are capable of predicting a probability or scoring of class membership, and this must be interpreted before it can be mapped to a crisp class label. This is achieved by using a threshold, such as 0.5, where all values equal or [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/A-Gentle-Introduction-to-Threshold-Moving-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8859,
+            "title": "Cost-Sensitive Learning for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cost-sensitive-learning-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-07T00:00:00",
+            "description": "Most machine learning algorithms assume that all misclassification errors made by a model are equal. This is often not the case for imbalanced classification problems where missing a positive or minority class case is worse than incorrectly classifying an example from the negative or majority class. There are many real-world examples, such as detecting spam [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Cost-Sensitive-Learning-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8860,
+            "title": "How to Configure XGBoost for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/xgboost-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-05T00:00:00",
+            "description": "The XGBoost algorithm is effective for a wide range of regression and classification predictive modeling problems. It is an efficient implementation of the stochastic gradient boosting algorithm and offers a range of hyperparameters that give fine-grained control over the model training procedure. Although the algorithm performs well in general, even on imbalanced classification datasets, it [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-Binary-Classification-Dataset-With-1-to-100-Class-Imbalance.png"
+        },
+        {
+            "id": 8861,
+            "title": "How to Develop a Cost-Sensitive Neural Network for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-02-02T00:00:00",
+            "description": "Deep learning neural networks are a flexible class of machine learning algorithms that perform well on a wide range of problems. Neural networks are trained using the backpropagation of error algorithm that involves calculating errors made by the model on the training dataset and updating the model weights in proportion to those errors. The limitation [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-Binary-Classification-Dataset-with-1-to-100-Class-Imbalance-3.png"
+        },
+        {
+            "id": 8862,
+            "title": "Cost-Sensitive SVM for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cost-sensitive-svm-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-31T00:00:00",
+            "description": "The Support Vector Machine algorithm is effective for balanced classification, although it does not perform well on imbalanced datasets. The SVM algorithm finds a hyperplane decision boundary that best splits the examples into two classes. The split is made soft through the use of a margin that allows some points to be misclassified. By default, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-Binary-Classification-Dataset-with-1-to-100-Class-Imbalance-2.png"
+        },
+        {
+            "id": 8863,
+            "title": "Cost-Sensitive Decision Trees for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cost-sensitive-decision-trees-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-29T00:00:00",
+            "description": "The decision tree algorithm is effective for balanced classification, although it does not perform well on imbalanced datasets. The split points of the tree are chosen to best separate examples into two groups with minimum mixing. When both groups are dominated by examples from one class, the criterion used to select a split point will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-Binary-Classification-Dataset-with-1-to-100-Class-Imbalance-1.png"
+        },
+        {
+            "id": 8864,
+            "title": "Cost-Sensitive Logistic Regression for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cost-sensitive-logistic-regression/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-27T00:00:00",
+            "description": "Logistic regression does not support imbalanced classification directly. Instead, the training algorithm used to fit the logistic regression model must be modified to take the skewed distribution into account. This can be achieved by specifying a class weighting configuration that is used to influence the amount that logistic regression coefficients are updated during training. The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Scatter-Plot-of-Binary-Classification-Dataset-with-1-to-100-Class-Imbalance.png"
+        },
+        {
+            "id": 8865,
+            "title": "Tour of Data Sampling Methods for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/data-sampling-methods-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-24T00:00:00",
+            "description": "Machine learning techniques often fail or give misleadingly optimistic performance on classification datasets with an imbalanced class distribution. The reason is that many machine learning algorithms are designed to operate on classification data with an equal number of observations for each class. When this is not the case, algorithms can learn that very few examples [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Tour-of-Data-Resampling-Methods-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8866,
+            "title": "How to Combine Oversampling and Undersampling for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-22T00:00:00",
+            "description": "Resampling methods are designed to add or remove examples from the training dataset in order to change the class distribution. Once the class distributions are more balanced, the suite of standard machine learning classification algorithms can be fit successfully on the transformed datasets. Oversampling methods duplicate or create new synthetic examples in the minority class, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Combine-Oversampling-and-Undersampling-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8867,
+            "title": "Undersampling Algorithms for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-20T00:00:00",
+            "description": "Resampling methods are designed to change the composition of a training dataset for an imbalanced classification task. Most of the attention of resampling methods for imbalanced classification is put on oversampling the minority class. Nevertheless, a suite of techniques has been developed for undersampling the majority class that can be used in conjunction with effective [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Scatter-Plot-of-Imbalanced-Dataset-Undersampled-with-the-Condensed-Nearest-Neighbor-Rule.png"
+        },
+        {
+            "id": 8868,
+            "title": "SMOTE for Imbalanced Classification with Python",
+            "url": "https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-17T00:00:00",
+            "description": "Imbalanced classification involves developing predictive models on classification datasets that have a severe class imbalance. The challenge of working with imbalanced datasets is that most machine learning techniques will ignore, and in turn have poor performance on, the minority class, although typically it is performance on the minority class that is most important. One approach [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Scatter-Plot-of-Imbalanced-Dataset-Transformed-by-SMOTE-and-Random-Undersampling.png"
+        },
+        {
+            "id": 8869,
+            "title": "Imbalanced Classification With Python (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/imbalanced-classification-with-python-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-16T00:00:00",
+            "description": "Imbalanced Classification Crash Course. Get on top of imbalanced classification in 7 days. Classification predictive modeling is the task of assigning a label to an example. Imbalanced classification are those classification tasks where the distribution of examples across the classes is not equal. Practical imbalanced classification requires the use of a suite of specialized techniques, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Imbalanced-Classification-With-Python-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 8870,
+            "title": "Random Oversampling and Undersampling for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-15T00:00:00",
+            "description": "Imbalanced datasets are those where there is a severe skew in the class distribution, such as 1:100 or 1:1000 examples in the minority class to the majority class. This bias in the training dataset can influence many machine learning algorithms, leading some to ignore the minority class entirely. This is a problem as it is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Random-Oversampling-and-Undersampling-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8871,
+            "title": "What Is the Naive Classifier for Each Imbalanced Classification Metric?",
+            "url": "https://machinelearningmastery.com/naive-classifiers-imbalanced-classification-metrics/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-14T00:00:00",
+            "description": "A common mistake made by beginners is to apply machine learning algorithms to a problem without establishing a performance baseline. A performance baseline provides a minimum score above which a model is considered to have skill on the dataset. It also provides a point of relative improvement for all models evaluated on the dataset. A [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/What-Is-the-Naive-Classifier-for-Each-Imbalanced-Classification-Metric.jpg"
+        }
+    ]
+}

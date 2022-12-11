@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4224,
+            "title": "Train Your First GAN Model | Let\u2019s Talk About GANs Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/%e2%80%8atrain-your-first-gan-model-lets-talk-about-gans-part-2%e2%80%8a/",
+            "authors": "Gourav Singh",
+            "tags": "Deep Learning, Intermediate, PyTorch, Unsupervised",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "Here, we will explore how the generator and discriminator models work. We will also see the python implementation of Gan model Using pytorch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/20418gan2.jpeg"
+        },
+        {
+            "id": 4225,
+            "title": "Analytics Vidhya Presents JOB-A-THON \u2013 Your Dream Data Science Job at your Fingertips!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/analytics-vidhya-presents-job-a-thon-your-dream-data-science-job-at-your-fingertips/",
+            "authors": "Ram Dewani",
+            "tags": "Analytics Vidhya, Interview Questions, Job Roles",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "\"JOB-A-THON\" is India's largest Data Science Hackathon, where every data science enthusiasts can showcase their skills and get a job",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/jobathon-1.png"
+        },
+        {
+            "id": 4226,
+            "title": "How Data Science and Business Intelligence Can improve Strategic Planning in organizations?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-data-science-and-bi-can-improve-strategic-planning-in-organizations/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Business Intelligence, Data Science, Retail",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Data Science and BI methods help in finding out useful and productive pattern. let's see how they improve strategic planning in organizations",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Analytics-and-Business-Intelligence-in-2020.jpg"
+        },
+        {
+            "id": 4227,
+            "title": "Neural network and hyperparameter optimization using Talos",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/neural-network-and-hyperparameter-optimization-using-talos/",
+            "authors": "Siddharth Ranjan",
+            "tags": "Advanced, Classification, Deep Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this blog we are going to learn about Prediction using neural network and hyperparameter optimization using Talos for data scientists",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 4228,
+            "title": "5 Classification Algorithms you should know \u2013 introductory guide!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/5-classification-algorithms-you-should-know-introductory-guide/",
+            "authors": "Gaurav Sharma",
+            "tags": "Algorithm, Beginner, Classification, Listicle, Python",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Classification algorithms are used to categorize data into a class or category. Let's explore some types of classification algorithms",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/99558clf.jpg"
+        },
+        {
+            "id": 4229,
+            "title": "How to create a Stroke Prediction Model?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-create-a-stroke-prediction-model/",
+            "authors": "Parth Dave",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "This article was published as a part of the\u00a0Data Science Blogathon INTRODUCTION: Stroke is a medical condition that can lead to the death of a person. It\u2019s a severe condition and if treated on time we can save one\u2019s life and treat them well. There can be n number of factors that can lead to [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/99541stroke.jpg"
+        },
+        {
+            "id": 4230,
+            "title": "Top 7 Must Have Books for Deep Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/top-7-must-have-books-for-deep-learning/",
+            "authors": "Gargeya Sharma",
+            "tags": "Deep Learning, Intermediate, Listicle, Resource",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Here, I present Industry's Top seven ever published and must have books for Deep learning that even Google and Facebook recommends them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/books-bookstore-book-reading-159711.jpeg"
+        },
+        {
+            "id": 4231,
+            "title": "Image Classification with TensorFlow : Developing the Data Pipeline (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/image-classification-with-tensorflow-developing-the-data-pipeline-part-1/",
+            "authors": "Gargeya Sharma",
+            "tags": "Beginner, Classification, Computer Vision, Python, Unstructured Data",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article we will be discussing Binary Image Classification with Tensorflow with a twist.we will be using TensorFlow Datasets",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/45459Travel-and-Guide-Facebook-Cover.png"
+        },
+        {
+            "id": 4232,
+            "title": "BERT for Natural Language Inference simplified in Pytorch!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/bert-for-natural-language-inference-simplified-in-pytorch/",
+            "authors": "Raman Kumar",
+            "tags": "Advanced, Artificial Intelligence, Deep Learning, NLP, PyTorch",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article, we will use Bidirectional Encoder Representations from Transformers for Natural Language Inference task with pytorch .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/nlp_speech.jpg"
+        },
+        {
+            "id": 4233,
+            "title": "How to Interact with Operating System using Python and Jupyter Notebook",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-interact-with-operating-system-using-python-and-jupyter-notebook/",
+            "authors": "Nilabh Nishchhal",
+            "tags": "Beginner, Programming, Project, Python, Technique",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article, we are going to understand in depth how to Interact with Operating System using Python and Jupyter Notebook",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92279national-cancer-institute-701-FJcjLAQ-unsplash-scaled.jpg"
+        },
+        {
+            "id": 4234,
+            "title": "Functions 101 \u2013 Introduction to Functions in Python For Absolute Begineers",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/functions-101-introduction-to-functions-in-python-for-absolute-begineers/",
+            "authors": "Shrish Mohadarkar",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "This article is an introduction to functions in python. In this, we will be discussing functions in python for data scientists.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/Window-functions-%E2%80%93-A-must-know-for-Data-Engineers-and-Data-ScientistsTop-5-GAN-Libraries-you-must-know.png"
+        },
+        {
+            "id": 4235,
+            "title": "Introduction to Transfer Learning using MNIST",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/transfer-learning-using-mnist/",
+            "authors": "Barney Darlington",
+            "tags": "Advanced, Deep Learning, Machine Learning, Project, Python, PyTorch, Structured Data",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "This article is an introduction to transfer learning in which We shall work with the popular MNIST dataset and perform Transfer Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66364t1.jpg"
+        },
+        {
+            "id": 4236,
+            "title": "20 Questions to Test your Skills on DBSCAN Clustering Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-dbscan-clustering-algorithm/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Clustering, Interviews, Unsupervised",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "DBSCAN Clustering Algorithm questions to test your skills. These questions are helpful to get you a clear understanding of the algorithm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/DBSCAN-Clustering-Algorithm.jpg"
+        },
+        {
+            "id": 4237,
+            "title": "Reproducible ML Reports Using YAML Configs (with codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/reproducible-ml-reports-using-yaml-configs-with-codes/",
+            "authors": "Amit Kulkarni",
+            "tags": "Classification, Intermediate, Machine Learning, Project, Python",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article, we will explore the process of building and managing reproducible machine learning reports using config files and HTML .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/61018Configurations-scaled.jpg"
+        },
+        {
+            "id": 4238,
+            "title": "What, why and how of Spectral Clustering!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/what-why-and-how-of-spectral-clustering/",
+            "authors": "Keerthana V",
+            "tags": "Classification, Clustering, Intermediate, Machine Learning, Project, Python, Structured Data, Unsupervised",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Spectral clustering helps us overcome two major problems in clustering. Let's understand what is and how it functions in this article",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/hierarchical_clustering.jpg"
+        },
+        {
+            "id": 4239,
+            "title": "An Intuitive Introduction to Bayesian Decision Theory",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/an-intuitive-introduction-to-bayesian-decision-theory/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Maths, Probability, Statistics",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Bayesian decision theory refers to the statistical approach based on tradeoff quantification among various classification decisions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/51654bayes-1.gif"
+        },
+        {
+            "id": 4240,
+            "title": "Generate Questions from Movies!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/generate-questions-from-movies/",
+            "authors": "Kuldeep Pal",
+            "tags": "Deep Learning, Intermediate, NLP, Unstructured Data",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "We will learn what is SRt and generate questions from SRT files of movies. For this NLP project we will use punkt and Transformer",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/81336photo-1485846234645-a62644f84728.jpg"
+        },
+        {
+            "id": 4241,
+            "title": "\u201cI GOT YOUR BACK\u201d \u2013 Cross validation to Models.",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/i-got-your-back-cross-validation-to-models/",
+            "authors": "Pratik Raut",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Cross validation is a statistical method. In this article learn what is cross validation, types of cross validation techniques and importance",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/37626Cover03.jpg"
+        },
+        {
+            "id": 4242,
+            "title": "Car Price Prediction System : Build and Deploy a Machine Learning Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/build-and-deploy-a-car-price-prediction-system/",
+            "authors": "Surabhi S",
+            "tags": "Beginner, Data Science, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article we are going to develop a car price prediction system, a ML model. We will develop a flask app and deploy it on Heroku",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/15535Evaluation-metric-feature-image.png"
+        },
+        {
+            "id": 4243,
+            "title": "20 Questions to Test your Skills on KNN Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-k-nearest-neighbour/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Machine Learning, Supervised",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article, we will discuss the most important questions on the K Nearest Neighbor algorithm to help you sail the interviews",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 4244,
+            "title": "Learn Simple Linear Regression (SLR)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/learn-simple-linear-regression-slr/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Project, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-05-23T00:00:00",
+            "description": "In this blog, we learn the basics of Simple Linear Regression (SLR), building a linear model with python libraries, and drawing inferences",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/38489rsz_linear-regression-in-python_watermarked479f82188ace.jpg"
+        },
+        {
+            "id": 4245,
+            "title": "Logistic Regression- Supervised Learning Algorithm for Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/logistic-regression-supervised-learning-algorithm-for-classification/",
+            "authors": "Sarvagya Agrawal",
+            "tags": "Beginner, Machine Learning, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-05-23T00:00:00",
+            "description": "We have discussed everything you should know about the theory of Logistic Regression Algorithm as a beginner in Data Science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 4246,
+            "title": "Understand The Moment Generating Functions!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/understand-the-moment-generating-functions/",
+            "authors": "Naman Agrawal",
+            "tags": "Advanced, Data Science, Probability, Research & Technology",
+            "publishedOn": "2021-05-23T00:00:00",
+            "description": "Moment generating functions are an alternative representation of the distribution of a random variable Like PDFs and CDFs. Learn what is MGF",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/37626Cover03.jpg"
+        },
+        {
+            "id": 4247,
+            "title": "Regression Analysis : Real-time Portugal 2019 Election Results",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/regression-analysis-real-time-portugal-2019-election-results/",
+            "authors": "Priyal Agarwal",
+            "tags": "Beginner, Data Science, Linear Regression, Python, Regression",
+            "publishedOn": "2021-05-23T00:00:00",
+            "description": "In this article we will discuss how to perform the regression Analysis, a supervised learning method using Portugal 2019 election results.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/38266regression-analysis.jpg"
+        },
+        {
+            "id": 4248,
+            "title": "How to transform features into Normal/Gaussian Distribution",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-transform-features-into-normal-gaussian-distribution/",
+            "authors": "Deepanshi",
+            "tags": "Intermediate, Machine Learning, Maths, Python, Statistics",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "A normal (or Gaussian) distribution is a type of continuous probability distribution. Learn about transformation of normal distribution",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.png"
+        },
+        {
+            "id": 4249,
+            "title": "Pneumonia Prediction: A guide for your first CNN project",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/pneumonia-prediction-a-guide-for-your-first-cnn-project/",
+            "authors": "Pritam Chakrabarti",
+            "tags": "Classification, Deep Learning, Intermediate, Python, Supervised",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "In this article, we shall take a practical approach to learn and train a simple model of CNN. We will use a dataset for Pneumonia prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/healthcare.jpg"
+        },
+        {
+            "id": 4250,
+            "title": "Coding Test : A quirky way of using Python Lists!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/coding-test-a-quirky-way-of-using-python-lists/",
+            "authors": "Kruthika Kulkarni",
+            "tags": "Beginner, Interviews, Python, Resource",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "What is a Coding test ? Coding test comprises of algorithmic questions which test your skills in data structures and code optimization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/python-coding.jpg"
+        },
+        {
+            "id": 4251,
+            "title": "20+ Questions to Test your Skills on K-Means Clustering Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-k-means-clustering-algorithm/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Interviews, Machine Learning",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "The most important questions on K means Clustering Algorithm which is helpful to get you a clear understanding of the algorithm for Interview",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Get-Certified-with-Free-Courses-in-Data-Science-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 4252,
+            "title": "5 Must Have JupyterLab extension for data science!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/5-must-have-jupyterlab-extension-for-data-science/",
+            "authors": "Mohammad Ahmad",
+            "tags": "Beginner, Listicle, Resource",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "Jupyterlab Extension are simple add-ons written in javascript that can increase number of features to extend Jupiter notebook's usability.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92928fleur-dQf7RZhMOJU-unsplash-scaled.jpg"
+        },
+        {
+            "id": 4253,
+            "title": "How to Fetch Data using API and SQL databases!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-fetch-data-using-api-and-sql-databases/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Big data, Data Mining, Database, Python, SQL",
+            "publishedOn": "2021-05-22T00:00:00",
+            "description": "We are going to learn fetching data from an API and how you can use SQL databases to extract data and save it in the form of a data frame",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92516data-extracting-feature-img.png"
+        }
+    ]
+}

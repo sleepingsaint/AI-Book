@@ -1,0 +1,165 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 6968,
+            "title": "DeepMind Papers @ NIPS (Part 2)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-nips-part-2",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2016-12-05T00:00:00",
+            "description": "The second blog post in this series, sharing brief descriptions of the papers we are presenting at NIPS 2016 Conference in Barcelona.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6969,
+            "title": "Open-sourcing DeepMind Lab",
+            "url": "https://www.deepmind.com/blog/open-sourcing-deepmind-lab",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2016-12-03T00:00:00",
+            "description": "DeepMind's scientific mission is to push the boundaries of AI, developing systems that can learn to solve any complex problem without needing to be taught how.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6970,
+            "title": "DeepMind Papers @ NIPS (Part 1)",
+            "url": "https://www.deepmind.com/blog/deepmind-papers-nips-part-1",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2016-12-02T00:00:00",
+            "description": "Over the next three blogposts, we're going to share with you brief descriptions of the papers we are presenting at the NIPS 2016 Conference in Barcelona.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6971,
+            "title": "Working with the NHS to build lifesaving technology",
+            "url": "https://www.deepmind.com/blog/working-with-the-nhs-to-build-lifesaving-technology",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-11-22T00:00:00",
+            "description": "We\u2019re very proud to announce a groundbreaking five year partnership with the Royal Free London NHS Foundation Trust.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6972,
+            "title": "Reinforcement learning with unsupervised auxiliary tasks",
+            "url": "https://www.deepmind.com/blog/reinforcement-learning-with-unsupervised-auxiliary-tasks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2016-11-17T00:00:00",
+            "description": "Our primary mission at DeepMind is to push the boundaries of AI, developing programs that can learn to solve any complex problem without needing to be taught how. Our reinforcement learning agents have achieved breakthroughs in Atari 2600 games and the game of Go. Such systems, however, can require a lot of data and a long time to learn so we are always looking for ways to improve our generic learning algorithms.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6973,
+            "title": "DeepMind and Blizzard to release StarCraft II as an AI research environment",
+            "url": "https://www.deepmind.com/blog/deepmind-and-blizzard-to-release-starcraft-ii-as-an-ai-research-environment",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2016-11-04T00:00:00",
+            "description": "Today at BlizzCon 2016 in Anaheim, California, we announced our collaboration with Blizzard Entertainment to open up StarCraft II to AI and Machine Learning researchers around the world.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6974,
+            "title": "Differentiable neural computers",
+            "url": "https://www.deepmind.com/blog/differentiable-neural-computers",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-10-12T00:00:00",
+            "description": "In a recent study in Nature, we introduce a form of memory-augmented neural network called a differentiable neural computer, and show that it can learn to use its memory to answer questions about complex, structured data, including artificially generated stories, family trees, and even a map of the London Underground. We also show that it can solve a block puzzle game using reinforcement learning.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233ac917773c2604d467fcd_dnc.jpg"
+        },
+        {
+            "id": 6975,
+            "title": "Announcing the Partnership on AI to Benefit People & Society",
+            "url": "https://www.deepmind.com/blog/announcing-the-partnership-on-ai-to-benefit-people-society",
+            "authors": null,
+            "tags": "Ethics and Society",
+            "publishedOn": "2016-09-28T00:00:00",
+            "description": "We believe that AI has the potential for transformative, positive impact in the world. Fulfilling this potential is not only dependent on the quality of the algorithms being engineered and the data they use, but on the level of public engagement, transparency, and ethical discussion that takes place around them.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6976,
+            "title": "Putting patients at the heart of DeepMind Health",
+            "url": "https://www.deepmind.com/blog/putting-patients-at-the-heart-of-deepmind-health",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-09-21T00:00:00",
+            "description": "From the outset, we\u2019ve wanted DeepMind Health to be a truly collaborative effort. Too much hospital IT has been developed from a top-down perspective, often repurposing technology built for completely different sectors thousands of miles away from the NHS frontline. The result: tools that remain out-of-date and imperfectly suited to clinical use, contributing to a patient safety challenge where more than 1 in 10 patients suffer harm\u00b9 during an in-patient stay.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6977,
+            "title": "WaveNet: A generative model for raw audio",
+            "url": "https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2016-09-08T00:00:00",
+            "description": "This post presents WaveNet, a deep generative model of raw audio waveforms. We show that WaveNets are able to generate speech which mimics any human voice and which sounds more natural than the best existing Text-to-Speech systems, reducing the gap with human performance by over 50%.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6978,
+            "title": "Applying machine learning to radiotherapy planning for head & neck cancer",
+            "url": "https://www.deepmind.com/blog/applying-machine-learning-to-radiotherapy-planning-for-head-neck-cancer",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-08-30T00:00:00",
+            "description": "We\u2019re excited to announce a new research partnership with the Radiotherapy Department at University College London Hospitals NHS Foundation Trust, which provides world-leading cancer treatment.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6979,
+            "title": "Decoupled Neural Interfaces Using Synthetic Gradients",
+            "url": "https://www.deepmind.com/blog/decoupled-neural-interfaces-using-synthetic-gradients",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2016-08-29T00:00:00",
+            "description": "Neural networks are the workhorse of many of the algorithms developed at DeepMind. For example, AlphaGo uses convolutional neural networks to evaluate board positions in the game of Go and DQN and Deep Reinforcement Learning algorithms use neural networks to choose actions to play at super-human level on video games.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6980,
+            "title": "DeepMind AI Reduces Google Data Centre Cooling Bill by 40%",
+            "url": "https://www.deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2016-07-20T00:00:00",
+            "description": "Reducing energy usage has been a major focus for us over the past 10 years: we have built our own super-efficient servers at Google, invented more efficient ways to cool our data centres and invested heavily in green energy sources, with the goal of being powered 100 percent by renewable energy.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62226d221fa459df59ab1f31_Data%20Centers%2001.jpg"
+        },
+        {
+            "id": 6981,
+            "title": "Deep Reinforcement Learning",
+            "url": "https://www.deepmind.com/blog/deep-reinforcement-learning",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-06-17T00:00:00",
+            "description": "Humans excel at solving a wide variety of challenging problems, from low-level motor control through to high-level cognitive tasks. Our goal at DeepMind is to create artificial agents that can achieve a similar level of performance and generality. Like a human, our agents learn for themselves to achieve successful strategies that lead to the greatest long-term rewards. This paradigm of learning by trial-and-error, solely from rewards or punishments, is known as reinforcement learning (RL). Also like a human, our agents construct and learn their own knowledge directly from raw inputs, such as vision, without any hand-engineered features or domain heuristics. This is achieved by deep learning of neural networks. At DeepMind we have pioneered the combination of these approaches - deep reinforcement learning - to create the first artificial agents to achieve human-level performance across many challenging domains.Our agents must continually make value judgements so as to select good actions over bad. This knowledge is represented by a Q-network that estimates the total reward that an agent can expect to receive after taking a particular action. Two years ago we introduced\u00a0the first widely successful algorithm for deep reinforcement learning. The key idea was to use deep neural networks to represent the Q-network, and to train this Q-network to predict total reward.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233ac5259d78167e966ac2a_dqn.jpg"
+        },
+        {
+            "id": 6982,
+            "title": "Announcing DeepMind Health research partnership with Moorfields Eye Hospital",
+            "url": "https://www.deepmind.com/blog/announcing-deepmind-health-research-partnership-with-moorfields-eye-hospital",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-05-07T00:00:00",
+            "description": "We founded DeepMind to make the world a better place by developing technologies that help address some of society's toughest challenges. So we\u2019re excited to announce our first medical research project with an NHS Trust.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6983,
+            "title": "We are very excited to announce the launch of DeepMind Health",
+            "url": "https://www.deepmind.com/blog/we-are-very-excited-to-announce-the-launch-of-deepmind-health",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2016-02-24T00:00:00",
+            "description": "We founded DeepMind to solve intelligence and use it to make the world a better place by developing technologies that help address some of society's toughest challenges. It was clear to us that we should focus on healthcare because it\u2019s an area where we believe we can make a real difference to people\u2019s lives across the world.We're starting in the UK, where the National Health Service is hugely important to our team. The NHS helped bring many of us into the world, and has looked after our loved ones when they've most needed help. We want to see the NHS thrive, and to ensure that its talented clinicians get the tools and support they need to continue providing world-class care.Frontline nurses, doctors and other healthcare professionals who spend their days treating patients know better than anyone what's needed to provide outstanding care. We at DeepMind Health aim to support clinicians by providing the technical expertise needed to build and scale technologies that help them provide the best possible care to their patients.The FutureWhile projects like Hark and AKI detection are in their early stages, the problems they solve are fundamental to the NHS. The hope is that these tools can help shift more resources away from reaction and towards better prevention.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

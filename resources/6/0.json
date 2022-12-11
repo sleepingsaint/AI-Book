@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15054,
+            "title": "AI for the board game Diplomacy",
+            "url": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-12-06T00:00:00",
+            "description": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication \u2013 and we can learn a lot from playing them. In our recent paper, published today in Nature Communications, we show how artificial agents can use communication to better cooperate in the board game Diplomacy, a vibrant domain in artificial intelligence (AI) research, known for its focus on alliance building.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 15017,
+            "title": "Mastering Stratego, the classic game of imperfect information",
+            "url": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that\u2019s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png"
+        },
+        {
+            "id": 14933,
+            "title": "DeepMind\u2019s latest research at NeurIPS 2022",
+            "url": "https://www.deepmind.com/blog/deepminds-latest-research-at-neurips-2022",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "NeurIPS is the world\u2019s largest conference in artificial intelligence (AI) and machine learning (ML), and we\u2019re proud to support the event as Diamond sponsors, helping foster the exchange of research advances in the AI and ML community. Teams from across DeepMind are presenting 47 papers, including 35 external collaborations in virtual panels and poster sessions.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/637f948db4166d0b667638c4_neurips_22.webp"
+        },
+        {
+            "id": 14911,
+            "title": "Building interactive agents in video game worlds",
+            "url": "https://www.deepmind.com/blog/building-interactive-agents-in-video-game-worlds",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-11-23T00:00:00",
+            "description": "Most artificial intelligence (AI) researchers now believe that writing computer code which can capture the nuances of situated interactions is impossible. Alternatively, modern machine learning (ML) researchers have focused on learning about these types of interactions from data. To explore these learning-based approaches and quickly build agents that can make sense of human instructions and safely perform actions in open-ended conditions, we created a research framework within a video game environment.Today, we\u2019re publishing a paper [INSERT LINK] and collection of videos, showing our early steps in building video game AIs that can understand fuzzy human concepts \u2013 and therefore, can begin to interact with people on their own terms.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/637b9be64f76a74cf0c27bf3_Copy%20of%20interactive_agents_hd.png"
+        },
+        {
+            "id": 14926,
+            "title": "Benchmarking the next generation of never-ending learners",
+            "url": "https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-11-22T00:00:00",
+            "description": "Our new paper, NEVIS\u201922: A Stream of 100 Tasks Sampled From 30 Years of Computer Vision Research, proposes a playground to study the question of efficient knowledge transfer in a controlled and reproducible setting. The Never-Ending Visual classification Stream (NEVIS\u201922) is a benchmark stream in addition to an evaluation protocol, a set of initial baselines, and an open-source codebase. This package provides an opportunity for researchers to explore how models can continually build on their knowledge to learn future tasks more efficiently.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6763,
+            "title": "Best practices for data enrichment",
+            "url": "https://www.deepmind.com/blog/best-practices-for-data-enrichment",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "At DeepMind, our goal is to make sure everything we do meets the highest standards of safety and ethics, in line with our Operating Principles. One of the most important places this starts with is how we collect our data. In the past 12 months, we\u2019ve collaborated with Partnership on AI (PAI) to carefully consider these challenges, and have co-developed standardised best practices and processes for responsible human data collection.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6373d3c948249590e44147bc_16_9.png"
+        },
+        {
+            "id": 6764,
+            "title": "The pursuit of AI education - past, present, and future",
+            "url": "https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Meet Sylvia Christie, our education partnerships manager who\u2019s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63654992b570aa12466d7deb_sylvia.webp"
+        },
+        {
+            "id": 6765,
+            "title": "Digital transformation with Google Cloud",
+            "url": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "We\u2019ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use of AlphaFold.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg"
+        },
+        {
+            "id": 6766,
+            "title": "Measuring perception in AI models",
+            "url": "https://www.deepmind.com/blog/measuring-perception-in-ai-models",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-10-12T00:00:00",
+            "description": "Perception \u2013 the process of experiencing the world through senses \u2013 is a significant part of intelligence. And building agents with human-level perceptual understanding of the world is a central but challenging task, which is becoming increasingly important in robotics, self-driving cars, personal assistants, medical imaging, and more. So today, we\u2019re introducing the Perception Test, a multimodal benchmark using real-world videos to help evaluate the perception capabilities of a model.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6345857c2bc3836a79fb84e9_Header%20(1).png"
+        },
+        {
+            "id": 6767,
+            "title": "How undesired goals can arise with correct rewards",
+            "url": "https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-10-07T00:00:00",
+            "description": "As we build increasingly advanced artificial intelligence (AI) systems, we want to make sure they don\u2019t pursue undesired goals. Such behaviour in an AI agent is often the result of specification gaming \u2013 exploiting a poor choice of what they are rewarded for. In our latest paper, we explore a more subtle mechanism by which AI systems may unintentionally learn to pursue undesired goals: goal misgeneralisation (GMG).\u00a0GMG occurs when a system's capabilities generalise successfully but its goal does not generalise as desired, so the system competently pursues the wrong goal. Crucially, in contrast to specification gaming, GMG can occur even when the AI system is trained with a correct specification.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6768,
+            "title": "Discovering novel algorithms with AlphaTensor",
+            "url": "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-10-05T00:00:00",
+            "description": "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about finding the fastest way to multiply two matrices. This paper is a stepping stone in DeepMind\u2019s mission to advance science and unlock the most fundamental problems using AI. Our system, AlphaTensor, builds upon AlphaZero, an agent that has shown superhuman performance on board games, like chess, Go and shogi, and this work shows the journey of AlphaZero from playing games to tackling unsolved mathematical problems for the first time.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/633c2e27fd141483d83afcb0_MM_Blogheader.png"
+        },
+        {
+            "id": 6769,
+            "title": "Supporting the next generation of AI leaders",
+            "url": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
+            "authors": null,
+            "tags": "Ethics and Society",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "We\u2019re partnering with six education charities and social enterprises in the United Kingdom (UK) to co-create a bespoke education programme to help tackle the gaps in STEM education and boost existing programmes.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632b36a158023307b04d9228_Header%20(1).jpg"
+        },
+        {
+            "id": 6770,
+            "title": "Building safer dialogue agents",
+            "url": "https://www.deepmind.com/blog/building-safer-dialogue-agents",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-09-22T00:00:00",
+            "description": "In our latest paper, we introduce Sparrow \u2013 a dialogue agent that\u2019s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user, answer questions, and search the internet using Google when it\u2019s helpful to look up evidence to inform its responses.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632af3778318376fb573e4df_Sparrow_Header.jpg"
+        },
+        {
+            "id": 6771,
+            "title": "How our principles helped define AlphaFold\u2019s release",
+            "url": "https://www.deepmind.com/blog/how-our-principles-helped-define-alphafolds-release",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2022-09-14T00:00:00",
+            "description": "Our Operating Principles have come to define both our commitment to prioritising widespread benefit, as well as the areas of research and applications we refuse to pursue. These principles have been at the heart of our decision making since DeepMind was founded, and continue to be refined as the AI landscape changes and grows. They are designed for our role as a research-driven science company and consistent with Google\u2019s AI principles.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6321e9d11868c89a5a71b8c4_OP_Header.png"
+        },
+        {
+            "id": 6772,
+            "title": "Maximising the impact of our breakthroughs",
+            "url": "https://www.deepmind.com/blog/maximising-the-impact-of-our-breakthroughs",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2022-09-09T00:00:00",
+            "description": "Colin, CBO at DeepMind, discusses collaborations with Alphabet and how we integrate ethics, accountability, and safety into everything we do.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/631f2c6af75c0648d3aef20a_Colin_Murdoch.jpg"
+        },
+        {
+            "id": 6773,
+            "title": "My journey from DeepMind intern to mentor",
+            "url": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-09-08T00:00:00",
+            "description": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6774,
+            "title": "In conversation with AI: building better language models",
+            "url": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-09-06T00:00:00",
+            "description": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6775,
+            "title": "From motor control to embodied intelligence",
+            "url": "https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-08-31T00:00:00",
+            "description": null,
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6776,
+            "title": "Advancing conservation with AI-based facial recognition of turtles",
+            "url": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-08-25T00:00:00",
+            "description": "We came across Zindi \u2013 a dedicated partner with complementary goals \u2013 who are the largest community of African data scientists and host competitions that focus on solving Africa\u2019s most pressing problems. Our Science team\u2019s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific challenge that could help advance conservation efforts and grow involvement in AI. Inspired by Zindi\u2019s bounding box turtle challenge, we landed on a project with the potential for real impact: turtle facial recognition.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6306106e19cc74840f40121a_Turtle%20Recall.webp"
+        },
+        {
+            "id": 6777,
+            "title": "Discovering when an agent is present in a system",
+            "url": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-08-18T00:00:00",
+            "description": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that shape agent behaviour, CIDs help illuminate potential risks before training an agent and can inspire better agent designs. But how do we know when a CID is an accurate model of a training setup?",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6778,
+            "title": "Realising scientists are the real superheroes",
+            "url": "https://www.deepmind.com/blog/realising-scientists-are-the-real-superheroes",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-08-11T00:00:00",
+            "description": "Meet Edgar Du\u00e9\u00f1ez-Guzm\u00e1n, a research engineer on our Multi-Agent Research team who\u2019s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6779,
+            "title": "AlphaFold reveals the structure of the protein universe",
+            "url": "https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-07-28T00:00:00",
+            "description": "Today, in partnership with EMBL\u2019s European Bioinformatics Institute (EMBL-EBI), we\u2019re now releasing predicted structures for nearly all catalogued proteins known to science, which will expand the AlphaFold DB by over 200x - from nearly 1 million structures to over 200 million structures - with the potential to dramatically increase our understanding of biology.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62e1122b086bb045a5120c87_af200_blog.webp"
+        },
+        {
+            "id": 6780,
+            "title": "The virtuous cycle of AI research",
+            "url": "https://www.deepmind.com/blog/the-virtuous-cycle-of-ai-research",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "We recently caught up with Petar Veli\u010dkovi\u0107, a research scientist at DeepMind. Along with his co-authors, Petar is presenting his paper The CLRS Algorithmic Reasoning Benchmark at ICML 2022 in Baltimore, Maryland, USA.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632c37d04c575b001a37c0f0_virtuous_cycle_of_AI_research.webp"
+        },
+        {
+            "id": 6781,
+            "title": "Perceiver AR: general-purpose, long-context autoregressive generation",
+            "url": "https://www.deepmind.com/blog/perceiver-ar-general-purpose-long-context-autoregressive-generation",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-07-16T00:00:00",
+            "description": "We develop Perceiver AR, an autoregressive, modality-agnostic architecture which uses cross-attention to map long-range inputs to a small number of latents while also maintaining end-to-end causal masking. Perceiver AR can directly attend to over a hundred thousand tokens, enabling practical long-context density estimation without the need for hand-crafted sparsity patterns or memory mechanisms.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6782,
+            "title": "DeepMind\u2019s latest research at ICML 2022",
+            "url": "https://www.deepmind.com/blog/deepminds-latest-research-at-icml-2022",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2022-07-15T00:00:00",
+            "description": "Starting this weekend, the thirty-ninth International Conference on Machine Learning (ICML 2022) is meeting from 17-23 July, 2022 at the Baltimore Convention Center in Maryland, USA, and will be running as a hybrid event. Researchers working across artificial intelligence, data science, machine vision, computational biology, speech recognition, and more are presenting and publishing their cutting-edge work in machine learning.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62d15764d466f6f75019529c_AGI_05.jpg"
+        },
+        {
+            "id": 6783,
+            "title": "Working together with YouTube",
+            "url": "https://www.deepmind.com/blog/working-together-with-youtube",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2022-07-14T00:00:00",
+            "description": null,
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62d023323559e56e2ed4e54d_YouTube_Blog__Header.png"
+        },
+        {
+            "id": 6784,
+            "title": "Intuitive physics learning in a deep-learning model inspired by developmental psychology",
+            "url": "https://www.deepmind.com/blog/intuitive-physics-learning-in-a-deep-learning-model-inspired-by-developmental-psychology",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-07-11T00:00:00",
+            "description": "Despite significant effort, current AI systems pale in their understanding of intuitive physics, in comparison to even very young children. In the present work, we address this AI problem, specifically by drawing on the field of developmental psychology.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6785,
+            "title": "Human-centred mechanism design with Democratic AI",
+            "url": "https://www.deepmind.com/blog/human-centred-mechanism-design-with-democratic-ai",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "In our recent paper, published in Nature Human Behaviour, we provide a proof-of-concept demonstration that deep reinforcement learning (RL) can be used to find economic policies that people will vote for by majority in a simple game. The paper thus addresses a key challenge in AI research - how to train AI systems that align with human values.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6786,
+            "title": "Leading a movement to strengthen machine learning in Africa",
+            "url": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-06-23T00:00:00",
+            "description": null,
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6787,
+            "title": "BYOL-Explore: Exploration with Bootstrapped Prediction",
+            "url": "https://www.deepmind.com/blog/byol-explore-exploration-with-bootstrapped-prediction",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-06-20T00:00:00",
+            "description": "We present BYOL-Explore, a conceptually simple yet general approach for curiosity-driven exploration in visually-complex environments. BYOL-Explore learns a world representation, the world dynamics, and an exploration policy all-together by optimizing a single prediction loss in the latent space with no additional auxiliary objective. We show that BYOL-Explore is effective in DM-HARD-8, a challenging partially-observable continuous-action hard-exploration benchmark with visually-rich 3-D environments.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

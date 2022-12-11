@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14677,
+            "title": "How to Organize Your ML Development in an Efficient Way",
+            "url": "https://neptune.ai/blog/how-to-organize-your-ml-development",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "One major issue that every data scientist and ML practitioner will eventually encounter is workflow management. Testing different scenarios and use cases, logging information and details, sharing and comparing results from a particular set of samples, visualizing the data, keeping track of insights. These are key components of data science workflow management. They help business\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Organize-Your-LightGBM-ML-Model-Development-Process-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14678,
+            "title": "Gradient Boosted Decision Trees [Guide]: a Conceptual Explanation",
+            "url": "https://neptune.ai/blog/gradient-boosted-decision-trees-guide",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Gradient boosted decision trees have proven to outperform other models. It\u2019s because boosting involves implementing several models and aggregating their results. Gradient boosted models have recently become popular thanks to their performance in machine learning competitions on Kaggle.\u00a0 In this article, we\u2019ll see what gradient boosted decision trees are all about.\u00a0 Gradient boosting In gradient\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Gradient-Boosted-Decision-Trees-Guide-a-Conceptual-Explanation-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14679,
+            "title": "Best ML Metadata Store Solutions",
+            "url": "https://neptune.ai/blog/best-metadata-store-solutions",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you have found this article, you are probably familiar with the concept of an ML metadata store and are looking for suggestions on optimal solutions. For those of you who are not that familiar with this concept, an ML metadata store is a place where the metadata generated from an end-to-end machine learning (ML)\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Metadata-Store-Solutions-Kubeflow-Metadata-vs-TensorFlow-Extended-TFX-ML-Metadata-MLMD-vs-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14680,
+            "title": "Binarized Neural Network (BNN) and Its Implementation in Machine Learning",
+            "url": "https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml",
+            "authors": "Tanay Agrawal",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Binarized Neural Network (BNN) comes from a paper by Courbariaux, Hubara, Soudry, El-Yaniv and Bengio from 2016. It introduced a new method to train neural networks, where weights and activations are binarized at train time, and then used to compute the gradients.\u00a0 This way, memory size is reduced, and bitwise operations improve the power efficiency.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Binarized-Neural-Network-BNN-and-Its-Implementation-in-Machine-Learning-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14681,
+            "title": "Randomly Wired Neural Networks: What You Actually Need to Know",
+            "url": "https://neptune.ai/blog/randomly-wired-neural-networks",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Innovative wiring of neural networks is a big part of the success of neural network architectures like ResNets and DenseNets. With Neural architecture search (NAS), researchers explore the joint optimization of wiring and operation types. In a paper \u201cExploring Randomly Wired Neural Networks for Image Recognition\u201d from Facebook AI Research, authors investigate connectivity patterns through\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Randomly-Wired-Neural-Networks-What-You-Actually-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14682,
+            "title": "Why You Should Use Continuous Integration and Continuous Deployment in Your Machine Learning Projects",
+            "url": "https://neptune.ai/blog/continuous-integration-and-continuous-deployment-in-machine-learning-projects",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Continuous integration (CI), continuous delivery (CD) and continuous testing (CT) are at the core of Machine Learning Operation (MLOps) principles. If you\u2019re a data scientist or machine learning engineer who knows DevOps principles, in this article I\u2019ll show you how to apply them to ML workflows. It might also be useful if you\u2019re an IT\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Why-You-Should-Use-Continuous-Integration-and-Continuous-Deployment-in-Your-Machine-Learning-Project-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14683,
+            "title": "A Comprehensive Guide to Ensemble Learning: What Exactly Do You Need to Know",
+            "url": "https://neptune.ai/blog/ensemble-learning-guide",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Ensemble learning techniques have been proven to yield better performance on machine learning problems. We can use these techniques for regression as well as classification problems. The final prediction from these ensembling techniques is obtained by combining results from several base models. Averaging, voting and stacking are some of the ways the results are combined\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/A-Comprehensive-Guide-to-Ensemble-Learning-What-Exactly-Do-You-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14684,
+            "title": "Cross-Entropy Loss and Its Applications in Deep Learning",
+            "url": "https://neptune.ai/blog/cross-entropy-loss-and-its-applications-in-deep-learning",
+            "authors": "Rose Wambui",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In the 21 century, most businesses are using machine learning and deep learning to automate their process, decision-making, increase efficiency in disease detection, etc. How do the companies optimize these models? How do they determine the efficiency of the model? One way to evaluate model efficiency is accuracy. \u00a0The higher the accuracy, the more efficient\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Cross-Entropy-Loss-and-Its-Applications-in-Deep-Learning-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14685,
+            "title": "MLOps at GreenSteam: Shipping Machine Learning [Case Study]",
+            "url": "https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study",
+            "authors": "Tymoteusz Wolodzko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "GreenSteam is a company that provides software solutions for the marine industry that help reduce fuel usage. Excess fuel usage is both costly and bad for the environment, and vessel operators are obliged to get more green by the International Marine Organization and reduce the CO2 emissions by 50 percent by 2050. Even though we\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-toolstack-greensteam.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14686,
+            "title": "Anomaly Detection in Time Series",
+            "url": "https://neptune.ai/blog/anomaly-detection-in-time-series",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Time series are everywhere! In user behavior on a website, or stock prices of a Fortune 500 company, or any other time-related example. Time series data is evident in every industry in some shape or form.\u00a0 Naturally, it\u2019s also one of the most researched types of data. As a rule of thumb, you could say\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Anomaly-Detection-in-Time-Series-2021-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14687,
+            "title": "10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape",
+            "url": "https://neptune.ai/blog/bert-and-the-transformer-architecture",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Few areas of AI are more exciting than NLP right now. In recent years language models (LM), which can perform human-like linguistic tasks, have evolved to perform better than anyone could have expected.\u00a0 In fact, they\u2019re performing so well that people are wondering whether they\u2019re reaching a level of general intelligence, or the evaluation metrics\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/10-Things-You-Need-to-Know-About-BERT-and-the-Transformer-Architecture-That-Are-Reshaping-the-AI-Lan-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14688,
+            "title": "A Comprehensive Guide to the Backpropagation Algorithm in Neural Networks",
+            "url": "https://neptune.ai/blog/backpropagation-algorithm-in-neural-networks-guide",
+            "authors": "Ahmed Gad",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This article is a comprehensive guide to the backpropagation algorithm, the most widely used algorithm for training artificial neural networks. We\u2019ll start by defining forward and backward passes in the process of training neural networks, and then we\u2019ll focus on how backpropagation works in the backward pass. We\u2019ll work on detailed mathematical calculations of the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/A-Comprehensive-Guide-to-the-Backpropagation-Algorithm-in-Neural-Networks-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14689,
+            "title": "MLOps: 10 Best Practices You Should Know",
+            "url": "https://neptune.ai/blog/mlops-10-best-practices",
+            "authors": "Odunayo Ogundepo",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "\u201c\u2026developing and deploying ML systems is relatively fast and cheap, but maintaining them over time is difficult and expensive.\u201d \u2013 D. Sculley et al., \u201cHidden Technical Debt in Machine Learning Systems, NIPS 2015 Every data scientist can relate to this quote. Perhaps you have encountered it in your search to solve a problem in one\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-10-Best-Practices-You-Should-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14690,
+            "title": "How to Make Your MLflow Projects Easy to Share and Collaborate On",
+            "url": "https://neptune.ai/blog/mlflow-projects-easy-to-share-and-collaborate-on",
+            "authors": "Rita Bodepudi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you use MLflow, you\u2019re in for a treat! Because, in this article, you\u2019ll see how to make your MLflow projects much easier to share, and enable seamless collaboration with your teammates. Creating a seamless workflow for your machine learning projects can be extremely challenging.\u00a0 A typical machine learning lifecycle includes:\u00a0 Data collection + preprocessing\u00a0\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Make-Your-MLflow-Projects-Easy-to-Share-and-Collaborate-On-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14691,
+            "title": "Guide to Building Your Own Neural Network [With Breast Cancer Classification Example]",
+            "url": "https://neptune.ai/blog/neural-network-guide",
+            "authors": "Akruti Acharya",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This is a hands-on guide to build your own neural network for breast cancer classification. I will start off with the basics and then go through the implementation.\u00a0 The task of accurately identifying and categorizing breast cancer subtypes is a crucial clinical task, which can take hours for trained pathologists to complete. So, we will\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Guide-to-Building-Your-Own-Neural-Network-With-Breast-Cancer-Classification-Example-High-Quality.jpg?fit=1200%2C628"
+        },
+        {
+            "id": 14692,
+            "title": "Recurrent Neural Network Guide: a Deep Dive in RNN",
+            "url": "https://neptune.ai/blog/recurrent-neural-network-guide",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Sequence modeling is a task of modeling sequential data. Modeling sequence data is when you create a mathematical notion to understand and study sequential data, and use those understandings to generate, predict or classify the same for a specific application.\u00a0 Sequential data has three properties: Elements in the sequence can repeat It follows order (contextual\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Recurrent-Neural-Network-Guide-a-Deep-Dive-in-RNN-High-Quality-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14694,
+            "title": "Generative Adversarial Networks and Some of GAN Applications: Everything You Need to Know",
+            "url": "https://neptune.ai/blog/generative-adversarial-networks-gan-applications",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The generative models method is a type of unsupervised learning. In supervised learning, the deep learning model learns to map the input to the output. In each iteration, the loss is being calculated and the model is optimised using backpropagation. In unsupervised learning, we don\u2019t feed the target variables to the deep learning model like\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Generative-Adversarial-Networks-and-Some-of-GAN-Applications-Everything-You-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14695,
+            "title": "Top Tools for Data Exploration and Visualization With Their Pros and Cons",
+            "url": "https://neptune.ai/blog/data-exploration-and-visualization-best-tools",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When you are working on a data science project or trying to find data insights to strategize your plans, there are two key steps that can not be avoided \u2013 Data Exploration and Data Visualization.\u00a0 Data Exploration is an integral part of EDA (Exploratory Data Analysis). Whatever you decide to do in the later phases\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-tools-for-data-visualization.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14696,
+            "title": "A Comprehensive Guide to Data Preprocessing",
+            "url": "https://neptune.ai/blog/data-preprocessing-guide",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "According to the 2020 International Data Corporation\u2019s forecast, 59 zettabytes of data would have been created, consumed, captured and copied in 2020. This forecast gets more interesting when we go back in time to 2012, and find that IDC forecasted the digital universe to reach only 40 zettabytes by 2020, and not in 2020 alone.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/A-Comprehensive-Guide-to-Data-Preprocessing-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14697,
+            "title": "Latent Dirichlet Allocation (LDA) Tutorial: Topic Modeling of Video Call Transcripts (With Zoom)",
+            "url": "https://neptune.ai/blog/latent-dirichlet-allocation-lda-tutorial-topic-modeling",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this tutorial, \u00a0we will use an NLP machine learning model to identify topics that were discussed in a recorded videoconference. We\u2019ll use Latent Dirichlet Allocation (LDA), a popular topic modeling technique. We\u2019ll apply LDA to convert the content (transcript) of a meeting into a set of topics, and to derive latent patterns. It will\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Latent-Dirichlet-Allocation-LDA-Tutorial-Topic-Modeling-of-Video-Call-Transcripts-With-Zoom-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14698,
+            "title": "Time Series Forecasting: Data, Analysis, and Practice",
+            "url": "https://neptune.ai/blog/time-series-forecasting",
+            "authors": "Akshay P Jain",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Usually, in the traditional machine learning approach, we randomly split the data into training data, test data, and cross-validation data. Here, each point xi in the dataset has: 60% probability of going into Dtrain\u00a0 20% probability of going into Dtest\u00a0\u00a0 20% probability of going into Validation Instead of random-based splitting, we can use another approach\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Time-Series-Forecasting-Data-Analysis-and-Practice-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14699,
+            "title": "Streamlit Guide: How to Build Machine Learning Applications",
+            "url": "https://neptune.ai/blog/streamlit-guide-machine-learning",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Building machine learning applications keeps getting easier. With Streamlit, you can develop machine learning apps quickly and easily. You can also use the Streamlit sharing platform to deploy your applications in just a couple of clicks.\u00a0 It doesn\u2019t take long to start developing with Streamlit, since you don\u2019t even need any front-end web development experience.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Streamlit-Guide-How-to-Build-Machine-Learning-Applications-High-Quality-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14700,
+            "title": "Apache Spark Tutorial: Get Started With Serving ML Models With Spark",
+            "url": "https://neptune.ai/blog/apache-spark-tutorial",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "An estimated 463 exabytes of data will be produced each day by the year 2025. Data scientists will need to make sense out of this data. Obviously, you can\u2019t process, nor store big data on any single computer. Big data needs to be stored in a cluster of computers.\u00a0 This makes the machine learning process\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Apache-Spark-Tutorial-Get-Started-With-Serving-ML-Models-With-Spark-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14701,
+            "title": "Data Labeling Software: Best Tools for Data Labeling",
+            "url": "https://neptune.ai/blog/data-labeling-software",
+            "authors": "Krissanawat Kaewsanmua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In machine learning and AI development, the aspects of data labeling are essential. You need a structured set of training data that an ML system can learn from.\u00a0 It takes a lot of effort to create accurately labeled datasets. Data labeling tools come very much in handy because they can automate the labeling process, which\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-labeling-software.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14702,
+            "title": "Transfer Learning Guide: A Practical Tutorial With Examples for Images and Text in Keras",
+            "url": "https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras",
+            "authors": "Derrick Mwiti",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "It can take weeks to train a neural network on large datasets. Luckily, this time can be shortened thanks to model weights from pre-trained models \u2013 in other words, applying transfer learning. Transfer learning is a technique that works in image classification tasks and natural language processing tasks. In this article, you\u2019ll dive into: what\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Transfer-Learning-Guide-A-Practical-Tutorial-With-Examples-for-Images-and-Text-in-Keras-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14703,
+            "title": "Train PyTorch Models Using Genetic Algorithm With PyGAD",
+            "url": "https://neptune.ai/blog/train-pytorch-models-using-genetic-algorithm-with-pygad",
+            "authors": "Ahmed Gad",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "PyGAD is a genetic algorithm Python 3 library for solving optimization problems. One of these problems is training machine learning algorithms. PyGAD has a module called pygad.kerasga. It trains Keras models using the genetic algorithm. On January 3rd, 2021, a new release of PyGAD 2.10.0 brought a new module called pygad.torchga to train PyTorch models.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Train-PyTorch-Models-Using-Genetic-Algorithm-With-PyGAD-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14704,
+            "title": "Conversational AI Architectures Powered by Nvidia: Tools Guide",
+            "url": "https://neptune.ai/blog/conversational-ai-nvidia-tools-guide",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "With the latest improvements in deep learning fields such as natural speech synthesis and speech recognition, AI and deep learning models are increasingly entering our daily lives. Matter of fact, numerous harmless applications, seamlessly integrated with our everyday routine, are slowly becoming indispensable.\u00a0 Large, data-driven service companies rely heavily on complex network architectures, with pipelines\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Conversational-AI-Architectures-Powered-by-Nvidia-Tools-Guide-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14705,
+            "title": "Adaptive Mutation in Genetic Algorithm With Python Examples",
+            "url": "https://neptune.ai/blog/adaptive-mutation-in-genetic-algorithm-with-python-examples",
+            "authors": "Ahmed Gad",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The genetic algorithm is a popular evolutionary algorithm. It uses Darwin\u2019s theory of natural evolution to solve complex problems in computer science. But, to do so, the algorithm\u2019s parameters need a bit of adjusting. One of the key parameters is mutation. It makes random changes in the chromosomes (i.e. solutions) in order to increase quality\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Adaptive-Mutation-in-Genetic-Algorithm-With-Python-Examples-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14706,
+            "title": "Wasserstein Distance and Textual Similarity",
+            "url": "https://neptune.ai/blog/wasserstein-distance-and-textual-similarity",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In many machine learning (ML) projects, there comes a point when we have to decide the level of similarity between different objects of interest.\u00a0 We might be trying to understand the similarity between different images, weather patterns, or probability distributions. With natural language processing (NLP) tasks, we might be checking whether two documents or sentences\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Wasserstein-Distance-and-Textual-Similarity-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14707,
+            "title": "How To Manage a Deep Reinforcement Learning Research Team Part 2: Fractal Nature of Creative Work",
+            "url": "https://neptune.ai/blog/how-to-manage-a-deep-reinforcement-learning-research-team-part-2-fractal-nature-of-creative-work",
+            "authors": "Piotr Januszewski",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In part one, we discussed the importance of focusing on a well-defined project. In this article, we\u2019re diving even deeper, because we\u2019re going to talk about the fractal nature of creative work, or why it\u2019s hard to do meaningful work when your projects are built from sub-projects, which are built from sub-sub-projects, that are built\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-To-Manage-a-Deep-Reinforcement-Learning-Research-Team-\u2013-Part-2-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

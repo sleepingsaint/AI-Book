@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4104,
+            "title": "Tensorflow Functional API: Building a CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/building-a-cnn-with-tf-keras-functional-api/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Classification, Data Science, Deep Learning, Intermediate, Libraries, Python, Unstructured Data",
+            "publishedOn": "2021-06-10T00:00:00",
+            "description": "In this article, I will talk about building a CNN employing TensorFlow Functional API, an alternative way of building more flexible models,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Tensorflow-.jpg"
+        },
+        {
+            "id": 4105,
+            "title": "Exploratory Data Analysis : A Beginners Guide To Perform EDA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/exploratory-data-analysis-a-beginners-guide-to-perform-eda/",
+            "authors": "Prem Prakash",
+            "tags": "Beginner, Data Exploration, Data Visualization, Pandas, Python, Statistics, Structured Data",
+            "publishedOn": "2021-06-10T00:00:00",
+            "description": "Exploratory data analysis is an approach to analyzing data to summarize their main characteristics, often using statistical graphics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/nyctaxi-scaled.jpg"
+        },
+        {
+            "id": 4106,
+            "title": "Keras Tuner \u2013 Auto Neural Network Architecture Selection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/keras-tuner-auto-neural-network-architecture-selection/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Advanced, Computer Vision, Deep Learning, Libraries, Python",
+            "publishedOn": "2021-06-10T00:00:00",
+            "description": "In this article, we will discuss the keras tuner library for hyperparameter tuning and implement keras tuner for mnist dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/82170ker11.jpg"
+        },
+        {
+            "id": 4107,
+            "title": "13 Important Requirements of a Laptop for Data Science Tasks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/13-important-requirements-of-a-laptop-for-data-science-tasks/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Data Science, Interview Questions",
+            "publishedOn": "2021-06-10T00:00:00",
+            "description": "Advanced data science tasks require huge computing needs. Let's have a look at some important Requirements of a Laptop for Data Science Tasks",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/56178laptop-scaled.jpeg"
+        },
+        {
+            "id": 4108,
+            "title": "Complete Guide to Moment Generating Functions in Statistics For Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-moment-generating-functions-in-statistics-for-data-science/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Probability, Statistics",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "Moment generating functions explained with its applications with some examples. In this article learn what is Moment Generating Functions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/451832020_0213_18360900.jpg"
+        },
+        {
+            "id": 4109,
+            "title": "25 Questions to Test Your Skills on Linear Regression Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/25-questions-to-test-your-skills-on-linear-regression-algorithm/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Science, Interviews, Linear Regression, Regression, Supervised",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "Here, we will discuss important questions on the Linear Regression Algorith, helpful to get you a clear understanding of the Algorithm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/14421linear-reg.jpg"
+        },
+        {
+            "id": 4110,
+            "title": "5\u00a0Hyperparameter Optimization Techniques You Must Know for Data Science Hackathons",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/5-hyperparameter-optimization-techniques-you-must-know-for-data-science-hackathons/",
+            "authors": "Sourav Mondal",
+            "tags": "Advanced, Machine Learning, Python",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "In this article, I am going to discuss the following five hyperparameter optimization techniques with python code examples.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/articles_img_main.jpg"
+        },
+        {
+            "id": 4111,
+            "title": "Breast Cancer Classification: Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/breast-cancer-classification-using-deep-learning/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Classification, Deep Learning, Healthcare, Intermediate, Object Detection, Python, Unstructured Data",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "In this article we are going to build an automatic breast cancer classification system using convolutional neural network in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/healthcare.jpg"
+        },
+        {
+            "id": 4112,
+            "title": "Linear Regression in machine learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/linear-regression-in-machine-learning/",
+            "authors": "Suvarna Gawali",
+            "tags": "Beginner, Machine Learning, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "Linear regression is a statistical regression method used for predictive analysis and shows the relationship between the continuous variables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/32407iStock-1043306656.jpg"
+        },
+        {
+            "id": 4113,
+            "title": "How to clean data in Python for Machine Learning?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-clean-data-in-python-for-machine-learning/",
+            "authors": "Vishesh Arora",
+            "tags": "Beginner, Data Cleaning, Data Science, Pandas",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "Clean data is the foremost requirement of a successful machine learning model. Here, we will see how to perform data cleaning in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image2.png"
+        },
+        {
+            "id": 4114,
+            "title": "20 Questions to Test Your Skills on Hierarchical Clustering Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/20-questions-to-test-your-skills-on-hierarchical-clustering-algorithm/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Clustering, Interviews, Machine Learning",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "In this article, we will discuss important questions on the Hierarchical Clustering Algorithm which is helpful to get you clear understanding.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/54575h_clustering.jpg"
+        },
+        {
+            "id": 4115,
+            "title": "Unplanned Train-Test Split is not Always Acceptable!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/unplanned-train-test-split-is-not-always-acceptable/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Classification, Data Science, Intermediate, Project, Resource",
+            "publishedOn": "2021-06-09T00:00:00",
+            "description": "A stochastic train-test split well attends most fabulous data science projects. It determine how well a classifier will operate in future composition situations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/machine_learning_starter_pack.jpg"
+        },
+        {
+            "id": 4116,
+            "title": "A Beginners Guide to Codeless Deep Learning: MNIST Digit classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-beginners-guide-to-codeless-deep-learning-mnist-digit-classification/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Classification, Deep Learning, KNIME",
+            "publishedOn": "2021-06-08T00:00:00",
+            "description": "learn to build a Deep Learning network to classify handwritten digits (Figure 1) in the MNIST dataset using codeless KNIME Analytics Platform",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 4117,
+            "title": "Develop your First Image Processing Project with Convolutional Neural Network!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/develop-your-first-image-classification-project-with-convolutional-neural-network/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Computer Vision, Data Science, Deep Learning, Image, Project, Unsupervised",
+            "publishedOn": "2021-06-08T00:00:00",
+            "description": "In this article, we will build our first image classification project using CNN and understand its power and why it has become so popular.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/64913image-processing-feature-img.png"
+        },
+        {
+            "id": 4118,
+            "title": "Complete Guide to Data Types in Statistics for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-data-types-in-statistics-for-data-science/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Data Exploration, Statistics",
+            "publishedOn": "2021-06-08T00:00:00",
+            "description": "In this article, we will discuss the different data types in statistics you need to know. Learn about Qualitative vs Quantitative data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/24964maxresdefault.jpg"
+        },
+        {
+            "id": 4119,
+            "title": "Text Analytics of Resume Dataset with NLP!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/text-analytics-of-resume-dataset-with-nlp/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Science, Machine Learning, NLP, Python, Text",
+            "publishedOn": "2021-06-08T00:00:00",
+            "description": "Text Analytics is an interesting application of NLP. In this article learn about what is text analytics and work on a resume dataset with NLP",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 4120,
+            "title": "Complete Guide to Chebyshev\u2019s Inequality and WLLN in Statistics for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-chebyshevs-inequality-and-wlln-in-statistics-for-data-science/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "Chebyshev\u2019s inequality and Weak law of large numbers (WLNN) in statistics are very important concepts that are heavily used in DS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Inferential-Statistics-for-beginners.jpg"
+        },
+        {
+            "id": 4121,
+            "title": "Sign Language Recognition for Computer Vision Enthusiasts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/sign-language-recognition-for-computer-vision-enthusiasts/",
+            "authors": "Vaishnavi Patil",
+            "tags": "Advanced, Computer Vision, Project, Python",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "This article is a guide to Sign Language Recognition for computer vision beginners. Lets understand sign language recognition in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/language-.jpg"
+        },
+        {
+            "id": 4122,
+            "title": "Cohort Analysis Using Python For Beginners- A Hands-On Tutorial",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/cohort-analysis-using-python-for-beginners-a-hands-on-tutorial/",
+            "authors": "Mala Upadhaya",
+            "tags": "Beginner, Machine Learning, Project, Python",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "Cohort analysis is a descriptive analytics technique. This article is a cohort analysis tutorial for beginners to learn more about it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/pexels-serpstat-572056-scaled.jpg"
+        },
+        {
+            "id": 4123,
+            "title": "Performance Testing ML Serving APIs With Locust",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/performance-testing-ml-serving-apis-with-locust/",
+            "authors": "Amit Kulkarni",
+            "tags": "Advanced, Machine Learning, Python",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "In this article, we look into how to go about performance testing of machine learning serving APIs with locust to improve the efficiency",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/85024Testing-scaled.jpg"
+        },
+        {
+            "id": 4124,
+            "title": "Build ResNet from Scratch With Python !",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/build-resnet-from-scratch-with-python/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Deep Learning, PyTorch",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "The ResNet model is one of the most popular deep learning models. In this article learn to develop the ResNet model from scratch",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/transfer-learning.png"
+        },
+        {
+            "id": 4125,
+            "title": "Must Known Data Visualization Techniques for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/must-known-data-visualization-techniques-for-data-science/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python, Structured Data",
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "Data visualization is defined as a graphical representation. In this article learn about data visualization techniques with some basic plots",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70583featured-data-visualization.png"
+        },
+        {
+            "id": 4126,
+            "title": "Brain Tumor Detection and Localization using Deep Learning: Part\u00a02",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/brain-tumor-detection-and-localization-using-deep-learning-part-2/",
+            "authors": "Mahisha Patel",
+            "tags": "Advanced, Computer Vision, Deep Learning, Healthcare, Object Detection, Python",
+            "publishedOn": "2021-06-06T00:00:00",
+            "description": "In this article, we are going to develop a deep learning model for brain tumor detection and localization. The blog is divided into two parts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/brain-3141247_1280.jpg"
+        },
+        {
+            "id": 4127,
+            "title": "Brain Tumor Detection and Localization using Deep Learning: Part\u00a01",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/brain-tumor-detection-and-localization-using-deep-learning-part-1/",
+            "authors": "Mahisha Patel",
+            "tags": "Advanced, Artificial Intelligence, Computer Vision, Deep Learning, Image, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2021-06-06T00:00:00",
+            "description": "In this article, we are going to develop a deep learning model for brain tumor detection and localization. The blog is divided into two parts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/brain-1845962_1280.jpg"
+        },
+        {
+            "id": 4128,
+            "title": "Will MLOps change the future of the healthcare system?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/will-mlops-change-the-future-of-the-healthcare-system-major-use-cases-of-mlops-in-health-care/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Healthcare, NLP",
+            "publishedOn": "2021-06-03T00:00:00",
+            "description": "Throughout this article, we are going to take you thru a replacement technology called MLOps in Healthcare for data scientists",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/11858healthcare2.png"
+        },
+        {
+            "id": 4129,
+            "title": "4 Use Cases All Data Scientist Should Learn",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/4-use-cases-all-data-scientist-should-learn/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Interview Questions, Interviews",
+            "publishedOn": "2021-06-03T00:00:00",
+            "description": "Data science use cases every data scientist should learn. Let\u2019s explore 4 use cases of data science you can each apply straight to your job.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/machine_learning_use_cases.jpg"
+        },
+        {
+            "id": 4130,
+            "title": "A complete guide to doing Geospatial Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-complete-guide-to-doing-geospatial-analytics/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Machine Learning",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "In this article, read on to find out how we can perform geospatial analytics and make the most out of your location data!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ft2-scaled.jpg"
+        },
+        {
+            "id": 4131,
+            "title": "Beginner\u2019s guide before building a Chatbot",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-before-building-a-chatbot/",
+            "authors": "HARI LAKSHMAN",
+            "tags": "Advanced, chatbot, conversational AI, NLP",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "A chatbot is a software that interacts with humans via various mediums like voice, text, etc. using NLP. This is a beginner's guide to chatbot",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/75139chatbot-3589528_1920.jpg"
+        },
+        {
+            "id": 4132,
+            "title": "Random Forest for Time Series Forecasting",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/random-forest-for-time-series-forecasting/",
+            "authors": "Tanushree Biswal",
+            "tags": "Intermediate, Machine Learning, Project, Python, Technique, Time Series Forecasting, Use Cases",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "In this tutorial, you will learn how to develop a model of Random forest for time series forecasting by building a model on multivariate data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/41143pexels-energepiccom-159888.jpg"
+        },
+        {
+            "id": 4133,
+            "title": "Python\u2019s Parts of Speech: Basic components of Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/pythons-parts-of-speech-components-of-python/",
+            "authors": "Chaitra B V",
+            "tags": "Beginner, Data Science, Interviews, Programming, Python",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "A thorough understanding of the components of programming language is vital in the development of code. Let\u2019s discuss python basic components",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/31296pythonlogo.jpg"
+        }
+    ]
+}

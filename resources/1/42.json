@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1214,
+            "title": "Amazon Comprehend now supports resource tagging for custom models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-resource-tagging-for-custom-models/",
+            "authors": "Nino Bice",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2019-04-04T00:00:00",
+            "description": "Amazon Comprehend customers are solving a variety of use cases with custom classification and entity type models. For example, customers are building classifiers to organize their daily customer feedback into categories like \u201cloyalty,\u201d \u201csales,\u201d or \u201cproduct defect.\u201d Custom entity models enable customers to analyze text for their own terms and phrases, such as product IDs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/04/comprehend-tagging.gif"
+        },
+        {
+            "id": 1215,
+            "title": "Amazon SageMaker automatic model tuning now supports random search and hyperparameter scaling",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-random-search-and-hyperparameter-scaling/",
+            "authors": "Fela Winkelmolen",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Top Posts",
+            "publishedOn": "2019-04-04T00:00:00",
+            "description": "We are excited to introduce two highly requested features to automatic model tuning in Amazon SageMaker: random search and hyperparameter scaling. This post describes these features, explains when and how to enable them, and shows how they can improve your search for hyperparameters that perform well. If you are in a hurry, you\u2019ll be happy [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/04/random-search-hyperparameter-scaling-4-2.gif"
+        },
+        {
+            "id": 1216,
+            "title": "Amazon Comprehend now support KMS encryption",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-support-kms-encryption/",
+            "authors": "Nino Bice",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2019-04-03T00:00:00",
+            "description": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics for important workloads. For example, analyzing market research reports for key market indicators or data that contains PII information. Customers that work with highly sensitive, encrypted data can now easily enable Comprehend to work with this encrypted data\u00a0via an integration [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/Social-AmazonComprehendDocumentClassificationAPI_800x400.png"
+        },
+        {
+            "id": 1217,
+            "title": "AWS DeepRacer League hits the road for more fun and excitement for developers!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-hits-the-road-for-more-fun-and-excitement-for-developers/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-04-02T00:00:00",
+            "description": "From developer to machine learning developer The AWS DeepRacer League\u00a0is the world\u2019s first autonomous racing league open to developers of all skill levels and it kicked off last week in Santa Clara, California. Chris Miller was crowned our first champion of the 2019 season. Chris is the founder of Cloud Brigade, based in Santa Cruz, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif"
+        },
+        {
+            "id": 1218,
+            "title": "Create high-quality instructions for Amazon SageMaker Ground Truth labeling jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-instructions-for-amazon-sagemaker-ground-truth-labeling-jobs/",
+            "authors": "Tristan McKinney, Krzysztof Chalupka, Fedor Zhdanov",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-04-02T00:00:00",
+            "description": "Amazon SageMaker Ground Truth helps you quickly build highly accurate training datasets for machine learning (ML). You can use your own workers, a choice of vendor-managed workforces that specialize in data labeling, or a public workforce powered by Amazon Mechanical Turk to provide the human-generated labels. To get high-quality labels, you must provide simple, concise, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/04/02/high-quality-instructions-13-739x630.gif"
+        },
+        {
+            "id": 1219,
+            "title": "Build a serverless anomaly detection tool using Java and the Amazon SageMaker Random Cut Forest algorithm",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-anomaly-detection-tool-using-java-and-the-amazon-sagemaker-random-cut-forest-algorithm/",
+            "authors": "Luka Krajcar, Chris Swierczewski, Julio Delgado Mangas, Madhav Jha, Laurence Rouesnel",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-03-29T00:00:00",
+            "description": "One of the problems that business owners commonly face is detecting when something unusual is happening in their business. Detecting unusual user activity or changes in daily traffic patterns are just some of the challenges. With an ever-increasing amount of data and metrics, detecting anomalies with the help of machine learning is a great way [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/29/sagemaker-anomaly-detection-5.gif"
+        },
+        {
+            "id": 1220,
+            "title": "Launch EI accelerators in minutes with the Amazon Elastic Inference setup tool for EC2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/launch-ei-accelerators-in-minutes-with-the-amazon-elastic-inference-setup-tool-for-ec2/",
+            "authors": "Eftiquar Shaikh, Satadal Bhattacharjee",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2019-03-29T00:00:00",
+            "description": "The Amazon Elastic Inference\u00a0(EI) setup tool is a Python script that enables you to quickly get started with EI. Elastic Inference allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker\u00a0instances to reduce the cost of running deep learning inference by up to 75 percent. If you are using EI for the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1221,
+            "title": "Announcing the first winner of the AWS DeepRacer League Summit circuit!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-first-winner-of-the-aws-deepracer-league-summit-circuit/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-03-27T00:00:00",
+            "description": "Today, at the AWS Summit in Santa Clara, California, we kicked off the 2019 season of the world\u2019s first global autonomous racing league. The AWS DeepRacer League allows developers of all skill levels to get hands on with machine learning through a series of live racing events at AWS Global Summits around the world. The [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/28/deepracer-santa-clara.jpg"
+        },
+        {
+            "id": 1222,
+            "title": "Train Deep Learning Models on GPUs using Amazon EC2 Spot Instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-deep-learning-models-on-gpus-using-amazon-ec2-spot-instances/",
+            "authors": "Shashank Prasanna",
+            "tags": "Amazon EC2, Compute",
+            "publishedOn": "2019-03-27T00:00:00",
+            "description": "You\u2019ve collected your datasets, designed your deep neural network architecture, and coded your training routines. You are now ready to run training on a large dataset for multiple epochs on a powerful GPU instance. You learn that the Amazon EC2 P3 instances with NVIDIA Tesla V100 GPUs are ideal for compute-intensive deep learning training jobs, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/26/ec2-spot-instances-1.gif"
+        },
+        {
+            "id": 1223,
+            "title": "Reducing deep learning inference cost with MXNet and Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reducing-deep-learning-inference-cost-with-mxnet-and-amazon-elastic-inference/",
+            "authors": "Sam Skalicky, Hagay Lupesko",
+            "tags": "Amazon Elastic Inference, Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2019-03-26T00:00:00",
+            "description": "Amazon Elastic Inference (Amazon EI) is a service that allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances. MXNet has supported Amazon EI since its initial release at AWS re:Invent 2018. In this blog post, we\u2019ll explore the cost and performance benefits of using Amazon EI with MXNet. We\u2019ll walk [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/25/EI-Plus-MXNet.png"
+        },
+        {
+            "id": 1224,
+            "title": "Control root access to Amazon SageMaker notebook instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/control-root-access-to-amazon-sagemaker-notebook-instances/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-03-26T00:00:00",
+            "description": "Amazon SageMaker recently introduced the ability to enable and disable root access for notebook users. Before I give you a preview of how you can implement this new feature using the AWS Management Console and Amazon SageMaker API actions, I\u2019ll explain why controlling root access for users is helpful. Amazon SageMaker provides fully managed notebook [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1225,
+            "title": "AWS Deep Learning AMIs now come with TensorFlow 1.13, MXNet 1.4, and support Amazon Linux 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-come-with-tensorflow-1-13-mxnet-1-4-and-support-amazon-linux-2/",
+            "authors": "Aditya Bindal, Kalyanee Chendke, Bhavin Thaker",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2019-03-21T00:00:00",
+            "description": "The AWS Deep Learning AMIs\u00a0now come with MXNet 1.4.0, Chainer 5.3.0, and TensorFlow 1.13.1, which is custom-built directly from source and tuned for high-performance training across Amazon EC2 instances. AWS Deep Learning AMIs are now available on Amazon Linux 2 Developers can now use the AWS Deep Learning AMIs and Deep Learning Base AMI on [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1226,
+            "title": "Developers, start your engines and get ready to race in the 2019 AWS DeepRacer League",
+            "url": "https://aws.amazon.com/blogs/machine-learning/developers-start-your-engines-and-get-ready-to-race-in-the-2019-aws-deepracer-league/",
+            "authors": "Sally Revell",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-03-20T00:00:00",
+            "description": "Get ready to take the pole position in the AWS DeepRacer League. Today, we\u2019re excited to bring you the next stage in the AWS DeepRacer journey \u2013 the AWS DeepRacer League 2019. In November 2018, Jeff Barr announced the launch of AWS DeepRacer on the AWS News Blog as a new way to learn machine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif"
+        },
+        {
+            "id": 1227,
+            "title": "De-identify medical images with the help of Amazon Comprehend Medical and Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/",
+            "authors": "James Wiggins",
+            "tags": "Amazon Comprehend Medical, Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2019-03-19T00:00:00",
+            "description": "Medical images are a foundational tool in modern medicine that enable clinicians to visualize critical information about a patient to help diagnose and treat them. The digitization of medical images has vastly improved our ability to reliably store, share, view, search, and curate these images to assist our medical professionals. The number of modalities for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/19/deidentify-medical-1.gif"
+        },
+        {
+            "id": 1228,
+            "title": "Map clinical notes to the OMOP Common Data Model and healthcare ontologies using Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/map-clinical-notes-to-the-omop-common-data-model-and-healthcare-ontologies-using-amazon-comprehend-medical/",
+            "authors": "James Wiggins",
+            "tags": "Amazon Comprehend Medical, Artificial Intelligence",
+            "publishedOn": "2019-03-19T00:00:00",
+            "description": "Being able to describe the health of patients with observational data is an important aspect of our modern healthcare system. The amount of quantifiable personal health information is vast and constantly growing as new healthcare methods, metrics, and devices are introduced. All of this data allows clinicians and researchers to understand how the health of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/19/omop-comprehend-3.gif"
+        },
+        {
+            "id": 1229,
+            "title": "Become a certified machine learning developer with the new AWS Certified Machine Learning \u2013 Specialty certification",
+            "url": "https://aws.amazon.com/blogs/machine-learning/become-a-certified-machine-learning-developer-with-the-new-aws-certified-machine-learning-specialty-certification/",
+            "authors": "Maureen Lonergan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-03-18T00:00:00",
+            "description": "Back in November 2018 we announced on this blog that the same machine learning (ML) courses used to train engineers at Amazon are now available to all developers through AWS. Today, we\u2019re letting you know that there is a way to enhance and validate your ability to build, train, tune, and deploy machine learning models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/18/social_machine-learning.png"
+        },
+        {
+            "id": 1230,
+            "title": "Bring your own hyperparameter optimization algorithm on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-hyperparameter-optimization-algorithm-on-amazon-sagemaker/",
+            "authors": "Shreyas Subramanian",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-03-15T00:00:00",
+            "description": "In this blog post, we\u2019ll discuss how to implement custom, state-of-the-art hyperparameter optimization (HPO) algorithms to tune models on Amazon SageMaker. Amazon SageMaker includes a built-in HPO algorithm, but provides the flexibility to use your own HPO algorithm. We\u2019ll provide you with a framework to incorporate an HPO algorithm that you choose. However, before we [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/06/byo-hpo-5.gif"
+        },
+        {
+            "id": 1231,
+            "title": "Model serving with Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-serving-with-amazon-elastic-inference/",
+            "authors": "Rakesh Vasudevan, Denis Davydenko, Sam Skalicky",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2019-03-06T00:00:00",
+            "description": "Amazon Elastic Inference (EI) is a service that allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances. EI reduces the cost of running deep learning inference by up to 75%. Model Server for Apache MXNet (MMS) enables deployment of MXNet- and ONNX-based models for inference at scale. In this blog [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1232,
+            "title": "Easily perform bulk label quality assurance using Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easily-perform-bulk-label-quality-assurance-using-amazon-sagemaker-ground-truth/",
+            "authors": "Veronika Megler, Chris Ghyzel",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-03-05T00:00:00",
+            "description": "In this blog post we\u2019re going to walk you through an example situation where you\u2019ve just built a machine learning system that labels your data at volume and you want to perform manual quality assurance (QA) on some of the labels. How can you do so without overwhelming your limited resources?\u00a0 We\u2019ll show you how, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/05/easily-perform-bulk-label-qa-1.gif"
+        },
+        {
+            "id": 1233,
+            "title": "Improving Patient Care with Machine Learning At Beth Israel Deaconess Medical Center",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improving-patient-care-with-machine-learning-at-beth-israel-deaconess-medical-center/",
+            "authors": "Dr. Matt Wood",
+            "tags": null,
+            "publishedOn": "2019-03-04T00:00:00",
+            "description": "Beth Israel Deaconess Medical Center has launched a multi-year, innovative research program on how machine learning can improve patient care, supported by an academic research sponsorship grant from AWS.\u00a0 The Harvard Medical School-affiliated teaching hospital will use a broad array of AWS machine learning services to uncover new ways that machine learning technology can enhance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1234,
+            "title": "Use two additional data labeling services for your Amazon SageMaker Ground Truth labeling jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-two-additional-data-labeling-services-for-your-amazon-sagemaker-ground-truth-labeling-jobs/",
+            "authors": "Vikram Madan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-02-27T00:00:00",
+            "description": "We\u2019re excited to announce the availability of two more data labeling services that you can use for your Amazon SageMaker Ground Truth labeling jobs: Data Labeling Services by iMerit\u2019s US-based workforce Data Labeling Services by Startek, Inc. These new listings on the AWS Marketplace supplement the existing iMerit India-based workforce listing to provide you a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/27/gt-labeling-services-2.gif"
+        },
+        {
+            "id": 1235,
+            "title": "Preprocess input data before making predictions using Amazon SageMaker inference pipelines and Scikit-learn",
+            "url": "https://aws.amazon.com/blogs/machine-learning/preprocess-input-data-before-making-predictions-using-amazon-sagemaker-inference-pipelines-and-scikit-learn/",
+            "authors": "Matthew McKenna, Eric Kim, Urvashi Chowdhary",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-02-26T00:00:00",
+            "description": "Amazon SageMaker enables developers and data scientists to build, train, tune, and deploy machine learning (ML) models at scale. You can deploy trained ML models for real-time or batch predictions on unseen data, a process known as inference. However, in most cases, the raw input data must be preprocessed and can\u2019t be used directly for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1236,
+            "title": "Identifying bird species on the edge using the Amazon SageMaker built-in Object Detection algorithm and AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-bird-species-on-the-edge-using-the-amazon-sagemaker-built-in-object-detection-algorithm-and-aws-deeplens/",
+            "authors": "Mark Roy",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2019-02-21T00:00:00",
+            "description": "Custom object detection has become an important enabler for a wide range of industries and use cases\u2014such as finding tumors in MRIs, identifying diseased crops, and monitoring railway platforms. In this blog post, we build a bird identifier based on an annotated public dataset. This type of model could be used in a number of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/21/identify-birds-2.gif"
+        },
+        {
+            "id": 1237,
+            "title": "Newstag improves global video news discoverability using AI language services on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/newstag-improves-global-video-news-discoverability-using-ai-language-services-on-aws/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Comprehend, Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-02-20T00:00:00",
+            "description": "Swedish startup Newstag uses artificial intelligence (AI) to allow customers to create personalized video news channels from major global news providers. Their mission is to continuously empower people and organizations with the latest, diverse information. To increase discoverability of video news from all around the world for their customers, Newstag creates rich metadata for each [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/19/newstag-1.gif"
+        },
+        {
+            "id": 1238,
+            "title": "Run ONNX models with Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-onnx-models-with-amazon-elastic-inference/",
+            "authors": "Roshani Nagmote, Hagay Lupesko, Vandana Kannan",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2019-02-19T00:00:00",
+            "description": "At re:Invent 2018, AWS announced Amazon Elastic Inference (EI), a new service that lets you attach just the right amount of GPU-powered inference acceleration to any Amazon EC2 instance. This is also available for Amazon SageMaker notebook instances and endpoints, bringing acceleration to built-in algorithms and to deep learning environments. In this blog post, I [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/19/onnx-ei-2-2.gif"
+        },
+        {
+            "id": 1239,
+            "title": "Machine learning: What\u2019s in it for government?",
+            "url": "https://aws.amazon.com/blogs/machine-learning/machine-learning-whats-in-it-for-government/",
+            "authors": "Maysam Ali, Leonardo Quattrucci",
+            "tags": "Amazon Lex, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-02-19T00:00:00",
+            "description": "Machine learning (ML) allows governments to deliver better, more cost-effective, and citizen-friendly services. We talked with three Amazon Web Services (AWS) customers from government authorities and institutes who shared their stories about how ML helped them transform their services and their organizations. These customers gathered at an executive learning track curated particularly for European Government [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1240,
+            "title": "Creating hierarchical label taxonomies using Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-hierarchical-label-taxonomies-using-amazon-sagemaker-ground-truth/",
+            "authors": "Doug Youd, Zahid Rahman",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-02-15T00:00:00",
+            "description": "At re:Invent 2018 we launched Amazon SageMaker Ground Truth, which can Build Highly Accurate Datasets and Reduce Labeling Costs by up to 70% using machine learning. Amazon SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, Amazon SageMaker Ground [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/15/ground-truth-label-taxonomies-1.gif"
+        },
+        {
+            "id": 1241,
+            "title": "Using TensorFlow eager execution with Amazon SageMaker script mode",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-tensorflow-eager-execution-with-amazon-sagemaker-script-mode/",
+            "authors": "Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-02-15T00:00:00",
+            "description": "In this blog post, I\u2019ll discuss how to use Amazon SageMaker script mode to train models with TensorFlow\u2019s eager execution mode. Eager execution is the future of TensorFlow; although it is available now as an option in recent versions of TensorFlow 1.x, it will become the default mode of TensorFlow 2. I\u2019ll provide a brief [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1242,
+            "title": "Read WordPress sites through Amazon Alexa devices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/read-wordpress-sites-through-amazon-alexa-devices/",
+            "authors": "Tomasz Stachlewski",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-02-14T00:00:00",
+            "description": "At the beginning of last year we announced an Amazon Polly plugin for WordPress. This plugin allows blog and website creators who are using WordPress to quickly and easily create audio versions of their posts, articles and websites. A few months later, we updated the plugin with the ability to quickly translate the content of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/07/wordpress-alexa-2.gif"
+        },
+        {
+            "id": 1243,
+            "title": "Gubagoo uses Amazon Translate to build translated live chat for automotive dealers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/gubagoo-uses-amazon-translate-to-build-translated-live-chat-for-automotive-dealers/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-02-11T00:00:00",
+            "description": "Gubagoo is the leading provider of advanced communication solutions for automotive dealers. Gubagoo understands that automotive customers want a personalized experience and helpful information whenever they purchase a car or book a service appointment. In addition, customers want to be communicated with in their native language. However, dealerships in the US have a difficult time [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/11/gubagoo-2.gif"
+        }
+    ]
+}

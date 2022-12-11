@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2334,
+            "title": "BigQuery: An Walkthrough of ML with Conventional SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/bigquery-ml-an-walkthrough-of-machine-learning-with-conventional-sql/",
+            "authors": "Debanjan Ganguly",
+            "tags": "Data Visualization, Database, Intermediate, SQL",
+            "publishedOn": "2022-08-05T00:00:00",
+            "description": "BigQuery is a highly scalable, serverless data warehouse that can process queries on petabytes of data in a few minutes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/bigquery.png"
+        },
+        {
+            "id": 2335,
+            "title": "Introduction to Amazon Glacier & it\u2019s Use Cases",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-amazon-glacier-its-use-cases/",
+            "authors": "Trupti Dekate",
+            "tags": "Advanced, AWS, Cloud Computing, Use Cases",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "In this article, learn about Amazon Glacier is a cloud storage platform developed and launched by AWS with longer loading times.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/christian-wiediger-rymh7EZPqRs-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2336,
+            "title": "The Wheel of Life of Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/the-wheel-of-life-of-machine-learning/",
+            "authors": "Shilpi Mazumdar",
+            "tags": "Beginner, Data Engineering, Machine Learning, Python",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "Machine learning lifecycle is a recurrent or cyclical process followed by data science projects to find a solution to the problem or project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/machine_learning_use_cases.jpg"
+        },
+        {
+            "id": 2337,
+            "title": "Introduction to Intelligent Search Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-intelligent-search-algorithms/",
+            "authors": "Vasudeva Kilaru",
+            "tags": "Algorithm, Beginner",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "In this article, you will learn about various intelligent search algorithms and learn about them in detail.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/research.jpg"
+        },
+        {
+            "id": 2338,
+            "title": "Introduction to Requests Library in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-requests-library-in-python/",
+            "authors": "Juveriya Mahreen",
+            "tags": "Beginner, Libraries, Python",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "In this article, you will learn about various features from the request library and how to make get and post requests.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/python-library.jpg"
+        },
+        {
+            "id": 2339,
+            "title": "Multi-variate Time Series Forecasting using Kats Model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/multi-variate-timeseries-forecasting-using-kats-model/",
+            "authors": "Adnan Afzal",
+            "tags": "Intermediate, Machine Learning, Python, Time Series Forecasting",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "In this guide, you will learn about the Kats model,a recap on time-series forecasting, particularly multi-variate time-series forecasting.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/82241time_series.jpg"
+        },
+        {
+            "id": 2340,
+            "title": "Making a Multipaged Application using Streamlit",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/making-a-multipaged-application-using-streamlit-on-hold/",
+            "authors": "Subhradeep Rang",
+            "tags": "Beginner, Infographic, Machine Learning, Project, Python",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "In this article, we will discuss everything about Streamlit Multipage functionality, how to use and its pros and cons.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Tools-used-for-Data-Science-and-Big-Data.jpg"
+        },
+        {
+            "id": 2341,
+            "title": "Microsoft\u2019s Power BI Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/microsofts-power-bi-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Visualization, Interview Questions, Interviews, Power BI, Python",
+            "publishedOn": "2022-08-04T00:00:00",
+            "description": "Microsoft's Power BI is one of its rapidly growing corporate analytics services & latest and greatest in the data-driven industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/discussion.jpg"
+        },
+        {
+            "id": 2342,
+            "title": "Data Science Interview Part 3: ROC-AUC",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/data-science-interview-part-3-roc-auc/",
+            "authors": "Kavish111",
+            "tags": "Beginner, Data Science, Interview Questions, Interviews",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "ROC curve plots the correlation of True Positive Rate with False Negative Rate. It uses AUC when curves are not interpretable",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2343,
+            "title": "Most Frequently Asked Cloud Computing Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/most-frequently-asked-cloud-computing-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Cloud Computing, Interview Questions, Interviews",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Cloud Computing is the remote manipulation, configuration, and use of hardware and software resources, data storage, and infrastructure.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/17092419/cloud-computing-1484538_960_720.png"
+        },
+        {
+            "id": 2344,
+            "title": "How to Train a Custom Object Detection Model with YOLOv7?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Object Detection, Python",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "YOLOv7 does not outperform YOLOv6 on a standard benchmark, the COCO dataset, because it did not make fundamental architectural improvements.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/YOLO-v1-on-Google-Colab.jpg"
+        },
+        {
+            "id": 2345,
+            "title": "Data Marts for Data Engineers- Types and Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/data-marts-for-data-engineers-with-types-and-implementation/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Data Engineering, Data Warehouse",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Data marts are designed for small businesses needs because they cost much less than a data warehouse system.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/12381what_is_data_visualization_examples_tools_benefits_in_marketing_2_5d652494b9576.webp"
+        },
+        {
+            "id": 2346,
+            "title": "Apache Zookeeper Architecture and Installation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/apache-zookeeper-architecture-and-installation/",
+            "authors": "Trupti Dekate",
+            "tags": "Beginner, Data Engineering, Hadoop",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Apache Zookeeper is a data model. Zookeeper Architecture goes through the master node, so all writes are guaranteed to be sequential.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/apache-zookeeper.png"
+        },
+        {
+            "id": 2347,
+            "title": "Blockchain Technology: Most Frequently Asked Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/blockchain-technology-most-frequently-asked-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Blockchain, Interview Questions, Interviews",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Blockchain technology is a distributed ledger that maintains transaction information is encrypted, immutable, or non-modifiable records.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/joshua-woroniecki-_hcBtOKOOo0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2348,
+            "title": "Most Frequently Asked Data Warehouse Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/most-frequently-asked-data-warehouse-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Interview Questions, Interviews",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "In this article, you will learn about some interview questions related to Data Warehouse that will help you crack the job interviews.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview.png"
+        },
+        {
+            "id": 2349,
+            "title": "Introduction to Graph Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/introduction-to-graph-data-science/",
+            "authors": "PATTABHIRAMAN SRINIVASAN",
+            "tags": "Beginner, Data Science, Graphs & Networks, Guide, Python, Statistics",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Learn about graph data science and how simple python commands can get a lot of interesting and excellent insights and statistics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/graphics2.jpg"
+        },
+        {
+            "id": 2350,
+            "title": "Exploring Partitions and Consumer Groups in Apache Kafka",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/exploring-partitions-and-consumer-groups-in-apache-kafka/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Data Engineering, Guide, Intermediate, Python",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "We will discuss Apache Kafka and build the understanding of using the python API to write some simple Producer and Consumer applications.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Apache-Kafka-A-metaphorical-introduction-to-event-streaming.jpg"
+        },
+        {
+            "id": 2351,
+            "title": "Explainable AI using OmniXAI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/explainable-ai-using-omnixai/",
+            "authors": "Sanket Barhate",
+            "tags": "Data Visualization, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "In this article, we will take a look at how to make use of a python library OmniXAI to get explanations for the decision made by our model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/artificial-intelligence-3382521_1280.jpg"
+        },
+        {
+            "id": 2352,
+            "title": "Top Interview Questions & Answers for Apache Oozie",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/top-interview-questions-answers-for-apache-oozie/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Engineering, Interview Questions, Interviews",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "In this article, you will learn everything about Apache Oozie which will help you crack your interviews for DS job roles.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2353,
+            "title": "Theory Behind the Basics of NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/theory-behind-the-basics-of-nlp/",
+            "authors": "Bhavesh Sree Sai",
+            "tags": "Algorithm, Beginner, Machine Learning, NLP, Python",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "In this article, learn about NLP which help machines to understand various texts and output sentiment or relevant words in filling the text.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/86762why-is-NLP-relevant-for-insurers-cover-e1566482047860.jpg"
+        },
+        {
+            "id": 2354,
+            "title": "DataHour: Deploying Deep Learning Model to Production using FastAPI & Docker",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/datahour-deploying-deep-learning-model-to-production-using-fastapi-docker/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2022-08-02T00:00:00",
+            "description": "Come, register yourself for this DataHour where you can learn the application of data science in real life.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/08/og.png"
+        },
+        {
+            "id": 2355,
+            "title": "The DataHour: Improving Search Results with Semantic Search",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/the-datahour-improving-search-results-with-semantic-search/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "In this data hour, learn about semantic search engine and how it helps in a better search experience for your users.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/08/og33.png"
+        },
+        {
+            "id": 2356,
+            "title": "Do Tree-based Models Outperform Deep Learning Models on Tabular Data?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/do-tree-based-models-outperform-deep-learning-models-on-tabular-data/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, Deep Learning",
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "In this blog post, we will look at the findings obtained from the experiments and the associated caveats using deep learning models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/35152Deep_Learning.jpeg"
+        },
+        {
+            "id": 2357,
+            "title": "Most Frequently Asked Apache HBase Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/most-frequently-asked-apache-hbase-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Data Engineering, Interview Questions, Interviews",
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "In this article, you will learn about different questions which will help you to crack interviews, on the concept Apache HBase .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/data-engineering.png"
+        },
+        {
+            "id": 2358,
+            "title": "Building your First Power BI Report from Scratch",
+            "url": "https://www.analyticsvidhya.com/blog/2022/08/building-your-first-power-bi-report-from-scratch/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Data Visualization, Guide, Power BI",
+            "publishedOn": "2022-08-01T00:00:00",
+            "description": "In this article, we will explore one of Microsoft's proprietary products, Power BI, which is used for Business intelligence.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/Power-BI-DAX.jpg"
+        },
+        {
+            "id": 2359,
+            "title": "Getting Started with Microsoft Azure Web App",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/getting-started-with-microsoft-azure-web-app/",
+            "authors": "Aryan Garg",
+            "tags": "Azure, Beginner, Cloud Computing, Data Engineering",
+            "publishedOn": "2022-07-31T00:00:00",
+            "description": "This tutorial talks about creating a Web App at Azure, and then we deploy web applications on it with a .NET domain name.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/2548815223web-app-resize.png"
+        },
+        {
+            "id": 2360,
+            "title": "Training CNN from Scratch Using the Custom Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/training-cnn-from-scratch-using-the-custom-dataset/",
+            "authors": "Nazia Aslam",
+            "tags": "Deep Learning, Intermediate, Python",
+            "publishedOn": "2022-07-31T00:00:00",
+            "description": "Using a custom dataset, this article demonstrates how to create a convolutional neural network (CNN) of cats vs. dogs from scratch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/58963cnn-scaled.jpeg"
+        },
+        {
+            "id": 2361,
+            "title": "Step-by-Step Exploratory Data Analysis (EDA) using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/",
+            "authors": "Malamahadevan Mahadevan",
+            "tags": "Beginner, Data Visualization, Guide, Python",
+            "publishedOn": "2022-07-31T00:00:00",
+            "description": "EDA is performed on the datasets to explore the data and extract all possible insights helping in model building and better decision making.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/13213Eda-with-Visualization-feature-img.png"
+        },
+        {
+            "id": 2362,
+            "title": "Library Management System using MYSQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/library-management-system-using-mysql/",
+            "authors": "Karpuram Dhanalakshmi Srivani",
+            "tags": "Beginner, Data Engineering, SQL",
+            "publishedOn": "2022-07-31T00:00:00",
+            "description": "The library management is very efficient and also cost-effective. It saves a lot of time for both librarians and also students.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/A-Guide-to-Data-Types-in-MySQL-for-Beginners-in-Data-Science.jpg"
+        },
+        {
+            "id": 2363,
+            "title": "Frequently Asked Microsoft Azure Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/frequently-asked-microsoft-azure-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Azure, Beginner, Interview Questions, Interviews",
+            "publishedOn": "2022-07-31T00:00:00",
+            "description": "Microsoft Azure offers a pay-as-you-go pricing model that enables businesses to effectively manage their budgets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/discussion.jpg"
+        }
+    ]
+}

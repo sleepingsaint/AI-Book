@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4344,
+            "title": "StyleGAN Explained in Less Than Five Minutes",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/stylegan-explained-in-less-than-five-minutes/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Advanced, Computer Vision",
+            "publishedOn": "2021-05-14T00:00:00",
+            "description": "The StyleGAN is a continuation of the progressive, developing GAN that is a proposition for training generator models effoetlessly",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/stylegan-teaser.png"
+        },
+        {
+            "id": 4345,
+            "title": "Data Cleaning Libraries In Python: A Gentle Introduction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/",
+            "authors": "Akshay Gupta",
+            "tags": "Beginner, Libraries, Listicle, Machine Learning, Python",
+            "publishedOn": "2021-05-14T00:00:00",
+            "description": "Clean data in python is the foremost requirement of a successful machine learning model. Here, we will see how to clean data in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/bucket-building-cleaner-756883.jpg"
+        },
+        {
+            "id": 4346,
+            "title": "Understanding Random Variables their Distributions",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/understanding-random-variables-their-distributions/",
+            "authors": "Naman Agrawal",
+            "tags": "Beginner, Probability, Statistics",
+            "publishedOn": "2021-05-14T00:00:00",
+            "description": "Random Variables (also known as a stochastic variable) real-valued function, whose domain is the entire sample space of an experiment.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/47177B1-Cover-photo.jpg"
+        },
+        {
+            "id": 4347,
+            "title": "Start Machine Learning With Julia: Top Julia Libraries for Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/top-julia-machine-learning-libraries/",
+            "authors": "Akshay Gupta",
+            "tags": "Beginner, Julia, Libraries, Listicle",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "Julia libraries are very useful for ML and deep learning. In this article we are going to discuss top julia machine learning libraries",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/33028lib1.jpg"
+        },
+        {
+            "id": 4348,
+            "title": "Create Login page in Dash!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/create-login-page-in-dash-library/",
+            "authors": "Shraddha Shekhar",
+            "tags": "Beginner, Libraries, Python, Technique",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "cCeate an actual login page using Dash library, that is just like HTML page and where you can jump from one page to another using links.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/web-1935737_1920.png"
+        },
+        {
+            "id": 4349,
+            "title": "Auto-ML \u2013 What, Why, When and Open-source packages",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/auto-ml-some-prominent-automl-libraries/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Automl, Machine Learning, Python, Structured Data",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "Auto-ML plays the role right from the raw dataset to the deployable machine learning model and taking care of the ML pipeline deployments.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/34672AutoML-ALL.png"
+        },
+        {
+            "id": 4350,
+            "title": "13 Most Important Pandas Functions for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/pandas-functions-13-most-important/",
+            "authors": "Vishesh Arora",
+            "tags": "Beginner, Data Exploration, Libraries, Pandas, Python, Structured Data, Technique",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "Pandas is one of the dominant libraries in data science and data analytics . Read more about 13 most important functions of pandas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Speeding-up-Pandas-in-Python.jpg"
+        },
+        {
+            "id": 4351,
+            "title": "Popular Coding Questions asked in Data Science Interviews",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/popular-coding-questions-asked-in-data-science-interviews/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Exploration, Interview Questions, Interviews",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "We have come up with a curated list of 15 popular Data Structure, Algorithm, and coding questions often asked in Data Science Interviews.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/86309dsa.jpg"
+        },
+        {
+            "id": 4352,
+            "title": "SVM: What makes it superior to the Maximal-Margin and Support Vector Classifiers?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/support-vector-machines/",
+            "authors": "Shivam Sharma",
+            "tags": "Beginner, Classification, R, Structured Data, Supervised",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "Is Support vector machines are better than maximal margin and support vector classifiers or we can use them interchangeably.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Support-Vector-Regression.gif"
+        },
+        {
+            "id": 4353,
+            "title": "Data Validation in Machine Learning is imperative, not optional",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-validation-in-machine-learning-is-imperative-not-optional/",
+            "authors": "Aditya Agarwal",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2021-05-13T00:00:00",
+            "description": "Data validation is an integral part of ML pipeline. It is checking the accuracy and quality of source data before training a new model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/71837clendar-scaled.jpg"
+        },
+        {
+            "id": 4354,
+            "title": "Complete Guide on Encoding Numerical Features in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/complete-guide-on-encode-numerical-features-in-machine-learning/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Algorithm, Beginner, Machine Learning, Project, Python, Structured Data, Technique",
+            "publishedOn": "2021-05-12T00:00:00",
+            "description": "In this article, we convert numerical features to categorical columns using technique called \"Binning\" to encode the numerical variables",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/one-hot-vs-label-encoder.png"
+        },
+        {
+            "id": 4355,
+            "title": "How AI Supports Logistics Industry and Transportation Businesses",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-ai-supports-logistics-industry-and-transportation-businesses/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner",
+            "publishedOn": "2021-05-11T00:00:00",
+            "description": "In this article, lets look at the various avenues of logistics and transportation where AI is making the work effortlessly smooth",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/tranform-function-in-python.png"
+        },
+        {
+            "id": 4356,
+            "title": "Making Programming with Date and Time, less painless",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/making-programming-with-date-and-time-less-painless/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Beginner, Programming, Python, Structured Data",
+            "publishedOn": "2021-05-11T00:00:00",
+            "description": "Learn programming the date and time data in your data science projects. Use the datetime module of python to effortlessly program them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/71837clendar-scaled.jpg"
+        },
+        {
+            "id": 4357,
+            "title": "Is there any need of Deep Learning?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/is-there-any-need-of-deep-learning/",
+            "authors": "Ronil Patil",
+            "tags": "Advanced, Deep Learning",
+            "publishedOn": "2021-05-11T00:00:00",
+            "description": "Deep learning plays an immense role in data science. In this article we are going to discuss - Is there really any need for deep learning?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/372630_1FeICEnOuS9nbYhp.png"
+        },
+        {
+            "id": 4358,
+            "title": "Data Science Use Cases in Retail Industry",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-science-use-cases-in-retail-industry/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Retail, Use Cases",
+            "publishedOn": "2021-05-11T00:00:00",
+            "description": "In this article let's see the top 10 Data science use cases that were used by retail industries to grow their industries in today's world.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/20865shopping-online-and-digital-marketing-vector-7470867.jpg"
+        },
+        {
+            "id": 4359,
+            "title": "Bar Chart Race of World Population by 2020 in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/bar-chart-race-of-world-population-by-2020-in-python/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Data Visualization, Python, Structured Data",
+            "publishedOn": "2021-05-10T00:00:00",
+            "description": "Bar chart race is a advanced data visualization to create animated bar charts. Let's create a racing bar chart to understand world population",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/67135apps.15947.b4974b32-198c-4fa8-8d03-68e8fec512d4.7d4b6f91-1af3-4a1f-b9e1-e983ebc16d36.0474f460-a51e-42f5-a2da-45a86faae036.png"
+        },
+        {
+            "id": 4360,
+            "title": "Making Sense of Astronomical Valuation of Tesla",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-analysis-making-sense-of-tesla-astronomical-valuation-with-python/",
+            "authors": "Saman Herath",
+            "tags": "Advanced, Python, Stock Trading, Structured Data",
+            "publishedOn": "2021-05-10T00:00:00",
+            "description": "Let's analyse the valuation of Tesla with respect to other companies in semiconductor, technology and health using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/evaluation.png"
+        },
+        {
+            "id": 4361,
+            "title": "Top 20 Conceptual Questions To Test Your Data Science Skills In 2021",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/top-20-conceptual-questions-to-test-your-data-science-skills-in-2021/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Interview Questions, Interviews",
+            "publishedOn": "2021-05-10T00:00:00",
+            "description": "We have curated a list of 20 Conceptual Questions on Data Science Concepts\u00a0consisting of various types of questions to test your skills",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/31994mst.png"
+        },
+        {
+            "id": 4362,
+            "title": "Machine Learning with Python: Logistic Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/machine-learning-with-python-logistic-regression/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Classification, Machine Learning, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Logistic Regression is Probably one of the most interesting Supervised Machine Learning Algorithms in Machine Learning modelling",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/95170Logistic-Regression-in-Python.png"
+        },
+        {
+            "id": 4363,
+            "title": "Machine Learning Model Evaluation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/machine-learning-model-evaluation/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Machine Learning, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "What is Machine Learning? Machine Learning is a popular topic in Information Technology in the present day. Machine Learning allows our computer to gain insight from data and experience just as a human being would. In Machine Learning, programmers teach the computer how to use its past experiences with different entities to perform better in [\u2026]",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/02/error.jpg"
+        },
+        {
+            "id": 4364,
+            "title": "Lazy Predict \u2013 Best Suitable Model for You",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/lazy-predict-best-suitable-model-for-you/",
+            "authors": "Ronil Patil",
+            "tags": "Beginner, Libraries, Machine Learning",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Lazy predict is an awesome Python library that helps you quickly build machine learning models at scale and choose the best suitable model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 4365,
+            "title": "Feature Transformations in Data Science: A Detailed Walkthrough",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/feature-transformations-in-data-science-a-detailed-walkthrough/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Feature Transformations are techniques we use regardless of the model we are using, whether it is a classification task or regression task",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/55880asyaevloeva_feature_transformation.png"
+        },
+        {
+            "id": 4366,
+            "title": "How to Perform One-Hot Encoding For Multi Categorical Variables",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-perform-one-hot-encoding-for-multi-categorical-variables/",
+            "authors": "Mayur Badole",
+            "tags": "Intermediate, Machine Learning, Technique",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Here's how you can one-hot encoding for multi-categorical variables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/116431_K6ctE0RZme0cqMtknrxq8A.png"
+        },
+        {
+            "id": 4367,
+            "title": "A Gentle Introduction to Bokeh: Interactive Python Plotting Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/gentle-introduction-to-bokeh-interactive-python-plotting-library/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Visualization, Libraries, Python",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Bokeh is a powerful data visualization library in Python. Here's a tutorial on how you can get started with Bokeh on Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 4368,
+            "title": "Data Analytics vs Data Analysis, Are they similar?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-analytics-vs-data-analysis-are-they-similar/",
+            "authors": "Shankar D.K",
+            "tags": "Beginner, Interview Questions, Job Roles, Machine Learning",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "If you have a basic knowledge of tech, you must have come across the terms: Data Analytics vs Data Analysis. Let's understand the difference",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/64994IMG-20210502-WA0025.jpg"
+        },
+        {
+            "id": 4369,
+            "title": "Create a Dummy Stock Market Using Geometric Brownian Motion in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/create-a-dummy-stock-market-using-geometric-brownian-motion-in-python/",
+            "authors": "Arnab Mondal",
+            "tags": "Advanced, Machine Learning, Maths, Python, Statistics, Structured Data",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "Create a replica of a financial stock market or this can be extended to the cryptocurrency market also using Geometric Brownian Motion",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/92495stock-market-trends-what-causes-stock-prices-to-change.jpg"
+        },
+        {
+            "id": 4370,
+            "title": "A Comprehensive Guide to Data Analysis using Pandas: Hands-On Data Analysis on IMDB movies data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-guide-to-data-analysis-using-pandas-hands-on-data-analysis-on-imdb-movies-data/",
+            "authors": "Lakshana G V",
+            "tags": "Beginner, Data Engineering, Libraries, Machine Learning, Pandas, Python, Structured Data, Technique",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "Pandas is one of the most famous data science tools and it's definitely a game-changer for cleaning, manipulating, and data analysis.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/512541_Io7MqMWpE5flq67RRD3lRw.jpeg"
+        },
+        {
+            "id": 4371,
+            "title": "Beginner\u2019s Guide to Image and Text Similarity",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/beginners-guide-to-image-and-text-similarity/",
+            "authors": "Rendyk",
+            "tags": "Advanced, Image, Image Analysis, Machine Learning, Python, Text, Unsupervised",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "In this article, we are going to understand Image and Text Similarity in Python. Let's get going and see how to implement it in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/image6.png"
+        },
+        {
+            "id": 4372,
+            "title": "Data Science In Gaming Industry",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/data-science-in-gaming-industry/",
+            "authors": "Sharvari Santosh",
+            "tags": "Beginner, Use Cases",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "Gaming is a rising industry everyone is looking up to. Let us understand how data science can be leveraged in gaming and pique your interest",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/56536igor-karimov-fXmmSz5KkO8-unsplash.jpg"
+        },
+        {
+            "id": 4373,
+            "title": "How to use APIs to gather data and conduct data analysis (Google and IBB\u00a0API)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-to-use-google-distance-matrix-api-to-gather-data-and-conduct-data-analysis-google-and-ibb-api/",
+            "authors": "Emre Uzel",
+            "tags": "Advanced, Data Mining, Programming, Project, Python, Technique",
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "Let's see how to pull data from Istanbul Municipality open data platform using API. and generate a new feature with Google Distance Matrix API",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/web-scraping_2.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9622,
+            "title": "Linear Regression in R",
+            "url": "https://machinelearningmastery.com/linear-regression-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-07-23T00:00:00",
+            "description": "In this post you will discover 4 recipes for linear regression for the R platform. You can copy and paste the recipes in this post to make a jump-start on your own problem or to learn and practice with linear regression in R. Let\u2019s get started. Each example in this post uses the longley dataset [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/ordinary-least-squares-regression.png"
+        },
+        {
+            "id": 9623,
+            "title": "Applied Machine Learning Lessons from A Case Study of Passenger Survival Prediction",
+            "url": "https://machinelearningmastery.com/applied-machine-learning-lessons-from-a-case-study-of-passenger-survival-prediction/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-07-21T00:00:00",
+            "description": "A valuable exercise when learning and practicing machine learning is to study how others apply methods and solve problems. It\u2019s valuable because you can learn about new processes, software, graphs, and algorithms. But it is new ways of thinking about the process of solving problems with machine learning that is the most valuable part of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/Passenger-Fate-by-Traveling-Class.jpeg"
+        },
+        {
+            "id": 9624,
+            "title": "Java Machine Learning",
+            "url": "https://machinelearningmastery.com/java-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-07-18T00:00:00",
+            "description": "In this post you will discover the major platforms and open source machine learning libraries you can use in Java.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/RapidMiner-Screenshot.jpg"
+        },
+        {
+            "id": 9625,
+            "title": "How to Tune Algorithm Parameters with Scikit-Learn",
+            "url": "https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-07-16T00:00:00",
+            "description": "Machine learning models are parameterized so that their behavior can be tuned for a given problem. Models can have many parameters and finding the best combination of parameters can be treated as a search problem. In this post, you will discover how to tune the parameters of machine learning algorithms in Python using the scikit-learn [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/fine-tuning.jpg"
+        },
+        {
+            "id": 9626,
+            "title": "Feature Selection in Python with Scikit-Learn",
+            "url": "https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-07-14T00:00:00",
+            "description": "Not all data attributes are created equal. More is not always better when it comes to attributes or columns in your dataset. In this post you will discover how to select attributes in your data before creating a machine learning model using the scikit-learn library. Let\u2019s get started. Update: For a more\u00a0recent\u00a0tutorial on feature\u00a0selection in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/feature-selection.jpg"
+        },
+        {
+            "id": 9627,
+            "title": "Rescaling Data for Machine Learning in Python with Scikit-Learn",
+            "url": "https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2014-07-11T00:00:00",
+            "description": "Your data must be prepared before you can build models. The data preparation process can involve three steps: data selection, data preprocessing and data transformation. In this post you will discover two simple data transformation methods you can apply to your data in Python using scikit-learn. Let\u2019s get started. Update: See this post for a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/Data-Rescaling.jpg"
+        },
+        {
+            "id": 9628,
+            "title": "How to Load Data in Python with Scikit-Learn",
+            "url": "https://machinelearningmastery.com/how-to-load-data-in-python-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-07-09T00:00:00",
+            "description": "Before you can build machine learning models, you need to load your data into memory. In this post you will discover how to load data for machine learning in Python using scikit-learn. Let\u2019s get started. Update March/2018: Added alternate link to download the dataset as the original appears to have been taken down. Packaged Datasets [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/load-csv-data.jpg"
+        },
+        {
+            "id": 9629,
+            "title": "Data Science Screencasts: A Data Origami Review",
+            "url": "https://machinelearningmastery.com/data-science-screencasts-a-data-origami-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-07-07T00:00:00",
+            "description": "Data Origami is a new website by Cameron Davidson-Pilon that provides data science screencasts. It is a cool idea and a cool site. Cameron was kind enough to give me access to the site so that I could review it. I watched all of the videos I could and wrote up all my notes, and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/data-origami.jpg"
+        },
+        {
+            "id": 9630,
+            "title": "Machine Learning is Kaggle Competitions",
+            "url": "https://machinelearningmastery.com/machine-learning-is-kaggle-competitions/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-07-04T00:00:00",
+            "description": "Julia Evans wrote a post recently titled \u201cMachine learning isn\u2019t Kaggle competitions\u201c. It was an interesting post because it pointed out an important truth. If you want to solve business problems using machine learning, doing well at Kaggle competitions is not a good indicator of that skills. The rationale is that the work required to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/racing-algorithms.jpg"
+        },
+        {
+            "id": 9631,
+            "title": "Machine Learning Communities",
+            "url": "https://machinelearningmastery.com/machine-learning-communities/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-07-02T00:00:00",
+            "description": "Online communities are invaluable in machine learning, regardless of your skill level. The reason is that, like programming, you never stop learning. You simply cannot know everything, there are always new algorithms, new data and new combinations to discover and practice. Communities help. You can get your questions answered, learn by answering other peoples questions [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/machine-learning-communities.jpg"
+        },
+        {
+            "id": 9632,
+            "title": "Books for Machine Learning with R",
+            "url": "https://machinelearningmastery.com/books-for-machine-learning-with-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-06-30T00:00:00",
+            "description": "In this post I point out the best books that you can use to get started in R for machine learning.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/applied-predictive-modeling.png"
+        },
+        {
+            "id": 9633,
+            "title": "Practical Advice for Getting Started in Machine Learning",
+            "url": "https://machinelearningmastery.com/practical-advice-for-getting-started-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-27T00:00:00",
+            "description": "David Mimno is an assistant professor in the Information Sciences department at Cornell University. He has a background and interest in Natural Language Processing (NLP), specifically topic modeling. Notably, he is the chief maintainer of MALLET, the Java-based NLP library. I recently came across a blog post by David titled \u201cAdvice for students of machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/machine-learning-a-probabilistic-approach.jpg"
+        },
+        {
+            "id": 9634,
+            "title": "Quick and Dirty Data Analysis with Pandas",
+            "url": "https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-06-25T00:00:00",
+            "description": "Before you can select and prepare your data for modeling, you need to understand what you\u2019ve got to start with. If you\u2019re a using the Python stack for machine learning, a library that you can use to better understand your data is Pandas. In this post you will discover some quick and dirty recipes for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/histogram_overlapping.png"
+        },
+        {
+            "id": 9635,
+            "title": "Prepare Data for Machine Learning in Python with Pandas",
+            "url": "https://machinelearningmastery.com/prepare-data-for-machine-learning-in-python-with-pandas/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-06-23T00:00:00",
+            "description": "If you are using the Python stack for studying and applying machine learning, then the library that you will want to use for data analysis and data manipulation is Pandas. This post gives you a quick introduction to the Pandas library and point you in the right direction for getting started. Let\u2019s get started. Data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/pandas-for-data-analysis.jpg"
+        },
+        {
+            "id": 9636,
+            "title": "Machine Learning Algorithm Recipes in scikit-learn",
+            "url": "https://machinelearningmastery.com/get-your-hands-dirty-with-scikit-learn-now/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2014-06-20T00:00:00",
+            "description": "You have to get your hands dirty. You can read all of the blog posts and watch all the videos in the world, but you\u2019re not actually going to start really get machine learning until you start practicing. The scikit-learn Python library is very easy to get up and running. Nevertheless I see a lot [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/plot_mean_shift_1.png"
+        },
+        {
+            "id": 9637,
+            "title": "The Best Machine Learning Algorithm",
+            "url": "https://machinelearningmastery.com/the-best-machine-learning-algorithm/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-06-18T00:00:00",
+            "description": "What is the best machine learning algorithm? I get this question a lot. Maybe even daily. Sometimes it\u2019s a general question. I figure people want to make sure they are learning the one true machine learning algorithm and not wasting their time on anything less. Most other times it is with regard to a specific [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/machine-learning-as-search.jpg"
+        },
+        {
+            "id": 9638,
+            "title": "Computer Hardware for Machine Learning",
+            "url": "https://machinelearningmastery.com/computer-hardware-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-06-16T00:00:00",
+            "description": "A question that comes up from time to time is: What hardware do I need to practice machine learning? There was a time when I was a student when I was obsessed with more speed and more cores so I could run my algorithms faster and for longer. I have changed my perspective. Big hardware [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/gpu-machine-learning.jpg"
+        },
+        {
+            "id": 9639,
+            "title": "How I Got Started In Machine Learning",
+            "url": "https://machinelearningmastery.com/how-i-got-started-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-13T00:00:00",
+            "description": "I get a lot of emails asking about how I got interested in machine learning and about my background. I don\u2019t think my story is special or interesting, but I\u2019m happy to share it and honored I\u2019m asked. This post feels a little self-indulgent. I figure it can be the definitive version of my story [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/optimization-algorithm-toolkit.jpg"
+        },
+        {
+            "id": 9640,
+            "title": "Machine Learning for Money",
+            "url": "https://machinelearningmastery.com/machine-learning-for-money/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-11T00:00:00",
+            "description": "A question I get asked a lot is: How can I make money with machine learning? You can get a job with your machine learning skills as a machine learning engineer, data analyst or data scientist. That is the goal of a great many people that contact me. There are also other options. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/machine-learning-for-money.jpg"
+        },
+        {
+            "id": 9641,
+            "title": "Work on Machine Learning Problems That Matter To You",
+            "url": "https://machinelearningmastery.com/work-on-machine-learning-problems-that-matter-to-you/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-09T00:00:00",
+            "description": "It is difficult to stay motivated when self-studying machine learning. The standard test datasets can be quite obtuse and disconnected from you and from your everyday life. Boring even. A trick that you might like to use is to find and work on a dataset that matters to you. In this\u00a0post, we will look at [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/machine-learning-fitness.jpg"
+        },
+        {
+            "id": 9642,
+            "title": "Build a Machine Learning Portfolio",
+            "url": "https://machinelearningmastery.com/build-a-machine-learning-portfolio/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-06T00:00:00",
+            "description": "Complete Small Focused Projects and Demonstrate Your Skills A portfolio is typically used by designers and artists to show examples of prior work to prospective clients and employers. Design, art and photography are examples where the work product is creative and empirical, where telling someone you can do it is not valued the same as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/exhibit-your-projects.jpg"
+        },
+        {
+            "id": 9643,
+            "title": "What Is Holding You Back From Your Machine Learning Goals?",
+            "url": "https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-04T00:00:00",
+            "description": "Identify and Tackle Your Self-Limiting\u00a0Beliefs and Finally Make Progress I get a lot of email from developers and students looking to get started in machine learning. The first question I ask them is what is stopping them from getting started? I try to get to the heart of what they are struggling with, and almost [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/dont-give-up.jpg"
+        },
+        {
+            "id": 9644,
+            "title": "The Missing Roadmap to Self-Study Machine Learning",
+            "url": "https://machinelearningmastery.com/machine-learning-roadmap-your-self-study-guide-to-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-06-02T00:00:00",
+            "description": "In this post I lay out a\u00a0concrete self-study roadmap for applied machine learning that you can use to orient yourself and figure out your next step. I think a lot about frameworks and systematic approaches (as evidenced on my blog). I would consider this post a vast expansion of my previous thoughts on a self-study [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/machine-learning-is-a-journey.jpg"
+        },
+        {
+            "id": 9645,
+            "title": "Data Cleaning: Turn Messy Data into Tidy Data",
+            "url": "https://machinelearningmastery.com/data-cleaning-turn-messy-data-into-tidy-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2014-05-30T00:00:00",
+            "description": "Data preparation is difficult because the process is not objective, or at least it does not feel that way. Questions like \u201cwhat is the best form of the data to describe the problem?\u201d are not objective. You have to think from the perspective of the problem you want to solve and try a few different [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/tidy-data.jpg"
+        },
+        {
+            "id": 9646,
+            "title": "The Data Analytics Handbook: Researchers and Academics Review",
+            "url": "https://machinelearningmastery.com/the-data-analytics-handbook-researchers-and-academics-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-05-28T00:00:00",
+            "description": "What is\u00a0the difference between a Data Analyst and a Data Scientist. This question is considered from the\u00a0perspective of researchers and academics in the third instalment in the series of The Data Analytics\u00a0Handbook. The first book contained 7 interviews with\u00a0working analysts and data scientists. The second book contained 9 interviews with CEOs and managers. This third [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/The-Data-Analytics-Handbook-Researchers-and-Academics.jpg"
+        },
+        {
+            "id": 9647,
+            "title": "Machine Learning with Quantum Computers",
+            "url": "https://machinelearningmastery.com/machine-learning-with-quantum-computers/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-05-26T00:00:00",
+            "description": "I recently watched a Google Tech Talk with Eric Ladizinsky who visited the Quantum AI Lab at Google to talk about his D-Wave quantum computer. The talk is called Evolving Scalable Quantum Computers and is great, I highly recommend it. I\u2019ve had quantum computing on my mind and another tech talk went by titled Quantum [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/quantum-machine-learning.jpg"
+        },
+        {
+            "id": 9648,
+            "title": "Machine Learning that Matters",
+            "url": "https://machinelearningmastery.com/machine-learning-that-matters/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-05-23T00:00:00",
+            "description": "Reading bootstrapping machine learning, Louis mentioned a paper that I had to go off and read. The title of the paper is Machine Learning that Matters\u00a0(PDF) by Kiri Wagstaff from JPL and was published in 2012. Kiri\u2019s thesis is that the machine learning research community has lost its way. She suggests that much of machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/machine-learning-that-matters.jpg"
+        },
+        {
+            "id": 9649,
+            "title": "Bootstrapping Machine Learning: Book Review",
+            "url": "https://machinelearningmastery.com/bootstrapping-machine-learning-book-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-05-21T00:00:00",
+            "description": "Louis Dorard has released his book titled Bootstrapping Machine Learning. It\u2019s a book that provides a gentle introduction to the field of machine learning targeted at developers and start-ups with a focus on prediction APIs. I just finished reading this book and I want to share some my thoughts. If you are interested, I have [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/04/bootstrapping-machine-learning-cover-web.jpg"
+        },
+        {
+            "id": 9650,
+            "title": "Lessons for Machine Learning from Econometrics",
+            "url": "https://machinelearningmastery.com/lessons-for-machine-learning-from-econometrics/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-05-19T00:00:00",
+            "description": "Hal Varian is the chief economist at Google and gave a talk to Electronic Support Group at EECS Department at the University of California at Berkeley in November 2013. The talk was titled Machine Learning and Econometrics and was really focused on what lessons the machine learning can take away from the field of Econometrics. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/google-correlate-example.jpg"
+        },
+        {
+            "id": 9651,
+            "title": "The Data Analytics Handbook: CEOs and Managers",
+            "url": "https://machinelearningmastery.com/the-data-analytics-handbook-ceos-and-managers/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-05-14T00:00:00",
+            "description": "In a previous blog post we looked at the ebook of interviews with data analysts and data scientists\u00a0put together by Liou, Tao and Lin. In this blog post we look at the second book in the series titled The Data Analytics Handbook CEOs and Managers. What are managers looking for in a Data Analyst and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/05/the-data-analytics-handbook-ceos-and-managers.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10187,
+            "title": "What is Zero Shot Object Tracking?",
+            "url": "https://blog.roboflow.com/zero-shot-object-tracking/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-08-23T00:00:00",
+            "description": "We are exciting to announce that you can now track objects frame over frame in video and camera stream using the Roboflow Inference API and the open source zero shot object tracking repository, without having to train a separate classifier for your object track features.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/object_tracking.001.jpeg"
+        },
+        {
+            "id": 10188,
+            "title": "ImageNet contains naturally occurring NeuralHash collisions",
+            "url": "https://blog.roboflow.com/neuralhash-collision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "NeuralHash is the perceptual hashing model that back's Apple's new CSAM (child sexual abuse material) reporting mechanism. It's an algorithm that takes an image as input and returns a 96-bit unique identifier (a hash) that should match for two images that are \"the same\" (besides some minor perturbations like JPEG",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/collision.jpg"
+        },
+        {
+            "id": 10189,
+            "title": "Mitigating the Collision of Apple's  CSAM NeuralHash",
+            "url": "https://blog.roboflow.com/apples-csam-neuralhash-collision/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-08-18T00:00:00",
+            "description": "This morning, Hacker News was ablaze with several stories about vulnerabilities in Apple's CSAM NeuralHash algorithm. Researchers had found a way to convert the NeuralHash model to ONNX format and reverse engineer a hash collision (in other words: they created an artificial image with the same hash as a real",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/neuralhash.jpg"
+        },
+        {
+            "id": 10190,
+            "title": "What is CoreML?",
+            "url": "https://blog.roboflow.com/what-is-coreml/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-08-16T00:00:00",
+            "description": "\"ML in a Minute\" is our conversational series on answering machine learning questions. Have questions you want answered? Tweet at us. Be sure to subscribe to our channel: https://bit.ly/rf-yt-subWhat is CoreML (in 60 Seconds or Fewer)?CoreML is Apple's machine learning framework for doing on device inference.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/what-is-coreml.jpeg"
+        },
+        {
+            "id": 10191,
+            "title": "Roboflow Universe: the Computer Vision Community",
+            "url": "https://blog.roboflow.com/universe/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-08-11T00:00:00",
+            "description": "We\u2019re excited to introduce Roboflow Universe, the new hub for computer vision datasets and pre-trained models.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/universe-open-graph-2.png"
+        },
+        {
+            "id": 10192,
+            "title": "What is OpenVINO?",
+            "url": "https://blog.roboflow.com/what-is-openvino/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-08-09T00:00:00",
+            "description": "\"ML in a Minute\" is our conversational series on answering machine learning questions. Have questions you want answered? Tweet at us. What is OpenVINO (in 60 Seconds or Fewer)?OpenVINO is a machine learning framework published by Intel to allow you to run machine learning models on their hardware. One",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/what-is-openvino.jpeg"
+        },
+        {
+            "id": 10193,
+            "title": "Roboflow Changelog: August 2021",
+            "url": "https://blog.roboflow.com/changelog-august-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-08-07T00:00:00",
+            "description": "Each month we share a recap of our monthly updates and releases in the Roboflow Changelog. The previous Changelog is available here. In July, the product team's major emphasis was on a new product we'll be releasing at our Launch Party on Wednesday, August 11; hope to see you there",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/august-changelog.jpg"
+        },
+        {
+            "id": 10194,
+            "title": "Using Computer Vision to Accelerate Microbiology Research and Combat Antibiotic Resistance",
+            "url": "https://blog.roboflow.com/using-computer-vision-microbiology/",
+            "authors": "Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2021-08-07T00:00:00",
+            "description": "Michael Shamash is a Master\u2019s student in the Maurice Lab at Canada's McGill University. Michael used Roboflow to streamline the production of a model and iOS app for use in microbiology.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/one-petri-facebook.png"
+        },
+        {
+            "id": 10195,
+            "title": "Transformers Take Over Object Detection",
+            "url": "https://blog.roboflow.com/transformers-take-over-object-detection/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-08-06T00:00:00",
+            "description": "It seemed just like a matter of time... and now the Transformers neural networks have landed - Microsoft's DyHead achieves state of the art object detection using a Transformer backbone.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/trasnformers_od.001.jpeg"
+        },
+        {
+            "id": 10196,
+            "title": "How to Train YOLOX On a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-yolox-on-a-custom-dataset/",
+            "authors": "Samrat Sahoo, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-08-02T00:00:00",
+            "description": "The YOLO family continues to grow with the next model: YOLOX. In this post, we will walk through how you can train YOLOX to recognize object detection data for your custom use case.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/train_yolox.001.jpeg"
+        },
+        {
+            "id": 10197,
+            "title": "What is ONNX?",
+            "url": "https://blog.roboflow.com/what-is-onnx/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-08-01T00:00:00",
+            "description": "ONNX is an intermediary machine learning framework used to convert between different machine learning frameworks.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/what_is_onnx.jpeg"
+        },
+        {
+            "id": 10198,
+            "title": "Roboflow for Students and Universities",
+            "url": "https://blog.roboflow.com/roboflow-for-students-and-universities/",
+            "authors": "Joseph Nelson, Mohamed Traore",
+            "tags": null,
+            "publishedOn": "2021-07-30T00:00:00",
+            "description": "We've seen tremendous interest in Roboflow from the research community. Faculty and students from institutions ranging from California to Malta to Taiwan have been using Roboflow to accelerate their computer vision work.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/07/roboflow-for-students.png"
+        },
+        {
+            "id": 10199,
+            "title": "What is CUDA?",
+            "url": "https://blog.roboflow.com/what-is-cuda/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "CUDA is NVIDIA's framework for using GPUs \u2013 graphical processing units \u2013 to do general purpose operations.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/08/blog_images_v3-ongoing.001.jpeg"
+        },
+        {
+            "id": 10200,
+            "title": "Active Learning Tips: How to Continuously Improve Your Production Model",
+            "url": "https://blog.roboflow.com/computer-vision-active-learning-tips/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-07-26T00:00:00",
+            "description": "You've built your first model and plan to get it deployed to production. Now what? Like any software, the computer vision model needs to be continuously improved for potential edge cases. This process actually starts before we bring our model into production, and it continues after deployment. Our models are",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/active-learning.001.jpeg"
+        },
+        {
+            "id": 10201,
+            "title": "Experimenting with CLIP and VQGAN to Create AI Generated Art",
+            "url": "https://blog.roboflow.com/ai-generated-art/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-07-25T00:00:00",
+            "description": "Earlier this year, OpenAI announced a powerful art-creation model called DALL-E. Their model hasn't yet been released but it has captured the imagination of a generation of hackers, artists, and AI-enthusiasts who have been experimenting with using the ideas behind it to replicate the results on their own. The magic",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/ai-generated-art.jpg"
+        },
+        {
+            "id": 10202,
+            "title": "Announcing On-Prem and Offline Mode for Roboflow Deploy",
+            "url": "https://blog.roboflow.com/enterprise-deployment/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-07-21T00:00:00",
+            "description": "With Roboflow, you can train a custom computer vision model in one click and get an infinitely scalable API to receive predictions and you can also deploy directly to devices like the NVIDIA Jetson, OpenCV AI Kit, and even directly into users' web browsers. But what if you have a",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/enterprise-deployment.jpg"
+        },
+        {
+            "id": 10203,
+            "title": "Using Computer Vision to Clean the World's Oceans",
+            "url": "https://blog.roboflow.com/computer-vision-clean-oceans/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-07-19T00:00:00",
+            "description": "Global plastic production has exceeded 500 million tons. Moreover, estimates from the US Environmental Protection Agency indicate that 30 percent of all produced plastic will end up in the oceans. With this in mind, researchers Gautam Tata, Sarah-Jeanne Royer, Olivier Poirion, and Jay Lowe from CSU Monterey Bay, The Ocean",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/blog_images_v3-ongoing.001-1.jpeg"
+        },
+        {
+            "id": 10204,
+            "title": "5 Reasons to not Fully Outsource Labeling",
+            "url": "https://blog.roboflow.com/reasons-to-not-outsource-labeling/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-07-16T00:00:00",
+            "description": "So you're working on building a machine learning model, and you have hit the realization that you will need to annotate a lot of data to build a performant model. In the machine learning meta today, you will be bombarded with services offering to fully outsource your labeling woes.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/full_outsource.001.jpeg"
+        },
+        {
+            "id": 10205,
+            "title": "Solving the Out of Scope Problem",
+            "url": "https://blog.roboflow.com/out-of-scope/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-07-16T00:00:00",
+            "description": "When we are teaching a machine learning model to recognize items of interest, we often take a laser focus towards gathering a dataset that is representative of the task we want our algorithm to master.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/oos_roboflow.001.jpeg"
+        },
+        {
+            "id": 10206,
+            "title": "How AI Protects My Garden from Rabbits",
+            "url": "https://blog.roboflow.com/rabbit-deterrence-system/",
+            "authors": "Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2021-07-12T00:00:00",
+            "description": "Rabbits were eating all of my vegetables. I decided to take a stand and implement a computer vision enabled system to automatically spook them away from my garden.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/deterring_rabbits.001.jpeg"
+        },
+        {
+            "id": 10207,
+            "title": "Announcing Image Classification Support, End to End",
+            "url": "https://blog.roboflow.com/classification-end-to-end/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "We are excited to announce full support for image classification in Roboflow, from image collection and organization, to annotation, to custom training, and deployment.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/image_classification.001.jpeg"
+        },
+        {
+            "id": 10208,
+            "title": "How Atos Uses Computer Vision to Monitor Office Occupancy",
+            "url": "https://blog.roboflow.com/computer-vision-people-counting-atos/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-07-07T00:00:00",
+            "description": "Building &amp; deploying a privacy-first model to the edge with Roboflow in 60 days The COVID-19 pandemic changed how and where we work. Fortunately, in some countries, the pandemic appears to be nearing its final act. As companies around the globe make measured decisions regarding returning to the office, keeping",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/atos-roboflow-case-study.jpeg"
+        },
+        {
+            "id": 10209,
+            "title": "How Your Favorite Brands Are Using Computer Vision",
+            "url": "https://blog.roboflow.com/how-your-favorite-brands-are-using-computer-vision/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-07-05T00:00:00",
+            "description": "If you\u2019ve ever tried to explain how computer vision works to your friends, family or colleagues, you probably know that it can be hard to do. This is especially true if you start using the common jargon (e.g. neural networks, hyperparameters, machine learning), as these terms can sometimes",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/blog_images_v3-ongoing.001.jpeg"
+        },
+        {
+            "id": 10210,
+            "title": "Roboflow Changelog: July 2021",
+            "url": "https://blog.roboflow.com/changelog-july-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-07-04T00:00:00",
+            "description": "Welcome to this month's installment of the Roboflow Changelog highlighting all the updates we've pushed in the past month. The update for last month can be found here. In June we pushed our major revamp of the backend that supports collaboration between team members (\"Workspaces\"). It's now easier for teams",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/july.jpg"
+        },
+        {
+            "id": 10211,
+            "title": "How to Train YOLOR on a Custom Dataset",
+            "url": "https://blog.roboflow.com/train-yolor-on-a-custom-dataset/",
+            "authors": "Samrat Sahoo, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-07-02T00:00:00",
+            "description": "The YOLO family recently got a new champion - YOLOR: You Only Learn One Representation. In this post, we will walk through how you can train YOLOR to recognize object detection data for your custom use case.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/07/how_to_train_yolor.001.jpeg"
+        },
+        {
+            "id": 10212,
+            "title": "Choosing the Right Problem Statement",
+            "url": "https://blog.roboflow.com/choosing-the-right-problem-statement/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "Creating a computer vision model, at the outset, seems like a pretty involved task. Even if you\u2019re using an end-to-end solution like Roboflow, the process will always require you to source and aggregate starting data (images), generate versions of each dataset, train different variations of your model and then",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/blog_images_v2_pptx.pptx--7-.jpg"
+        },
+        {
+            "id": 10213,
+            "title": "An Introduction to ImageNet",
+            "url": "https://blog.roboflow.com/introduction-to-imagenet/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "The ImageNet dataset is long-standing landmark in computer vision.  The impact ImageNet has had on computer vision research is driven by the dataset's size and semantic diversity. Let's dive into the ins and outs of the ImageNet dataset.  ImageNet Dataset CreationThe ImageNet dataset was created by a group of professors",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/into_to_imagenet.001.jpeg"
+        },
+        {
+            "id": 10214,
+            "title": "Announcing Classification Support for Roboflow Annotate",
+            "url": "https://blog.roboflow.com/label-classification/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-06-27T00:00:00",
+            "description": "When it launched in early 2020, Roboflow was primarily a tool for converting object detection datasets. As the months have gone on we have expanded its capabilities to include collaboration, training, deployment, and annotation. We have supported uploading, augmenting, and converting classification datasets for models like OpenAI's CLIP but the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/label-classification.jpg"
+        },
+        {
+            "id": 10215,
+            "title": "What is the JAX Deep Learning Framework?",
+            "url": "https://blog.roboflow.com/jax-framework/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "You've probably heard of TensorFlow and PyTorch, and maybe you've even heard of MXNet - but there is a new kid on the block of machine learning frameworks - Google's JAX.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/what_is_jax.001.jpeg"
+        },
+        {
+            "id": 10216,
+            "title": "For the People, By the People",
+            "url": "https://blog.roboflow.com/for-the-people-by-the-people/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Computer vision, on the whole, is an ambitious undertaking. We are developing technology that can see the world as we see it - to recognize simple objects like trees and croissants, and more complex occurrences like oil and methane leaks. Today, models can even read license plates and receipts. Computer",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/blog_images_v2_pptx.pptx--5-.jpg"
+        }
+    ]
+}

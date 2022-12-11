@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4194,
+            "title": "Implementing Transformers in NLP Under 5 Lines Of Codes",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/implementing-transformers-in-nlp-under-5-lines-of-codes/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Advanced, Deep Learning, Libraries, NLP, Python, Unsupervised",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "Today, we will see a gentle introduction and implementing the transformers library for state-of-the-art models for complex NLP tasks .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/36882NLP-e1595362635214.jpg"
+        },
+        {
+            "id": 4195,
+            "title": "K-Means Clustering Algorithm with R: A Beginner\u2019s Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-algorithm-with-r-a-beginners-guide/",
+            "authors": "Shivam Sharma",
+            "tags": "Beginner, Classification, Clustering, Machine Learning, Project, Python, R",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "K\u2013means clustering algorithm is an unsupervised machine learning technique. This article is a beginner's guide to k-means clustering with R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 4196,
+            "title": "How can we implement Logistic Regression?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/how-can-we-implement-logistic-regression/",
+            "authors": "Sarvagya Agrawal",
+            "tags": "Beginner, Classification, Machine Learning, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "In this article, we will be learning about Logistic Regression and how to implement logistic regression in python with code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/95170Logistic-Regression-in-Python.png"
+        },
+        {
+            "id": 4197,
+            "title": "Image Classification with Tensorflow: Data Augmentation on Streaming Data (Part 2)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/image-classification-with-tensorflow-data-augmentation-on-streaming-data-part-2/",
+            "authors": "Gargeya Sharma",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "In this article, we will create a binary image classifier and will sew how to use data augmentation on streaming data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/52303Travel-and-Guide-Facebook-Cover-PART-2.png"
+        },
+        {
+            "id": 4198,
+            "title": "Custom Text Classification on Android using TensorFlow Lite",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/custom-text-classification-on-android-using-tensorflow-lite/",
+            "authors": "Nitin Tiwari",
+            "tags": "Advanced, Classification, NLP, Skilltest, Structured Data, Supervised, Text",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "In this article, we are going to look at the working of Custom Text Classification on Android using TensorFlow Lite in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Keyword-Extraction-using-TextRank-and-textaCy.jpg"
+        },
+        {
+            "id": 4199,
+            "title": "Food Classification Using Transfer Learning And TensorFlow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/food-classification-using-transfer-learning-and-tensorflow/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "We apply state of the art Transfer Leanirng approach and Tensorflow framework to build a machine learning model for food classification",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 4200,
+            "title": "All You Need to know about BERT",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-bert/",
+            "authors": "Raman Kumar",
+            "tags": "Advanced, NLP, Project, Python, Structured Data, Technique, Text",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "BERT stands for Bidirectional Encoder Representation from Transformer and uses deep bidirectional layers of transformers encoders",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/30261Webp.net-resizeimage.jpg"
+        },
+        {
+            "id": 4201,
+            "title": "Geospatial visualization via\u00a0Folium Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/geospatial-visualization-via-folium-library/",
+            "authors": "Shivangi Sharma",
+            "tags": "Advanced, Data Visualization, Libraries, Machine Learning, Python, Structured Data, Unsupervised, Use Cases",
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "Folium is a powerful python library specialized in creating several types of Leaflet maps and used for interpreting insights from maps",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/39563Copy-of-Untitled-Design-1.png"
+        },
+        {
+            "id": 4202,
+            "title": "Gradient Descent From Scratch",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/gradient-descent-from-scratch-complete-intuition/",
+            "authors": "Raghav Agrawal",
+            "tags": "Algorithm, Beginner, Linear Regression, Machine Learning, Maths, Python, Statistics",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "In this article, we will explain what is Gradient descent from scratch, why it is important, and pick you up with simple math examples.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/assumption-of-linear-regression.png"
+        },
+        {
+            "id": 4203,
+            "title": "5 Regression Algorithms you should know \u2013 Introductory Guide!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Listicle, Machine Learning, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "In ML, we use various kinds of regression algorithms to allow machines to learn the relationships within data provided and make predictions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/14827regre1.png"
+        },
+        {
+            "id": 4204,
+            "title": "Deep Learning for Image Super-Resolution",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/deep-learning-for-image-super-resolution/",
+            "authors": "Yash Khandelwal",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Python, Structured Data, Unsupervised",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "Image super-resolution (SR) is the important process of recovering high-resolution (HR) images from low-resolution (LR) images.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/19681sr.jpg"
+        },
+        {
+            "id": 4205,
+            "title": "Tuning the Hyperparameters and Layers of Neural Network Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/tuning-the-hyperparameters-and-layers-of-neural-network-deep-learning/",
+            "authors": "Rendyk",
+            "tags": "Advanced, Deep Learning, Python, Structured Data, Unsupervised",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "In this article, we demonstrate the process to tune 2 things of deep Learning: (1) the hyperparameters and (2) the layers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/572874.jpg"
+        },
+        {
+            "id": 4206,
+            "title": "Statewise Covid-19 Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/statewise-covid-19-analysis/",
+            "authors": "Nandita S",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "This blog is aimed towards Statewise Covid-19 Analysis of the cases prevailing in the Indian States caused by an year-long pandemic",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 4207,
+            "title": "Natural Language Processing Step by Step Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/natural-language-processing-step-by-step-guide/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Advanced, NLP, Python, Structured Data, Text, Unsupervised",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "Natural Language Processing algorithms are widely used everywhere in areas like Gmail spam, any search, games, and many more.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/36882NLP-e1595362635214.jpg"
+        },
+        {
+            "id": 4208,
+            "title": "Forecasting in Pharmaceutical Industry (Patient-Level) \u2013 Part 1",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/forecasting-in-pharmaceutical-industry-patient-level-part-1/",
+            "authors": "Himanshu Kunwar",
+            "tags": "Healthcare, Intermediate, Machine Learning, Use Cases",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "This series of articles will enlighten you about different forecasting methods in the pharmaceutical industry that takes place",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Data-Science-Blogathon-Share-Your-Knowledge-and-Win-Prizes.jpg"
+        },
+        {
+            "id": 4209,
+            "title": "Introduction to Python Programming (Beginner\u2019s Guide)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/introduction-to-python-programming-beginners-guide/",
+            "authors": "KK",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "Python is a high-level object-oriented programming language, created by Guido van Rossum. It is a general-purpose programming language",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/44895python.jpg"
+        },
+        {
+            "id": 4210,
+            "title": "20 Questions to Test your Skills on CNN (Convolutional Neural Networks)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-cnn-convolutional-neural-networks/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Advanced, Computer Vision, Deep Learning, Interview Questions, Interviews, Profile Building",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "In this article, we will discuss the most important questions on the Convolutional Neural Networks(CNN)\u00a0that will help you clear interviews",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/46079cnn.jpg"
+        },
+        {
+            "id": 4211,
+            "title": "Solving Sudoku From Image Using Deep Learning \u2013 With Python Code",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/solving-sudoku-from-image-using-deep-learning-with-python-code/",
+            "authors": "Akshay Gupta",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Libraries, Project, Python, Unstructured Data",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "In this article, we are going to build a model that will be used to solve unsolved Sudoku puzzles from an image using deep learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Image-Caption-Generator.jpg"
+        },
+        {
+            "id": 4212,
+            "title": "Simplifying Maths behind Principal Component Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/simplifying-maths-behind-pca/",
+            "authors": "Himanshu Kunwar",
+            "tags": "Beginner, Machine Learning, Maths, Project, Python",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "In this article, we will discuss the basic maths behind PCA with python implementation from scratch for data science beginners",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/20418gan2.jpeg"
+        },
+        {
+            "id": 4213,
+            "title": "All you need to know about your first Machine Learning model \u2013 Linear Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/",
+            "authors": "Deepanshi",
+            "tags": "Beginner, Linear Regression, Machine Learning",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "Linear Regression is the supervised ML model in which the model finds the best fit linear line between the independent and dependent variable",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/assumption-of-linear-regression.png"
+        },
+        {
+            "id": 4214,
+            "title": "Detailed Guide To Bayesian Decision Theory \u2013 Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/detailed-guide-to-bayesian-decision-theory-part-2/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "Now, in this article, we will be going through some of the advanced concepts for the Bayesian decision theory for data scientists",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/56782bayes.jpg"
+        },
+        {
+            "id": 4215,
+            "title": "Computer Vision Using OpenCV \u2013 With Practical Examples",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/computer-vision-using-opencv-with-practical-examples/",
+            "authors": "Akshay Gupta",
+            "tags": "Computer Vision, Image Analysis, Intermediate, Libraries, Unstructured Data",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "OpenCV is a very famous library for image processing tasks. In this article we will see different techniques of computer vision using opencv.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg"
+        },
+        {
+            "id": 4216,
+            "title": "Getting familiar with PyCaret for anomaly detection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/getting-familiar-with-pycaret-for-anomaly-detection/",
+            "authors": "Shivangi Sharma",
+            "tags": "Data Engineering, Data Visualization, Intermediate, Libraries, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "In this article, we are going to get familiar with PyCaret anomaly detection in Python. Anomaly detection helps in finding patterns.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/77926Copy-of-Untitled-Design-1.png"
+        },
+        {
+            "id": 4217,
+            "title": "K-Means clustering with Mall Customer Segmentation Data | Full Detailed Code and Explanation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/k-means-clustering-with-mall-customer-segmentation-data-full-detailed-code-and-explanation/",
+            "authors": "Prateek Majumder",
+            "tags": "Algorithm, Beginner, Machine Learning, Structured Data, Unsupervised",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "K-Means clustering is a type of unsupervised machine learning in which the algorithm processes our data and divided them into \"clusters\".",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ebook_machine_learning_starter_program.jpg"
+        },
+        {
+            "id": 4218,
+            "title": "Bitcoin Price Prediction Using Recurrent Neural Networks and LSTM",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/bitcoin-price-prediction-using-recurrent-neural-networks-and-lstm/",
+            "authors": "Ana Lucia Lima",
+            "tags": "Advanced, Machine Learning, Programming, Project, Python, Stock Trading, Structured Data, Supervised, Time Series Forecasting",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "In this article, we discuss Bitcoin Price Prediction by analyzing the information of the last 6 years. We implemented a time-series model",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/34084Bitcoin-Article-Cover-Image-3-scaled.jpg"
+        },
+        {
+            "id": 4219,
+            "title": "One-stop-shop for Connecting Snowflake to Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/one-stop-shop-for-connecting-snowflake-to-python/",
+            "authors": "Himanshu Kunwar",
+            "tags": "Advanced, Cloud Computing, Data Engineering, Machine Learning, Python",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "In this article, our main focus will be connecting python to snowflakes and a few errors which we encounter when connecting to python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/interpretability-in-ml.jpg"
+        },
+        {
+            "id": 4220,
+            "title": "Top 5 Essential Data Science Tools",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/top-5-essential-data-science-tools/",
+            "authors": "Neelu Tiwari",
+            "tags": "Beginner, Listicle, Machine Learning",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "Data science tools are extremely helpful in developing and growing data science. In this blog, we will understand the top data science tools.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Tools-used-for-Data-Science-and-Big-Data.jpg"
+        },
+        {
+            "id": 4221,
+            "title": "20 Questions to Test Your Skills on Feature Engineering and EDA",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-feature-engineering-and-eda/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Exploration, Interviews, Listicle, Machine Learning",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "In this article, we will discuss the most important questions on the Feature Engineering and EDA, helpful to get you a clear understanding.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/29850eda.png"
+        },
+        {
+            "id": 4222,
+            "title": "Beginners Guide to Artificial Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/beginners-guide-to-artificial-neural-network/",
+            "authors": "Deepanshi",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "Artificial Neural Network is a set of algorithms. This article is a beginners guide to learn about the basics of ANN and its working",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/file-20170505-21003-zbguhy.jpg"
+        },
+        {
+            "id": 4223,
+            "title": "Item-based Collaborative Filtering : Build Your own Recommender System!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/item-based-collaborative-filtering-build-your-own-recommender-system/",
+            "authors": "Saumyab271",
+            "tags": "Beginner, Data Science, Recommendation",
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "we will go through the basics of Item-based Collaborative Filtering, how items are recommended to users, and implement the same in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/recommendation-system.png"
+        }
+    ]
+}

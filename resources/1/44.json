@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1274,
+            "title": "Amazon Rekognition announces updates to its face detection, analysis, and recognition capabilities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-announces-updates-to-its-face-detection-analysis-and-recognition-capabilities/",
+            "authors": "Ranju Das, Venkatesh Bagaria",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2018-11-21T00:00:00",
+            "description": "Today we are announcing updates to our face detection, analysis, and recognition features. These updates provide customers with improvements in the ability to detect more faces from images, perform higher accuracy face matches, and obtain improved age, gender, and emotion attributes for faces in images. Amazon Rekognition customers can use each of these enhancements starting [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/22/rekognition-nov-2.jpg"
+        },
+        {
+            "id": 1275,
+            "title": "Building a conversational business intelligence bot with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-conversational-business-intelligence-bot-with-amazon-lex/",
+            "authors": "Brian Yost",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2018-11-21T00:00:00",
+            "description": "Conversational interfaces are transforming the way people interact with software applications and services. They are untethering people from keyboards and smartphone gestures by replacing those interfaces with a more natural style of interaction: the spoken word. Increasingly, people are opting to interact with a bot when they need an answer to a question, to set [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/21/bibot-5.gif"
+        },
+        {
+            "id": 1276,
+            "title": "New Features For Amazon SageMaker: Workflows, Algorithms, and Accreditation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-workflows-algorithms-and-accreditation/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-21T00:00:00",
+            "description": "We\u2019ve seen a ton of progress in machine learning during the past 12 months, with customers using Amazon SageMaker \u2013 a fully-managed service which has put ML into the hands of tens of thousands of developers and data scientists \u2013 to find fraud, predict pitches, and tune engines. We\u2019ve added nearly 100 new features and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1277,
+            "title": "Amazon Transcribe now supports real-time transcriptions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-now-supports-real-time-transcriptions/",
+            "authors": "Paul Zhao, Paul Kohan",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2018-11-20T00:00:00",
+            "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to applications. We\u2019re excited to announce a new feature called Streaming Transcription, which enables users to pass a live audio stream to our service and receive text transcripts in real time. Real-time transcriptions benefit use cases [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg"
+        },
+        {
+            "id": 1278,
+            "title": "Easily monitor and visualize metrics while training models on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easily-monitor-and-visualize-metrics-while-training-models-on-amazon-sagemaker/",
+            "authors": "Sifei Li, Andrew Packer, Sumit Thakur",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "Data scientists and developers can now quickly and easily access, monitor, and visualize metrics that are computed while training machine learning models on Amazon SageMaker. You can now specify the metrics you want to track by using the AWS Management Console for Amazon SageMaker or by using the Amazon SageMaker Python SDK APIs. After the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/monitor-metrics-sagemaker-5.gif"
+        },
+        {
+            "id": 1279,
+            "title": "Detect suspicious IP addresses with the Amazon SageMaker IP Insights algorithm",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-suspicious-ip-addresses-with-the-amazon-sagemaker-ip-insights-algorithm/",
+            "authors": "Jared Katzman, Baris Coskun",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "Today, we are announcing the new IP Insights algorithm for\u00a0Amazon SageMaker. IP Insights is an unsupervised learning algorithm for detecting\u00a0anomalous behavior\u00a0and usage patterns of IP addresses. In this blog post, we introduce the problem of identifying fraudulent behavior using IP addresses, describe the Amazon SageMaker IP Insights algorithm, demonstrate how you can use it in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/ip-insights-2.gif"
+        },
+        {
+            "id": 1280,
+            "title": "Analyze live video at scale in real time using Amazon Kinesis Video Streams and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyze-live-video-at-scale-in-real-time-using-amazon-kinesis-video-streams-and-amazon-sagemaker/",
+            "authors": "Aditya Krishnan, Jagadeesh Pusapadi",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Kinesis Video Streams",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "We are excited to announce the launch of the Amazon Kinesis Video Streams Inference Template (KIT) for Amazon SageMaker. This capability enables customers to attach Kinesis Video streams to Amazon SageMaker endpoints in minutes. This drives real-time\u00a0inferences without having to use any other libraries or write custom software to integrate the services. The KIT comprises [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/kinesis-sagemaker-nov-9.gif"
+        },
+        {
+            "id": 1281,
+            "title": "Amazon SageMaker Automatic Model Tuning becomes more efficient with warm start of hyperparameter tuning jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-becomes-more-efficient-with-warm-start-of-hyperparameter-tuning-jobs/",
+            "authors": "Patricia Grao, Fan Li, Fela Winkelmolen",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "Earlier this year, we launched Amazon SageMaker Automatic Model Tuning, which allows developers and data scientists to save significant time and effort in training and tuning their machine learning models. Today, we are launching warm start of hyperparameter tuning jobs in Automatic Model Tuning. Data scientists and developers can now create a new hyperparameter tuning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1282,
+            "title": "Build Your Own Natural Language Models on AWS (no ML experience required)",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-your-own-natural-language-models-on-aws-no-ml-experience-required/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-11-19T00:00:00",
+            "description": "At AWS re:Invent last year we announced Amazon Comprehend, a natural language processing service which extracts key phrases, places, peoples\u2019 names, brands, events, and sentiment from unstructured text. Comprehend \u2013 which is powered by sophisticated deep learning models trained by AWS \u2013 allows any developer to add natural language processing to their applications without requiring [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/Social-AmazonComprehendDocumentClassificationAPI_800x400.png"
+        },
+        {
+            "id": 1283,
+            "title": "Getting Started with Amazon Comprehend custom entities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-comprehend-custom-entities/",
+            "authors": "Nino Bice",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-11-16T00:00:00",
+            "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. We released an update to\u00a0Amazon Comprehend\u00a0enabling support for private, custom entity types. Customers can now train state-of-the-art entity recognition models to extract their specific terms, completely automatically. No machine learning experience required. For example, financial [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/16/comprehend-custom-entities-4-2.gif"
+        },
+        {
+            "id": 1284,
+            "title": "Amazon Polly adds Italian and Castilian Spanish voices, and Mexican Spanish language support",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-adds-italian-and-castilian-spanish-voices-and-mexican-spanish-language-support/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-11-12T00:00:00",
+            "description": "Amazon Polly is an AWS service that turns text into lifelike speech. This pre-trained service requires no machine learning skills to easily integrate AI into your applications. In addition to the previously available Italian voices Carla and Giorgio, we have now added a second female Italian voice. Listen to the introduction by Bianca. Listen\u00a0now Voiced [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1285,
+            "title": "Introduction to Amazon SageMaker Object2Vec",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/",
+            "authors": "David Ping, Bing Xiang, Patrick Ng, Ramesh Nallapati, Saswata Chakravarty, Cheng Tang",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-08T00:00:00",
+            "description": "In this blog post, we\u2019re introducing the Amazon SageMaker Object2Vec algorithm, a new highly customizable multi-purpose algorithm that can learn low dimensional dense embeddings of high dimensional objects. Embeddings are an important feature engineering technique in machine learning (ML). They convert high dimensional vectors into low-dimensional space to make it easier to do machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/06/sagemaker-object2vec-1.gif"
+        },
+        {
+            "id": 1286,
+            "title": "K-means clustering with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/k-means-clustering-with-amazon-sagemaker/",
+            "authors": "Gitansh Chadha, Piali Das, Zohar Karnin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-08T00:00:00",
+            "description": "Amazon SageMaker provides several built-in machine learning (ML) algorithms that you can use for a variety of problem types. These algorithms provide high-performance, scalable machine learning and are optimized for speed, scale, and accuracy.\u00a0Using these algorithms you can train on petabyte-scale data. They are designed to provide up to 10x the performance of the other [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/02/k-means-sagemaker-1.gif"
+        },
+        {
+            "id": 1287,
+            "title": "AWS expands HIPAA eligible machine learning services for healthcare customers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-expands-hipaa-eligible-machine-learning-services-for-healthcare-customers/",
+            "authors": "Vasi Philomin",
+            "tags": "Amazon Comprehend, Amazon Polly, Amazon Transcribe, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-11-08T00:00:00",
+            "description": "Today, AWS announced that Amazon Translate, Amazon Comprehend, and Amazon Transcribe are now U.S. Health Insurance Portability and Accountability Act of 1996 (HIPAA) eligible services. This announcement adds to the number of AWS artificial intelligence services that are already HIPAA eligible\u2013 Amazon Polly, Amazon SageMaker, and Amazon Rekognition. By using these services, AWS customers in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1288,
+            "title": "Now easily perform incremental learning on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/now-easily-perform-incremental-learning-on-amazon-sagemaker/",
+            "authors": "Guru Swaminathan, Jeffrey Geevarghese, Sumit Thakur",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-07T00:00:00",
+            "description": "Data scientists and developers can now easily perform incremental learning on Amazon SageMaker. Incremental learning is a machine learning (ML) technique for extending the knowledge of an existing model by training it further on new data. Starting today both of the Amazon SageMaker built-in visual recognition algorithms \u2013 Image Classification and Object Detection \u2013 will [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1289,
+            "title": "Direct access to\u00a0Amazon SageMaker notebooks\u00a0from Amazon VPC by using an AWS PrivateLink endpoint",
+            "url": "https://aws.amazon.com/blogs/machine-learning/direct-access-to-amazon-sagemaker-notebooks-from-amazon-vpc-by-using-an-aws-privatelink-endpoint/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-05T00:00:00",
+            "description": "Amazon SageMaker\u00a0now supports AWS PrivateLink for notebook instances.\u00a0In this post, I will show you how to set up AWS PrivateLink to secure your connection to Amazon SageMaker notebooks. Maintaining compliance with regulations such as HIPAA or PCI may require preventing information\u00a0from traversing the internet.\u00a0Additionally, preventing exposure of data to the public internet reduces the likelihood [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/07/03/sagemaker-privatelink-1.gif"
+        },
+        {
+            "id": 1290,
+            "title": "Customize your notebook volume size, up to 16 TB, with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customize-your-notebook-volume-size-up-to-16-tb-with-amazon-sagemaker/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-05T00:00:00",
+            "description": "Amazon SageMaker now allows you to customize the notebook storage volume when you\u00a0need to store larger amounts of data. Allocating the right storage volume for your notebook instance is\u00a0important while you develop machine\u00a0learning models. You can use the storage volume to locally process a large dataset or to temporarily store other data to work with. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1291,
+            "title": "Lifecycle configuration update for Amazon SageMaker notebook instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/lifecycle-configuration-update-for-amazon-sagemaker-notebook-instances/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-05T00:00:00",
+            "description": "Amazon SageMaker now allows customers to update or disassociate lifecycle configurations for notebook instances with the renewed APIs.\u00a0You can associate, switch between, or disable\u00a0lifecycle configurations as necessary by stopping your notebook instance and using the\u00a0UpdateNotebookInstance\u00a0API\u00a0at any point of\u00a0the notebook instance\u2019s lifespan. Lifecycle configurations\u00a0are handy when you want to organize and automate the setup that is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1292,
+            "title": "Now use Pipe mode with CSV datasets for faster training on Amazon SageMaker built-in algorithms",
+            "url": "https://aws.amazon.com/blogs/machine-learning/now-use-pipe-mode-with-csv-datasets-for-faster-training-on-amazon-sagemaker-built-in-algorithms/",
+            "authors": "Can Balioglu, Sumit Thakur",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-11-01T00:00:00",
+            "description": "Amazon SageMaker built-in algorithms now support Pipe mode for fetching datasets in CSV format from Amazon Simple Storage Service (S3) into Amazon SageMaker while training machine learning (ML) models. With Pipe input mode, the data is streamed directly to the algorithm container while model training is in progress. This is unlike File mode, which downloads [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/25/pipe-csv-sagemaker-social.gif"
+        },
+        {
+            "id": 1293,
+            "title": "Model Server for Apache MXNet v1.0\u00a0released",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-server-for-apache-mxnet-v1-0-released/",
+            "authors": "Denis Davydenko, Vamshidhar Dantu, Frank Liu, Rakesh Vasudevan",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2018-10-30T00:00:00",
+            "description": "AWS recently released Model Server for Apache MXNet (MMS) v1.0, featuring a new API for managing the state of the service, which includes the ability to dynamically load models during runtime, to lower latency, and to have higher throughput. In this post, we will explore the new features and showcase the performance gains of the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/29/mms1-6.gif"
+        },
+        {
+            "id": 1294,
+            "title": "Using deep learning on AWS to lower property damage losses from natural disasters",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-deep-learning-on-aws-to-lower-property-damage-losses-from-natural-disasters/",
+            "authors": "Chander Matrubhutam",
+            "tags": "Amazon SageMaker, Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2018-10-30T00:00:00",
+            "description": "Natural disasters like the 2017 Santa Rosa fires and Hurricane Harvey cost hundreds of billions of dollars in property damages every year, wreaking economic havoc in the lives of homeowners. Insurance companies do their best to evaluate affected homes, but it could take weeks before assessments are available and salvaging and protecting the homes can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/10/eagleview-2.gif"
+        },
+        {
+            "id": 1295,
+            "title": "Amazon Translate now offers 113 new language pairs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-offers-113-new-language-pairs/",
+            "authors": "Yoni Friedman",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-10-29T00:00:00",
+            "description": "Amazon Translate\u00a0is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Today, we are launching 113 new language pairs. Customers can now translate between currently supported languages, such as French to Spanish for example, with a single API request. With this update, we are expanding the number of supported language pairs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1296,
+            "title": "Understanding Amazon SageMaker notebook instance networking configurations and advanced routing options",
+            "url": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options/",
+            "authors": "Ben Snively",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-10-24T00:00:00",
+            "description": "This post was reviewed June, 2022. An Amazon SageMaker notebook instance provides a Jupyter notebook app through a fully managed machine learning (ML) Amazon EC2 instance. Amazon SageMaker Jupyter notebooks are used to perform advanced data exploration, create training jobs, deploy models to Amazon SageMaker hosting, and test or validate your models. The notebook instance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/26/sagemaker-advanced-routing-5-2-1260x552.png"
+        },
+        {
+            "id": 1297,
+            "title": "Amazon SageMaker Batch Transform now supports Amazon VPC and AWS KMS-based encryption",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-batch-transform-now-supports-amazon-vpc-and-aws-kms-based-encryption/",
+            "authors": "Urvashi Chowdhary, Jeffrey Geevarghese",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-10-22T00:00:00",
+            "description": "Amazon SageMaker now supports running Batch Transform jobs in Amazon Virtual Private Cloud (Amazon VPC) and using AWS Key Management Service\u00a0(AWS KMS). Amazon VPC allows you to control access to your machine learning (ML) model containers and data so that they are private and aren\u2019t accessible over the internet. AWS KMS enables you to encrypt [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/10/sagemaker-batch-transform-11.gif"
+        },
+        {
+            "id": 1298,
+            "title": "Use AWS DeepLens to give Amazon Alexa the power to detect objects via Alexa skills",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-aws-deeplens-to-give-amazon-alexa-the-power-to-detect-objects-via-alexa-skills/",
+            "authors": "Tristan Li, Grant McCarthy",
+            "tags": "Alexa, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-10-17T00:00:00",
+            "description": "People are using Alexa for all types of activities in their homes, such as checking their bank balances, ordering pizza, or simply listening to their music from their favorite artists. For the most part, the primary interaction with the Echo has been your voice. In this blog post, we\u2019ll show you how to build a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/16/deeplens-alexa-detect-objects-1-810x630.gif"
+        },
+        {
+            "id": 1299,
+            "title": "Amazon Comprehend introduces new Region availability and language support for French, German, Italian, and Portuguese",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-introduces-new-region-availability-and-language-support-for-french-german-italian-and-portuguese/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2018-10-10T00:00:00",
+            "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. The service does the following for you: Identifies the language of the text. Extracts key phrases, places, people, brands, or locations. Understands how positive or negative the text is. Analyzes text using tokenization and parts [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/27/social-comprehend.jpg"
+        },
+        {
+            "id": 1300,
+            "title": "Track the number of coffees consumed using AWS DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/track-the-number-of-coffees-consumed-using-aws-deeplens/",
+            "authors": "Jo\u00e3o Coelho, Lalit Dayalani, Laurynas Tumosa",
+            "tags": "Amazon Rekognition, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2018-10-09T00:00:00",
+            "description": "AWS DeepLens\u00a0is a deep-learning-enabled video camera for developers. It enables you to expand your deep learning skillsets through the use of\u00a0a fully programmable video camera, tutorials, code, and pre-trained models. The goal with this blog post is to show you how to get started with the AWS DeepLens and how this device facilitates the introduction [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/24/coffee-counter-2.jpg"
+        },
+        {
+            "id": 1301,
+            "title": "Shopper Sentiment: Analyzing in-store customer experience",
+            "url": "https://aws.amazon.com/blogs/machine-learning/shopper-sentiment-analyzing-in-store-customer-experience/",
+            "authors": "Bastien Leblanc, Imran Dawood",
+            "tags": "Amazon Athena, Amazon QuickSight, Amazon Rekognition, Analytics, Artificial Intelligence",
+            "publishedOn": "2018-10-09T00:00:00",
+            "description": "Retailers\u00a0have been using in-store\u00a0video to analyze customer behaviors and demographics\u00a0for many years. \u00a0Separate systems are commonly used for different tasks. \u00a0For example, one system would\u00a0count the number of customers moving through a store, in which part of the store those customers linger and near which products. \u00a0Another system will hold the store layout, whilst yet [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/09/28/shopper-sentiment-13.gif"
+        },
+        {
+            "id": 1302,
+            "title": "Accelerate model training using faster Pipe mode on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-model-training-using-faster-pipe-mode-on-amazon-sagemaker/",
+            "authors": "Ishaaq Chandy, Sumit Thakur",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-10-05T00:00:00",
+            "description": "Amazon SageMaker now comes with a faster Pipe mode implementation, significantly accelerating the speeds at which data can be streamed from Amazon Simple Storage Service (S3) into Amazon SageMaker while training machine learning models. Pipe mode offers significantly better read throughput than the File mode that downloads data to the local Amazon Elastic Block Store [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/04/pipe-mode-sagemaker-1.gif"
+        },
+        {
+            "id": 1303,
+            "title": "Amazon SageMaker Neural Topic Model now supports auxiliary vocabulary channel, new topic evaluation metrics, and training subsampling",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-neural-topic-model-now-supports-auxiliary-vocabulary-channel-new-topic-evaluation-metrics-and-training-subsampling/",
+            "authors": "David Ping, Feng Nan, Patrick Ng, Ran Ding, Ramesh Nallapati",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "In this blog post, we introduce three new features of the Amazon SageMaker Neural Topic Model (NTM) that are designed to help improve user productivity, enhance topic evaluation capability, and speed up model training. In addition to these new features, by optimizing sparse operations and the parameter server, we have improved the speed of the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/02/sagemaker-ntm-3.gif"
+        }
+    ]
+}

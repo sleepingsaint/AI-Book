@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8394,
+            "title": "Accelerating PyTorch distributed fine-tuning with Intel technologies",
+            "url": "https://huggingface.co/blog/accelerating-pytorch",
+            "authors": "juliensimon",
+            "tags": null,
+            "publishedOn": "2021-11-19T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/36_accelerating_pytorch/04_four_nodes.png"
+        },
+        {
+            "id": 8395,
+            "title": "Fine-tuning XLS-R for Multi-Lingual ASR with \ud83e\udd17 Transformers",
+            "url": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2021-11-15T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/xlsr_wav2vec2.png"
+        },
+        {
+            "id": 8396,
+            "title": "Scaling up BERT-like model Inference on modern CPU - Part 2",
+            "url": "https://huggingface.co/blog/bert-cpu-scaling-part-2",
+            "authors": "mfuntowicz",
+            "tags": null,
+            "publishedOn": "2021-11-04T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8397,
+            "title": "Course Launch Community Event",
+            "url": "https://huggingface.co/blog/course-launch-event",
+            "authors": "sgugger",
+            "tags": null,
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/34_course_launch/speakers_day1_thumb.png"
+        },
+        {
+            "id": 8398,
+            "title": "Large Language Models: A New Moore's Law?",
+            "url": "https://huggingface.co/blog/large-language-models",
+            "authors": "juliensimon",
+            "tags": null,
+            "publishedOn": "2021-10-26T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/33_large_language_models/01_model_size.jpg"
+        },
+        {
+            "id": 8399,
+            "title": "Train a Sentence Embedding Model with 1B Training Pairs",
+            "url": "https://huggingface.co/blog/1b-sentence-embeddings",
+            "authors": "asi",
+            "tags": null,
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8400,
+            "title": "The Age of Machine Learning As Code Has Arrived",
+            "url": "https://huggingface.co/blog/the-age-of-ml-as-code",
+            "authors": "juliensimon",
+            "tags": null,
+            "publishedOn": "2021-10-20T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/31_age_of_ml_as_code/05_vision_transformer.png"
+        },
+        {
+            "id": 8401,
+            "title": "Fine tuning CLIP with Remote Sensing (Satellite) images and captions",
+            "url": "https://huggingface.co/blog/fine-tune-clip-rsicd",
+            "authors": "arampacha",
+            "tags": null,
+            "publishedOn": "2021-10-13T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/30_clip_rsicd/clip_schematic.png"
+        },
+        {
+            "id": 8402,
+            "title": "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit",
+            "url": "https://huggingface.co/blog/streamlit-spaces",
+            "authors": "merve",
+            "tags": null,
+            "publishedOn": "2021-10-05T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/29_streamlit-spaces/thumbnail.png"
+        },
+        {
+            "id": 8403,
+            "title": "Showcase Your Projects in Spaces using Gradio",
+            "url": "https://huggingface.co/blog/gradio-spaces",
+            "authors": "merve",
+            "tags": null,
+            "publishedOn": "2021-10-05T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/28_gradio-spaces/thumbnail.png"
+        },
+        {
+            "id": 8404,
+            "title": "Summer at Hugging Face \u2600\ufe0f",
+            "url": "https://huggingface.co/blog/summer-at-huggingface",
+            "authors": "huggingface",
+            "tags": null,
+            "publishedOn": "2021-09-24T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/27_summer_at_huggingface/summer_intro.gif"
+        },
+        {
+            "id": 8405,
+            "title": "Hugging Face and Graphcore partner for IPU-optimized Transformers",
+            "url": "https://huggingface.co/blog/graphcore",
+            "authors": "sallydoherty",
+            "tags": null,
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/26_graphcore-ipu/thumbnail.png"
+        },
+        {
+            "id": 8406,
+            "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
+            "url": "https://huggingface.co/blog/hardware-partners-program",
+            "authors": "mfuntowicz",
+            "tags": null,
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8407,
+            "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+            "url": "https://huggingface.co/blog/collaborative-training",
+            "authors": "mryab",
+            "tags": null,
+            "publishedOn": "2021-07-15T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/24_sahajBERT/thumbnail.png"
+        },
+        {
+            "id": 8408,
+            "title": "Welcome spaCy to the \ud83e\udd17 Hub",
+            "url": "https://huggingface.co/blog/spacy",
+            "authors": "osanseviero",
+            "tags": null,
+            "publishedOn": "2021-07-13T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/23_spacy/thumbnail.png"
+        },
+        {
+            "id": 8409,
+            "title": "Deploy Hugging Face models easily with Amazon SageMaker",
+            "url": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker",
+            "authors": "philschmid",
+            "tags": null,
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/17_the_partnership_amazon_sagemaker_and_hugging_face/thumbnail.png"
+        },
+        {
+            "id": 8410,
+            "title": "Sentence Transformers in the \ud83e\udd17 Hub",
+            "url": "https://huggingface.co/blog/sentence-transformers-in-the-hub",
+            "authors": "nreimers",
+            "tags": null,
+            "publishedOn": "2021-06-28T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8411,
+            "title": "Few-shot learning in practice: GPT-NEO and the \ud83e\udd17 Accelerated Inference API",
+            "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+            "authors": "philschmid",
+            "tags": null,
+            "publishedOn": "2021-06-03T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8412,
+            "title": "Using & Mixing Hugging Face Models with Gradio 2.0",
+            "url": "https://huggingface.co/blog/gradio",
+            "authors": "abidlabs",
+            "tags": null,
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/22_gradio/gradio.png"
+        },
+        {
+            "id": 8413,
+            "title": "Scaling-up BERT Inference on CPU (Part 1)",
+            "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+            "authors": "mfuntowicz",
+            "tags": null,
+            "publishedOn": "2021-04-20T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/front/thumbnails/v2-2.png"
+        },
+        {
+            "id": 8414,
+            "title": "Introducing \ud83e\udd17 Accelerate",
+            "url": "https://huggingface.co/blog/accelerate-library",
+            "authors": "sgugger",
+            "tags": null,
+            "publishedOn": "2021-04-16T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/20_accelerate_library/accelerate_diff.png"
+        },
+        {
+            "id": 8415,
+            "title": "Distributed Training: Train BART/T5 for Summarization using \ud83e\udd17 Transformers and Amazon SageMaker",
+            "url": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq",
+            "authors": "philschmid",
+            "tags": null,
+            "publishedOn": "2021-04-08T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/19_sagemaker_distributed_training_seq2seq/thumbnail.png"
+        },
+        {
+            "id": 8416,
+            "title": "How many data points is a prompt worth?",
+            "url": "https://huggingface.cohttps://huggingface.co/blog/how_many_data_points",
+            "authors": "teven",
+            "tags": null,
+            "publishedOn": "2021-04-05T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 8417,
+            "title": "Understanding BigBird's Block Sparse Attention",
+            "url": "https://huggingface.co/blog/big-bird",
+            "authors": "vasudevgupta",
+            "tags": null,
+            "publishedOn": "2021-03-31T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/18_big_bird/attn.png"
+        },
+        {
+            "id": 8418,
+            "title": "The Partnership: Amazon SageMaker and Hugging Face",
+            "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+            "authors": "philschmid",
+            "tags": null,
+            "publishedOn": "2021-03-23T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/17_the_partnership_amazon_sagemaker_and_hugging_face/thumbnail.png"
+        },
+        {
+            "id": 8419,
+            "title": "My Journey to a serverless transformers pipeline on Google Cloud",
+            "url": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds",
+            "authors": "Maxence",
+            "tags": null,
+            "publishedOn": "2021-03-18T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/14_how_to_deploy_a_pipeline_to_google_clouds/thumbnail.png"
+        },
+        {
+            "id": 8420,
+            "title": "Fine-Tune Wav2Vec2 for English ASR with \ud83e\udd17 Transformers",
+            "url": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2021-03-12T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/15_fine_tune_wav2vec2/wav2vec2.png"
+        },
+        {
+            "id": 8421,
+            "title": "Hugging Face Reads, Feb. 2021 - Long-range Transformers",
+            "url": "https://huggingface.co/blog/long-range-transformers",
+            "authors": "VictorSanh",
+            "tags": null,
+            "publishedOn": "2021-03-09T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/14_long_range_transformers/EfficientTransformerTaxonomy.png"
+        },
+        {
+            "id": 8422,
+            "title": "Simple considerations for simple people building fancy neural networks",
+            "url": "https://huggingface.co/blog/simple-considerations",
+            "authors": "VictorSanh",
+            "tags": null,
+            "publishedOn": "2021-02-25T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/13_simple-considerations/henry-co-3coKbdfnAFg-unsplash.jpg"
+        },
+        {
+            "id": 8423,
+            "title": "Retrieval Augmented Generation with Huggingface Transformers and Ray",
+            "url": "https://huggingface.co/blog/ray-rag",
+            "authors": "amogkam",
+            "tags": null,
+            "publishedOn": "2021-02-10T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/12_ray_rag/ray_arch_updated.png"
+        }
+    ]
+}

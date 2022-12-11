@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6818,
+            "title": "Exploring the beauty of pure mathematics in novel ways",
+            "url": "https://www.deepmind.com/blog/exploring-the-beauty-of-pure-mathematics-in-novel-ways",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "More than a century ago, Srinivasa Ramanujan shocked the mathematical world with his extraordinary ability to see remarkable patterns in numbers that no one else could see. The self-taught mathematician from India described his insights as deeply intuitive and spiritual, and patterns often came to him in vivid dreams.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e89e215215575bb40563_Maths%20and%20AI.jpg"
+        },
+        {
+            "id": 6819,
+            "title": "On the Expressivity of Markov Reward",
+            "url": "https://www.deepmind.com/blog/on-the-expressivity-of-markov-reward",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-12-01T00:00:00",
+            "description": "Our main results prove that while reward can express many tasks, there exist instances of each task type that no Markov reward function can capture. We then provide a set of polynomial-time algorithms that construct a reward function which allows an agent to optimize tasks of each of these three types, and correctly determine when no such reward function exists.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6820,
+            "title": "Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons",
+            "url": "https://www.deepmind.com/blog/unsupervised-deep-learning-identifies-semantic-disentanglement-in-single-inferotemporal-face-patch-neurons",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-11-09T00:00:00",
+            "description": "Our brain has an amazing ability to process visual information. We can take one glance at a complex scene, and within milliseconds be able to parse it into objects and their attributes, like colour or size, and use this information to describe the scene in simple language. Underlying this seemingly effortless ability is a complex computation performed by our visual cortex, which involves taking millions of neural impulses transmitted from the retina and transforming them into a more meaningful form that can be mapped to the simple language description. In order to fully understand how this process works in the brain, we need to figure out both how the semantically meaningful information is represented in the firing of neurons at the end of the visual processing hierarchy, and how such a representation may be learnt from largely untaught experience.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6821,
+            "title": "Real-world challenges for AGI",
+            "url": "https://www.deepmind.com/blog/real-world-challenges-for-agi",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2021-11-02T00:00:00",
+            "description": "When people picture a world with artificial general intelligence (AGI), robots are more likely to come to mind than enabling solutions to society\u2019s most intractable problems. But I believe the latter is much closer to the truth. AI is already enabling huge leaps in tackling fundamental challenges: from solving protein folding to predicting accurate weather patterns, scientists are increasingly using AI to deduce the rules and principles that underpin highly complex real-world domains - ones they might never have discovered unaided. Advances in AGI research will supercharge society\u2019s ability to tackle and manage climate change - not least because of its urgency but also due to its complex and multifaceted nature.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62331eeed058753ca9e0e3b9_real-world-header.jpg"
+        },
+        {
+            "id": 6822,
+            "title": "Opening up a physics simulator for robotics",
+            "url": "https://www.deepmind.com/blog/opening-up-a-physics-simulator-for-robotics",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2021-10-18T00:00:00",
+            "description": "When you walk, your feet make contact with the ground. When you write, your fingers make contact with the pen. Physical contacts are what makes interaction with the world possible. Yet, for such a common occurrence, contact is a surprisingly complex phenomenon. Taking place at microscopic scales at the interface of two bodies, contacts can be soft or stiff, bouncy or spongy, slippery or sticky. It\u2019s no wonder our fingertips have four different types of touch-sensors. This subtle complexity makes simulating physical contact \u2014 a vital component of robotics research \u2014 a tricky task.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6823,
+            "title": "Stacking our way to more general robots",
+            "url": "https://www.deepmind.com/blog/stacking-our-way-to-more-general-robots",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-10-11T00:00:00",
+            "description": "Picking up a stick and balancing it atop a log or stacking a pebble on a stone may seem like simple \u2014 and quite similar \u2014 actions for a person. However, most robots struggle with handling more than one such task at a time. Manipulating a stick requires a different set of behaviours than stacking stones, never mind piling various dishes on top of one another or assembling furniture. Before we can teach robots how to perform these kinds of tasks, they first need to learn how to interact with a far greater range of objects. As part of DeepMind\u2019s mission and as a step toward making more generalisable and useful robots, we\u2019re exploring how to enable robots to better understand the interactions of objects with diverse geometries.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227e444c09fa8d9cf213588_Pick_and_Place_10.0030.jpg"
+        },
+        {
+            "id": 6824,
+            "title": "Predicting gene expression with AI",
+            "url": "https://www.deepmind.com/blog/predicting-gene-expression-with-ai",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-10-04T00:00:00",
+            "description": "When the Human Genome Project succeeded in mapping the DNA sequence of the human genome, the international research community were excited by the opportunity to better understand the genetic instructions that influence human health and development. DNA carries the genetic information that determines everything from eye colour to susceptibility to certain diseases and disorders. The roughly 20,000 sections of DNA in the human body known as genes contain instructions about the amino acid sequence of proteins, which perform numerous essential functions in our cells. Yet these genes make up less than 2% of the genome. The remaining base pairs \u2014 which account for 98% of the 3 billion \u201cletters\u201d in the genome \u2014 are called \u201cnon-coding\u201d and contain less well-understood instructions about when and where genes should be produced or expressed in the human body. At DeepMind, we believe that AI can unlock a deeper understanding of such complex domains, accelerating scientific progress and offering potential benefits to human health.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227e3af8f313f6efb044b99_Enformer.jpg"
+        },
+        {
+            "id": 6825,
+            "title": "Nowcasting the next hour of rain",
+            "url": "https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "Our lives are dependent on the weather. At any moment in the UK, according to one study, one third of the country has talked about the weather in the past hour, reflecting the importance of weather in daily life. Amongst weather phenomena, rain is especially important because of its influence on our everyday decisions. Should I take an umbrella? How should we route vehicles experiencing heavy rain? What safety measures do we take for outdoor events? Will there be a flood? Our latest research and state-of-the-art model advances the science of Precipitation Nowcasting, which is the prediction of rain (and other precipitation phenomena) within the next 1-2 hours. In a paper written in collaboration with the Met Office and published in Nature, we directly tackle this important grand challenge in weather prediction. This collaboration between environmental science and AI focuses on value for decision-makers, opening up new avenues for the nowcasting of rain, and points to the opportunities for AI in supporting our response to the challenges of decision-making in an environment under constant change.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227e2cc28dc8e194473d9ff_Nowcasting.jpg"
+        },
+        {
+            "id": 6826,
+            "title": "Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration",
+            "url": "https://www.deepmind.com/blog/is-curiosity-all-you-need-on-the-utility-of-emergent-behaviours-from-curious-exploration",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-09-17T00:00:00",
+            "description": "We argue that merely using curiosity for fast environment exploration or as a bonus reward for a specific task does not harness the full potential of this technique and misses useful skills. Instead, we propose to shift the focus towards retaining the behaviours which emerge during curiosity-based learning. We posit that these self-discovered behaviours serve as valuable skills in an agent\u2019s repertoire to solve related tasks.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6827,
+            "title": "Challenges in Detoxifying Language Models",
+            "url": "https://www.deepmind.com/blog/challenges-in-detoxifying-language-models",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-09-15T00:00:00",
+            "description": "In our paper, we focus on LMs and their propensity to generate toxic language. We study the effectiveness of different methods to mitigate LM toxicity, and their side-effects, and we investigate the reliability and limits of classifier-based automatic toxicity evaluation.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6828,
+            "title": "Building architectures that can handle the world\u2019s data",
+            "url": "https://www.deepmind.com/blog/building-architectures-that-can-handle-the-worlds-data",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-08-03T00:00:00",
+            "description": "Most architectures used by AI systems today are specialists. A 2D residual network may be a good choice for processing images, but at best it\u2019s a loose fit for other kinds of data \u2014 such as the Lidar signals used in self-driving cars or the torques used in robotics. What\u2019s more, standard architectures are often designed with only one task in mind, often leading engineers to bend over backwards to reshape, distort, or otherwise modify their inputs and outputs in hopes that a standard architecture can learn to handle their problem correctly. Dealing with more than one kind of data, like the sounds and images that make up videos, is even more complicated and usually involves complex, hand-tuned systems built from many different parts, even for simple tasks. As part of DeepMind's mission of solving intelligence to advance science and humanity, we want to build systems that can solve problems that use many types of inputs and outputs, so we began to explore a more general and versatile architecture that can handle all types of data.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227db3ca8b6711860971026_Perceiver%20IO.jpg"
+        },
+        {
+            "id": 6829,
+            "title": "Generally capable agents emerge from open-ended play",
+            "url": "https://www.deepmind.com/blog/generally-capable-agents-emerge-from-open-ended-play",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-07-27T00:00:00",
+            "description": "In recent years, artificial intelligence agents have succeeded in a range of complex game environments. For instance, AlphaZero beat world-champion programs in chess, shogi, and Go after starting out with knowing no more than the basic rules of how to play. Through reinforcement learning (RL), this single system learnt by playing round after round of games through a repetitive process of trial and error. But AlphaZero still trained separately on each game \u2014 unable to simply learn another game or task without repeating the RL process from scratch. The same is true for other successes of RL, such as Atari, Capture the Flag, StarCraft II, Dota 2, and Hide-and-Seek. DeepMind\u2019s mission of solving intelligence to advance science and humanity led us to explore how we could overcome this limitation to create AI agents with more general and adaptive behaviour. Instead of learning one game at a time, these agents would be able to react to completely new conditions and play a whole universe of games and tasks, including ones never seen before.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227d8684cf99373883ff46c_Adaptive%20Agents.jpg"
+        },
+        {
+            "id": 6830,
+            "title": "Putting the power of AlphaFold into the world\u2019s hands",
+            "url": "https://www.deepmind.com/blog/putting-the-power-of-alphafold-into-the-worlds-hands",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "When we announced AlphaFold 2 last December, it was hailed as a solution to the 50-year old protein folding problem. Last week, we published the scientific paper and source code explaining how we created this highly innovative system, and today we\u2019re sharing high-quality predictions for the shape of every single protein in the human body, as well as for the proteins of 20 additional organisms that scientists rely on for their research.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227acecdfd38b08b555c6b3_AF2.jpg"
+        },
+        {
+            "id": 6831,
+            "title": "Enabling high-accuracy protein structure prediction at the proteome scale",
+            "url": "https://www.deepmind.com/blog/enabling-high-accuracy-protein-structure-prediction-at-the-proteome-scale",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Many novel machine learning innovations contribute to AlphaFold\u2019s current level of accuracy. We give a high-level overview of the system below; for a technical description of the network architecture see our AlphaFold methods paper and especially its extensive Supplementary Information.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6832,
+            "title": "Melting Pot: an evaluation suite for multi-agent reinforcement learning",
+            "url": "https://www.deepmind.com/blog/melting-pot-an-evaluation-suite-for-multi-agent-reinforcement-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "Here we introduce Melting Pot, a scalable evaluation suite for multi-agent reinforcement learning. Melting Pot assesses generalisation to novel social situations involving both familiar and unfamiliar individuals, and has been designed to test a broad range of social interactions such as: cooperation, competition, deception, reciprocation, trust, stubbornness and so on. Melting Pot offers researchers a set of 21 MARL \u201csubstrates\u201d (multi-agent games) on which to train agents, and over 85 unique test scenarios on which to evaluate these trained agents.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6833,
+            "title": "An update on our racial justice efforts",
+            "url": "https://www.deepmind.com/blog/an-update-on-our-racial-justice-efforts",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2021-06-04T00:00:00",
+            "description": "In June 2020, after George Floyd was killed in Minneapolis (USA) and the solidarity that followed as millions spoke out at Black Lives Matter protests around the world, I \u2013 like many others \u2013 reflected on the situation and how our organisation could contribute. I then shared some thoughts around DeepMind's intention to help combat racism and advance racial equity.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6834,
+            "title": "Advancing sports analytics through AI research",
+            "url": "https://www.deepmind.com/blog/advancing-sports-analytics-through-ai-research",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2021-05-07T00:00:00",
+            "description": "Creating testing environments to help progress AI research out of the lab and into the real world is immensely challenging. Given AI\u2019s long association with games, it is perhaps no surprise that sports presents an exciting opportunity, offering researchers a testbed in which an AI-enabled system can assist humans in making complex, real-time decisions in a multiagent environment with dozens of dynamic, interacting individuals.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62279f7765e1f7e532885bde_Sports%20Analytics.jpg"
+        },
+        {
+            "id": 6835,
+            "title": "Game theory as an engine for large-scale data analysis",
+            "url": "https://www.deepmind.com/blog/game-theory-as-an-engine-for-large-scale-data-analysis",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-05-06T00:00:00",
+            "description": "Modern AI systems approach tasks like recognising objects in images and predicting the 3D structure of proteins as a diligent student would prepare for an exam. By training on many example problems, they minimise their mistakes over time until they achieve success. But this is a solitary endeavour and only one of the known forms of learning. Learning also takes place by interacting and playing with others. It\u2019s rare that a single individual can solve extremely complex problems alone. By allowing problem solving to take on these game-like qualities, previous DeepMind efforts have trained AI agents to play Capture the Flag and achieve Grandmaster level at Starcraft. This made us wonder if such a perspective modeled on game theory could help solve other fundamental machine learning problems.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227816aa37c04f007d9d960_EigenGame.jpg"
+        },
+        {
+            "id": 6836,
+            "title": "Alchemy: A structured task distribution for meta-reinforcement learning",
+            "url": "https://www.deepmind.com/blog/alchemy-a-structured-task-distribution-for-meta-reinforcement-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-02-08T00:00:00",
+            "description": "There has been rapidly growing interest in developing methods for meta-learning within deep RL. Although there has been substantive progress toward such \u2018meta-reinforcement learning,\u2019 research in this area has been held back by a shortage of benchmark tasks. In the present work, we aim to ease this problem by introducing (and open-sourcing) Alchemy, a useful new benchmark environment for meta-RL, along with a suite of analysis tools.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6837,
+            "title": "Data, Architecture, or Losses: What Contributes Most to Multimodal Transformer Success?",
+            "url": "https://www.deepmind.com/blog/data-architecture-or-losses-what-contributes-most-to-multimodal-transformer-success",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-02-02T00:00:00",
+            "description": "In this work, we examine what aspects of multimodal transformers \u2013 attention, losses, and pretraining data \u2013 are important in their success at multimodal pretraining. We find that Multimodal attention, where both language and image transformers attend to each other, is crucial for these models\u2019 success. Models with other types of attention (even with more depth or parameters) fail to achieve comparable results to shallower and smaller models with multimodal attention.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6838,
+            "title": "MuZero: Mastering Go, chess, shogi and Atari without rules",
+            "url": "https://www.deepmind.com/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2020-12-23T00:00:00",
+            "description": "In 2016, we introduced AlphaGo, the first artificial intelligence (AI) program to defeat humans at the ancient game of Go. Two years later, its successor - AlphaZero - learned from scratch to master Go, chess and shogi. Now, in a paper in the journal Nature, we describe MuZero, a significant step forward in the pursuit of general-purpose algorithms. MuZero masters Go, chess, shogi and Atari without needing to be told the rules, thanks to its ability to plan winning strategies in unknown environments.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62277efc7b7dddc5c1c7ac8f_MuZero.jpg"
+        },
+        {
+            "id": 6839,
+            "title": "Imitating Interactive Intelligence",
+            "url": "https://www.deepmind.com/blog/imitating-interactive-intelligence",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-12-11T00:00:00",
+            "description": "We first create a simulated environment, the Playroom, in which virtual robots can engage in a variety of interesting interactions by moving around, manipulating objects, and speaking to each other. The Playroom\u2019s dimensions can be randomised as can its allocation of shelves, furniture, landmarks like windows and doors, and an assortment of children's toys and domestic objects. The diversity of the environment enables interactions involving reasoning about space and object relations, ambiguity of references, containment, construction, support, occlusion, partial observability. We embedded two agents in the Playroom to provide a social dimension for studying joint intentionality, cooperation, communication of private knowledge, and so on.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6840,
+            "title": "Using JAX to accelerate our research",
+            "url": "https://www.deepmind.com/blog/using-jax-to-accelerate-our-research",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "DeepMind engineers accelerate our research by building tools, scaling up algorithms, and creating challenging virtual and physical worlds for training and testing artificial intelligence (AI) systems. As part of this work, we constantly evaluate new machine learning libraries and frameworks.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6841,
+            "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
+            "url": "https://www.deepmind.com/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Proteins are essential to life, supporting practically all its functions. They are large complex molecules, made up of chains of amino acids, and what a protein does largely depends on its unique 3D structure. Figuring out what shapes proteins fold into is known as the \u201cprotein-folding problem\u201d, and has stood as a grand challenge in biology for the past 50 years. In a major scientific advance, the latest version of our AI system AlphaFold has been recognised as a solution to this grand challenge by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP). This breakthrough demonstrates the impact AI can have on scientific discovery and its potential to dramatically accelerate progress in some of the most fundamental fields that explain and shape our world.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62277bb0a0b933ae0003d7e2_AF01.jpg"
+        },
+        {
+            "id": 6842,
+            "title": "Using Unity to Help Solve Intelligence",
+            "url": "https://www.deepmind.com/blog/using-unity-to-help-solve-intelligence",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-11-18T00:00:00",
+            "description": "We present our use of Unity, a widely recognised and comprehensive game engine, to create more diverse, complex, virtual simulations. We describe the concepts and components developed to simplify the authoring of these environments, intended for use predominantly in the field of reinforcement learning.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6843,
+            "title": "Breaking down global barriers to access",
+            "url": "https://www.deepmind.com/blog/breaking-down-global-barriers-to-access",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2020-11-05T00:00:00",
+            "description": "This week, we welcomed our biggest and most geographically diverse cohort of DeepMind scholars yet. We\u2019re excited to reflect on the journey so far, share more on the next chapter of the DeepMind scholarships \u2013 and welcome many more universities from around the world into the programme.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62277a7a7ecf712d92766e1d_Scholarships%20copy.jpg"
+        },
+        {
+            "id": 6844,
+            "title": "FermiNet: Quantum Physics and Chemistry from First Principles",
+            "url": "https://www.deepmind.com/blog/ferminet-quantum-physics-and-chemistry-from-first-principles",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-10-19T00:00:00",
+            "description": "In an article recently published in Physical Review Research, we show how deep learning can help solve the fundamental equations of quantum mechanics for real-world systems. Not only is this an important fundamental scientific question, but it also could lead to practical uses in the future, allowing researchers to prototype new materials and chemical syntheses in silico before trying to make them in the lab. Today we are also releasing the code from this study so that the computational physics and chemistry communities can build on our work and apply it to a wide range of problems. We\u2019ve developed a new neural network architecture, the Fermionic Neural Network or FermiNet, which is well-suited to modeling the quantum state of large collections of electrons, the fundamental building blocks of chemical bonds. The FermiNet was the first demonstration of deep learning for computing the energy of atoms and molecules from first principles that was accurate enough to be useful, and it remains the most accurate neural network method to date. We hope the tools and ideas developed in our AI research at DeepMind can help solve fundamental problems in the natural sciences, and the FermiNet joins our work on protein folding, glassy dynamics, lattice quantum chromodynamics and many other projects in bringing that vision to life.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62275e8c567d38563c2b9621_FermiNet.jpg"
+        },
+        {
+            "id": 6845,
+            "title": "Fast reinforcement learning through the composition of behaviours",
+            "url": "https://www.deepmind.com/blog/fast-reinforcement-learning-through-the-composition-of-behaviours",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-10-12T00:00:00",
+            "description": "Imagine if you had to learn how to chop, peel and stir all over again every time you wanted to learn a new recipe. In many machine learning systems, agents often have to learn entirely from scratch when faced with new challenges. It\u2019s clear, however, that people learn more efficiently than this: they can combine abilities previously learned. In the same way that a finite dictionary of words can be reassembled into sentences of near infinite meanings, people repurpose and re-combine skills they already possess in order to tackle novel challenges.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62275c5b4fecbb44e25e2f2e_Fast%20RL.jpg"
+        },
+        {
+            "id": 6846,
+            "title": "Traffic prediction with advanced Graph Neural Networks",
+            "url": "https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2020-09-03T00:00:00",
+            "description": "By partnering with Google, DeepMind is able to bring the benefits of AI to billions of people all over the world. From reuniting a speech-impaired user with his original voice, to helping users discover personalised apps, we can apply breakthrough research to immediate real-world problems at a Google scale. Today we\u2019re delighted to share the results of our latest partnership, delivering a truly global impact for the more than one billion people that use Google Maps.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62275b288d24a95265bd51c2_Maps.jpg"
+        },
+        {
+            "id": 6847,
+            "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+            "url": "https://www.deepmind.com/blog/rl-unplugged-benchmarks-for-offline-reinforcement-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-06-24T00:00:00",
+            "description": "We propose a benchmark called RL Unplugged to evaluate and compare offline RL methods. RL Unplugged includes data from a diverse range of domains including games (e.g., Atari benchmark) and simulated motor control problems (e.g. DM Control Suite). The datasets include domains that are partially or fully observable, use continuous or discrete actions, and have stochastic vs. deterministic dynamics.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

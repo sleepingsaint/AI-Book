@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2484,
+            "title": "Building a Deep Learning Image Classifier with Keras using R",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/building-a-deep-learning-image-classifier-with-keras-using-r/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Computer Vision, Deep Learning, Image Analysis, R",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "This article explains a step-by-step approach to building a deep learning image classifier model with Keras in R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/48058deep-learning.png"
+        },
+        {
+            "id": 2485,
+            "title": "Machine Learning Aided Differentiation of Real and Fake News",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/machine-learning-aided-differentiation-of-real-and-fake-news/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Beginner, Machine Learning, NLP, Python",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "In this article, we shall be making use of a dataset to understand the technicalities of machine learning in detecting fake news.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/fake-news.jpg"
+        },
+        {
+            "id": 2486,
+            "title": "Guide to the Intuitive Confusion Matrix",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/guide-to-the-intuitive-confusion-matrix/",
+            "authors": "Finn Hoener",
+            "tags": "Beginner, Machine Learning, Maths, Python",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "In this article, you will learn to evaluate the predictions of classification models with a confusion matrix.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/26630linear_Regression.jpeg"
+        },
+        {
+            "id": 2487,
+            "title": "Outliers and Overfitting when Machine Learning Models can\u2019t Reason",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/outliers-and-overfitting-when-machine-learning-models-cant-reason/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Algorithm, Beginner, Machine Learning",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "When outliers occur in machine learning, the model\u2019s typical thinking from the usual pattern to be altered.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        },
+        {
+            "id": 2488,
+            "title": "Learn Everything about MapReduce Architecture & its Components",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/learn-everything-about-mapreduce-architecture-and-its-components/",
+            "authors": "Chetan Dekate",
+            "tags": "Big data, Data Engineering, Hadoop, Intermediate",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "MapReduce is a Hadoop framework used to write applications that can process large amounts of data in large volumes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/45585Data-by-using-Apache-Pig-and-Hadoop-platform.jpg"
+        },
+        {
+            "id": 2489,
+            "title": "Create Smart Contract Using Solidity Programming",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/create-smart-contract-using-solidity-programming/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Blockchain, Guide, Technology",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "Smart Contract compilation is an important process to understand to know how a smart contract runs when created using solidity.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2490,
+            "title": "Managing SQL Database on Google Cloud",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/managing-sql-database-on-google-cloud/",
+            "authors": "Aryan Garg",
+            "tags": "Database, Intermediate, SQL",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "Cloud SQL is one of the best databases to use, providing high availability throughout all regions and managing your latency, updates, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/SQL-Keys.jpg"
+        },
+        {
+            "id": 2491,
+            "title": "Machine\u00a0Learning Pycaret : Improve Math Score in Institutes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/machine-learning-pycaret-improve-math-score-in-institutes/",
+            "authors": "Muhammad Ammar Jamshed",
+            "tags": "Education, Intermediate, Machine Learning, Maths",
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "Use Machine Learning as the indicator used for performance assessment and management by schools and institutions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        },
+        {
+            "id": 2492,
+            "title": "Using Google reCAPTCHA to Secure API Endpoints",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/using-google-recaptcha-to-secure-api-endpoints/",
+            "authors": "Paul Issack",
+            "tags": "Beginner, Data Science, Web Analytics",
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "reCAPTCHA is a free service risk analysis engine that predicts the likelihood that the request was generated by the bots.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/google.png"
+        },
+        {
+            "id": 2493,
+            "title": "An Introduction to Tableau on Making Raw Data Useful",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/an-introduction-to-tableau-making-raw-data-useful/",
+            "authors": "Amandeep Gill",
+            "tags": "Beginner, Data Visualization, Tableau",
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "With this Tableau tutorial, learn how to visualize data and derive valuable insights from raw data, making dashboards, reports, tables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/Tableau-Logo-for-website.jpg"
+        },
+        {
+            "id": 2494,
+            "title": "15 Azure Interview Questions for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/15-azure-interview-questions-2022-fresher-to-beginner/",
+            "authors": "Akash Das",
+            "tags": "Azure, Beginner, Interview Questions, Interviews",
+            "publishedOn": "2022-07-03T00:00:00",
+            "description": "This article will help you to broaden your knowledge and understanding of Microsoft Azure according to your level of expertise.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Azure-ML-and-Power-Bi.jpg"
+        },
+        {
+            "id": 2495,
+            "title": "A Comprehensive Overview Non-Fungible Tokens (NFT)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/non-fungible-token-nft-what-are-they/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Cryptocurrency, Technology",
+            "publishedOn": "2022-07-03T00:00:00",
+            "description": "NFT is built on Blockchain technology like Bitcoin or Ethereum. Learn more about their process and function in the blog.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2496,
+            "title": "What is Non-Fungible Token (NFTs)?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/what-is-non-fungible-token-nfts/",
+            "authors": "Amey Band",
+            "tags": "Beginner, Blockchain, Technology",
+            "publishedOn": "2022-07-03T00:00:00",
+            "description": "NFTs are digital assets on a blockchain that can be told apart by their unique information and identifiers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2497,
+            "title": "Applications of Data Science Tools in Biopharmaceutical Industry",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/applications-of-data-science-tools-in-biopharmaceutical-industry/",
+            "authors": "DR AMIT KUMAR KAUSHIK",
+            "tags": "Beginner, Data Science, Education",
+            "publishedOn": "2022-07-02T00:00:00",
+            "description": "In this article, you will learn about various applications of data science tools in biopharmaceutical industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Tools-used-for-Data-Science-and-Big-Data.jpg"
+        },
+        {
+            "id": 2498,
+            "title": "Understanding Transaction Management in SQL",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/understanding-transaction-management-in-sql/",
+            "authors": "Aarti Parekh",
+            "tags": "Beginner, Database, SQL",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "In this article, you will get a comprehensive overview of how transactions are managed using SQL and different types of schedules.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/59226sql-server-database-deployment-automation-options.png"
+        },
+        {
+            "id": 2499,
+            "title": "Comparison between Online Processing Systems: OLTP Vs OLAP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/comparison-between-online-processing-systems-oltp-vs-olap/",
+            "authors": "Anushkakhatri",
+            "tags": "Beginner, Data Engineering, Database",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "In this article, you will learn about the comparison done between online processing systems: OLTP and OLAP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2500,
+            "title": "21 FAQs on Blockchain",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/21-faqs-on-blockchain/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Blockchain, Interview Questions",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "In this article, you will learn everything about blockchain. This article will prepare you for the interview.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2501,
+            "title": "Let\u2019s Find Out the Sentiment of Tweets",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/lets-find-out-the-sentiment-of-tweets/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Guide, Libraries, NLP",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "This is an extensive article on sentiment analysis where our task will be to classify a set of tweets into 2 categories.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/sentiment_analysis_innoplexus_hackathon.jpg"
+        },
+        {
+            "id": 2502,
+            "title": "Predicting the Toxicity of Comments Using Text Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/predicting-the-toxicity-of-comments-using-text-classification/",
+            "authors": "Sanket Barhate",
+            "tags": "Beginner, Machine Learning, NLP",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "In this article, we will understand more about text classification and create a model to classify comments into toxic and non-toxic.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/44589nlp.png"
+        },
+        {
+            "id": 2503,
+            "title": "Introduction to Tree Methods in MLIB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-tree-methods-in-mlib/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Datasets, Spark",
+            "publishedOn": "2022-07-01T00:00:00",
+            "description": "Learn about tree methods in MLIB and use the official dataset provided by Spark focussing on the model development and evaluating process.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/3.png"
+        },
+        {
+            "id": 2504,
+            "title": "Predictive Analytics of Donors in Crowd Funding Platforms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/predictive-analytics-of-donors-in-crowd-funding-platforms/",
+            "authors": "Shradhanjali Pradhan",
+            "tags": "Beginner, Classification, Machine Learning, Python",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "The objective is to implement different ML algorithms on the DonorsChoose Dataset and do predictive analytics of the Test dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 2505,
+            "title": "Getting Started with Linux File System",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/getting-started-with-linux-file-system/",
+            "authors": "Aryan Garg",
+            "tags": "Beginner, Command Line",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "This article will discuss the essential and valuable commands required for managing Files and Directories in Linux Operating System.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/54123kalilinux-1.png"
+        },
+        {
+            "id": 2506,
+            "title": "Partitioning and Bucketing in Hive",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/partitioning-and-bucketing-in-hive/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Beginner, Data Engineering, Database, SQL",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, we will explore partitioning and bucketing in Hive and how they can be implemented using HQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Partitioning-vs-Bucketing-in-Apache-Hive.jpg"
+        },
+        {
+            "id": 2507,
+            "title": "What\u2019s the Difference Between Web 2.0 and Web 3.0?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/whats-the-difference-between-web-2-0-and-web-3-0/",
+            "authors": "Aryan Bajaj",
+            "tags": "Beginner, Web 3.0",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will learn the difference between Web 2.0 and Web 3.0 and how it will help us to evolve the technical world.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5.jpg"
+        },
+        {
+            "id": 2508,
+            "title": "Why should Data Science Embrace Blockchain as its next Big Thing?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/why-should-data-science-embrace-blockchain-as-its-next-big-thing/",
+            "authors": "Phurba",
+            "tags": "Beginner, Blockchain, Data Science",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "This article will explain data science and blockchain and how they work together to make a difference and help revolutionise.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/5-2.jpg"
+        },
+        {
+            "id": 2509,
+            "title": "What will be the Impact of Blockchain on you?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/what-will-be-the-impact-of-blockchain-on-you/",
+            "authors": "Aryan Bajaj",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will develop an understanding about various concepts that are related to Blockchain and what will be it's impact on you.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/joshua-woroniecki-_hcBtOKOOo0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2510,
+            "title": "Build a Step-by-step Machine Learning Model Using R",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/build-a-step-by-step-machine-learning-model-using-r/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Intermediate, Machine Learning, R",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will learn to build a step-by-step machine learning model using R and build a disease prediction model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 2511,
+            "title": "Amazon Redshift: Basic Introductory Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/amazon-redshift-basic-introductory-guide/",
+            "authors": "Chetan Dekate",
+            "tags": "AWS, Cloud Computing, Database, Intermediate",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will learn everything about Amazon Redshift including performance cost scalability and security.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Amazon-Web-Services.png"
+        },
+        {
+            "id": 2512,
+            "title": "Everything About Apache Hive and its Advantages!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/everything-about-apache-hive-and-its-advantages/",
+            "authors": "Chetan Dekate",
+            "tags": "Beginner, Big data, Data Engineering, Hadoop",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will learn about Apache Hive and its advantages and benefits in the world of big data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Getting-started-with-apache-hive.jpg"
+        },
+        {
+            "id": 2513,
+            "title": "Multilingual Text-to-Speech Models for Indic Languages",
+            "url": "https://www.analyticsvidhya.com/blog/2022/06/multilingual-text-to-speech-models-for-indic-languages/",
+            "authors": "Alexander Veysov",
+            "tags": "Beginner, Python, Sound Processing, Text",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "In this article, you will learn on how you can develop text to speech models for multilingual languages, especially for Indic languages.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/feat_programming_data_science_languages.jpg"
+        }
+    ]
+}

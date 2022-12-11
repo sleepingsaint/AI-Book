@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3684,
+            "title": "Cook the data for your Machine Learning Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/cook-the-data-for-your-machine-learning-algorithm-data-pre-processing/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Data Cleaning, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-07-24T00:00:00",
+            "description": "Data Pre-Processing is the process of preparing our data for Machine Learning Algorithms. Let's understand it and implement it in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/97322cook1.jpg"
+        },
+        {
+            "id": 3685,
+            "title": "Geometrical Approach To Understand Logistic Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/geometrical-approach-to-understand-logistic-regression/",
+            "authors": "Rajdeep Borgohain",
+            "tags": "Beginner, Classification, Data Science, Machine Learning, Python",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "Logistic Regression is a statistical model used for binary classification. It's named \u201cRegression\u201d because it is based on \u201cLinear Regression\u201d",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/41817Salcantay_Stevage-scaled.jpg"
+        },
+        {
+            "id": 3686,
+            "title": "Data Leakage And Its Effect On The Performance of An ML Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/data-leakage-and-its-effect-on-the-performance-of-an-ml-model/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Core ML, Data Science, Machine Learning",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "In this article, we will discuss all the things related to\u00a0Data Leakage including what it is, how it has happened, how to fix it,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/32020dl.png"
+        },
+        {
+            "id": 3687,
+            "title": "Regular Expressions in Python -A Beginners Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/regular-expressions-in-python-a-beginners-guide/",
+            "authors": "Ashish",
+            "tags": "Beginner, Libraries, Programming, Python, Text",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "Regular Expressions are used to match strings of text such as particular characters, words, or patterns of characters to the given text.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/36876feature-image-edit.jpg"
+        },
+        {
+            "id": 3688,
+            "title": "Understanding The Basics of Time Series Forecasting",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/abc-of-time-series-forecasting/",
+            "authors": "Keerthana V",
+            "tags": "Beginner, Data Science, R, Time Series Forecasting",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "Time series is an important aspect of ML modeling .In this article, we will look at some of the must-know terms of time series forecasting.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/237281_GUjIYs3dhe69gIF3EU0aWw.png"
+        },
+        {
+            "id": 3689,
+            "title": "Pandas: A Hands-On Guide For Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/pandas-a-hands-on-guide-for-beginners/",
+            "authors": "KAVITA MALI",
+            "tags": "Beginner, Data Exploration, Libraries, Pandas, Programming, Python",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "Pandas is an open-source python library generally used for data manipulation and data analysis. Here, we will see a hands-on guide on pandas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/panda-tips-1.jpg"
+        },
+        {
+            "id": 3690,
+            "title": "Some Advanced OpenCV Functions For Computer Vision Project Continued",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Computer Vision, Libraries, Python",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "In this article we are going to discuss some Advanced opencv functions you must know for your next computer Vision project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/88112cattura-1.jpg"
+        },
+        {
+            "id": 3691,
+            "title": "Interactive Data Visualization Plots with Plotly and Cufflinks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/interactive-data-visualization-plots-with-plotly-and-cufflinks/",
+            "authors": "Hardikkumar Dhaduk",
+            "tags": "Beginner, Data Visualization, Libraries, Programming, Python, Structured Data",
+            "publishedOn": "2021-07-23T00:00:00",
+            "description": "In this article we will discuss how to make interactive data visualization using opensource python Libraries Like plotly and cufflinks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_visualization_python_r_tableau.jpg"
+        },
+        {
+            "id": 3692,
+            "title": "The Biggest Data Science Blogathon \u2013 Prizes Worth INR 4 Lakh",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/the-biggest-data-science-blogathon-prizes-worth-inr-4-lakh/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Data Science Blogathon is he ultimate platform to write on your Data Science knowledge, get personal feedback and win monetary rewards",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/blogathon-10.png"
+        },
+        {
+            "id": 3693,
+            "title": "Let\u2019s Unfold the Mystery of Different Probability Distributions!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/lets-unfold-the-mystery-of-different-probability-distributions/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Probability, Programming, Python, Statistics, Structured Data",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Here, we will use the Random module of Python to visualize some of the common probability distributions and understand their Fundamentals",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/66246blog.png"
+        },
+        {
+            "id": 3694,
+            "title": "Some Advanced OpenCV Operations For Your Computer vision Project!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Computer Vision, Libraries, Programming, Python",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Opencv is an open source Computer Vision based Python Library. This article will introduce you to more features of the OpenCV Operations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/21137V6uxcpY.jpg"
+        },
+        {
+            "id": 3695,
+            "title": "Everything You Should Know About Built-In Data Structures in Python \u2013 A Beginner\u2019s Guide!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/everything-you-should-know-about-built-in-data-structures-in-python-a-beginners-guide/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Let's see how Data Structures allows us to organize and store collections of data, relate and perform operations in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/54402dsa-1.png"
+        },
+        {
+            "id": 3696,
+            "title": "Python\u2019s Collections Module Every Developer Should Know About!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/pythons-collections-module-every-developer-should-know/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Here, we will dive into Python's collections module that come pre-packaged with python, explore their use cases, and implement them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/18322files.jpg"
+        },
+        {
+            "id": 3697,
+            "title": "Get Started with Statistics for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/get-started-with-statistics-for-data-science/",
+            "authors": "Akil Ram",
+            "tags": "Beginner, Maths, Probability, Statistics",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Statistics is the study of collecting and extracting information from quantitative data for making inferences and decisions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74092Stat1.png"
+        },
+        {
+            "id": 3698,
+            "title": "Top 3 Ways to Write Your Tensorflow Code",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/top-3-ways-to-write-your-tensorflow-code/",
+            "authors": "Gargeya Sharma",
+            "tags": "Deep Learning, Intermediate, Libraries, Programming, Python",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "In this article, we will look at 3 Ways in which we can write TensorFlow and Keras code to create deep learning models AKA Neural Networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/28990maxresdefault.jpg"
+        },
+        {
+            "id": 3699,
+            "title": "Absolute Beginner\u2019s Series To Implement Neural Networks(Part-1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/absolute-beginners-series-to-implement-neural-networks-part-1/",
+            "authors": "Adwait Dathan R",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "Neural networks has become a buzzword these days because of their ability to do an amazing amount of work in various domains.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/70042Cover-Image.jpeg"
+        },
+        {
+            "id": 3700,
+            "title": "Must-Know Text Operations in Python before you dive into NLP!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-07-21T00:00:00",
+            "description": "Before proceeding to Natural Language Processing, understanding Text Operations is important. Let's explore Text Operations in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/20245Python-on-frontend-Brython.png"
+        },
+        {
+            "id": 3701,
+            "title": "Demystifying Stages in Snowflake",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/demystifying-stages-in-snowflake/",
+            "authors": "Deepti J",
+            "tags": "Advanced, AWS, Big data, Data Engineering, Project, Technique",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Stages in Snowflake are locations used to store data. In this article we will explore external and internal stages in snowflake.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/51964Snowflake_stages-768x432.png"
+        },
+        {
+            "id": 3702,
+            "title": "In-Depth Explanation Of Recurrent Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/in-depth-explanation-of-recurrent-neural-network/",
+            "authors": "Ashray Saini",
+            "tags": "Deep Learning, Intermediate",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "A recurrent Neural Network (RNN) is a part of the neural network's family used for processing sequential data such as text or audio.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 3703,
+            "title": "Bring Machine Learning Models to life using Flask and Flasgger",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/bring-machine-learning-models-to-life-using-flask-and-flasgger/",
+            "authors": "Siddharth Vohra",
+            "tags": "Advanced, Data Science, Libraries, MLops, Python",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Here, we will learn how we can bring a machine learning model to life using Flask and Flasgger package for turning a model into an API.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 3704,
+            "title": "A Comprehensive Guide to Decision trees",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/a-comprehensive-guide-to-decision-trees/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Data Science, Machine Learning, Python, Structured Data",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this series, we will be discussing how to train, visualize, and make predictions with Decision trees and an algorithm known as CART.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/90681fm.jpg"
+        },
+        {
+            "id": 3705,
+            "title": "Feature Engineering Techniques to follow in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/feature-engineering-techniques-to-follow-in-machine-learning/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Data Cleaning, Machine Learning, Pandas, Python",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, we will summarize the main techniques of feature engineering and provide a brief descriptions of each of them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80783thisisengineering-raeng-WDCE0T4khsE-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3706,
+            "title": "How to Analyse Air Pollution using Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/how-to-analyse-air-pollution-using-python/",
+            "authors": "Andre Kuniyoshi",
+            "tags": "Intermediate, Machine Learning, Project, Python, Time Series Forecasting",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Air pollution is a deadly entity plaguing humanity. In this article, we are going to explore how to do air pollution analysis using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/airpollution.png"
+        },
+        {
+            "id": 3707,
+            "title": "An Introduction To Simple Linear Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-linear-regression/",
+            "authors": "Snehal_bm",
+            "tags": "Beginner, Data Science, Linear Regression, Machine Learning, Python",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Linear regression is a supervised machine learning model majorly used in forecasting. In this article we learn about LR in detail.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/36908pic16.png"
+        },
+        {
+            "id": 3708,
+            "title": "Visualizing Netflix Data Using Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/visualizing-netflix-data-using-python/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Data Visualization, Libraries, Python",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, we will be visualizing Netflix data using python. Here, we will utilize on two python libraries Matplotlib and seaborn.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 3709,
+            "title": "A Simple Image Classification Project To Kickstart your Deep Learning Journey!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/image-classification-project-to-kickstart-your-deep-learning-journey/",
+            "authors": "Saniya Kolangde",
+            "tags": "Classification, Deep Learning, Image, Intermediate, Project, Supervised",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "Here, we will understand the basics of Deep Learning by deploying a neural network that in a flower image classification project on MATLAB.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/44950istockphoto-1041340360-612x612-1.jpg"
+        },
+        {
+            "id": 3710,
+            "title": "Feature Extraction and Embeddings in NLP: A Beginners guide to understand Natural Language Processing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/feature-extraction-and-embeddings-in-nlp-a-beginners-guide-to-understand-natural-language-processing/",
+            "authors": "Siddharth M",
+            "tags": "Advanced, NLP, Text",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, we will discuss the various methods of feature extraction and word embeddings practiced in Natural Language processing.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/81184do-robots-read-develandoo.jpg"
+        },
+        {
+            "id": 3711,
+            "title": "Demystifying the Difference Between Multi-Class and Multi-Label Classification Problem Statements in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Classification, Deep Learning, Machine Learning",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, demystify the Difference Between Multi-Class and Multi-Label Classification Problem Statements in Deep Learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 3712,
+            "title": "Metrics to Evaluate your Classification Model to take the right decisions",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/metrics-to-evaluate-your-classification-model-to-take-the-right-decisions/",
+            "authors": "Sumeet Kumar Agrawal",
+            "tags": "Beginner, Classification, Maths, Statistics",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, we will understand the Evaluation Metrics For Classification Model. This concept helps you choose the right models",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/evaluate.jpg"
+        },
+        {
+            "id": 3713,
+            "title": "Harry Potter\u2019s Invisible Cloak Using Computer Vision in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/07/harry-potters-invisible-cloak-using-opencv-python/",
+            "authors": "Puranjay Kwatra",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Project, Python, Unsupervised, Use Cases, Videos",
+            "publishedOn": "2021-07-20T00:00:00",
+            "description": "In this article, we will create Harry Potter's Invisible Cloak with OpenCV. OpenCV is a popular computer vision library in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/39093sdasdas.png"
+        }
+    ]
+}

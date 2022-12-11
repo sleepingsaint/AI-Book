@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5454,
+            "title": "A Practical Introduction to Prescriptive Analytics (with Case Study in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/practical-introduction-prescriptive-analytics/",
+            "authors": "Pranov_Mishra Mishra",
+            "tags": "Business Analytics, Classification, Data Exploration, Data Science, Intermediate, Machine Learning, R, Structured Data, Supervised, Technique",
+            "publishedOn": "2019-05-10T00:00:00",
+            "description": "Prescriptive analytics is the area of data analytics. In this article, learn about prescriptive analytics and how you can use it in the industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/graphics_1.jpg"
+        },
+        {
+            "id": 5455,
+            "title": "Extracting and Analyzing 1000 Basketball Games using Pandas and Chartify",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/scraping-nba-data-analyze-1000-basketball-games-python/",
+            "authors": "guest_blog",
+            "tags": "Data Mining, Intermediate, Machine Learning, Project, Python, Sports, Structured Data",
+            "publishedOn": "2019-05-08T00:00:00",
+            "description": "Learn how to use Python for scraping web data from the NBA stats website. There are plenty of examples and visualizations in this article!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/web-scraping-.jpg"
+        },
+        {
+            "id": 5456,
+            "title": "A Guide to Understanding Convolutional Neural Networks (CNNs) using Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/",
+            "authors": "Saurabh Pal",
+            "tags": "Advanced, Algorithm, Computer Vision, Deep Learning, Image, Python, Unstructured Data",
+            "publishedOn": "2019-05-06T00:00:00",
+            "description": "Neural networks can be challenging to understand. So we decided to decode them in the best way possible - by visualizing them using Python!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/man-nueral-network-red-.jpg"
+        },
+        {
+            "id": 5457,
+            "title": "Statistics for Data Science: Introduction to the Central Limit Theorem (with implementation in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/statistics-101-introduction-central-limit-theorem/",
+            "authors": "avcontentteam",
+            "tags": "Intermediate, Probability, R, Statistics, Structured Data, Technique",
+            "publishedOn": "2019-05-03T00:00:00",
+            "description": "What is the central limit theorem? What are it's applications? And how can you implement the central limit theorem in R?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/central-limit-theorem.jpg"
+        },
+        {
+            "id": 5458,
+            "title": "Don\u2019t Miss these 5 Data Science GitHub Projects and Reddit Discussions (April Edition)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/5-data-science-github-reddit-april/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Data Science, Deep Learning, Github, Listicle, Machine Learning, Python, Reddit",
+            "publishedOn": "2019-05-01T00:00:00",
+            "description": "Top 5 data science projects github. This article explains top data science projects on github and reddit discussion from April 2019 for every data scientist",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/github-5.jpg"
+        },
+        {
+            "id": 5459,
+            "title": "Last Chance to Register on our Flagship Program \u2013 AI & ML BlackBelt",
+            "url": "https://www.analyticsvidhya.com/blog/2019/05/last-chance-register-course-ai-ml-blackbelt/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement, Beginner, Interview Questions",
+            "publishedOn": "2019-05-01T00:00:00",
+            "description": "Last chance to register on our AI and ML BlackBelt course!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/AI-ML-BlackBelt.png"
+        },
+        {
+            "id": 5460,
+            "title": "Winning Solutions and Approaches from the Machine Learning Hikeathon: Feature Engineering Special!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/ml-hikeathon-winning-solution-approaches/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Beginner, Data Visualization, Graph Theory, Listicle, Machine Learning, Python, R, Winners Approach",
+            "publishedOn": "2019-04-30T00:00:00",
+            "description": "Check out the top 3 winning soltuions from the popular ML Hikeathon hosted by Analytics Vidhya and Hike!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/unnamed.png"
+        },
+        {
+            "id": 5461,
+            "title": "8 Awesome Data Science Capstone Projects from Praxis Business School",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/8-awesome-data-science-capstone-projects-from-praxis-business-school/",
+            "authors": "Kunal Jain",
+            "tags": "Computer Vision, Intermediate, Interview Questions, Listicle, Machine Learning, NLP, Project",
+            "publishedOn": "2019-04-29T00:00:00",
+            "description": "Data Science capstone projects from praxis business school. A list of top projects on Machine Learning, Natural Language Processing and Computer Vision (CV)",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/111.jpg"
+        },
+        {
+            "id": 5462,
+            "title": "Learn how to Build and Deploy a Chatbot in Minutes using Rasa (IPL Case Study!)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/",
+            "authors": "[email\u00a0protected] Sanad",
+            "tags": "Advanced, NLP, Project, Python, Sequence Modeling, Sports, Supervised, Text, Unstructured Data",
+            "publishedOn": "2019-04-29T00:00:00",
+            "description": "Learn how to build a chatbot using Rasa NLU? This article is a guide on how to build and deploy Rasa charbot with the IPL case study.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/ipl-bot-copy.jpg"
+        },
+        {
+            "id": 5463,
+            "title": "How I Built Animated Plots in R to Analyze my Fitness Data (and you can too!)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/how-built-personalized-interactive-fitness-tracker-dashboard-r/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Data Exploration, Data Visualization, R, Structured Data, Technique",
+            "publishedOn": "2019-04-26T00:00:00",
+            "description": "In this article, I showcase how I used my fitness tracker data and created really cool interactive and animated plots in R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/health-copy.jpg"
+        },
+        {
+            "id": 5464,
+            "title": "DataHack Radio #22: Exploring Computer Vision and Data Engineering with Dat Tran",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/datahack-radio-exploring-computer-vision-data-engineering-podcast-dat-tran/",
+            "authors": "Pranav Dar",
+            "tags": "Computer Vision, Intermediate, Podcast",
+            "publishedOn": "2019-04-25T00:00:00",
+            "description": "In one of the most fascinating DataHack Radio podcasts, Dat Tran joins us to talk about computer vision and data engineering related topics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/dat-cover-.png"
+        },
+        {
+            "id": 5465,
+            "title": "Predicting Movie Genres using NLP \u2013 An Awesome Introduction to Multi-Label Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, Classification, Machine Learning, NLP, Project, Python, Supervised, Technique, Telecom, Text, Unstructured Data",
+            "publishedOn": "2019-04-22T00:00:00",
+            "description": "Multi label classification model for predicting movie genres.In this article learn about predicting movie genres multi label classification model in NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/movie-plot-copy.jpg"
+        },
+        {
+            "id": 5466,
+            "title": "A Hands-On Introduction to Deep Q-Learning using OpenAI Gym in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/",
+            "authors": "Ankit Choudhary",
+            "tags": "Advanced, Algorithm, Libraries, Programming, Python, Reinforcement Learning, Reinforcement Learning, Structured Data",
+            "publishedOn": "2019-04-18T00:00:00",
+            "description": "An Introduction To Deep Reinforcement Learning. Learn about deep Q-learning, and build a deep Q-learning model in Python using keras and gym.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/atari-game-copy1.png"
+        },
+        {
+            "id": 5467,
+            "title": "8 Useful R Packages for Data Science You Aren\u2019t Using (But Should!)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/8-useful-r-packages-data-science/",
+            "authors": "avcontentteam",
+            "tags": "Data Science, Data Visualization, Intermediate, Libraries, Listicle, Machine Learning, Programming, R",
+            "publishedOn": "2019-04-17T00:00:00",
+            "description": "Check out these 8 amazing R packages you should be using in your machine learning project but haven't heard of yet! Code plus examples included.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/R1.png"
+        },
+        {
+            "id": 5468,
+            "title": "Build your First Multi-Label Image Classification Model in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Classification, Computer Vision, Deep Learning, Image, Intermediate, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2019-04-15T00:00:00",
+            "description": "An introduction of multi label image classification. In this tutorial Learn how to build multi label image classification models in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/Cover_Image.png"
+        },
+        {
+            "id": 5469,
+            "title": "DataHack Radio #21: Detecting Fake News using Machine Learning with Mike Tamir, Ph.D.",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/datahack-radio-machine-learning-identify-fake-news-mike-tamir/",
+            "authors": "Pranav Dar",
+            "tags": "Intermediate, NLP, Podcast",
+            "publishedOn": "2019-04-11T00:00:00",
+            "description": "Introduction Fake news is one of the biggest scourges in our digitally connected world. That is no exaggeration. It is no longer limited to little squabbles \u2013 fake news spreads like wildfire and is impacting millions of people every day. How do you deal with such a sensitive issue? Millions of articles are being churned [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/mike-cover.png"
+        },
+        {
+            "id": 5470,
+            "title": "Top 5 Interesting Applications of GANs for Every Machine Learning Enthusiast!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Beginner, Deep Learning, Listicle, Use Cases",
+            "publishedOn": "2019-04-08T00:00:00",
+            "description": "GANs are becoming ubiquitous in deep learning and their applications are springing up everywhere. Learn the top 5 GAN applications everyone must know about.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/capture3.jpg"
+        },
+        {
+            "id": 5471,
+            "title": "Top 5 Machine Learning GitHub Repositories and Reddit Discussions from March 2019",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/top-5-machine-learning-github-reddit/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Data Science, Deep Learning, Github, Listicle, Machine Learning, Reddit",
+            "publishedOn": "2019-04-04T00:00:00",
+            "description": "Introduction GitHub repositories and Reddit discussions \u2013 both platforms have played a key role in my machine learning journey. They have helped me develop my knowledge and understanding of machine learning techniques and business acumen. Both GitHub and Reddit also keep me abreast of the latest developments in machine learning \u2013 a MUST for anyone [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/github_4.png"
+        },
+        {
+            "id": 5472,
+            "title": "Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Advanced, Classification, Clustering, Computer Vision, Deep Learning, Image, Python, Supervised, Technique, Unstructured Data",
+            "publishedOn": "2019-04-01T00:00:00",
+            "description": "Image segmentation tutorial to learn about types of image segmentation and its techniques. A step by step guide for how to implement them in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/image-segmentation.png"
+        },
+        {
+            "id": 5473,
+            "title": "16 OpenCV Functions to Start your Computer Vision journey (with Python code)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/",
+            "authors": "Saurabh Pal",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate, Libraries, Listicle, Programming, Python, Unstructured Data",
+            "publishedOn": "2019-03-25T00:00:00",
+            "description": "An introduction to computer vision and use of opencv functions in it. Here is the list of opencv functions for computer vision projects with python codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/CV.jpg"
+        },
+        {
+            "id": 5474,
+            "title": "Infographic: 11 Steps to Transition into Data Science (for Reporting / MIS / BI Professionals)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/infographic-11-steps-transition-data-science-reporting-mis-bi/",
+            "authors": "Pranav Dar",
+            "tags": "Data Science, Data Visualization, Infographic, Infographics, Intermediate, Interview Questions",
+            "publishedOn": "2019-03-22T00:00:00",
+            "description": "This article presents an infographic to 11 steps for transitioning from Business Intelligence (BI) and MIS to data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/11-Steps-to-Transition-into-Data-Science3.png"
+        },
+        {
+            "id": 5475,
+            "title": "DataHack Radio #20: Building Interpretable Machine Learning Models with Christoph Molnar",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/datahack-radio-interpretable-machine-learning-christoph-molnar/",
+            "authors": "Pranav Dar",
+            "tags": "Advanced, Machine Learning, Podcast",
+            "publishedOn": "2019-03-20T00:00:00",
+            "description": "This DataHack Radio episode with Christoph Molnar looks at interpretable machine learning and it's importance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/Christoph-Molnar-cover1.png"
+        },
+        {
+            "id": 5476,
+            "title": "8 Excellent Pretrained Models to get you Started with Natural Language Processing (NLP)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/",
+            "authors": "Pranav Dar",
+            "tags": "Deep Learning, Intermediate, Listicle, NLP, Python, Resource",
+            "publishedOn": "2019-03-18T00:00:00",
+            "description": "This article contains some pretrained models to get started with natural language processing. This NLP pretrained model helps you to learn deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/nlp-models-copy.jpg"
+        },
+        {
+            "id": 5477,
+            "title": "5 Amazing Deep Learning Frameworks Every Data Scientist Must Know! (with Illustrated Infographic)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/",
+            "authors": "Pulkit Sharma",
+            "tags": "Beginner, Computer Vision, Deep Learning, Infographic, Infographics, Listicle, NLP, Python",
+            "publishedOn": "2019-03-14T00:00:00",
+            "description": "Deep learning frameworks, their applications and comparison. This article delves into 5 best deep learning frameworks tensorflow, pytorch, keras atc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/deep-learning-framework-icon.png"
+        },
+        {
+            "id": 5478,
+            "title": "A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, NLP, Python, Social Media, Technique, Text, Unstructured Data, Unsupervised, Word Embeddings",
+            "publishedOn": "2019-03-11T00:00:00",
+            "description": "ELMo is one of the best state-of-the-art frameworks to extract features from text. Learn what is ELMo and how to use ELMo for text classification in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/elmo-copy.jpg"
+        },
+        {
+            "id": 5479,
+            "title": "29 Inspiring Women Blazing a Trail in the Data Science World",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/inspiring-women-blazing-a-trail-in-the-data-science-world/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Listicle, Researchers & Scientists",
+            "publishedOn": "2019-03-08T00:00:00",
+            "description": "This article features women working in the data science field. From Airbnb to Stanford, we celebrate women changing the landscape of data science!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/woman-happiness-sunrise-silhouette-40192.jpeg"
+        },
+        {
+            "id": 5480,
+            "title": "DataHack Radio #19: The Path to Artificial General Intelligence with Professor Melanie Mitchell",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/datahack-radio-19-the-path-to-artificial-general-intelligence-with-professor-melanie-mitchell/",
+            "authors": "Pranav Dar",
+            "tags": "Advanced, Podcast",
+            "publishedOn": "2019-03-07T00:00:00",
+            "description": "Introduction \u201cPeople underestimate how complex intelligence is.\u201d How close are we to Artificial General Intelligence (AGI)? It seems we take a step closer to that reality with every breakthrough. And yet, it feels like a million miles away in the future. Why are we still so distant from AGI despite the unabated rise in computational [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/Melanie-Mitchell.png"
+        },
+        {
+            "id": 5481,
+            "title": "Hands-On Introduction to creditR: An Amazing R Package to Enhance Credit Risk Scoring and Validation",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Data Science, Libraries, Machine Learning, Programming, R, Structured Data",
+            "publishedOn": "2019-03-07T00:00:00",
+            "description": "Presenting an intuitive and easy-to-use R package to enhance credit risk scoring and validation! THis article contains comprehensive R code as well.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/Hands-On-Introduction-to-creditR_-An-Amazing-R-Package-to-Enhance-Credit-Risk-Scoring-and-Validation.jpg"
+        },
+        {
+            "id": 5482,
+            "title": "Top 5 Data Science GitHub Repositories and Reddit Discussions (February 2019)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/03/top-5-data-science-github-repositories-reddit-discussions-february-2019/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Data Science, Deep Learning, Github, Listicle, Python, R, Reddit",
+            "publishedOn": "2019-03-04T00:00:00",
+            "description": "This article covers the top 5 data science and machine learning GitHub repositories and Reddit discussions from February 2019.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/top-github_1.jpg"
+        },
+        {
+            "id": 5483,
+            "title": "Tips and Tricks to Ace Data Science Interviews \u2013 Brand New Podcast Series by Analytics Vidhya!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/tips-tricks-ace-data-science-interviews-podcast-analytics-vidhya/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Interview Questions, Interviews, Interviews, Listicle, Podcast, Researchers & Scientists, Structured Thinking",
+            "publishedOn": "2019-02-28T00:00:00",
+            "description": "Announcing a brand new podcast by Analytics Vidhya to help you ace data science interviews! Here are the first three episodes and their key takeaways.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/ADSI-Podcast.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14613,
+            "title": "Feature Engineering in Machine Learning",
+            "url": "https://neptune.ai/blog/feature-engineering-in-machine-learning",
+            "authors": "Akshay P Jain",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Companies are having difficulties with delivering and productionizing AI projects. This is painful and disappointing, and there are plenty of different solutions to problems like this. One of the major solutions is feature engineering. You see, feature engineering is involved in three of the five general pillars of any AI / ML project: Data, Analysis,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Feature-engineering-in-ML.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14616,
+            "title": "How to Solve Reproducibility in ML",
+            "url": "https://neptune.ai/blog/how-to-solve-reproducibility-in-ml",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Chances are that you\u2019ve come across a machine learning paper and tried to replicate it, only to find that you get very different results. You tweak your code but keep getting it wrong. At this point, you\u2019re doubting your skills as a data scientist, but don\u2019t worry. I\u2019m here to tell you that it\u2019s completely\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Solve-Reproducibility-in-ML.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14617,
+            "title": "XGBoost: Everything You Need to Know",
+            "url": "https://neptune.ai/blog/xgboost-everything-you-need-to-know",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Gradient boosting (GBM) trees learn from data without a specified model, they do unsupervised learning. XGBoost is a popular gradient-boosting library for GPU training, distributed computing, and parallelization. It\u2019s precise, it adapts well to all types of data and problems, it has excellent documentation, and overall it\u2019s very easy to use.\u00a0 At the moment it\u2019s\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/XGBoost_guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14619,
+            "title": "Vectorization Techniques in NLP [Guide]",
+            "url": "https://neptune.ai/blog/vectorization-techniques-in-nlp-guide",
+            "authors": "Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Natural Language is how we, humans, exchange ideas and opinions. There are two main mediums for natural language \u2013 speech and text.\u00a0 Listening and reading are effortless for a healthy human, but they\u2019re difficult for a machine learning algorithm. That\u2019s why scientists had to come up with Natural Language Processing (NLP). What is Natural Language\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Vectorization-Techniques-in-NLP-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14621,
+            "title": "Proof of Concept to Production",
+            "url": "https://neptune.ai/blog/proof-of-concept-to-production",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Proof of Concept (POC) is basically an experiment. It takes the form of a project, system, program, or product that isn\u2019t 100% finished, but ready enough to try it on a real-world case. In simple terms, Proof Of Concept is a demonstration to verify that your idea or theory can make it to the real\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Proof-of-Concept-to-Production-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14622,
+            "title": "Tokenization in NLP: Types, Challenges, Examples, Tools",
+            "url": "https://neptune.ai/blog/tokenization-in-nlp",
+            "authors": "Amal Menzli",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The first thing you need to do in any NLP project is text preprocessing. Preprocessing input text simply means putting the data into a predictable and analyzable form. It\u2019s a crucial step for building an amazing NLP application. There are different ways to preprocess text:\u00a0 stop word removal,\u00a0 tokenization,\u00a0 stemming.\u00a0 Among these, the most important\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Tokenization-in-NLP-Types-Challenges-Examples-Tools-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14623,
+            "title": "Machine Learning Engineer Interview: What to Expect?",
+            "url": "https://neptune.ai/blog/machine-learning-engineer-interview",
+            "authors": "Amal Menzli",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You\u2019re the one for the job. You know it, I know it\u2014but you still need to prove it to the job interviewer. You\u2019ll be judged on your skills, knowledge, and character, and you need to show that you\u2019re the right candidate. Oh, the stress! We all know what it\u2019s like. In a complex environment (and\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Machine-Learning-Engineer-Interview-What-to-Expect-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14624,
+            "title": "How to Do Data Labeling and Data Collection: Principles and Process",
+            "url": "https://neptune.ai/blog/data-labeling-and-data-collection",
+            "authors": "Motunrayo Olugbenga",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you find yourself wondering how datasets are built, you\u2019re not the only one. In machine learning, our models are a representation of their input data. A model works based on the data fed into it, so if the data is bad, the model performs poorly. Garbage in, garbage out. To build good models, we\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Do-Data-Labeling-and-Data-Collection-Principles-and-Process-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14625,
+            "title": "Setting up a Scalable Research Workflow for Medical ML at AILS Labs [Case Study]",
+            "url": "https://neptune.ai/blog/ml-research-workflow-case-study-ails-labs",
+            "authors": "Ahmed Gad",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "ailslab is a biomedical informatics research group on a mission to make humanity healthier. That mission is to build models which might someday save your heart from illness. It boils down to applying machine learning to predict cardiovascular disease development based on clinical, imaging, and genetics data. Four full-time and over five part-time team members.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Setting-up-a-Scalable-Research-Workflow-for-Medical-ML-at-AILS-Labs-Case-Study-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14626,
+            "title": "Implementing Customer Segmentation Using Machine Learning [Beginners Guide]",
+            "url": "https://neptune.ai/blog/customer-segmentation-using-machine-learning",
+            "authors": "Dhiraj Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "These days, you can personalize everything. There\u2019s no one-size-fits-all approach. But, for business, this is actually a great thing. It creates a lot of space for healthy competition and opportunities for companies to get creative about how they acquire and retain customers. One of the fundamental steps towards better personalization is customer segmentation. This is\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Implementing-Customer-Segmentation-Using-Machine-Learning-Beginners-Guide-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14627,
+            "title": "Version Control Guide For Machine Learning Researchers",
+            "url": "https://neptune.ai/blog/version-control-guide-for-machine-learning-researchers",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Version control is used to track and manage changes in your project, including key parameters, documentation, application, and a lot more. Version Control Systems (VCS) come in handy when multiple people are working on the same code. Without VCS a software project would be chaos. Version control is also called source control, or revision control.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Version-Control-Guide-For-Machine-Learning-Researchers-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14628,
+            "title": "Geospatial Data Science: Logging Interactive Charts in Neptune with Plotly [Guide]",
+            "url": "https://neptune.ai/blog/geospatial-data-science-logging-interactive-charts-in-neptune-with-plotly",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Geospatial data science is becoming an essential part of the data science landscape. Almost every event can be mapped to the surface of the earth. As a result, the field tends to answer detailed location questions and understand the features and rationale for their location. Like general data science, the geospatial provides a similar baseline\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Geospatial-Data-Science-Logging-Interactive-Charts-in-Neptune-with-Plotly-Guide-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14629,
+            "title": "How to Choose a Loss Function For Face Recognition",
+            "url": "https://neptune.ai/blog/how-to-choose-loss-function-for-face-recognition",
+            "authors": "Charudatta Manwatkar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Face Recognition (FR) is one of the most interesting tasks for Deep Learning. On a surface level, it looks like just another multi-class classification problem. When you try to implement it, you realize there\u2019s a lot more to it. The loss function choice is perhaps the most crucial factor that will dictate the performance of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Choose-a-Loss-Function-For-Face-Recognition-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14630,
+            "title": "Graph Neural Networks: Libraries, Tools, and Learning Resources",
+            "url": "https://neptune.ai/blog/graph-neural-networks-libraries-tools-learning-resources",
+            "authors": "Amal Menzli",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Graphs are a kind of data structure that models a set of objects (nodes) and their relationships (edges). Lots of learning tasks deal with graph data that have rich relationships and mutual dependency between objects. Graphs have a lot of practical uses \u2014 in social networks, natural science (physics systems), chemistry, medicine, and many other\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Graph-Neural-Networks-Libraries-Tools-and-Learning-Resources-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14631,
+            "title": "Explainability and Auditability in ML: Definitions, Techniques, and Tools",
+            "url": "https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools",
+            "authors": "Ejiro Onose",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Imagine that you have to present your newly built facial recognition feature to the technical heads of a SaaS product. The presentation goes relatively well until the CTO asks you \u201cso what exactly goes on inside?\u201d and all you can say is \u201cnobody knows, it\u2019s a black box\u201d.\u00a0 Pretty soon, other stakeholders would start to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Explainability-and-Auditability-in-ML-Definitions-Techniques-and-Tools-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14632,
+            "title": "Packaging ML Models: Web Frameworks and MLOps",
+            "url": "https://neptune.ai/blog/packaging-ml-models",
+            "authors": "Vetrivel PS",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, we\u2019ll see the what, why and how, of the top packaging tools \u2013 web-based frameworks and MLOps \u2013 for Data Science and ML projects. Data scientists and machine learning engineers need specific tools for building, deploying and monitoring these projects end-to-end.\u00a0 We\u2019ll go through several tools in detail, along with their key\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Packaging-ML-Models-Web-Frameworks-and-MLOps-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14633,
+            "title": "MLOps Problems and Best Practices",
+            "url": "https://neptune.ai/blog/mlops-problems-and-best-practices",
+            "authors": "Sunil Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You, me, all of us generate tons of data for every minute spent online. For business and science alike, this is an opportunity that can\u2019t be overlooked. The hype for AI and Machine Learning keeps ramping up, as more organizations adopt these technologies. The amount of user-generated data has grown exponentially. Traditional on-premise servers transformed\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-Problems-and-Best-Practices-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14634,
+            "title": "Best MLOps Tools For Your Computer Vision Project Pipeline",
+            "url": "https://neptune.ai/blog/best-mlops-tools-for-computer-vision-project",
+            "authors": "Akruti Acharya",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The lifecycle of an app or software system (also known as SDLC) has several main stages:\u00a0 Planning,\u00a0 Development,\u00a0 Testing,\u00a0 Deployment, Then again, back to new releases with features, updates, and/or fixes as needed.\u00a0 To carry out these processes, software development relies on DevOps to streamline development while continuously delivering new releases and maintaining quality.\u00a0 The\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-MLOps-Tools-For-Your-Computer-Vision-Project-Pipeline-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14635,
+            "title": "When MLOps Is an Organizational and Communication Problem \u2013 Not a Tech Problem",
+            "url": "https://neptune.ai/blog/mlops-organizational-and-communication-problem-not-a-tech-problem",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, you will get a compact overview of MLOps, its stages. You will also get a walkthrough of instances when MLOps is an organizational and communication problem and when it is a tech problem and how to resolve these challenges. What is MLOps? MLOps is closely inspired by the concept of DevOps where\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-MLOps-Is-an-Organizational-and-Communication-Problem-Not-a-Tech-Problem-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14636,
+            "title": "How These 8 Companies Implement MLOps: In-Depth Guide",
+            "url": "https://neptune.ai/blog/how-these-8-companies-implement-mlops",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You\u2019ve probably seen the (not so recent, but still true) news: Yup! Unfortunately, there are a lot of cases where companies try to operationalize their ML projects in a way that makes sense to their business but never really reach a successful implementation.\u00a0 The last mile for AI project success is the deployment and management\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-too-stack-companies.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14637,
+            "title": "Segmenting and Colorizing Images in IOS App Using Deoldify and Django API",
+            "url": "https://neptune.ai/blog/segmenting-and-colorizing-images-in-ios-app",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Image segmentation falls under the field of imaging involving deep object detection and recognition. If we segregate an image into multiple regions by separating pixel-wise, each object in the scene allows us to train sophisticated deep learning models for tasks that require high standards of image analysis and context interpretation. Models trained this way can\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Segmenting-and-Colorizing-Images-in-IOS-App-Using-Deoldify-and-Django-API-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14638,
+            "title": "Top Machine Learning Startups to Watch in 2021",
+            "url": "https://neptune.ai/blog/top-machine-learning-startups-to-watch",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning has come a long way. After decades of research, machine learning went mainstream in 2012 when an AI solution won the ImageNet challenge by a whopping margin of 10.8%, or 41% better than the runner-up score! From very limited usage in the business world before 2012, machine learning dependency has gone up exponentially\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Top-Machine-Learning-Startups-to-Watch-in-2021-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14639,
+            "title": "Model Registry Makes MLOps Work: Here\u2019s Why",
+            "url": "https://neptune.ai/blog/model-registry-makes-mlops-work",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Model Registry is a part of the machine learning lifecycle or MLOps. It is a service that manages multiple model artifacts, tracks, and governs models at different stages of the ML lifecycle. Model registry is a collaborative hub where teams can work together at different stages of the machine learning lifecycle, starting from the experimentation\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-Registry-Makes-MLOps-Work-Heres-Why-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14640,
+            "title": "What Makes a Successful Machine Learning Engineer? My Story",
+            "url": "https://neptune.ai/blog/what-makes-a-successful-machine-learning-engineer-my-story",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You\u2019ve been doing machine learning for quite a while, and you\u2019re starting to notice that your workload throughout a project is not constant. There are highs, with tasks that require your full dedication, and lows, where you mostly supervise processes that you\u2019ve previously launched. You can do a lot of different things during the lows.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/What-Makes-a-Successful-Machine-Learning-Engineer-My-Story-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14641,
+            "title": "How to Run Machine Learning Projects: Best Practices",
+            "url": "https://neptune.ai/blog/how-to-run-machine-learning-projects-best-practices",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "ML and data science is evolving rapidly. In the past few years, there has been a lot of progress in terms of integrating with different technologies and business workflows.\u00a0 If you\u2019re working on a business ML project, you might do many things before and after calling .fit() and .predict(). In this article, we\u2019ll discuss the\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Run-Machine-Learning-Projects-\u2013-Best-Practices-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14642,
+            "title": "How to Code BERT Using PyTorch \u2013 Tutorial With Examples",
+            "url": "https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you are an NLP enthusiast then you might have heard about BERT. In this article, we are going to explore BERT: what it is? and how it works?, and learn how to code it using PyTorch. In 2018, Google published a paper titled \u201cPre-training of deep bidirectional transformers for language understanding\u201d. In this paper,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-code-BERT.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14643,
+            "title": "Create a Face Recognition Application Using Swift, Core ML, and TuriCreate",
+            "url": "https://neptune.ai/blog/create-a-face-recognition-application",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Facial recognition technologies have been up for a while now, involved in always more applications that for sure revolutionize our lives. Applications relying on such technologies assure the end customer advanced trustworthiness for data privacy and security. Although some recent ethical controversies like Clearview AI have largely echoed the possible threats of public facial identification,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Face-recognition-app.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14644,
+            "title": "Unmasking BERT: The Key to Transformer Model Performance",
+            "url": "https://neptune.ai/blog/unmasking-bert-transformer-model-performance",
+            "authors": "Cathal Horan",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you\u2019re reading this article, you probably know about Deep Learning Transformer models like BERT. They\u2019re revolutionizing the way we do Natural Language Processing (NLP).\u00a0 In case you don\u2019t know, we wrote about the history and impact of BERT and the Transformer architecture in a previous post. These models perform very well. But why? And\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Unmasking-BERT-The-Key-to-Transformer-Model-Performance-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14645,
+            "title": "Data Cleaning Process: How Should It Look Like?",
+            "url": "https://neptune.ai/blog/data-cleaning-process",
+            "authors": "Fuad Adio",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Data cleaning is simply the process of preparing data for analysis by means of modifying, adding to or removing from it. This process is also commonly referred to as data preprocessing. It\u2019s very important for data scientists and machine learning engineers to be very skilled in the area of data cleaning because all the insights\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Data-Cleaning-Process-How-Should-It-Look-Like-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14646,
+            "title": "Best Practices For Data Science Project Workflows and File Organizations",
+            "url": "https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations",
+            "authors": "Kurtis Pykes",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Since the 2012 article released by Harvard Business Review called Data Science the sexiest job of the 21st century, the field has taken all industries by storm. Data Science jobs never fail to reach the top-ranked best job listings \u2013 It\u2019s no surprise that one job listing could receive 200-300 applicants per day. An article\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Practices-For-Data-Science-Project-Workflows-and-File-Organizations-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

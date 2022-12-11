@@ -1,0 +1,149 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 15099,
+            "title": "ChatGPT: Unlocking the Potential of Artificial Intelligence for Human-Like Conversation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/12/chatgpt-unlocking-the-potential-of-artificial-intelligence-for-human-like-conversation/",
+            "authors": "Ganeshi Shreya",
+            "tags": "Advanced, ChatGPT, GPT-3, InstructGPT, Reinforcement Learning",
+            "publishedOn": "2022-12-11T00:00:00",
+            "description": "In this article, we'll discuss the state-of-the-art language models by Open AI, GPT, and how it led to the breakthrough of ChatGPT.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/Reinforcement-Learning_3.png",
+            "sourceId": 3,
+            "source": "Analytics Vidhya Blog"
+        },
+        {
+            "id": 15100,
+            "title": "Salesforce Presents AI Summarist: A Conversational AI Tool That Helps User Manage Their Information Consumption As Per Their Work Preferences",
+            "url": "https://www.marktechpost.com/2022/12/11/salesforce-presents-ai-summarist-a-conversational-ai-tool-that-helps-user-manage-their-information-consumption-as-per-their-work-preferences/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-12-11T00:00:00",
+            "description": "Slack is an effective productivity tool used by professionals and teams worldwide to stay in touch and update on the latest work-related information in an asynchronous fashion. But as the number (and types) of conversations in Slack that a user follows grows, so does their overall information intake. This may cause users to experience an ever-increasing cognitive burden, which can be distracting and impede deep work. The cognitive load of a user can often increase when they are actively participating in several Slack channels throughout the day while also managing their business. To assist users in effectively processing the constant",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/pasted-image-0.png",
+            "sourceId": 15,
+            "source": "MarkTechPost"
+        },
+        {
+            "id": 15094,
+            "title": "Training a Single Output Multilinear Regression Model in PyTorch",
+            "url": "https://machinelearningmastery.com/training-a-single-output-multilinear-regression-model-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-10T00:00:00",
+            "description": null,
+            "thumbnail": null,
+            "sourceId": 14,
+            "source": "Machine Learning Mastery Blog"
+        },
+        {
+            "id": 15097,
+            "title": "Top 5 Interview Questions on Cloud Computing",
+            "url": "https://www.analyticsvidhya.com/blog/2022/12/top-5-interview-questions-on-cloud-computing/",
+            "authors": "Shikha Sharma",
+            "tags": "Cloud Computing, Cyber Security, Database, Intermediate, Interview Questions, Learning Path",
+            "publishedOn": "2022-12-10T00:00:00",
+            "description": "This blog talks about five interview-winning questions that'll help you to set a pace for cloud computing and ace your upcoming interview!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png",
+            "sourceId": 3,
+            "source": "Analytics Vidhya Blog"
+        },
+        {
+            "id": 15098,
+            "title": "Meet this Artificial Intelligence Model called \u2018PhysDiff,\u2019 which Instills the Laws of Physics into the Diffusion Process to Generate Physically Plausible Human Motions",
+            "url": "https://www.marktechpost.com/2022/12/10/meet-this-artificial-intelligence-model-called-physdiff-which-instills-the-laws-of-physics-into-the-diffusion-process-to-generate-physically-plausible-human-motions/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-12-10T00:00:00",
+            "description": "Human motion generation via deep learning is crucial with many applications in virtual reality, gaming, and animation. They must learn a conditional generative model that can capture the multi-modal distribution of human motions in common contexts like text-to-motion synthesis. Due to the wide range of human motions and the various interactions between human body parts, the distribution can be very complex. Due to their excellent capacity to simulate complex distributions, which has been extensively proved in the image generation domain, denoising diffusion models are generative models that are particularly well suited for this task. High test likelihood has frequently demonstrated",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-10-at-11.28.13-PM.png",
+            "sourceId": 15,
+            "source": "MarkTechPost"
+        },
+        {
+            "id": 15084,
+            "title": "How do you generate synthetic data for machine learning and why do you need it?",
+            "url": "https://machinelearningmastery.com/mostly-generate-synethetic-data-machine-learning-why/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": null,
+            "thumbnail": null,
+            "sourceId": 14,
+            "source": "Machine Learning Mastery Blog"
+        },
+        {
+            "id": 15087,
+            "title": "Making Predictions with Multilinear Regression in PyTorch",
+            "url": "https://machinelearningmastery.com/making-predictions-with-multilinear-regression-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": null,
+            "thumbnail": null,
+            "sourceId": 14,
+            "source": "Machine Learning Mastery Blog"
+        },
+        {
+            "id": 15091,
+            "title": "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+            "url": "https://huggingface.co/blog/elixir-bumblebee",
+            "authors": "josevalim",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/120_elixir-bumblebee/thumbnail.png",
+            "sourceId": 11,
+            "source": "Huggingface Blog"
+        },
+        {
+            "id": 15092,
+            "title": "Track Football Players with Computer Vision",
+            "url": "https://blog.roboflow.com/track-football-players/",
+            "authors": "Piotr Skalski",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "In this post, we use a YOLOv5 detection model and state-of-the-art tracker ByteTRACK to track football players.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/12/Copy-of-Blog-Image-Template--2-.jpg",
+            "sourceId": 18,
+            "source": "Roboflow Blog"
+        },
+        {
+            "id": 15093,
+            "title": "Illustrating Reinforcement Learning from Human Feedback (RLHF)",
+            "url": "https://huggingface.co/blog/rlhf",
+            "authors": "natolambert",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/120_rlhf/thumbnail.png",
+            "sourceId": 11,
+            "source": "Huggingface Blog"
+        },
+        {
+            "id": 15095,
+            "title": "Stanford AIMI Researchers Found a Way to Generate Synthetic Chest X-rays by Fine-Tuning the Open-Source Stable Diffusion Foundation Model",
+            "url": "https://www.marktechpost.com/2022/12/09/stanford-aimi-researchers-found-a-way-to-generate-synthetic-chest-x-rays-by-fine-tuning-the-open-source-stable-diffusion-foundation-model/",
+            "authors": "Yug Dedhia",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "There are many multi-modal foundation models existing, which are typically trained on millions of natural images and their text captions. Medical images are just a small portion of the whole distributed dataset. These datasets are not effective for domain-specific tasks since medical field professionals use different terminologies and semantics. There are dedicated datasets available, but they are very heavily priced in terms of computing power. This created barriers to proceeding with many research topics. Stanford AIMI scholars came up with building generative models using these open-source datasets for medical images that will help reduce the gap in training data in",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-10-at-8.02.00-AM.png",
+            "sourceId": 15,
+            "source": "MarkTechPost"
+        },
+        {
+            "id": 15096,
+            "title": "RISELab Team At UC Berkeley Open Sources Skypilot: A Novel Framework That Targets Cloud Cost Optimization for Machine Learning and Data Science",
+            "url": "https://www.marktechpost.com/2022/12/09/riselab-team-at-uc-berkeley-open-sources-skypilot-a-novel-framework-that-targets-cloud-cost-optimization-for-machine-learning-and-data-science/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": "The two of the biggest problems for both large and small enterprises are analysis and storage. To begin, the rate at which Big Data is being produced has increased dramatically. One of a company's key responsibilities is the safe and cost-effective storage of this data, which is where the Cloud comes in. Although using the Cloud for machine learning and data science is challenging in and of itself, adding cost-reduction measures can significantly increase the difficulty level. Researchers at UC Berkeley's RISELab have launched Skypilot, an open-source framework for managing machine learning workloads across several cloud providers with a single",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-10-at-7.15.14-AM.png",
+            "sourceId": 15,
+            "source": "MarkTechPost"
+        }
+    ]
+}

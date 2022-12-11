@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1004,
+            "title": "Managing missing values in your target and related datasets with automated imputation support in Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-missing-values-in-your-target-and-related-datasets-with-automated-imputation-support-in-amazon-forecast/",
+            "authors": "Rohit Menon, Danielle Robinson, Heesung Sohn, Tomonori Shimomura",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-06-04T00:00:00",
+            "description": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, supply chain optimization, resource planning, energy demand forecasting, and computing cloud infrastructure usage. With Forecast, there are no [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/Forecast_Look_Up_3.gif"
+        },
+        {
+            "id": 1005,
+            "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
+            "authors": "Sam Bean, Nic Roberts II",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, \u201cStockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace\u2014our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities. With a transparent market experience, StockX [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif"
+        },
+        {
+            "id": 1006,
+            "title": "Multi-GPU distributed deep learning training at scale with Ubuntu18 DLAMI, EFA on P3dn instances, and Amazon FSx for Lustre",
+            "url": "https://aws.amazon.com/blogs/machine-learning/multi-gpu-distributed-deep-learning-training-at-scale-on-aws-with-ubuntu18-dlami-efa-on-p3dn-instances-and-amazon-fsx-for-lustre/",
+            "authors": "Purna Sanyal",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "AWS Deep Learning AMI (Ubuntu 18.04) is optimized for deep learning on EC2 Accelerated Computing Instance types, allowing you to scale out to multiple nodes for distributed workloads more efficiently and easily. It has a prebuilt Elastic Fabric Adapter (EFA), Nvidia GPU stack, and many deep learning frameworks (TensorFlow, MXNet, PyTorch, Chainer, Keras) for distributed [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/08/ease-of-running-bert-1.png"
+        },
+        {
+            "id": 1007,
+            "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
+            "authors": "Shashank Prasanna, Alex Chung",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2020-06-02T00:00:00",
+            "description": "Today we\u2019re announcing Amazon SageMaker Components for Kubeflow Pipelines. This post shows how to build your first Kubeflow pipeline with Amazon SageMaker components using the Kubeflow Pipelines SDK. Kubeflow is a popular open-source machine learning (ML) toolkit for Kubernetes users who want to build custom ML pipelines.\u00a0\u00a0Kubeflow Pipelines is an add-on to Kubeflow that lets [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/01/sagemaker-kubeflow-pipelines-006.jpg"
+        },
+        {
+            "id": 1008,
+            "title": "Alexa uses Amazon Translate to reach more international customers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
+            "authors": "Heike Schirmer",
+            "tags": "Alexa, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new soccer leagues, regional celebrities, and important historical [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1009,
+            "title": "Amazon Textract is now SOC and ISO compliant",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
+            "authors": "Jon Turow",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance. This launch builds upon the existing portfolio of AWS ML services [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png"
+        },
+        {
+            "id": 1010,
+            "title": "Creating a music genre model with your own data in AWS DeepComposer",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
+            "authors": "Kesha Williams",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "AWS DeepComposer is an educational AWS service that teaches generative AI and uses Generative Adversarial Networks (GANs) to transform a melody that you provide into a completely original song. With AWS DeepComposer, you can use one of the pre-trained music genre models (such as Jazz, Rock, Pop, Symphony, or Jonathan-Coulton) or train your own. As [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-1.gif"
+        },
+        {
+            "id": 1011,
+            "title": "Designing human review workflows with Amazon Translate and Amazon Augmented AI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/designing-human-review-workflows-with-amazon-translate-and-amazon-augmented-ai/",
+            "authors": "Mayank Thakkar, Purnesh Tripathi",
+            "tags": "Amazon Augmented AI, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-05-29T00:00:00",
+            "description": "The world is becoming smaller as many businesses and organizations expand globally. As businesses expand their reach to wider audiences across different linguistic groups, their need for interoperability with multiple languages increases exponentially. Most of the industry work is manual, slow, and expensive human effort, with many industry verticals struggling to find a scalable, reliable, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/27/image001-1.jpg"
+        },
+        {
+            "id": 1012,
+            "title": "Implementing hyperparameter optimization with Optuna on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/implementing-hyperparameter-optimization-with-optuna-on-amazon-sagemaker/",
+            "authors": "Yoshitaka Haribara, Shoko Utsunomiya",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-05-28T00:00:00",
+            "description": "Preferred Networks (PFN) released the first major version of their open-source hyperparameter optimization (HPO) framework Optuna\u00a0in January 2020, which has an eager API. This post introduces a method for HPO using Optuna and its reference architecture in Amazon SageMaker. Amazon SageMaker supports various frameworks and interfaces such as TensorFlow, Apache MXNet, PyTorch, scikit-learn, Horovod, Keras, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/optuna-1-674x630.gif"
+        },
+        {
+            "id": 1013,
+            "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+            "authors": "Jared Nielsen, Aditya Bindal, Derya Cavdar",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2020-05-27T00:00:00",
+            "description": "At re:Invent 2019, AWS\u00a0shared\u00a0the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure, network, and ML framework.\u00a0Today, we\u2019re open-sourcing the optimized training code\u00a0for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif"
+        },
+        {
+            "id": 1014,
+            "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker/",
+            "authors": "Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2020-05-26T00:00:00",
+            "description": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments, and workflow automation to orchestrate all of the above for production. Friction [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1015,
+            "title": "Gain customer insights using Amazon Aurora machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
+            "authors": "Veronika Megler, Vitalina Komashko",
+            "tags": "Amazon Aurora, Amazon SageMaker, Artificial Intelligence, Database",
+            "publishedOn": "2020-05-21T00:00:00",
+            "description": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there\u2019s a common need to make this relational data available for training ML models, and to use ML models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif"
+        },
+        {
+            "id": 1016,
+            "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+            "authors": "Tara Shankar Jana",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2020-05-19T00:00:00",
+            "description": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. AWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise. In this scholarship program, all eligible students [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/19/ml-scholarship-2.jpg"
+        },
+        {
+            "id": 1017,
+            "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/",
+            "authors": "Saeed Aghabozorgi, Arun Santhosh, Raj Patel, Luis Wang",
+            "tags": "Amazon QuickSight, Amazon SageMaker, Analytics, Artificial Intelligence",
+            "publishedOn": "2020-05-18T00:00:00",
+            "description": "AWS is excited to announce the general availability of Amazon SageMaker integration in QuickSight. You can now integrate your own Amazon SageMaker ML models with QuickSight to analyze the augmented data and use it directly in your business intelligence dashboards. As a business analyst, data engineer, or data scientist, you can perform ML inference in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/06/quicksight-sagemaker-38.jpg"
+        },
+        {
+            "id": 1018,
+            "title": "Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-speech-to-text-accuracy-of-covid-19-related-terms-with-amazon-transcribe-medical/",
+            "authors": "Paul Zhao, Katrin Kirchhoff, Ruoyu Huang, Scott Seyfarth",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-05-15T00:00:00",
+            "description": "As the world responds to the ongoing pandemic, it\u2019s more important than ever to accurately access, consume, and analyze information related to COVID-19. Topics about the healthcare crisis permeate many dimensions of our personal and professional lives, through channels as diverse as news reporting, social media, business meetings, radio and podcasts, customer support calls, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/15/transcribing-covid-social.jpg"
+        },
+        {
+            "id": 1019,
+            "title": "Analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-tagging-assets-stored-in-veeva-vault-promomats-using-amazon-ai-services/",
+            "authors": "Mayank Thakkar",
+            "tags": "Amazon Comprehend Medical, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-05-15T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Veeva Systems is a provider of cloud-based software for the global life sciences industry, which offers products that serve multiple domains ranging from clinical, regulatory, quality, and more. Veeva\u2019s Vault Platform manages both content and data in a single platform [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/veevo-1-2.gif"
+        },
+        {
+            "id": 1020,
+            "title": "Omnichannel personalization with Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/omnichannel-personalization-with-amazon-personalize/",
+            "authors": "James Jory",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-05-14T00:00:00",
+            "description": "As the touchpoints customers use to engage with brands move to an increasingly complex mixture of digital and real-life interactions, you\u2019re faced with the daunting task of delighting your customers with personalized experiences that hit the mark across these channels. Customer expectations are evolving as well. Today\u2019s customers quickly lose patience with brands that can\u2019t [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/image002.jpg"
+        },
+        {
+            "id": 1021,
+            "title": "AWS to offer NVIDIA A100 Tensor Core GPU-based Amazon EC2 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-to-offer-nvidia-a100-tensor-core-gpu-based-amazon-ec2-instances/",
+            "authors": "Geoff Murase",
+            "tags": "Amazon EC2, Artificial Intelligence, Compute",
+            "publishedOn": "2020-05-14T00:00:00",
+            "description": "Tens of thousands of customers rely on AWS for building machine learning (ML) applications. Customers like Airbnb and Pinterest use AWS to optimize their search recommendations, Lyft and Toyota Research Institute to develop their autonomous vehicle programs, and Capital One and Intuit to build and deploy AI-powered customer assistants. AWS offers the broadest and deepest [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/13/AWS-NVDA.gif"
+        },
+        {
+            "id": 1022,
+            "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical/",
+            "authors": "Simran Baxendale, Alex Chirayath, Shivani Mehendarge",
+            "tags": "Amazon Comprehend Medical, Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "December 2020 Update \u2013 This blog post now also covers how the Medical Transcription Analysis can also be used to store and retrieve medical transcriptions and relevant information using Amazon DynamoDB and Amazon S3 and how all of this data can be analyzed using Amazon Athena. The healthcare industry is a highly regulated and complex [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/08/mta-8.jpg"
+        },
+        {
+            "id": 1023,
+            "title": "Increasing customer engagement and loyalty with personalized coupon recommendations using Amazon Personalize",
+            "url": "https://aws.amazon.com/blogs/machine-learning/increasing-customer-engagement-and-loyalty-with-personalized-coupon-recommendations-using-amazon-personalize/",
+            "authors": "Sungoh Park, Kyoungtae Hwang",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "This is a guest blog post by Sungoh Park, a big data analyst at Lotte Mart. In their own words, \u201cLotte Mart, a division of Lotte Co., Ltd., is a leading South Korean retailer that sells a variety of groceries, clothing, toys, electronics, and other goods.\u201d Consumers today have many options for purchasing daily necessities; [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/lotte-mart-2.jpg"
+        },
+        {
+            "id": 1024,
+            "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
+            "authors": "Ravikant Gupta, Shayon Sanyal",
+            "tags": "Artificial Intelligence, AWS DeepLens, Internet of Things",
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you\u2019re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you\u2019d typically face include the when (when is the right time to water), the where [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif"
+        },
+        {
+            "id": 1025,
+            "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/",
+            "authors": "Chris Porter, Mike Ames",
+            "tags": "Amazon Fraud Detector, Artificial Intelligence",
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud. Amazon Fraud Detector combines your data, the latest in ML science, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/fraud-detector-4.jpg"
+        },
+        {
+            "id": 1026,
+            "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio/",
+            "authors": "David Leen, Jaipreet Singh",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-05-01T00:00:00",
+            "description": "Amazon Web Services (AWS) is happy to announce the general availability of Notebooks within Amazon SageMaker Studio. Amazon SageMaker Studio supports on-the-fly selection of machine learning (ML) instance types, optimized and pre-packaged Amazon SageMaker Images, and sharing of Jupyter notebooks. You can switch a notebook from using a kernel on one instance type to another, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/04/sagemaker-notebooks-2.gif"
+        },
+        {
+            "id": 1027,
+            "title": "Advance your career with a scholarship to the AWS Machine Learning Engineer Nanodegree program from Udacity",
+            "url": "https://aws.amazon.com/blogs/machine-learning/advance-your-career-with-a-scholarship-to-the-aws-machine-learning-engineer-nanodegree-program-from-udacity/",
+            "authors": "Tara Shankar Jana",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2020-04-30T00:00:00",
+            "description": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought-after skill set in today\u2019s job market. The growth of artificial intelligence is expected to create 58 million net new jobs in the next few years, according to the World Economic Forum [1]. However, according to the Tencent Research Institute, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/30/fb-li-aws-announcement.jpg"
+        },
+        {
+            "id": 1028,
+            "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
+            "authors": "Amit Mukherjee, Georges Leschener",
+            "tags": "Amazon Rekognition, Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2020-04-29T00:00:00",
+            "description": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled devices with AI/ML technologies at home. This post showcases how to use AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif"
+        },
+        {
+            "id": 1029,
+            "title": "ML Explainability with Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ml-explainability-with-amazon-sagemaker-debugger/",
+            "authors": "Mona Mona, Rahul Iyer, Sireesha Muppala",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-04-28T00:00:00",
+            "description": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing\u00a0 to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology that has the potential to benefit organizations of all sizes. However, a lack [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/sagemaker-debugger-explainability-8.gif"
+        },
+        {
+            "id": 1030,
+            "title": "Build forecasts and find anomalies from your data with Amazon QuickSight ML Insights",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-forecasts-and-find-anomalies-from-your-data-with-amazon-quicksight-ml-insights/",
+            "authors": "Pranabesh Mandal, Karthik Kumar Odapally",
+            "tags": "Amazon QuickSight, Analytics, Artificial Intelligence",
+            "publishedOn": "2020-04-27T00:00:00",
+            "description": "As technology is advancing, your business is collecting more and more data from different sources. After collecting so many data points, it is often challenging to find the right insights to help your business grow. Dashboards are great at visualizing your data, based upon how you built them, but not always great at finding hidden [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Quicksight-ML-Insights-23.gif"
+        },
+        {
+            "id": 1031,
+            "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
+            "authors": "Jonathan Chung, Anna Luo, Bharathan Balaji, Vishaal Kapoor, Scott Perry, Xavier Raffin",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-04-24T00:00:00",
+            "description": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake\u2019s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based strategies to state-of-the-art deep reinforcement learning (RL) algorithms. You [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif"
+        },
+        {
+            "id": 1032,
+            "title": "Amazon A2I is now generally available",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
+            "authors": "Andrea Youmans, Anuj Gupta",
+            "tags": "Amazon Augmented AI, Artificial Intelligence",
+            "publishedOn": "2020-04-24T00:00:00",
+            "description": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and complex human review systems, so you can ensure your [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png"
+        },
+        {
+            "id": 1033,
+            "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference/",
+            "authors": "Julien Simon",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-04-22T00:00:00",
+            "description": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thompson Reuters, use Amazon SageMaker to remove the heavy lifting from each step of the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        }
+    ]
+}

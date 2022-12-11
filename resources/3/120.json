@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5544,
+            "title": "An Introduction to Random Forest using the fastai Library (Machine Learning for Programmers \u2013 Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/10/comprehensive-overview-machine-learning-part-1/",
+            "authors": "Aishwarya Singh",
+            "tags": "Automobiles, Data Science, Intermediate, Libraries, Machine Learning, Pandas, Programming, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2018-10-08T00:00:00",
+            "description": "This article provides a comprehensive summary of fast.ai\u2019s machine learning course. It's an introduction to random forest using the fastai library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/machine-learning-using-fast.jpg"
+        },
+        {
+            "id": 5545,
+            "title": "Simplifying Data Preparation and Machine Learning Tasks using RapidMiner",
+            "url": "https://www.analyticsvidhya.com/blog/2018/10/rapidminer-data-preparation-machine-learning/",
+            "authors": "guest_blog",
+            "tags": "Classification, Data Exploration, Intermediate, Libraries, Machine Learning, Programming, Rapidminer, Structured Data, Supervised",
+            "publishedOn": "2018-10-08T00:00:00",
+            "description": "Learn how to use RapidMinder's latest tool to simplify and automate data rpeparation and other machine learning tasks!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/Blog-Flight-Image-dark.jpg"
+        },
+        {
+            "id": 5546,
+            "title": "5 Amazing Machine Learning GitHub Repositories & Reddit Threads from September 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/10/best-machine-learning-github-repositories-reddit-threads-september-2018/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Data Science, Deep Learning, Github, Listicle, Machine Learning, Python, Reddit",
+            "publishedOn": "2018-10-04T00:00:00",
+            "description": "We list down the best machine learning and deep learning GitHub repositories and Reddit discussions from September, 2018 in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/best-github.jpg"
+        },
+        {
+            "id": 5547,
+            "title": "DataHack Radio #11: Decision Intelligence with Google Cloud\u2019s Chief Decision Scientist, Cassie Kozyrkov",
+            "url": "https://www.analyticsvidhya.com/blog/2018/10/datahack-radio-decision-intelligence-google-cloud-cassie-kozyrkov/",
+            "authors": "Pranav Dar",
+            "tags": "Intermediate, Podcast",
+            "publishedOn": "2018-10-03T00:00:00",
+            "description": "This episode of DataHack Radio features Google Cloud's Cassie Kozyrkov talking about decision intelligence and it's role in the data science world.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/Cassie-Kozyrkov1.jpg"
+        },
+        {
+            "id": 5548,
+            "title": "Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/",
+            "authors": "Prateek Joshi",
+            "tags": "Algorithm, Data Science, Intermediate, Machine Learning, NLP, Python, Technique, Text, Topic Modeling, Unstructured Data, Unsupervised",
+            "publishedOn": "2018-10-01T00:00:00",
+            "description": "Latent Semantic Analysis is a Topic Modeling technique. This article gives an intuitive understanding of Topic Modeling along with Python implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/Latent-Semantic-Analysis.jpg"
+        },
+        {
+            "id": 5549,
+            "title": "Building DataHack Summit 2018 \u2013 India\u2019s Most Advanced AI Conference. Are you Ready?",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/building-datahack-summit-2018-indias-most-advanced-ai-conference-are-you-ready/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Announcement, Beginner",
+            "publishedOn": "2018-09-27T00:00:00",
+            "description": "We are less than two months away from DataHack Summit 2018! Preparations are in full swing. Check out all the latest updates and speakers in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/dhs_nt.jpg"
+        },
+        {
+            "id": 5550,
+            "title": "A Multivariate Time Series Guide to Forecasting and Modeling (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/",
+            "authors": "Aishwarya Singh",
+            "tags": "Algorithm, Intermediate, Machine Learning, Python, Structured Data, Supervised, Technique, Time Series, Time Series Forecasting",
+            "publishedOn": "2018-09-27T00:00:00",
+            "description": "Vector Auto Regression method for forecasting multivariate time series uses vectors to represent the relationship between variables and past values.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/mts.jpg"
+        },
+        {
+            "id": 5551,
+            "title": "The Winning Approaches from codeFest 2018 \u2013 NLP, Computer Vision and Machine Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/the-winning-approaches-from-codefest-2018-nlp-computer-vision-and-machine-learning/",
+            "authors": "Aishwarya Singh",
+            "tags": "Analytics Vidhya, Beginner, Deep Learning, Listicle, Machine Learning, NLP, Winners Approach",
+            "publishedOn": "2018-09-27T00:00:00",
+            "description": "This article lists down all the winning approaches to the recently concluded Analytics Vidhya and IIT-BHU codeFest hackathon series.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/linguipedia-big.jpg"
+        },
+        {
+            "id": 5552,
+            "title": "Reinforcement Learning Guide: Solving the Multi-Armed Bandit Problem from Scratch in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/reinforcement-multi-armed-bandit-scratch-python/",
+            "authors": "Ankit Choudhary",
+            "tags": "Intermediate, Machine Learning, Python, Reinforcement Learning, Reinforcement Learning, Technique",
+            "publishedOn": "2018-09-24T00:00:00",
+            "description": "The multi-armed bandit problem is a popular one. Here's a refreshing take on how to solve it using reinforcement learning techniques in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/im_25.jpg"
+        },
+        {
+            "id": 5553,
+            "title": "10 Mind-Blowing TED Talks on Artificial Intelligence Every Data Scientist & Business Leader Must Watch",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/best-ted-talks-artificial-intelligence-must-watch/",
+            "authors": "Pranav Dar",
+            "tags": "Artificial Intelligence, Intermediate, Listicle, Videos",
+            "publishedOn": "2018-09-23T00:00:00",
+            "description": "There are some amazing and thought-provoking TED Talks on artificial intelligence out there, & we have hand-picked some of the best ones for you!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/Blog-3-ted-talks-featured.jpg"
+        },
+        {
+            "id": 5554,
+            "title": "Let\u2019s Think in Graphs: Introduction to Graph Theory and its Applications using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Data Science, Data Visualization, Graphs & Networks, Intermediate, Python, Structured Data, Technique, Use Cases",
+            "publishedOn": "2018-09-20T00:00:00",
+            "description": "Graph theory has been around for decades. This article is an introduction to graphs, types of graphs and its implementation in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/graph-theory-1.jpg"
+        },
+        {
+            "id": 5555,
+            "title": "Nuts & Bolts of Reinforcement Learning: Model Based Planning using Dynamic Programming",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/",
+            "authors": "Ankit Choudhary",
+            "tags": "Advanced, Python, Reinforcement Learning, Reinforcement Learning, Resource",
+            "publishedOn": "2018-09-18T00:00:00",
+            "description": "Dynamic programming in reinforcement learning. This article covers the basic concepts of Dynamic Programming required to master reinforcement learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/RL.png"
+        },
+        {
+            "id": 5556,
+            "title": "DataHack Radio #10: The Role of Computer Science in the Data Science World with Dr. Jeannette M. Wing",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/datahack-radio-data-science-podcast-jeanette-wing/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Podcast",
+            "publishedOn": "2018-09-17T00:00:00",
+            "description": "In this podcast, we talk to Dr. Jeannette Wing about her journey, Formal Methods in Data Science and overlap of Computer Science / Data Science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/Jeannette-Wing.jpg"
+        },
+        {
+            "id": 5557,
+            "title": "Heroes of Deep Learning: Top Takeaways for Aspiring Data Scientists from Andrew Ng\u2019s Interview Series",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/heroes-deep-learning-top-takeaways-andrew-ng-interview-series/",
+            "authors": "avcontentteam",
+            "tags": "Beginner, Data Science, Deep Learning, Interview Questions, Listicle, Researchers & Scientists, Videos",
+            "publishedOn": "2018-09-14T00:00:00",
+            "description": "This article lists down the key takeaways for data scientists from Andrew Ng's inspirational interview series with seven heroes of deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/an.jpg"
+        },
+        {
+            "id": 5558,
+            "title": "How Machine Learning Algorithms & Hardware Power Apple\u2019s Latest Watch and iPhones",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/how-machine-learning-hardware-and-algorithms-power-apples-latest-watch-and-iphones/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Machine Learning, Research & Technology, Resource",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "In this article, we look at the machine learning algorithms and processes that power Apple's latest products, including the iPhone and the Apple Watch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/apple.jpg"
+        },
+        {
+            "id": 5559,
+            "title": "A Gentle Introduction to Handling a Non-Stationary Time Series in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/",
+            "authors": "Aishwarya Singh",
+            "tags": "Intermediate, Machine Learning, Python, Structured Data, Supervised, Technique, Time Series, Time Series Forecasting",
+            "publishedOn": "2018-09-13T00:00:00",
+            "description": "Discover various methods to check stationarity of time series. Learn about Stationary and Non Stationary time series and ways to make a series stationary",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/1.jpg"
+        },
+        {
+            "id": 5560,
+            "title": "Artificial Intelligence, Machine Learning and Big Data \u2013 A Comprehensive Report",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/artificial-intelligence-machine-learning-and-big-data-a-comprehensive-report/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Interview Questions, News",
+            "publishedOn": "2018-09-11T00:00:00",
+            "description": "This article is a comprehensive report on artificial intelligence, machine learning and Big Data that covers career opportunities in these fields.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/av1.png"
+        },
+        {
+            "id": 5561,
+            "title": "Deep Learning Tutorial to Calculate the Screen Time of Actors in any Video (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Entertainment, Image, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2018-09-11T00:00:00",
+            "description": "A complete deep learning tutorial for video analysis using python. This article will help you understand how to use deep learning on video data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/Match.jpg"
+        },
+        {
+            "id": 5562,
+            "title": "An End-to-End Guide to Understand the Math behind XGBoost",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Classification, Intermediate, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2018-09-06T00:00:00",
+            "description": "XGBoost has quickly become a popular machine learning technique, and a major differentiator in ML hackathons. In this article learn the math that powers it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/Untitled-2-copy.jpg"
+        },
+        {
+            "id": 5563,
+            "title": "The 5 Best Machine Learning GitHub Repositories & Reddit Threads from August 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/best-machine-learning-github-repositories-reddit-threads-august-2018/",
+            "authors": "Pranav Dar",
+            "tags": "Data Science, Deep Learning, Github, Intermediate, Listicle, Machine Learning, Python, Reddit",
+            "publishedOn": "2018-09-02T00:00:00",
+            "description": "Check out some amazing machine learning GitHub repositories created in August 2018 along with the top Reddit discussions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/07/github1.jpg"
+        },
+        {
+            "id": 5564,
+            "title": "DataHack Radio Episode #9: Data Science at Airbnb & Lyft with Dr. Alok Gupta",
+            "url": "https://www.analyticsvidhya.com/blog/2018/09/datahack-radio-lyft-dr-alok-gupta/",
+            "authors": "Pranav Dar",
+            "tags": "Advanced, Deep Learning, Machine Learning, Podcast",
+            "publishedOn": "2018-09-02T00:00:00",
+            "description": "How do companies like Airbnb and Lyft use data science? Find out in this fascinating podcast with Lyft's Head of Data Science, Dr. Alok Gupta.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/09/alok-gupta-.jpg"
+        },
+        {
+            "id": 5565,
+            "title": "Build High Performance Time Series Models using Auto ARIMA in Python and R",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/",
+            "authors": "Aishwarya Singh",
+            "tags": "Algorithm, Intermediate, Machine Learning, Python, R, Structured Data, Supervised, Technique, Time Series, Time Series Forecasting",
+            "publishedOn": "2018-08-30T00:00:00",
+            "description": "A basic introduction to various time series forecasting methods and techniques. This guide includes an auto arima model with implementation in python and R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/autoarimafeat.jpg"
+        },
+        {
+            "id": 5566,
+            "title": "A Simple Introduction to Facial Recognition (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2018-08-30T00:00:00",
+            "description": "An introduction to face recognition in python. In this article learn about applications of face recognition and its implementation in python with codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/face.png"
+        },
+        {
+            "id": 5567,
+            "title": "The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Algorithm, Data Science, Image, Intermediate, Listicle, Machine Learning, Python, Structured Data, Technique, Unstructured Data",
+            "publishedOn": "2018-08-27T00:00:00",
+            "description": "Dimensionality reduction Techniques PCA, Factor Analysis, ICA, t-SNE, Random Forest, ISOMAP, UMAP, Forward and Backward feature selection with python codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/tennis-final-00051.jpg"
+        },
+        {
+            "id": 5568,
+            "title": "The Ultimate Data Science and Machine Learning Blogathon \u2013 More than $2500 up for grabs!",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/data-science-machine-learning-blogathon-lucrative-prizes-bonus/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Data Science, Interview Questions, Machine Learning",
+            "publishedOn": "2018-08-24T00:00:00",
+            "description": "We are delighted to announce the launch of\u00a0Analytics Vidhya\u2019s Blogathon, the ultimate competition which combines your writing prowess with your ML skills!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/blog.jpg"
+        },
+        {
+            "id": 5569,
+            "title": "A Hands-On Guide to Automated Feature Engineering using Featuretools in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/guide-automated-feature-engineering-featuretools-python/",
+            "authors": "Prateek Joshi",
+            "tags": "Intermediate, Libraries, Machine Learning, Programming, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2018-08-22T00:00:00",
+            "description": "This hands-on guide covers how you can perform automated feature engineering in Python using the open source library Featuretools.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/robot.png"
+        },
+        {
+            "id": 5570,
+            "title": "A Practical Introduction to K-Nearest Neighbors Algorithm for Regression (with Python code)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/",
+            "authors": "Aishwarya Singh",
+            "tags": "Algorithm, Beginner, Machine Learning, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2018-08-22T00:00:00",
+            "description": "K-Nearest Neighbors is one of the most common machine learning algorithms. This article introduces k nearest neighbor along with an implementation in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/keylines-clustering-algorithm.png"
+        },
+        {
+            "id": 5571,
+            "title": "Launching Analytics Vidhya\u2019s Medium Publication and AV Editor\u2019s club!",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/analytics-vidhyas-medium-publication-av-editors-club/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Announcement, Beginner",
+            "publishedOn": "2018-08-20T00:00:00",
+            "description": "We are thrilled to announce the launch of Analytics Vidhya's Medium publication and are welcoming calls for writers as well as editors to join us!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/pexels-photo-905877.jpeg"
+        },
+        {
+            "id": 5572,
+            "title": "DataHack Radio Episode #8: How Self-Driving Cars Work with Drive.ai\u2019s Brody Huval",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/datahack-radio-episode-8-how-self-driving-cars-work-with-drive-ais-brody-huval/",
+            "authors": "Pranav Dar",
+            "tags": "Advanced, Computer Vision, Deep Learning, Podcast",
+            "publishedOn": "2018-08-19T00:00:00",
+            "description": "In this podcast, Drive.ai's co-founder Brody Huval sheds light on the various intriguing facets of self-driving cars and how to build one from scratch!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/brody-podcast1.jpg"
+        },
+        {
+            "id": 5573,
+            "title": "Top 7 Sectors where Data Science can Transform India (with Free Datasets)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/08/top-7-sectors-where-data-science-can-transform-india-with-free-datasets/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Data Science, Education, Environmental Sector, Intermediate, Listicle, Social Sector, Use Cases",
+            "publishedOn": "2018-08-16T00:00:00",
+            "description": "This article looks at the top 7 sectors where data science can transform the way India works, and also gives you plenty of links to free datasets!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/08/big-data-3338320_960_720.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5724,
+            "title": "Text Classification & Word Representations using FastText (An NLP library by Facebook)",
+            "url": "https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/",
+            "authors": "NSS",
+            "tags": "Classification, Intermediate, Libraries, Machine Learning, NLP, Programming, Python, Supervised, Text, Unstructured Data",
+            "publishedOn": "2017-07-14T00:00:00",
+            "description": "FastText is a very fast NLP library created by Facebook. It is very useful for Word Representations Text Classification. It can create word vectors fast.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/07/13081419/0-e-3hkDc-LG8lJVqD.png"
+        },
+        {
+            "id": 5725,
+            "title": "Covariate Shift \u2013 Unearthing hidden problems in Real World Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/",
+            "authors": "Shubham.jain Jain",
+            "tags": "Advanced, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2017-07-10T00:00:00",
+            "description": "Covariate / Dataset shift occurs when variables / environment between your test & train data changes. This poses a problem in solving real life problems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/07/10094954/pexels-photo-170461-1.jpeg"
+        },
+        {
+            "id": 5726,
+            "title": "Tutorial on Automated Machine Learning using MLBox",
+            "url": "https://www.analyticsvidhya.com/blog/2017/07/mlbox-library-automated-machine-learning/",
+            "authors": "NSS",
+            "tags": "Beginner, Libraries, Machine Learning, Programming, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2017-07-06T00:00:00",
+            "description": "Tutorial on how to automate machine learning workflow using MLBox. MLBox provides functionalities like missing values imputation, drifting out of box.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/07/06085632/pexels-photo-171198-1.jpeg"
+        },
+        {
+            "id": 5727,
+            "title": "30 Questions to test a data scientist on Natural Language Processing [Solution: Skilltest \u2013 NLP]",
+            "url": "https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/",
+            "authors": "Shivam5992 Bansal",
+            "tags": "Intermediate, Interview Questions, Machine Learning, NLP, Skilltest",
+            "publishedOn": "2017-07-03T00:00:00",
+            "description": "Introduction Humans are social animals and language is our primary tool to communicate with the society. But, what if machines could understand our language and then act accordingly? Natural Language Processing (NLP) is the science of teaching machines how to understand the language we humans speak and write. We recently launched an NLP skill test [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/07/03095309/text-mining_small_H5AMwWm.png"
+        },
+        {
+            "id": 5728,
+            "title": "30 Questions to test a data scientist on Linear Regression [Solution: Skilltest \u2013 Linear Regression]",
+            "url": "https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/",
+            "authors": "1201904",
+            "tags": "Advanced, Education, Interview Questions, Linear Regression, Machine Learning, Skilltest",
+            "publishedOn": "2017-07-03T00:00:00",
+            "description": "Questions and Solutions on Linear Regression, Ridge and Lasso Regression. Test your knowledge on Linear Regression through these 30 questions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/07/03094331/liner_reger_small.png"
+        },
+        {
+            "id": 5729,
+            "title": "Architecture of Convolutional Neural Networks (CNNs) demystified",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/",
+            "authors": "Dishashree26 Gupta",
+            "tags": "Algorithm, Classification, Deep Learning, Image, Intermediate, Python, Supervised, Unstructured Data",
+            "publishedOn": "2017-06-29T00:00:00",
+            "description": "Convolutional neural network architecture and cnn image recognition. In this article, learn about convolutional neural networks and cnn to classify images.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/28200622/4image11.png"
+        },
+        {
+            "id": 5730,
+            "title": "Hands on with Deep Learning \u2013 Solution for Age Detection Practice Problem",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/hands-on-with-deep-learning-solution-for-age-detection-practice-problem/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Computer Vision, Deep Learning, Project, Python, R, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2017-06-27T00:00:00",
+            "description": "This article provides a simple deep learning based solution to Age detection problem. This includes use of neural networks & keras to predict age of person",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/27083737/Screen-Shot-2017-06-27-at-8.36.50-AM.png"
+        },
+        {
+            "id": 5731,
+            "title": "Course Review \u2013 PG Diploma in Data Analytics by UpGrad & IIIT-B",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/course-review-pg-diploma-in-data-analytics-by-upgrad-iiit-b/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Business Analytics",
+            "publishedOn": "2017-06-26T00:00:00",
+            "description": "This article reviews the PG Diploma in Data Analytics by UpGrad & IIIT Bangalore on various attributes like course content, delivery & industry interaction",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/26222940/Upgrad-Data-Analytic-Program-CoverPic.png"
+        },
+        {
+            "id": 5732,
+            "title": "A comprehensive beginners guide for Linear, Ridge and Lasso Regression in Python and R",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/",
+            "authors": "Shubham.jain Jain",
+            "tags": "Algorithm, Business Analytics, Intermediate, Machine Learning, Python, R, Regression, Structured Data, Supervised",
+            "publishedOn": "2017-06-22T00:00:00",
+            "description": "To understand linear regression, ridge & lasso regression including how to measure error/accuracy in regression models in data science and machine learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/21204939/pexels-photo-276223-1.jpeg"
+        },
+        {
+            "id": 5733,
+            "title": "How to create animated GIF images for data visualization using gganimate (in R)?",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/a-study-on-global-seismic-activity-between-1965-and-2016/",
+            "authors": "guest_blog",
+            "tags": "Business Intelligence, Data Visualization, Intermediate, Libraries, Programming, R, Structured Data",
+            "publishedOn": "2017-06-19T00:00:00",
+            "description": "This article provides a simple tutorial for how to create GIF images. A complete guide to use gganimate package in R to create animated graphics or GIFs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/06105534/back-to-school-paper-colored-paper-stationery-159519-1.jpeg"
+        },
+        {
+            "id": 5734,
+            "title": "Introductory guide to Generative Adversarial Networks (GANs) and their promise!",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Algorithm, Deep Learning, Image, Machine Learning, Python, Unstructured Data, Unsupervised",
+            "publishedOn": "2017-06-15T00:00:00",
+            "description": "An introduction to generative adversarial networks (GANs) and generative models. This is a beginners guide to understand how GANs work in computer vision.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/11191316/a4.png"
+        },
+        {
+            "id": 5735,
+            "title": "Which algorithm takes the crown: Light GBM vs XGBOOST?",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/",
+            "authors": "Erlich_bachman Khandelwal",
+            "tags": "Algorithm, Classification, Intermediate, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2017-06-12T00:00:00",
+            "description": "A comparison between LightGBM and XGBoost algorithms in machine learning. XGBoost works on lead based splitting of decision tree & is faster, parallel",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/11194227/depth.png"
+        },
+        {
+            "id": 5736,
+            "title": "Getting started with Deep Learning using Keras and TensorFlow in R",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/getting-started-with-deep-learning-using-keras-in-r/",
+            "authors": "NSS",
+            "tags": "Advanced, Classification, Deep Learning, Image, Libraries, Programming, R, Supervised, Unstructured Data",
+            "publishedOn": "2017-06-08T00:00:00",
+            "description": "Get started with deep learning with keras and tensorflow in r. Learn how to install keras with tensorflow in R & build a neural network model on MNIST dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg"
+        },
+        {
+            "id": 5737,
+            "title": "My journey from being an IT engineer to Head of Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/journey-from-it-engineer-head-of-analytics/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Interview Questions, Interviews, IT, Stories",
+            "publishedOn": "2017-06-07T00:00:00",
+            "description": "This article describes journey of Ritesh Mohan - who transitioned from being an IT engineer to Head of Analytics through a course at Praxis Business school",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/06232151/pexels-photo.jpg"
+        },
+        {
+            "id": 5738,
+            "title": "An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/",
+            "authors": "NSS",
+            "tags": "Advanced, Algorithm, Deep Learning, Machine Learning, NLP, Python, Technique, Text, Unstructured Data",
+            "publishedOn": "2017-06-04T00:00:00",
+            "description": "Word embeddings are techniques used in natural language processing. This includes tools & techiniques like word2vec, TD-IDF, count vectors, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/06062705/Word-Vectors.png"
+        },
+        {
+            "id": 5739,
+            "title": "Transfer learning and the art of using Pre-trained Models in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/",
+            "authors": "Dishashree26 Gupta",
+            "tags": "Advanced, Classification, Deep Learning, Image, Python, Regression, Supervised, Technique, Uncategorized, Unstructured Data",
+            "publishedOn": "2017-06-01T00:00:00",
+            "description": "Transfer learning is a machine learning technique. With the help of this article master transfer learning by using pretrained models in deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/01083503/pexels-photo-221485-1.jpeg"
+        },
+        {
+            "id": 5740,
+            "title": "Building Trust in Machine Learning Models (using LIME in Python)",
+            "url": "https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/",
+            "authors": "guest_blog",
+            "tags": "Intermediate, Libraries, Machine Learning, Programming, Python, Structured Data",
+            "publishedOn": "2017-06-01T00:00:00",
+            "description": "This article helps us understand working of machine learning algorithms using LIME package. Using LIME, you can understand working of black box ML models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/31210800/pexels-photo-265702.jpeg"
+        },
+        {
+            "id": 5741,
+            "title": "Launching Analytics Industry Report 2017 \u2013 Trends and Salaries in India",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/launching-analytics-industry-report-2017-trends-and-salaries-in-india/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Beginner, Business Analytics, Machine Learning, News",
+            "publishedOn": "2017-05-26T00:00:00",
+            "description": "This analytics industry report highlights trends and salaries in Indian industry. Insights like salary by skills, location, experience & background",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/26164241/Screen-Shot-2017-05-26-at-4.42.08-PM.png"
+        },
+        {
+            "id": 5742,
+            "title": "A comprehensive beginners guide to Linear Algebra for Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/",
+            "authors": "Vikas_10 Kumar",
+            "tags": "Business Analytics, Intermediate, Machine Learning, Maths, R, Resource, Structured Data, Technique",
+            "publishedOn": "2017-05-25T00:00:00",
+            "description": "A comprehensive guide explaining linear algebra, matrices, their use to solve linear equations and their application in data science & data scientists",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/25014158/pexels-photo-25884-1.jpg"
+        },
+        {
+            "id": 5743,
+            "title": "25 Must Know Terms & concepts for Beginners in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/",
+            "authors": "Dishashree26 Gupta",
+            "tags": "Beginner, Deep Learning, Listicle, Machine Learning, Research & Technology, Resource",
+            "publishedOn": "2017-05-21T00:00:00",
+            "description": "25 terms to explain the basics of neural networks, deep learning, Convolutional Neural Network, Recurrent Neural network & gradient descent in data science",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/neu.jpeg"
+        },
+        {
+            "id": 5744,
+            "title": "Why are GPUs necessary for training Deep Learning models?",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Beginner, Deep Learning, Machine Learning, Resource",
+            "publishedOn": "2017-05-18T00:00:00",
+            "description": "The difference in CPUs & GPUs to help you understand the application of GPUs in training deep learning models in data science. Brief history of GPUs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/18023443/build-e1495075069780.png"
+        },
+        {
+            "id": 5745,
+            "title": "Hands on tutorial to perform Data Exploration using Elastic Search and Kibana (using Python)",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/beginners-guide-to-data-exploration-using-elastic-search-and-kibana/",
+            "authors": "guest_blog",
+            "tags": "Big data, Business Intelligence, Data Exploration, Intermediate, Kibana, Libraries, Programming, Python, Structured Data",
+            "publishedOn": "2017-05-15T00:00:00",
+            "description": "ElasticSearch and Kibana is a highly scalable and open source. This tutorial will help you perform exploratory data analysis using ElasticSearch and Kibana.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/kibana.jpg"
+        },
+        {
+            "id": 5746,
+            "title": "22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/",
+            "authors": "Sunil Ray",
+            "tags": "Deep Learning, Intermediate, Listicle, Machine Learning, Python, Videos",
+            "publishedOn": "2017-05-11T00:00:00",
+            "description": "PyData 2017 held in Amsterdam includes talks on machine learning, deep learning and NLP. The content involved applications, tools and hands-on sessions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/11042609/Screen-Shot-2017-05-11-at-9.55.00-AM-e1494476801454.png"
+        },
+        {
+            "id": 5747,
+            "title": "Inspiring story of Deepak Vadithala \u2013 from a Paper delivery boy to a Lead Data Engineer & QlikView Luminary",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/exclusive-interview-with-deepak-vadithala-lead-data-engineer-qlikview-luminary/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Intelligence, Interview Questions, Interviews, Stories",
+            "publishedOn": "2017-05-09T00:00:00",
+            "description": "Here is exlcusive interview with Deepak Vadithala, Lead data engineer & Qlikview Luminary. Read complete story of Deepak & his journey in data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/05092613/Deepak-Vadithala-292-e1494230910616.jpg"
+        },
+        {
+            "id": 5748,
+            "title": "Winners solutions & approach: The QuickSolver MiniHack, DataFest 2017",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/winners-solutions-approach-the-quicksolver-minihack-datafest-2017/",
+            "authors": "Sunil Ray",
+            "tags": "Intermediate, Listicle, Machine Learning, Winners Approach",
+            "publishedOn": "2017-05-07T00:00:00",
+            "description": "Here is the approach for top 3 winners of QuickSolver MiniHack, DataFest 2017. Read the detailed approach & solution to competition along with their codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/06083643/quick-solver_SB.png"
+        },
+        {
+            "id": 5749,
+            "title": "42 Questions on SQL for all aspiring Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/questions-sql-for-all-aspiring-data-scientists/",
+            "authors": "1201904",
+            "tags": "Business Analytics, Business Intelligence, Database, Intermediate, Interview Questions, Skilltest, SQL",
+            "publishedOn": "2017-05-04T00:00:00",
+            "description": "42 questions on SQL which every data scientist must know. SQL is used very heavily in data science. This test will help you assess your skill on SQL.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/literature-3330647_1920.jpg"
+        },
+        {
+            "id": 5750,
+            "title": "40 Questions to test your skill in Python for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/questions-python-for-data-science/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Beginner, Interview Questions, Machine Learning, Python, Skilltest",
+            "publishedOn": "2017-05-04T00:00:00",
+            "description": "Here are 40 questions on python for data science. Answer these 40 questions to assess your skill and gain expertise in Python. Questions include pandas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/03143853/python_icon.png"
+        },
+        {
+            "id": 5751,
+            "title": "40 questions to test your skill on R for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2017/05/40-questions-r-for-data-science/",
+            "authors": "NSS",
+            "tags": "Advanced, Business Analytics, Interview Questions, Machine Learning, R, Skilltest",
+            "publishedOn": "2017-05-04T00:00:00",
+            "description": "Here are 40 questions on R for data science which every R practitioner must know. Answer these 40 questions to test your skill level on R, dataframes",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/05/R_logo.svg_.png"
+        },
+        {
+            "id": 5752,
+            "title": "40 Questions to test a data scientist on Machine Learning [Solution: SkillPower \u2013 Machine Learning, DataFest 2017]",
+            "url": "https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/",
+            "authors": "1201904",
+            "tags": "Intermediate, Interview Questions, Interviews, Machine Learning, Skilltest",
+            "publishedOn": "2017-04-30T00:00:00",
+            "description": "Test your knowledge on Machine Learning Concepts through this skilltest. Questions & solutions on SVM, decision trees, random forest & more.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/04/question.png"
+        },
+        {
+            "id": 5753,
+            "title": "5 AI applications in Banking to look out for in next 5 years",
+            "url": "https://www.analyticsvidhya.com/blog/2017/04/5-ai-applications-in-banking-to-look-out-for-in-next-5-years/",
+            "authors": "guest_blog",
+            "tags": "Banking, Intermediate, Listicle, Machine Learning, Use Cases",
+            "publishedOn": "2017-04-28T00:00:00",
+            "description": "What are the applications of AI in banking industry? Which financial companies are using AI to better serve their customers?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/04/28153607/AI1.png"
+        }
+    ]
+}

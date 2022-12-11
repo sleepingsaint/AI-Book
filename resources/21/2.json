@@ -1,0 +1,165 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 13840,
+            "title": "Path Length Bounds for Gradient Descent",
+            "url": "https://blog.ml.cmu.edu/2019/10/25/path-length-bounds-for-gradient-descent/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-10-25T00:00:00",
+            "description": "In today's post, we will discuss an interesting property concerning the trajectory of gradient descent iterates, namely the length of the Gradient Descent curve. Let us assume we want to minimize the function shown in Figure 1 starting from a point (A). We deploy gradient descent (GD) to this end, a",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/10/gdPathExample-2.svg"
+        },
+        {
+            "id": 13841,
+            "title": "Ultra-Wide Deep Nets and the Neural Tangent Kernel (NTK)",
+            "url": "https://blog.ml.cmu.edu/2019/10/03/ultra-wide-deep-nets-and-the-neural-tangent-kernel-ntk/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Research",
+            "publishedOn": "2019-10-03T00:00:00",
+            "description": "Traditional wisdom in machine learning holds that there is a careful trade-off between training error and generalization gap. There is a \"sweet spot\" for the model complexity such that the model (i) is big enough to achieve reasonably good training error, and (ii) is small enough so that the general",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/10/belkinfig-970x289.jpg"
+        },
+        {
+            "id": 13842,
+            "title": "On Learning Invariant Representations for Domain Adaptation",
+            "url": "https://blog.ml.cmu.edu/2019/09/13/on-learning-invariant-representations-for-domain-adaptation/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-09-13T00:00:00",
+            "description": "One of the backbone assumptions underpinning the generalization theory of supervised learning algorithms is that the test distribution should be the same as the training distribution. However in many real-world applications it is usually time-consuming or even infeasible to collect labeled data from",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/08/Screen-Shot-2019-08-03-at-3.17.30-PM-970x594.png"
+        },
+        {
+            "id": 13843,
+            "title": "Carnegie Mellon University, Accepted Papers at NeurIPS\u00a02019",
+            "url": "https://blog.ml.cmu.edu/2019/09/06/carnegie-mellon-university-accepted-papers-at-neurips-2019/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-09-06T00:00:00",
+            "description": "We are proud to present the following papers at the 33rd Conference on Neural Information Processing Systems (NeurIPS) in Vancouver, Canada. Check back for an update with poster numbers and links once the camera-ready papers become available. If you are",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/09/neurips-2019-featured-2-970x546.jpg"
+        },
+        {
+            "id": 13844,
+            "title": "Policy Certificates and Minimax-Optimal PAC Bounds for Episodic Reinforcement Learning",
+            "url": "https://blog.ml.cmu.edu/2019/08/16/policy-certificates-and-minimax-optimal-pac-bounds-for-episodic-reinforcement-learning/",
+            "authors": null,
+            "tags": "Artificial intelligence, Fate, Learning theory, Reinforcement learning, Research",
+            "publishedOn": "2019-08-16T00:00:00",
+            "description": "Designing reinforcement learning methods which find a good policy with as few samples as possible is a key goal of both empirical and theoretical research. On the theoretical side there are two main ways, regret- or PAC (probably approximately correct) bounds, to measure and guarantee sample-efficie",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/06/overview_figure_simple-1-813x625.png"
+        },
+        {
+            "id": 13845,
+            "title": "Regret Circuits: Composability of Regret Minimizers",
+            "url": "https://blog.ml.cmu.edu/2019/08/02/regret-circuits-composability-of-regret-minimizers/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-08-02T00:00:00",
+            "description": "Automated decision-making is one of the core objectives of artificial intelligence. Not surprisingly, over the past few years, entire new research fields have emerged to tackle that task. This blog post is concerned with regret minimization, one of the central tools in online learning. Regret minimi",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/07/image-970x350.png"
+        },
+        {
+            "id": 13846,
+            "title": "MAPLE: Towards Interpretable Tree Ensembles",
+            "url": "https://blog.ml.cmu.edu/2019/07/13/towards-interpretable-tree-ensembles/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-07-13T00:00:00",
+            "description": "Machine learning is increasingly used to make critical decisions such as a doctor's diagnosis, a biologist's experimental design, and a lender's loan decision.  In these areas, mistakes can be the difference between life and death, can lead to wasted time and money, and can have serious legal conseq",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/07/maple-2-970x365.jpg"
+        },
+        {
+            "id": 13847,
+            "title": "Using Deep Learning to Help Us Understand Language Processing in the Brain",
+            "url": "https://blog.ml.cmu.edu/2019/05/31/using-deep-learning-to-help-us-understand-language-processing-in-the-brain/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-05-31T00:00:00",
+            "description": "Imagine for a moment that we can take snippets of text, give them to a computational model, and that the model can perfectly predict some of the brain activity recorded from a person who was reading the same text. Can we learn anything about how the brain works from this model? If we trust the model",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/05/NAACL_ERP_architecture_n400_p600-2-700x625.png"
+        },
+        {
+            "id": 13848,
+            "title": "Explaining a Black-box Using Deep Variational Information Bottleneck Approach",
+            "url": "https://blog.ml.cmu.edu/2019/05/17/explaining-a-black-box-using-deep-variational-information-bottleneck-approach/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Research",
+            "publishedOn": "2019-05-17T00:00:00",
+            "description": "The Rise of Artificial Intelligence\n\n\n\nOver the past decade, artificial intelligence (AI) has achieved remarkable success in many fields such as healthcare, automotive, and marketing. The capabilities of sophisticated, autonomous decision systems driven by AI keep evolving and moving from lab to rea",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/05/illustration-970x438.png"
+        },
+        {
+            "id": 13849,
+            "title": "Your 2 is My 1, Your 3 is My 9: Handling Crazy Miscalibrations in Ratings from People",
+            "url": "https://blog.ml.cmu.edu/2019/05/04/your-2-is-my-1-your-3-is-my-9-handling-crazy-miscalibrations-in-ratings-from-people/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-05-04T00:00:00",
+            "description": "Consider the following problem: we are given a set of items, and the goal is to pick the \"best\" ones from them. This problem appears very often in real life -- for example, selecting papers in conference peer review, judging the winners of a diving competition, picking city construction proposals to",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/05/comic-e1556913912431-970x295.png"
+        },
+        {
+            "id": 13850,
+            "title": "Representer Point Selection for Explaining Deep Neural Networks",
+            "url": "https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/",
+            "authors": null,
+            "tags": "Artificial intelligence, Deep learning, Machine learning, Research",
+            "publishedOn": "2019-04-19T00:00:00",
+            "description": "Why did a Deep Neural Network (DNN) make a certain prediction? Although DNNs have been shown to be extremely accurate predictors in a range of domains, they are still largely black-box functions\u2014even to the experts who train them\u2014due to their complicated structure with compositions of multiple layer",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/04/decomp-e1555705135748-900x625.png"
+        },
+        {
+            "id": 13851,
+            "title": "Building Machine Learning Models via Comparisons",
+            "url": "https://blog.ml.cmu.edu/2019/03/29/building-machine-learning-models-via-comparisons/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-03-29T00:00:00",
+            "description": "Nowadays most machine learning (ML) models predict labels from features. In classification tasks, an ML model predicts a categorical value and in regression tasks, an ML model predicts a real value. These ML models thus require a large amount of feature-label pairs. While in practice it is not hard",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/03/Screen-Shot-2019-03-29-at-12.05.53-PM-1-e1553890519162-958x625.png"
+        },
+        {
+            "id": 13852,
+            "title": "A Continuous-Time View of Early Stopping for Least Squares (or: How I Learned to Stop Worrying and Love Early Stopping)",
+            "url": "https://blog.ml.cmu.edu/2019/03/07/a-continuous-time-view-of-early-stopping-for-least-squares/",
+            "authors": null,
+            "tags": "Machine learning, Research",
+            "publishedOn": "2019-03-07T00:00:00",
+            "description": "These days, it seems as though tools from statistics and machine learning are being used almost everywhere. Methods from the literature can now be seen on the critical path in a number of different fields and industries. A consequence of this sort of proliferation is that, increasingly, both non-spe",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2019/03/ridge_gf_maps_resized.png"
+        },
+        {
+            "id": 13853,
+            "title": "Contextual Parameter Generation for Neural Machine Translation",
+            "url": "https://blog.ml.cmu.edu/2019/01/14/contextual-parameter-generation-for-universal-neural-machine-translation/",
+            "authors": null,
+            "tags": "Deep learning, Machine learning, Machine translation, Natural language processing, Research",
+            "publishedOn": "2019-01-14T00:00:00",
+            "description": "Machine translation is the problem of translating sentences from some source language to a target language. Neural machine translation (NMT), directly models the mapping of a source language to a target language without any need for training or tuning any component of the system separately. This has",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2018/12/0-Overview.svg"
+        },
+        {
+            "id": 13854,
+            "title": "Massively Parallel  Hyperparameter Optimization",
+            "url": "https://blog.ml.cmu.edu/2018/12/12/massively-parallel-hyperparameter-optimization/",
+            "authors": null,
+            "tags": "Automl, Machine learning, Research",
+            "publishedOn": "2018-12-12T00:00:00",
+            "description": "Machine learning algorithms typically have configuration parameters, or hyperparameters, that influence their output and ultimately predictive accuracy (Melis et al., 2018).  Some common examples of hyperparameters include learning rate, dropout, and activation function for neural networks, maximum",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2018/12/heatmap.001-min.jpeg"
+        },
+        {
+            "id": 13855,
+            "title": "Introducing the ML@CMU Blog",
+            "url": "https://blog.ml.cmu.edu/2018/12/12/introducing-the-mlcmu-blog/",
+            "authors": null,
+            "tags": "Educational, Machine learning, Research",
+            "publishedOn": "2018-12-12T00:00:00",
+            "description": "CMU is a leader in the field of machine learning research, both within the Machine Learning Department (MLD) and across the university in general. Traditional conference and journal publications, along with technical talks, are our primary avenues for disseminating our research. However, given the i",
+            "thumbnail": "https://blog.ml.cmu.edu/wp-content/uploads/2018/11/cover-introduction-mlblog-2-970x323.jpg"
+        }
+    ]
+}

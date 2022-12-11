@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6204,
+            "title": "Commonly asked puzzles in analytics interviews",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/commonly-asked-puzzles-analytics-interviews/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Interview Questions, Interviews, Listicle, Skilltest, Structured Thinking",
+            "publishedOn": "2014-09-17T00:00:00",
+            "description": "Common puzzles asked in interviews with answers. This article provides common data science interview puzzles which are commonly asked.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/09/10579563003_52003abedd_o.jpg"
+        },
+        {
+            "id": 6205,
+            "title": "Forum mining challenge \u2013 Get the right questions!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/forum-mining-challenge-questions/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Big data, Business Analytics",
+            "publishedOn": "2014-09-15T00:00:00",
+            "description": "This article is a challenge to find out most viewed questions related to data on stack overflow network, fun with practical machine learning / analytics challenges.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/09/forum-discussions.jpg"
+        },
+        {
+            "id": 6206,
+            "title": "How to implement Incremental Load in QlikView?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/qlikview-incremental-load/",
+            "authors": "Sunil Ray",
+            "tags": "Business Intelligence, Intermediate, Libraries, Programming, Qlikview",
+            "publishedOn": "2014-09-12T00:00:00",
+            "description": "This article explains qlikview Incremental Load, its benefits with an example and implemented through simple steps that can be understood easily.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/09/Incremental_Load_Qlikview_1-300x214.jpg"
+        },
+        {
+            "id": 6207,
+            "title": "Test your level of expertise with SAS/R/Python",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/test-level-expertise-sasrpython/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Intermediate, Interview Questions, Python, R, SAS, Skilltest",
+            "publishedOn": "2014-09-10T00:00:00",
+            "description": "Give this test to gauge your standing in the 3 analytics core languages - SAS , R and Python. Check your level in analytics.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/04/test.jpg"
+        },
+        {
+            "id": 6208,
+            "title": "Framework to build a niche dictionary for text mining",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/creating-dictionary-text-mining/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Intermediate, NLP, Technique",
+            "publishedOn": "2014-09-04T00:00:00",
+            "description": "Creating the right dictionary is central to any text mining problem. This article provides a step by step guide to build niche text mining dictionary.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/09/categorization.png"
+        },
+        {
+            "id": 6209,
+            "title": "Mining YouTube using Python & performing social media analysis (on ALS ice bucket challenge)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/09/mining-youtube-python-social-media-analysis/",
+            "authors": "Kunal Jain",
+            "tags": "Big data, Business Analytics, Data Mining, Data Visualization, Intermediate, Python, Social Media, Structured Data, Technique",
+            "publishedOn": "2014-09-02T00:00:00",
+            "description": "Step by step guide to extract data from YouTube using python and analyse it to measure the effect of a social media campaign on ALS ice bucket challenge.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/google-ALS-searches.jpg"
+        },
+        {
+            "id": 6210,
+            "title": "Understanding and analyzing the hidden structures of unstructured dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/understanding-analyzing-hidden-structures-unstructured-dataset/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Data Exploration, E-Commerce, Intermediate, Machine Learning, R, Technique, Text, Unstructured Data",
+            "publishedOn": "2014-08-27T00:00:00",
+            "description": "Struggling to find insights from a unstructured text? Here are few tips to understand the hidden structures of unstructured data",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/text.jpg"
+        },
+        {
+            "id": 6211,
+            "title": "How to use QVDs (QlikView Data files) to make your Qlikview application efficient?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/qvds-qlikview-application-efficient/",
+            "authors": "Sunil Ray",
+            "tags": "Business Intelligence, Data Engineering, Intermediate, Libraries, Programming, Qlikview, Structured Data",
+            "publishedOn": "2014-08-26T00:00:00",
+            "description": "This article explains how QVDs (Qlikview data files) and multi-layered data models along with incremental loads can be used to make your application very efficient.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/qlikview-for-ios-mobile.ashx_.png"
+        },
+        {
+            "id": 6212,
+            "title": "How to use big data to profit from the stock market?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/big-data-profit-stock-market/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Big data, Business Analytics, Resource, Stock Trading",
+            "publishedOn": "2014-08-25T00:00:00",
+            "description": "This article explains methods for investing in stocks based on Big data and information available in public domain.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/images-1.jpg"
+        },
+        {
+            "id": 6213,
+            "title": "Step by step guide to extract insights from free text (unstructured data)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/step-step-guide-extract-inforation-free-text-unstructured-data/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Data Mining, NLP, Technique, Text, Unstructured Data",
+            "publishedOn": "2014-08-19T00:00:00",
+            "description": "This article gives you an overview on how to do text mining on real life problem statement. Also, a sturdy framework to perform unstructured data mining.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/part1.png"
+        },
+        {
+            "id": 6214,
+            "title": "Market mix modeling \u2013 Simplified!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/market-mix-modeling/",
+            "authors": "guest_blog",
+            "tags": "Business Analytics, Intermediate, SAS, Technique",
+            "publishedOn": "2014-08-18T00:00:00",
+            "description": "In this article market mix modeling basics explained using a case study and dataset, along with SAS procedures and sas programming.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/Bk-Deepak-rk.png"
+        },
+        {
+            "id": 6215,
+            "title": "Bring it on! Analytics Vidhya Author identification challenge",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/author-identification-challenge/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Business Analytics, Python, SAS",
+            "publishedOn": "2014-08-14T00:00:00",
+            "description": "Data mining challenge for people to learn Text mining, predictive modeling, their application and challenges faced in solving data mining problems.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/Microsoft-predictive-analytics.jpg"
+        },
+        {
+            "id": 6216,
+            "title": "How Big data & Analytics can help Government agencies run better?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/big-data-analytics-government-agencies-run-better/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Big data, Business Analytics, Deep Learning, Machine Learning, Resource",
+            "publishedOn": "2014-08-13T00:00:00",
+            "description": "This article is a research about how the government in the US is using Big data & analytics to fight crime and provide better life to its citizens.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/shiva-baba.png"
+        },
+        {
+            "id": 6217,
+            "title": "Baby steps in Python \u2013 Exploratory analysis in Python (using Pandas)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Data Exploration, Libraries, Programming, Python",
+            "publishedOn": "2014-08-12T00:00:00",
+            "description": "This Python tutorial focuses on the basic concepts of Python for data analysis. Learn Python to expand your knowledge and skill set for data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2016/01/Learn-Data-Science-with-Python-from-Scratch.png"
+        },
+        {
+            "id": 6218,
+            "title": "Training review \u2013 A Big Data Course with a \u2018Big\u2019 Difference from Jigsaw Academy",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/big-data-big-difference/",
+            "authors": "Kunal Jain",
+            "tags": "Big data, Business Analytics",
+            "publishedOn": "2014-08-08T00:00:00",
+            "description": "Big Data Certification by Jigsaw Academy & Wiley looks like a credible certification and should improve job/career prospects for those who undertake it.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/bk-image-1-300x300.png"
+        },
+        {
+            "id": 6219,
+            "title": "Visualizing product relationships in a market Basket analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/visualizing-market-basket-analysis/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Data Visualization, E-Commerce, Intermediate, R, Technique",
+            "publishedOn": "2014-08-07T00:00:00",
+            "description": "This article explains about algorithm used in Text mining that can be leveraged to create relationship plots in a Market basket analysis.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/08/11295_658960070862543_6256279946488934484_n.jpg"
+        },
+        {
+            "id": 6220,
+            "title": "Effective Cross Selling using Market Basket Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2014/08/effective-cross-selling-market-basket-analysis/",
+            "authors": "guest_blog",
+            "tags": "Business Analytics, Intermediate, Technique, Use Cases",
+            "publishedOn": "2014-08-04T00:00:00",
+            "description": "This article is a primer on market basket analysis - step by step process to perform market basket analysis in Excel using XLMINER.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/08/11295_658960070862543_6256279946488934484_n.jpg"
+        },
+        {
+            "id": 6221,
+            "title": "How to interpret hidden state in Latent Markov Model",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/interpret-hidden-state-latent-markov-model/",
+            "authors": "Tavish Srivastava",
+            "tags": "Advanced, Algorithm, Big data, Business Analytics, Maths, Statistics",
+            "publishedOn": "2014-07-30T00:00:00",
+            "description": "Hidden state is an abstract concept in Latent Markov. This article attempts to draw analogy from a simple example to clarify the same.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/07/Markov-chain-banner.png"
+        },
+        {
+            "id": 6222,
+            "title": "Review: Qlik Sense Desktop \u2013 Is this the next gen visualization tool you need?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/review-qlik-sense-desktop/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Intelligence, Data Visualization, Libraries, Programming, Qlikview",
+            "publishedOn": "2014-07-27T00:00:00",
+            "description": "This article reviews the latest product from QlikTech to next-generation data visualization application \u2013 Qlik Sense Desktop and outline the features.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/07/Qlik-Sense_image1.png"
+        },
+        {
+            "id": 6223,
+            "title": "Solve a business case using simple Markov Chain",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/solve-business-case-simple-markov-chain/",
+            "authors": "Tavish Srivastava",
+            "tags": "Advanced, Algorithm, Banking, Business Analytics, Statistics",
+            "publishedOn": "2014-07-23T00:00:00",
+            "description": "This article explains how to solve a real life scenario business case using Markov chain algorithm where simple Markov chain can be leveraged.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/07/cycle.png"
+        },
+        {
+            "id": 6224,
+            "title": "Using statistics: How to understand population distributions?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/statistics/",
+            "authors": "Kunal Jain",
+            "tags": "Business Analytics, Intermediate, Statistics, Technique",
+            "publishedOn": "2014-07-21T00:00:00",
+            "description": "This series lays out various concepts of statistics, which business analytics analyst needs to know. This is part one of the article.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/07/xkcd_seashell.png"
+        },
+        {
+            "id": 6225,
+            "title": "Introduction to Markov chain : simplified! (with Implementation in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/markov-chain-simplified/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Big data, Business Analytics, Intermediate, Machine Learning, R",
+            "publishedOn": "2014-07-17T00:00:00",
+            "description": "An introduction to the Markov chain. In this article learn the concepts of the Markov chain in R using a business case and its implementation in R.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/07/Introduction-to-Markov-chain-simplified.jpg"
+        },
+        {
+            "id": 6226,
+            "title": "Baby steps in Python \u2013 Libraries and data structures",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/baby-steps-libraries-data-structure/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Python",
+            "publishedOn": "2014-07-15T00:00:00",
+            "description": "This Python tutorial focuses on the basic concepts of Python for data analysis. Learn Python to expand your knowledge and skill set for data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2016/01/Learn-Data-Science-with-Python-from-Scratch.png"
+        },
+        {
+            "id": 6227,
+            "title": "How to use \u201cVLOOKUP()\u201d like functionality in QlikView?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/vlookup-functionality-qlikview/",
+            "authors": "Sunil Ray",
+            "tags": "Advanced, Business Intelligence, Libraries, Programming, Qlikview",
+            "publishedOn": "2014-07-13T00:00:00",
+            "description": "This article describes one of the ways to use VLOOKUP() like functionality in Qlikview.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/07/Fourth.png"
+        },
+        {
+            "id": 6228,
+            "title": "Who is the world cheering for? 2014 FIFA WC winner predicted using Twitter feed (in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/world-cheering-2014-fifa-wc-winner-twitter/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Data Exploration, Intermediate, NLP, Project, R, Sports, Text, Unstructured Data",
+            "publishedOn": "2014-07-08T00:00:00",
+            "description": "In this article, we will make a prediction for the 2014 FIFA winner using Twitter feeds on each of the shortlisted team using R analytics tool.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/07/2014-world-cup-logo.jpg"
+        },
+        {
+            "id": 6229,
+            "title": "Definitive guide to prepare for an analytics interview",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/definitive-guide-prepare-analytics-interview/",
+            "authors": "Kunal Jain",
+            "tags": "Big data, Business Analytics, Business Intelligence, Intermediate, Interview Questions, Interviews, Interviews",
+            "publishedOn": "2014-07-07T00:00:00",
+            "description": "This article lays out all you wanted to know about analytics interview, best practices to follow and things to avoid during an interview.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/07/Definitive-guide-to-prepare-for-an-analytics-interview-1.jpg"
+        },
+        {
+            "id": 6230,
+            "title": "Using Facebook as an analyst (Hint \u2013 using R)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/facebook-analyst/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Data Exploration, Intermediate, R, Social Media, Technique",
+            "publishedOn": "2014-07-03T00:00:00",
+            "description": "This article will help you analyze your facebook network using R in less than 5 minutes. Learn simple steps as an analyst.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/07/graph_social_networking.jpg"
+        },
+        {
+            "id": 6231,
+            "title": "Baby steps in learning Python for data analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2014/07/baby-steps-learning-python-data-analysis/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Data Exploration, Programming, Python",
+            "publishedOn": "2014-07-01T00:00:00",
+            "description": "This Python tutorial focuses on the basic concepts of Python for data analysis. Learn Python to expand your knowledge and skill set for data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2016/01/Learn-Data-Science-with-Python-from-Scratch.png"
+        },
+        {
+            "id": 6232,
+            "title": "Comparing a Random Forest to a CART model (Part 2)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/comparing-random-forest-simple-cart-model/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Business Analytics, Classification, Intermediate, Machine Learning, R, Structured Data, Supervised",
+            "publishedOn": "2014-06-27T00:00:00",
+            "description": "Confused between the choices of classification model, i.e random forest or cart model. This article lays out a framework to make this choice.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/06/Comparison.png"
+        },
+        {
+            "id": 6233,
+            "title": "What is deep learning and why is it getting so much attention?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/deep-learning-attention/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Big data, Business Analytics, Deep Learning, Resource",
+            "publishedOn": "2014-06-24T00:00:00",
+            "description": "Learn what is deep learning. This article explains about deep learning applications, its uses and resources for beginners",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/deep-learning.jpg"
+        }
+    ]
+}

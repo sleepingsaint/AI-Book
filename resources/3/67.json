@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3954,
+            "title": "Exploring Mito: Automatic Python Code for SpreadSheet Operations",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/exploring-mito-automatic-python-code-for-spreadsheet-operations/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Exploration, Libraries, Programming, Python, Structured Data",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Mito is a Jupyter-Lab extension and Python library that makes it super easy to manipulate data in the spreadsheet environment",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67349MitoSheets-Blog-Banner.png"
+        },
+        {
+            "id": 3955,
+            "title": "Part 4: Step by Step Guide to Master NLP \u2013 Text Cleaning Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-4-step-by-step-guide-to-master-natural-language-processing-in-python/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Cleaning, NLP, Python, Text",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "In this article, we will first discuss some text cleaning techniques useful in Natural language processing tasks and then lemmatization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/61662nlp.jpg"
+        },
+        {
+            "id": 3956,
+            "title": "How To Add Textual Watermarks To The Images With OpenCv and PIL!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-add-textual-watermarks-to-the-images-with-opencv-and-pil/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Computer Vision, Image, Libraries, Programming, python, Use Cases",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "we are going to discover how to attach textual watermarks to an image using OpenCV & PIL to implement various techniques of image manipulations",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3957,
+            "title": "App Building And Deployment of a Predictive Model Using Flask and AWS",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/app-building-and-deployment-of-a-predictive-model-using-flask-and-aws/",
+            "authors": "ANANDA CHATTERJEE",
+            "tags": "Advanced, Banking, Classification, Data Science, Model Deployment, Project, Python, Structured Data",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "In this article, we will be building an app for a predictive model using flask. we will also deploy the app using Amazon AWS.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/dl_loan-scaled.jpg"
+        },
+        {
+            "id": 3958,
+            "title": "Streamlit for ML Web Applications: Customer\u2019s Propensity to Purchase",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/streamlit-for-ml-web-applications-customers-propensity-to-purchase/",
+            "authors": "Sindhu Mallya",
+            "tags": "Advanced, Data Engineering, Machine Learning, Project, Python, Streamlit, Structured Data, Web Analytics",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "In this blog, we have demonstrated building a Streamlit Application that takes in specific user inputs and predicts the probability",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70537__-drz-__-N9fPfXdlabg-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3959,
+            "title": "How to get the most out of Bias-Variance Tradeoff?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-get-the-most-out-of-bias-variance-tradeoff/",
+            "authors": "Karan Pradhan",
+            "tags": "Beginner, Bias and Variance, Machine Learning, Python, Structured Data, Supervised, Technique",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "In this post, we will explain the bias-variance tradeoff in machine learning and how we can get the most out of it as a data scientist",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3960,
+            "title": "How to Build a Data Warehouse Using PostgreSQL in Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-build-a-data-warehouse-using-postgresql-in-python/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Advanced, Data Engineering, Python, SQL, Structured Data",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Data warehouse generalizes and mingles data in multidimensional space. Learn how to data warehouse using PostgreSQL in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 3961,
+            "title": "Lollipop Charts: Advanced Data Visualization in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/lollipop-charts-advanced-data-visualization-in-python/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Visualization, Libraries, Project, Python",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Lollipop Chart is used to compare the different classes of a category. In this blog discover what are lollipop charts and how to plot them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/tips-for-better-Data-Visualization.jpg"
+        },
+        {
+            "id": 3962,
+            "title": "Functions in Python that Every Data Science Beginners should Begin Learning With",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/functions-in-python-that-every-data-science-beginners-should-begin-learning-with/",
+            "authors": "Nishtha Arora",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Functions in python for data science beginners. In this article, we are going to learn python functions, how they are implemented and used",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3963,
+            "title": "Data Visualization Techniques You MUST Know as a Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/data-visualization-techniques-you-must-know-as-a-data-scientist/",
+            "authors": "Harsh Dhamecha",
+            "tags": "Beginner, Data Visualization, Project, Python, Structured Data, Technique",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Data visualization are techniques of translating information or data into a visual context, such as a map or graph, to make data easier",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/50668common-wallpaper.jpg"
+        },
+        {
+            "id": 3964,
+            "title": "Flight Price Prediction -A Regression Analysis using Lazy Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/flight-price-prediction-a-regression-analysis-using-lazy-prediction/",
+            "authors": "Kajal Kumari",
+            "tags": "Beginner, Data Exploration, Data Visualization, Listicle, Machine Learning, Python, Structured Data, Supervised, Use Cases",
+            "publishedOn": "2021-06-20T00:00:00",
+            "description": "Lazy Prediction saves time and efforts to build a machine learning model by providing model performance and training time.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/25317plane.jpg"
+        },
+        {
+            "id": 3965,
+            "title": "Support Vector Machine: Introduction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-introduction/",
+            "authors": "Sarvagya Agrawal",
+            "tags": "Algorithm, Beginner, Classification, Machine Learning, Python",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "Support Vector Machine is a supervised learning algorithm that is used for both classification and regression analysis, We will discuss svm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Machine-Learning-and-Supply-Chain-Management.jpg"
+        },
+        {
+            "id": 3966,
+            "title": "Polars: The fastest DataFrame library you\u2019ve never heard of",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of/",
+            "authors": "Barney Darlington",
+            "tags": "Beginner, Data Science, Libraries, Python, python",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "In this article, I want to share with you an alternative for Pandas that is almost 3 times faster. Polars is one of the lesser-known but efficient library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/22418p1.png"
+        },
+        {
+            "id": 3967,
+            "title": "MLOps | Versioning Datasets with Git & DVC",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mlops-versioning-datasets-with-git-dvc/",
+            "authors": "Amit Kulkarni",
+            "tags": "Advanced, Data Engineering, Github, Listicle, MLops, python",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "The version control is becoming an integral part of the data science project. In this article we will see Versioning Datasets with Git & DVC.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/82130versions-scaled.jpg"
+        },
+        {
+            "id": 3968,
+            "title": "How to Load Kaggle Datasets Directly into Google Colab?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Science, Database, Project, Resource",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "Almost every data science aspirant uses Kaggle.In this article, I will explain how to load the datasetsfrom Kaggle to Google Colab notebooks.\u00a0",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/24546banner.png"
+        },
+        {
+            "id": 3969,
+            "title": "Covid-19 Tweets Analysis using NLP with Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/covid-19-tweets-analysis-using-nlp-with-python/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Beginner, Classification, NLP, Python",
+            "publishedOn": "2021-06-19T00:00:00",
+            "description": "In this tutorial, I am going to discuss a practical guide of Natural Language Processing(NLP) using Python For covid19 tweets Analysis.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/85672covid.jpg"
+        },
+        {
+            "id": 3970,
+            "title": "Average: Stepping stone of Statistical Analysis in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/average-stepping-stones-of-analysis/",
+            "authors": "Shankar D.K",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "Representation of a whole set of data in a single value is Average. Generally, this tends to be the calculated central value of distribution",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74092Stat1.png"
+        },
+        {
+            "id": 3971,
+            "title": "The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/",
+            "authors": "Yash Bohra",
+            "tags": "Advanced, Algorithm, Deep Learning, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "In this article, Vanishing and exploding gradients in a deep neural network is explained and the techniques to solve it",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/18437nnnn.jpg"
+        },
+        {
+            "id": 3972,
+            "title": "Juicing out the Diabetes Patterns amongst Indians using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/juicing-out-the-diabetes-patterns-amongst-indians-using-machine-learning/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Beginner, Classification, Machine Learning, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "Let us write some code in python to understand the dataset and use machine learning to understand the situation of diabetes in India",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 3973,
+            "title": "Rule-Based Sentiment Analysis in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/rule-based-sentiment-analysis-in-python/",
+            "authors": "Harika Bonthu",
+            "tags": "Advanced, Classification, NLP, Project, Python, Structured Data",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "Rule-based Sentiment Analysis is called Lexicon based approach. This article focuses on the Rule-based Sentiment Analysis in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/performing-twitter-sentiment-analysis1.jpg"
+        },
+        {
+            "id": 3974,
+            "title": "Data Manipulation Using Pandas you need to know!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/data-manipulation-using-pandas-essential-functionalities-of-pandas-you-need-to-know/",
+            "authors": "Srivignesh R",
+            "tags": "Beginner, Data Cleaning, Data Exploration, Data Science, Libraries, Pandas, python, Structured Data",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "Pandas is an open-source data analysis and data manipulation library in python. Here, we will learn about data manipulation using Pandas",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/pandas.png"
+        },
+        {
+            "id": 3975,
+            "title": "Build an Image Classifier With SVM!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/build-an-image-classifier-with-svm/",
+            "authors": "Bahauddin Taha",
+            "tags": "Advanced, Classification, Computer Vision, Image, Project, python, Unstructured Data",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "In this article we are going to learn what is SVM and develop an image classifier with svm. It is a CNN model where the last layer is a SVM",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Building-an-Image-Classification-model-.jpg"
+        },
+        {
+            "id": 3976,
+            "title": "Real-time Data Streaming using Apache Spark!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/real-time-data-streaming-using-apache-spark/",
+            "authors": "Vikas Verma",
+            "tags": "Advanced, Big data, Data Engineering, Python, Spark",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "There are various real-time data streaming techniques like Spark Streaming. In this post, we will discuss Spark real time Streaming.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/spark1-768x512.png"
+        },
+        {
+            "id": 3977,
+            "title": "Text Analysis with Spacy to Master NLP techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/text-analysis-with-spacy-to-master-nlp-techniques/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Data Science, Libraries, NLP, python, Text",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "Spacy is an open-source Natural Language processing library in python. In this blog learn about spacy and text analysis with Spacy",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69371Spacy-Tutorial-Feature-img.png"
+        },
+        {
+            "id": 3978,
+            "title": "Embed PowerBI report in Jupyter Notebook using \u201cpowerbiclient\u201d",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/embed-powerbi-report-in-jupyter-notebook-using-powerbiclient/",
+            "authors": "Himanshu Bajpai",
+            "tags": "Data Engineering, Intermediate, Libraries, Power BI, python",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "In this article, we utilized the powerbiclient to embed the report in the Jupyter notebook using URL and report/group ID.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/data-visualization-whiz.png"
+        },
+        {
+            "id": 3979,
+            "title": "Web Scraping with Python For Your Data Science project!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/perform-web-scraping-with-python/",
+            "authors": "Sonia Singla",
+            "tags": "Beginner, Data Mining, Data Science, Libraries, Project, Python",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "This is an article on Web scraping with Python for your project. Discover how to perform web scraping using Python in data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/web-scraping-.jpg"
+        },
+        {
+            "id": 3980,
+            "title": "Do Artificial Intelligence and Business Analytics Complement Each Other?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/do-artificial-intelligence-and-business-analytics-complement-each-other/",
+            "authors": "Abhishek Kumar",
+            "tags": "Artificial Intelligence, Beginner, Business Analytics",
+            "publishedOn": "2021-06-18T00:00:00",
+            "description": "In this article, we will look into a prominent question- Do Artificial Intelligence and Business Analytics Complement Each Other?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/29238carlos-muza-hpjSkU2UYSU-unsplash.jpg"
+        },
+        {
+            "id": 3981,
+            "title": "Deploy Machine Learning Models leveraging CherryPy and Docker",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/deploy-machine-learning-models-leveraging-cherrypy-and-docker/",
+            "authors": "Srivignesh R",
+            "tags": "Advanced, Data Engineering, Model Deployment",
+            "publishedOn": "2021-06-17T00:00:00",
+            "description": "Learn what is CherryPy and Docker. In this article, we are going to look at to how to Deploy ML Model using CherryPy and Docker.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/58023Screen-Shot-2021-06-15-at-5.29.23-PM.png"
+        },
+        {
+            "id": 3982,
+            "title": "Beginner\u2019s Guide to Machine Learning Explainability",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-to-machine-learning-explainability/",
+            "authors": "Deepak Moonat",
+            "tags": "Intermediate, Machine Learning",
+            "publishedOn": "2021-06-17T00:00:00",
+            "description": "In this article, we are going to explore what Machine Learning Explainability really is and how data scientists can benefit from this",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/38570XAI.png"
+        },
+        {
+            "id": 3983,
+            "title": "Understanding Random Forest",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/",
+            "authors": "Sruthi E R",
+            "tags": "Advanced, Algorithm, Classification, Machine Learning, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2021-06-17T00:00:00",
+            "description": "Random forest is a Supervised Machine Learning Algorithm. This is an introduction to understanding random forest, its working and features.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84303images-1.jpg"
+        }
+    ]
+}

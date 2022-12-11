@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6848,
+            "title": "Applying for technical roles",
+            "url": "https://www.deepmind.com/blog/applying-for-technical-roles",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2020-06-23T00:00:00",
+            "description": "It\u2019s no secret that the gender gap still exists within STEM. Despite a slight increase in recent years, studies show that women only make up about a quarter of the overall STEM workforce in the UK. While the reasons vary, many women report feeling held back by a lack of representation, clear opportunities and information on what working in the sector actually involves.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622759ba561abeee2b9e9f67_Technical%20Roles.jpg"
+        },
+        {
+            "id": 6849,
+            "title": "dm_control: Software and Tasks for Continuous Control",
+            "url": "https://www.deepmind.com/blog/dm-control-software-and-tasks-for-continuous-control",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-06-15T00:00:00",
+            "description": "The dm_control software package is a collection of Python libraries and task suites for reinforcement learning agents in an articulated-body simulation. A MuJoCo wrapper provides convenient bindings to functions and data structures. The PyMJCF and Composer libraries enable procedural model manipulation and task authoring.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6850,
+            "title": "Acme: A new framework for distributed reinforcement learning",
+            "url": "https://www.deepmind.com/blog/acme-a-new-framework-for-distributed-reinforcement-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "Acme is a framework for building readable, efficient, research-oriented RL algorithms. At its core Acme is designed to enable simple descriptions of RL agents that can be run at various scales of execution \u2014 including distributed agents. By releasing Acme, our aim is to make the results of various RL algorithms developed in academia and industrial labs easier to reproduce and extend for the machine learning community at large.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6851,
+            "title": "Using AI to predict retinal disease progression",
+            "url": "https://www.deepmind.com/blog/using-ai-to-predict-retinal-disease-progression",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2020-05-18T00:00:00",
+            "description": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The \u2018dry\u2019 form is relatively common among people over 65, and usually causes only mild sight loss. However, about 15% of patients with dry AMD go on to develop a more serious form of the disease \u2013 exudative AMD, or exAMD \u2013 which can result in rapid and permanent loss of sight. Fortunately, there are treatments that can slow further vision loss. Although there are no preventative therapies available at present, these are being explored in clinical trials. The period before the development of exAMD may therefore represent a critical window to target for therapeutic innovations: can we predict which patients will progress to exAMD, and help prevent sight loss before it even occurs?",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622757cf6ee3f3aa8647f358_RDP%2001.jpg"
+        },
+        {
+            "id": 6852,
+            "title": "Simple Sensor Intentions for Exploration",
+            "url": "https://www.deepmind.com/blog/simple-sensor-intentions-for-exploration",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-05-12T00:00:00",
+            "description": "In this paper we focus on a setting in which goal tasks are defined via simple sparse rewards, and exploration is facilitated via agent-internal auxiliary tasks. We introduce the idea of simple sensor intentions (SSIs) as a generic way to define auxiliary tasks. SSIs reduce the amount of prior knowledge that is required to define suitable rewards. They can further be computed directly from raw sensor streams and thus do not require expensive and possibly brittle state estimation on real systems.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6853,
+            "title": "Learning to Segment Actions from Observation and Narration",
+            "url": "https://www.deepmind.com/blog/learning-to-segment-actions-from-observation-and-narration",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-05-07T00:00:00",
+            "description": "We apply a generative segmental model of task structure, guided by narration, to action segmentation in video. We focus on unsupervised and weakly-supervised settings where no action labels are known during training. Despite its simplicity, our model performs competitively with previous work on a dataset of naturalistic instructional videos.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6854,
+            "title": "Specification gaming: the flip side of AI ingenuity",
+            "url": "https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-04-21T00:00:00",
+            "description": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks that anything he touches be turned to gold - but soon finds that even food and drink turn to metal in his hands. In the real world, when rewarded for doing well on a homework assignment, a student might copy another student to get the right answers, rather than learning the material - and thus exploit a loophole in the task specification.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6227554a390ba60d8b2c99b1_Spec%20Gaming%2001.jpg"
+        },
+        {
+            "id": 6855,
+            "title": "Towards understanding glasses with graph neural networks",
+            "url": "https://www.deepmind.com/blog/towards-understanding-glasses-with-graph-neural-networks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-04-06T00:00:00",
+            "description": "Under a microscope, a pane of window glass doesn\u2019t look like a collection of orderly molecules, as a crystal would, but rather a jumble with no discernable structure. Glass is made by starting with a glowing mixture of high-temperature melted sand and minerals. Once cooled, its viscosity (a measure of the friction in the fluid) increases a trillion-fold, and it becomes a solid, resisting tension from stretching or pulling. Yet the molecules in the glass remain in a seemingly disordered state, much like the original molten liquid \u2013 almost as though the disordered liquid state had been flash-frozen in place. The glass transition, then, first appears to be a dramatic arrest in the movement of the glass molecules. Whether this process corresponds to a structural phase transition (as in water freezing, or the superconducting transition) is a major open question in the field. Understanding the nature of the dynamics of glass is fundamental to understanding how the atomic-scale properties define the visible features of many solid materials. In the words of the recently deceased Nobel Prize laureate Philip W. Anderson, whose pioneering work shaped the field of solid-state physics",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622750896f79ead9882d08bc_GraphNets%2001.jpg"
+        },
+        {
+            "id": 6856,
+            "title": "Agent57: Outperforming the human Atari benchmark",
+            "url": "https://www.deepmind.com/blog/agent57-outperforming-the-human-atari-benchmark",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-03-31T00:00:00",
+            "description": "The Atari57 suite of games is a long-standing benchmark to gauge agent performance across a wide range of tasks. We\u2019ve developed Agent57, the first deep reinforcement learning agent to obtain a score that is above the human baseline on all 57 Atari 2600 games. Agent57 combines an algorithm for efficient exploration with a meta-controller that adapts the exploration and long vs. short-term behaviour of the agent.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62274e0c615f435ef646340e_Agent57.jpg"
+        },
+        {
+            "id": 6857,
+            "title": "Visual Grounding in Video for Unsupervised Word Translation",
+            "url": "https://www.deepmind.com/blog/visual-grounding-in-video-for-unsupervised-word-translation",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-03-11T00:00:00",
+            "description": "Our goal is to use visual grounding to improve unsupervised word mapping between languages. The key idea is to establish a common visual representation between two languages by learning embeddings from unpaired instructional videos narrated in the native language.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6858,
+            "title": "A new model and dataset for long-range memory",
+            "url": "https://www.deepmind.com/blog/a-new-model-and-dataset-for-long-range-memory",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-02-10T00:00:00",
+            "description": "Throughout our lives, we build up memories that are retained over a diverse array of timescales, from minutes to months to years to decades. When reading a book, we can recall characters who were introduced many chapters ago, or in an earlier book in a series, and reason about their motivations and likely actions in the current context. We can even put the book down during a busy week, and pick up from where we left off without forgetting the plotline.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62274be76ee3f3a18e406cf2_LRM%2001.jpg"
+        },
+        {
+            "id": 6859,
+            "title": "AlphaFold: Using AI for scientific discovery",
+            "url": "https://www.deepmind.com/blog/alphafold-using-ai-for-scientific-discovery-2020",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2020-01-15T00:00:00",
+            "description": "In our study published in Nature, we demonstrate how artificial intelligence research can drive and accelerate new scientific discoveries. We\u2019ve built a dedicated, interdisciplinary team in hopes of using AI to push basic research forward: bringing together experts from the fields of structural biology, physics, and machine learning to apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic sequence.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62273f41ac0404229af1314b_AF%2001.jpg"
+        },
+        {
+            "id": 6860,
+            "title": "Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI",
+            "url": "https://www.deepmind.com/blog/dopamine-and-temporal-difference-learning-a-fruitful-relationship-between-neuroscience-and-ai",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-01-15T00:00:00",
+            "description": "Learning and motivation are driven by internal and external rewards. Many of our day-to-day behaviours are guided by predicting, or anticipating, whether a given action will result in a positive (that is, rewarding) outcome. The study of how organisms learn from experience to correctly anticipate rewards has been a productive research field for well over a century, since Ivan Pavlov's seminal psychological work. In his most famous experiment, dogs were trained to expect food some time after a buzzer sounded. These dogs began salivating as soon as they heard the sound, before the food had arrived, indicating they'd learned to predict the reward. In the original experiment, Pavlov estimated the dogs\u2019 anticipation by measuring the volume of saliva they produced. But in recent decades, scientists have begun to decipher the inner workings of how the brain learns these expectations. Meanwhile, in close contact with this study of reward learning in animals, computer scientists have developed algorithms for reinforcement learning in artificial systems. These algorithms enable AI systems to learn complex strategies without external instruction, guided instead by reward predictions.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622742d972749d15ce2ddd0f_DistRL.jpg"
+        },
+        {
+            "id": 6861,
+            "title": "Artificial Intelligence, Values and Alignment",
+            "url": "https://www.deepmind.com/blog/artificial-intelligence-values-and-alignment",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-01-13T00:00:00",
+            "description": "This paper looks at philosophical questions that arise in the context of AI alignment. It defends three propositions. First, normative and technical aspects of the AI alignment problem are interrelated, creating space for productive engagement between people working in both domains. Second, it is important to be clear about the goal of alignment. There are significant differences between AI that aligns with instructions, intentions, revealed preferences, ideal preferences, interests and values. A principle-based approach to AI alignment, which combines these elements in a systematic way, has considerable advantages in this context. Third, the central challenge for theorists is not to identify 'true' moral principles for AI; rather, it is to identify fair principles for alignment, that receive reflective endorsement despite widespread variation in people's moral beliefs. The final part of the paper explores three ways in which fair principles for AI alignment could potentially be identified.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6862,
+            "title": "International evaluation of an AI system for breast cancer screening",
+            "url": "https://www.deepmind.com/blog/international-evaluation-of-an-ai-system-for-breast-cancer-screening",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2020-01-01T00:00:00",
+            "description": "Screening mammography aims to identify breast cancer before symptoms appear, enabling earlier therapy for more treatable disease. Despite the existence of screening programs worldwide, interpretation of these images suffers from suboptimal rates of false positives and false negatives. Here we present an AI system capable of surpassing a single expert reader in breast cancer prediction performance.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6863,
+            "title": "Using WaveNet technology to reunite speech-impaired users with their original voices",
+            "url": "https://www.deepmind.com/blog/using-wavenet-technology-to-reunite-speech-impaired-users-with-their-original-voices",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2019-12-18T00:00:00",
+            "description": "As a teenager, Tim Shaw put everything he had into football practice: his dream was to join the NFL. After playing for Penn State in college, his ambitions were finally realised: the Carolina Panthers drafted him at age 23, and he went on to play for the Chicago Bears and Tennessee Titans, where he broke records as a linebacker. After six years in the NFL, on the cusp of greatness, his performance began to falter. He couldn\u2019t tackle like he once had; his arms slid off the pullup bar. At home, he dropped bags of groceries, and his legs began to buckle underneath him. In 2013 Tim was cut from the Titans but he resolved to make it onto another team. Tim practiced harder than ever, yet his performance continued to decline. Five months later, he finally discovered the reason: he was diagnosed with Amyotrophic lateral sclerosis (ALS, commonly known as Lou Gehrig\u2019s disease). In ALS, the neurons that control a person\u2019s voluntary muscles die, eventually leading to a total loss of control over one\u2019s body. ALS has no known cause, and, as of today, has no cure.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62273e42f52944a35dfddb0a_WaveNet%2001.jpg"
+        },
+        {
+            "id": 6864,
+            "title": "Learning human objectives by evaluating hypothetical behaviours",
+            "url": "https://www.deepmind.com/blog/learning-human-objectives-by-evaluating-hypothetical-behaviours",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-12-13T00:00:00",
+            "description": "When we train reinforcement learning (RL) agents in the real world, we don\u2019t want them to explore unsafe states, such as driving a mobile robot into a ditch or writing an embarrassing email to one\u2019s boss. Training RL agents in the presence of unsafe states is known as the safe exploration problem. We tackle the hardest version of this problem, in which the agent initially doesn\u2019t know how the environment works or where the unsafe states are. The agent has one source of information: feedback about unsafe states from a human user.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62273c54ec7ba931169614d9_Human%20Objectives%2001.jpg"
+        },
+        {
+            "id": 6865,
+            "title": "From unlikely start-up to major scientific organisation: Entering our tenth year at DeepMind",
+            "url": "https://www.deepmind.com/blog/from-unlikely-start-up-to-major-scientific-organisation-entering-our-tenth-year-at-deepmind",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-12-05T00:00:00",
+            "description": "Since we started DeepMind nearly 10 years ago, our mission has been to unlock answers to the world\u2019s biggest questions by understanding and recreating intelligence itself.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6866,
+            "title": "Strengthening the AI community",
+            "url": "https://www.deepmind.com/blog/strengthening-the-ai-community",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-11-21T00:00:00",
+            "description": "Most people have at least one crossroads moment in their life - when the choice they make defines their personal or professional trajectory. For me, it was being awarded an internship at Intel, the first one ever through Purdue\u2019s Co-Op Engineering program in 1990.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62273b7456f223a06076ec9b_AI%20Community.jpg"
+        },
+        {
+            "id": 6867,
+            "title": "Advanced machine learning helps Play Store users discover personalised apps",
+            "url": "https://www.deepmind.com/blog/advanced-machine-learning-helps-play-store-users-discover-personalised-apps",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2019-11-18T00:00:00",
+            "description": "Over the past few years we've applied DeepMind's technology to Google products and infrastructure, with notable successes like reducing the amount of energy needed for cooling data centers, and extending Android battery performance. We're excited to share more about our work in the coming months.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62273a74390ba62c711883ff_Play%2001.jpg"
+        },
+        {
+            "id": 6868,
+            "title": "AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+            "url": "https://www.deepmind.com/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "AlphaStar is the first AI to reach the top league of a widely popular esport without any game restrictions. This January, a preliminary version of AlphaStar challenged two of the world's top players in StarCraft II, one of the most enduring and popular real-time strategy video games of all time. Since then, we have taken on a much greater challenge: playing the full game at a Grandmaster level under professionally approved conditions.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6233ab0ff92c16fdcc3e617e_alphastar.jpg"
+        },
+        {
+            "id": 6869,
+            "title": "Restoring ancient text using deep learning: a case study on Greek epigraphy",
+            "url": "https://www.deepmind.com/blog/restoring-ancient-text-using-deep-learning-a-case-study-on-greek-epigraphy",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2019-10-15T00:00:00",
+            "description": "This work presents PYTHIA, the first ancient text restoration model that recovers missing characters from a damaged text input using deep neural networks. Its architecture is carefully designed to handle longterm context information, and deal efficiently with missing or corrupted character and word representations.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6870,
+            "title": "Causal Bayesian Networks: A flexible tool to enable fairer machine learning",
+            "url": "https://www.deepmind.com/blog/causal-bayesian-networks-a-flexible-tool-to-enable-fairer-machine-learning",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-10-03T00:00:00",
+            "description": "Decisions based on machine learning (ML) are potentially advantageous over human decisions, as they do not suffer from the same subjectivity, and can be more accurate and easier to analyse. At the same time, data used to train ML systems often contain human and societal biases that can lead to harmful decisions: extensive evidence in areas such as hiring, criminal justice, surveillance, and healthcare suggests that ML decision systems can treat individuals unfavorably (unfairly) on the basis of characteristics such as race, gender, disabilities, and sexual orientation \u2013 referred to as sensitive attributes.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622736fb6f79ea1a9218f798_Causal%20Bayesian%20Networks.jpg"
+        },
+        {
+            "id": 6871,
+            "title": "DeepMind\u2019s health team joins Google Health",
+            "url": "https://www.deepmind.com/blog/deepminds-health-team-joins-google-health",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-09-18T00:00:00",
+            "description": "Over the last three years, DeepMind has built a team to tackle some of healthcare\u2019s most complex problems\u2014developing AI research and mobile tools that are already having a positive impact on patients and care teams. Today, with our healthcare partners, the team is excited to officially join the Google Health family. Under the leadership of Dr. David Feinberg, and alongside other teams at Google, we\u2019ll now be able to tap into global expertise in areas like app development, data security, cloud storage and user design to build products that support care teams and improve patient outcomes.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6872,
+            "title": "The Podcast: Episode 8: Demis Hassabis - The interview",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-8-demis-hassabis-the-interview",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-09-17T00:00:00",
+            "description": "In this special extended episode, Hannah Fry meets Demis Hassabis, the CEO and co-founder of DeepMind.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6873,
+            "title": "The Podcast: Episode 7: Towards the future",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-7-towards-the-future",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-09-10T00:00:00",
+            "description": "AI researchers around the world are trying to create a general purpose learning system that can learn to solve a broad range of problems without being taught how.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6874,
+            "title": "Replay in biological and artificial neural networks",
+            "url": "https://www.deepmind.com/blog/replay-in-biological-and-artificial-neural-networks",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-09-06T00:00:00",
+            "description": "Our waking and sleeping lives are punctuated by fragments of recalled memories: a sudden connection in the shower between seemingly disparate thoughts, or an ill-fated choice decades ago that haunts us as we struggle to fall asleep. By measuring memory retrieval directly in the brain, neuroscientists have noticed something remarkable: spontaneous recollections, measured directly in the brain, often occur as very fast sequences of multiple memories. These so-called 'replay' sequences play out in a fraction of a second\u2013so fast that we're not necessarily aware of the sequence.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622734987240e7ef11c59c83_Replay%2001.jpg"
+        },
+        {
+            "id": 6875,
+            "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+            "url": "https://www.deepmind.com/blog/making-efficient-use-of-demonstrations-to-solve-hard-exploration-problems",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2019-09-05T00:00:00",
+            "description": "This paper introduces R2D3, an agent that makes efficient use of demonstrations to solve hard exploration problems in partially observable environments with highly variable initial conditions. We also introduce a suite of eight tasks that combine these three properties, and show that R2D3 can solve several of the tasks where other state of the art methods (both with and without demonstrations) fail to see even a single successful trajectory after tens of billions of steps of exploration.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6876,
+            "title": "The Podcast: Episode 6: AI for everyone",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-6-ai-for-everyone",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-09-03T00:00:00",
+            "description": "While there is a lot of excitement about AI research, there are also concerns about the way it might be implemented, used and abused.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6877,
+            "title": "The Podcast: Episode 5: Out of the lab",
+            "url": "https://www.deepmind.com/blog/the-podcast-episode-5-out-of-the-lab",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2019-08-27T00:00:00",
+            "description": "The ambition of AI research is to create systems that can help to solve problems in the real world.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

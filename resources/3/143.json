@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6234,
+            "title": "Comparing a CART model to Random Forest (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/comparing-cart-random-forest-1/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Business Analytics, Classification, Intermediate, Machine Learning, R, Structured Data, Supervised",
+            "publishedOn": "2014-06-20T00:00:00",
+            "description": "This article brings out the differences in widely used CART and random forest model using simple case study and example.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/tree.png"
+        },
+        {
+            "id": 6235,
+            "title": "SAS launches a free version \u2013 but, is it good enough?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/sas-launches-free-version-but-good-enough/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, News, SAS",
+            "publishedOn": "2014-06-16T00:00:00",
+            "description": "SAS launched a free version - SAS Analytics U. This article reviews how good and useful it is.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/06/SAS_analytics_U.jpg"
+        },
+        {
+            "id": 6236,
+            "title": "Unveiling Analytics Vidhya Apprentice \u2013 a programme to graduate with recognition for your knowledge!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/unveiling-analytics-vidhya-apprentice-programme/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Business Analytics",
+            "publishedOn": "2014-06-10T00:00:00",
+            "description": "This article tells the genesis, thinking and structure of a unique programme - Analytics Vidhya Apprentice, a programme to graduate with recognition for your knowledge!",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/06/stage11.png"
+        },
+        {
+            "id": 6237,
+            "title": "Introduction to Random forest \u2013 Simplified",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Big data, Business Analytics, Classification, Intermediate, Machine Learning, Supervised",
+            "publishedOn": "2014-06-10T00:00:00",
+            "description": "An introduction to random forest model algorithm and how to apply random forest classification algorithm using data for a case study in predictive analysis.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/alienvshuman.jpg"
+        },
+        {
+            "id": 6238,
+            "title": "Must have books for data scientists (or aspiring ones)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/books-data-scientists-or-aspiring-ones/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Big data, Books, Business Analytics, Listicle",
+            "publishedOn": "2014-06-04T00:00:00",
+            "description": "This article provides a list of books for data scientist beginners or aspiring ones which every data scientist must read.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2013/09/books.jpg"
+        },
+        {
+            "id": 6239,
+            "title": "Tricking your elephant to do data manipulations (using MapReduce)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/06/mapreduce-data-manipulation/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Data Engineering, Hadoop, Intermediate, Libraries, Programming",
+            "publishedOn": "2014-06-01T00:00:00",
+            "description": "This article will help you understand how to \"trick\" Hadoop to see different kind of data manipulation functionality as MapReduce function.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/map-reduce.jpg"
+        },
+        {
+            "id": 6240,
+            "title": "Introduction to MapReduce",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/introduction-mapreduce/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Data Engineering, Libraries, Programming",
+            "publishedOn": "2014-05-28T00:00:00",
+            "description": "This article will help you understand the step by step functionality of Map-Reduce model with help of map reduce example.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/05/mapreduce.jpg"
+        },
+        {
+            "id": 6241,
+            "title": "The lack of analytics work experience and how to overcome it?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/no-analytics-work-experience/",
+            "authors": "Kunal Jain",
+            "tags": "Business Analytics, Business Intelligence, Intermediate, Interview Questions, Interviews, Profile Building",
+            "publishedOn": "2014-05-25T00:00:00",
+            "description": "This article addresses a common problem fresher\u2019s / non-experienced people face while trying to enter analytics industry, learn analytics or during analytics training.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/06/hurdle.jpg"
+        },
+        {
+            "id": 6242,
+            "title": "What is Hadoop? \u2013 Simplified!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/hadoop-simplified/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Data Engineering, Resource",
+            "publishedOn": "2014-05-21T00:00:00",
+            "description": "Hadoop is a savior of this big data world. This article gives an introduction to hadoop technology, big data hadoop, hadoop examples.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/12/hadoop.jpg"
+        },
+        {
+            "id": 6243,
+            "title": "9 best practices for analytics talent management",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/9-best-practices-analytics-talent-management/",
+            "authors": "Kunal Jain",
+            "tags": "Business Analytics, Business Intelligence, Intermediate, Interview Questions, Leadership",
+            "publishedOn": "2014-05-19T00:00:00",
+            "description": "This article lays out the best practices around analytics talent management, which I have learnt over years.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/05/origin_9045254666.jpg"
+        },
+        {
+            "id": 6244,
+            "title": "4 Tricky R interview questions",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/tricky-interview-questions/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Education, Intermediate, Interview Questions, Interviews, Interviews, Listicle, R, SAS",
+            "publishedOn": "2014-05-14T00:00:00",
+            "description": "This article will take you through some of the tricky programming questions on R frequently asked in business analytics interviews.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/05/intreviw-2-00000.jpg"
+        },
+        {
+            "id": 6245,
+            "title": "Planning a late career shift to Analytics / Big data? Better be prepared!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/planning-late-career-shift-analytics-big-data-prepared/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Big data, Business Analytics, Business Intelligence, Interview Questions, Interviews, Job Roles",
+            "publishedOn": "2014-05-11T00:00:00",
+            "description": "What are the challenges faced with a late career switch to data science and analytics? What is the best way to start up a business analytics career.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/05/planning-a-late1.jpg"
+        },
+        {
+            "id": 6246,
+            "title": "Build a word cloud using text mining tools of R",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/build-word-cloud-text-mining-tools/",
+            "authors": "Tavish Srivastava",
+            "tags": "Banking, Big data, Business Analytics, Data Visualization, Intermediate, NLP, R, Technique, Text, Unstructured Data",
+            "publishedOn": "2014-05-07T00:00:00",
+            "description": "This article provides a simple framework to make a word cloud using text mining feature of R, text mining tools, data mining tools.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/05/building-00000.jpg"
+        },
+        {
+            "id": 6247,
+            "title": "Analytics events in 2014 \u2013 India and abroad",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/analytics-events-2014-india/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Big data, Business Analytics, Business Intelligence, News",
+            "publishedOn": "2014-05-05T00:00:00",
+            "description": "Recommendations for must attend events in Analytics Industry across the globe.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/05/india_summits.png"
+        },
+        {
+            "id": 6248,
+            "title": "Data Visualization: Creating Geo-spatial dashboards in Qlikview",
+            "url": "https://www.analyticsvidhya.com/blog/2014/05/google-map-qlikview/",
+            "authors": "Sunil Ray",
+            "tags": "Business Intelligence, Data Visualization, Intermediate, Qlikview, Technique",
+            "publishedOn": "2014-05-01T00:00:00",
+            "description": "This article explains how to represent information on google map in qlikview using data visualization tools and techniques.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/04/Qlikview_Google_Map_101.png"
+        },
+        {
+            "id": 6249,
+            "title": "Simple framework to build a survival analysis model on R",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/solving-survival-model/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Classification, Intermediate, Machine Learning, R, Structured Data, Supervised, Technique",
+            "publishedOn": "2014-04-27T00:00:00",
+            "description": "Learn about survival analysis in R. This article explains a step by step process to build a survival analysis model using the business analytics tool R.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/survival_R.png"
+        },
+        {
+            "id": 6250,
+            "title": "Training recommendation (Tutorials from PyCon 2014 \u2013 USA) and contest update",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/training-recommendation-tutorials-pycon-2014-usa/",
+            "authors": "Kunal Jain",
+            "tags": "Big data, Business Analytics",
+            "publishedOn": "2014-04-24T00:00:00",
+            "description": "This article gives review on some analytics training recommendations from the tutorials presented in PyCon 2014, USA",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/Pycon-2014-300x43.png"
+        },
+        {
+            "id": 6251,
+            "title": "Is survival analysis the right model for you?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/survival-analysis-model-you/",
+            "authors": "Tavish Srivastava",
+            "tags": "Big data, Business Analytics, Intermediate, Machine Learning, Technique",
+            "publishedOn": "2014-04-21T00:00:00",
+            "description": "This article explains why survival analysis is the right model for your next project? Learn about different survival analysis applications.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/surviva-1024x775.jpg"
+        },
+        {
+            "id": 6252,
+            "title": "We just turned 1!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/turned-1/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement, Beginner, Big data, Business Analytics, Business Intelligence",
+            "publishedOn": "2014-04-20T00:00:00",
+            "description": "Analytics Vidhya Turns 1. We feel proud about the value we have added in last one year and are excited about our new initiatives - analytics jobs & analytics trainings.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/anniversary-300x89.png"
+        },
+        {
+            "id": 6253,
+            "title": "The importance of context for an analyst!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/importance-context/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Interview Questions, Job Roles, Structured Thinking",
+            "publishedOn": "2014-04-17T00:00:00",
+            "description": "This article lays out the importance of providing context for an analyst, Business Intelligence professional and then shares tips to master importance of context.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/04/bad-meetings-meeting-mistakes.jpg"
+        },
+        {
+            "id": 6254,
+            "title": "Tricky Base SAS interview questions : Part-II",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/tricky-base-sas-interview-questions-part-ii/",
+            "authors": "Tavish Srivastava",
+            "tags": "Analytics Vidhya, Big data, Business Analytics, Intermediate, Interview Questions, Interviews, Interviews, SAS",
+            "publishedOn": "2014-04-13T00:00:00",
+            "description": "In this article, we will cover some tricky questions frequently asked in interviews of companies working on big data.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/tough-questions.jpg"
+        },
+        {
+            "id": 6255,
+            "title": "8 rules for new age analytics learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/8-rules-age-analytics-learning/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Beginner, Big data, Business Analytics, Business Intelligence, Listicle, Resource",
+            "publishedOn": "2014-04-11T00:00:00",
+            "description": "These rules should help you crafting your career in analytics through continuous learning and learning of new business analytics tools and technology.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/04/medium_7704609288.jpg"
+        },
+        {
+            "id": 6256,
+            "title": "Probability in action: Could Monty Hall have made more money on the show?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/probability-action-monty-halls-money-show/",
+            "authors": "Tavish Srivastava",
+            "tags": "Business Analytics, Intermediate, Statistics, Technique",
+            "publishedOn": "2014-04-07T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 6257,
+            "title": "Freelancing consultant \u2013 SAS, India\u2019s leading travel portal",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/freelancing-consultant-sas-indias-leading-travel-portal/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Jobs - Business Intelligence, Resource, SAS",
+            "publishedOn": "2014-04-04T00:00:00",
+            "description": "Exciting opportunity with India's leading travel portal. We are looking at a consultant who would help in setting up & integrating SAS for us. Apply Today !",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/themes/analytics-vidhya/icon/pdf.svg"
+        },
+        {
+            "id": 6258,
+            "title": "Excitement going up at Analytics Vidhya (and I can\u2019t stop smiling)!",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/exciting-times-analytics-vidhya/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement, Beginner",
+            "publishedOn": "2014-04-04T00:00:00",
+            "description": "Here at analytics vidhya on completing one year, we introduce two new initiatives which should help our readers immensely analytics training and analytics job alerts platform.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/04/anniversary.png"
+        },
+        {
+            "id": 6259,
+            "title": "Solving Accuracy vs. Cost using probabilities (with case study)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/04/accuracy-vs-cost/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Structured Thinking, Technique",
+            "publishedOn": "2014-04-02T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 6260,
+            "title": "How analytics help organizations becoming customer centric?",
+            "url": "https://www.analyticsvidhya.com/blog/2014/03/analytics-helps-organization-customer-centric/",
+            "authors": "Tavish Srivastava",
+            "tags": "Beginner, Big data, Business Analytics, Business Intelligence, Resource",
+            "publishedOn": "2014-03-23T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 6261,
+            "title": "Part III \u2013 Interview with Industry expert, Mr. Srikanth Velamakanni, CEO, Fractal Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2014/03/interview-srikanth-ceo-fractal-analytics-iii/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Beginner, Big data, Business Analytics, Business Intelligence, Consulting, Interview Questions, Interviews",
+            "publishedOn": "2014-03-18T00:00:00",
+            "description": "This is final part of interview with Srikanth Velamakanni, CEO, Fractal Analytics about his future bets & analytics industry evolution.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/03/interview-with-Srikanth-Velamakanni.jpg"
+        },
+        {
+            "id": 6262,
+            "title": "Data Visualization for Tabular Information (with Qlikview case)",
+            "url": "https://www.analyticsvidhya.com/blog/2014/03/create-conditional-formatting-mini-chart/",
+            "authors": "Sunil Ray",
+            "tags": "Business Intelligence, Data Visualization, Intermediate, Libraries, Programming, Qlikview",
+            "publishedOn": "2014-03-13T00:00:00",
+            "description": "In this article, we illustrate ways in which you can create impressive dashboards from seemingly boring tables, with help of Qlikview case.",
+            "thumbnail": "https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/03/scorecard_improvement.png"
+        },
+        {
+            "id": 6263,
+            "title": "Interview with Industry expert, Mr. Srikanth Velamakanni, CEO, Fractal Analytics \u2013 Part II",
+            "url": "https://www.analyticsvidhya.com/blog/2014/03/interview-srikanth-ceo-fractal-analytics-ii/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Business Analytics, Business Intelligence, Intermediate, Interview Questions, Leadership",
+            "publishedOn": "2014-03-12T00:00:00",
+            "description": "This is Part 2 of a 3 series interview with Srikanth Velamakanni, Co-founder & CEO, Fractal Analytics about their hiring & training policies.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/03/Interview-with-Industry-expert-Mr.-Srikanth-Velamakanni-CEO-Fractal-Analytics-\u2013-Part-II.jpg"
+        }
+    ]
+}

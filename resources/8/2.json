@@ -1,0 +1,185 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 7089,
+            "title": "Clojure Numerics, Part 4 - Singular Value Decomposition (SVD)",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-4-Singular-Value-Decomposition-SVD",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-10-04T00:00:00",
+            "description": "Today's article is a short one. Not because Singular Value Decomposition (SVD) is not important, but because it is so ubiquitous that we'll touch it in other...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7090,
+            "title": "What's nice about Clojure numerical computing with new Neanderthal 0.16.0",
+            "url": "https://dragan.rocks/articles/17/Neanderthal-016-Whats-nice-about-Clojure-numerical-computing-with-Neanderthal",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-09-18T00:00:00",
+            "description": "I've spent some quality time with my Emacs sipping some CIDER, and it is a good moment to introduce the release 0.16.0 of Neanderthal, the linear algebra and...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7091,
+            "title": "Clojure Numerics, Part 3 - Special Linear Systems and Cholesky Factorization",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-3-Special-Linear-Systems-and-Cholesky-Factorization",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-09-18T00:00:00",
+            "description": "In the last article we have learned to solve general linear systems, assuming that the matrix of coefficients is square, dense, and unstructured. We have als...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7092,
+            "title": "Clojure Numerics, Part 2 - General Linear Systems and LU Factorization",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-2-General-Linear-Systems-and-LU-Factorization",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-09-07T00:00:00",
+            "description": "Solving systems of linear equations is a staple food of linear algebra. It can be applied as a part of many machine learning tasks, although it is not always...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7093,
+            "title": "Neanderthal 0.15.0 Released - Many more specialized matrix data structures in Clojure",
+            "url": "https://dragan.rocks/articles/17/Neanderthal-015-Many-more-specialized-matrix-data-structures-in-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-09-01T00:00:00",
+            "description": "The new release of Neanderthal, the fast Clojure one stop shop for linear algebra and matrix computations at top speed on Intel and AMD CPU's, and both Nvidi...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7094,
+            "title": "Setting up Neanderthal - High Performance Clojure Easy as 1,2,3",
+            "url": "https://dragan.rocks/articles/17/Setting-up-Neanderthal",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-08-18T00:00:00",
+            "description": "This is a flash post, written after having a sudden thought while reading a book totally unrelated to Clojure. How hard (or easy) is it to start with Neander...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7095,
+            "title": "Clojure Numerics, Part 1 - Use Matrices Efficiently",
+            "url": "https://dragan.rocks/articles/17/Clojure-Numerics-1-Use-Matrices-Efficiently",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-26T00:00:00",
+            "description": "It's time to step back from theory and look a bit more into implementation details of all that matrix stuff. In this post, I give an overview of data structu...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7096,
+            "title": "Clojure Linear Algebra Refresher (4) - Linear Transformations",
+            "url": "https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Linear-Transformations",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-15T00:00:00",
+            "description": "Now that we got ourselves acquainted with matrix transformations, the next obvious step is to generalize our knowledge with linear transformations.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7097,
+            "title": "Clojure Linear Algebra Refresher (3) - Matrix Transformations",
+            "url": "https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Matrix-Transformations",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-13T00:00:00",
+            "description": "A Clojure programmer will immediately feel at home with linear transformations - functions are also transformations. Linear transformations preserve the math...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7098,
+            "title": "Clojure Linear Algebra Refresher (3) - Matrix Transformations",
+            "url": "https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-3-Matrix-Transformations",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-13T00:00:00",
+            "description": "A Clojure programmer will immediately feel at home with linear transformations - functions are also transformations. Linear transformations preserve the math...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7099,
+            "title": "Clojure Linear Algebra Refresher (2) - Eigenvalues and Eigenvectors",
+            "url": "https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Eigenvalues-and-Eigenvectors",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-06T00:00:00",
+            "description": "I stumble upon eigenvectors and eigenvalues regularly when reading about machine learning topics. They seem to be important. They are not introduced in those...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7100,
+            "title": "Clojure Linear Algebra Refresher (1) - Vector Spaces",
+            "url": "https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-06-03T00:00:00",
+            "description": "This article is a starting article in a series that is going to briefly skim through a good engineering textbook on linear algebra, making notes that help yo...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7101,
+            "title": "CUDA and cuBLAS GPU matrices in Clojure",
+            "url": "https://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-05-20T00:00:00",
+            "description": "The new release of Neanderthal is here! The highlight of 0.11.0 is the new CUDA/cuBLAS based engine. The high-performance Clojure matrix library now supports...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7102,
+            "title": "Neanderthal 0.9.0 released - Clojure's high-performance computing story is getting into shape",
+            "url": "https://dragan.rocks/articles/17/Neanderthal-090-released-Clojure-high-performance-computing",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-03-31T00:00:00",
+            "description": "Today, I have the pleasure to announce the new release of Neanderthal, the high-performance Clojure matrix library, which brings some important major improve...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7103,
+            "title": "Neanderthal 0.9.0 with major improvements is around the corner",
+            "url": "https://dragan.rocks/articles/17/Neanderthal-090-is-around-the-corner",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-03-22T00:00:00",
+            "description": "The upcoming version of Neanderthal, the library for vector and matrix computations in Clojure, brings improvements to Clojure's numerical computing capabili...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7104,
+            "title": "Bayadera = Bayes + Clojure + GPU (slides for my Bob Konferenz 2017 talk)",
+            "url": "https://dragan.rocks/articles/17/Bayadera-Bayes-Clojure-GPU-slides-Bobkonferenz",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2017-02-20T00:00:00",
+            "description": "I'll give a talk about Bayadera, Clojure, and Bayes (+ GPU's) in Berlin on February 24. Here are the slides!",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7105,
+            "title": "Clojure is not afraid of the GPU (video of my EuroClojure2016 talk)",
+            "url": "https://dragan.rocks/articles/16/2016-Clojure-is-not-afraid-of-the-GPU-video-EuroClojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2016-11-18T00:00:00",
+            "description": "The videos for EuroClojure 2016 talks are finally available on YouTube. Here is mine.",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        },
+        {
+            "id": 7106,
+            "title": "Clojure is not afraid of the GPU (slides for my EuroClojure2016 talk)",
+            "url": "https://dragan.rocks/articles/16/Clojure-is-not-afraid-of-the-GPU-slides-EuroClojure",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2016-10-20T00:00:00",
+            "description": "Is there a better way to open the new blog than with a post about my upcoming talk at EuroClojure2016? I decided to put the slides online in advance, so the ...",
+            "thumbnail": "http://aiprobook.com/img/dlfp-cover.png"
+        }
+    ]
+}

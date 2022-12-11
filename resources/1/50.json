@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1454,
+            "title": "AWS Deep Learning AMIs Now Provide Faster Training on Volta GPUs for TensorFlow and Microsoft Cognitive Toolkit",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-provide-faster-training-on-volta-gpus-for-tensorflow-and-microsoft-cognitive-toolkit/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-02-08T00:00:00",
+            "description": "The AWS Deep Learning AMIs for Ubuntu and Amazon Linux now include the latest versions of TensorFlow (1.5) and Microsoft Cognitive Toolkit (2.4). These frameworks provide support for NVIDIA CUDA 9 and cuDNN 7 drivers. This allows you to take advantage of the mixed-precision training supported by the V100 Volta GPUs powering Amazon EC2 P3 [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/08/deep-learning-4.jpg"
+        },
+        {
+            "id": 1455,
+            "title": "Amazon Polly Gives WordPress a Voice!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-gives-wordpress-a-voice/",
+            "authors": "Steven Word, Tomasz Stachlewski",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-02-08T00:00:00",
+            "description": "Voiced by Amazon Polly Today AWS in partnership with WP Engine is announcing the release of an Amazon Polly plugin for WordPress. The sample plugin enables WordPress creators to easily add Text-to-Speech capabilities to written content. As voice interaction becomes more common, it\u2019s essential to provide your website\u2019s content in audio formats. And, visitors who [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/29/polly-wp-5.gif"
+        },
+        {
+            "id": 1456,
+            "title": "Model Server for Apache MXNet introduces ONNX support and Amazon CloudWatch integration",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-server-for-apache-mxnet-introduces-onnx-support-and-amazon-cloudwatch-integration/",
+            "authors": "Hagay Lupesko",
+            "tags": "Apache MXNet on AWS, AWS Quest",
+            "publishedOn": "2018-02-05T00:00:00",
+            "description": "Today AWS released version 0.2 of Model Server for Apache MXNet (MMS), an open-source library that packages and serves deep learning models for making predictions at scale. Now you can serve models in Open Neural Network Exchange (ONNX) format and publish operational metrics directly to Amazon CloudWatch, where you can create dashboards and alarms. What [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/01/mxnet-600.gif"
+        },
+        {
+            "id": 1457,
+            "title": "ClearView Social uses Amazon Comprehend to measure the impact of social sharing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/clearview-social-uses-amazon-comprehend-to-measure-the-impact-of-social-sharing/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Amazon Comprehend",
+            "publishedOn": "2018-02-01T00:00:00",
+            "description": "ClearView Social enables a company\u2019s employees to share approved content on LinkedIn, Twitter, and other social networks with a single click. It then broadcasts the content to those social networks at peak times, and tracks the resulting engagement with a leaderboard and an analytics dashboard. According to Bill Boulden, CTO of ClearView Social, a key [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/01/clearview-1.gif"
+        },
+        {
+            "id": 1458,
+            "title": "Zocdoc builds patient confidence using TensorFlow on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/zocdoc-builds-patient-confidence-using-tensorflow-on-aws/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-01-30T00:00:00",
+            "description": "The healthcare industry is complicated. A recent survey showed that more than half of Americans have difficulty understanding their insurance coverage, and three-quarters want an easier way to check if doctors are in-network. Zocdoc helps patients navigate this maze, allowing individuals with health care needs to make more informed choices and find care that matches [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/29/zocdoc-2.gif"
+        },
+        {
+            "id": 1459,
+            "title": "Deploy a Web UI for Your Chatbot",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/",
+            "authors": "Oliver Atoa, Bob Strahan",
+            "tags": "Amazon Lex",
+            "publishedOn": "2018-01-26T00:00:00",
+            "description": "September 2022: Post was reviewed for messaging and accuracy. September 2021: Post was updated with introduction of Transfer to Amazon Connect live chat \u2013 See New features You\u2019ve built a very cool chatbot using Amazon Lex. You\u2019ve tested it using the Amazon Lex console. Now you\u2019re ready to deploy it on your website. Although you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/26/webapp-full-75.gif"
+        },
+        {
+            "id": 1460,
+            "title": "Detect sentiment from customer reviews using Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-sentiment-from-customer-reviews-using-amazon-comprehend/",
+            "authors": "Todd Escalona",
+            "tags": "Amazon Athena, Amazon Comprehend",
+            "publishedOn": "2018-01-26T00:00:00",
+            "description": "In today\u2019s world, public content has never been more relevant. Data from customer reviews is being used as a tool to gain insight into consumption-related decisions as the understanding of its associated sentiment grants businesses invaluable market awareness and the ability to proactively address issues early. Sentiment analysis uses a process to computationally determine whether [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/16/customer-reviews-comprehend-10.gif"
+        },
+        {
+            "id": 1461,
+            "title": "AWS Deep Learning AMIs now come with TensorFlow 1.5 and new Model Serving capabilities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-come-with-tensorflow-1-5-and-new-model-serving-capabilities/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-01-25T00:00:00",
+            "description": "The AWS Deep Learning AMIs help you quickly and easily get started with machine learning. The AMIs include a range of prebuilt options that cater to the diverse needs of machine learning practitioners. For those who want the latest stock versions of deep learning frameworks, the Deep Learning AMIs provide prebuilt pip binaries installed in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1462,
+            "title": "Dive Deep into AWS DeepLens Lambda Functions and the New Model Optimizer",
+            "url": "https://aws.amazon.com/blogs/machine-learning/dive-deep-into-aws-deeplens-lambda-functions-and-the-new-model-optimizer/",
+            "authors": "Jyothi Nookula, Eddie Calleja",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-01-24T00:00:00",
+            "description": "Today we launched a new Model Optimizer for AWS DeepLens, which will optimize your deep learning models to run on the DeepLens GPU efficiently, with a single line of Python. The Model Optimizer is available in AWS DeepLens software version 1.2.0. To access the GPU for inference, AWS DeepLens uses the Cl-DNN, Compute Library for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/24/deeplens-lambda-model-optimizer-1.gif"
+        },
+        {
+            "id": 1463,
+            "title": "Speeding up Apache MXNet using the NNPACK library",
+            "url": "https://aws.amazon.com/blogs/machine-learning/speeding-up-apache-mxnet-using-the-nnpack-library/",
+            "authors": "Julien Simon",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-01-22T00:00:00",
+            "description": "Apache MXNet is an open source library developers can use to build, train, and re-use deep learning networks. In this \u00a0blog post, I\u2019ll show you to speed up inference by using the NNPACK library. Indeed, when GPU inference is not available, adding NNPACK to Apache MXNet might be a simple option to extract more performance [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/18/nnpack-2.gif"
+        },
+        {
+            "id": 1464,
+            "title": "Amazon SageMaker BlazingText: Parallelizing Word2Vec on Multiple CPUs or GPUs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-blazingtext-parallelizing-word2vec-on-multiple-cpus-or-gpus/",
+            "authors": "Saurabh Gupta, Vineet Khare",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-01-18T00:00:00",
+            "description": "Today we\u2019re launching Amazon SageMaker BlazingText as the latest built-in algorithm for Amazon SageMaker. BlazingText is an unsupervised learning algorithm for generating Word2Vec embeddings. These are dense vector representations of words in large corpora. We\u2019re excited to make BlazingText, the fastest implementation of Word2Vec, available to Amazon SageMaker users on: Single CPU instances (like the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/18/sagemaker-word2vec-3.gif"
+        },
+        {
+            "id": 1465,
+            "title": "Build a social media dashboard using machine learning and BI services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-social-media-dashboard-using-machine-learning-and-bi-services/",
+            "authors": "Ben Snively, Viral Desai",
+            "tags": "Amazon Athena, Amazon Comprehend, Amazon QuickSight, Amazon Translate, AWS Quest",
+            "publishedOn": "2018-01-17T00:00:00",
+            "description": "Capture multi-language tweets in near real-time, translate them, and store both the raw and enriched datasets durably in a data lake.",
+            "thumbnail": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+            "id": 1466,
+            "title": "AWS KMS-based Encryption Is Now Available for Training and Hosting in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-kms-based-encryption-is-now-available-for-training-and-hosting-in-amazon-sagemaker/",
+            "authors": "Kumar Venkateswar",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-01-17T00:00:00",
+            "description": "Amazon SageMaker uses throwaway keys, also called transient keys, to encrypt the ML General Purpose storage volumes attached to training and hosting EC2 instances. Because these keys are used only to encrypt the ML storage volumes and are then immediately discarded, the volumes can safely be used to store confidential data. Volumes can be accessed [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1467,
+            "title": "Build an Amazon Lex Chatbot with Microsoft Excel",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-amazon-lex-chatbot-with-microsoft-excel/",
+            "authors": "Cyrus Wong",
+            "tags": "Amazon Lex",
+            "publishedOn": "2018-01-15T00:00:00",
+            "description": "This is a guest post by AWS Community Hero Cyrus Wong. Our institution (IVE) here in Hong Kong has begun experimenting with Amazon Lex in teaching, research, and healthcare. We have many non-technical employees, such as English teachers in IVE and therapists from IVE Childcare, Elderly and Community Services Discipline, who don\u2019t have the technical [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/11/ExcelLexBot-8.gif"
+        },
+        {
+            "id": 1468,
+            "title": "Making neural nets uncool again \u2013 AWS style",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-neural-nets-uncool-again-aws-style/",
+            "authors": "Jeremy Howard, Joseph Spisak",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-01-12T00:00:00",
+            "description": "Just as the goal of Amazon AI is to democratize machine learning with the development of platforms such as Amazon SageMaker,  the goal of fast.ai is to level the educational playing field so that anyone can pick up machine learning and be productive. The fast.ai tagline is \u201cMaking neural nets uncool again.\u201d This is not a play to decrease the popularity of deep neural networks, but instead to broaden their appeal and accessibility beyond the academic elites who have dominated the research in this area.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/10/fast-ai.jpg"
+        },
+        {
+            "id": 1469,
+            "title": "AWS CloudTrail integration is now available in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-cloudtrail-integration-is-now-available-in-amazon-sagemaker/",
+            "authors": "Kumar Venkateswar",
+            "tags": "Amazon SageMaker, AWS CloudTrail",
+            "publishedOn": "2018-01-11T00:00:00",
+            "description": "AWS customers have been requesting a way to log activity in Amazon SageMaker, to help you meet your governance and compliance needs. I\u2019m happy to announce that Amazon SageMaker is now integrated with AWS CloudTrail, a service that enables you to log, continuously monitor, and retain account information related to Amazon SageMaker API activity. Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1470,
+            "title": "Now available in Amazon SageMaker: DeepAR algorithm for more accurate time series forecasting",
+            "url": "https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/",
+            "authors": "Tim Januschowski, David Arpin, David Salinas, Valentin Flunkert, Jan Gasthaus, Lorenzo Stella, Paul Vazquez",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-01-08T00:00:00",
+            "description": "Today we are launching\u00a0Amazon SageMaker DeepAR as the latest\u00a0built-in algorithm for Amazon SageMaker. DeepAR is a supervised learning algorithm for time series forecasting that\u00a0uses recurrent neural networks (RNN) to produce both point and probabilistic forecasts. We\u2019re excited to give developers access to this scalable, highly accurate\u00a0forecasting algorithm that drives mission-critical decisions within Amazon. Just as [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/08/sagemaker-deepar-1-2.gif"
+        },
+        {
+            "id": 1471,
+            "title": "Build Amazon SageMaker notebooks backed by Spark in Amazon EMR",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-amazon-sagemaker-notebooks-backed-by-spark-in-amazon-emr/",
+            "authors": "Thomas Hughes, Daniel Herkert, Kartik Kannapur, Stefano Stefani",
+            "tags": "Amazon EMR, Amazon SageMaker",
+            "publishedOn": "2018-01-05T00:00:00",
+            "description": "This blog post was last reviewed August, 2022. Introduced at AWS re:Invent in 2017, Amazon SageMaker provides a fully managed service for data science and machine learning workflows. One of the important parts of Amazon SageMaker is the powerful Jupyter notebook interface, which can be used to build models. You can enhance the Amazon SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/01/04/sagemaker-emr-1.gif"
+        },
+        {
+            "id": 1472,
+            "title": "How to Deploy Deep Learning Models with AWS Lambda and Tensorflow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/",
+            "authors": "Boris Ivanovic, Zoran Ivanovic",
+            "tags": "Artificial Intelligence, AWS Lambda",
+            "publishedOn": "2017-12-29T00:00:00",
+            "description": "Deep learning has revolutionized how we process and handle real-world data. There are many types of deep learning applications, including applications to organize a user\u2019s photo archive, make book recommendations, detect fraudulent behavior, and perceive the world around an autonomous vehicle. In this post, we\u2019ll show you step-by-step how to use your own custom-trained models [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/29/awslambda-tensorflow-2-1.gif"
+        },
+        {
+            "id": 1473,
+            "title": "Now Available: New Digital Training to Help You Learn About Machine Learning and Artificial Intelligence on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/now-available-new-digital-training-to-help-you-learn-about-machine-learning-and-artificial-intelligence-on-aws/",
+            "authors": "Sara Houston",
+            "tags": null,
+            "publishedOn": "2017-12-21T00:00:00",
+            "description": "AWS Training and Certification recently released free digital training courses that will make it easier for you to build your cloud skills and learn about machine learning (ML) and artificial intelligence (AI). This includes new courses like\u00a0Introduction to Deep Learning\u00a0and\u00a0Introduction to Amazon SageMaker. You can get free and unlimited access to more than 100 new [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/21/campaign_ai-training.png"
+        },
+        {
+            "id": 1474,
+            "title": "AWS Deep Learning AMIs Now Available in 4 New Regions: Beijing, Frankfurt, Singapore, and Mumbai",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-available-in-4-new-regions-beijing-frankfurt-singapore-and-mumbai/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2017-12-20T00:00:00",
+            "description": "The AWS Deep Learning AMIs are now available in four new AWS Regions: China (Beijing) operated by Sinnet, Europe (Frankfurt), Asia Pacific (Singapore), and Asia Pacific (Mumbai). The Amazon Machine Images (AMIs) provide provide machine learning practitioners with the infrastructure and tools to accelerate deep to quickly start experimenting with deep learning models. The AMIs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1475,
+            "title": "Leveraging Low Precision and Quantization for Deep Learning Using the Amazon EC2 C5 Instance and BigDL",
+            "url": "https://aws.amazon.com/blogs/machine-learning/leveraging-low-precision-and-quantization-for-deep-learning-using-the-amazon-ec2-c5-instance-and-bigdl/",
+            "authors": "Jason Dai, Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-12-15T00:00:00",
+            "description": "Recently AWS released the new compute-intensive Amazon EC2 C5 instances, based on the latest generation Intel Xeon Scalable Platinum processors. These instances are designed for compute-heavy applications, and offer a large performance improvement over the C4 instances. They also have additional memory per vCPU, and twice the performance for vector and floating-point workloads. In this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/15/intel-c5-1-f.gif"
+        },
+        {
+            "id": 1476,
+            "title": "Congratulations to the Winners of the re:Invent Robocar Rally 2017!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/congratulations-to-the-winners-of-the-reinvent-robocar-rally-2017/",
+            "authors": "Justin De Castri, Sunil Mallya",
+            "tags": "AWS Quest, AWS re:Invent",
+            "publishedOn": "2017-12-13T00:00:00",
+            "description": "To drive awareness of deep learning, machine learning, and the internet of things in autonomous driving, AWS hosted a hackathon\u2014the Robocar Rally\u2014at re:Invent in November 2017. We kicked off Robocar Rally in September with a series of blog posts and Twitch streams.  At re:Invent, we had 100 attendees come for a hands-on two-day hackathon using deep learning and the open source Donkey Car platform with AWS machine learning services and AWS IoT. They formed teams, and built, customized, trained, and raced their own 1/16th scale cars. There's a lot we could talk about, but we think this video shows the event better than we could write about it.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/12/robocar-gif-opt.gif"
+        },
+        {
+            "id": 1477,
+            "title": "Updated AWS Deep Learning AMIs: New Versions of TensorFlow, Apache MXNet, Keras, and PyTorch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/updated-aws-deep-learning-amis-new-versions-of-tensorflow-apache-mxnet-keras-and-pytorch/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Apache MXNet on AWS, AWS Deep Learning AMIs",
+            "publishedOn": "2017-12-11T00:00:00",
+            "description": "We\u2019re excited to update the AWS Deep Learning AMIs with significantly faster training on NVIDIA Tesla V100 \u201cVolta\u201d GPUs across many frameworks, including TensorFlow, PyTorch, Keras, and the latest Apache MXNet 1.0 release. There are two main flavors of the AMIs available today. The Conda-based AWS Deep Learning AMI packages the latest point releases of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1478,
+            "title": "Introducing Model Server for Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-model-server-for-apache-mxnet/",
+            "authors": "Hagay Lupesko, Yao Wang, Ruofei Yu",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-12-08T00:00:00",
+            "description": "Earlier this week, AWS announced the availability of Model Server for Apache MXNet, an open source component built on top of Apache MXNet for serving deep learning models. Apache MXNet is a fast and scalable training and inference framework with an easy-to-use, concise API for machine learning. With Model Server for Apache MXNet, engineers are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1479,
+            "title": "Serverless Unsupervised Machine Learning with AWS Glue and Amazon Athena",
+            "url": "https://aws.amazon.com/blogs/machine-learning/serverless-unsupervised-machine-learning-with-aws-glue-and-amazon-athena/",
+            "authors": "Luis Caro",
+            "tags": "Amazon Athena, AWS Glue",
+            "publishedOn": "2017-12-07T00:00:00",
+            "description": "Have you ever had the need to segment a data set based on some of its attributes? K-means is one of the most common machine learning algorithms used to segment data. The algorithm works by separating data into different groups, called clusters. Each sample is assigned a cluster so that the samples assigned to the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/04/serverless-unsupervised-ml-11.gif"
+        },
+        {
+            "id": 1480,
+            "title": "Announcing the Availability of ONNX 1.0",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-availability-of-onnx-1-0/",
+            "authors": "Sukwon Kim",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-12-06T00:00:00",
+            "description": "Today, Amazon Web Services (AWS), Facebook and Microsoft are pleased to announce that the Open Neural Network Exchange (ONNX) format is production ready. ONNX is an open standard format for deep learning models that enables interoperability between deep learning frameworks such as Apache MXNet, Caffe2, Microsoft Cognitive Toolkit, and PyTorch. ONNX 1.0 enables users to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1481,
+            "title": "Assisting People at Haptik Using Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/assisting-people-at-haptik-using-amazon-polly/",
+            "authors": "Swapan Rajdev, Ranvijay Jamwal",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-12-06T00:00:00",
+            "description": "Haptik is India\u2019s first personal-assistant app. Users can use the app to plan travel, check in for flights, book taxis, and set reminders. And of all the different features, the most important and frequently used is the Reminders feature. People use Haptik to set wake-up calls, set up reminders to drink water, call people at different times, send greetings to others for different occasions, and much more. Through the reminders feature, users will receive notifications on the app along with a phone call at a requested time, relating the reminder message. In this post, we will cover how we use machine learning and text-to-speech (TTS) to set reminders for users \u2013 to call them at the given time to remind them of their tasks. We will cover how Amazon Polly helped us make personalized calls to our users and helped us scale our reminders feature to millions of users.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/05/haptik-1-2-3.gif"
+        },
+        {
+            "id": 1482,
+            "title": "AWS Contributes to Milestone 1.0 Release of Apache MXNet Including the Addition of a New Model Serving Capability",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-contributes-to-milestone-1-0-release-of-apache-mxnet-including-the-addition-of-a-new-model-serving-capability/",
+            "authors": "Sukwon Kim",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-12-04T00:00:00",
+            "description": "Today AWS announced contributions to the milestone 1.0 release of the Apache MXNet deep learning engine and the introduction of a new model serving capability for MXNet. These new capabilities (1) simplify training and deploying deep learning models, (2) enable implementation of cutting-edge performance enhancements, and (3) provide easy interoperability between deep learning frameworks. In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/04/model-serving-1.gif"
+        },
+        {
+            "id": 1483,
+            "title": "Whooshkaa and Amazon Polly: Combining Eyes and Ears to Widen Publishing Horizons",
+            "url": "https://aws.amazon.com/blogs/machine-learning/whooshkaa-and-amazon-polly-combining-eyes-and-ears-to-widen-publishing-horizons/",
+            "authors": "Rob Loewenthal",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-12-01T00:00:00",
+            "description": "Based in Australia, Whooshkaa is a creative audio-on-demand podcast platform that helps publishers and advertisers reach their audiences. We\u2019re always trying new products and techniques, and combining them to pioneer new solutions for our customers. The Amazon Polly Text-To-Speech (TTS) feature is a great example of this. Already, we have top-tier publishers, sporting bodies, and Australia\u2019s biggest telecommunications company using Amazon Polly to augment their established delivery methods.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/01/whooshkaa-2.gif"
+        }
+    ]
+}

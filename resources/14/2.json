@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8542,
+            "title": "Binary Classification Tutorial with the Keras Deep Learning Library",
+            "url": "https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-06T00:00:00",
+            "description": "Keras is a Python library for deep learning that wraps the efficient numerical libraries TensorFlow and Theano. Keras allows you to quickly and simply design and train neural networks and deep learning models. In this post, you will discover how to effectively use the Keras library in your machine learning project by working through a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Binary-Classification-Worked-Example-with-the-Keras-Deep-Learning-Library.jpg"
+        },
+        {
+            "id": 8543,
+            "title": "Dropout Regularization in Deep Learning Models with Keras",
+            "url": "https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-06T00:00:00",
+            "description": "Dropout is a simple and powerful regularization technique for neural networks and deep learning models. In this post, you will discover the Dropout regularization technique and how to apply it to your models in Python with Keras. After reading this post, you will know: How the Dropout regularization technique works How to use Dropout on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Dropout-Regularization-in-Deep-Learning-Models-With-Keras.jpg"
+        },
+        {
+            "id": 8544,
+            "title": "Using Activation Functions in Neural Networks",
+            "url": "https://machinelearningmastery.com/using-activation-functions-in-neural-networks/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-04T00:00:00",
+            "description": "Activation functions play an integral role in neural networks by introducing nonlinearity. This nonlinearity allows neural networks to develop complex representations and functions based on the inputs that would not be possible with a simple linear regression model. Many different nonlinear activation functions have been proposed throughout the history of neural networks. In this post, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/07/victor-freitas-EAJoIzfAibI-unsplash.jpg"
+        },
+        {
+            "id": 8545,
+            "title": "How to Checkpoint Deep Learning Models in Keras",
+            "url": "https://machinelearningmastery.com/check-point-deep-learning-models-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-03T00:00:00",
+            "description": "Deep learning models can take hours, days, or even weeks to train. If the run is stopped unexpectedly, you can lose a lot of work. In this post, you will discover how to checkpoint your deep learning models during training in Python using the Keras library. Let\u2019s get started. Jun/2016: First published Update Mar/2017: Updated [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/How-to-Check-Point-Deep-Learning-Models-in-Keras.jpg"
+        },
+        {
+            "id": 8546,
+            "title": "How to Grid Search Hyperparameters for Deep Learning Models in Python with Keras",
+            "url": "https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-07-02T00:00:00",
+            "description": "Hyperparameter optimization is a big part of deep learning. The reason is that neural networks are notoriously difficult to configure, and a lot of parameters need to be set. On top of that, individual models can be very slow to train. In this post, you will discover how to use the grid search capability from [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/08/How-to-Grid-Search-Hyperparameters-for-Deep-Learning-Models-in-Python-With-Keras.jpg"
+        },
+        {
+            "id": 8547,
+            "title": "Three Ways to Build Machine Learning Models in Keras",
+            "url": "https://machinelearningmastery.com/three-ways-to-build-machine-learning-models-in-keras/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "If you\u2019ve looked at Keras models on Github, you\u2019ve probably noticed that there are some different ways to create models in Keras. There\u2019s the Sequential model, which allows you to define an entire model in a single line, usually with some line breaks for readability. Then, there\u2019s the functional interface that allows for more complicated [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/06/mike-szczepanski-MnSYYYqunXA-unsplash.jpg"
+        },
+        {
+            "id": 8548,
+            "title": "Evaluate the Performance of Deep Learning Models in Keras",
+            "url": "https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-29T00:00:00",
+            "description": "Keras is an easy-to-use and powerful Python library for deep learning. There are a lot of decisions to make when designing and configuring your deep learning models. Most of these decisions must be resolved empirically through trial and error and by evaluating them on real data. As such, it is critically important to have a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Evaluate-the-Performance-Of-Deep-Learning-Models-in-Keras.jpg"
+        },
+        {
+            "id": 8549,
+            "title": "Using Autograd in TensorFlow to Solve a Regression Problem",
+            "url": "https://machinelearningmastery.com/using-autograd-in-tensorflow-to-solve-a-regression-problem/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-28T00:00:00",
+            "description": "We usually use TensorFlow to build a neural network. However, TensorFlow is not limited to this. Behind the scenes, TensorFlow is a tensor library with automatic differentiation capability. Hence you can easily use it to solve a numerical optimization problem with gradient descent. In this post, you will learn how TensorFlow\u2019s automatic differentiation engine, autograd, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/06/lukas-tennie-3dyDozzCORw-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8550,
+            "title": "Overview of Some Deep Learning Libraries",
+            "url": "https://machinelearningmastery.com/overview-of-some-deep-learning-libraries/",
+            "authors": "Adrian Tam",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-26T00:00:00",
+            "description": "Machine learning is a broad topic. Deep learning, in particular, is a way of using neural networks for machine learning. A neural network is probably a concept older than machine learning, dating back to the 1950s. Unsurprisingly, there were many libraries created for it. The following aims to give an overview of some of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/06/pexels-francesco-ungaro-3634369-scaled.jpg"
+        },
+        {
+            "id": 8551,
+            "title": "How to Build Multi-Layer Perceptron Neural Network Models with Keras",
+            "url": "https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-22T00:00:00",
+            "description": "The Keras Python library for deep learning focuses on creating models as a sequence of layers. In this post, you will discover the simple components you can use to create neural networks and simple deep learning models using Keras from TensorFlow. Let\u2019s get started. May 2016: First version Update Mar/2017: Updated example for Keras 2.0.2, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/How-To-Build-Multi-Layer-Perceptron-Neural-Network-Models-with-Keras.jpg"
+        },
+        {
+            "id": 8552,
+            "title": "How to Save and Load Your Keras Deep Learning Model",
+            "url": "https://machinelearningmastery.com/save-load-keras-deep-learning-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-19T00:00:00",
+            "description": "Keras is a simple and powerful Python library for deep learning. Since deep learning models can take hours, days, and even weeks to train, it is important to know how to save and load them from a disk. In this post, you will discover how to save your Keras models to files and load them [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Save-and-Load-Your-Keras-Deep-Learning-Models.jpg"
+        },
+        {
+            "id": 8553,
+            "title": "Your First Deep Learning Project in Python with Keras Step-by-Step",
+            "url": "https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-18T00:00:00",
+            "description": "Keras Tutorial: Keras is a powerful easy-to-use Python library for developing and evaluating deep learning models. Develop Your First Neural Network in Python With this step by step Keras Tutorial!",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/04/Tour-of-Deep-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 8554,
+            "title": "Using Normalization Layers to Improve Deep Learning Models",
+            "url": "https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-learning-models/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Deep Learning, Deep Learning Performance",
+            "publishedOn": "2022-06-15T00:00:00",
+            "description": "You\u2019ve probably been told to standardize or normalize inputs to your model to improve performance. But what is normalization and how can we implement it easily in our deep learning models to improve performance? Normalizing our inputs aims to create a set of features that are on the same scale as each other, which we\u2019ll [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/06/pexels-matej-712501-scaled.jpg"
+        },
+        {
+            "id": 8555,
+            "title": "Introduction to the Python Deep Learning Library TensorFlow",
+            "url": "https://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2022-06-10T00:00:00",
+            "description": "TensorFlow is a Python library for fast numerical computing created and released by Google. It is a foundation library that can be used to create Deep Learning models directly or by using wrapper libraries that simplify the process built on top of TensorFlow. In this post, you will discover the TensorFlow library for Deep Learning. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Introduction-to-the-Python-Deep-Learning-Library-TensorFlow.jpg"
+        },
+        {
+            "id": 8556,
+            "title": "Python for Machine Learning (7-day mini-course)",
+            "url": "https://machinelearningmastery.com/python-for-machine-learning-7-day-mini-course/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-06-02T00:00:00",
+            "description": "Python for Machine Learning Crash Course. Learn core Python in 7 days. Python is an amazing programming language. Not only it is widely used in machine learning projects, you can also find its presence in system tools, web projects, and many others. Having good Python skills can make you work more efficiently because it is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/06/david-clode-vec5yfUvCGs-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8557,
+            "title": "Developing a Python Program Using Inspection Tools",
+            "url": "https://machinelearningmastery.com/developing-a-python-program-using-inspection-tools/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-29T00:00:00",
+            "description": "Python is an interpreting language. It means there is an interpreter to run our program, rather than compiling the code and running natively. In Python, a REPL (read-eval-print loop) can run commands line by line. Together with some inspection tools provided by Python, it helps to develop codes. In the following, you will see how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/05/tekton-kzlxOJwD6i8-unsplash.jpg"
+        },
+        {
+            "id": 8558,
+            "title": "Monkey Patching Python Code",
+            "url": "https://machinelearningmastery.com/monkey-patching-python-code/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-22T00:00:00",
+            "description": "Python is a dynamic scripting language. Not only does it have a dynamic type system where a variable can be assigned to one type first and changed later, but its object model is also dynamic. This allows us to modify its behavior at run time. A consequence of this is the possibility of monkey patching. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/05/juan-rumimpunu-nLXOatvTaLo-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8559,
+            "title": "Logging in Python",
+            "url": "https://machinelearningmastery.com/logging-in-python/",
+            "authors": "Daniel Chung",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-19T00:00:00",
+            "description": "Logging is a way to store information about your script and track events that occur. When writing any complex script in Python, logging is essential for debugging software as you develop it. Without logging, finding the source of a problem in your code may be extremely time consuming. After completing this tutorial, you will know: [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/pexels-ilaria-122588-scaled.jpg"
+        },
+        {
+            "id": 8560,
+            "title": "Profiling Python Code",
+            "url": "https://machinelearningmastery.com/profiling-python-code/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-14T00:00:00",
+            "description": "Profiling is a technique to figure out how time is spent in a program. With these statistics, we can find the \u201chot spot\u201d of a program and think about ways of improvement. Sometimes, a hot spot in an unexpected location may hint at a bug in the program as well. In this tutorial, we will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/01/prashant-saini-BeoRcYyVgxE-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8561,
+            "title": "Static Analyzers in Python",
+            "url": "https://machinelearningmastery.com/static-analyzers-in-python/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-09T00:00:00",
+            "description": "Static analyzers are tools that help you check your code without really running your code. The most basic form of static analyzers is the syntax highlighters in your favorite editors. If you need to compile your code (say, in C++), your compiler, such as LLVM, may also provide some static analyzer functions to warn you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/pexels-skylar-kang-6044187-scaled.jpg"
+        },
+        {
+            "id": 8562,
+            "title": "Setting Breakpoints and Exception Hooks in Python",
+            "url": "https://machinelearningmastery.com/setting-breakpoints-and-exception-hooks-in-python/",
+            "authors": "Stefania Cristina",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-06T00:00:00",
+            "description": "There are different ways of debugging code in Python, one of which is to introduce breakpoints into the code at points where one would like to invoke a Python debugger. The statements used to enter a debugging session at different call sites depend on the version of the Python interpreter that one is working with, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/01/cover_breakpoints-scaled.jpg"
+        },
+        {
+            "id": 8563,
+            "title": "Using Kaggle in Machine Learning Projects",
+            "url": "https://machinelearningmastery.com/using-kaggle-in-machine-learning-projects/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-05-03T00:00:00",
+            "description": "You\u2019ve probably heard of Kaggle data science competitions, but did you know that Kaggle has many other features that can help you with your next machine learning project? For people looking for datasets for their next machine learning project, Kaggle allows you to access public datasets by others and share your own datasets. For those [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/stefan-widua-kOuaZs7jDZE-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8564,
+            "title": "Techniques to Write Better Python Code",
+            "url": "https://machinelearningmastery.com/techniques-to-write-better-python-code/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-04-30T00:00:00",
+            "description": "We write a program to solve a problem or make a tool that we can repeatedly solve a similar problem. For the latter, it is inevitable that we come back to revisit the program we wrote, or someone else is reusing the program we write. There is also a chance that we will encounter data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/pexels-anna-shvets-5711877-scaled.jpg"
+        },
+        {
+            "id": 8565,
+            "title": "Take Your Machine Learning Skills Global",
+            "url": "https://machinelearningmastery.com/take-your-machine-learning-skills-global/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-04-28T00:00:00",
+            "description": "Sponsored Post In our interconnected world, a decision made thousands of miles away can have lasting consequences for entire organizations or economies. When small changes have big effects, it is unsurprising that companies and governments are turning to machine learning and AI to accurately predict risk. \u200b How the Global Community is Applying Machine Learning [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/04/mlm-allcampus-0428-header.jpg"
+        },
+        {
+            "id": 8566,
+            "title": "Google Colab for Machine Learning Projects",
+            "url": "https://machinelearningmastery.com/google-colab-for-machine-learning-projects/",
+            "authors": "Zhe Ming Chng",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-04-28T00:00:00",
+            "description": "Have you ever wanted an easy-to-configure interactive environment to run your machine learning code that came with access to GPUs for free? Google Colab is the answer you\u2019ve been looking for. It is a convenient and easy-to-use way to run Jupyter notebooks on the cloud, and their free version comes with some limited access to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/PIA25015-scaled.jpeg"
+        },
+        {
+            "id": 8567,
+            "title": "Multiprocessing in Python",
+            "url": "https://machinelearningmastery.com/multiprocessing-in-python/",
+            "authors": "Daniel Chung",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-04-26T00:00:00",
+            "description": "When you work on a computer vision project, you probably need to preprocess a lot of image data. This is time-consuming, and it would be great if you could process multiple images in parallel. Multiprocessing is the ability of a system to run multiple processors at one time. If you had a computer with a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/pexels-thirdman-6193847-scaled.jpg"
+        },
+        {
+            "id": 8568,
+            "title": "Interactive Course on Optimizing Search Engines With Ricardo Baeza-Yates Starting May 10",
+            "url": "https://machinelearningmastery.com/interactive-course-on-optimizing-search-engines-with-ricardo-baeza-yates-starting-may-10/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-04-25T00:00:00",
+            "description": "Sponsored Post Search systems are in the process of being revolutionized by Deep Learning and AI applications. To successfully evaluate, build, deploy and scale information retrieval systems, engineers working with search systems must understand the frameworks and algorithms that underpin this technology. Professors Ricardo Baeza-Yates (Northeastern University) has done research on information retrieval and web [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/04/ricardo.png"
+        },
+        {
+            "id": 8569,
+            "title": "Web Frameworks for Your Python Projects",
+            "url": "https://machinelearningmastery.com/web-frameworks-for-your-python-projects/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-04-23T00:00:00",
+            "description": "When we finish a Python project and roll it out for other people to use, the easiest way is to present our project as a command-line program. If you want to make it friendlier, you may want to develop a GUI for your program so people can interact with it with mouse clicks while it [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/pexels-quang-nguyen-vinh-2150371-scaled.jpg"
+        },
+        {
+            "id": 8570,
+            "title": "A First Course on Deploying Python Projects",
+            "url": "https://machinelearningmastery.com/a-first-course-on-deploying-python-projects/",
+            "authors": "Adrian Tam",
+            "tags": "Python for Machine Learning",
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "After all the hard work developing a project in Python, we want to share our project with other people. It can be your friends or your colleagues. Maybe they are not interested in your code, but they want to run it and make some real use of it. For example, you create a regression model [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/pexels-kelly-l-6595774.jpg"
+        },
+        {
+            "id": 8571,
+            "title": "10 seats remaining | A series of live ML strategy workshops",
+            "url": "https://machinelearningmastery.com/10-seats-remaining-a-series-of-live-ml-strategy-workshops/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "Sponsored Post Unlike traditional online courses, Foster Provost\u2019s workshops will give you the chance to engage live with a world-class expert and an intimate community of industry professionals. So far we have participants from LinkedIn, Spotify, Ralph Lauren, and many other exciting companies joining. There are only 10 seats left, we would love to see [\u2026]",
+            "thumbnail": "http://machinelearningmastery.com/wp-content/uploads/2022/04/image1.png"
+        }
+    ]
+}

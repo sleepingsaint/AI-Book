@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6442,
+            "title": "Continuous Soft Pseudo-Labeling in ASR",
+            "url": "https://machinelearning.apple.com/research/soft-pseudo-labeling",
+            "authors": "Tatiana Likhomanenko, Ronan Collobert, Navdeep Jaitly, Samy Bengio",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop \"I Can\u2019t Believe It\u2019s Not Better: Understanding Deep Learning Through Empirical Falsification\"\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6443,
+            "title": "Elastic Weight Consolidation Improves the Robustness of Self-Supervised Learning Methods under Transfer",
+            "url": "https://machinelearning.apple.com/research/elastic-weight-consolidation",
+            "authors": "Andrius Ovsianas, Jason Ramapuram, Dan Busbridge, Eeshan Gunesh Dhekane, Russ Webb",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop \"Self-Supervised Learning - Theory and Practice\" at NeurIPS 2022. \nSelf-supervised representation\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6444,
+            "title": "Mean Estimation with User-level Privacy under Data Heterogeneity",
+            "url": "https://machinelearning.apple.com/research/mean-estimation",
+            "authors": "Rachel Cummings*, Vitaly Feldman*, Audra McMillan*, Kunal Talwar*",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "A key challenge in many modern data analysis tasks is that user data is heterogeneous. Different users may possess vastly different numbers\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6445,
+            "title": "Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation",
+            "url": "https://machinelearning.apple.com/research/analyzing-mitigating-repetitions",
+            "authors": "Jin Xu, Xiaojiang Liu, Jianhao Yan, Deng Cai, Huayang Li, Jian Li",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "While large-scale neural language models, such as GPT2 and BART, have achieved impressive results on various text generation tasks, they\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6446,
+            "title": "Learning to Reason with Neural Networks: Generalization, Unseen Data and Boolean Measures",
+            "url": "https://machinelearning.apple.com/research/generalization-unseen-data-boolean",
+            "authors": "Emmanuel Abbe, Samy Bengio, Elisabetta Cornacchia, Jon Kleinberg, Aryo Lotfi, Maithra Raghu, Chiyuan Zhang",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper considers the Pointer Value Retrieval (PVR) benchmark introduced in [ZRKB21], where a `reasoning' function acts on a string of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6447,
+            "title": "Subspace Recovery from Heterogeneous Data with Non-isotropic Noise",
+            "url": "https://machinelearning.apple.com/research/subspace-recovery",
+            "authors": "John Duchi*, Vitaly Feldman*, Lunjia Hu*, Kunal Talwar*",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "*= Equal Contributions \nRecovering linear subspaces from data is a fundamental and important task in statistics and machine learning\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6448,
+            "title": "A Large-Scale Observational Study of the Causal Effects of a Behavioral Health Nudge",
+            "url": "https://machinelearning.apple.com/research/large-scale-observational",
+            "authors": "Achille Nazaret, Guillermo Sapiro",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop \"Causality for Real-world Impact\" at NeurIPS 2022. \nThe Apple Watch encourages users to stand\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6449,
+            "title": "Improving Generalization with Physical Equations",
+            "url": "https://machinelearning.apple.com/research/improving-generalization",
+            "authors": "Antoine Wehenkel, Jens Behrmann, Hsiang Hsu, Guillermo Sapiro, Gilles Louppe, Joern-Henrik Jacobsen",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the workshop \"Machine Learning 4 Physical Sciences\" at NeurIPS 2022. \nHybrid modelling reduces the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6450,
+            "title": "MAEEG: Masked Auto-encoder for EEG Representation Learning",
+            "url": "https://machinelearning.apple.com/research/masked-auto-encoder",
+            "authors": "Hsiang-Yun Sherry Chien, Hanlin Goh, Christopher M. Sandino, Joseph Y. Cheng",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Workshop on Learning from Time Series for Health at NeurIPS 2022. \nDecoding information from bio-signals such\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6451,
+            "title": "MBW: Multi-view Bootstrapping in the Wild",
+            "url": "https://machinelearning.apple.com/research/multi-view-bootstrapping",
+            "authors": "Mosam Dabhi, Chaoyang Wang, Tim Clifford, Laszlo Jeni, Ian Fasel, Simon Lucey",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Labeling articulated objects in unconstrained settings has a wide variety of applications including entertainment, neuroscience, psychology\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6452,
+            "title": "Statistical Deconvolution for Inference of Infection Time Series",
+            "url": "https://machinelearning.apple.com/research/statistical-deconvolution",
+            "authors": "Andrew C. Miller; Lauren A. Hannah; Joseph Futoma; Nicholas J. Foti; Emily B. Fox; Alexander D\u2019Amour; Mark Sandler; Rif A. Saurous; Joseph A. Lewnard",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Accurate measurement of daily infection incidence is crucial to epidemic response. However, delays in symptom onset, testing, and reporting\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6453,
+            "title": "Emphasis Control for Parallel Neural TTS",
+            "url": "https://machinelearning.apple.com/research/parallel-neural-tts",
+            "authors": "Shreyas Seshadri, Tuomo Raitio, Dan Castellani, Jiangchuan Li",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Recent parallel neural text-to-speech (TTS) synthesis methods are able to generate speech with high fidelity while maintaining high\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6454,
+            "title": "The Slingshot Mechanism: An Empirical Study of Adaptive Optimizers and the Grokking Phenomenon",
+            "url": "https://machinelearning.apple.com/research/slingshot-mechanism",
+            "authors": "Vimal Thilak, Etai Littwin, Shuangfei Zhai, Omid Saremi, Roni Paiss and Josh Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "This paper was accepted to the \u201cHas it Trained Yet?\u201d (HITY) workshop at NeurIPS 2022. \nThe grokking phenomenon as reported by Power et al\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6455,
+            "title": "A Treatise On FST Lattice Based MMI Training",
+            "url": "https://machinelearning.apple.com/research/treatise-on-fst-lattice",
+            "authors": "Adnan Haider, Tim Ng, Zhen Huang, Xingyu Na, Antti Veikko Rosti",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Maximum mutual information (MMI) has become one of the two de facto methods for sequence-level training of speech recognition acoustic\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6456,
+            "title": "Non-Autoregressive Neural Machine Translation: A Call for Clarity",
+            "url": "https://machinelearning.apple.com/research/non-autoagressive-neural-machine",
+            "authors": "Robin M. Schmidt, Telmo Pires, Stephan Peitz, Jonas L\u00f6\u00f6f",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Non-autoregressive approaches aim to improve the inference speed of translation models by only requiring a single forward pass to generate\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6457,
+            "title": "Prompting for a Conversation: How to Control a Dialog Model?",
+            "url": "https://machinelearning.apple.com/research/prompting-conversation",
+            "authors": "Josef Valvoda, Yimai Fang, David Vandyke",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Dialog modelling faces a difficult trade-off. Models are trained on a large amount of text, yet their responses need to be limited to a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6458,
+            "title": "Fusion-Id: A Photoplethysmography and Motion Sensor Fusion Biometric Authenticator With Few-Shot on-Boarding",
+            "url": "https://machinelearning.apple.com/research/photoplethysmography-motion-sensor-fusion",
+            "authors": "Harshat Kumar, Hojjat Seyed Mousavi, Behrooz Shahsavari",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "The abundance of wrist-worn heart rate measuring devices enables long term cardiovascular monitoring through photoplethysmography (PPG)\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6459,
+            "title": "Latent Temporal Flows for Multivariate Analysis of Wearables Data",
+            "url": "https://machinelearning.apple.com/research/latent-temporal-flows",
+            "authors": "Magda Amiridi, Gregory Darnell, Sean Jewell",
+            "tags": "Paper, Health",
+            "publishedOn": null,
+            "description": "Increased use of sensor signals from wearable devices as rich sources of physiological data has sparked growing interest in developing\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6460,
+            "title": "The Calibration Generalization Gap",
+            "url": "https://machinelearning.apple.com/research/calibration-generalization-gap",
+            "authors": "A. Michael Carrell, Neil Mallinar, James Lucas, Preetum Nakkiran",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "This paper was accepted at the Workshop on Distribution-Free Uncertainty Quantification at ICML 2022. \nCalibration is a fundamental property\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6461,
+            "title": "SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks",
+            "url": "https://machinelearning.apple.com/research/isotropic-networks",
+            "authors": "Chien-Yu Lin*, Anish Prabhu*, Thomas Merth, Sachin Mehta, Anurag Ranjan, Maxwell Horton, Mohammad Rastegari",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Recent isotropic networks, such as ConvMixer and vision transformers, have found significant success across visual recognition tasks\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6462,
+            "title": "Learning Bias-reduced Word Embeddings Using Dictionary Definitions",
+            "url": "https://machinelearning.apple.com/research/learning-bias-reduced",
+            "authors": "Haozhe An, Xiaojiang Liu, Jian Zhang",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Pre-trained word embeddings, such as GloVe, have shown undesirable gender, racial, and religious biases. To address this problem, we propose\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6463,
+            "title": "Low-Rank Optimal Transport: Approximation, Statistics and Debiasing",
+            "url": "https://machinelearning.apple.com/research/low-rank-optimal-transport",
+            "authors": "Meyer Scetbon, Marco Cuturi",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "The matching principles behind optimal transport (OT) play an increasingly important role in machine learning, a trend which can be observed\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6464,
+            "title": "Safe Real-World Reinforcement Learning for Mobile Agent Obstacle Avoidance",
+            "url": "https://machinelearning.apple.com/research/safe-real-world",
+            "authors": "Mario Srouji, Wei Ding, Yao-Hung Hubert Tsai, Ali Farhadi, and Jian Zhang",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Collision avoidance is key for mobile robots and agents to operate safely in the real world. In this work, we present an efficient and\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6465,
+            "title": "Speech Emotion: Investigating Model Representations, Multi-Task Learning and Knowledge Distillation",
+            "url": "https://machinelearning.apple.com/research/investigating-model-representations",
+            "authors": "Vikramjit Mitra, Hsiang-Yun Sherry Chien, Vasudha Kowtha, Joseph Yitan Cheng, Erdrin Azemi",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Estimating dimensional emotions, such as activation, valence and dominance, from acoustic speech signals has been widely explored over the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6466,
+            "title": "Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents",
+            "url": "https://machinelearning.apple.com/research/towards-multimodal-multitask",
+            "authors": "Yao-Hung Hubert Tsai, Hanlin Goh, Ali Farhadi, and Jian Zhang",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": " The perception system in personalized mobile agents requires developing indoor scene understanding models, which can understand 3D\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6467,
+            "title": "Texturify: Generating Textures on 3D Shape Surfaces",
+            "url": "https://machinelearning.apple.com/research/generating-textures",
+            "authors": "Yawar Siddiqui, Justus Thies, Fangchang Ma, Qi Shan, Matthias Nie\u00dfner, and Angela Dai",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Texture cues on 3D objects are key to compelling visual representations, with the possibility to create high visual fidelity with inherent\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6468,
+            "title": "3D Parametric Room Representation with RoomPlan",
+            "url": "https://machinelearning.apple.com/research/roomplan",
+            "authors": "",
+            "tags": "Article, Computer Vision",
+            "publishedOn": null,
+            "description": "3D Scene understanding has been an active area of machine learning (ML) research for more than a decade. More recently the release of [LiDAR\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6469,
+            "title": "Generative Multiplane Images: Making a 2D GAN 3D-Aware",
+            "url": "https://machinelearning.apple.com/research/generative-multiplane-images",
+            "authors": "Xiaoming Zhao, Fangchang Ma, David G\u00fcera, Zhile Ren, Alexander G. Schwing, Alex Colburn",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "What is really needed to make an existing 2D GAN 3D-aware? To answer this question, we modify a classical GAN, i.e., StyleGANv2, as little\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6470,
+            "title": "FLAIR: Federated Learning Annotated Image Repository",
+            "url": "https://machinelearning.apple.com/research/flair",
+            "authors": "Congzheng Song, Filip Granqvist, Kunal Talwar",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Cross-device federated learning is an emerging machine learning (ML) paradigm where a large population of devices collectively train an ML\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6471,
+            "title": "Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss",
+            "url": "https://machinelearning.apple.com/research/privacy-noisy-stochastic",
+            "authors": "Jason M. Altschuler*, Kunal Talwar*",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "A central issue in machine learning is how to train models on sensitive user data. Industry has widely adopted a simple algorithm:\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

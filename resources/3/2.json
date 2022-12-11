@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2004,
+            "title": "Hyperparameter Tuning Using Randomized Search",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/hyperparameter-tuning-using-randomized-search/",
+            "authors": "Arindam Banerjee",
+            "tags": "Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "This blog discusses method and implementation of Hyperparameter tuning techniques as Grid Search, Randomized Search & Bayesian Optimization.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 2005,
+            "title": "Amazon Sagemaker Tool for MLOps",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Beginner, Machine Learning, MLops",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "MLOps is a set of procedures that machine learning (ML) practitioners adhere to to speed up ML models' deployment in actual projects.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/Machine-Learning-in-Digital-Marketing.png"
+        },
+        {
+            "id": 2006,
+            "title": "An Introduction to BigBird",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-bigbird/",
+            "authors": "Drishti Sharma",
+            "tags": "Datasets, Intermediate, NLP, Python",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "BigBird is a sparse-attention-based transformer that extends transformer-based models like BERT to 8 times longer sequences",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 2007,
+            "title": "Kwenta- A Decentralized Derivatives Trading Platform",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/kwenta-a-decentralized-derivatives-trading-platform/",
+            "authors": "Myron Dsilva",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Kwenta is a decentralized trading platform which enables users to trade crypto perpetual futures contracts in a decentralized manner.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2008,
+            "title": "Top 15 Important Machine Learning Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/top-15-important-machine-learning-interview-questions/",
+            "authors": "Sukanya Bag",
+            "tags": "Beginner, Guide, Interview Questions, Machine Learning",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "The article talks about very important Machine Learning fundamentals and advanced topics like Hyperparameter Optimization, etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2009,
+            "title": "An Introduction to Nature-inspired Optimization Algorithms (NIOAs)",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Algorithm, Beginner",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Nature\u2010inspired optimization algorithms (NIOAs) are a set of algorithms that are illumed by the behavior of natural situations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/testcase_nature.png"
+        },
+        {
+            "id": 2010,
+            "title": "Explaining Sparse Datasets with Practical Examples",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/explaining-sparse-datasets-with-practical-examples/",
+            "authors": "Shri Varsheni R",
+            "tags": "Big data, Data Engineering, Guide, Intermediate, python",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "If the data stored for a particular feature contains mostly zeroes, is also referred to as sparse features.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/30569real-time-big-data-analytics-01_1_1500x520.png"
+        },
+        {
+            "id": 2011,
+            "title": "Learn to Use Nami Wallet",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/learn-to-use-nami-wallet/",
+            "authors": "Myron Dsilva",
+            "tags": "Beginner, Blockchain, Web 3.0",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "This article covers how Nami wallet, a Web3 wallet that supports the Cardano blockchain, can store, send, receive, and delegate $ADA tokens.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2012,
+            "title": "An Introduction to MongoDB",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-mongodb/",
+            "authors": "Aniket Mitra",
+            "tags": "Beginner, Data Engineering, Database, NoSQL, Programming, SQL",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "This article covers the advantages of MongoDB as a DBMS and how a proper understanding of data is critical while choosing a database type.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/11/rubaitul-azad-cijiWIwsMB8-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2013,
+            "title": "How to Make an Image Classification Model Using Deep Learning?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/11/how-to-make-a-image-classification-model-using-deep-learning/",
+            "authors": "Aryan Garg",
+            "tags": "Beginner, Computer Vision, Deep Learning, Machine Learning",
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "In this article, you will use simple image classification model using a CNN wherein you will classify images of cats and dogs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-4-Pretrained-Image-classification-models.jpg"
+        },
+        {
+            "id": 2014,
+            "title": "Explainable Artificial Intelligence (XAI) for AI & ML Engineers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/explainable-artificial-intelligence-xai-for-ai-ml-engineers/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Algorithm, Artificial Intelligence, Beginner, Machine Learning, Research & Technology",
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Explainable artificial intelligence (XAI) is a collection of processes and methods that allows users to understand and trust the output.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/40612artificial-intelligence-g43d8b23eb_1920.jpg"
+        },
+        {
+            "id": 2015,
+            "title": "Relationship Between Facebook and Big Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/relationship-between-facebook-and-big-data/",
+            "authors": "Amit Pathak",
+            "tags": "Beginner, Big data, Database, Datasets",
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "This blog uncovers the relationship between Facebook and Big Data and how organizations are leveraging it to engage with their customers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/facebook-ball.png"
+        },
+        {
+            "id": 2016,
+            "title": "End to End Guide to SushiSwap- A Decentralized Exchange",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/end-to-end-guide-to-sushiswap-a-decentralized-exchange/",
+            "authors": "Myron Dsilva",
+            "tags": "Blockchain, Intermediate",
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "SushiSwap is a decentralized exchange that was initially built on the Ethereum blockchain but has now scaled to support multiple blockchains.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2017,
+            "title": "Databases- What Are They and Why You Need One?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/databases-what-are-they-and-why-you-need-one/",
+            "authors": "Aryan Garg",
+            "tags": "Database, Guide, Intermediate, NoSQL, python",
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "In this article, we will talk about the various types of databases, their use, and also their limitations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Query-MongoDB-using-PyMongo.png"
+        },
+        {
+            "id": 2018,
+            "title": "Most Frequently Asked Interview Questions on KNN Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/most-frequently-asked-interview-questions-on-knn-algorithm/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Algorithm, Beginner, Interview Questions, Interviews, Machine Learning",
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "In this article, we will discuss some of the most asked and tricky questions asked in KNN interview rounds.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview.png"
+        },
+        {
+            "id": 2019,
+            "title": "AWS Storage: Cost Optimization Principles",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/aws-storage-cost-optimization-principles/",
+            "authors": "Jayachandra Reddy",
+            "tags": "AWS, Data Engineering, Intermediate",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "This post colors on AWS storage classes, what they offer, and how to pick among them to minimize the overall costs.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/big-data-1024x683.jpg"
+        },
+        {
+            "id": 2020,
+            "title": "Outliers Detection Using IQR, Z-score, LOF and DBSCAN",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/outliers-detection-using-iqr-z-score-lof-and-dbscan/",
+            "authors": "Shailesh Shukla",
+            "tags": "Data Exploration, Guide, Intermediate, Machine Learning, Python, Statistics",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "Outliers are values that seem excessively different from most of the rest of the values in the given dataset.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/12/Data_exploration_4.png"
+        },
+        {
+            "id": 2021,
+            "title": "Data Lake or Data Warehouse- Which is Better?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/data-lake-or-data-warehouse-which-is-better/",
+            "authors": "Aryan Garg",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Database",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "Data lake is designed to store all data, regardless of structure or format such as social media, log files, and sensor data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 2022,
+            "title": "Non-Generalization and Generalization of Machine learning Models",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Beginner, Data Mining, Deep Learning, Machine Learning",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "Generalization of machine learning models is defined as the ability of a model to classify or forecast new data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/4.jpg"
+        },
+        {
+            "id": 2023,
+            "title": "Generative Pre-training (GPT) for Natural Language Understanding",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/generative-pre-training-gpt-for-natural-language-understanding/",
+            "authors": "Drishti Sharma",
+            "tags": "Data Exploration, Intermediate, NLP, Python, transformer package",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "GPT-1 uses a 12-layer decoder-only transformer framework with masked self-attention for training the language model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/exploring-data-1-1.png"
+        },
+        {
+            "id": 2024,
+            "title": "Using a Blockchain Explorer with Polygonscan",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/using-a-blockchain-explorer-with-polygonscan/",
+            "authors": "Myron Dsilva",
+            "tags": "Blockchain, Intermediate",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "A blockchain explorer is a software developed to track a particular blockchain activity such as number of transactions, number of blocks etc",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2025,
+            "title": "MLOps In Educational Data Mining",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/",
+            "authors": "Mobarak Inuwa",
+            "tags": "Beginner, Machine Learning, MLops",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "The objective of MLOps is to create a general template for carrying out standardized ML activities for robust systems for production",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/Machine-Learning-in-Digital-Marketing.png"
+        },
+        {
+            "id": 2026,
+            "title": "Handling Missing Data with SimpleImputer",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/handling-missing-data-with-simpleimputer/",
+            "authors": "Parth Shukla",
+            "tags": "Beginner, Data Exploration, Machine Learning, Python",
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "Missing data can be filled using basic python programming, pandas library, and a sci-kit learn library named SimpleImputer.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/k_means_clustering.jpg"
+        },
+        {
+            "id": 2027,
+            "title": "The DataHour Synopsis: Hands-on with A/B Testing",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/the-datahour-synopsis-hands-on-with-a-b-testing/",
+            "authors": "Ankita Acharya",
+            "tags": "Artificial Intelligence, Beginner, Machine Learning, Videos",
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "A/B testing is a crucial component of machine learning deployments, which ensures that we release changes incrementally.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/medium.png"
+        },
+        {
+            "id": 2028,
+            "title": "Analysis of Restaurants in the United States",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/analysis-of-chain-and-independent-restaurants-in-the-united-states/",
+            "authors": "Subhradeep Rang",
+            "tags": "Beginner, Data Visualization, Machine Learning, Python",
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "In this article, you will do some analysis of the chain and independent restaurants in the United States using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/732227807104_1578230927_time_analysis_tittle-banner-1.jpg"
+        },
+        {
+            "id": 2029,
+            "title": "A Gentle Introduction to RoBERTa",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/a-gentle-introduction-to-roberta/",
+            "authors": "Drishti Sharma",
+            "tags": "Beginner, BERT",
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "RoBERTa is a reimplementation of BERT with some modifications to the key hyperparameters and tiny embedding tweaks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/icml_2019_best_paper_google_ai.jpg"
+        },
+        {
+            "id": 2030,
+            "title": "End-to-end Guide Using Trader Joe: A Decentralized Application",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/end-to-end-guide-using-trader-joe-a-decentralized-application/",
+            "authors": "Myron Dsilva",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Trader Joe, an all-in-one decentralized application built on the Avalanche blockchain that offers the majority of the decentralized services",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2031,
+            "title": "Calibration of Machine Learning Models",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/calibration-of-machine-learning-models/",
+            "authors": "Subramanian Hariharan",
+            "tags": "Beginner, Computer Vision, Image, Image Analysis, Maths, Python",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Model Calibration gives insight of uncertainty in the prediction of the model and in turn, the reliability of the model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Get-Certified-with-Free-Courses-in-Data-Science-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 2032,
+            "title": "Making Centroid Tracker and Counter System in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/making-centroid-tracker-and-counter-system-in-python/",
+            "authors": "Rishabh Jaiswal",
+            "tags": "Deep Learning, Intermediate, Object Detection, Python",
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Centroid tracker algorithms are all about tracking the coordinates by defining some threshold values to be called as same points.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 2033,
+            "title": "Machine Learning Models Comparative Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2022/10/machine-learning-models-comparative-analysis/",
+            "authors": "Shibu Mohapatra",
+            "tags": "Datasets, Machine Learning, Regression",
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "This blog covers how to use the bookmyshow dataset and apply 3 machine learning models to analyze which model is suitable for this dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/78414MachineLearningforHVAC-4.jpg"
+        }
+    ]
+}

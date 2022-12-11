@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9262,
+            "title": "Encoder-Decoder Long Short-Term Memory Networks",
+            "url": "https://machinelearningmastery.com/encoder-decoder-long-short-term-memory-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-23T00:00:00",
+            "description": "Gentle introduction to the Encoder-Decoder LSTMs for sequence-to-sequence prediction with example Python code. The Encoder-Decoder LSTM is a recurrent neural network designed to address sequence-to-sequence problems, sometimes called seq2seq. Sequence-to-sequence prediction problems are challenging because the number of items in the input and output sequences can vary. For example, text translation and learning to execute [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Encoder-Decoder-Long-Short-Term-Memory-Networks.jpg"
+        },
+        {
+            "id": 9263,
+            "title": "CNN Long Short-Term Memory Networks",
+            "url": "https://machinelearningmastery.com/cnn-long-short-term-memory-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-21T00:00:00",
+            "description": "Gentle introduction to CNN LSTM recurrent neural networks with example Python code. Input with spatial structure, like images, cannot be modeled easily with the standard Vanilla LSTM. The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Convolutional-Neural-Network-Long-Short-Term-Memory-Networks.jpg"
+        },
+        {
+            "id": 9264,
+            "title": "Stacked Long Short-Term Memory Networks",
+            "url": "https://machinelearningmastery.com/stacked-long-short-term-memory-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-18T00:00:00",
+            "description": "Gentle introduction to the Stacked LSTM with example code in Python. The original LSTM model is comprised of a single hidden LSTM layer followed by a standard feedforward output layer. The Stacked LSTM is an extension to this model that has multiple hidden LSTM layers where each layer contains multiple memory cells. In this post, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Gentle-Introduction-to-Stacked-Long-Short-Term-Memory-Networks.jpg"
+        },
+        {
+            "id": 9265,
+            "title": "Mini-Course on Long Short-Term Memory Recurrent Neural Networks with Keras",
+            "url": "https://machinelearningmastery.com/long-short-term-memory-recurrent-neural-networks-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-16T00:00:00",
+            "description": "Long Short-Term Memory (LSTM) recurrent neural networks are one of the most interesting types of deep learning at the moment. They have been used to demonstrate world-class results in complex problem domains such as language translation, automatic image captioning, and text generation. LSTMs are different to multilayer Perceptrons and convolutional neural networks in that they [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/Mini-Course-on-Long-Short-Term-Memory-Recurrent-Neural-Networks-with-Keras.jpg"
+        },
+        {
+            "id": 9266,
+            "title": "Multivariate Time Series Forecasting with LSTMs in Keras",
+            "url": "https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-08-14T00:00:00",
+            "description": "Neural networks like Long Short-Term Memory (LSTM) recurrent neural networks are able to almost seamlessly model problems with multiple input variables. This is a great benefit in time series forecasting, where classical linear methods can be difficult to adapt to multivariate or multiple input forecasting problems. In this tutorial, you will discover how you can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/06/Line-Plots-of-Air-Pollution-Time-Series.png"
+        },
+        {
+            "id": 9267,
+            "title": "Get the Most out of LSTMs on Your Sequence Prediction Problem",
+            "url": "https://machinelearningmastery.com/get-the-most-out-of-lstms/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-08-11T00:00:00",
+            "description": "Long Short-Term Memory (LSTM) Recurrent Neural Networks are a powerful type of deep learning suited for sequence prediction problems. A possible concern when using LSTMs is if the added complexity of the model is improving the skill of your model or is in fact resulting in lower skill than simpler models. In this post, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Get-the-Most-out-of-LSTMs-on-Your-Sequence-Prediction-Problem.jpg"
+        },
+        {
+            "id": 9268,
+            "title": "How to Use Metrics for Deep Learning with Keras in Python",
+            "url": "https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-08-09T00:00:00",
+            "description": "The Keras library provides a way to calculate and report on a suite of standard metrics when training deep learning models. In addition to offering standard metrics for classification and regression problems, Keras also allows you to define and report on your own custom metrics when training deep learning models. This is particularly useful if [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Metrics-and-How-to-Use-Custom-Metrics-for-Deep-Learning-with-Keras-in-Python.jpg"
+        },
+        {
+            "id": 9269,
+            "title": "10 Command Line Recipes for Deep Learning on Amazon Web Services",
+            "url": "https://machinelearningmastery.com/command-line-recipes-deep-learning-amazon-web-services/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-08-07T00:00:00",
+            "description": "Running large deep learning processes on Amazon Web Services EC2 is a cheap and effective way to learn and develop models. For just a few dollars you can get access to tens of gigabytes of RAM, tens of CPU cores, and multiple GPUs. I highly recommend it. If you are new to EC2 or the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/10-Command-Line-Recipes-for-Deep-Learning-on-Amazon-Web-Services.jpg"
+        },
+        {
+            "id": 9270,
+            "title": "How to Plan and Run Machine Learning Experiments Systematically",
+            "url": "https://machinelearningmastery.com/plan-run-machine-learning-experiments-systematically/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2017-08-04T00:00:00",
+            "description": "Machine learning experiments can take a long time. Hours, days, and even weeks in some cases. This gives you a lot of time to think and plan for additional experiments to perform. In addition, the average applied machine learning project may require tens to hundreds of discrete experiments in order to find a data preparation [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/How-to-Plan-and-Run-Machine-Learning-Experiments-Systematically.jpg"
+        },
+        {
+            "id": 9271,
+            "title": "9 Ways to Get Help with Deep Learning in Keras",
+            "url": "https://machinelearningmastery.com/get-help-with-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-08-02T00:00:00",
+            "description": "Keras is a Python deep learning library that can use the efficient Theano or TensorFlow symbolic math libraries as a backend. Keras is so easy to use that you can develop your first Multilayer Perceptron, Convolutional Neural Network, or LSTM Recurrent Neural Network in minutes. You may have technical questions when you get started using [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Keras-hash-tag-on-Twitter.png"
+        },
+        {
+            "id": 9272,
+            "title": "How to Get Good Results Fast with Deep Learning for Time Series Forecasting",
+            "url": "https://machinelearningmastery.com/get-good-results-fast-deep-learning-time-series-forecasting/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-07-31T00:00:00",
+            "description": "3 Strategies to Design Experiments and Manage Complexity on Your Predictive Modeling Problem. It is difficult to get started on a new time series forecasting project. Given years of data, it can take days or weeks to fit a deep learning model. How do you get started exactly? For some practitioners, this can lead to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/Example-Box-and-Whisker-Plots-Comparing-a-Model-Skill-For-Different-Model-Parameter-Values.png"
+        },
+        {
+            "id": 9273,
+            "title": "Why One-Hot Encode Data in Machine Learning?",
+            "url": "https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2017-07-28T00:00:00",
+            "description": "Getting started in applied machine learning can be difficult, especially when working with real-world data. Often, machine learning tutorials will recommend or require that you prepare your data in specific ways before fitting a machine learning model. One good example is to use a one-hot encoding on categorical data. Why is a one-hot encoding required? [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/Why-One-Hot-Encode-Data-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9274,
+            "title": "What is the Difference Between a Parameter and a Hyperparameter?",
+            "url": "https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2017-07-26T00:00:00",
+            "description": "It can be confusing when you get started in applied machine learning. There are so many terms to use and many of the terms may not be used consistently. This is especially true if you have come from another field of study that may use some of the same terms as machine learning, but they [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/07/How-to-Develop-an-Information-Maximizing-Generative-Adversarial-Network-InfoGAN-in-Keras.jpg"
+        },
+        {
+            "id": 9275,
+            "title": "How Much Training Data is Required for Machine Learning?",
+            "url": "https://machinelearningmastery.com/much-training-data-required-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2017-07-24T00:00:00",
+            "description": "The amount of data you need depends both on the complexity of your problem and on the complexity of your chosen algorithm. This is a fact, but does not help you if you are at the pointy end of a machine learning project. A common question I get asked is: How much data do I [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/How-Much-Training-Data-is-Required-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9276,
+            "title": "A Gentle Introduction to Mini-Batch Gradient Descent and How to Configure Batch Size",
+            "url": "https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-07-21T00:00:00",
+            "description": "Stochastic gradient descent is the dominant method used to train deep learning models. There are three main variants of gradient descent and it can be confusing which one to use. In this post, you will discover the one type of gradient descent you should use in general and how to configure it. After completing this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/A-Gentle-Introduction-to-Mini-Batch-Gradient-Descent-and-How-to-Configure-Batch-Size.jpg"
+        },
+        {
+            "id": 9277,
+            "title": "5 Examples of Simple Sequence Prediction Problems for LSTMs",
+            "url": "https://machinelearningmastery.com/sequence-prediction-problems-learning-lstm-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-07-19T00:00:00",
+            "description": "Sequence prediction is different from traditional classification and regression problems. It requires that you take the order of observations into account and that you use models like Long Short-Term Memory (LSTM) recurrent neural networks that have memory and that can learn any temporal dependence between observations. It is critical to apply LSTMs to learn how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/5-Examples-of-Simple-Sequence-Prediction-Problems-for-Learning-LSTM-Recurrent-Neural-Networks.jpg"
+        },
+        {
+            "id": 9278,
+            "title": "Gentle Introduction to Models for Sequence Prediction with RNNs",
+            "url": "https://machinelearningmastery.com/models-sequence-prediction-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-07-17T00:00:00",
+            "description": "Sequence prediction is a problem that involves using historical sequence information to predict the next value or values in the sequence. The sequence may be symbols like letters in a sentence or real values like those in a time series of prices. Sequence prediction may be easiest to understand in the context of time series [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/One-to-One-Sequence-Prediction-Model-Over-Time.png"
+        },
+        {
+            "id": 9279,
+            "title": "What is the Difference Between Test and Validation Datasets?",
+            "url": "https://machinelearningmastery.com/difference-test-validation-datasets/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2017-07-14T00:00:00",
+            "description": "A validation dataset is a sample of data held back from training your model that is used to give an estimate of model skill while tuning model\u2019s hyperparameters. The validation dataset is different from the test dataset that is also held back from\u00a0the training of the model, but is instead used to give an unbiased [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/What-is-the-Difference-Between-Test-and-Validation-Datasets.jpg"
+        },
+        {
+            "id": 9280,
+            "title": "How to One Hot Encode Sequence Data in Python",
+            "url": "https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-07-12T00:00:00",
+            "description": "Machine learning algorithms cannot work with categorical data directly. Categorical data must be converted to numbers. This applies when you are working with a sequence classification type problem and plan on using deep learning methods such as Long Short-Term Memory recurrent neural networks. In this tutorial, you will discover how to convert your input or [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/How-to-One-Hot-Encode-Sequence-Classification-Data-in-Python.jpg"
+        },
+        {
+            "id": 9281,
+            "title": "How to Remove Trends and Seasonality with a Difference Transform in Python",
+            "url": "https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-07-10T00:00:00",
+            "description": "Time series datasets may contain trends and seasonality, which may need to be removed prior to modeling. Trends can result in a varying mean over time, whereas seasonality can result in a changing variance over time, both which define a time series as being non-stationary. Stationary datasets are those that have a stable mean and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/How-to-Remove-Trends-and-Seasonality-with-a-Difference-Transform-in-Python.jpg"
+        },
+        {
+            "id": 9282,
+            "title": "How to Scale Data for Long Short-Term Memory Networks in Python",
+            "url": "https://machinelearningmastery.com/how-to-scale-data-for-long-short-term-memory-networks-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-07-07T00:00:00",
+            "description": "The data for your sequence prediction problem probably needs to be scaled when training a neural network, such as a Long Short-Term Memory recurrent neural network. When a network is fit on unscaled data that has a range of values (e.g. quantities in the 10s to 100s) it is possible for large inputs to slow [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/How-to-Scale-Data-for-Long-Short-Term-Memory-Networks-in-Python.jpg"
+        },
+        {
+            "id": 9283,
+            "title": "A Tour of Recurrent Neural Network Algorithms for Deep Learning",
+            "url": "https://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-07-05T00:00:00",
+            "description": "Recurrent neural networks, or RNNs, are a type of artificial neural network that add additional weights to the network to create cycles in the network graph in an effort to maintain an internal state. The promise of adding state to neural networks is that they will be able to explicitly learn and exploit context in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/07/A-Tour-of-Recurrent-Neural-Network-Algorithms-for-Deep-Learning.jpg"
+        },
+        {
+            "id": 9284,
+            "title": "Gentle Introduction to the Adam Optimization Algorithm for Deep Learning",
+            "url": "https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2017-07-03T00:00:00",
+            "description": "The choice of optimization algorithm for your deep learning model can mean the difference between good results in minutes, hours, and days. The Adam optimization algorithm is an extension to stochastic gradient descent that has recently seen broader adoption for deep learning applications in computer vision and natural language processing. In this post, you will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/05/Comparison-of-Adam-to-Other-Optimization-Algorithms-Training-a-Multilayer-Perceptron.png"
+        },
+        {
+            "id": 9285,
+            "title": "Attention in Long Short-Term Memory Recurrent Neural Networks",
+            "url": "https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-30T00:00:00",
+            "description": "The Encoder-Decoder architecture is popular because it has demonstrated state-of-the-art results across a range of domains. A limitation of the architecture is that it encodes the input sequence to a fixed length internal representation. This imposes limits on the length of input sequences that can be reasonably learned and results in worse performance for very [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/05/Attentional-Interpretation-of-Words-in-the-Input-Document-to-the-Output-Summary.png"
+        },
+        {
+            "id": 9286,
+            "title": "How to Prepare Sequence Prediction for Truncated BPTT in Keras",
+            "url": "https://machinelearningmastery.com/truncated-backpropagation-through-time-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-28T00:00:00",
+            "description": "Recurrent neural networks are able to learn the temporal dependence across multiple timesteps in sequence prediction problems. Modern recurrent neural networks like the Long Short-Term Memory, or LSTM, network are trained with a variation of the Backpropagation algorithm called Backpropagation Through Time. This algorithm has been modified further for efficiency on sequence prediction problems with [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/06/How-to-Prepare-Sequence-Prediction-for-Truncated-Backpropagation-Through-Time-in-Keras.jpg"
+        },
+        {
+            "id": 9287,
+            "title": "Techniques to Handle Very Long Sequences with LSTMs",
+            "url": "https://machinelearningmastery.com/handle-long-sequences-long-short-term-memory-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-26T00:00:00",
+            "description": "Long Short-Term Memory or LSTM recurrent neural networks are capable of learning and remembering over long sequences of inputs. LSTMs work very well if your problem has one output for every input, like time series forecasting or text translation. But LSTMs can be challenging to use when you have very long input sequences and only [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/06/How-to-Handle-Very-Long-Sequences-with-Long-Short-Term-Memory-Recurrent-Neural-Networks.jpg"
+        },
+        {
+            "id": 9288,
+            "title": "A Gentle Introduction to Backpropagation Through Time",
+            "url": "https://machinelearningmastery.com/gentle-introduction-backpropagation-time/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-23T00:00:00",
+            "description": "Backpropagation Through Time, or BPTT, is the training algorithm used to update weights in recurrent neural networks like LSTMs. To effectively frame sequence prediction problems for recurrent neural networks, you must have a strong conceptual understanding of what Backpropagation Through Time is doing and how configurable variations like Truncated Backpropagation Through Time will affect the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/06/A-Gentle-Introduction-to-Backpropagation-Through-Time.jpg"
+        },
+        {
+            "id": 9289,
+            "title": "How to Handle Missing Timesteps in Sequence Prediction Problems with Python",
+            "url": "https://machinelearningmastery.com/handle-missing-timesteps-sequence-prediction-problems-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-06-21T00:00:00",
+            "description": "It is common to have missing observations from sequence data. Data may be corrupt or unavailable, but it is also possible that your data has variable length sequences by definition. Those sequences with fewer timesteps may be considered to have missing values. In this tutorial, you will discover how you can handle data with missing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/01/A-Gentle-Introduction-to-Linear-Algebra.jpg"
+        },
+        {
+            "id": 9290,
+            "title": "Data Preparation for Variable Length Input Sequences",
+            "url": "https://machinelearningmastery.com/data-preparation-variable-length-input-sequences-sequence-prediction/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-19T00:00:00",
+            "description": "Deep learning libraries assume a vectorized representation of your data. In the case of variable length sequence prediction problems, this requires that your data be transformed such that each sequence has the same length. This vectorization allows code to efficiently perform the matrix operations in batch for your chosen deep learning algorithms. In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/06/Data-Preparation-for-Variable-Length-Input-Sequences-for-Sequence-Prediction.jpg"
+        },
+        {
+            "id": 9291,
+            "title": "How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras",
+            "url": "https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-06-16T00:00:00",
+            "description": "Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems. In problems where all timesteps of the input sequence are available, Bidirectional LSTMs train two instead of one LSTMs on the input sequence. The first on the input sequence as-is and the second on a reversed copy of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/05/Line-Plot-of-Log-Loss-for-an-LSTM-Reversed-LSTM-and-a-Bidirectional-LSTM.png"
+        }
+    ]
+}

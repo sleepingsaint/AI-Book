@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3444,
+            "title": "Beginner\u2019s Guide to Recursion in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/beginners-guide-to-recursion-in-python/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-20T00:00:00",
+            "description": "In this article, we will be covering all the basics needed for a beginner to start with recursion in python, an important programming concept",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/20245Python-on-frontend-Brython.png"
+        },
+        {
+            "id": 3445,
+            "title": "Gradient Boosting Algorithm: A Complete Guide for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/",
+            "authors": "Anshul Saini",
+            "tags": "Algorithm, Beginner, Guide, Machine Learning, Maths",
+            "publishedOn": "2021-09-20T00:00:00",
+            "description": "In this article, I am going to discuss the math intuition behind the Gradient boosting algorithm. GBA is a supervised learning algorithm.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/576190_y1vE1Hdlri6XkDGL.jpg"
+        },
+        {
+            "id": 3446,
+            "title": "How to Develop a Virtual Keyboard Using OpenCV",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/develop-a-virtual-keyboard-using-opencv/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Project, Technique",
+            "publishedOn": "2021-09-19T00:00:00",
+            "description": "In this article we will see an interesting application of computer vision. Here, we will develop a virtual keyboard using opencv and cvzone.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/AI-Virtual-Assistant-using-Python.jpg"
+        },
+        {
+            "id": 3447,
+            "title": "Hand Made Visualizations in Python using cutecharts Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/hand-made-visualizations-in-python-using-cutecharts-library/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Visualization, Libraries, Python",
+            "publishedOn": "2021-09-18T00:00:00",
+            "description": "In this article we will see an interesting package for data visualization. Here, we will discuss how to make hand made cute charts in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_visualization_python_r_tableau.jpg"
+        },
+        {
+            "id": 3448,
+            "title": "Performing Email Spam Detection Using BERT in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/performing-email-spam-detection-using-bert-in-python/",
+            "authors": "Purnendu Shukla",
+            "tags": "Advanced, Classification, NLP, Project, Python",
+            "publishedOn": "2021-09-17T00:00:00",
+            "description": "spam emails are unwanted emails shared in bulk. In this article we will walkthrough a project on email spam detection using BERT.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/npl_spam-scaled.jpg"
+        },
+        {
+            "id": 3449,
+            "title": "Cross-Sell Prediction Using Machine Learning in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/cross-sell-prediction-using-machine-learning-in-python/",
+            "authors": "Shipra Saxena",
+            "tags": "Beginner, Data Exploration, Data Visualization, Machine Learning, Project, Python",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "Cross-selling involves selling complementary products to existing customers. Let's understand a data science project on cross-sell prediction",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/78414MachineLearningforHVAC-4.jpg"
+        },
+        {
+            "id": 3450,
+            "title": "Naive Bayes Algorithm: A Complete guide for Data Science Enthusiasts",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/naive-bayes-algorithm-a-complete-guide-for-data-science-enthusiasts/",
+            "authors": "Anshul Saini",
+            "tags": "Beginner, Classification, Machine Learning, Python",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "In this article, we will discuss the mathematical intuition behind Naive Bayes Algorithm, and we\u2019ll also see how to implement this in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/Bayes-Theorem-and-its-Applications.jpg"
+        },
+        {
+            "id": 3451,
+            "title": "How to Apply K-Fold Averaging on Deep Learning Classifier",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-apply-k-fold-averaging-on-deep-learning-classifier/",
+            "authors": "Sajal Rastogi",
+            "tags": "Beginner, Deep Learning, Programming, Project, Python, Technique",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "In this article, we will be learning about how to apply k-fold cross-validation to a deep learning image classification model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/84541MachineLearninginMarketing-1621x1000-1.jpg"
+        },
+        {
+            "id": 3452,
+            "title": "How to Visualise data in Maps Using GeoPandas",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/",
+            "authors": "Sreedevi Gattu",
+            "tags": "Data Visualization, Intermediate, Libraries, Python",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "This article attempts to give a gentle introduction to the usage of\u00a0GeoPandas. here we will learn to visualise data in maps using Geopandas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/traffic_world_map_data_visualization_python.png"
+        },
+        {
+            "id": 3453,
+            "title": "Topic Modeling: Predicting Multiple Tags of Research Articles using OneVsRest strategy",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/onevsrest-classifier-for-predicting-multiple-tags-of-research-articles/",
+            "authors": "Pratik Nabriya",
+            "tags": "Advanced, NLP, Project, Python",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "In this article, we demonstrate how to use the OneVsRest Classifier for Predicting Multiple Tags of Research Articles in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Text-Classification-scaled.jpg"
+        },
+        {
+            "id": 3454,
+            "title": "Beginners Guide to Anomaly Detection Using Self-Organizing Maps",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/beginners-guide-to-anomaly-detection-using-self-organizing-maps/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Clustering, Deep Learning, Technique",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "In this article we will learn about anomalies detection using self-organizing maps. The SOM structure is a lattice of neurons.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 3455,
+            "title": "Essential PySpark DataFrame Column Operations that Data Engineers Should Know",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/essential-pyspark-dataframe-column-operations-that-data-engineers-should-know/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Engineering, Python, Spark",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "PySpark Column Operations plays a key role in manipulating and displaying desired results of\u00a0 PySpark DataFrame. Let's understand them here",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/pyspark.png"
+        },
+        {
+            "id": 3456,
+            "title": "Latent Semantic Analysis and its Uses in Natural Language Processing",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/latent-semantic-analysis-and-its-uses-in-natural-language-processing/",
+            "authors": "Subhasis Dasgupta",
+            "tags": "Beginner, Machine Learning, NLP, Python, Unstructured Data",
+            "publishedOn": "2021-09-16T00:00:00",
+            "description": "Latent Semantic Analysis involves creating structured data from a collection of unstructured text, tries to extract the dimensions using ML.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/na5-scaled-e1586510934305.jpg"
+        },
+        {
+            "id": 3457,
+            "title": "Lasso and Ridge Regularization \u2013 A Rescuer From Overfitting",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/lasso-and-ridge-regularization-a-rescuer-from-overfitting/",
+            "authors": "Rashmi Manwani",
+            "tags": "Algorithm, Beginner, Bias and Variance, Machine Learning",
+            "publishedOn": "2021-09-15T00:00:00",
+            "description": "Overfitting is a common problem in ML models. In this article we will see how to resolve this issue with Lasso and Ridge regularization",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/A-look-into-Regularized-Greedy-Forest.jpg"
+        },
+        {
+            "id": 3458,
+            "title": "Important Documents Prepared By A Business Analyst",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/important-documents-prepared-by-a-business-analyst/",
+            "authors": "Ananya Chakraborty",
+            "tags": "Beginner, Business Analytics, Profile Building",
+            "publishedOn": "2021-09-15T00:00:00",
+            "description": "In this article, we will see what are the important documents prepared by a business analyst. let's dive and make the checklist.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Top-Books-to-Read-for-Business-Analytics-Professional.jpg"
+        },
+        {
+            "id": 3459,
+            "title": "AdaBoost Algorithm \u2013 A Complete Guide for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/",
+            "authors": "Anshul Saini",
+            "tags": "Algorithm, Beginner, Machine Learning, Technique",
+            "publishedOn": "2021-09-15T00:00:00",
+            "description": "AdaBoost Algorithm is also known as Adaptive Boosting is an Ensemble modelling technique used in Machine Learning to find the best model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/21231Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 3460,
+            "title": "How to Extract Tabular Data from Doc files Using Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Programming, Python, Structured Data",
+            "publishedOn": "2021-09-15T00:00:00",
+            "description": "In this article, we will explain the ETL process for a Doc file, Here we will see how to extract tabular data from doc file.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/21021Docs-to-Analysis.png"
+        },
+        {
+            "id": 3461,
+            "title": "Four Data Engineering Fundamentals All Data Scientists Must Know",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/four-data-engineering-fundamentals-all-data-scientists-must-know/",
+            "authors": "ASHWINI KUMAR",
+            "tags": "Data Engineering, Data Science, Intermediate, Profile Building",
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "Data Science is a team sport. In this article, we will explore four Data Engineering fundamentals every data scientist should know about.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/Window-functions-%E2%80%93-A-must-know-for-Data-Engineers-and-Data-ScientistsTop-5-GAN-Libraries-you-must-know.png"
+        },
+        {
+            "id": 3462,
+            "title": "Building Resnet-34 model using Pytorch \u2013 A Guide for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/building-resnet-34-model-using-pytorch-a-guide-for-beginners/",
+            "authors": "Siddharth M",
+            "tags": "Advanced, Deep Learning, Project, Python, PyTorch",
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "In this article, we will discuss the implementation of ResNet-34 architecture using the Pytorch framework in Python and understand it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/83608avatarmind-ipal-social-robot.jpg"
+        },
+        {
+            "id": 3463,
+            "title": "Building an Interactive Dashboard using Bokeh and Pandas",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/building-an-interactive-dashboard-using-bokeh-and-pandas/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Data Visualization, Libraries, Pandas, Python",
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "we will see how to directly generate Bokeh interactive plots inside Pandas and set up a simple interactive dashboard using Bokeh library",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/82126Excel-Dashboard.png"
+        },
+        {
+            "id": 3464,
+            "title": "Programming in R \u2013 From Variables to Visualizations",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/programming-in-r-from-variables-to-visualizations/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Beginner, Data Visualization, Machine Learning, Programming, R",
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "R is a programming language as well as a free statistical computing environment. Here, is complete guide on programming in R.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/67298pexels-vitaly-vlasov-1342460-scaled.jpg"
+        },
+        {
+            "id": 3465,
+            "title": "How To Evaluate The Business Value Of a Machine Learning Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-evaluate-the-business-value-of-ml-model/",
+            "authors": "Amit Kulkarni",
+            "tags": "Intermediate, Machine Learning, Python, Technique",
+            "publishedOn": "2021-09-14T00:00:00",
+            "description": "Here, we will explore and understand evaluation plots like Cumulative Gain plots and Lift plots, to assess the business value of ML model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/97958bulb.jpg"
+        },
+        {
+            "id": 3466,
+            "title": "Beginner\u2019s Guide To Create PySpark DataFrame",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/beginners-guide-to-create-pyspark-dataframe/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Engineering, Programming, Python, Spark",
+            "publishedOn": "2021-09-13T00:00:00",
+            "description": "Here, we will learn about how to create PySpark DataFrame. We will also look at additional methods useful in performing PySpark tasks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/67298pexels-vitaly-vlasov-1342460-scaled.jpg"
+        },
+        {
+            "id": 3467,
+            "title": "Unique Data Visualization Techniques To Make Your Plots Stand Out",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/unique-data-visualization-techniques-to-make-your-plots-stand-out/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Exploration, Data Visualization, Python",
+            "publishedOn": "2021-09-13T00:00:00",
+            "description": "In this article, we will look at three unique data visualization techniques which are not regularly used and can be widely useful.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/82829pexels-mikael-blomkvist-6476574-scaled.jpg"
+        },
+        {
+            "id": 3468,
+            "title": "What Are n-grams and How to Implement Them in Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/what-are-n-grams-and-how-to-implement-them-in-python/",
+            "authors": "Nithyashree V",
+            "tags": "Beginner, Machine Learning, NLP, Python",
+            "publishedOn": "2021-09-13T00:00:00",
+            "description": "The objective of the blog is to analyze different types of n-grams on the given text data and decide which n-gram works best for our data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/31437feature-image.png"
+        },
+        {
+            "id": 3469,
+            "title": "Active Contours \u2013 A Method for Image Segmentation in Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/active-contours-a-method-for-image-segmentation-in-computer-vision/",
+            "authors": "Dulari Bhatt",
+            "tags": "Advanced, Computer Vision, Image, Machine Learning, Maths, Python, Use Cases",
+            "publishedOn": "2021-09-13T00:00:00",
+            "description": "Active contours is a segmentation method that uses energy forces and constraints to separate the pixels of interest from the picture.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3470,
+            "title": "The power of Python Map, Reduce and Filter \u2013 Functional Programming for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/the-power-of-python-map-reduce-and-filter-functional-programming-for-data-science/",
+            "authors": "Akansha Khandelwal",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-12T00:00:00",
+            "description": "Three key functions that form the heart of the functional programming paradigm are Map, Filter, and Reduce. Lets understand them in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 3471,
+            "title": "Apache Cassandra Data Model(CQL) \u2013 Schema and Database Design",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/apache-cassandra-data-modelcql-schema-and-database-design/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Data Engineering, Python",
+            "publishedOn": "2021-09-11T00:00:00",
+            "description": "A decent Cassandra data model distributes data equally throughout the cluster's nodes. Put restrictions on the size of a partition",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/05/monday-1024x683.jpg"
+        },
+        {
+            "id": 3472,
+            "title": "\u201cOk, Google!\u201d\u2014 Speech to Text in Python with Deep Learning in 2 minutes",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/ok-google-speech-to-text-in-python-with-deep-learning-in-2-minutes/",
+            "authors": "Akash",
+            "tags": "Advanced, Deep Learning, Libraries, NLP, Project, Python, Text, Unsupervised",
+            "publishedOn": "2021-09-10T00:00:00",
+            "description": "We will build a very simple speech to text converter, that takes our voice as input and produces the corresponding text by hearing the input.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/92238G-assistant.jpg"
+        },
+        {
+            "id": 3473,
+            "title": "Image Segmentation Algorithms With Implementation in Python \u2013 An Intuitive Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/",
+            "authors": "Shruti Sureshan",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate, Libraries, Python, Unstructured Data",
+            "publishedOn": "2021-09-10T00:00:00",
+            "description": "Image Segmentation helps to obtain the region of interest (ROI) from the image. It is the process of separating an image into different areas.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/image-segmentation.png"
+        }
+    ]
+}

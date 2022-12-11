@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3114,
+            "title": "Brief Introduction to Tensorflow for Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/brief-introduction-to-tensorflow-for-deep-learning/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Beginner, Deep Learning, Libraries, Machine Learning",
+            "publishedOn": "2022-01-12T00:00:00",
+            "description": "Tensorflow is a popular open-source machine learning framework developed by Google. Let's learn how we can use Tensorflow for Deep Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 3115,
+            "title": "Analyzing the Income Level of US Census Data",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/analyzing-the-income-level-of-us-census-data/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Data Exploration, Data Visualization, Database, Datasets, Python",
+            "publishedOn": "2022-01-12T00:00:00",
+            "description": "Using US Census Data, we will predict the income of US people and check if Americans have earned more or less than 50000 dollars a year.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/k12.png"
+        },
+        {
+            "id": 3116,
+            "title": "A Comprehensive Guide on Human Pose Estimation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Algorithm, Computer Vision, Deep Learning, Guide, Intermediate, Machine Learning, Object Tracking",
+            "publishedOn": "2022-01-11T00:00:00",
+            "description": "Human Pose estimation is a computer vision task that represents the orientation of a person in a graphical format.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/10/human-activity-recognition.jpg"
+        },
+        {
+            "id": 3117,
+            "title": "Quick Web Scraping using Gazpacho",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/quick-web-scraping-using-gazpacho/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Libraries, Python, Use Cases",
+            "publishedOn": "2022-01-11T00:00:00",
+            "description": "Web Scraping using Gazpacho automates the process of extracting the data from a webpage which quicker and hassle-free method of data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/web_scraping.png"
+        },
+        {
+            "id": 3118,
+            "title": "Introduction to Cloud Computing for Machine Learning Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/introduction-to-cloud-computing-for-machine-learning-beginners/",
+            "authors": "Devashree Madhugiri",
+            "tags": "Beginner, Cloud Computing, Machine Learning",
+            "publishedOn": "2022-01-10T00:00:00",
+            "description": "In this article, We will learn about cloud computing services that help storing data on remote servers connected to the Internet.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/17092419/cloud-computing-1484538_960_720.png"
+        },
+        {
+            "id": 3119,
+            "title": "GUI calculator using tkinter Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/gui-calculator-using-tkinter-python/",
+            "authors": "Atulya Khatri",
+            "tags": "Intermediate, Programming, Python",
+            "publishedOn": "2022-01-10T00:00:00",
+            "description": "In this article, you will learn how to create your personalised GUI Calculator using tkinter Python. GUI is visual and easier to use.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/Screenshot-2022-01-10-at-2.58.04-PM.png"
+        },
+        {
+            "id": 3120,
+            "title": "Walmart\u2019s Sales Analysis through Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/walmarts-sales-analysis-through-data-visualization/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Beginner, Business Analytics, Data Visualization, Datasets",
+            "publishedOn": "2022-01-10T00:00:00",
+            "description": "In this article, we will be dealing with Walmart's sales dataset and will follow all the data analysis steps to get business insights.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/analytics-3265840_1920.jpg"
+        },
+        {
+            "id": 3121,
+            "title": "Exclusive Interview with Srikanth Velamakanni, Co-Founder, Fractal Analytics \u2013 Fractal Becomes a Unicorn!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/exlcusive-interview-srikanth-velamakanni-fractal/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Interviews",
+            "publishedOn": "2022-01-10T00:00:00",
+            "description": "Hear from industry leader Srikanth Velamakanni on building data science and analytics solutions at scale for theindustry and community.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/interview-fractal-768x380.jpg"
+        },
+        {
+            "id": 3122,
+            "title": "YARN \u2013 Yet Another Resource Negotiator",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/yarn-yet-another-resource-negotiator/",
+            "authors": "Ayushi Gupta",
+            "tags": "Big data, Data Science",
+            "publishedOn": "2022-01-07T00:00:00",
+            "description": "YARN is an upgrade to MapReduce present in Hadoop version 1.0 because it helps support applications such as\u00a0 HBase, Spark, and Hive.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/hadoop-yarn.png"
+        },
+        {
+            "id": 3123,
+            "title": "Data Warehouses, Data Marts and Data Lakes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/data-warehouses-data-marts-and-data-lakes/",
+            "authors": "Harshit Ahluwalia",
+            "tags": "Beginner, Data Engineering, Data Warehouse",
+            "publishedOn": "2022-01-07T00:00:00",
+            "description": "In this article, we will some of the features and applications of data warehouses, data marts and data lakes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/46611Data-Warehouse.png"
+        },
+        {
+            "id": 3124,
+            "title": "TOP 10 GitHub Repositories for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/top-10-github-repositories-for-data-science/",
+            "authors": "Harshitn",
+            "tags": "Data Science, Datasets, Github, Project",
+            "publishedOn": "2022-01-06T00:00:00",
+            "description": "In this article get to know the Top 10 GitHub repositories. Here, over 73 million coders and developers host and share codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/data_science_projects_github.png"
+        },
+        {
+            "id": 3125,
+            "title": "HIVE: INTERNAL AND EXTERNAL TABLES",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/hive-internal-and-external-tables/",
+            "authors": "Harshitn",
+            "tags": "Beginner, Data Cleaning, Data Engineering, Data Warehouse, Database",
+            "publishedOn": "2022-01-06T00:00:00",
+            "description": "Hive is one of the most popular data warehouse systems in the industry for data storage, and to store this data Hive uses tables.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/8080611_apache-hive.c188b73a31.jpg"
+        },
+        {
+            "id": 3126,
+            "title": "Global AI Leader Fractal Becomes Unicorn with US$ 360 Million Investment from TPG",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/global-ai-leader-fractal-announces-us-360-million-investment-from-tpg/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Announcement, News",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "Fractal, a leading artificial intelligence and analytics solutions provider, has announced a significant investment.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/53836Crystal-ball-currency-money-price-business-predict-future.jpg"
+        },
+        {
+            "id": 3127,
+            "title": "Machine Learning Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/machine-learning-algorithms/",
+            "authors": "Amrutha K",
+            "tags": "Algorithm, Beginner, Machine Learning",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "This article is perfect for someone who has just started their career in Data Science Industry and learn about machine learning algorithms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg"
+        },
+        {
+            "id": 3128,
+            "title": "Tutorial on RNN | LSTM |GRU with Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/tutorial-on-rnn-lstm-gru-with-implementation/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Beginner, Data Science, Datasets, NLP",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "This article gives you a tutorial on RNN | LSTM |GRU In detail with the implementation of movie sentiment classification.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Tools-used-for-Data-Science-and-Big-Data.jpg"
+        },
+        {
+            "id": 3129,
+            "title": "10 Best Data Science Websites to Find Datasets for your Next DS Project",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/10-best-data-science-websites-to-find-datasets-for-your-next-ds-project/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Artificial Intelligence, AWS, Beginner, Cloud Computing, Data Engineering, Datasets, Deep Learning, Education, Github, Machine Learning",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "Get to know about the 10 Best Data Science Websites from where you can get the various ML or DL related datasets.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/AdobeStock_110405490-Converted-1450x540-1.jpg"
+        },
+        {
+            "id": 3130,
+            "title": "RFM and CLTV to Know Your Customers Better",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/rfm-and-cltv-to-know-your-customers-better/",
+            "authors": "Hokay",
+            "tags": "Intermediate, Model Deployment, Python, python",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "This article will walk you through how to use Pandas and Lifetimes modules to perform RFM and CLTV analyses in Python.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/11/istock_000025208346small.jpg"
+        },
+        {
+            "id": 3131,
+            "title": "HuggingFace Transformer Model Using Amazon Sagemaker",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/",
+            "authors": "Deepak Moonat",
+            "tags": "Deep Learning, MLops, NLP, PyTorch",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "In this article, you will learn how to use Amazon Sagemaker to train and deploy a HuggingFace Transformer Model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/Screenshot-2022-01-05-at-4.22.51-PM.png"
+        },
+        {
+            "id": 3132,
+            "title": "Hugging Face Transformers Pipeline Functions | Advanced NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/hugging-face-transformers-pipeline-functions-advanced-nlp/",
+            "authors": "Deepak Moonat",
+            "tags": "Advanced, Deep Learning, NLP",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "This blog post will learn how to use the hugging face transformers functions to perform prolonged Natural Language Processing tasks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/transformer_feat_img.png"
+        },
+        {
+            "id": 3133,
+            "title": "Multiple Time Series Model Using Apache Spark and Facebook Prophet",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/apache-spark-and-facebook-prophet/",
+            "authors": "Raghav Agrawal",
+            "tags": "Data Visualization, Datasets, Machine Learning, Time Series",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "In this article, we will focus on how you can distribute your data using Apache Spark and Facebook Prophet.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/8-Must-Know-Spark-Optimization-Tips-for-Data-Engineering-Beginners-.jpg"
+        },
+        {
+            "id": 3134,
+            "title": "Build a Trustworthy Model with Explainable AI",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/build-a-trustworthy-model-with-explainable-ai/",
+            "authors": "Sarbani Maiti",
+            "tags": "Artificial Intelligence, Data Science, Data Visualization, Graphs & Networks",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "Explainable AI researchers must explain the behaviour of the model so the consumers understand why certain predictions are made by the AI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/67979AI.jpg"
+        },
+        {
+            "id": 3135,
+            "title": "Writing Test Cases for Machine Learning systems",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/writing-test-cases-for-machine-learning/",
+            "authors": "Khushee Upadhyay",
+            "tags": "Datasets, Machine Learning, NLP, Text",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "In this article, we will understand how test cases in machine learning systems are different from testing traditional software systems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ebook_machine_learning_starter_program.jpg"
+        },
+        {
+            "id": 3136,
+            "title": "ETL Pipeline using Shell Scripting",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/etl-pipeline-using-shell-scripting-data-pipeline/",
+            "authors": "LAVANYA S",
+            "tags": "Beginner, Data Engineering, Guide, MLops, Programming",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "In this blog, you will learn about how shell scripting can implement an ETL pipeline, how ETL tasks can be scheduled using shell scripting.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 3137,
+            "title": "Moments \u2013 A Must Known Statistical Concept for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/moments-a-must-known-statistical-concept-for-data-science/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "This article was published as a part of the Data Science Blogathon.\u00a0 Introduction Statistical Moments plays a crucial role while we specify our probability distribution to\u00a0work with since, with the help of moments, we can describe the properties of statistical\u00a0distribution. Therefore, they are helpful to describe the distribution. In Statistical Estimation and Testing of Hypothesis, [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74092Stat1.png"
+        },
+        {
+            "id": 3138,
+            "title": "Four of the easiest and most effective methods to Extract Keywords from a Single Text using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/four-of-the-easiest-and-most-effective-methods-of-keyword-extraction-from-a-single-text-using-python/",
+            "authors": "Ali Mansour",
+            "tags": "Beginner, Listicle, NLP, Python, Text",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "We will introduce you to four methods of keyword extraction from a single text, which are Rake, Yake, Keybert and Textrank",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image2.png"
+        },
+        {
+            "id": 3139,
+            "title": "From Word Embedding to Documents Embedding without any Training",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/from-word-embedding-to-documents-embedding-without-any-training/",
+            "authors": "Ali Mansour",
+            "tags": "Advanced, Machine Learning, NLP, Python, Text",
+            "publishedOn": "2022-01-05T00:00:00",
+            "description": "In this article we will see how to perform Word Embedding to Documents Embedding without any training and see how to classify documents",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/word-embedding.jpg"
+        },
+        {
+            "id": 3140,
+            "title": "All You Need to Know about Recommendation Systems",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/all-you-need-to-know-about-recommendation-systems/",
+            "authors": "Shivam Baldha",
+            "tags": "Algorithm, Data Science, Datasets, Machine Learning",
+            "publishedOn": "2022-01-04T00:00:00",
+            "description": "Recommendation systems are an integral part of our lives. In amazon, roughly 35% of revenue generation is done by a Recommendation system.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/08/recommendation-engines.jpg"
+        },
+        {
+            "id": 3141,
+            "title": "Diabetes Prediction Using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/diabetes-prediction-using-machine-learning/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Algorithm, Datasets, Healthcare, Machine Learning",
+            "publishedOn": "2022-01-04T00:00:00",
+            "description": "This article is about Diabetes Prediction where we will predict if the patient has diabetes, we will use four algorithms to find it out.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/46852Doctor-in-Futuristic-Diagnostic-Room.jpg"
+        },
+        {
+            "id": 3142,
+            "title": "Knowledge Distillation: Theory and End to End Case Study",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/knowledge-distillation-theory-and-end-to-end-case-study/",
+            "authors": "Vijendra.1893",
+            "tags": "Datasets, Deep Learning, Graph Theory",
+            "publishedOn": "2022-01-04T00:00:00",
+            "description": "This article talks about implementation\u00a0on a business problem to classify x-ray images for pneumonia detection.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2014/08/Knowledge-is-Power.jpg"
+        },
+        {
+            "id": 3143,
+            "title": "Building Language Models in NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/01/building-language-models-in-nlp/",
+            "authors": "Koushiki Dasgupta Chaudhuri",
+            "tags": "Beginner, Model Deployment, NLP, Project",
+            "publishedOn": "2022-01-03T00:00:00",
+            "description": "Building language models in NLP is a probabilistic statistical model that determines the probability of a given sequence of words.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/language_model.png"
+        }
+    ]
+}

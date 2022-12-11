@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6984,
+            "title": "How to calculate shapley values from scratch",
+            "url": "https://www.depends-on-the-definition.com/shapley-values-from-scratch/",
+            "authors": null,
+            "tags": "Xai, Algorithms, From-scratch",
+            "publishedOn": "2022-07-19T00:00:00",
+            "description": "The shapley value is a popular and useful method to explain machine learning models. The shapley value of a feature is the average contribution of a feature value to the prediction. In this article I\u2019ll show you how to compute shapley values from scratch.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/shapley-values-from-scratch_files/shapley-values.png"
+        },
+        {
+            "id": 6985,
+            "title": "How to add new tokens to huggingface transformers vocabulary",
+            "url": "https://www.depends-on-the-definition.com/how-to-add-new-tokens-to-huggingface-transformers/",
+            "authors": null,
+            "tags": "Nlp, Shorts",
+            "publishedOn": "2022-05-12T00:00:00",
+            "description": "In this short article, you\u2019ll learn how to add new tokens to the vocabulary of a huggingface transformer model.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6986,
+            "title": "How to test error messages with pytest",
+            "url": "https://www.depends-on-the-definition.com/test-error-messages-with-pytest/",
+            "authors": null,
+            "tags": "Engineering, Shorts",
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "In this short article, you will learn, how and when to test the error message of an exception with pytest.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/test-error-messages-with-pytest/test-error-messages-with-pytest.png"
+        },
+        {
+            "id": 6987,
+            "title": "Learning unsupervised embeddings for textual similarity with transformers",
+            "url": "https://www.depends-on-the-definition.com/unsupervised-text-embeddings-with-transformers/",
+            "authors": null,
+            "tags": "Nlp, Algorithms",
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "In this article, we look at SimCSE, a simple contrastive sentence embedding framework, which can be used to produce superior sentence embeddings, from either unlabeled or labeled data. The idea behind the unsupervised SimCSE is to simply predicts the input sentence itself, with only dropout used as noise.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/unsupervised-text-embeddings-with-transformers/unsupervised_simcse.png"
+        },
+        {
+            "id": 6988,
+            "title": "The missing guide on data preparation for language modeling",
+            "url": "https://www.depends-on-the-definition.com/missing-guide-on-data-preparation-for-language-modeling/",
+            "authors": null,
+            "tags": "Nlp, Engineering",
+            "publishedOn": "2020-09-25T00:00:00",
+            "description": "Language models gained popularity in NLP in the recent years. Sometimes you might have enough data and want to train a language model like BERT or RoBERTa from scratch. While there are many tutorials about tokenization and on how to train the model, there is not much information about how to load the data into the model. This guide aims to close this gap.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/missing-guide-on-data-preparation-for-language-modeling_files/language_model_input.png"
+        },
+        {
+            "id": 6989,
+            "title": "Data augmentation with transformer models for named entity recognition",
+            "url": "https://www.depends-on-the-definition.com/data-augmentation-with-transformers/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Machine learning",
+            "publishedOn": "2020-08-23T00:00:00",
+            "description": "In this article we sample from pre-trained transformers to augment small, labeled text datasets for named entity recognition.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/data-augmentation-with-transformers_files/data_augmentation.png"
+        },
+        {
+            "id": 6990,
+            "title": "How to approach almost any real-world NLP problem",
+            "url": "https://www.depends-on-the-definition.com/how-to-approach-nlp/",
+            "authors": null,
+            "tags": "Nlp, Machine learning",
+            "publishedOn": "2020-07-07T00:00:00",
+            "description": "This time, I\u2019m going to talk about how to approach general NLP problems. But we\u2019re not going to look at the standard tips which are tosed around on the internet, for example on platforms like kaggle.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/how-to-approach-nlp_files/FindMatrik-BaselineModel-Understand-Visualize_cropped.png"
+        },
+        {
+            "id": 6991,
+            "title": "Data validation for NLP applications with topic models",
+            "url": "https://www.depends-on-the-definition.com/data-validation-with-topic-models/",
+            "authors": null,
+            "tags": "Data quality, Engineering, Nlp, Machine learning",
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "In a recent article, we saw how to implement a basic validation pipeline for text data. Once a machine learning model has been deployed its behavior must be monitored. The predictive performance is expected to degrade over time as the environment changes.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/data-validation-with-topic-models_files/validation_pipeline.png"
+        },
+        {
+            "id": 6992,
+            "title": "Latent Dirichlet allocation from scratch",
+            "url": "https://www.depends-on-the-definition.com/lda-from-scratch/",
+            "authors": null,
+            "tags": "Nlp, Algorithms, From-scratch",
+            "publishedOn": "2020-05-20T00:00:00",
+            "description": "Today, I\u2019m going to talk about topic models in NLP. Specifically we will see how the Latent Dirichlet Allocation model works and we will implement it from scratch in numpy.\nWhat is a topic model? Assume we are given a large collections of documents.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/lda-from-scratch_files/topic-model.png"
+        },
+        {
+            "id": 6993,
+            "title": "Data validation for NLP machine learning applications",
+            "url": "https://www.depends-on-the-definition.com/data-validation-for-nlp/",
+            "authors": null,
+            "tags": "Data quality, Engineering, Nlp, Machine learning",
+            "publishedOn": "2020-01-30T00:00:00",
+            "description": "An important part of machine learning applications, is making sure that there is no data degeneration while a model is in production. Sometimes downstream data processing changes and machine learning models are very prone to silent failure due to this.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6994,
+            "title": "Find label issues with confident learning for NLP",
+            "url": "https://www.depends-on-the-definition.com/confident-learning-for-nlp/",
+            "authors": null,
+            "tags": "Data quality, Nlp, Algorithms, Machine learning",
+            "publishedOn": "2020-01-21T00:00:00",
+            "description": "In every machine learning project, the training data is the most valuable part of your system. In many real-world machine learning projects the largest gains in performance come from improving training data quality. Training data is often hard to aquire and since the data can be large, quality can be hard to check.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/confident-learning-for-nlp_files/confident_learning_digram_final.jpg"
+        },
+        {
+            "id": 6995,
+            "title": "How explainable AI fails and what to do about it",
+            "url": "https://www.depends-on-the-definition.com/how-explainable-ai-fails-and-what-to-do-about-it/",
+            "authors": null,
+            "tags": "Xai",
+            "publishedOn": "2019-12-28T00:00:00",
+            "description": "This article heavily relys on \"Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead\" by Cynthia Rudin and finally on some of my personal experiences. I will mainly focus on technical issues and leave out most of the governance and ethics related issues that derive from these.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6996,
+            "title": "How the LIME algorithm fails",
+            "url": "https://www.depends-on-the-definition.com/how-the-lime-algorithm-fails/",
+            "authors": null,
+            "tags": "Algorithms, Nlp, Xai",
+            "publishedOn": "2019-12-10T00:00:00",
+            "description": "You maybe know the LIME algorithm from some of my earlier blog posts. It can be quite useful to \u201cdebug\u201d data sets and understand machine learning models better. But LIME is fooled very easily.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6997,
+            "title": "Cluster discovery in german recipes",
+            "url": "https://www.depends-on-the-definition.com/cluster-discovery/",
+            "authors": null,
+            "tags": "Machine learning, Nlp, Algorithms",
+            "publishedOn": "2019-11-24T00:00:00",
+            "description": "If you are dealing with a large collections of documents, you will often find yourself in the situation where you are looking for some structure and understanding what is contained in the documents. Here I\u2019ll show you a convenient method for discovering and understanding clusters of text documents.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6998,
+            "title": "That was PyCon DE & PyData Berlin 2019",
+            "url": "https://www.depends-on-the-definition.com/pycon-pydata-berlin-2019/",
+            "authors": null,
+            "tags": "Conference",
+            "publishedOn": "2019-10-15T00:00:00",
+            "description": "Last weekendPyCon DE and PyData Berlin joined in Berlin for a great conference event that I was lucky to attend. The speaker line-up was great and often it was hard to choose which talk or tutorial to attend.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 6999,
+            "title": "Model uncertainty in deep learning with Monte Carlo dropout in keras",
+            "url": "https://www.depends-on-the-definition.com/model-uncertainty-in-deep-learning-with-monte-carlo-dropout/",
+            "authors": null,
+            "tags": "Computer vision, Algorithms, Deep learning",
+            "publishedOn": "2019-08-05T00:00:00",
+            "description": "Deep learning models have shown amazing performance in a lot of fields such as autonomous driving, manufacturing, and medicine, to name a few. However, these are fields in which representing model uncertainty is of crucial importance.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7000,
+            "title": "Interpretable named entity recognition with keras and LIME",
+            "url": "https://www.depends-on-the-definition.com/interpretable-named-entity-recognition/",
+            "authors": null,
+            "tags": "Named entity recognition, Xai, Nlp, Deep learning",
+            "publishedOn": "2019-06-08T00:00:00",
+            "description": "In the previous posts, we saw how to build strong and versatile named entity recognition systems and how to properly evaluate them. But often you want to understand your model beyond the metrics. So in this tutorial I will show you how you can build an explainable and interpretable NER system with keras and the LIME algorithm.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7001,
+            "title": "Introduction to entity embeddings with neural networks",
+            "url": "https://www.depends-on-the-definition.com/introduction-to-embeddings-with-neural-networks/",
+            "authors": null,
+            "tags": "Machine learning, Nlp, Deep learning",
+            "publishedOn": "2019-04-14T00:00:00",
+            "description": "Since a lot of people recently asked me how neural networks learn the embeddings for categorical variables, for example words, I\u2019m going to write about it today. You all might have heard about methods like word2vec for creating dense vector representation of words in an unsupervised way.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7002,
+            "title": "Introduction to n-gram language models",
+            "url": "https://www.depends-on-the-definition.com/introduction-n-gram-language-models/",
+            "authors": null,
+            "tags": "Algorithms, Nlp",
+            "publishedOn": "2019-04-07T00:00:00",
+            "description": "You might have heard, that neural language models power a lot of the recent advances in natural language processing. Namely large models like Bert and GPT-2. But there is a fairly old approach to language modeling that is quite successful in a way.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7003,
+            "title": "Learn to identify ingredients with neural networks",
+            "url": "https://www.depends-on-the-definition.com/identify-ingredients-with-neural-networks/",
+            "authors": null,
+            "tags": "Kaggle, Nlp, Deep learning",
+            "publishedOn": "2019-03-08T00:00:00",
+            "description": "Today we want to build a model, that can identify ingredients in cooking recipes. I use the \u201cGerman Recipes Dataset\u201d, I recently published on kaggle. We have more than 12000 German recipes and their ingredients list.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7004,
+            "title": "How to use magnitude with keras",
+            "url": "https://www.depends-on-the-definition.com/how-to-magnitude-with-keras/",
+            "authors": null,
+            "tags": "Machine learning, Algorithms, Nlp, Deep learning",
+            "publishedOn": "2019-02-12T00:00:00",
+            "description": "This time we have a look into the magnitude library, a feature-packed Python package and vector storage file format for utilizing vector embeddings in machine learning models in a fast, efficient, and simple manner developed by Plasticity.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7005,
+            "title": "Text analysis with named entity recognition",
+            "url": "https://www.depends-on-the-definition.com/text-analysis-with-named-entities/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp",
+            "publishedOn": "2018-12-26T00:00:00",
+            "description": "This is the second post of my series about understanding text datasets. If you read my blog regularly, you probably noticed quite some posts about named entity recognition. In this posts, we focused on finding the named entities and explored different techniques to do this.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7006,
+            "title": "Named entity recognition with Bert",
+            "url": "https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Deep learning",
+            "publishedOn": "2018-12-10T00:00:00",
+            "description": "In 2018 we saw the rise of pretraining and finetuning in natural language processing. Large neural networks have been trained on general tasks like language modeling and then fine-tuned for classification tasks. One of the latest milestones in this development is the release of BERT.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/named-entity-recognition-with-bert_files/bert-input-output.png"
+        },
+        {
+            "id": 7007,
+            "title": "Understanding text data with topic models",
+            "url": "https://www.depends-on-the-definition.com/understanding-text-data-with-topic-models/",
+            "authors": null,
+            "tags": "Kaggle, Nlp, Algorithms",
+            "publishedOn": "2018-11-24T00:00:00",
+            "description": "This is the first post of my series about understanding text datasets. A lot of the current NLP progress is made in predictive performance. But in practice, you often want and need to know, what is going on in your dataset.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7008,
+            "title": "LSTM with attention for relation classification",
+            "url": "https://www.depends-on-the-definition.com/attention-lstm-relation-classification/",
+            "authors": null,
+            "tags": "Nlp, Deep learning",
+            "publishedOn": "2018-09-19T00:00:00",
+            "description": "Once named entities have been identified in a text, we then want to extract the relations that exist between them. As indicated earlier, we will typically be looking for relations between specified types of named entity.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7009,
+            "title": "Evaluate sequence models in python",
+            "url": "https://www.depends-on-the-definition.com/evaluate-sequence-models/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp",
+            "publishedOn": "2018-08-24T00:00:00",
+            "description": "An important part of every machine learning project is the proper evaluation of the performance of the system. In this post we will talk about evaluation of token-based sequence models. This is especially tricky because:",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7010,
+            "title": "Image segmentation with test time augmentation with keras",
+            "url": "https://www.depends-on-the-definition.com/test-time-augmentation-keras/",
+            "authors": null,
+            "tags": "Computer vision, Kaggle, Deep learning",
+            "publishedOn": "2018-08-09T00:00:00",
+            "description": "In the last post, I introduced the U-Net model for segmenting salt depots in seismic images. This time, we will see how to improve the model by data augmentation and especially test time augmentation (TTA). You will learn how to use data augmentation with segmentation masks and what test time augmentation is and how to use it in keras.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7011,
+            "title": "U-Net for segmenting seismic images with keras",
+            "url": "https://www.depends-on-the-definition.com/unet-keras-segmenting-images/",
+            "authors": null,
+            "tags": "Computer vision, Kaggle, Deep learning",
+            "publishedOn": "2018-07-26T00:00:00",
+            "description": "Today I\u2019m going to write about a kaggle competition I started working on recently. In the TGS Salt Identification Challenge, you are asked to segment salt deposits beneath the Earth\u2019s surface. So we are given a set of seismic images that are $101 \\times 101$ pixels each and each pixel is classified as either salt or sediment.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7012,
+            "title": "State-of-the-art named entity recognition with residual LSTM and ELMo",
+            "url": "https://www.depends-on-the-definition.com/named-entity-recognition-with-residual-lstm-and-elmo/",
+            "authors": null,
+            "tags": "Named entity recognition, Nlp, Deep learning",
+            "publishedOn": "2018-07-01T00:00:00",
+            "description": "This is the sixth post in my series about named entity recognition. This time I\u2019m going to show you some cutting edge stuff. We will use a residual LSTM network together with ELMo embeddings, developed at Allen NLP. You will learn how to wrap a tensorflow hub pre-trained model to work with keras. The resulting model with give you state-of-the-art performance on the named entity recognition task.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/mstile-150x150.png"
+        },
+        {
+            "id": 7013,
+            "title": "Debugging black-box text classifiers with LIME",
+            "url": "https://www.depends-on-the-definition.com/debugging-black-box-text-classifiers-with-lime/",
+            "authors": null,
+            "tags": "Algorithms, Nlp, Xai, From-scratch",
+            "publishedOn": "2018-06-02T00:00:00",
+            "description": "Often in text classification, we use so called black-box classifiers. By black-box classifiers I mean a classification system where the internal workings are completely hidden from you. A famous example are deep neural nets, in text classification often recurrent or convolutional neural nets.",
+            "thumbnail": "https://www.depends-on-the-definition.com/images/debugging-black-box-text-classifiers-with-lime/lime.png"
+        }
+    ]
+}

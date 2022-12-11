@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15094,
+            "title": "Training a Single Output Multilinear Regression Model in PyTorch",
+            "url": "https://machinelearningmastery.com/training-a-single-output-multilinear-regression-model-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-10T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 15084,
+            "title": "How do you generate synthetic data for machine learning and why do you need it?",
+            "url": "https://machinelearningmastery.com/mostly-generate-synethetic-data-machine-learning-why/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 15087,
+            "title": "Making Predictions with Multilinear Regression in PyTorch",
+            "url": "https://machinelearningmastery.com/making-predictions-with-multilinear-regression-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-09T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 15075,
+            "title": "Training and Validation Data in PyTorch",
+            "url": "https://machinelearningmastery.com/training-and-validation-data-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-08T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 15060,
+            "title": "Using Optimizers from PyTorch",
+            "url": "https://machinelearningmastery.com/using-optimizers-from-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-07T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 15058,
+            "title": "Mini-Batch Gradient Descent and DataLoader in PyTorch",
+            "url": "https://machinelearningmastery.com/mini-batch-gradient-descent-and-dataloader-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-12-02T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 14966,
+            "title": "Implementing Gradient Descent in PyTorch",
+            "url": "https://machinelearningmastery.com/implementing-gradient-descent-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "The gradient descent algorithm is one of the most popular techniques for training deep neural networks. It has many applications in fields such as computer vision, speech recognition, and natural language processing. While the idea of gradient descent has been around for decades, it\u2019s only recently that it\u2019s been applied to applications related to deep [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/michael-behrens-DA-iYgv8kjE-unsplash-scaled.jpg"
+        },
+        {
+            "id": 14964,
+            "title": "Training a Linear Regression Model in PyTorch",
+            "url": "https://machinelearningmastery.com/training-a-linear-regression-model-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "Linear regression is a simple yet powerful technique for predicting the values of variables based on other variables. It is often used for modeling relationships between two or more continuous variables, such as the relationship between income and age, or the relationship between weight and height. Likewise, linear regression can be used to predict continuous [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/ryan-tasto-chbXE4o0ryU-unsplash-scaled.jpg"
+        },
+        {
+            "id": 14954,
+            "title": "Making Linear Predictions in PyTorch",
+            "url": "https://machinelearningmastery.com/making-linear-predictions-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-24T00:00:00",
+            "description": "Linear regression is a statistical technique for estimating the relationship between two variables. A simple example of linear regression is to predict the height of someone based on the square root of the person\u2019s weight (that\u2019s what BMI is based on). To do this, we need to find the slope and intercept of the line. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/daryan-shamkhali-pMCbPPPBSkA-unsplash-scaled.jpg"
+        },
+        {
+            "id": 14896,
+            "title": "Loading and Providing Datasets in PyTorch",
+            "url": "https://machinelearningmastery.com/loading-and-providing-datasets-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-19T00:00:00",
+            "description": "Structuring the data pipeline in a way that it can be effortlessly linked to your deep learning model is an important aspect of any deep learning-based system. PyTorch packs everything to do just that. While in the previous tutorial, we used simple datasets, we\u2019ll need to work with larger datasets in real world scenarios in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/uriel-sc-11KDtiUWRq4-unsplash-scaled.jpg"
+        },
+        {
+            "id": 14897,
+            "title": "Using Dataset Classes in PyTorch",
+            "url": "https://machinelearningmastery.com/using-dataset-classes-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "In machine learning and deep learning problems, a lot of effort goes into preparing the data. Data is usually messy and needs to be preprocessed before it can be used for training a model. If the data is not prepared correctly, the model won\u2019t be able to generalize well. Some of the common steps required [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/nasa-1lfI7wkGWZ4-unsplash.jpg"
+        },
+        {
+            "id": 8493,
+            "title": "Calculating Derivatives in PyTorch",
+            "url": "https://machinelearningmastery.com/calculating-derivatives-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-12T00:00:00",
+            "description": "Derivatives are one of the most fundamental concepts in calculus. They describe how changes in the variable inputs affect the function outputs. The objective of this article is to provide a high-level introduction to calculating derivatives in PyTorch for those who are new to the framework. PyTorch offers a convenient way to calculate derivatives for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/01/jossuha-theophile-H-CZjCQfsFw-unsplash.jpg"
+        },
+        {
+            "id": 8494,
+            "title": "Two-Dimensional Tensors in Pytorch",
+            "url": "https://machinelearningmastery.com/two-dimensional-tensors-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-10T00:00:00",
+            "description": "Two-dimensional tensors are analogous to two-dimensional metrics. Like a two-dimensional metric, a two-dimensional tensor also has $n$ number of rows and columns. Let\u2019s take a gray-scale image as an example, which is a two-dimensional matrix of numeric values, commonly known as pixels. Ranging from \u20180\u2019 to \u2018255\u2019, each number represents a pixel intensity value. Here, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/01/dylan-nolte-NIrgENd0sAY-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8495,
+            "title": "One-Dimensional Tensors in Pytorch",
+            "url": "https://machinelearningmastery.com/one-dimensional-tensors-in-pytorch/",
+            "authors": "Muhammad Asad Iqbal Khan",
+            "tags": "Deep Learning with PyTorch",
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "PyTorch is an open-source deep learning framework based on Python language. It allows you to build, train, and deploy deep learning models, offering a lot of versatility and efficiency. PyTorch is primarily focused on tensor operations while a tensor can be a number, matrix, or a multi-dimensional array. In this tutorial, we will perform some [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/12/jo-szczepanska-9OKGEVJiTKk-unsplash.jpg"
+        },
+        {
+            "id": 8496,
+            "title": "365 Data Science courses free until November 21",
+            "url": "https://machinelearningmastery.com/365-data-science-courses-free-until-november-21/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Sponsored Post \u00a0 The unlimited access initiative presents a risk-free way to break into data science. \u00a0 \u00a0 The online educational platform 365 Data Science launches the #21DaysFREE campaign and provides 100% free unlimited access to all content for three weeks. From November 1 to 21, you can take courses from renowned instructors and earn [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/11/mlm-365ds-20221102-1.jpg"
+        },
+        {
+            "id": 8497,
+            "title": "Attend the Data Science Symposium 2022, November 8 in Cincinnati",
+            "url": "https://machinelearningmastery.com/uccsb-data-science-symposium-2022-cincinnati/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0\u00a0 Attend the Data Science Symposium 2022 on November 8 The Center for Business Analytics at the University of Cincinnati will present its annual Data Science Symposium 2022 on November 8.\u00a0This all day in-person event will have three featured speakers and two tech talk tracks with four concurrent presentations in each track.\u00a0The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/mlm-uccsb-221018.png"
+        },
+        {
+            "id": 8498,
+            "title": "A Brief Introduction to BERT",
+            "url": "https://machinelearningmastery.com/a-brief-introduction-to-bert/",
+            "authors": "Adrian Tam",
+            "tags": "Attention",
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "As we learned what a Transformer is and how we might train the Transformer model, we notice that it is a great tool to make a computer understand human language. However, the Transformer was originally designed as a model to translate one language to another. If we repurpose it for a different task, we would [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/samet-erkoseoglu-B0nUaoWnr0M-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8499,
+            "title": "Data Engineering for ML: Optimize for Cost Efficiency",
+            "url": "https://machinelearningmastery.com/sphere-data-engineering-ml-optimize-cost-efficiency/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0 Over the past few years, a lot has changed in the world of stream processing systems. This is especially true as companies manage larger amounts of data than ever before.\u00a0 In fact, roughly 2.5 quintiliion bytes worth of data are generated every day. Manually processing the sheer amount of data that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/sphere-221027.png"
+        },
+        {
+            "id": 8500,
+            "title": "Interactive Machine Learning Live Course with Dr. Kirk Borne",
+            "url": "https://machinelearningmastery.com/interactive-machine-learning-live-course-kirk-borne/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0 Apply now to join Dr. Kirk Borne\u2019s live interactive course, starting on November 28.\u00a0 Explore Machine Learning Live with hands-on labs and real world applications with Dr. Kirk Borne, ex-NASA Scientist and former Principal Data Scientist at Booz Allen Hamilton. He was also a professor of Astrophysics and Computational Science at [\u2026]",
+            "thumbnail": "https://www.kdnuggets.com/wp-content/uploads/mentor-221020.jpg"
+        },
+        {
+            "id": 8501,
+            "title": "Inferencing the Transformer Model",
+            "url": "https://machinelearningmastery.com/inferencing-the-transformer-model/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-20T00:00:00",
+            "description": "We have seen how to train the Transformer model on a dataset of English and German sentence pairs and how to plot the training and validation loss curves to diagnose the model\u2019s learning performance and decide at which epoch to run inference on the trained model. We are now ready to run inference on the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/karsten-wurth-algc0FKHeMA-unsplash-scaled.jpg"
+        },
+        {
+            "id": 8502,
+            "title": "Plotting the Training and Validation Loss Curves for the Transformer Model",
+            "url": "https://machinelearningmastery.com/plotting-the-training-and-validation-loss-curves-for-the-transformer-model/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-19T00:00:00",
+            "description": "We have previously seen how to train the Transformer model for neural machine translation. Before moving on to inferencing the trained model, let us first explore how to modify the training code slightly to be able to plot the training and validation loss curves that can be generated during the learning process.\u00a0 The training and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/training_validation_loss_cover.jpg"
+        },
+        {
+            "id": 8503,
+            "title": "Attend the Data Science Symposium 2022",
+            "url": "https://machinelearningmastery.com/uccsb-attend-data-science-symposium-2022/",
+            "authors": "MLM Team",
+            "tags": "Partners",
+            "publishedOn": "2022-10-19T00:00:00",
+            "description": "Sponsored Post \u00a0 \u00a0\u00a0 Attend the Data Science Symposium 2022 on November 8 The Center for Business Analytics at the University of Cincinnati will present its annual Data Science Symposium 2022 on November 8.\u00a0This all day in-person event will have three featured speakers and two tech talk tracks with four concurrent presentations in each track.\u00a0The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/10/mlm-uccsb-221018.png"
+        },
+        {
+            "id": 8504,
+            "title": "Training the Transformer Model",
+            "url": "https://machinelearningmastery.com/training-the-transformer-model/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-13T00:00:00",
+            "description": "We have put together the complete Transformer model, and now we are ready to train it for neural machine translation. We shall use a training dataset for this purpose, which contains short English and German sentence pairs. We will also revisit the role of masking in computing the accuracy and loss metrics during the training [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/05/training_cover-scaled.jpg"
+        },
+        {
+            "id": 8505,
+            "title": "Joining the Transformer Encoder and Decoder Plus Masking",
+            "url": "https://machinelearningmastery.com/joining-the-transformer-encoder-and-decoder-and-masking/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-10T00:00:00",
+            "description": "We have arrived at a point where we have implemented and tested the Transformer encoder and decoder separately, and we may now join the two together into a complete model. We will also see how to create padding and look-ahead masks by which we will suppress the input values that will not be considered in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/04/model_cover-scaled.jpg"
+        },
+        {
+            "id": 8506,
+            "title": "Implementing the Transformer Decoder from Scratch in TensorFlow and Keras",
+            "url": "https://machinelearningmastery.com/implementing-the-transformer-decoder-from-scratch-in-tensorflow-and-keras/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-07T00:00:00",
+            "description": "There are many similarities between the Transformer encoder and decoder, such as their implementation of multi-head attention, layer normalization, and a fully connected feed-forward network as their final sub-layer. Having implemented the Transformer encoder, we will now go ahead and apply our knowledge in implementing the Transformer decoder as a further step toward implementing the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/decoder_cover-scaled.jpg"
+        },
+        {
+            "id": 8507,
+            "title": "Implementing the Transformer Encoder from Scratch in TensorFlow and Keras",
+            "url": "https://machinelearningmastery.com/implementing-the-transformer-encoder-from-scratch-in-tensorflow-and-keras/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-05T00:00:00",
+            "description": "Having seen how to implement the scaled dot-product attention\u00a0and integrate it within the multi-head attention of the Transformer model, let\u2019s progress one step further toward implementing a complete Transformer model by applying its encoder. Our end goal remains to apply the complete model to Natural Language Processing (NLP). In this tutorial, you will discover how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/encoder_cover-scaled.jpg"
+        },
+        {
+            "id": 8508,
+            "title": "The Vision Transformer Model",
+            "url": "https://machinelearningmastery.com/the-vision-transformer-model/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-10-03T00:00:00",
+            "description": "With the Transformer architecture revolutionizing the implementation of attention, and achieving very promising results in the natural language processing domain, it was only a matter of time before we could see its application in the computer vision domain too. This was eventually achieved with the implementation of the Vision Transformer (ViT).\u00a0 In this tutorial, you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/02/vit_cover-scaled.jpg"
+        },
+        {
+            "id": 8509,
+            "title": "How to Implement Multi-Head Attention from Scratch in TensorFlow and Keras",
+            "url": "https://machinelearningmastery.com/how-to-implement-multi-head-attention-from-scratch-in-tensorflow-and-keras/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-29T00:00:00",
+            "description": "We have already familiarized ourselves with the theory behind the Transformer model and its attention mechanism. We have already started our journey of implementing a complete model by seeing how to implement the scaled-dot product attention. We shall now progress one step further into our journey by encapsulating the scaled-dot product attention into a multi-head [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/multihead_cover-scaled.jpg"
+        },
+        {
+            "id": 8510,
+            "title": "How to Implement Scaled Dot-Product Attention from Scratch in TensorFlow and Keras",
+            "url": "https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/",
+            "authors": "Stefania Cristina",
+            "tags": "Attention",
+            "publishedOn": "2022-09-26T00:00:00",
+            "description": "Having familiarized ourselves with the theory behind the Transformer model and its attention mechanism, we\u2019ll start our journey of implementing a complete Transformer model by first seeing how to implement the scaled-dot product attention. The scaled dot-product attention is an integral part of the multi-head attention, which, in turn, is an important component of both [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/03/dotproduct_cover.jpg"
+        },
+        {
+            "id": 8511,
+            "title": "The Transformer Positional Encoding Layer in Keras, Part 2",
+            "url": "https://machinelearningmastery.com/the-transformer-positional-encoding-layer-in-keras-part-2/",
+            "authors": "Mehreen Saeed",
+            "tags": "Attention",
+            "publishedOn": "2022-09-23T00:00:00",
+            "description": "Understand and implement the positional encoding layer in Keras and Tensorflow by subclassing the Embedding layer",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2022/02/ijaz-rafi-photo-1551102076-9f8bb5f3f897.jpg"
+        }
+    ]
+}

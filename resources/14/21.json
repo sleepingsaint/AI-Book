@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9112,
+            "title": "11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)",
+            "url": "https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/",
+            "authors": "Jason Brownlee",
+            "tags": "Time Series",
+            "publishedOn": "2018-08-06T00:00:00",
+            "description": "Machine learning methods can be used for classification and forecasting on time series problems. Before exploring machine learning methods for time series, it is a good idea to ensure you have exhausted classical linear time series forecasting methods. Classical time series forecasting methods may be focused on linear relationships, nevertheless, they are sophisticated and perform [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/11-Classical-Time-Series-Forecasting-Methods-in-Python-Cheat-Sheet.jpg"
+        },
+        {
+            "id": 9113,
+            "title": "Statistics for Machine Learning (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/statistics-for-machine-learning-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-08-03T00:00:00",
+            "description": "Statistics for Machine Learning Crash Course. Get on top of the statistics used in machine learning in 7 Days. Statistics is a field of mathematics that is universally agreed to be a prerequisite for a deeper understanding of machine learning. Although statistics is a large field with many esoteric theories and findings, the nuts and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/08/Statistics-for-Machine-Learning-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 9114,
+            "title": "How to Code the Student\u2019s t-Test from Scratch in Python",
+            "url": "https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-30T00:00:00",
+            "description": "Perhaps one of the most widely used statistical hypothesis tests is the Student\u2019s t test. Because you may use this test yourself someday, it is important to have a deep understanding of how the test works. As a developer, this understanding is best achieved by implementing the hypothesis test yourself from scratch. In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/How-to-Code-the-Students-t-Test-from-Scratch-in-Python.jpg"
+        },
+        {
+            "id": 9115,
+            "title": "How to Configure the Number of Layers and Nodes in a Neural Network",
+            "url": "https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning Performance",
+            "publishedOn": "2018-07-27T00:00:00",
+            "description": "Artificial neural networks have two main hyperparameters that control the architecture or topology of the network: the number of layers and the number of nodes in each hidden layer. You must specify values for these parameters when configuring your network. The most reliable way to configure these hyperparameters for your specific predictive modeling problem is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/How-to-Configure-the-Number-of-Layers-and-Nodes-in-a-Neural-Network.jpg"
+        },
+        {
+            "id": 9116,
+            "title": "How to Calculate McNemar\u2019s Test to Compare Two Machine Learning Classifiers",
+            "url": "https://machinelearningmastery.com/mcnemars-test-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-25T00:00:00",
+            "description": "The choice of a statistical hypothesis test is a challenging open problem for interpreting machine learning results. In his widely cited 1998 paper, Thomas Dietterich recommended the McNemar\u2019s test in those cases where it is expensive or impractical to train multiple copies of classifier models. This describes the current situation with deep learning models that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/How-to-Calculate-McNemars-Test-for-Two-Machine-Learning-Classifiers.jpg"
+        },
+        {
+            "id": 9117,
+            "title": "The Role of Randomization to Address Confounding Variables in Machine Learning",
+            "url": "https://machinelearningmastery.com/confounding-variables-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-18T00:00:00",
+            "description": "A large part of applied machine learning is about running controlled experiments to discover what algorithm or algorithm configuration to use on a predictive modeling problem. A challenge is that there are aspects of the problem and the algorithm called confounding variables that cannot be controlled (held constant) and must be controlled-for. An example is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/The-Role-of-Randomization-to-Address-Confounding-Variables-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9118,
+            "title": "All of Statistics for Machine Learning",
+            "url": "https://machinelearningmastery.com/all-of-statistics-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-16T00:00:00",
+            "description": "A foundation in statistics is required to be effective as a machine learning practitioner. The book \u201cAll of Statistics\u201d was written specifically to provide a foundation in probability and statistics for computer science undergraduates that may have an interest in data mining and machine learning. As such, it is often recommended as a book to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/All-of-Statistics-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9119,
+            "title": "A Gentle Introduction to Statistical Power and Power Analysis in Python",
+            "url": "https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-13T00:00:00",
+            "description": "The statistical power of a hypothesis test is the probability of detecting an effect, if there is a true effect present to detect. Power can be calculated and reported for a completed experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can also be [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Power-Curves-for-Students-t-Test.png"
+        },
+        {
+            "id": 9120,
+            "title": "A Gentle Introduction to Effect Size Measures in Python",
+            "url": "https://machinelearningmastery.com/effect-size-measures-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-11T00:00:00",
+            "description": "Statistical hypothesis tests report on the likelihood of the observed results given an assumption, such as no association between variables or no difference between groups. Hypothesis tests do not comment on the size of the effect if the association or difference is statistically significant. This highlights the need for standard ways of calculating and reporting [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/A-Gentle-Introduction-to-Effect-Size-Measures-in-Python.jpg"
+        },
+        {
+            "id": 9121,
+            "title": "How to Calculate Nonparametric Rank Correlation in Python",
+            "url": "https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-09T00:00:00",
+            "description": "Correlation is a measure of the association between two variables. It is easy to calculate and interpret when both variables have a well understood Gaussian distribution. When we do not know the distribution of the variables, we must use nonparametric rank correlation methods. In this tutorial, you will discover rank correlation methods for quantifying the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Scatter-Plot-of-Associated-Variables-Drawn-From-a-Uniform-Distribution.png"
+        },
+        {
+            "id": 9122,
+            "title": "Statistics in Plain English for Machine Learning",
+            "url": "https://machinelearningmastery.com/statistics-in-plain-english-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-06T00:00:00",
+            "description": "There is an ocean of books on statistics; where do you start? A big problem in choosing a beginner book on statistics is that a book may suffer one of two common problems. It may be a mathematical textbook filled with derivations, special cases, and proofs for each statistical method with little idea for the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Statistics-in-Plain-English.jpg"
+        },
+        {
+            "id": 9123,
+            "title": "How to Generate Random Numbers in Python",
+            "url": "https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-04T00:00:00",
+            "description": "The use of randomness is an important part of the configuration and evaluation of machine learning algorithms. From the random initialization of weights in an artificial neural network, to the splitting of data into random train and test sets, to the random shuffling of a training dataset in stochastic gradient descent, generating random numbers and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/How-to-Generate-Random-Numbers-in-Python.jpg"
+        },
+        {
+            "id": 9124,
+            "title": "Statistics for Evaluating Machine Learning Models",
+            "url": "https://machinelearningmastery.com/statistics-for-evaluating-machine-learning-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-07-02T00:00:00",
+            "description": "Tom Mitchell\u2019s classic 1997 book \u201cMachine Learning\u201d provides a chapter dedicated to statistical methods for evaluating machine learning models. Statistics provides an important set of tools used at each step of a machine learning project. A practitioner cannot effectively evaluate the skill of a machine learning model without using statistical methods. Unfortunately, statistics is an [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/07/Statistics-for-Evaluating-Machine-Learning-Models.jpg"
+        },
+        {
+            "id": 9125,
+            "title": "The Close Relationship Between Applied Statistics and Machine Learning",
+            "url": "https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-29T00:00:00",
+            "description": "The machine learning practitioner has a tradition of algorithms and a pragmatic focus on results and model skill above other concerns such as model interpretability. Statisticians work on much the same type of modeling problems under the names of applied statistics and statistical learning. Coming from a mathematical background, they have more of a focus [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/The-Close-Relationship-Between-Applied-Statistics-and-Machine-Learning.jpg"
+        },
+        {
+            "id": 9126,
+            "title": "What is Statistics (and why is it important in machine learning)?",
+            "url": "https://machinelearningmastery.com/what-is-statistics/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-27T00:00:00",
+            "description": "Statistics is a collection of tools that you can use to get answers to important questions about data. You can use descriptive statistical methods to transform raw observations into information that you can understand and share. You can use inferential statistical methods to reason from small samples of data to whole domains. In this post, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/A-Gentle-Introduction-to-Statistics.jpg"
+        },
+        {
+            "id": 9127,
+            "title": "10 Examples of How to Use Statistical Methods in a Machine Learning Project",
+            "url": "https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-25T00:00:00",
+            "description": "Statistics and machine learning are two very closely related fields. In fact, the line between the two can be very fuzzy at times. Nevertheless, there are methods that clearly belong to the field of statistics that are not only useful, but invaluable when working on a machine learning project. It would be fair to say [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/10-Examples-of-Where-to-Use-Statistical-Methods-in-an-Applied-Machine-Learning-Project.jpg"
+        },
+        {
+            "id": 9128,
+            "title": "Controlled Experiments in Machine Learning",
+            "url": "https://machinelearningmastery.com/controlled-experiments-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-22T00:00:00",
+            "description": "Systematic experimentation is a key part of applied machine learning. Given the complexity of machine learning methods, they resist formal analysis methods. Therefore, we must learn about the behavior of algorithms on our specific problems empirically. We do this using controlled experiments. In this tutorial, you will discover the important role that controlled experiments play [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Controlled-Experiments-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9129,
+            "title": "Statistical Significance Tests for Comparing Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-20T00:00:00",
+            "description": "Comparing machine learning methods and selecting a final model is a common operation in applied machine learning. Models are commonly evaluated using resampling methods like k-fold cross-validation from which mean skill scores are calculated and compared directly. Although simple, this approach can be misleading as it is hard to know whether the difference between mean [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/Statistical-Significance-Tests-for-Comparing-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 9130,
+            "title": "A Gentle Introduction to the Chi-Squared Test for Machine Learning",
+            "url": "https://machinelearningmastery.com/chi-squared-test-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-15T00:00:00",
+            "description": "A common problem in applied machine learning is determining whether input features are relevant to the outcome to be predicted. This is the problem of feature selection. In the case of classification problems where input variables are also categorical, we can use statistical tests to determine whether the output variable is dependent or independent of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/A-Gentle-Introduction-to-the-Chi-Squared-Test-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9131,
+            "title": "How to Calculate the 5-Number Summary for Your Data in Python",
+            "url": "https://machinelearningmastery.com/how-to-calculate-the-5-number-summary-for-your-data-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-13T00:00:00",
+            "description": "Data summarization provides a convenient way to describe all of the values in a data sample with just a few statistical values. The mean and standard deviation are used to summarize data with a Gaussian distribution, but may not be meaningful, or could even be misleading, if your data sample has a non-Gaussian distribution. In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/How-to-Calculate-the-5-Number-Summary-for-Your-Data-in-Python.jpg"
+        },
+        {
+            "id": 9132,
+            "title": "A Gentle Introduction to Statistical Sampling and Resampling",
+            "url": "https://machinelearningmastery.com/statistical-sampling-and-resampling/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-13T00:00:00",
+            "description": "Data is the currency of applied machine learning. Therefore, it is important that it is both collected and used effectively. Data sampling refers to statistical methods for selecting observations from the domain with the objective of estimating a population parameter. Whereas data resampling refers to methods for economically using a collected dataset to improve the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/A-Gentle-Introduction-to-Statistical-Sampling-and-Resampling.jpg"
+        },
+        {
+            "id": 9133,
+            "title": "How to Calculate Critical Values for Statistical Hypothesis Testing with Python",
+            "url": "https://machinelearningmastery.com/critical-values-for-statistical-hypothesis-testing/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-11T00:00:00",
+            "description": "In is common, if not standard, to interpret the results of statistical hypothesis tests using a p-value. Not all implementations of statistical tests return p-values. In some cases, you must use alternatives, such as critical values. In addition, critical values are used when estimating the expected intervals for observations from a population, such as in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/A-Gentle-Introduction-to-Critical-Values-for-Statistical-Hypothesis-Testing.jpg"
+        },
+        {
+            "id": 9134,
+            "title": "A Gentle Introduction to Statistical Data Distributions",
+            "url": "https://machinelearningmastery.com/statistical-data-distributions/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-08T00:00:00",
+            "description": "A sample of data will form a distribution, and by far the most well-known distribution is the Gaussian distribution, often called the Normal distribution. The distribution provides a parameterized mathematical function that can be used to calculate the probability for any individual observation from the sample space. This distribution describes the grouping or the density [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Line-Plot-of-the-Chi-Squared-Probability-Density-Function.png"
+        },
+        {
+            "id": 9135,
+            "title": "A Gentle Introduction to Data Visualization Methods in Python",
+            "url": "https://machinelearningmastery.com/data-visualization-methods-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-06T00:00:00",
+            "description": "Sometimes data does not make sense until you can look at in a visual form, such as with charts and plots. Being able to quickly visualize your data samples for yourself and others is an important skill both in applied statistics and in applied machine learning. In this tutorial, you will discover the five types [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Example-of-a-Box-and-Whisker-Plot.png"
+        },
+        {
+            "id": 9136,
+            "title": "A Gentle Introduction to Estimation Statistics for Machine Learning",
+            "url": "https://machinelearningmastery.com/estimation-statistics-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-04T00:00:00",
+            "description": "Statistical hypothesis tests can be used to indicate whether the difference between two samples is due to random chance, but cannot comment on the size of the difference. A group of methods referred to as \u201cnew statistics\u201d are seeing increased use instead of or in addition to p-values in order to quantify the magnitude of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/06/A-Gentle-Introduction-to-Estimation-Statistics-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9137,
+            "title": "A Gentle Introduction to Statistical Tolerance Intervals in Machine Learning",
+            "url": "https://machinelearningmastery.com/statistical-tolerance-intervals-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-06-01T00:00:00",
+            "description": "It can be useful to have an upper and lower limit on data. These bounds can be used to help identify anomalies and set expectations for what to expect. A bound on observations from a population is called a tolerance interval. A tolerance interval comes from the field of estimation statistics. A tolerance interval is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Error-Bar-Plot-of-Tolerance-Interval-vs-Sample-Size.png"
+        },
+        {
+            "id": 9138,
+            "title": "Prediction Intervals for Machine Learning",
+            "url": "https://machinelearningmastery.com/prediction-intervals-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-30T00:00:00",
+            "description": "A prediction from a machine learning perspective is a single point that hides the uncertainty of that prediction. Prediction intervals provide a way to quantify and communicate the uncertainty in a prediction. They are different from confidence intervals that instead seek to quantify the uncertainty in a population parameter such as a mean or standard [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/04/Scatter-Plot-of-Dataset-With-Linear-Model-and-Prediction-Interval.png"
+        },
+        {
+            "id": 9139,
+            "title": "Confidence Intervals for Machine Learning",
+            "url": "https://machinelearningmastery.com/confidence-intervals-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-28T00:00:00",
+            "description": "Much of machine learning involves estimating the performance of a machine learning algorithm on unseen data. Confidence intervals are a way of quantifying the uncertainty of an estimate. They can be used to add a bounds or likelihood on a population parameter, such as a mean, estimated from a sample of independent observations from the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/Confidence-Intervals-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9140,
+            "title": "A Gentle Introduction to the Bootstrap Method",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-bootstrap-method/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-25T00:00:00",
+            "description": "The bootstrap method is a resampling technique used to estimate statistics on a population by sampling a dataset with replacement. It can be used to estimate summary statistics such as the mean or standard deviation. It is used in applied machine learning to estimate the skill of machine learning models when making predictions on data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-the-Bootstrap-Method.jpg"
+        },
+        {
+            "id": 9141,
+            "title": "A Gentle Introduction to k-fold Cross-Validation",
+            "url": "https://machinelearningmastery.com/k-fold-cross-validation/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2018-05-23T00:00:00",
+            "description": "Cross-validation is a statistical method used to estimate the skill of machine learning models. It is commonly used in applied machine learning to compare and select a model for a given predictive modeling problem because it is easy to understand, easy to implement, and results in skill estimates that generally have a lower bias than [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2018/05/A-Gentle-Introduction-to-k-fold-Cross-Validation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 284,
+            "title": "Search for knowledge in Quip documents with intelligent search using the Quip connector for Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/search-for-knowledge-in-quip-documents-with-intelligent-search-using-the-quip-connector-for-amazon-kendra/",
+            "authors": "Ashish Lagwankar, Vikas Shah",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2022-04-19T00:00:00",
+            "description": "Organizations use collaborative document authoring solutions like Salesforce Quip to embed real-time, collaborative documents inside Salesforce records. Quip is Salesforce\u2019s productivity platform that transforms the way enterprises work together, delivering modern collaboration securely and simply across any device. A Quip repository captures invaluable organizational knowledge in the form of collaborative documents and workflows. However, finding [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ML-8536-image001.jpg"
+        },
+        {
+            "id": 285,
+            "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
+            "authors": "Chanki Nathani, Vaibhav Chaddha",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2022-04-19T00:00:00",
+            "description": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let\u2019s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that the organization uses. This often requires [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-3932-image001-new2.png"
+        },
+        {
+            "id": 286,
+            "title": "Fine-tune and deploy a Wav2Vec2 model for speech recognition with Hugging Face and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-a-wav2vec2-model-for-speech-recognition-with-hugging-face-and-amazon-sagemaker/",
+            "authors": "Ying Hou",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-04-15T00:00:00",
+            "description": "Automatic speech recognition (ASR) is a commonly used machine learning (ML) technology in our daily lives and business scenarios. Applications such as voice-controlled assistants like Alexa and Siri, and voice-to-text applications like automatic subtitling for videos and transcribing meetings, are all powered by this technology. These applications take audio clips as input and convert speech [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/13/ML-7125-image003-1260x261.png"
+        },
+        {
+            "id": 287,
+            "title": "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
+            "authors": "Dipkumar Mehta, Matt Kurio, Cecil Patterson, Sanju Sunny",
+            "tags": "Amazon Connect, Amazon Lex, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2022-04-15T00:00:00",
+            "description": "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization. At the same time, organizations have to consider borrowers, who are waiting for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-7548-image013.jpg"
+        },
+        {
+            "id": 288,
+            "title": "Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/",
+            "authors": "Arnaud Lauer, Ioan Catana, Charu Sareen, Swagat Kulkarni",
+            "tags": "Amazon SageMaker, AWS Lake Formation",
+            "publishedOn": "2022-04-13T00:00:00",
+            "description": "This post was last reviewed and updated June, 2022 with revised feature groups (tables) and features (columns) permissions. You can establish feature stores to provide a central repository for machine learning (ML) features that can be shared with data science teams across your organization for training, batch scoring, and real-time inference. Data science teams can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/12/ML-8495-image001.png"
+        },
+        {
+            "id": 289,
+            "title": "Manage dialog to elicit Amazon Lex slots in Amazon Connect contact flows",
+            "url": "https://aws.amazon.com/blogs/machine-learning/manage-dialog-to-elicit-amazon-lex-slots-in-amazon-connect-contact-flows/",
+            "authors": "Brian Yost",
+            "tags": "Amazon Connect, Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2022-04-13T00:00:00",
+            "description": "Amazon Lex can add powerful automation to contact center solutions, so you can enable self-service via interactive voice response (IVR) interactions or route calls to the appropriate agent based on caller input. These capabilities can increase customer satisfaction by streamlining the user experience, and improve containment rates in the contact center. In both the self-service [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/06/ML-8879-image001-whitebackground-1139x630.png"
+        },
+        {
+            "id": 290,
+            "title": "Build a custom entity recognizer for PDF documents using Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
+            "authors": "Joshua Levy, Alex Chirayath, Andrew Ang, Boris Aronchik, Niharika Jayanthi, Jennifer Zhu",
+            "tags": "Amazon Comprehend, Amazon ML Solutions Lab, Artificial Intelligence",
+            "publishedOn": "2022-04-08T00:00:00",
+            "description": "In many industries, it\u2019s critical to extract custom entities from documents in a timely manner. This can be challenging. Insurance claims, for example, often contain dozens of important attributes (such as dates, names, locations, and reports) sprinkled across lengthy and dense documents. Manually scanning and extracting such information can be error-prone and time-consuming. Rule-based software [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/image-46.png"
+        },
+        {
+            "id": 291,
+            "title": "Getting started with the Amazon Kendra Box connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/",
+            "authors": "Bob Strahan",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2022-04-08T00:00:00",
+            "description": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. For many organizations, Box Content Cloud is a core part of their content storage and lifecycle management [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 292,
+            "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
+            "authors": "Jay Rao, Pashmeen Mistry",
+            "tags": "Amazon Athena, Amazon QuickSight, Amazon Rekognition, Amazon Simple Notification Service (SNS), Artificial Intelligence, AWS Lambda",
+            "publishedOn": "2022-04-06T00:00:00",
+            "description": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn\u2019t require you to have any prior computer vision expertise. You can get started by simply uploading tens of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/01/ML-3899-image031.jpg"
+        },
+        {
+            "id": 293,
+            "title": "Customize the Amazon SageMaker XGBoost algorithm container",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+            "authors": "Peyman Razaghi",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-04-05T00:00:00",
+            "description": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing, or multi-model inference endpoints. You can also extend this powerful algorithm to accommodate different requirements. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png"
+        },
+        {
+            "id": 294,
+            "title": "Detect adversarial inputs using Amazon SageMaker Model Monitor and Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detect-adversarial-inputs-using-amazon-sagemaker-model-monitor-and-amazon-sagemaker-debugger/",
+            "authors": "Nathalie Rauschmayr, Sergul Aydore, Yigitcan Kaya, Bilal Zafar",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-04-05T00:00:00",
+            "description": "Research over the past few years has shown that machine learning (ML) models are vulnerable to adversarial inputs, where an adversary can craft inputs to strategically alter the model\u2019s output (in image classification, speech recognition, or fraud detection). For example, imagine you have deployed a model that identifies your employees based on images of their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/29/ML-7609-image005.jpg"
+        },
+        {
+            "id": 295,
+            "title": "Build an MLOps sentiment analysis pipeline using Amazon SageMaker Ground Truth and Databricks MLflow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-mlops-sentiment-analysis-pipeline-using-amazon-sagemaker-ground-truth-and-databricks-mlflow/",
+            "authors": "Rumi Olsen, Naseer Ahmed, Igor Alekseev",
+            "tags": "Amazon SageMaker, Amazon SageMaker Ground Truth",
+            "publishedOn": "2022-04-04T00:00:00",
+            "description": "As more organizations move to machine learning (ML) to drive deeper insights, two key stumbling blocks they run into are labeling and lifecycle management. Labeling is the identification of data and adding labels to provide context so an ML model can learn from it. Labels might indicate a phrase in an audio file, a car [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ML-5351-image002-1-657x630.png"
+        },
+        {
+            "id": 296,
+            "title": "Enable Amazon Kendra search for a scanned or image-based text document",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enable-amazon-kendra-search-for-a-scanned-or-image-based-text-document/",
+            "authors": "Sanjay Tiwary",
+            "tags": "Amazon Kendra, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2022-04-04T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they\u2019re looking for, even when it\u2019s scattered across multiple locations and content repositories within your organization. Amazon Kendra supports a variety of document formats, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/ML-6030-image001-feature-1065x630.png"
+        },
+        {
+            "id": 297,
+            "title": "Interpret caller input using grammar slot types in Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
+            "authors": "Kai Loreck, Harshal Pimpalkhute",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2022-04-04T00:00:00",
+            "description": "Customer service calls require customer agents to have the customer\u2019s account information to process the caller\u2019s request. For example, to provide a status on an insurance claim, the support agent needs policy holder information such as the policy ID and claim number. Such information is often collected in the interactive voice response (IVR) flow at [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 298,
+            "title": "Whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences",
+            "url": "https://aws.amazon.com/blogs/machine-learning/whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences/",
+            "authors": "Susant Mallick",
+            "tags": "Amazon Machine Learning, Compliance, Healthcare, Life Sciences",
+            "publishedOn": "2022-04-01T00:00:00",
+            "description": "For customers looking to implement a GxP-compliant environment on AWS for artificial intelligence (AI) and machine learning (ML) systems, we have released a new whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences. This whitepaper provides an overview of security and good ML compliance practices and guidance on building GxP-regulated AI/ML systems using AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 299,
+            "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+            "authors": "Roop Bains, Huong Nguyen, Igor Alekseev, Henry Wang",
+            "tags": "Amazon SageMaker, Amazon SageMaker Data Wrangler",
+            "publishedOn": "2022-03-31T00:00:00",
+            "description": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It\u2019s a necessary and important step of any ML workflow in order to generate meaningful insights and predictions, because bad or low-quality data greatly [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/24/ML-8541-image001-1232x630.png"
+        },
+        {
+            "id": 300,
+            "title": "Personalize cross-channel customer experiences with Amazon SageMaker, Amazon Personalize, and Twilio Segment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/personalize-cross-channel-customer-experiences-with-amazon-sagemaker-amazon-personalize-and-segment/",
+            "authors": "Dwayne Browne, Hara Gavriliadi, Kenny Rajan",
+            "tags": "Amazon Personalize, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-03-29T00:00:00",
+            "description": "Today, customers interact with brands over an increasingly large digital and offline footprint, generating a wealth of interaction data known as behavioral data. As a result, marketers and customer experience teams must work with multiple overlapping tools to engage and target those customers across touchpoints. This increases complexity, creates multiple views of each customer, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-6845-image001.jpg"
+        },
+        {
+            "id": 301,
+            "title": "Automated, scalable, and cost-effective ML on AWS: Detecting invasive Australian tree ferns in Hawaiian forests",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests/",
+            "authors": "Dan Iancu, Arkajyoti Misra, Theresa Cabrera Menard, Kara Yang, Veronika Megler, Annalyn Ng",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-03-29T00:00:00",
+            "description": "This is blog post is co-written by Theresa Cabrera Menard, an Applied Scientist/Geographic Information Systems Specialist at The Nature Conservancy (TNC) in Hawaii. In recent years, Amazon and AWS have developed a series of sustainability initiatives with the overall goal of helping preserve the natural environment. As part of these efforts, AWS Professional Services establishes [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/15/blog_pic4.png"
+        },
+        {
+            "id": 302,
+            "title": "Automatically generate model evaluation metrics using SageMaker Autopilot Model Quality Reports",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports/",
+            "authors": "Peter Chung, Ali Takbiri, Arunprasath Shankar, Pradeep Reddy",
+            "tags": "Amazon SageMaker, Amazon SageMaker Autopilot, Artificial Intelligence",
+            "publishedOn": "2022-03-29T00:00:00",
+            "description": "Amazon SageMaker Autopilot helps you complete an end-to-end machine learning (ML) workflow by automating the steps of feature engineering, training, tuning, and deploying an ML model for inference. You provide SageMaker Autopilot with a tabular data set and a target attribute to predict. Then, SageMaker Autopilot automatically explores your data, trains, tunes, ranks and finds [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/22/confusion-matrix-638x630.png"
+        },
+        {
+            "id": 303,
+            "title": "Build a mental health machine learning risk model using Amazon SageMaker Data Wrangler",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-mental-health-machine-learning-risk-model-using-amazon-sagemaker-data-wrangler/",
+            "authors": "Shibhangi Saha, Ajai Sharma, Arunprasath Shankar, Graciela Kravtzov",
+            "tags": "Advanced (300), Amazon SageMaker, Amazon SageMaker Data Wrangler, Artificial Intelligence, Customer Solutions, Healthcare, Healthcare, Life Sciences",
+            "publishedOn": "2022-03-25T00:00:00",
+            "description": "This post is co-written by Shibangi Saha, Data Scientist, and Graciela Kravtzov, Co-Founder and CTO, of Equilibrium Point. Many individuals are experiencing new symptoms of mental illness, such as stress, anxiety, depression, substance use, and post-traumatic stress disorder (PTSD). According to Kaiser Family Foundation, about half of adults (47%) nationwide have reported negative mental health [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ML8274-image010-864x630.png"
+        },
+        {
+            "id": 304,
+            "title": "Improve search accuracy with Spell Checker in Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-search-accuracy-with-spell-checker-in-amazon-kendra/",
+            "authors": "Matthew Peretick",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2022-03-25T00:00:00",
+            "description": "Amazon Kendra is an intelligent search service powered by machine learning. You can receive spelling suggestions for misspelled terms in your queries by utilizing the Amazon Kendra Spell Checker. Spell Checker helps reduce the frequency of queries returning irrelevant results by providing spelling suggestions for unrecognized terms. In this post, we explore how to use [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/ML-8602-image001-resized.jpg"
+        },
+        {
+            "id": 305,
+            "title": "Set up a text summarization project with Hugging Face Transformers: Part 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
+            "authors": "Heiko Hotz",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2022-03-23T00:00:00",
+            "description": "This is the second post in a two-part series in which I propose a practical guide for organizations so you can assess the quality of text summarization models for your domain. For an introduction to text summarization, an overview of this tutorial, and the steps to create a baseline for our project (also referred to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 306,
+            "title": "Set up a text summarization project with Hugging Face Transformers: Part 1",
+            "url": "https://aws.amazon.com/blogs/machine-learning/part-1-set-up-a-text-summarization-project-with-hugging-face-transformers/",
+            "authors": "Heiko Hotz",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2022-03-23T00:00:00",
+            "description": "When OpenAI released the third generation of their machine learning (ML) model that specializes in text generation in July 2020, I knew something was different. This model struck a nerve like no one that came before it. Suddenly I heard friends and colleagues, who might be interested in technology but usually don\u2019t care much about [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/09/ML-7391-image002.png"
+        },
+        {
+            "id": 307,
+            "title": "Optimize customer engagement with reinforcement learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
+            "authors": "Taylor Names, Argie Angeleas, Dev Gupta, Fang Wang, Xinghua Liang, Raj Biswas, Xin Chen, Yi Liu",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2022-03-23T00:00:00",
+            "description": "This is a guest post co-authored by Taylor Names, Staff Machine Learning Engineer, Dev Gupta, Machine Learning Manager, and Argie Angeleas, Senior Product Manager at Ibotta. Ibotta is an American technology company that enables users with its desktop and mobile apps to earn cash back on in-store, mobile app, and online purchases with receipt submission, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ml-7771-image007.png"
+        },
+        {
+            "id": 308,
+            "title": "Expedite IVR development with industry grammars on Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+            "authors": "John Heater, Sandeep Srinivasan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2022-03-22T00:00:00",
+            "description": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars to accelerate IVR development on Amazon Lex as part of your IVR [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 309,
+            "title": "Easily migrate your IVR flows to Amazon Lex using the IVR migration tool",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easily-migrate-your-ivr-flows-to-amazon-lex-using-the-ivr-migration-tool/",
+            "authors": "John Heater, Sandeep Srinivasan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2022-03-22T00:00:00",
+            "description": "This post was co-written by John Heater, SVP of the Contact Center Practice at NeuraFlash.\u00a0NeuraFlash is an Advanced AWS Partner with over 40 collective years of experience in the voice and automation space. With a dedicated team of conversation designers, data engineers, and AWS developers, NeuraFlash helps customers take advantage of the power of Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/22/ML-8542-image001-1099x630.png"
+        },
+        {
+            "id": 310,
+            "title": "How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
+            "authors": "RJ, Andy Sun, Anthony Ko, Anish Mohan, Eliuth Triana, Jiahong Liu, Olivier Cruchant, Hemant Pugaliya, Le Cai",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Inferentia",
+            "publishedOn": "2022-03-22T00:00:00",
+            "description": "Amazon Search\u2019s vision is to enable customers to search effortlessly. Our spelling correction helps you find what you want even if you don\u2019t know the exact spelling of the intended words. In the past, we used classical machine learning (ML) algorithms with manual feature engineering for spelling correction. To make the next generational leap in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-8065-image001-feature.png"
+        },
+        {
+            "id": 311,
+            "title": "Enable conversational chatbots for telephony using Amazon Lex and the Amazon Chime SDK",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enable-conversational-chatbots-for-telephony-using-amazon-lex-and-the-amazon-chime-sdk/",
+            "authors": "Greg Herlein",
+            "tags": "Amazon Chime, Amazon Lex, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2022-03-18T00:00:00",
+            "description": "Conversational AI can deliver powerful, automated, interactive experiences through voice and text. Amazon Lex is a service that combines automatic speech recognition and natural language understanding technologies, so you can build these sophisticated conversational experiences. A common application of conversational AI is found in contact centers: self-service virtual agents. We\u2019re excited to announce that you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/arch.drawio-1-1.png"
+        },
+        {
+            "id": 312,
+            "title": "Build a traceable, custom, multi-format document parsing pipeline with Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-traceable-custom-multi-format-document-parsing-pipeline-with-amazon-textract/",
+            "authors": "Emily Soward, Sandeep Singh",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2022-03-17T00:00:00",
+            "description": "Organizational forms serve as a primary business tool across industries\u2014from financial services, to healthcare, and more. Consider, for example, tax filing forms in the tax management industry, where new forms come out each year with largely the same information. AWS customers across sectors need to process and store information in forms as part of their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/09/ML-2764-image001-new-630x630.png"
+        },
+        {
+            "id": 313,
+            "title": "Amazon SageMaker JumpStart models and algorithms now available via API",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-models-and-algorithms-now-available-via-api/",
+            "authors": "Vivek Madan, Joao Moura, Ashish Khetan",
+            "tags": "Amazon SageMaker, Amazon SageMaker JumpStart, Artificial Intelligence",
+            "publishedOn": "2022-03-16T00:00:00",
+            "description": "This blog post was last reviewed and updated July 2022 to include new tabular models: AutoGluon-Tabular and TabTransformer. In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/16/image001-1.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2964,
+            "title": "Search Engines Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/search-engines-using-deep-learning/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Advanced, Deep Learning, NLP, Python",
+            "publishedOn": "2022-02-25T00:00:00",
+            "description": "We will cover a very interesting case of NLP which is an Information retrieval system and build search engines using deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/48058deep-learning.png"
+        },
+        {
+            "id": 2965,
+            "title": "A Flask Web App for Automatic Text Summarization Using SBERT",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/a-flask-web-app-for-automatic-text-summarization-using-sbert/",
+            "authors": "Nithyashree V",
+            "tags": "Advanced, Model Deployment, NLP, Technique",
+            "publishedOn": "2022-02-24T00:00:00",
+            "description": "We will build a Flask web app that can input any long piece of information and summarize it into just five lines!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Top-5-Sentence-Embedding-Techniques-using-Python.png"
+        },
+        {
+            "id": 2966,
+            "title": "Deep Learning vs Machine Learning for Regression",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/deep-learning-vs-machine-learning-for-regression/",
+            "authors": "Ayush Gupta",
+            "tags": "Datasets, Deep Learning, Intermediate, Linear Regression, Machine Learning",
+            "publishedOn": "2022-02-24T00:00:00",
+            "description": "We will be creating a deep learning regression model to predict home prices using the famous Boston home price prediction dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/house-prices-up.jpg"
+        },
+        {
+            "id": 2967,
+            "title": "Sentiment Analysis with NLP & Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-with-nlp-deep-learning/",
+            "authors": "DEVENDRA Maindola",
+            "tags": "Deep Learning, Intermediate, NLP, Python",
+            "publishedOn": "2022-02-24T00:00:00",
+            "description": "The main idea of this article is to clarify the concept of Sentiment Analysis with NLP & Deep Learning with the help of a case.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/performing-twitter-sentiment-analysis1.jpg"
+        },
+        {
+            "id": 2968,
+            "title": "Color Picker Application Using Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/color-picker-application-using-computer-vision/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2022-02-24T00:00:00",
+            "description": "This article mainly deals with Color picker applications using computer vision and how this application used by UI/UX designers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 2969,
+            "title": "Blood Cell Detection in Image Using Naive Approach",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/blood-cell-detection-in-image-using-naive-approach/",
+            "authors": "Kajal Kumari",
+            "tags": "Advanced, Computer Vision, Guide, Healthcare, Image Analysis, Python",
+            "publishedOn": "2022-02-24T00:00:00",
+            "description": "Understanding the practical implementation of blood cell detection with an image dataset using a naive approach.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/81338challenges-of-data-science-challenges-federated-learning.jpg"
+        },
+        {
+            "id": 2970,
+            "title": "Learn Mobile Price Prediction Through Four Classification Algorithms",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/learn-mobile-price-prediction-through-four-classification-algorithms/",
+            "authors": "Prateek Majumder",
+            "tags": "Algorithm, Beginner, Classification, Datasets, Python, Technique",
+            "publishedOn": "2022-02-23T00:00:00",
+            "description": "In this article, you will learn about mobile price prediction using four different classification algorithms.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Price-prediction.png"
+        },
+        {
+            "id": 2971,
+            "title": "Analyzing Semantic Equivalence of Sentences Using BERT",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/analyzing-semantic-equivalence-of-sentences-using-bert/",
+            "authors": "Parth Tyagi",
+            "tags": "Advanced, Datasets, NLP, Python, Text",
+            "publishedOn": "2022-02-23T00:00:00",
+            "description": "We will be learning to train BERT and analyzing the semantic equivalence of any two sentences, if they convey same meaning or not.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 2972,
+            "title": "Approaching Regression with Neural Networks Using Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/approaching-regression-with-neural-networks-using-tensorflow/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Datasets, Deep Learning, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-02-22T00:00:00",
+            "description": "In this article, you will learn about regression with neural networks, it involves predicting a real number whose range is infinite.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/2.jpg"
+        },
+        {
+            "id": 2973,
+            "title": "Comparing R and Tableau for Data Visualisation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/comparing-r-and-tableau-for-data-visualisation/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Data Visualization, R, Tableau",
+            "publishedOn": "2022-02-22T00:00:00",
+            "description": "There has been a debate in the industry between R and Tableau. Which is better is the question. Let's understand from this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/70583featured-data-visualization.png"
+        },
+        {
+            "id": 2974,
+            "title": "Let\u2019s Learn Face Detection Using Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/lets-learn-face-detection-using-computer-vision/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Object Detection, Python",
+            "publishedOn": "2022-02-22T00:00:00",
+            "description": "the entire article will focus on Face detection using computer vision. Here for detection, we will be using the HAAR cascade classifiers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 2975,
+            "title": "Explaining Text Generation with LSTM",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/explaining-text-generation-with-lstm/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Deep Learning, Intermediate, NLP, Python, Text",
+            "publishedOn": "2022-02-22T00:00:00",
+            "description": "We are going to talk about text generation using LSTM with end-to-end examples and the related concepts as a quick revision.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/artificial-intelligence-comp42.jpg"
+        },
+        {
+            "id": 2976,
+            "title": "A Comprehensive Guide on Hyperparameter Tuning and its Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Beginner, Guide, Machine Learning, Python, Technique",
+            "publishedOn": "2022-02-22T00:00:00",
+            "description": "Every Data Scientist must understand the significance of hyperparameter tuning techniques while selecting right Machine Learning model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/deep-learning-framework-icon.png"
+        },
+        {
+            "id": 2977,
+            "title": "Sentiment Analysis of IMDB Reviews with NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-of-imdb-reviews-with-nlp/",
+            "authors": "Sukanya Bag",
+            "tags": "Intermediate, NLP, Python",
+            "publishedOn": "2022-02-21T00:00:00",
+            "description": "In this article, we will have at look at\u00a0 the sentiment analysis of IMDB Reviews with NLP and Transfer Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67274portada-nlp.jpg"
+        },
+        {
+            "id": 2978,
+            "title": "Building ML Model in AWS Sagemaker",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/building-ml-model-in-aws-sagemaker/",
+            "authors": "Sarbani Maiti",
+            "tags": "AWS, Data Engineering, Guide, Intermediate, Machine Learning, Python",
+            "publishedOn": "2022-02-21T00:00:00",
+            "description": "The article describes the step-by-step code and setup to deploy an Machine Learning model in AWS Sagemaker using serverless architecture.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation.jpg"
+        },
+        {
+            "id": 2979,
+            "title": "Emotions Using NLP Based on Classifying Text",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/analysing-emotions-using-nlp/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Advanced, NLP, Python, Text",
+            "publishedOn": "2022-02-21T00:00:00",
+            "description": "In this article, we will analyse how emotions using NLP can be expressed through tweets and Instagram/ WhatsApp stories.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/10/Sentiment-Analysis_2.png"
+        },
+        {
+            "id": 2980,
+            "title": "Performance Tuning Practices in Hive",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/performance-tuning-practices-in-hive/",
+            "authors": "Nausheen Aafreen",
+            "tags": "Data Engineering, Hadoop, Intermediate",
+            "publishedOn": "2022-02-20T00:00:00",
+            "description": "Performance tuning is an essential part of running hive queries as it helps in reducing the time and increase the efficiency of the code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/545221200px-Apache_Hive_logo.svg_.png"
+        },
+        {
+            "id": 2981,
+            "title": "Heart Disease Prediction using Machine learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/heart-disease-prediction-using-machine-learning-2/",
+            "authors": "VIKRAM RAJKUMAR",
+            "tags": "Beginner, Datasets, Healthcare, Machine Learning, Python",
+            "publishedOn": "2022-02-20T00:00:00",
+            "description": "We will analyze, predict the result whether the patient has heart disease or normal, i.e. Heart disease prediction using Machine Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 2982,
+            "title": "Classifying Sexual Harassment using Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Advanced, Classification, Machine Learning, NLP, Python, Technique",
+            "publishedOn": "2022-02-19T00:00:00",
+            "description": "Classification of Sexual Harassment using Machine Learning will help people who want to make positive impact for the society",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/73846machine_learning.jpg"
+        },
+        {
+            "id": 2983,
+            "title": "Structured Query Language (SQL) for All",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/structured-query-language-sql-for-all/",
+            "authors": "Abhishek Jaiswal",
+            "tags": "Beginner, SQL, Structured Data",
+            "publishedOn": "2022-02-19T00:00:00",
+            "description": "In this article, we will learn all about Structured Query Language (SQL) and SQL Commands in depth. You can install MySQL workbench",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql.jpg"
+        },
+        {
+            "id": 2984,
+            "title": "A Basic Introduction to OpenCV in Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/a-basic-introduction-to-opencv-in-deep-learning/",
+            "authors": "Pranshu Sharma",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image Analysis, Python",
+            "publishedOn": "2022-02-18T00:00:00",
+            "description": "With help of OpenCV in Deep Learning, we deploy vector space and execute mathematical operations on these features.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pythonopencv.jpg"
+        },
+        {
+            "id": 2985,
+            "title": "A Quick Guide to Bivariate Analysis in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/a-quick-guide-to-bivariate-analysis-in-python/",
+            "authors": "ASHWINI KUMAR",
+            "tags": "Beginner, Data Exploration, Python, Statistics",
+            "publishedOn": "2022-02-18T00:00:00",
+            "description": "Bivariate Analysis is a statistical technique\u00a0applied to a pair of variables of data to determine the empirical relationship between them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/34662python-programming-language.png"
+        },
+        {
+            "id": 2986,
+            "title": "Lambda Functions in Python | Map, Filter, and Reduce",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/lambda-functions-in-python-map-filter-and-reduce/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Python",
+            "publishedOn": "2022-02-18T00:00:00",
+            "description": "In this article, we will learn about different functions used in Python lambda function which can be used everywhere in different ways.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/featured_image-1.jpg"
+        },
+        {
+            "id": 2987,
+            "title": "Introductory Note on Imputation Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/imputation-techniques/",
+            "authors": "Alifia Ghantiwala",
+            "tags": "Beginner, Machine Learning, Python, Statistics, Technique",
+            "publishedOn": "2022-02-17T00:00:00",
+            "description": "In this article, you will understand why it is important to handle your data carefully. We will look into different imputation techniques.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/machine.jpg"
+        },
+        {
+            "id": 2988,
+            "title": "Importance of Data Governance and its Principles",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/importance-of-data-governance-and-its-principles/",
+            "authors": "Vijay Sharma",
+            "tags": "Beginner, Data Science",
+            "publishedOn": "2022-02-17T00:00:00",
+            "description": "In this article, you will learn about the importance of Data Governance and why it has become essential in the current times.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/18575data-analysis-methods-2.png"
+        },
+        {
+            "id": 2989,
+            "title": "Pose Detection Using Computer Vision",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/pose-detection-using-computer-vision/",
+            "authors": "Kajal Kumari",
+            "tags": "Advanced, Artificial Intelligence, Computer Vision, Guide, Machine Learning, Object Tracking, Python",
+            "publishedOn": "2022-02-17T00:00:00",
+            "description": "we will discuss some of the basic concepts related to Pose Detection using computer vision section of machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/74738Computer_vision.jpeg"
+        },
+        {
+            "id": 2990,
+            "title": "K-Fold Cross Validation Technique and its Essentials",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/k-fold-cross-validation-technique-and-its-essentials/",
+            "authors": "Shanthababu Pandian",
+            "tags": "Intermediate, Machine Learning, Python, Technique",
+            "publishedOn": "2022-02-17T00:00:00",
+            "description": "In K-Fold Cross Validation, we have to split the data set into three sets, Training, Testing, and Validation",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2015/11/model_4.jpg"
+        },
+        {
+            "id": 2991,
+            "title": "Linear Regression with Python Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/linear-regression-with-python-implementation/",
+            "authors": "Shilash M",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2022-02-17T00:00:00",
+            "description": "Linear Regression (LR) is simply finding the best fitting line\u00a0that explains the variability between the dependent and independent features",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/02/38489rsz_linear-regression-in-python_watermarked479f82188ace.jpg"
+        },
+        {
+            "id": 2992,
+            "title": "Classification without Training Data: Zero-shot Learning\u00a0Approach",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/classification-without-training-data-zero-shot-learning-approach/",
+            "authors": "Bai Dash",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2022-02-16T00:00:00",
+            "description": "Zero-shot learning is an approach in NLP that helps a person get an understanding of something which he has never seen or experienced before.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/math_machine_learning.jpg.jpg"
+        },
+        {
+            "id": 2993,
+            "title": "Text Cleaning Methods in NLP | Part-2",
+            "url": "https://www.analyticsvidhya.com/blog/2022/02/text-cleaning-methods-in-nlp-part-2/",
+            "authors": "Kashish Rastogi",
+            "tags": "Advanced, NLP, Python, Technique",
+            "publishedOn": "2022-02-16T00:00:00",
+            "description": "In the first part of the series, we saw some most common techniques which we daily use while cleaning the data i.e. text cleaning in NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/80352nlp.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 13312,
+            "title": "Accelerating ML at Twitter",
+            "url": "https://www.oreilly.com/radar/accelerating-ml-at-twitter/",
+            "authors": "Theodore Summe",
+            "tags": null,
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "Theodore Summe offers a glimpse into how Twitter employs machine learning throughout its product.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-27b-1400x950.jpg"
+        },
+        {
+            "id": 13313,
+            "title": "The latest from TensorFlow",
+            "url": "https://www.oreilly.com/radar/the-latest-from-tensorflow/",
+            "authors": "Megan Kacholia",
+            "tags": null,
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "Megan Kacholia explains how Google\u2019s latest innovations provide an ecosystem of tools for developers, enterprises, and researchers who want to build scalable ML-powered applications.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-11a-1400x950.jpg"
+        },
+        {
+            "id": 13314,
+            "title": "TensorFlow World 2019 opening keynote",
+            "url": "https://www.oreilly.com/radar/tensorflow-world-2019-opening-keynote/",
+            "authors": "Jeff Dean",
+            "tags": null,
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "Jeff Dean explains why Google open-sourced TensorFlow and discusses its progress.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-7b-1400x950.jpg"
+        },
+        {
+            "id": 13315,
+            "title": "TensorFlow community announcements",
+            "url": "https://www.oreilly.com/radar/tensorflow-community-announcements/",
+            "authors": "Kemal El Moujahid",
+            "tags": null,
+            "publishedOn": "2019-10-30T00:00:00",
+            "description": "Kemal El Moujahid reveals new developments for the TensorFlow community.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-9a-1400x950.jpg"
+        },
+        {
+            "id": 13316,
+            "title": "Highlights from O'Reilly AI London 2019",
+            "url": "https://www.oreilly.com/radar/highlights-from-ai-london-2019/",
+            "authors": "Jenn Webb",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Experts explore AI's most promising developments, emerging technologies, and profitable use cases.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/hero-d-1400x950.jpg"
+        },
+        {
+            "id": 13317,
+            "title": "When to trust AI",
+            "url": "https://www.oreilly.com/radar/when-to-trust-ai/",
+            "authors": "Marta Kwiatkowska",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Marta Kwiatkowska provides an overview of techniques being developed to help improve the robustness, safety, and trust in AI systems.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-6a-1400x950.jpg"
+        },
+        {
+            "id": 13318,
+            "title": "When flying is cheaper than standing still",
+            "url": "https://www.oreilly.com/radar/when-flying-is-cheaper-than-standing-still/",
+            "authors": "Raffaello D\u2019Andrea",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Raffaello D\u2019Andrea presents his vision of how autonomous indoor drones will drive the next wave of robotics development.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-23a-1400x950.jpg"
+        },
+        {
+            "id": 13319,
+            "title": "Machine learning challenges at LinkedIn: Spark, TensorFlow, and beyond",
+            "url": "https://www.oreilly.com/radar/machine-learning-challenges-at-linkedin/",
+            "authors": "Zhe Zhang",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Zhe Zhang provides an architectural overview of LinkedIn\u2019s machine learning pipelines.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-5b-1400x950.jpg"
+        },
+        {
+            "id": 13320,
+            "title": "Accelerate with purpose",
+            "url": "https://www.oreilly.com/radar/accelerate-with-purpose-ai-uk-19/",
+            "authors": "Walter Riviera",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Walter Riviera discusses three key shifts in the AI landscape.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-26b-1400x950.jpg"
+        },
+        {
+            "id": 13321,
+            "title": "The quest for high-quality data",
+            "url": "https://www.oreilly.com/radar/the-quest-for-high-quality-data-ai-uk-19/",
+            "authors": "Ihab Ilyas",
+            "tags": null,
+            "publishedOn": "2019-10-17T00:00:00",
+            "description": "Ihab Ilyas describes the HoloClean framework, a prediction engine for structured data with direct applications in detecting and repairing data errors.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-11b-1400x950.jpg"
+        },
+        {
+            "id": 13322,
+            "title": "Real-time AI for entity resolution",
+            "url": "https://www.oreilly.com/radar/real-time-ai-for-entity-resolution/",
+            "authors": "Jeff Jonas",
+            "tags": null,
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "Jeff Jonas details how you can use a purpose-built real-time AI to gain new insights and make better decisions faster.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-10b-1400x950.jpg"
+        },
+        {
+            "id": 13323,
+            "title": "The power of knowledge at scale",
+            "url": "https://www.oreilly.com/radar/the-power-of-knowledge-at-scale/",
+            "authors": "Alexis Crowell Helzer",
+            "tags": null,
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "Alexis Crowell Helzer outlines a practical approach to implementing machine learning.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-15b-1400x950.jpg"
+        },
+        {
+            "id": 13324,
+            "title": "Building and deploying AI systems at scale",
+            "url": "https://www.oreilly.com/radar/building-and-deploying-ai-applications-and-systems-at-scale/",
+            "authors": "Ben Lorica, Roger Chen",
+            "tags": null,
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "Ben Lorica and Roger Chen review how companies are building AI applications today.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-geodes-28b-1400x950.jpg"
+        },
+        {
+            "id": 13325,
+            "title": "Large-scale machine learning at Facebook: Implications of platform design on developer productivity",
+            "url": "https://www.oreilly.com/radar/large-scale-machine-learning-at-facebook/",
+            "authors": "Kim Hazelwood, Mohamed Fawzy",
+            "tags": null,
+            "publishedOn": "2019-10-16T00:00:00",
+            "description": "Kim Hazelwood and Mohamed Fawzy look at how applied ML has changed the platforms and infrastructure at Facebook.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/10/ai-ml-crystals-14a-1400x950.jpg"
+        },
+        {
+            "id": 13326,
+            "title": "Machine learning for operational analytics and business intelligence",
+            "url": "https://www.oreilly.com/radar/podcast/machine-learning-for-operational-analytics-and-business-intelligence/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2019-10-10T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Peter Bailis on data management, ML benchmarks, and building next-gen tools for analysts.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/11/Machine-learning-for-operational-analytics-and-business-intelligence.jpg"
+        },
+        {
+            "id": 13327,
+            "title": "TinyML: The opportunities of low-power ML apps",
+            "url": "https://www.oreilly.com/radar/tinyml-the-challenges-and-opportunities-of-low-power-ml-applications/",
+            "authors": "Mike Loukides",
+            "tags": null,
+            "publishedOn": "2019-10-01T00:00:00",
+            "description": "In this edition of the Radar column, we look at what\u2019s possible when ML apps can work with minimal or inconsistent power supplies. ",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-20b-1400x950.jpg"
+        },
+        {
+            "id": 13328,
+            "title": "Highlights from Strata NY '19",
+            "url": "https://www.oreilly.com/radar/highlights-from-strata-ny-2019/",
+            "authors": "Mac Slocum",
+            "tags": null,
+            "publishedOn": "2019-09-27T00:00:00",
+            "description": "Experts explore new trends, tools, and techniques in data and machine learning.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/hero-b-1400x950.jpg"
+        },
+        {
+            "id": 13329,
+            "title": "Delivering the enterprise data cloud",
+            "url": "https://www.oreilly.com/radar/delivering-the-enterprise-data-cloud/",
+            "authors": "Arun Murthy",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Arun Murthy introduces the open source Cloudera Data Platform (CDP).",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-7a-1400x950.jpg"
+        },
+        {
+            "id": 13330,
+            "title": "Data Science Pioneers: Conquering the next frontier, a documentary investigating the future of data science",
+            "url": "https://www.oreilly.com/radar/data-science-pioneers/",
+            "authors": "Jed Dougherty",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Jed Dougherty presents the trailer of the upcoming Data Science Pioneers documentary.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-9b-1400x950.jpg"
+        },
+        {
+            "id": 13331,
+            "title": "Postrevolutionary big data: Promoting the general welfare",
+            "url": "https://www.oreilly.com/radar/postrevolutionary-big-data-promoting-the-general-welfare/",
+            "authors": "Barbara Eckman",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Barbara Eckman shares lessons learned from early big data mistakes and the progress her team at Comcast is making toward a big data vision.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-7b-1400x950.jpg"
+        },
+        {
+            "id": 13332,
+            "title": "Say what? The ethical challenges of designing for humanlike interaction",
+            "url": "https://www.oreilly.com/radar/say-what-the-ethical-challenges-of-designing-for-humanlike-interaction/",
+            "authors": "Jonathan Foster",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Jonathan Foster explains why language reveals ethical challenges we couldn\u2019t encounter with GUI-powered experiences.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-9a-1400x950.jpg"
+        },
+        {
+            "id": 13333,
+            "title": "RL in real life: Bringing reinforcement learning to the enterprise",
+            "url": "https://www.oreilly.com/radar/rl-in-real-life-bringing-reinforcement-learning-to-the-enterprise/",
+            "authors": "Edward Jezierski",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Edward Jezierski discusses the ways reinforcement learning is used across Microsoft.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-8a-1400x950.jpg"
+        },
+        {
+            "id": 13334,
+            "title": "Staying safe in the AI era",
+            "url": "https://www.oreilly.com/radar/staying-safe-in-the-ai-era/",
+            "authors": "Cassie Kozyrkov",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Cassie Kozyrkov offers actionable advice for taking advantage of machine learning, navigating the AI era, and staying safe as you innovate.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-6a-1400x950.jpg"
+        },
+        {
+            "id": 13335,
+            "title": "Strata Data Awards winners 2019",
+            "url": "https://www.oreilly.com/radar/strata-data-awards-2019/",
+            "authors": null,
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "The Strata Data Awards recognize the most innovative startups, leaders, and data science projects from Strata sponsors and exhibitors.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-8b-1400x950.jpg"
+        },
+        {
+            "id": 13336,
+            "title": "Data sonification: Making music from the yield curve",
+            "url": "https://www.oreilly.com/radar/data-sonification-making-music-from-the-yield-curve/",
+            "authors": "Alan Smith",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Alan Smith says combining visualization and sonification could take the presentation of data into the expanding universe of screenless devices and products.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-10a-1400x950.jpg"
+        },
+        {
+            "id": 13337,
+            "title": "Unlocking the value of your data",
+            "url": "https://www.oreilly.com/radar/unlocking-the-value-of-your-data-strata-ny-19/",
+            "authors": "Daniel Hernandez",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "Daniel Hernandez looks at how a unified, prescriptive information architecture can help organizations unlock the value of their data.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-6b-1400x950.jpg"
+        },
+        {
+            "id": 13338,
+            "title": "Machine learning and analytics for time series data",
+            "url": "https://www.oreilly.com/radar/podcast/machine-learning-and-analytics-for-time-series-data/",
+            "authors": "Ben Lorica",
+            "tags": null,
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "The O\u2019Reilly Data Show Podcast: Arun Kejariwal and Ira Cohen on building large-scale, real-time solutions for anomaly detection and forecasting.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/11/Machine-learning-and-analytics-for-time-series-data.jpg"
+        },
+        {
+            "id": 13339,
+            "title": "The future of Google Cloud data processing",
+            "url": "https://www.oreilly.com/radar/the-future-of-google-cloud-data-processing/",
+            "authors": "James Malone",
+            "tags": null,
+            "publishedOn": "2019-09-25T00:00:00",
+            "description": "James Malone introduces new Google Cloud capabilities that help data professionals build scalable and flexible applications faster.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-2b-1400x950.jpg"
+        },
+        {
+            "id": 13340,
+            "title": "Interactive sports analytics",
+            "url": "https://www.oreilly.com/radar/interactive-sports-analytics/",
+            "authors": "Patrick Lucey",
+            "tags": null,
+            "publishedOn": "2019-09-25T00:00:00",
+            "description": "Patrick Lucey explains methods to find play similarity using multi-agent trajectory data, as well as predicting fine-grain plays.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-5b-1400x950.jpg"
+        },
+        {
+            "id": 13341,
+            "title": "AI isn\u2019t magic. It\u2019s computer science.",
+            "url": "https://www.oreilly.com/radar/ai-isnt-magic-its-computer-science/",
+            "authors": "Robert Thomas, Tim O\u2019Reilly",
+            "tags": null,
+            "publishedOn": "2019-09-25T00:00:00",
+            "description": "Rob Thomas and Tim O\u2019Reilly discuss the hard work and mass experimentation that will lead to AI breakthroughs.",
+            "thumbnail": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/09/ai-ml-geodes-3a-1400x950.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8722,
+            "title": "How to Choose an Optimization Algorithm",
+            "url": "https://machinelearningmastery.com/tour-of-optimization-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2020-12-23T00:00:00",
+            "description": "Optimization is the problem of finding a set of inputs to an objective function that results in a maximum or minimum function evaluation. It is the challenging problem that underlies many machine learning algorithms, from fitting logistic regression models to training artificial neural networks. There are perhaps hundreds of popular optimization algorithms, and perhaps tens [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/04/How-to-Choose-an-Optimization-Algorithm.jpg"
+        },
+        {
+            "id": 8723,
+            "title": "Ensemble Learning Algorithm Complexity and Occam\u2019s Razor",
+            "url": "https://machinelearningmastery.com/ensemble-learning-and-occams-razor/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-12-21T00:00:00",
+            "description": "Occam\u2019s razor suggests that in machine learning, we should prefer simpler models with fewer coefficients over complex models like ensembles. Taken at face value, the razor is a heuristic that suggests more complex hypotheses make more assumptions that, in turn, will make them too narrow and not generalize well. In machine learning, it suggests complex [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Ensemble-Learning-Algorithm-Complexity-and-Occams-Razor.jpg"
+        },
+        {
+            "id": 8724,
+            "title": "What Is Meta-Learning in Machine Learning?",
+            "url": "https://machinelearningmastery.com/meta-learning-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-12-18T00:00:00",
+            "description": "Meta-learning in machine learning refers to learning algorithms that learn from other learning algorithms. Most commonly, this means the use of machine learning algorithms that learn how to best combine the predictions from other machine learning algorithms in the field of ensemble learning. Nevertheless, meta-learning might also refer to the manual process of model selecting [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/What-Is-Meta-Learning-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8725,
+            "title": "Calculus Books for Machine Learning",
+            "url": "https://machinelearningmastery.com/calculus-books-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Calculus",
+            "publishedOn": "2020-12-16T00:00:00",
+            "description": "Knowledge of calculus is not required to get results and solve problems in machine learning or deep learning. However, knowing some calculus will help you in a number of ways, such as in reading mathematical notation in books and papers, and in understanding the terms used to describe fitting models like \u201cgradient,\u201d and in understanding [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/04/Calculus-Books-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8726,
+            "title": "Dynamic Classifier Selection Ensembles in Python",
+            "url": "https://machinelearningmastery.com/dynamic-classifier-selection-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-12-14T00:00:00",
+            "description": "Dynamic classifier selection is a type of ensemble learning algorithm for classification predictive modeling. The technique involves fitting multiple machine learning models on the training dataset, then selecting the model that is expected to perform best when making a prediction, based on the specific details of the example to be predicted. This can be achieved [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-and-Whisker-Plots-of-Accuracy-Distributions-for-k-Values-in-DCS-LA-with-OLA.png"
+        },
+        {
+            "id": 8727,
+            "title": "Perceptron Algorithm for Classification in Python",
+            "url": "https://machinelearningmastery.com/perceptron-algorithm-for-classification-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-12-11T00:00:00",
+            "description": "The Perceptron is a linear machine learning algorithm for binary classification tasks. It may be considered one of the first and one of the simplest types of artificial neural networks. It is definitely not \u201cdeep\u201d learning but is an important building block. Like logistic regression, it can quickly learn a linear separation in feature space [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/08/Perceptron-Algorithm-for-Classification-in-Python.jpg"
+        },
+        {
+            "id": 8728,
+            "title": "Autoencoder Feature Extraction for Regression",
+            "url": "https://machinelearningmastery.com/autoencoder-for-regression/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2020-12-09T00:00:00",
+            "description": "Autoencoder is a type of neural network that can be used to learn a compressed representation of raw data. An autoencoder is composed of encoder and a decoder sub-models. The encoder compresses the input and the decoder attempts to recreate the input from the compressed version provided by the encoder. After training, the encoder model [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Learning-Curves-of-Training-the-Autoencoder-Model-for-Regression-without-Compression.png"
+        },
+        {
+            "id": 8729,
+            "title": "Autoencoder Feature Extraction for Classification",
+            "url": "https://machinelearningmastery.com/autoencoder-for-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2020-12-07T00:00:00",
+            "description": "Autoencoder is a type of neural network that can be used to learn a compressed representation of raw data. An autoencoder is composed of an encoder and a decoder sub-models. The encoder compresses the input and the decoder attempts to recreate the input from the compressed version provided by the encoder. After training, the encoder [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Learning-Curves-of-Training-the-Autoencoder-Model-With-Compression.png"
+        },
+        {
+            "id": 8730,
+            "title": "How to Manually Optimize Neural Network Models",
+            "url": "https://machinelearningmastery.com/manually-optimize-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "Deep learning neural network models are fit on training data using the stochastic gradient descent optimization algorithm. Updates to the weights of the model are made, using the backpropagation of error algorithm. The combination of the optimization and weight update algorithm was carefully chosen and is the most efficient approach known to fit neural networks. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/03/How-to-Manually-Optimize-Neural-Network-Models.jpg"
+        },
+        {
+            "id": 8731,
+            "title": "Books on Genetic Programming",
+            "url": "https://machinelearningmastery.com/books-on-genetic-programming/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2020-12-02T00:00:00",
+            "description": "Genetic Programming (GP) is an algorithm for evolving programs to solve specific well-defined problems. It is a type of automatic programming intended for challenging problems where the task is well defined and solutions can be checked easily at a low cost, although the search space of possible solutions is vast, and there is little intuition [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/11/Foundations-of-Genetic-Programming.jpeg"
+        },
+        {
+            "id": 8732,
+            "title": "Blending Ensemble Machine Learning With Python",
+            "url": "https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Blending is an ensemble machine learning algorithm. It is a colloquial name for stacked generalization or stacking ensemble where instead of fitting the meta-model on out-of-fold predictions made by the base model, it is fit on predictions made on a holdout dataset. Blending was used to describe stacking models that combined many hundreds of predictive [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/11/Blending-Ensemble-Machine-Learning-With-Python.jpg"
+        },
+        {
+            "id": 8733,
+            "title": "How to Develop Random Forest Ensembles With XGBoost",
+            "url": "https://machinelearningmastery.com/random-forest-ensembles-with-xgboost/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-27T00:00:00",
+            "description": "The XGBoost library provides an efficient implementation of gradient boosting that can be configured to train random forest ensembles. Random forest is a simpler algorithm than gradient boosting. The XGBoost library allows the models to be trained in a way that repurposes and harnesses the computational efficiencies implemented in the library for training random forest [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/08/Box-Plots-of-XGBoost-Random-Forest-Feature-Set-Size-vs.-Classification-Accuracy.png"
+        },
+        {
+            "id": 8734,
+            "title": "How to Develop a Light Gradient Boosted Machine (LightGBM) Ensemble",
+            "url": "https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-25T00:00:00",
+            "description": "Light Gradient Boosted Machine, or LightGBM for short, is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm. LightGBM extends the gradient boosting algorithm by adding a type of automatic feature selection as well as focusing on boosting examples with larger gradients. This can result in a dramatic speedup [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-Plots-of-LightGBM-Ensemble-Tree-Depth-vs.-Classification-Accuracy.png"
+        },
+        {
+            "id": 8735,
+            "title": "Extreme Gradient Boosting (XGBoost) Ensemble in Python",
+            "url": "https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-23T00:00:00",
+            "description": "Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm. Although other open-source implementations of the approach existed before XGBoost, the release of XGBoost appeared to unleash the power of the technique and made the applied machine learning community take notice of gradient boosting more [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-Plots-of-XGBoost-Ensemble-Column-Ratio-vs.-Classification-Accuracy.png"
+        },
+        {
+            "id": 8736,
+            "title": "A Gentle Introduction to PyCaret for Machine Learning",
+            "url": "https://machinelearningmastery.com/pycaret-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "PyCaret is a Python open source machine learning library designed to make performing standard tasks in a machine learning project easy. It is a Python version of the Caret machine learning package in R, popular because it allows models to be evaluated, compared, and tuned on a given dataset with just a few lines of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/03/A-Gentle-Introduction-to-PyCaret-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8737,
+            "title": "How to Develop a Feature Selection Subspace Ensemble in Python",
+            "url": "https://machinelearningmastery.com/feature-selection-subspace-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-18T00:00:00",
+            "description": "Random subspace ensembles consist of the same model fit on different randomly selected groups of input features (columns) in the training dataset. There are many ways to choose groups of features in the training dataset, and feature selection is a popular class of data preparation techniques designed specifically for this purpose. The features selected by [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-and-Whisker-Plots-of-Accuracy-of-Singles-Model-Fit-On-Selected-Features-vs-Ensemble.png"
+        },
+        {
+            "id": 8738,
+            "title": "Develop a Bagging Ensemble with Different Data Transformations",
+            "url": "https://machinelearningmastery.com/bagging-ensemble-with-different-data-transformations/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-16T00:00:00",
+            "description": "Bootstrap aggregation, or bagging, is an ensemble where each model is trained on a different sample of the training dataset. The idea of bagging can be generalized to other techniques for changing the training dataset and fitting the same model on each changed version of the data. One approach is to use data transforms that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-and-Whisker-Plot-of-MAE-Distributions-for-Individual-Models-and-Data-Transform-Ensemble.png"
+        },
+        {
+            "id": 8739,
+            "title": "Multivariate Adaptive Regression Splines (MARS) in Python",
+            "url": "https://machinelearningmastery.com/multivariate-adaptive-regression-splines-mars-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "Multivariate Adaptive Regression Splines, or MARS, is an algorithm for complex non-linear regression problems. The algorithm involves finding a set of simple linear functions that in aggregate result in the best predictive performance. In this way, MARS is a type of ensemble of simple linear functions and can achieve good performance on challenging regression problems [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/12/Multivariate-Adaptive-Regression-Splines-MARS-in-Python.jpg"
+        },
+        {
+            "id": 8740,
+            "title": "How to Identify Overfitting Machine Learning Models in Scikit-Learn",
+            "url": "https://machinelearningmastery.com/overfitting-machine-learning-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-11-11T00:00:00",
+            "description": "Overfitting is a common explanation for the poor performance of a predictive model. An analysis of learning dynamics can help to identify whether a model has overfit the training dataset and may suggest an alternate configuration to use that could result in better predictive performance. Performing an analysis of learning dynamics is straightforward for algorithms [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/Line-Plot-of-Decision-Tree-Accuracy-on-Train-and-Test-Datasets-for-Different-Tree-Depths.png"
+        },
+        {
+            "id": 8741,
+            "title": "Develop an Intuition for How Ensemble Learning Works",
+            "url": "https://machinelearningmastery.com/how-ensemble-learning-works/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "Ensembles are a machine learning method that combine the predictions from multiple models in an effort to achieve better predictive performance. There are many different types of ensembles, although all approaches have two key properties: they require that the contributing models are different so that they make different errors and they combine the predictions in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Example-of-Combining-Hyperplanes-Using-an-Ensemble.png"
+        },
+        {
+            "id": 8742,
+            "title": "Stochastic Hill Climbing in Python from Scratch",
+            "url": "https://machinelearningmastery.com/stochastic-hill-climbing-in-python-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2020-11-06T00:00:00",
+            "description": "Stochastic Hill climbing is an optimization algorithm. It makes use of randomness as part of the search process. This makes the algorithm appropriate for nonlinear objective functions where other local search algorithms do not operate well. It is also a local search algorithm, meaning that it modifies a single solution and searches the relatively local [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/10/Response-Surface-of-Objective-Function-with-Sequence-of-Best-Solutions-Plotted-as-Black-Dots.png"
+        },
+        {
+            "id": 8743,
+            "title": "Curve Fitting With Python",
+            "url": "https://machinelearningmastery.com/curve-fitting-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2020-11-04T00:00:00",
+            "description": "Curve fitting is a type of optimization that finds an optimal set of parameters for a defined function that best fits a given set of observations. Unlike supervised learning, curve fitting requires that you define the function that maps examples of inputs to outputs. The mapping function, also called the basis function can have any [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2021/02/Curve-Fitting-With-Python.jpg"
+        },
+        {
+            "id": 8744,
+            "title": "Random Forest for Time Series Forecasting",
+            "url": "https://machinelearningmastery.com/random-forest-for-time-series-forecasting/",
+            "authors": "Jason Brownlee",
+            "tags": "Time Series",
+            "publishedOn": "2020-11-02T00:00:00",
+            "description": "Random Forest is a popular and effective ensemble machine learning algorithm. It is widely used for classification and regression predictive modeling problems with structured (tabular) data sets, e.g. data as it looks in a spreadsheet or database table. Random Forest can also be used for time series forecasting, although it requires that the time series [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/10/Line-Plot-of-Expected-vs.-Births-Predicted-Using-Random-Forest.png"
+        },
+        {
+            "id": 8745,
+            "title": "How to Develop a Random Subspace Ensemble With Python",
+            "url": "https://machinelearningmastery.com/random-subspace-ensemble-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-10-30T00:00:00",
+            "description": "Random Subspace Ensemble is a machine learning algorithm that combines the predictions from multiple decision trees trained on different subsets of columns in the training dataset. Randomly varying the columns used to train each contributing member of the ensemble has the effect of introducing diversity into the ensemble and, in turn, can lift performance over [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/11/Box-Plot-of-Random-Subspace-Ensemble-Features-vs.-Classification-Accuracy.png"
+        },
+        {
+            "id": 8746,
+            "title": "Error-Correcting Output Codes (ECOC) for Machine Learning",
+            "url": "https://machinelearningmastery.com/error-correcting-output-codes-ecoc-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-10-28T00:00:00",
+            "description": "Machine learning algorithms, like logistic regression and support vector machines, are designed for two-class (binary) classification problems. As such, these algorithms must either be modified for multi-class (more than two) classification problems or not used at all. The Error-Correcting Output Codes method is a technique that allows a multi-class classification problem to be reframed as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Box-and-Whisker-Plots-of-Bits-Per-Class-vs-Distribution-of-Classification-Accuracy-for-ECOC.png"
+        },
+        {
+            "id": 8747,
+            "title": "Why Use Ensemble Learning?",
+            "url": "https://machinelearningmastery.com/why-use-ensemble-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-10-26T00:00:00",
+            "description": "What are the Benefits of Ensemble Methods for Machine Learning? Ensembles are predictive models that combine predictions from two or more other models. Ensemble learning methods are popular and the go-to technique when the best performance on a predictive modeling project is the most important outcome. Nevertheless, they are not always the most appropriate technique [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/10/Why-Use-Ensemble-Learning.jpg"
+        },
+        {
+            "id": 8748,
+            "title": "A Gentle Introduction to Ensemble Learning",
+            "url": "https://machinelearningmastery.com/what-is-ensemble-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-10-23T00:00:00",
+            "description": "Many decisions we make in life are based on the opinions of multiple other people. This includes choosing a book to read based on reviews, choosing a course of action based on the advice of multiple medical doctors, and determining guilt. Often, decision making by a group of individuals results in a better outcome than [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/10/A-Gentle-Introduction-to-Ensemble-Learning.jpg"
+        },
+        {
+            "id": 8749,
+            "title": "6 Books on Ensemble Learning",
+            "url": "https://machinelearningmastery.com/ensemble-learning-books/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-10-21T00:00:00",
+            "description": "Ensemble learning involves combining the predictions from multiple machine learning models. The effect can be both improved predictive performance and lower variance of the predictions made by the model. Ensemble methods are covered in most textbooks on machine learning; nevertheless, there are books dedicated to the topic. In this post, you will discover the top [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Ensemble-Learning-Pattern-Classification-Using-Ensemble-Methods.jpg"
+        },
+        {
+            "id": 8750,
+            "title": "Softmax Activation Function with Python",
+            "url": "https://machinelearningmastery.com/softmax-activation-function-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2020-10-19T00:00:00",
+            "description": "Softmax is a mathematical function that converts a vector of numbers into a vector of probabilities, where the probabilities of each value are proportional to the relative scale of each value in the vector. The most common use of the softmax function in applied machine learning is in its use as an activation function in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Softmax-Activation-Function-with-Python.jpg"
+        },
+        {
+            "id": 8751,
+            "title": "How to Develop LARS Regression Models in Python",
+            "url": "https://machinelearningmastery.com/lars-regression-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-10-16T00:00:00",
+            "description": "Regression is a modeling task that involves predicting a numeric value given an input. Linear regression is the standard algorithm for regression that assumes a linear relationship between inputs and the target variable. An extension to linear regression involves adding penalties to the loss function during training that encourage simpler models that have smaller coefficient [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/How-to-Develop-LARS-Regression-Models-in-Python.jpg"
+        }
+    ]
+}

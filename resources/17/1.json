@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9919,
+            "title": "Summarizing Books with Human Feedback",
+            "url": "https://openai.com/blog/summarizing-books/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-09-23T00:00:00",
+            "description": "Scaling human oversight of AI systems for tasks that are difficult to evaluate.",
+            "thumbnail": "https://openai.com/content/images/2021/09/books-og-image-1.png"
+        },
+        {
+            "id": 9920,
+            "title": "Helen Toner Joins OpenAI\u2019s Board of Directors",
+            "url": "https://openai.com/blog/helen-toner-joins/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2021-09-08T00:00:00",
+            "description": "Today, we\u2019re excited to announce the appointment of Helen Toner to our Board of\nDirectors. As the Director of Strategy at Georgetown\u2019s Center for Security and\nEmerging Technology (CSET), Helen has deep expertise in AI policy and global AI\nstrategy research. This appointment advances our dedication to the",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9921,
+            "title": "OpenAI Codex",
+            "url": "https://openai.com/blog/openai-codex/",
+            "authors": null,
+            "tags": "API, Announcements",
+            "publishedOn": "2021-08-10T00:00:00",
+            "description": "We\u2019ve created an improved version of OpenAI Codex, our AI system that translates\nnatural language to code, and we are releasing it through our API in private\nbeta starting today. Codex is the model that powers GitHub Copilot\n[https://copilot.github.com/], which we built and launched in partnership",
+            "thumbnail": "https://openai.com/content/images/2021/09/codex-og-image-color.png"
+        },
+        {
+            "id": 9922,
+            "title": "Introducing Triton: Open-Source GPU Programming for Neural Networks",
+            "url": "https://openai.com/blog/triton/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-07-28T00:00:00",
+            "description": "We're releasing Triton 1.0, an open-source Python-like programming language\nwhich enables researchers with no CUDA experience to write highly efficient GPU\ncode\u2014most of the time on par with what an expert would be able to produce.\nTriton makes it possible to reach peak hardware performance with relatively\nlittle",
+            "thumbnail": "https://openai.com/content/images/2021/07/triton-og-image.png"
+        },
+        {
+            "id": 9923,
+            "title": "Improving Language Model Behavior by Training on a Curated Dataset",
+            "url": "https://openai.com/blog/improving-language-model-behavior/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-06-10T00:00:00",
+            "description": "Our latest research finds we can improve language model behavior with respect to specific behavioral values by fine-tuning on a small, curated dataset.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9924,
+            "title": "OpenAI Startup Fund",
+            "url": "https://openai.com/blog/fund/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2021-05-26T00:00:00",
+            "description": "The OpenAI Startup Fund is investing $100 million to help AI companies have a profound, positive impact on the world.",
+            "thumbnail": "https://openaifundproduction.blob.core.windows.net/fundfonts/social.png"
+        },
+        {
+            "id": 9925,
+            "title": "OpenAI Scholars 2021: Final Projects",
+            "url": "https://openai.com/blog/openai-scholars-2021-final-projects/",
+            "authors": null,
+            "tags": "Events, Scholars",
+            "publishedOn": "2021-05-10T00:00:00",
+            "description": "We\u2019re proud to announce that the 2021 class of OpenAI Scholars\n[http://openai.com/scholars] has completed our six-month mentorship program and\nhave produced an open-source research project with stipends and support from\nOpenAI.\n\nWorking alongside leading OpenAI researchers that created GPT-3 and DALL\u00b7E, our\nScholars explored topics",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9926,
+            "title": "Will Hurd Joins OpenAI\u2019s Board of Directors",
+            "url": "https://openai.com/blog/will-hurd-joins/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2021-05-03T00:00:00",
+            "description": "We\u2019re delighted to announce that Congressman Will Hurd has joined our board of directors.",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9927,
+            "title": "GPT-3 Powers the Next Generation of Apps",
+            "url": "https://openai.com/blog/gpt-3-apps/",
+            "authors": null,
+            "tags": "API, Announcements",
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "Over 300 applications are delivering GPT-3\u2013powered search, conversation, text completion, and other advanced AI features through our API.",
+            "thumbnail": "https://openai.com/content/images/2021/05/gpt-3-apps-social.png"
+        },
+        {
+            "id": 9928,
+            "title": "Multimodal Neurons in Artificial Neural Networks",
+            "url": "https://openai.com/blog/multimodal-neurons/",
+            "authors": null,
+            "tags": "Research, Milestones, Multimodal",
+            "publishedOn": "2021-03-04T00:00:00",
+            "description": "We\u2019ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually.",
+            "thumbnail": "https://openai.com/content/images/2021/03/multimodal-neurons.jpg"
+        },
+        {
+            "id": 9929,
+            "title": "Scaling Kubernetes to 7,500 Nodes",
+            "url": "https://openai.com/blog/scaling-kubernetes-to-7500-nodes/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-01-25T00:00:00",
+            "description": "We've scaled Kubernetes clusters to 7,500 nodes, producing a scalable\ninfrastructure for large models like GPT-3 [https://arxiv.org/abs/2005.14165], \nCLIP [https://openai.com/blog/clip/], and DALL\u00b7E\n[https://openai.com/blog/dall-e/], but also for rapid small-scale iterative\nresearch such as Scaling Laws for Neural",
+            "thumbnail": "https://openai.com/content/images/2021/01/twitter-image-6.png"
+        },
+        {
+            "id": 9930,
+            "title": "DALL\u00b7E: Creating Images from Text",
+            "url": "https://openai.com/blog/dall-e/",
+            "authors": null,
+            "tags": "Research, Milestones, Multimodal",
+            "publishedOn": "2021-01-05T00:00:00",
+            "description": "We\u2019ve trained a neural network called DALL\u00b7E that creates images from text captions for a wide range of concepts expressible in natural language.",
+            "thumbnail": "https://openai.com/content/images/2021/01/2x-no-mark-1.jpg"
+        },
+        {
+            "id": 9931,
+            "title": "CLIP: Connecting Text and Images",
+            "url": "https://openai.com/blog/clip/",
+            "authors": null,
+            "tags": "Research, Milestones, Multimodal",
+            "publishedOn": "2021-01-05T00:00:00",
+            "description": "We\u2019re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision.",
+            "thumbnail": "https://openai.com/content/images/2021/01/2x-no-mark.jpg"
+        },
+        {
+            "id": 9932,
+            "title": "Organizational Update from OpenAI",
+            "url": "https://openai.com/blog/organizational-update/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2020-12-29T00:00:00",
+            "description": "It\u2019s been a year of dramatic change and growth at OpenAI. In May, we introduced\nGPT-3\u2014the most powerful language model to date\u2014and soon afterward launched our\nfirst commercial product, an API to safely access artificial intelligence models\nusing simple, natural-language prompts. We\u2019re proud of these and",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9933,
+            "title": "OpenAI at NeurIPS 2020",
+            "url": "https://openai.com/blog/neurips-2020/",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "Live demos and discussions at our virtual booth.",
+            "thumbnail": "https://openai.com/content/images/2021/06/openai-neurips-social.png"
+        },
+        {
+            "id": 9934,
+            "title": "OpenAI Licenses GPT-3 Technology to Microsoft",
+            "url": "https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/",
+            "authors": null,
+            "tags": "Announcements",
+            "publishedOn": "2020-09-22T00:00:00",
+            "description": "OpenAI released its first commercial product back in June: an API\n[https://openai.com/blog/openai-api/] for developers to access advanced technologies\nfor building new applications and services. The API features a powerful general\npurpose language model, GPT-3 [https://arxiv.org/abs/2005.14165], and has\nreceived tens of thousands",
+            "thumbnail": "https://openai.com/content/images/2020/09/openai-msft-twitter_7-21b.jpg"
+        },
+        {
+            "id": 9935,
+            "title": "Learning to Summarize with Human Feedback",
+            "url": "https://openai.com/blog/learning-to-summarize-with-human-feedback/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-09-04T00:00:00",
+            "description": "We've applied reinforcement learning from human feedback to train language\nmodels that are better at summarization. Our models generate summaries that are\nbetter than summaries from 10x larger models trained only with supervised\nlearning. Even though we train our models on the Reddit TL;DR dataset, the same\nmodels transfer",
+            "thumbnail": "https://openai.com/content/images/2020/12/human-feedback.png"
+        },
+        {
+            "id": 9936,
+            "title": "OpenAI Scholars 2020: Final Projects",
+            "url": "https://openai.com/blog/openai-scholars-2020-final-projects/",
+            "authors": null,
+            "tags": "Events, Scholars",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "Our third class of OpenAI Scholars presented their final projects at virtual Demo Day, showcasing their research results from over the past five months.",
+            "thumbnail": "https://openai.com/content/images/2020/07/openai-scholars-gradient-horizontal-stacked-2.png"
+        },
+        {
+            "id": 9937,
+            "title": "Image GPT",
+            "url": "https://openai.com/blog/image-gpt/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2020-06-17T00:00:00",
+            "description": "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples.",
+            "thumbnail": "https://openai.com/content/images/2020/06/completions-3x5-clean-1.png"
+        },
+        {
+            "id": 9938,
+            "title": "OpenAI API",
+            "url": "https://openai.com/blog/openai-api/",
+            "authors": null,
+            "tags": "API, Announcements",
+            "publishedOn": "2020-06-11T00:00:00",
+            "description": "We\u2019re releasing an API for accessing new AI models developed by OpenAI. Unlike\nmost AI systems which are designed for one use-case, the API today provides a\ngeneral-purpose \u201ctext in, text out\u201d interface, allowing users to try it on\nvirtually any English language task. You can now request access",
+            "thumbnail": "https://openai.com/content/images/2020/09/curlFINAL.png"
+        },
+        {
+            "id": 9939,
+            "title": "Procgen and MineRL Competitions",
+            "url": "https://openai.com/blog/procgen-minerl-competitions/",
+            "authors": null,
+            "tags": "Announcements, Events",
+            "publishedOn": "2020-06-09T00:00:00",
+            "description": "We\u2019re excited to announce that OpenAI is co-organizing two NeurIPS 2020\ncompetitions with AIcrowd [https://www.aicrowd.com], Carnegie Mellon University\n[https://www.cmu.edu/], and DeepMind [https://deepmind.com/], using Procgen\nBenchmark [https://openai.com/blog/procgen-benchmark/] and MineRL\n[http://minerl.io]. We rely heavily on these environments",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9940,
+            "title": "AI and Efficiency",
+            "url": "https://openai.com/blog/ai-and-efficiency/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-05-05T00:00:00",
+            "description": "We\u2019re releasing an analysis showing that since 2012 the amount of compute needed\nto train a neural net to the same performance on ImageNet classification has\nbeen decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes\n44 times less compute to train a",
+            "thumbnail": "https://openai.com/content/images/2020/05/ai-and-efficiency-social.png"
+        },
+        {
+            "id": 9941,
+            "title": "Jukebox",
+            "url": "https://openai.com/blog/jukebox/",
+            "authors": null,
+            "tags": "Research, Milestones",
+            "publishedOn": "2020-04-30T00:00:00",
+            "description": "We\u2019re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We\u2019re releasing the model weights and code, along with a tool to explore the generated samples.",
+            "thumbnail": "https://openai.com/content/images/2020/04/2x-no-mark-1.jpg"
+        },
+        {
+            "id": 9942,
+            "title": "Improving Verifiability\nin AI Development",
+            "url": "https://openai.com/blog/improving-verifiability/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-04-16T00:00:00",
+            "description": "We\u2019ve contributed to a multi-stakeholder report by 58 co-authors at 30\norganizations, including the Centre for the Future of Intelligence\n[http://lcfi.ac.uk/], Mila [https://mila.quebec/en/], Schwartz Reisman\nInstitute\nfor Technology and Society [https://sr-institute.utoronto.ca/], Center for\nAdvanced Study in the Behavioral Sciences [https:",
+            "thumbnail": "https://openai.com/content/images/2022/05/twitter-1.png"
+        },
+        {
+            "id": 9943,
+            "title": "OpenAI Microscope",
+            "url": "https://openai.com/blog/microscope/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2020-04-14T00:00:00",
+            "description": "We\u2019re introducing OpenAI Microscope, a collection of visualizations of every significant layer and neuron of eight vision \u201cmodel organisms\u201d which are often studied in interpretability.",
+            "thumbnail": "https://openai.com/content/images/2020/04/microscope-social_4-8a-2.jpg"
+        },
+        {
+            "id": 9944,
+            "title": "OpenAI Standardizes on PyTorch",
+            "url": "https://openai.com/blog/openai-pytorch/",
+            "authors": null,
+            "tags": "Research, Announcements",
+            "publishedOn": "2020-01-30T00:00:00",
+            "description": "We are standardizing OpenAI\u2019s deep learning framework on PyTorch\n[https://pytorch.org/]. In the past, we implemented projects in many frameworks\ndepending on their relative strengths. We\u2019ve now chosen to standardize to make\nit easier for our team to create and share optimized implementations of our\nmodels.\n\n\n\nAs",
+            "thumbnail": "https://openai.com/content/images/2020/02/openai-pytorch-vertical.png"
+        },
+        {
+            "id": 9945,
+            "title": "Deep Double Descent",
+            "url": "https://openai.com/blog/deep-double-descent/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-12-05T00:00:00",
+            "description": "We show that the double [https://arxiv.org/abs/1812.11118] descent\n[https://arxiv.org/abs/1710.03667] phenomenon [https://arxiv.org/abs/1809.09349] \noccurs in CNNs, ResNets, and transformers: performance first improves, then gets\nworse, and then improves again with increasing model size, data size, or\ntraining time.",
+            "thumbnail": "https://openai.com/content/images/2019/12/Frame-1--3-.png"
+        },
+        {
+            "id": 9946,
+            "title": "Procgen Benchmark",
+            "url": "https://openai.com/blog/procgen-benchmark/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-12-03T00:00:00",
+            "description": "We\u2019re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.",
+            "thumbnail": "https://openai.com/content/images/2019/12/og-image.jpg"
+        },
+        {
+            "id": 9947,
+            "title": "Safety Gym",
+            "url": "https://openai.com/blog/safety-gym/",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2019-11-21T00:00:00",
+            "description": "We're releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents which respect safety constraints while training.",
+            "thumbnail": "https://openai.com/content/images/2019/11/safety-gym-cover-2.png"
+        },
+        {
+            "id": 9948,
+            "title": "GPT-2: 1.5B Release",
+            "url": "https://openai.com/blog/gpt-2-1-5b-release/",
+            "authors": null,
+            "tags": "Research, GPT-2",
+            "publishedOn": "2019-11-05T00:00:00",
+            "description": "As the final model release of GPT-2\u2019s staged release, we\u2019re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models.",
+            "thumbnail": "https://openai.com/content/images/2019/11/gpt-update-social_11-4b-1.jpg"
+        }
+    ]
+}

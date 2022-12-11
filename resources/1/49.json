@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1424,
+            "title": "Automated video editing with YOU as the star!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-video-editing-with-you-as-the-star/",
+            "authors": "John Rotenstein",
+            "tags": "Amazon Rekognition Video",
+            "publishedOn": "2018-04-10T00:00:00",
+            "description": "In this blog post, you will learn how to combine the capabilities of Amazon Rekognition Video and Amazon Elastic Transcoder to automatically convert a long video into a highlight video showing all footage of a given person.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/08/you-as-the-star-1.jpg"
+        },
+        {
+            "id": 1425,
+            "title": "Learn about ASLens \u2013 A deep learning project that uses AWS DeepLens to translate the American Sign Language alphabet to speech",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-about-aslens-a-deep-learning-project-that-uses-aws-deeplens-to-translate-the-american-sign-language-alphabet-to-speech/",
+            "authors": "Sally Revell",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-04-06T00:00:00",
+            "description": "Chris Coombs travelled all the way from Melbourne, Australia to attend AWS re:Invent 2017. He was delighted to be one of the lucky few to get his hands on AWS DeepLens. He put it to good use by entering the AWS DeepLens Challenge Hackathon. A man of many talents, he is a husband and father [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/06/aslens-1-f.jpg"
+        },
+        {
+            "id": 1426,
+            "title": "Apache MXNet Model Server adds optimized container images for Model Serving at scale",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apache-mxnet-model-server-adds-optimized-container-images-for-model-serving-at-scale/",
+            "authors": "Vamshidhar Dantu, Hagay Lupesko, Ankit Khedia",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-04-04T00:00:00",
+            "description": "Today AWS released Apache MXNet Model Server (MMS) v0.3, which streamlines the deployment of model serving for production use cases. The release includes pre-built container images that are optimized for deep learning workloads on GPU and CPU. This enables engineers to set up a scalable serving infrastructure. To learn more about Apache MXNet Model Server [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/03/mms-april-1-1-939x630.gif"
+        },
+        {
+            "id": 1427,
+            "title": "Translate a chat channel using Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/translate-a-chat-channel-using-amazon-translate/",
+            "authors": "Kashif Imran",
+            "tags": "Amazon Translate",
+            "publishedOn": "2018-04-04T00:00:00",
+            "description": "Every day millions of users around the world communicate with each other through email, social networks, and other online communities including chat platforms and message boards. Many times, users find a community interesting and want to participate in the chat conversation, but the primary language of the online community might be different than the language [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/03/translate-chat-1.gif"
+        },
+        {
+            "id": 1428,
+            "title": "Build smart chat apps with Amazon machine learning APIs and the PubNub ChatEngine",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-smart-chat-apps-with-amazon-machine-learning-apis-and-the-pubnub-chatengine/",
+            "authors": "Adam Bavosa",
+            "tags": "Amazon Comprehend, Amazon Polly, Amazon Translate",
+            "publishedOn": "2018-04-04T00:00:00",
+            "description": "The demand for chat apps is growing wildly. From social apps to business collaboration, in-game chat to customer support, every app needs chat. Chat apps like Telegram are making mainstream news and generating widespread interest.\r\n\r\nHistorically, building a scalable, feature-rich chat app was surprisingly difficult. Not anymore. PubNub ChatEngine has integrated Amazon machine learning APIs, which makes building intelligent, scalable chat apps super easy for mobile and web.\r\n\r\nIn this blog post, you'll learn how to spin up the PubNub ChatEngine and add Amazon Translate and Amazon Polly for cross-lingual, speech-enabled chat apps that you can embed anywhere.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/04/4-1.gif"
+        },
+        {
+            "id": 1429,
+            "title": "Create accessible training with Initiafy and Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-accessible-training-with-initiafy-and-amazon-polly/",
+            "authors": "Ronan O'Sullivan, Conor McNally",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-04-02T00:00:00",
+            "description": "We\u2019ve become so accustomed to the existence of skyscrapers, road networks, oil rigs, hydroelectric dams, nuclear power plants, wind turbines, suspension bridges, and all the other incredible feats of human engineering populating our world, that some might overlook the remarkable effort that goes into their construction. These projects are not built by robots. A huge amount of human effort is required to bring them into existence, in addition to the technology used to design, streamline, and improve processes.\r\n\r\nInitiafy makes the workforce element of projects more productive and efficient. Heavy industry projects rely on contractors, with related management challenges of handling documents, health and safety, and quality control. Initiafy provides contractor management on an online platform, giving workers training in a flexible way and ensuring standards are high across a contingent workforce. Initiafy operates in a number of countries, with workers coming from a number of nationalities so it is vital that training is accessible for all workers.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/29/initiafy-1.png"
+        },
+        {
+            "id": 1430,
+            "title": "Learn about SafeHaven: The third place winner of the AWS DeepLens Challenge Hackathon",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-about-safehaven-the-third-place-winner-of-the-aws-deeplens-challenge-hackathon/",
+            "authors": "Sally Revell",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-03-30T00:00:00",
+            "description": "Nathan Stone (NS) and Peter McLean (PM) are a team both professionally at Haven Power, a business energy supplier in Ipswich, UK, and also off the clock when they recently collaborated to create SafeHaven, the third place winner in the AWS DeepLens Challenge. SafeHaven was designed to protect vulnerable people, by enabling them to identify [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/30/safehaven-2.jpg"
+        },
+        {
+            "id": 1431,
+            "title": "Text Classification with Gluon on Amazon SageMaker and AWS Batch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/text-classification-with-gluon-on-amazon-sagemaker-and-aws-batch/",
+            "authors": "Matt Krzus, Jason Berkowitz",
+            "tags": "Amazon SageMaker, Apache MXNet on AWS",
+            "publishedOn": "2018-03-30T00:00:00",
+            "description": "Our customer had a problem: The manual classification of warranty claims was causing a bottleneck. These claims were based on a text field that explained the event in short detail. An example of that text looked something like this: \u201cThe plutonium-fueled nuclear reactor overheated on a hot day in Arizona\u2019s recent inclement weather. Burn damage [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1432,
+            "title": "Train faster, more flexible models with Amazon SageMaker Linear Learner",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-faster-more-flexible-models-with-amazon-sagemaker-linear-learner/",
+            "authors": "Philip Gautier, Cyrus Vahid, Saswata Chakravarty, Zohar Karnin",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-28T00:00:00",
+            "description": "Today Amazon SageMaker is launching several additional features to the built-in\u00a0linear learner algorithm. Amazon SageMaker algorithms are designed to scale effortlessly to massive datasets and take advantage of the latest hardware optimizations for unparalleled speed. The Amazon SageMaker linear learner algorithm encompasses both linear regression and binary classification algorithms. These algorithms are used extensively in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/27/loss_functions-900x630.gif"
+        },
+        {
+            "id": 1433,
+            "title": "Faster training with optimized TensorFlow 1.6 on Amazon EC2 C5 and P3 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/faster-training-with-optimized-tensorflow-1-6-on-amazon-ec2-c5-and-p3-instances/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-03-26T00:00:00",
+            "description": "The AWS Deep Learning AMIs come with latest pip packages of popular deep learning frameworks pre-installed in separate virtual environments so that developers can quickly get started with training deep learning models. The new version of the Deep Learning AMIs for Ubuntu and Amazon Linux now come with TensorFlow 1.6, built with advanced optimizations for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/21/faster-training-1.gif"
+        },
+        {
+            "id": 1434,
+            "title": "Learn about Dee: The DeepLens Educating Entertainer \u2013 The second place winner of the AWS DeepLens Challenge Hackathon",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-about-dee-the-deeplens-educating-entertainer-the-second-place-winner-of-the-aws-deeplens-challenge-hackathon/",
+            "authors": "Sally Revell",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-03-23T00:00:00",
+            "description": "Matthew Clark is a software developer turned architect. He lives in Manchester in the north of England, and he\u2019s soon to be the proud owner of a new kitchen. He\u2019s also the creator of Dee \u2013 the DeepLens Educating Entertainer, which won second place in the AWS DeepLens Challenge. Dee is an example of how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/23/dee-1-1.jpg"
+        },
+        {
+            "id": 1435,
+            "title": "Build a March Madness predictor application supported by Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-march-madness-predictor-application-supported-by-amazon-sagemaker/",
+            "authors": "Wesley Pasfield",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-23T00:00:00",
+            "description": "What an opening round of March Madness basketball tournament games! We had a buzzer beater, some historic upsets, and exciting games throughout. The model built in our first blog post (Part 1) pointed out a few likely upset candidates (Loyola IL, Butler), but did not see some coming (Marshall, UMBC). I\u2019m sure there will be [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/15/basketball-social.jpg"
+        },
+        {
+            "id": 1436,
+            "title": "Amazon Polly releases new SSML Breath feature",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-releases-new-ssml-breath-feature/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-03-22T00:00:00",
+            "description": "Natural human speech frequently includes audible breathing sounds as a speaker inhales or exhales during normal speaking. For example, when we speak, we generally take a breath at major pauses. Narrations without breathing sounds produced by Text-to-Speech (TTS) engines often the lack naturalness of a human narrator. Most TTS systems don\u2019t include respiratory sounds in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1437,
+            "title": "Create a Word-Pronunciation sequence-to-sequence model using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-word-pronunciation-sequence-to-sequence-model-using-amazon-sagemaker/",
+            "authors": "Tatsuya Arai, David Arpin, Saurabh Gupta, Orchid Majumder, Sunil Mallya",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker",
+            "publishedOn": "2018-03-21T00:00:00",
+            "description": "Amazon SageMaker seq2seq offers you a very simple way to make use of the state-of-the-art encoder-decoder architecture (including the attention mechanism) for your sequence to sequence tasks. You just need to prepare your sequence data in recordio-protobuf format and your vocabulary mapping files in JSON format. Then you need to upload them to Amazon Simple [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/19/seq2seq-sagemaker-5.gif"
+        },
+        {
+            "id": 1438,
+            "title": "Mount an EFS file system to an Amazon SageMaker notebook (with lifecycle configurations)",
+            "url": "https://aws.amazon.com/blogs/machine-learning/mount-an-efs-file-system-to-an-amazon-sagemaker-notebook-with-lifecycle-configurations/",
+            "authors": "David Arpin",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-20T00:00:00",
+            "description": "In this blog post, we\u2019ll show you how you can mount an Amazon Elastic File System (EFS) to your Amazon SageMaker notebook instance. This is an easy way to store and access large datasets, and to share machine learning scripts from your SageMaker notebook instance.\u00a0Amazon SageMaker notebooks provide fast access to your own instance running [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1439,
+            "title": "Learn about ReadToMe \u2013 The first place winner of the AWS DeepLens Challenge Hackathon",
+            "url": "https://aws.amazon.com/blogs/machine-learning/learn-about-readtome-the-first-place-winner-of-the-aws-deeplens-challenge-hackathon/",
+            "authors": "Sally Revell",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-03-16T00:00:00",
+            "description": "When Alex Schultz first heard about the AWS DeepLens workshop in Dr. Matt Wood\u2019s keynote address at re:Invent 2017, little did he know that a few months later he would be the first place winner of the AWS DeepLens Challenge Hackathon, owe his kids $400, and be the star of a blog post on the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/16/readtome-1.jpg"
+        },
+        {
+            "id": 1440,
+            "title": "Customize your Amazon SageMaker notebook instances with lifecycle configurations and the option to disable internet access",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customize-your-amazon-sagemaker-notebook-instances-with-lifecycle-configurations-and-the-option-to-disable-internet-access/",
+            "authors": "Fan Li",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-15T00:00:00",
+            "description": "Amazon SageMaker provides fully managed instances running Jupyter Notebooks for data exploration and preprocessing. Customers really appreciate how easy it is to launch a pre-configured notebook instance with just one click. Today, we are making them more customizable by providing two new options: lifecycle configuration that helps automate the process of customizing your notebook instance, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/15/sagemaker-march-5.gif"
+        },
+        {
+            "id": 1441,
+            "title": "Predict March Madness using Amazon Sagemaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predict-march-madness-using-amazon-sagemaker/",
+            "authors": "Wesley Pasfield",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-15T00:00:00",
+            "description": "It\u2019s mid-March and in the United States that can mean only one thing \u2013 it\u2019s time for March Madness! Every year countless people fill out a bracket trying to pick which college basketball team will take it all. Do you have a favorite team to win in 2018? In this blog post, we\u2019ll show you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/15/basketball-social.jpg"
+        },
+        {
+            "id": 1442,
+            "title": "Use Amazon CloudWatch custom metrics for real-time monitoring of\u00a0Amazon Sagemaker model performance",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-cloudwatch-custom-metrics-for-real-time-monitoring-of-amazon-sagemaker-model-performance/",
+            "authors": "Will Badr",
+            "tags": "Amazon CloudWatch, Amazon SageMaker",
+            "publishedOn": "2018-03-14T00:00:00",
+            "description": "The training and learning process of deep learning (DL) models can be expensive and time consuming. It\u2019s important for data scientists to monitor the model metrics, such as the training accuracy, training loss, validation accuracy, and validation loss, and make informed decisions based on those metrics. In this blog post, I\u2019ll show you how to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/07/cloudwatch-sagemaker-8.gif"
+        },
+        {
+            "id": 1443,
+            "title": "Deploy Gluon models to AWS DeepLens using a simple Python API",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-gluon-models-to-aws-deeplens-using-a-simple-python-api/",
+            "authors": "Tatsuya Arai, Eddie Calleja, Brad Kenstler, Jyothi Nookula, Sunil Mallya, Vikram Madan",
+            "tags": "Amazon SageMaker, AWS DeepLens",
+            "publishedOn": "2018-03-13T00:00:00",
+            "description": "Today we are excited to announce that you can deploy your custom models trained using Gluon to your AWS DeepLens. Gluon is an open source deep learning interface which allows developers of all skill levels to prototype, build, train, and deploy sophisticated machine learning models for the cloud, devices at the edge, and mobile apps. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/08/headpose-1-1.jpg"
+        },
+        {
+            "id": 1444,
+            "title": "Train and host Scikit-Learn models in Amazon SageMaker by building a Scikit Docker container",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/",
+            "authors": "Morgan Du, Thomas Hughes",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-03-09T00:00:00",
+            "description": "Introduced at re:Invent 2017, Amazon SageMaker provides a serverless data science environment to build, train, and deploy machine learning models at scale. Customers also have the ability to work with frameworks they find most familiar, such as Scikit learn. In this blog post, we\u2019ll accomplish two goals: First, we\u2019ll give you a high-level overview of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/07/scikit-sagemaker-1.gif"
+        },
+        {
+            "id": 1445,
+            "title": "Amazon Polly powers Nexmo\u2019s next-gen text-to-speech use cases",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-powers-nexmos-next-gen-text-to-speech-use-cases/",
+            "authors": "Roland Selmer",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-03-07T00:00:00",
+            "description": "As a cloud communications provider that allows businesses to integrate communications capabilities into their applications, Nexmo, the Vonage API Platform, needed a text-to-speech (TTS) solution to help deliver the many synthesized speech use cases we enable for our customers. The solution that we chose had to meet our technological requirements and product philosophy to power Nexmo\u2019s global TTS offerings.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/06/nexmo-1-social.gif"
+        },
+        {
+            "id": 1446,
+            "title": "Announcing the winners of the AWS DeepLens Challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winners-of-the-aws-deeplens-challenge/",
+            "authors": "Sally Revell",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2018-03-02T00:00:00",
+            "description": "At AWS re:Invent 2017 we announced the AWS DeepLens Challenge in conjunction with Intel. The AWS DeepLens Challenge gave attendees of the re:Invent DeepLens workshops an opportunity to put their skills to the test by building a machine learning (ML) project using their AWS DeepLens. The mission was to get creative with computer vision and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/03/02/deeplens-challenge-1-social.gif"
+        },
+        {
+            "id": 1447,
+            "title": "AWS Deep Learning AMIs now support Chainer and latest versions of PyTorch and Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-support-chainer-and-latest-versions-of-pytorch-and-apache-mxnet/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-02-28T00:00:00",
+            "description": "The AWS Deep Learning AMIs\u00a0provide fully-configured environments so that artificial intelligence (AI) developers and data scientists can quickly get started with deep learning models. The Amazon Machine Images (AMIs) now include Chainer (v3.4.0), a flexible and intuitive deep learning (DL) framework, as well as the latest versions of Apache MXNet and PyTorch. The Chainer define-by-run [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1448,
+            "title": "Amazon SageMaker support for TensorFlow 1.5, MXNet 1.0, and CUDA 9",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-support-for-tensorflow-1-5-mxnet-1-0-and-cuda-9/",
+            "authors": "David Arpin",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-02-27T00:00:00",
+            "description": "Amazon SageMaker pre-built deep learning framework containers now support TensorFlow 1.5 and Apache MXNet 1.0, both of which take advantage of CUDA 9 optimizations for faster performance on SageMaker ml.p3 instances. In addition to performance benefits, this provides access to updated features such as\u00a0Eager execution in TensorFlow and advanced indexing for NDArrays in MXNet. More [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1449,
+            "title": "Build an online compound solubility prediction workflow with AWS Batch and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-online-compound-solubility-prediction-workflow-with-aws-batch-and-amazon-sagemaker/",
+            "authors": "Amr Ragab",
+            "tags": "Amazon SageMaker, AWS Batch",
+            "publishedOn": "2018-02-26T00:00:00",
+            "description": "Machine learning (ML) methods for the field of computational chemistry are growing at an accelerated rate. Easy access to open-source solvers (such as TensorFlow\u00a0and Apache MXNet), toolkits (such as RDKit cheminformatics software), and open-scientific initiatives (such as DeepChem) makes it easy to use these frameworks in daily research. In the field of chemical informatics, many [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/23/compound-solubility-v2-3.gif"
+        },
+        {
+            "id": 1450,
+            "title": "Build your own object classification model in SageMaker and import it to DeepLens",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-your-own-object-classification-model-in-sagemaker-and-import-it-to-deeplens/",
+            "authors": "Mahendra Bairagi, Jyothi Nookula",
+            "tags": "Amazon SageMaker, AWS DeepLens",
+            "publishedOn": "2018-02-22T00:00:00",
+            "description": "We are excited to launch a new feature for AWS DeepLens that allows you to import models trained using Amazon SageMaker directly into the AWS DeepLens console with one click. This feature is available as of AWS DeepLens software version 1.2.3. You can update your AWS DeepLens software by re-booting your device or by using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/22/sagemaker-to-deeplens-8.gif"
+        },
+        {
+            "id": 1451,
+            "title": "Amazon Polly plugin for WordPress now preinstalled on Bitnami AMIs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-plugin-for-wordpress-now-preinstalled-on-bitnami-amis/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-02-16T00:00:00",
+            "description": "On February 8, we released the Amazon Polly plugin for WordPress, which enables you to easily voice content and publish podcasts directly from your website. By leveraging audio, you can provide your readers with an alternative way to consume your content and meet the needs of a larger audience. Today, we\u2019re excited to announce that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1452,
+            "title": "Create softer speech with the new Amazon Polly phonation tag",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-softer-speech-with-the-new-amazon-polly-phonation-tag/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly, AWS Quest",
+            "publishedOn": "2018-02-15T00:00:00",
+            "description": "Speech Synthesis Markup Language (SSML) is a standardized markup language that enables developers to modify Text-to-Speech (TTS) audio. With SSML, you can control various vocal characteristics of TTS output, such as pronunciation, speech rate, and other elements, to produce a more natural-sounding voice experience. Today, we are excited to announce a new phonation SSML tag [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1453,
+            "title": "Enhance Your Amazon Lex Chatbots with Responses",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhance-your-amazon-lex-chatbots-with-responses/",
+            "authors": "John Reed",
+            "tags": "Amazon Lex",
+            "publishedOn": "2018-02-08T00:00:00",
+            "description": "You can now add responses to your Amazon Lex chatbots directly from the AWS Management Console. Use responses to set up dynamic, engaging interactions with your users. Using responses Responses are the final element of a bot\u2019s intent, and are displayed to users after the fulfillment of the intent is complete. \u00a0A response might include [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/07/lex-responses-7-1.gif"
+        }
+    ]
+}

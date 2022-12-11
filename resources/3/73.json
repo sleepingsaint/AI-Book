@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 4134,
+            "title": "Acrobot with Deep Q-Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/acrobot-with-deep-q-learning/",
+            "authors": "Eugenia Anello",
+            "tags": "Advanced, Reinforcement Learning",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "Acrobot is a game, in which a robotic arm is composed of two joints and two links and the joint between the two links is actued.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/34058dqn_acrobot.png"
+        },
+        {
+            "id": 4135,
+            "title": "JupyterLab 3.0 : Jupyter\u2019s Next-Gen Notebook Interface",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/jupyterlab-3-0-for-data-science/",
+            "authors": "Shivangi Sharma",
+            "tags": "Beginner, Data Science, Machine Learning",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "Jupyter \u2014 An open-source, interactive tool known as a computational notebook. In this article we will discuss about the latest JupyterLab 3.0.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/35250Copy-of-Untitled-Design.png"
+        },
+        {
+            "id": 4136,
+            "title": "Classification of Crops using Machine Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/classification-of-crops-using-machine-learning/",
+            "authors": "Priyal Agarwal",
+            "tags": "Agriculture, Beginner, Classification, Data Science, Machine Learning, Project, Python, Structured Data",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "In this project we will perform classification and try to predict the status of the crop as damaged or not damaged using machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/88684pexels-tetyana-kovyrina-1600139-scaled.jpg"
+        },
+        {
+            "id": 4137,
+            "title": "Introduction to Audio Classification",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/introduction-to-audio-classification/",
+            "authors": "Shivangi Sharma",
+            "tags": "Advanced, Audio, Classification, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "Audio classification or sound classification can be referred to as the process of analyzing audio recordings which is important to know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/74218Copy-of-Copy-of-Untitled-Design-2.png"
+        },
+        {
+            "id": 4138,
+            "title": "Pandas.Styler : Styling the Pandas DataFrame",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/pandas-styler-styling-the-pandas-dataframe/",
+            "authors": "Neelu Tiwari",
+            "tags": "Beginner, Pandas, Python, Structured Data, Technique",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "In this blog, will see various styles which can be added to a DataFrame for more interactive visualization of DataFrames using Pandas.Styler.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/pandas.png"
+        },
+        {
+            "id": 4139,
+            "title": "AdaBoost : A Brief Introduction to Ensemble learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/adaboost-a-brief-introduction-to-ensemble-learning/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Adaboost is an ensemble learning technique. It is a boosting algorithm. In this article adaboost explained in detail with python code.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/58391ada.jpg"
+        },
+        {
+            "id": 4140,
+            "title": "MNIST Dataset Prediction Using Keras!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mnist-dataset-prediction-using-keras/",
+            "authors": "Sriniketh J",
+            "tags": "Beginner, Classification, Datasets, Deep Learning, Unstructured Data",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "The blog deals with MNIST Dataset. It consists of handwritten digits from 0 to 9 and provides a pavement for testing image processing systems.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/78429blog-5-cover.png"
+        },
+        {
+            "id": 4141,
+            "title": "Automated Machine Learning for Supervised Learning (Part 1)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/automated-machine-learning-for-supervised-learning-part-1/",
+            "authors": "Rendyk",
+            "tags": "Advanced, Automl, Machine Learning",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Automated Machine Learning only needs a few lines to do most of the steps above, but not all of the steps. Let's understand AutoML here",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/64590automated-feature-engineering.png"
+        },
+        {
+            "id": 4142,
+            "title": "Hypothesis Testing- Parametric and Non-Parametric Tests in Statistics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/hypothesis-testing-parametric-and-non-parametric-tests-in-statistics/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Data Science, Maths, Statistics, Structured Data",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Hypothesis testing is an important concept in Statistics. In this article, we will be discussing parametric and non-parametric tests",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 4143,
+            "title": "How does Backward Propagation Work in Neural Networks?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-does-backward-propagation-work-in-neural-networks/",
+            "authors": "Neha Seth",
+            "tags": "Advanced, Deep Learning, Maths",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Backward propagation is a process of moving from the Output to the Input layer. Learn the working of backward propagation in neural networks.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/04/neu.jpeg"
+        },
+        {
+            "id": 4144,
+            "title": "Understand The DBSCAN Clustering Algorithm!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/understand-the-dbscan-clustering-algorithm/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Algorithm, Beginner, Core ML, Machine Learning, Python, Unsupervised",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "DBSCAN algorithm is a Density based clustering algorithm. In this article learn about the DBSCAN clustering algorithm and its implementation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/32407iStock-1043306656.jpg"
+        },
+        {
+            "id": 4145,
+            "title": "How to Learn Mathematics For Machine Learning? What Concepts do You Need to Master in Data Science?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-to-learn-mathematics-for-machine-learning-what-concepts-do-you-need-to-master-in-data-science/",
+            "authors": "Ananya Chakraborty",
+            "tags": "Beginner, Education, Interview Questions, Machine Learning, Maths, Probability, Statistics",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "In this article, understand how to Learn Mathematics For Machine Learning and Data Science. What Mathematica Concepts Do You Need to Master",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69884ML.jpg"
+        },
+        {
+            "id": 4146,
+            "title": "How Open Source Beats Proprietary Software Helps for MLOps?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/how-open-source-beats-proprietary-software-helps-for-mlops/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Advanced, Machine Learning",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "We create our own MLOps structure from utterly open source organizations. This article discusses why control of your program is crucial.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 4147,
+            "title": "Interpolation \u2013 Power of Interpolation in Python to fill Missing Values",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, Data Cleaning, Data Science, Python, Structured Data",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Interpolation is a technique used to estimate unknown data points between two known data points i.e to impute missing values in the dataframe",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/79790Interpolation-feature-img.png"
+        },
+        {
+            "id": 4148,
+            "title": "Data Analysis- Exploring New Oil with Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/data-analysis-exploring-new-oil-with-python/",
+            "authors": "Saptarshi Dutta",
+            "tags": "Beginner, Data Science, Python, Structured Data",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Exploratory Data Analysis is a process to examine a dataset to discover patterns, detect irregularities, and statistically analyze assumptions",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image2.png"
+        },
+        {
+            "id": 4149,
+            "title": "Covid Detection using X-Ray",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/covid-detection-using-x-ray/",
+            "authors": "Parth Dave",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Structured Data, Supervised",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "In this blog, we are going to identify whether or not a person has covid. We try and perform Covid Detection using X-Ray in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/ft4.jpg"
+        },
+        {
+            "id": 4150,
+            "title": "Build Treemaps in Python using Squarify",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/build-treemaps-in-python-using-squarify/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Data Visualization, Libraries, Python, Structured Data, Technique",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "Treemaps visualization is one of the easiest visualization techniques. Build treemaps in python using Squarify",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/data-visualization-whiz.png"
+        },
+        {
+            "id": 4151,
+            "title": "Beginner-friendly Project- Cat and Dog classification using CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/",
+            "authors": "Khushi Shah",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Structured Data",
+            "publishedOn": "2021-06-01T00:00:00",
+            "description": "In this article we are going to Beginner-friendly Project which is the Cat and Dog classification using CNN or Convolutional Neural networks",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/32407iStock-1043306656.jpg"
+        },
+        {
+            "id": 4152,
+            "title": "Python List Programs For Absolute Beginners \u2013 Part II",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/python-list-programs-for-absolute-beginners-part-ii/",
+            "authors": "Rahul Shah",
+            "tags": "Beginner, Interviews, Programming, Python",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Python list programs for absolute beginners. In this article, we will look upon more programs on List in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 4153,
+            "title": "Doing Data Exploration the right way \u2013 GRE Scores Case Study",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/doing-data-exploration-the-right-way-gre-scores-case-study/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Exploration, Data Visualization, Education, Project, Python, Structured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Meaningful data exploration is very important. There are often, no definite guides or roadmaps to execute data exploration.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/exploring-data-1-1.png"
+        },
+        {
+            "id": 4154,
+            "title": "The First Look and Getting started with Kaggle",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/the-first-look-and-getting-started-with-kaggle/",
+            "authors": "Gargeya Sharma",
+            "tags": "Beginner, Data Science, Machine Learning, Programming, Resource",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "In this blog, we will be looking at Kaggle as a whole community and Kaggle as a Platform: all its tools, and services for data science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/581190_ftOal7fKVCNtJr4N.png"
+        },
+        {
+            "id": 4155,
+            "title": "Hand Gesture Recognition using Colour Based Technology",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/hand-gesture-recognition-using-colour-based-technology/",
+            "authors": "Rishav Agarwal",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Technique, Unstructured Data, Unsupervised, Use Cases",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "A hand gesture recognition system that requires the use of a coloured object and only a webcam can give way to many more such works",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/handpose.png"
+        },
+        {
+            "id": 4156,
+            "title": "Complete Guide to Point Estimators in Statistics for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/complete-guide-to-point-estimators-in-statistics-for-data-science/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Maths, Statistics",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Post Estimators are important concepts of the Estimation Theory. Learn about properties of point estimators and its importantance",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/61961ee.jpg"
+        },
+        {
+            "id": 4157,
+            "title": "Convolutional Neural Networks : Understand the Basics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-understand-the-basics/",
+            "authors": "Shivam Bhardwaj",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate, Object Detection, Unstructured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Convolutional Neural Networks are a widely used deep learning model. Learn the basics of CNN, and applications of CNN in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/88985FIE.jpg"
+        },
+        {
+            "id": 4158,
+            "title": "Guide For Loss Function in Tensorflow",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/guide-for-loss-function-in-tensorflow/",
+            "authors": "Pravin Borate",
+            "tags": "Advanced, Libraries, Machine Learning, Maths, Project, Python",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Tensorflow loss functions is also called an error function or cost function. Learn about loss function in tensorflow and its implementation",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/Tensorflow-.jpg"
+        },
+        {
+            "id": 4159,
+            "title": "Bagging- 25 Questions to Test Your Skills on Random Forest Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/bagging-25-questions-to-test-your-skills-on-random-forest-algorithm/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Interviews, Listicle, Machine Learning, Structured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Discover the important Random Forest interview questions to get a clear understanding of the Algorithm and ace the interview",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/articles_img_main.jpg"
+        },
+        {
+            "id": 4160,
+            "title": "Normal Distribution : An Ultimate Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/normal-distribution-an-ultimate-guide/",
+            "authors": "Aashi Goyal",
+            "tags": "Beginner, Data Science, Statistics, Structured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Normal distribution is also known as Gaussian distribution. In this article, we will explore all the concepts about Normal Distribution",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/51240maxresdefault.jpg"
+        },
+        {
+            "id": 4161,
+            "title": "Are Indians Happy? Analyze World Happiness Data Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/are-indians-happy-analyze-world-happiness-data-using-python/",
+            "authors": "Akshay Gupta",
+            "tags": "Beginner, Data Visualization, Machine Learning, Project, Python, Social Sector, Structured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "In this blog, we are going to analyze the World happiness data using Python. We will answer the question- Are Indians Happy?",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/woman-happiness-sunrise-silhouette-40192.jpeg"
+        },
+        {
+            "id": 4162,
+            "title": "Training state-of-the-art Deep Learning models with Fast.ai",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/training-state-of-the-art-deep-learning-models-with-fast-ai/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Image Analysis, Libraries, Project, Python, Structured Data",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Fast.ai is a deep learning library and one of the most popular deep learning frameworks. Learn about deep learning model with Fast.ai",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/featured_image-1.jpg"
+        },
+        {
+            "id": 4163,
+            "title": "Conquering Imposter Syndrome in the Data Science Ecosystem",
+            "url": "https://www.analyticsvidhya.com/blog/2021/05/conquering-imposter-syndrome-in-the-data-science-ecosystem/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Data Science, Interview Questions, Listicle",
+            "publishedOn": "2021-05-31T00:00:00",
+            "description": "Here, we will discuss about imposter syndrome in data science ecosystem and share some ideas to help you defeat your imposter syndrome.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/dscareer.png"
+        }
+    ]
+}

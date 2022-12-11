@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8782,
+            "title": "How to Use XGBoost for Time Series Forecasting",
+            "url": "https://machinelearningmastery.com/xgboost-for-time-series-forecasting/",
+            "authors": "Jason Brownlee",
+            "tags": "XGBoost",
+            "publishedOn": "2020-08-05T00:00:00",
+            "description": "XGBoost is an efficient implementation of gradient boosting for classification and regression problems. It is both fast and efficient, performing well, if not the best, on a wide range of predictive modeling tasks and is a favorite among data science competition winners, such as those on Kaggle. XGBoost can also be used for time series [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/08/Line-Plot-of-Expected-vs.-Births-Predicted-Using-XGBoost3.png"
+        },
+        {
+            "id": 8783,
+            "title": "Repeated k-Fold Cross-Validation for Model Evaluation in Python",
+            "url": "https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-08-03T00:00:00",
+            "description": "The k-fold cross-validation procedure is a standard method for estimating the performance of a machine learning algorithm or configuration on a dataset. A single run of the k-fold cross-validation procedure may result in a noisy estimate of model performance. Different splits of the data may result in very different results. Repeated k-fold cross-validation provides a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Box-and-Whisker-Plots-of-Classification-Accuracy-vs-Repeats-for-k-Fold-Cross-Validation.png"
+        },
+        {
+            "id": 8784,
+            "title": "How to Configure k-Fold Cross-Validation",
+            "url": "https://machinelearningmastery.com/how-to-configure-k-fold-cross-validation/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-07-31T00:00:00",
+            "description": "The k-fold cross-validation procedure is a standard method for estimating the performance of a machine learning algorithm on a dataset. A common value for k is 10, although how do we know that this configuration is appropriate for our dataset and our algorithms? One approach is to explore the effect of different k values on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Line-Plot-of-Mean-Accuracy-for-Cross-Validation-k-Values-with-Error-Bars-Blue-vs-the-Ideal-Case-red.png"
+        },
+        {
+            "id": 8785,
+            "title": "Nested Cross-Validation for Machine Learning with Python",
+            "url": "https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-07-29T00:00:00",
+            "description": "The k-fold cross-validation procedure is used to estimate the performance of machine learning models when making predictions on data not used during training. This procedure can be used both when optimizing the hyperparameters of a model on a dataset, and when comparing and selecting a model for the dataset. When the same cross-validation procedure and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Nested-Cross-Validation-for-Machine-Learning-with-Python.jpg"
+        },
+        {
+            "id": 8786,
+            "title": "LOOCV for Evaluating Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/loocv-for-evaluating-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-07-27T00:00:00",
+            "description": "The Leave-One-Out Cross-Validation, or LOOCV, procedure is used to estimate the performance of machine learning algorithms when they are used to make predictions on data not used to train the model. It is a computationally expensive procedure to perform, although it results in a reliable and unbiased estimate of model performance. Although simple to use [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/LOOCV-for-Evaluating-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 8787,
+            "title": "Train-Test Split for Evaluating Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "The train-test split procedure is used to estimate the performance of machine learning algorithms when they are used to make predictions on data not used to train the model. It is a fast and easy procedure to perform, the results of which allow you to compare the performance of machine learning algorithms for your predictive [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Train-Test-Split-for-Evaluating-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 8788,
+            "title": "How to Selectively Scale Numerical Input Variables for Machine Learning",
+            "url": "https://machinelearningmastery.com/selectively-scale-numerical-input-variables-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "Many machine learning models perform better when input variables are carefully transformed or scaled prior to modeling. It is convenient, and therefore common, to apply the same data transforms, such as standardization and normalization, equally to all input variables. This can achieve good results on many problems. Nevertheless, better results may be achieved by carefully [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/Histogram-of-Each-Variable-in-the-Diabetes-Classification-Dataset.png"
+        },
+        {
+            "id": 8789,
+            "title": "Add Binary Flags for Missing Values for Machine Learning",
+            "url": "https://machinelearningmastery.com/binary-flags-for-missing-values-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-20T00:00:00",
+            "description": "Missing values can cause problems when modeling classification and regression prediction problems with machine learning algorithms. A common approach is to replace missing values with a calculated statistic, such as the mean of the column. This allows the dataset to be modeled as per normal but gives no indication to the model that the row [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Add-Binary-Flags-for-Missing-Values-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8790,
+            "title": "How to Create Custom Data Transforms for Scikit-Learn",
+            "url": "https://machinelearningmastery.com/create-custom-data-transforms-for-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-17T00:00:00",
+            "description": "The scikit-learn Python library for machine learning offers a suite of data transforms for changing the scale and distribution of input data, as well as removing input features (columns). There are many simple data cleaning operations, such as removing outliers and removing columns with few observations, that are often performed manually to the data, requiring [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/How-to-Create-Custom-Data-Transforms-for-Scikit-Learn.jpg"
+        },
+        {
+            "id": 8791,
+            "title": "How to Grid Search Data Preparation Techniques",
+            "url": "https://machinelearningmastery.com/grid-search-data-preparation-techniques/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-15T00:00:00",
+            "description": "Machine learning predictive modeling performance is only as good as your data, and your data is only as good as the way you prepare it for modeling. The most common approach to data preparation is to study a dataset and review the expectations of a machine learning algorithms, then carefully choose the most appropriate data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/Box-and-Whisker-Plot-of-Classification-Accuracy-for-Different-Data-Transforms-on-the-Wine-Classification-Dataset.png"
+        },
+        {
+            "id": 8792,
+            "title": "Framework for Data Preparation Techniques in Machine Learning",
+            "url": "https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-13T00:00:00",
+            "description": "There are a vast number of different types of data preparation techniques that could be used on a predictive modeling project. In some cases, the distribution of the data or the requirements of a machine learning model may suggest the data preparation needed, although this is rarely the case given the complexity and high-dimensionality of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Machine-Learning-Data-Preparation-Framework.png"
+        },
+        {
+            "id": 8793,
+            "title": "6 Dimensionality Reduction Algorithms With Python",
+            "url": "https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-10T00:00:00",
+            "description": "Dimensionality reduction is an unsupervised learning technique. Nevertheless, it can be used as a data transform pre-processing step for machine learning algorithms on classification and regression predictive modeling datasets with supervised learning algorithms. There are many dimensionality reduction algorithms to choose from and no single best algorithm for all cases. Instead, it is a good [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Dimensionality-Reduction-Algorithms-With-Python.jpg"
+        },
+        {
+            "id": 8794,
+            "title": "4 Automatic Outlier Detection Algorithms in Python",
+            "url": "https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-08T00:00:00",
+            "description": "The presence of outliers in a classification or regression dataset can result in a poor fit and lower predictive modeling performance. Identifying and removing outliers is challenging with simple statistical methods for most machine learning datasets given the large number of input variables. Instead, automatic outlier detection methods can be used in the modeling pipeline [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/Model-Based-Outlier-Detection-and-Removal-in-Python.jpg"
+        },
+        {
+            "id": 8795,
+            "title": "How to Use Feature Extraction on Tabular Data for Machine Learning",
+            "url": "https://machinelearningmastery.com/feature-extraction-on-tabular-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-06T00:00:00",
+            "description": "Machine learning predictive modeling performance is only as good as your data, and your data is only as good as the way you prepare it for modeling. The most common approach to data preparation is to study a dataset and review the expectations of a machine learning algorithm, then carefully choose the most appropriate data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/How-to-Use-Feature-Extraction-on-Tabular-Data-for-Data-Preparation.jpg"
+        },
+        {
+            "id": 8796,
+            "title": "How to Choose Data Preparation Methods for Machine Learning",
+            "url": "https://machinelearningmastery.com/choose-data-preparation-methods-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-03T00:00:00",
+            "description": "Data preparation is an important part of a predictive modeling project. Correct application of data preparation will transform raw data into a representation that allows learning algorithms to get the most out of the data and make skillful predictions. The problem is choosing a transform or sequence of transforms that results in a useful representation [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/07/How-to-Choose-Data-Preparation-Methods-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8797,
+            "title": "8 Top Books on Data Cleaning and Feature Engineering",
+            "url": "https://machinelearningmastery.com/books-on-data-cleaning-data-preparation-and-feature-engineering/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-07-01T00:00:00",
+            "description": "Data preparation is the transformation of raw data into a form that is more appropriate for modeling. It is a challenging topic to discuss as the data differs in form, type, and structure from project to project. Nevertheless, there are common data preparation tasks across projects. It is a huge field of study and goes [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Feature-Engineering-for-Machine-Learning2.png"
+        },
+        {
+            "id": 8798,
+            "title": "Data Preparation for Machine Learning (7-Day Mini-Course)",
+            "url": "https://machinelearningmastery.com/data-preparation-for-machine-learning-7-day-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-29T00:00:00",
+            "description": "Data Preparation for Machine Learning Crash Course. Get on top of data preparation with Python in 7 days. Data preparation involves transforming raw data into a form that is more appropriate for modeling. Preparing data may be the most important part of a predictive modeling project and the most time-consuming, although it seems to be [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/Data-Preparation-for-Machine-Learning-7-Day-Mini-Course.jpg"
+        },
+        {
+            "id": 8799,
+            "title": "Feature Engineering and Selection (Book Review)",
+            "url": "https://machinelearningmastery.com/feature-engineering-and-selection-book-review/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-26T00:00:00",
+            "description": "Data preparation is the process of transforming raw data into learning algorithms. In some cases, data preparation is a required step in order to provide the data to an algorithm in its required input format. In other cases, the most appropriate representation of the input data is not known and must be explored in a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Feature-Engineering-and-Selection.jpg"
+        },
+        {
+            "id": 8800,
+            "title": "kNN Imputation for Missing Values in Machine Learning",
+            "url": "https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-24T00:00:00",
+            "description": "Datasets may have missing values, and this can cause problems for many machine learning algorithms. As such, it is good practice to identify and replace missing values for each column in your input data prior to modeling your prediction task. This is called missing data imputation, or imputing for short. A popular approach to missing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/Box-and-Whisker-Plot-of-Imputation-Number-of-Neighbors-for-the-Horse-Colic-Dataset2.png"
+        },
+        {
+            "id": 8801,
+            "title": "How to Avoid Data Leakage When Performing Data Preparation",
+            "url": "https://machinelearningmastery.com/data-preparation-without-data-leakage/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-22T00:00:00",
+            "description": "Data preparation is the process of transforming raw data into a form that is appropriate for modeling. A naive approach to preparing data applies the transform on the entire dataset before evaluating the performance of the model. This results in a problem referred to as data leakage, where knowledge of the hold-out test set leaks [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/How-to-Avoid-Data-Leakage-When-Performing-Data-Preparation.jpg"
+        },
+        {
+            "id": 8802,
+            "title": "Tour of Data Preparation Techniques for Machine Learning",
+            "url": "https://machinelearningmastery.com/data-preparation-techniques-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-19T00:00:00",
+            "description": "Predictive modeling machine learning projects, such as classification and regression, always involve some form of data preparation. The specific data preparation required for a dataset depends on the specifics of the data, such as the variable types, as well as the algorithms that will be used to model them that may impose expectations or requirements [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/06/Overview-of-Data-Transform-Techniques.png"
+        },
+        {
+            "id": 8803,
+            "title": "What Is Data Preparation in a Machine Learning Project",
+            "url": "https://machinelearningmastery.com/what-is-data-preparation-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-17T00:00:00",
+            "description": "Data preparation may be one of the most difficult steps in any machine learning project. The reason is that each dataset is different and highly specific to the project. Nevertheless, there are enough commonalities across predictive modeling projects that we can define a loose sequence of steps and subtasks that you are likely to perform. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/What-Is-Data-Preparation-in-a-Machine-Learning-Project.jpg"
+        },
+        {
+            "id": 8804,
+            "title": "Why Data Preparation Is So Important in Machine Learning",
+            "url": "https://machinelearningmastery.com/data-preparation-is-important/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-15T00:00:00",
+            "description": "On a predictive modeling project, machine learning algorithms learn a mapping from input variables to a target variable. The most common form of predictive modeling project involves so-called structured data or tabular data. This is data as it looks in a spreadsheet or a matrix, with rows of examples and columns of features for each [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/Why-Data-Preparation-Is-So-Important-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8805,
+            "title": "Ordinal and One-Hot Encodings for Categorical Data",
+            "url": "https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-12T00:00:00",
+            "description": "Machine learning models require all input and output variables to be numeric. This means that if your data contains categorical data, you must encode it to numbers before you can fit and evaluate a model. The two most popular techniques are an Ordinal Encoding and a One-Hot Encoding. In this tutorial, you will discover how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/09/Ordinal-and-One-Hot-Encoding-Transforms-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8806,
+            "title": "How to Use StandardScaler and MinMaxScaler Transforms in Python",
+            "url": "https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-10T00:00:00",
+            "description": "Many machine learning algorithms perform better when numerical input variables are scaled to a standard range. This includes algorithms that use a weighted sum of the input, like linear regression, and algorithms that use distance measures, like k-nearest neighbors. The two most popular techniques for scaling numerical data prior to modeling are normalization and standardization. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Histogram-Plots-of-StandardScaler-Transformed-Input-Variables-for-the-Sonar-Dataset.png"
+        },
+        {
+            "id": 8807,
+            "title": "How to Perform Feature Selection for Regression Data",
+            "url": "https://machinelearningmastery.com/feature-selection-for-regression-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-08T00:00:00",
+            "description": "Feature selection is the process of identifying and selecting a subset of input variables that are most relevant to the target variable. Perhaps the simplest case of feature selection is the case where there are numerical input variables and a numerical target for regression predictive modeling. This is because the strength of the relationship between [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Bar-Chart-of-the-Input-Features-x-vs-the-Mutual-Information-Feature-Importance-y-1.png"
+        },
+        {
+            "id": 8808,
+            "title": "How to Perform Feature Selection With Numerical Input Data",
+            "url": "https://machinelearningmastery.com/feature-selection-with-numerical-input-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-05T00:00:00",
+            "description": "Feature selection is the process of identifying and selecting a subset of input features that are most relevant to the target variable. Feature selection is often straightforward when working with real-valued input and output data, such as using the Pearson\u2019s correlation coefficient, but can be challenging when working with numerical input data and a categorical [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Bar-Chart-of-the-Input-Features-x-vs-The-Mutual-Information-Feature-Importance-y.png"
+        },
+        {
+            "id": 8809,
+            "title": "Iterative Imputation for Missing Values in Machine Learning",
+            "url": "https://machinelearningmastery.com/iterative-imputation-for-missing-values-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "Datasets may have missing values, and this can cause problems for many machine learning algorithms. As such, it is good practice to identify and replace missing values for each column in your input data prior to modeling your prediction task. This is called missing data imputation, or imputing for short. A sophisticated approach involves defining [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Box-and-Whisker-Plot-of-Number-of-Imputation-Iterations-on-the-Horse-Colic-Dataset.png"
+        },
+        {
+            "id": 8810,
+            "title": "Test-Time Augmentation For Tabular Data With Scikit-Learn",
+            "url": "https://machinelearningmastery.com/test-time-augmentation-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "Test-time augmentation, or TTA for short, is a technique for improving the skill of predictive models. It is typically used to improve the predictive performance of deep learning models on image datasets where predictions are averaged across multiple augmented versions of each image in the test dataset. Although popular with image datasets and neural network [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Line-Plot-of-Statistical-Noise-Added-to-Examples-in-TTA-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8811,
+            "title": "How to Use Polynomial Feature Transforms for Machine Learning",
+            "url": "https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-29T00:00:00",
+            "description": "Often, the input features for a predictive modeling task interact in unexpected and often nonlinear ways. These interactions can be identified and modeled by a learning algorithm. Another approach is to engineer new features that expose these interactions and see if they improve model performance. Additionally, transforms like raising input variables to a power can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/How-to-Use-Polynomial-Features-Transforms-for-Machine-Learning.jpg"
+        }
+    ]
+}

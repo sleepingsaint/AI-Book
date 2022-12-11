@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 11960,
+            "title": "Ensemble Methods Explained in Plain English: Bagging",
+            "url": "https://towardsai.net/p/l/ensemble-methods-explained-in-plain-english-bagging",
+            "authors": "Claudia Ng",
+            "tags": null,
+            "publishedOn": "2021-03-27T00:00:00",
+            "description": "Understand the intuition behind bagging with examples in Python Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1038/1*VtOUmMr25vw4-fvRkGUgWQ.png"
+        },
+        {
+            "id": 11961,
+            "title": "Image Intensity Manipulation",
+            "url": "https://towardsai.net/p/l/image-intensity-manipulation",
+            "authors": "Akula Hemanth Kumar",
+            "tags": null,
+            "publishedOn": "2021-03-27T00:00:00",
+            "description": "import numpy as npimport cv2from matplotlib import pyplot as pltimg = cv2.imread(folder_path + \"imgs/chapter3/man.jpg\", 0);plt.imshow(img, cmap = \"gray\");plt.show()Adding a...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1000/0*fl7kWNXbZxvQEf5e"
+        },
+        {
+            "id": 11962,
+            "title": "How Can Self-Supervised Models Benefit Different Computer Vision Tasks?",
+            "url": "https://towardsai.net/p/l/how-can-self-supervised-models-benefit-different-computer-vision-tasks",
+            "authors": "Vatsal Saglani",
+            "tags": null,
+            "publishedOn": "2021-03-27T00:00:00",
+            "description": "SimCLRv2 explained Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*AcVG7MNxg8E193fOpzJ0WQ.png"
+        },
+        {
+            "id": 11963,
+            "title": "Facebook AI Learned Object Recognition From 1 Billion Instagram Pics",
+            "url": "https://towardsai.net/p/l/facebook-ai-learned-object-recognition-from-1-billion-instagram-pics",
+            "authors": "Claire D. Costa",
+            "tags": null,
+            "publishedOn": "2021-03-26T00:00:00",
+            "description": "SEER: The start of a more powerful, flexible, and accessible era for computer vision Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1400/0*TDMOm-m99echbkcg.jpeg"
+        },
+        {
+            "id": 11964,
+            "title": "Building a Data Lake with AWS",
+            "url": "https://towardsai.net/p/l/building-a-data-lake-with-aws",
+            "authors": "Magdalena Konkiewicz",
+            "tags": null,
+            "publishedOn": "2021-03-26T00:00:00",
+            "description": "Learn about the benefits of data lakes and how to set them up quickly with AWS Lake Formation Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1200/0*FYaUQXg2izCD4bKO"
+        },
+        {
+            "id": 11965,
+            "title": "Dummy Estimator: A Short Concept in Sklearn",
+            "url": "https://towardsai.net/p/l/dummy-estimator-a-short-concept-in-sklearn",
+            "authors": "Amit Chauhan",
+            "tags": null,
+            "publishedOn": "2021-03-26T00:00:00",
+            "description": "Estimator checking in supervised learning Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*w46imS3GV4D-wKvB"
+        },
+        {
+            "id": 11966,
+            "title": "Can an AI understand what beauty is to us?",
+            "url": "https://towardsai.net/p/l/can-an-ai-understand-what-beauty-is-to-us",
+            "authors": "Louis (What\u2019s AI) Bouchard",
+            "tags": null,
+            "publishedOn": "2021-03-26T00:00:00",
+            "description": "This one reads your brain to generate personally attractive faces! Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1280/1*gMyfllyMYTyBlIrl9Itfvw.png"
+        },
+        {
+            "id": 11967,
+            "title": "Detect the Changes in Timeseries Data",
+            "url": "https://towardsai.net/p/l/detect-the-changes-in-timeseries-data",
+            "authors": "George Pipis",
+            "tags": null,
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "How to detect if there is any change in time-series data using R Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*7MjzBA7hZFYYAexN.png"
+        },
+        {
+            "id": 11968,
+            "title": "Fastai Course Chapter 1 on Linux",
+            "url": "https://towardsai.net/p/l/fastai-course-chapter-1-on-linux",
+            "authors": "David Littlefield",
+            "tags": null,
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "An expanded guide with definitions of terms and commands Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*fzBPYyPXfz3NWUMlSyytjg.png"
+        },
+        {
+            "id": 11969,
+            "title": "300 NLP Notebooks and Freedom",
+            "url": "https://towardsai.net/p/l/300-nlp-notebooks-and-freedom",
+            "authors": "Quantum Stat",
+            "tags": null,
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "Hey, Welcome Back! This is probably a good time to take you down the rabbit hole on the state of the Super Duper NLP Repo (SDNR)\ud83d\ude0e . The Super Duper NLP Repo If this is your...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*9MU0osivg03j9u9n"
+        },
+        {
+            "id": 11970,
+            "title": "How Mentoring Helped Me Become a Better Data Scientist",
+            "url": "https://towardsai.net/p/l/how-mentoring-helped-me-become-a-better-data-scientist",
+            "authors": "Arunn Thevapalan",
+            "tags": null,
+            "publishedOn": "2021-03-25T00:00:00",
+            "description": "Surprising ways you\u2019ll benefit when you keep giving unconditionally Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*mhhn8s2yWPFXBdZ8Ghhl2Q.jpeg"
+        },
+        {
+            "id": 11971,
+            "title": "Interpretability and Performance in a Single Model",
+            "url": "https://towardsai.net/p/l/interpretability-and-performance-in-a-single-model",
+            "authors": "Jesus Rodriguez",
+            "tags": null,
+            "publishedOn": "2021-03-24T00:00:00",
+            "description": "IBM Research published some clever research to build models that are model complex and interpretable. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1104/1*W2vIFz8JYDT2H6v0r_76Bg.png"
+        },
+        {
+            "id": 11972,
+            "title": "Ecommerce Data Analysis for Sales Strategy Using Python",
+            "url": "https://towardsai.net/p/l/ecommerce-data-analysis-for-sales-strategy-using-python",
+            "authors": "Juhi Sharma",
+            "tags": null,
+            "publishedOn": "2021-03-24T00:00:00",
+            "description": "K-mart sales strategy for the year 2020 based on the insights from the sales data in 2019. Introduction. Kmart is a leading online retailer in the US and as part of their...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1024/0*c8IeBOyJBfRPe7Xe"
+        },
+        {
+            "id": 11973,
+            "title": "Building a Relative Price Strength Metric",
+            "url": "https://towardsai.net/p/l/building-a-relative-price-strength-metric",
+            "authors": "Dhruva Krishnamurthy",
+            "tags": null,
+            "publishedOn": "2021-03-24T00:00:00",
+            "description": "Timing is key to making trades in the markets. You might know that overall sentiment is low, but once you have the fundamentals, you need\u2026 Continue reading on Towards AI \u00bb...",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*KhuDkpTeacAOIYPKjcN8wg.jpeg"
+        },
+        {
+            "id": 11974,
+            "title": "Make Your Dashboard Stand Out- Waffle Chart",
+            "url": "https://towardsai.net/p/l/make-your-dashboard-stand-out-waffle-chart",
+            "authors": "Memphis Meng",
+            "tags": null,
+            "publishedOn": "2021-03-23T00:00:00",
+            "description": "Impress your clients and bosses! Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1280/0*v_6c2xeryyxpDOsP"
+        },
+        {
+            "id": 11975,
+            "title": "Hypothesis Testing In Statistics with Examples",
+            "url": "https://towardsai.net/p/l/hypothesis-testing-in-statistics-with-examples",
+            "authors": "Amit Chauhan",
+            "tags": null,
+            "publishedOn": "2021-03-23T00:00:00",
+            "description": "A concept in statistics for data-driven decisions Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/777/1*fmfnkNuymu-7codhyZLkBQ.png"
+        },
+        {
+            "id": 11976,
+            "title": "Measure the Effectiveness of Covid-19 Vaccinations",
+            "url": "https://towardsai.net/p/l/measure-the-effectiveness-of-covid-19-vaccinations",
+            "authors": "George Pipis",
+            "tags": null,
+            "publishedOn": "2021-03-22T00:00:00",
+            "description": "An attempt to measure the effectiveness of Covid19 Vaccinations Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/730/0*PMRJZraF4-1IzG1t.png"
+        },
+        {
+            "id": 11977,
+            "title": "Make Your Dashboard Stand Out\u200a\u2014\u200aFill Percentage Ball Chart",
+            "url": "https://towardsai.net/p/l/make-your-dashboard-stand-out%e2%80%8a-%e2%80%8afill-percentage-ball-chart",
+            "authors": "Memphis Meng",
+            "tags": null,
+            "publishedOn": "2021-03-22T00:00:00",
+            "description": "Impress your audience and bosses! Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1280/0*RIbyOH822RR8Aynh"
+        },
+        {
+            "id": 11978,
+            "title": "Genetic Algorithm Optimization Algorithm",
+            "url": "https://towardsai.net/p/l/genetic-algorithm-optimization-algorithm",
+            "authors": "Renu Khandelwal",
+            "tags": null,
+            "publishedOn": "2021-03-22T00:00:00",
+            "description": "An optimization algorithm inspired by natural evolution such as selection, mutation, and cross-over Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/600/1*TZ840m0DvghL80GodVGLeQ.png"
+        },
+        {
+            "id": 11979,
+            "title": "Analyzing COVID-19 Vaccination Progress using Python and Plotly",
+            "url": "https://towardsai.net/p/l/analyzing-covid-19-vaccination-progress-using-python-and-plotly",
+            "authors": "Saiteja Kura",
+            "tags": null,
+            "publishedOn": "2021-03-22T00:00:00",
+            "description": "Let us try and find out how the world is progressing against COVID-19. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2000/1*Nd5bj1ulqoZF1MiXCRl9bw.jpeg"
+        },
+        {
+            "id": 11980,
+            "title": "Predicting the Remaining Useful Life of Turbofan Engine",
+            "url": "https://towardsai.net/p/l/predicting-the-remaining-useful-life-of-turbofan-engine",
+            "authors": "Eugenia Anello",
+            "tags": null,
+            "publishedOn": "2021-03-21T00:00:00",
+            "description": "An application on PHM08 Challenge Data Set provided by NASA Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/921/1*QKbO4je2-P1FnirBlp3oAg.png"
+        },
+        {
+            "id": 11981,
+            "title": "How To Use Weka to Predict Thyroid Disease",
+            "url": "https://towardsai.net/p/l/how-to-use-weka-to-predict-thyroid-disease",
+            "authors": "Ashutosh Malgaonkar",
+            "tags": null,
+            "publishedOn": "2021-03-21T00:00:00",
+            "description": "I. Dataset Information Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*JP9u38kLaktjixFeMV8T-g.jpeg"
+        },
+        {
+            "id": 11982,
+            "title": "Time Series Prediction using Spark",
+            "url": "https://towardsai.net/p/l/time-series-prediction-using-spark",
+            "authors": "Akash Goyal",
+            "tags": null,
+            "publishedOn": "2021-03-20T00:00:00",
+            "description": "Predicting next hour\u2019s pedestrian traffic using Spark Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*YVMYLfi489ey6NEWc0qrDA.png"
+        },
+        {
+            "id": 11983,
+            "title": "Facebook Blender is a Open Source Chatbot that can Converse About Any Topic",
+            "url": "https://towardsai.net/p/l/facebook-blender-is-a-open-source-chatbot-that-can-converse-about-any-topic",
+            "authors": "Jesus Rodriguez",
+            "tags": null,
+            "publishedOn": "2021-03-20T00:00:00",
+            "description": "The new conversational agent exhibit human-like behavior in conversations about almost any topic. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/675/0*W6QVN0dOSsX3FlRd.jpg"
+        },
+        {
+            "id": 11984,
+            "title": "A Comprehensive Guide to T-Tests in Excel",
+            "url": "https://towardsai.net/p/l/a-comprehensive-guide-to-t-tests-in-excel",
+            "authors": "Alana Rister",
+            "tags": null,
+            "publishedOn": "2021-03-20T00:00:00",
+            "description": "Are two things really different? Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*Y4CXzd7D3Kb3HRsF-r__zA.png"
+        },
+        {
+            "id": 11985,
+            "title": "The Language of QAnon",
+            "url": "https://towardsai.net/p/l/the-language-of-qanon",
+            "authors": "Luca Giovannini",
+            "tags": null,
+            "publishedOn": "2021-03-20T00:00:00",
+            "description": "Understanding the movement through their own words. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*91H4HMTQ68BkOZo73MjvzA.jpeg"
+        },
+        {
+            "id": 11986,
+            "title": "The Ultimate Guide to Understanding Model Drift in Machine Learning",
+            "url": "https://towardsai.net/p/l/the-ultimate-guide-to-understanding-model-drift-in-machine-learning",
+            "authors": "Arunn Thevapalan",
+            "tags": null,
+            "publishedOn": "2021-03-19T00:00:00",
+            "description": "Mandatory concepts every data scientist should know before it\u2019s too late. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*t7lx34vYoJ8lAeNU6un7_g.jpeg"
+        },
+        {
+            "id": 11987,
+            "title": "Analyzing Poetry in Python",
+            "url": "https://towardsai.net/p/l/analyzing-poetry-in-python",
+            "authors": "Curtis Thompson",
+            "tags": null,
+            "publishedOn": "2021-03-19T00:00:00",
+            "description": "Can we get a better understanding of Shakespeare through code? Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*ORuVYZ_Qcl1qYAA4lBT8tA.jpeg"
+        },
+        {
+            "id": 11988,
+            "title": "The Ultimate Guide on the AI Professional Certificates on edX 2021",
+            "url": "https://towardsai.net/p/l/the-ultimate-guide-on-the-ai-professional-certificates-on-edx-2021",
+            "authors": "Isabelle Fl\u00fcckiger",
+            "tags": null,
+            "publishedOn": "2021-03-19T00:00:00",
+            "description": "Which of the six programs should you choose? Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*dOGJdO_haokeb-S_T00Rrw.jpeg"
+        },
+        {
+            "id": 11989,
+            "title": "The Monty Hall Problem",
+            "url": "https://towardsai.net/p/l/the-monty-hall-problem",
+            "authors": "Micha\u0142 Oleszak",
+            "tags": null,
+            "publishedOn": "2021-03-18T00:00:00",
+            "description": "Or how to double your chances of winning a car by getting your probabilities right. Continue reading on Towards AI \u00bb Published via Towards AI",
+            "thumbnail": "https://cdn-images-1.medium.com/max/1992/1*XPHaLkfydJFFKXfZ9JfZ6Q.png"
+        }
+    ]
+}

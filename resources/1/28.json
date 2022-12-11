@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 794,
+            "title": "Real-time anomaly detection for Amazon Connect call quality using Amazon OpenSearch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es/",
+            "authors": "Kun Qian, Robertson Taylor",
+            "tags": "Amazon Connect, Amazon Machine Learning, Amazon OpenSearch Service, Analytics, Artificial Intelligence, Open Distro for Elasticsearch",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. If your contact center is serving calls over the internet, network metrics like packet loss, jitter, and round-trip time are key to understanding call quality. In the post Easily monitor call quality with Amazon Connect, we introduced a solution that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/1-AnomalyhistoryChart.jpg"
+        },
+        {
+            "id": 795,
+            "title": "Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
+            "authors": "Annalyn Ng, Brian Hess",
+            "tags": "Amazon DocumentDB, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "One of the challenges in data science is getting access to operational or real-time data, which is often stored in operational database systems. Being able to connect data science tools to operational data easily and efficiently unleashes enormous potential for gaining insights from real-time data. In this post, we explore using Amazon SageMaker to analyze [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Analyzing-data-stored-in-Amazon-1.jpg"
+        },
+        {
+            "id": 796,
+            "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
+            "authors": "Qingwei Li, David Ping, Joseph Jegan",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS CloudFormation",
+            "publishedOn": "2020-11-27T00:00:00",
+            "description": "February 2021 Update: Customers can now use native AWS CloudFormation code templates to model the infrastructure set up for Amazon SageMaker Studio and configure its access for users in their organizations at scale. For more information, please see the announcement post.\u00a0 Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 797,
+            "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
+            "authors": "Shyam Srinivasan",
+            "tags": "Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world\u2019s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners. We\u2019re making it [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Thumbnail.jpg"
+        },
+        {
+            "id": 798,
+            "title": "Amazon Forecast now supports accuracy measurements for individual items",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
+            "authors": "Namita Das, Christy Bergman, Punit Jain",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "We\u2019re excited to announce that you can now measure the accuracy of forecasts for individual items in Amazon Forecast, allowing you to better understand your forecasting model\u2019s performance for the items that most impact your business. Improving forecast accuracy for specific items\u2014such as those with higher prices or higher costs\u2014is often more important than optimizing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/Cropped.jpg"
+        },
+        {
+            "id": 799,
+            "title": "Amazon Lex launches support for Latin American Spanish and German",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
+            "authors": "Esther Lee",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "\u00a1Amazon Lex lanza soporte para espa\u00f1ol para Am\u00e9rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can easily create virtual agents, conversational IVR systems, self-service chatbots, or application bots [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg"
+        },
+        {
+            "id": 800,
+            "title": "How Xpertal is creating the Contact Center of the future with Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
+            "authors": "Chester Perez, Jorge Alfaro Hidalgo, Mauricio Zajbert",
+            "tags": "Amazon Comprehend, Amazon Connect, Amazon Lex, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "This is a joint blog post with AWS Solutions Architects, Jorge Alfaro Hidalgo and Mauricio Zajbert, and Chester Perez, the Contact Center Manager at Xpertal. Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V. (FEMSA) is a Mexican multinational beverage and retail company headquartered in Monterrey, Mexico. Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V., or FEMSA, is a Mexican [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/How-Xpertal-1.jpg"
+        },
+        {
+            "id": 801,
+            "title": "Announcing the launch of Amazon Comprehend Events",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-amazon-comprehend-events/",
+            "authors": "Graham Horwood, Sameer Karnik, Ben Snively",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "Every day, financial organizations need to analyze news articles, SEC filings, and press releases, as well as track financial events such as bankruptcy announcements, changes in executive leadership at companies, and announcements of mergers and acquisitions. They want to accurately extract the key data points and associations among various people and organizations mentioned within an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/Amazon-Comprehend-Events-1.jpg"
+        },
+        {
+            "id": 802,
+            "title": "Bringing your own R environment to Amazon SageMaker Studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/",
+            "authors": "Nick Minaie, Sam Liu",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-24T00:00:00",
+            "description": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up SageMaker Studio notebooks to explore datasets and build models. On October 27, 2020, Amazon released a custom images feature that allows you to launch SageMaker Studio notebooks with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/5-R-notebook.png"
+        },
+        {
+            "id": 803,
+            "title": "Building natural conversation flows using context management in Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-natural-conversation-flows-using-context-management-in-amazon-lex/",
+            "authors": "Blake DeLee, Harshal Pimpalkhute, Esther Lee",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-11-23T00:00:00",
+            "description": "Understanding the direction and context of an ever-evolving conversation is beneficial to building natural, human-like conversational interfaces. Being able to classify utterances as the conversation develops requires managing context across multiple turns. Consider a caller who asks their financial planner for insights regarding their monthly expenses: \u201cWhat were my expenses this year?\u201d They may also [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Lex-Amplify-Image-08.24.20.png"
+        },
+        {
+            "id": 804,
+            "title": "Customizing your machine translation using Amazon Translate Active Custom Translation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
+            "authors": "Watson Srivathsan, Xingyao Wang",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2020-11-23T00:00:00",
+            "description": "When translating the English phrase \u201cHow are you?\u201d to Spanish, would you prefer to use \u201c\u00bfC\u00f3mo est\u00e1s?\u201d or \u201c\u00bfC\u00f3mo est\u00e1 usted?\u201d instead? Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Today, we\u2019re excited to introduce Active Custom Translation (ACT), a feature that gives you more control over [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Customizing-your-machine-7.jpg"
+        },
+        {
+            "id": 805,
+            "title": "Getting started with Amazon Kendra ServiceNow Online connector",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-kendra-servicenow-online-connector/",
+            "authors": "David Shute, Juan Bustos",
+            "tags": "Amazon Kendra, Artificial Intelligence",
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To make it simple to search data across multiple content repositories, Amazon Kendra offers a number of native data source connectors to help get your documents easily ingested and indexed. This post describes how you can use the Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Amazon-Kendra-2.jpg"
+        },
+        {
+            "id": 806,
+            "title": "Amazon Augmented AI is now a HIPAA eligible service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-augmented-ai-is-now-a-hipaa-eligible-service/",
+            "authors": "Anuj Gupta",
+            "tags": "Amazon Augmented AI, Artificial Intelligence",
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "Amazon Augmented AI (Amazon A2I) is now a HIPAA eligible service. Amazon A2I makes it easy to build the workflows required for human review of machine learning (ML) predictions. HIPAA eligibility applies to AWS Regions where the service is available and means you can use Amazon A2I add human review of protected health information (PHI) [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 807,
+            "title": "How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/",
+            "authors": "Frank Wang, Shishuai Wang, Tom Wang, Yu Zhang",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-20T00:00:00",
+            "description": "Although we might think the world is already sufficiently mapped by the advent of global satellite images and street views, it\u2019s far from complete because much of the world is still uncharted territory. Maps are designed for humans, and can\u2019t be consumed by autonomous vehicles, which need a very different technology of maps with much [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/How-DeepMap-optimizes-1.jpg"
+        },
+        {
+            "id": 808,
+            "title": "Automating business processes with machine learning in the COVID-19 pandemic",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
+            "authors": "Dr. Taha A. Kass-Hout",
+            "tags": "Amazon Forecast, Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-11-19T00:00:00",
+            "description": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning (ML) is unlocking new efficiencies and allowing companies to move [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 809,
+            "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
+            "url": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+            "authors": "Jeff Finkelstein",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-11-19T00:00:00",
+            "description": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is key to creating high-quality ecommerce experiences, but small businesses often lack access [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg"
+        },
+        {
+            "id": 810,
+            "title": "Detecting hidden but non-trivial problems in transfer learning models using Amazon SageMaker Debugger",
+            "url": "https://aws.amazon.com/blogs/machine-learning/detecting-hidden-but-non-trivial-problems-in-transfer-learning-models-using-amazon-sagemaker-debugger/",
+            "authors": "Nathalie Rauschmayr, Lu Huang, Satadal Bhattacharjee",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-19T00:00:00",
+            "description": "Rapid development of deep learning technology has produced an abundance of open-sourced, pre-trained models in computer vision and natural language processing. As a result, transfer learning has become a popular approach in deep learning. Transfer learning is a machine learning technique where a model pre-trained on one task is fine-tuned on a new task. Given [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/18/Detecting-hidden-but-non-trivial-3.jpg"
+        },
+        {
+            "id": 811,
+            "title": "Using Transformers to create music in AWS DeepComposer Music studio",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
+            "authors": "Rahul Suresh, Aashiq Muhamed, Liang Li, Patrick Cavins, Maryam Rezapoor, Wayne Chi, Suri Yaddanapudi",
+            "tags": "Artificial Intelligence, AWS DeepComposer",
+            "publishedOn": "2020-11-18T00:00:00",
+            "description": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively\u00a0extends your input melody up to 20 seconds.\u00a0This newly created extension will use the style and musical motifs found in your input melody and create additional notes that sound like they\u2019ve come [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/Using-Transformers-2-1.jpg"
+        },
+        {
+            "id": 812,
+            "title": "Store output in custom Amazon S3 bucket and encrypt using AWS KMS for multi-page document processing with Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
+            "authors": "Kashif Imran, Peter O'Donnell",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-11-17T00:00:00",
+            "description": "Amazon Textract is a fully managed machine learning (ML) service that makes it easy to process documents at scale by automatically extracting printed text, handwriting, and other data from virtually any type of document. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Store-output-in-custom-1.jpg"
+        },
+        {
+            "id": 813,
+            "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
+            "url": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
+            "authors": "Yazdan Shirvany, Mohit Mehta, Dipto Chakravarty",
+            "tags": "Amazon Kendra, Amazon Neptune, Artificial Intelligence",
+            "publishedOn": "2020-11-17T00:00:00",
+            "description": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge graphs can provide easier access and understanding to this data by organizing this data and capturing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Architecture1279.jpg"
+        },
+        {
+            "id": 814,
+            "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
+            "authors": "Guang Yang",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Sports",
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "If you\u2019re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this post, we answer these questions and more. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/F1-WHITE.png"
+        },
+        {
+            "id": 815,
+            "title": "Amazon Textract recognizes handwriting and adds five new languages",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-recognizes-handwriting-and-adds-five-new-languages/",
+            "authors": "Andrea Youmans",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "Documents are a primary tool for communication, collaboration, record keeping, and transactions across industries, including financial, medical, legal, and real estate. The format of data can pose an extra challenge in data extraction, especially if the content is typed, handwritten, or embedded in a form or table. Furthermore, extracting data from your documents is manual, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/TextractInputOutput.jpg"
+        },
+        {
+            "id": 816,
+            "title": "Extracting handwritten information through Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
+            "authors": "Vibhav Sangam Gupta",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "This post is guest authored by Vibhav Sangam Gupta, a Client Solutions Partner at Quantiphi, Inc. Quantiphi is an award-winning applied AI and data science software and services company driven by the desire to solve transformational problems at the heart of business. We are passionate about our customers and obsessed with problem-solving to make products [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/Extracting-handwritten-information-1.jpg"
+        },
+        {
+            "id": 817,
+            "title": "Amazon Personalize now supports dynamic filters for applying business rules to your recommendations on the fly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-now-supports-dynamic-filters-for-applying-business-rules-to-your-recommendations-on-the-fly/",
+            "authors": "Matthew Chwastek, Parth Pooniwala, Samuel Ashman",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-11-13T00:00:00",
+            "description": "This blog post was last reviewed or updated April, 2022 with database schema updates. We\u2019re excited to announce dynamic filters in Amazon Personalize, which allow you to apply business rules to your recommendations on the fly, without any extra cost. Dynamic filters create better user experiences by allowing you to tailor your business rules for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/11/Amazon-Personalize-now-1.jpg"
+        },
+        {
+            "id": 818,
+            "title": "AWS expands language support for Amazon Lex and Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+            "authors": "Esther Lee",
+            "tags": "Amazon Lex, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we\u2019re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build ML-powered applications that fit the language preferences of your [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg"
+        },
+        {
+            "id": 819,
+            "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
+            "url": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+            "authors": "Dan McCorriston",
+            "tags": "Artificial Intelligence, AWS DeepRacer, AWS re:Invent",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "December 2020 Update \u2013 The Wildcard and warmup races are complete and the Round 1 Knockouts are officially underway, streaming live on Twitch. In this round, competitors participate in a brand-new live racing format on the AWS DeepRacer console. Racers submit their best models from anywhere in the world and attempt to navigate the track, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg"
+        },
+        {
+            "id": 820,
+            "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
+            "url": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+            "authors": "Namita Das, Danielle Robinson, Vidip Mankala",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "September 2021: This blog has been updated to include three recently launched accuracy metrics in Amazon Forecast and the ability to select an accuracy\u00a0metric to optimize AutoML. We\u2019re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg"
+        },
+        {
+            "id": 821,
+            "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+            "authors": "Han Man, Shonoy Agrawaal, Carly Huang, Huzaifa Zainuddin, Vivek Lakshmanan, Ananya Koduri, Nithin Reddy Cheruku",
+            "tags": "Amazon Comprehend, Amazon Textract, Finance and Investment",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global Business Services (AWS FGBS), this process typically takes more than 150 employee [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg"
+        },
+        {
+            "id": 822,
+            "title": "Meet Olivia: The first NTTS voice in Australian English for Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/meet-olivia-the-first-ntts-voice-in-australian-english-for-amazon-polly/",
+            "authors": "Sarah Schopper",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-11-12T00:00:00",
+            "description": "Amazon Polly is launching a new Australian English voice, Olivia. Amazon Polly turns text into lifelike speech, allowing you to build speech-enabled products. Building upon the existing Australian English Standard voices, Nicole and Russell, Olivia is the first Australian English voice in Amazon Polly powered by the Neural Text-to-Speech (NTTS) technology. The NTTS voices in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 823,
+            "title": "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/",
+            "authors": "Vikrant Kahlir, Rakesh Ramadas, Rama Thamman, Durga Sury",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-11-10T00:00:00",
+            "description": "October 2022: This post was reviewed and updated to include updates from Amazon SageMaker\u2019s recently released SourceIdentity feature and renaming of AWS SSO to IAM Identity Center. Amazon SageMaker is a fully managed service that provides every machine learning (ML) developer and data scientist with the ability to build, train, and deploy ML models quickly. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/NEW-Configuring-Image-revised.png"
+        }
+    ]
+}

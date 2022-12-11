@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6334,
+            "title": "Keeping Learning-Based Control Safe by Regulating Distributional Shift",
+            "url": "https://bair.berkeley.edu/blog/2022/09/19/ldm-control/",
+            "authors": "Katie Kang",
+            "tags": null,
+            "publishedOn": "2022-09-19T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/ldm_control/header.jpg)"
+        },
+        {
+            "id": 6335,
+            "title": "Reverse engineering the NTK: towards first-principles architecture design",
+            "url": "https://bair.berkeley.edu/blog/2022/08/29/reverse-engineering/",
+            "authors": "Jamie Simon",
+            "tags": null,
+            "publishedOn": "2022-08-29T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/reverse-engineering/rev_eng_fig1.png"
+        },
+        {
+            "id": 6336,
+            "title": "Why do Policy Gradient Methods work so well in Cooperative MARL? Evidence from Policy Representation",
+            "url": "https://bair.berkeley.edu/blog/2022/07/10/pg-ar/",
+            "authors": "Wei Fu, Chao Yu, Zelai Xu, Jiaqi Yang, Yi Wu",
+            "tags": null,
+            "publishedOn": "2022-07-10T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/pg-ar/ar.png"
+        },
+        {
+            "id": 6337,
+            "title": "FIGS: Attaining XGBoost-level performance with the interpretability and speed of CART",
+            "url": "https://bair.berkeley.edu/blog/2022/06/30/figs/",
+            "authors": "Chandan Singh and Yan Shuo Tan and Bin Yu",
+            "tags": null,
+            "publishedOn": "2022-06-30T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/figs/figs_intro.gif"
+        },
+        {
+            "id": 6338,
+            "title": "The Berkeley Crossword Solver",
+            "url": "https://bair.berkeley.edu/blog/2022/05/20/crosswords/",
+            "authors": "Eric Wallace, Nicholas Tomlin, Albert Xu, Kevin Yang, Eshaan Pathak",
+            "tags": null,
+            "publishedOn": "2022-05-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/crosswords/image1.png"
+        },
+        {
+            "id": 6339,
+            "title": "Rethinking Human-in-the-Loop for Artificial Augmented Intelligence",
+            "url": "https://bair.berkeley.edu/blog/2022/05/03/human-in-the-loop/",
+            "authors": "Zhongqi Miao and Ziwei Liu",
+            "tags": null,
+            "publishedOn": "2022-05-03T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/human-in-the-loop/image3.png"
+        },
+        {
+            "id": 6340,
+            "title": "Designing Societally Beneficial Reinforcement Learning Systems",
+            "url": "https://bair.berkeley.edu/blog/2022/04/29/reward-reports/",
+            "authors": "Nathan Lambert, Aaron Snoswell, Sarah Dean, Thomas Krendl Gilbert, Tom Zick",
+            "tags": null,
+            "publishedOn": "2022-04-29T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/reward-reports/fb-exo.png"
+        },
+        {
+            "id": 6341,
+            "title": "Should I Use Offline RL or Imitation Learning?",
+            "url": "https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/",
+            "authors": "Aviral Kumar, Ilya Kostrikov, Sergey Levine",
+            "tags": null,
+            "publishedOn": "2022-04-25T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/maers/maers.png"
+        },
+        {
+            "id": 6342,
+            "title": "Offline RL Made Easier: No TD Learning, Advantage Reweighting, or Transformers",
+            "url": "https://bair.berkeley.edu/blog/2022/04/20/rvs/",
+            "authors": "Scott Emmons, Ben Eysenbach, Sergey Levine",
+            "tags": null,
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/rvs/rvs-overview.png"
+        },
+        {
+            "id": 6343,
+            "title": "Accelerating Ukraine Intelligence Analysis with Computer Vision on Synthetic Aperture Radar Imagery",
+            "url": "https://bair.berkeley.edu/blog/2022/03/21/ukraine-sar-maers/",
+            "authors": "Ritwik Gupta*, Colorado Reed*, Anja Rohrbach, and Trevor Darrell",
+            "tags": null,
+            "publishedOn": "2022-03-21T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/maers/maers.png"
+        },
+        {
+            "id": 6344,
+            "title": "Unsupervised Skill Discovery with Contrastive Intrinsic Control",
+            "url": "https://bair.berkeley.edu/blog/2022/02/23/cic/",
+            "authors": "Misha Laskin",
+            "tags": null,
+            "publishedOn": "2022-02-23T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/cic/img1.png"
+        },
+        {
+            "id": 6345,
+            "title": "imodels: leveraging the unreasonable effectiveness of rules",
+            "url": "https://bair.berkeley.edu/blog/2022/02/02/imodels/",
+            "authors": "Chandan Singh and Keyan Nasseri and Bin Yu",
+            "tags": null,
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/imodels/imodels_anim.gif"
+        },
+        {
+            "id": 6346,
+            "title": "The Unsupervised Reinforcement Learning Benchmark",
+            "url": "https://bair.berkeley.edu/blog/2021/12/15/unsupervised-rl/",
+            "authors": "Misha Laskin and Denis Yarats",
+            "tags": null,
+            "publishedOn": "2021-12-15T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/unsupervised_rl/img0.png"
+        },
+        {
+            "id": 6347,
+            "title": "Sequence Modeling Solutions for Reinforcement Learning Problems",
+            "url": "https://bair.berkeley.edu/blog/2021/11/19/trajectory-transformer/",
+            "authors": "Michael Janner",
+            "tags": null,
+            "publishedOn": "2021-11-19T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/trajectory-transformer/outlines_transformer.png"
+        },
+        {
+            "id": 6348,
+            "title": "Which Mutual Information Representation Learning Objectives are Sufficient for Control?",
+            "url": "https://bair.berkeley.edu/blog/2021/11/19/mi-sufficiency-analysis/",
+            "authors": "Kate Rakelly",
+            "tags": null,
+            "publishedOn": "2021-11-19T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/mi_sufficiency_analysis/image1.png"
+        },
+        {
+            "id": 6349,
+            "title": "Bridge  Data:  Boosting  Generalization  of  Robotic  Skills  with Cross-Domain  Datasets",
+            "url": "https://bair.berkeley.edu/blog/2021/11/18/bridge-data/",
+            "authors": "Frederik Ebert and Yanlai Yang",
+            "tags": null,
+            "publishedOn": "2021-11-18T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/bridge-data/header_blog_post.png"
+        },
+        {
+            "id": 6350,
+            "title": "Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability",
+            "url": "https://bair.berkeley.edu/blog/2021/11/05/epistemic-pomdp/",
+            "authors": "Dibya Ghosh",
+            "tags": null,
+            "publishedOn": "2021-11-05T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/epistemic_pomdp/teaser.gif"
+        },
+        {
+            "id": 6351,
+            "title": "RECON: Learning to Explore the Real World with a Ground Robot",
+            "url": "https://bair.berkeley.edu/blog/2021/11/03/recon/",
+            "authors": "Dhruv Shah",
+            "tags": null,
+            "publishedOn": "2021-11-03T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/recon/recon_blog_teaser.gif"
+        },
+        {
+            "id": 6352,
+            "title": "Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability",
+            "url": "https://bair.berkeley.edu/blog/2021/11/01/epistemic-pomdp/",
+            "authors": "Dibya Ghosh",
+            "tags": null,
+            "publishedOn": "2021-11-01T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/epistemic_pomdp/teaser.gif"
+        },
+        {
+            "id": 6353,
+            "title": "Designs from Data: Offline Black-Box Optimization via Conservative Training",
+            "url": "https://bair.berkeley.edu/blog/2021/10/25/coms_mbo/",
+            "authors": "Aviral Kumar and Xinyang (Young) Geng",
+            "tags": null,
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/coms/coms_final.png"
+        },
+        {
+            "id": 6354,
+            "title": "A First-Principles Theory of NeuralNetwork Generalization",
+            "url": "https://bair.berkeley.edu/blog/2021/10/25/eigenlearning/",
+            "authors": "Jamie Simon",
+            "tags": null,
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/eigenlearning/eigenlearning_blog_post_fig1.mp4"
+        },
+        {
+            "id": 6355,
+            "title": "Making RL Tractable by Learning More Informative Reward Functions: Example-Based Control, Meta-Learning, and Normalized Maximum Likelihood",
+            "url": "https://bair.berkeley.edu/blog/2021/10/22/mural/",
+            "authors": "Abhishek Gupta, Kevin Li, and Sergey Levine",
+            "tags": null,
+            "publishedOn": "2021-10-22T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/mural/mural_preview.png"
+        },
+        {
+            "id": 6356,
+            "title": "Updates and Lessons from AI Forecasting",
+            "url": "https://bair.berkeley.edu/blog/2021/10/14/forecasting/",
+            "authors": "Jacob Steinhardt",
+            "tags": null,
+            "publishedOn": "2021-10-14T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/forecasting/hypermind_incumbents.png"
+        },
+        {
+            "id": 6357,
+            "title": "PICO: Pragmatic Compression for Human-in-the-Loop Decision-Making",
+            "url": "https://bair.berkeley.edu/blog/2021/10/06/pico/",
+            "authors": "Siddharth Reddy",
+            "tags": null,
+            "publishedOn": "2021-10-06T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/pico/schematic.png"
+        },
+        {
+            "id": 6358,
+            "title": "Unsolved ML Safety Problems",
+            "url": "https://bair.berkeley.edu/blog/2021/09/29/ml-safety/",
+            "authors": "Dan Hendrycks",
+            "tags": null,
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/safety/summary_image.png"
+        },
+        {
+            "id": 6359,
+            "title": "Distilling neural networks into wavelet models using interpretations",
+            "url": "https://bair.berkeley.edu/blog/2021/09/28/wavelet/",
+            "authors": "Wooseok Ha* and Chandan Singh* and Bin Yu",
+            "tags": null,
+            "publishedOn": "2021-09-28T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/wavelet/fig1.gif"
+        },
+        {
+            "id": 6360,
+            "title": "What Can I Do Here? Learning New Skills by Imagining Visual Affordances",
+            "url": "https://bair.berkeley.edu/blog/2021/09/24/visual-affordances-robotics/",
+            "authors": "Alexander Khazatsky, Ashvin Nair, and Sergey Levine",
+            "tags": null,
+            "publishedOn": "2021-09-24T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blog/assets/visual-affordances-robotics/val_preview.png"
+        },
+        {
+            "id": 6361,
+            "title": "Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning",
+            "url": "https://bair.berkeley.edu/blog/2021/07/22/spml/",
+            "authors": "Tsung-Wei Ke and Jyh-Jing Hwang and Stella X. Yu",
+            "tags": null,
+            "publishedOn": "2021-07-22T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/spml/image1.png"
+        },
+        {
+            "id": 6362,
+            "title": "The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games",
+            "url": "https://bair.berkeley.edu/blog/2021/07/14/mappo/",
+            "authors": "Akash Velu and Chao Yu and Eugene Vinitsky and Yu Wang and Alexandre Bayen and Yi Wu",
+            "tags": null,
+            "publishedOn": "2021-07-14T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/mappo/AlphaStar.gif"
+        },
+        {
+            "id": 6363,
+            "title": "BASALT: A Benchmark for  Learning from Human Feedback",
+            "url": "https://bair.berkeley.edu/blog/2021/07/08/basalt/",
+            "authors": "Rohin Shah",
+            "tags": null,
+            "publishedOn": "2021-07-08T00:00:00",
+            "description": "The BAIR Blog",
+            "thumbnail": "http://bair.berkeley.edu/blogassets/basalt/image15.png"
+        }
+    ]
+}

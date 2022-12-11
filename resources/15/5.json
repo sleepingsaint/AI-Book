@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9776,
+            "title": "Salesforce AI Developed FSNet (Fast and Slow Learning Network) for Deep Time-Series Forecasting, Which can Learn Deep Forecasting Models on the Fly in a Nonstationary Environment",
+            "url": "https://www.marktechpost.com/2022/11/02/salesforce-ai-developed-fsnet-fast-and-slow-learning-network-for-deep-time-series-forecasting-which-can-learn-deep-forecasting-models-on-the-fly-in-a-nonstationary-environment/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Time series forecasting, also known as predicting future values based on historical data, is crucial to solving many real-world issues ranging from weather forecasts and anomaly detection to energy usage, system tracking, and monitoring. Due to recent technological advancements with increased access to data and computational power, deep learning (DL) applications are gradually replacing traditional methods when it comes to time series forecasting. In contrast to conventional forecasting techniques, DL models can learn hierarchical representations and more intricate dependencies, reducing the requirement for manual feature engineering and model creation. However, despite their recent success, many real-world applications where live time",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1.jpg"
+        },
+        {
+            "id": 9777,
+            "title": "Meet DALL-E-Bot: An Artificial Intelligence (AI) Based Robotics System That Gives Web-Scale Diffusion Models An Embodiment To Realise The Scenes That They Imagine",
+            "url": "https://www.marktechpost.com/2022/11/01/meet-dall-e-bot-an-artificial-intelligence-ai-based-robotics-system-that-gives-web-scale-diffusion-models-an-embodiment-to-realise-the-scenes-that-they-imagine/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Nowadays, it is difficult to pass a day without reading/hearing about a new application of diffusion models if you are following the news about artificial intelligence/machine learning. The massive success of diffusion models like DALL-E and Stable Diffusion has attracted enormous attention to these applications. Diffusion models excel at text-to-X generation. They use the Web as the source of data. The Internet, specifically the Web, is a very rich dataset if you know how to collect the data. There are millions of data pairs available for any application you can think of, from image-caption pairs to text conversations. Web-based diffusion",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/fig2.png"
+        },
+        {
+            "id": 9778,
+            "title": "A New MLOps System Called ALaaS (Active-Learning-as-a-Service) Adopts the Philosophy of Machine-Learning-as-Service and Implements a Server-Client Architecture",
+            "url": "https://www.marktechpost.com/2022/11/01/a-new-mlops-system-called-alaas-active-learning-as-a-service-adopts-the-philosophy-of-machine-learning-as-service-and-implements-a-server-client-architecture/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Data-centric AI is a new topic focusing on engineering data to create AI applications using off-the-shelf machine learning (ML) models. Previous efforts have primarily focused on model-centric AI in a static context. In this scenario, 1) data collection and engineering are completed, 2) and the primary goal is continuously improving ML models to attain excellent performance on test sets. However, real-world AI applications face increasingly complex circumstances that model-centric AI cannot fully solve. For example, researchers must devote a significant amount of effort to data preparation, which includes data labeling, error detection, and so on. Meanwhile, they must monitor data",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner.jpg"
+        },
+        {
+            "id": 9779,
+            "title": "According To A New Artificial Intelligence (AI) Research Study, A Mobile Application That Uses Deep Learning To Analyze Skin Lesion Images Can Detect Monkeypox With 91 Percent Accuracy",
+            "url": "https://www.marktechpost.com/2022/11/01/according-to-a-new-artificial-intelligence-ai-research-study-a-mobile-application-that-uses-deep-learning-to-analyze-skin-lesion-images-can-detect-monkeypox-with-91-percent-accuracy/",
+            "authors": "Rishabh Jain",
+            "tags": null,
+            "publishedOn": "2022-11-01T00:00:00",
+            "description": "Recently, Monkeypox has been spreading all across the world. Nearly 47,000 monkeypox cases with laboratory confirmation had been reported globally as of August 2022.\u00a0 Clinical detection of monkeypox in its early stages has been difficult as monkeypox is quite similar to chickenpox and measles. PCR tests can be used to confirm detection, but PCR tests are not easily available. Hence computation methods to detect monkeypox can be helpful for easy and fast identification of monkeypox in its early stages.\u00a0 Although the human monkeypox disease originates back to ancient times (the 1970s), computer vision-based studies for preliminary disease diagnosis have recently",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-01-at-7.34.59-AM.png"
+        },
+        {
+            "id": 9780,
+            "title": "Latest Artificial Intelligence (AI) Research At Google Presents \u2018Imagic,\u2019 An Effective Technique Based On Diffusion Models To Edit Images With Text Prompts",
+            "url": "https://www.marktechpost.com/2022/10/31/latest-artificial-intelligence-ai-research-at-google-presents-imagic-an-effective-technique-based-on-diffusion-models-to-edit-images-with-text-prompts/",
+            "authors": "Leonardo Tanzi",
+            "tags": null,
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Especially in the last few years, real-world photo editing with non-trivial semantic adjustments has been a fascinating challenge in image processing. In particular, being able to control an image by solely a brief natural language text prompt would be a disruptive innovation in this field. The current top methods for this task still present different shortcomings: firstly, they usually can only be used with images from a particular domain or artificially created images. Secondly, they present a limited set of edits, such as painting over the image, adding an object, or transferring style. Thirdly, they require auxiliary inputs in addition",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-31-at-7.39.56-PM.png"
+        },
+        {
+            "id": 9781,
+            "title": "Latest Computer Vision Research Proposes \u2018NeRFPlayer,\u2019 A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields",
+            "url": "https://www.marktechpost.com/2022/10/31/latest-computer-vision-research-proposes-nerfplayer-a-streamable-dynamic-scene-representation-with-decomposed-neural-radiance-fields/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Using Neural Radiance Fields (NeRF) to represent scenes has made strides in 3D reconstruction and analysis. After a brief training period, high-fidelity real-time depiction of real-world locations is possible. The rendering engine can accurately model situations as small as a cell and as large as a metropolis or even a black hole using just a few real-world RGB photos. NeRF has succeeded in static scenarios, but expanding it to handle dynamic scenes is still challenging. NeRF's 5D representation, which consists of 3D location x, y, and z and 2D viewing direction, is non-trivial because of the following two factors. First,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-31-at-4.15.59-PM.png"
+        },
+        {
+            "id": 9782,
+            "title": "Researchers At Fujitsu Use Deep Learning To Develop A Person Re-Identification (ReID) Method (ECANet) That Incorporates Obtained Pair Images Without The ID Labels Into The Training Data",
+            "url": "https://www.marktechpost.com/2022/10/31/researchers-at-fujitsu-use-deep-learning-to-develop-a-person-re-identification-reid-method-ecanet-that-incorporates-obtained-pair-images-without-the-id-labels-into-the-training-data/",
+            "authors": "Mahmoud Ghorbel",
+            "tags": null,
+            "publishedOn": "2022-10-31T00:00:00",
+            "description": "Over the last few years, video surveillance systems have experienced significant technological and economic expansion. In this context, the person re-identification (Re-ID) emerged. Re-ID is used in several areas, such as security and the study of customer behavior. It became widely used thanks to the performance achieved by deep neural networks. However,\u00a0 the performance decreases for domains other than those in the training data, and its implementation is still difficult in real-world scenarios. Unsupervised domain-adaptive Re-ID is an approach for domain-adaptive learning that uses unlabeled data. This approach first develops a base model using labeled data, including publicly available datasets.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-31-at-9.53.59-AM.png"
+        },
+        {
+            "id": 9783,
+            "title": "Google AI Research Proposes A Deep Learning Based Video Compression Method Using GANs For Detail Synthesis and Propagation",
+            "url": "https://www.marktechpost.com/2022/10/30/google-ai-research-proposes-a-deep-learning-based-video-compression-method-using-gans-for-detail-synthesis-and-propagation/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "The development in display technologies and the never stopping increase in video content popularity have resulted in a significant demand for video compression to save on storage and bandwidth costs.\u00a0 The compression is done by exploiting the similarity among the video frames. This is possible because most of the content is almost identical between video frames, as a typical video contains 30 frames per second. The compression algorithm tries to find the residual information between the video frames.\u00a0 Video compression is about finding the sweet spot for the trade-off between the visual quality and the video size. Videos need to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screenshot-2022-10-28-at-20.01.28.png"
+        },
+        {
+            "id": 9784,
+            "title": "Top AI Tools/Platforms To Perform Machine Learning ML Model Monitoring",
+            "url": "https://www.marktechpost.com/2022/10/30/top-ai-tools-platforms-to-perform-machine-learning-ml-model-monitoring/",
+            "authors": "Mansi Rawat",
+            "tags": null,
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "Machine Learning Model Monitoring is the operational stage that follows model deployment in the machine learning lifecycle. It comprises keeping an eye out for changes in the ML models, such as model deterioration, data drift, and idea drift, and ensuring that the model is still performing well. Many model monitoring software tools are available to monitor these models' changes. Let us look at some of the most helpful ML model monitoring tools. Neptune AI Neptune AI is an MLOps company designed for research and production teams who run a large number of experiments. It can arrange training and production metadata",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-3-1.png"
+        },
+        {
+            "id": 9785,
+            "title": "Researchers at the University of Illinois Propose An Artificial Intelligence (AI) Based Framework That Uses Video and Deep Learning Algorithm To Diagnose Parkinson\u2019s Disease Gait Dysfunctions",
+            "url": "https://www.marktechpost.com/2022/10/30/researchers-at-the-university-of-illinois-propose-an-artificial-intelligence-ai-based-framework-that-uses-video-and-deep-learning-algorithm-to-diagnose-parkinsons-disease-gait-dysfunctions/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "Gait dysfunctions are modifications to your regular walking pattern that are frequently linked to a sickness or an anomaly in various body parts. An estimated 17% of falls in older persons are caused by gait dysfunction, making it one of the most frequent causes of falls. Doctors frequently evaluate patients' ability to walk when they suspect they may have a particular neurological ailment, such as multiple sclerosis or Parkinson's disease. Someone's walk alone may reveal information about an underlying neurological disease. In a recent study, researchers investigated a method for assessing a person's gait and identifying those who might have",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-2-3.png"
+        },
+        {
+            "id": 9786,
+            "title": "Artificial Intelligence (AI) Applications in Aviation Sector",
+            "url": "https://www.marktechpost.com/2022/10/30/artificial-intelligence-ai-applications-in-aviation-sector/",
+            "authors": "Amreen Bawa",
+            "tags": null,
+            "publishedOn": "2022-10-30T00:00:00",
+            "description": "Over the next few years, AI is projected to bring several breakthroughs in the aerospace industry by cutting costs, shortening design processes, eliminating duplication, experimenting, augmentation, support, production, and upgrading things. AI developments might help the aviation and aerospace sectors to enhance their production methods. The aerospace industry, however, has limited adoption of AI approaches, primarily due to a lack of access to high-quality data, a preference for simple models over complex models, and a need for more competent staff and partners to execute it effectively. However, the proper partner might make AI a revolutionary innovation that impacts aerospace companies'",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-1-3.png"
+        },
+        {
+            "id": 9787,
+            "title": "Researchers At IIIT Allahabad Propose T2CI GAN: A Deep Learning Model That Generates Compressed Images From Text",
+            "url": "https://www.marktechpost.com/2022/10/29/researchers-at-iiit-allahabad-propose-t2ci-gan-a-deep-learning-model-that-generates-compressed-images-from-text/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "In the last few years, the creation of textual descriptions for visual data has become a compelling research issue. However, the problem statement for producing visual data from written descriptions is still much more difficult because it calls for the fusion of Natural Language Processing and Computer Vision techniques. The available techniques create uncompressed images from textual descriptions using Generative Adversarial Networks (GANs). Generative Adversarial Networks are a type of machine-learning framework that can produce texts, photos, videos, and voice recordings. Previously, GANs have been successfully used to produce image datasets for other deep learning algorithms to train, to produce",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-3-2.jpg"
+        },
+        {
+            "id": 9788,
+            "title": "What is MLOps (Machine Learning Operations)? Why Do You Need MLOps for Machine Learning and Deep Learning Projects?",
+            "url": "https://www.marktechpost.com/2022/10/29/what-is-mlops-machine-learning-operations-why-do-you-need-mlops-for-machine-learning-and-deep-learning-projects/",
+            "authors": "Arham Islam",
+            "tags": null,
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "What is MLOps (Machine Learning Operations)? According to techjury, people created 2.5 quintillion bytes of data every day in 2021, presenting an opportunity for data scientists to explore and experiment with numerous theories and develop different ML(Machine Learning) models.\u00a0 With this opportunity, however, there lies the challenge of acquiring and cleaning the data, setting up versioning for model training, setting up monitoring pipelines, and scaling ML operations to the needs of businesses. To tackle these issues, MLOps can be very helpful. MLOps was born at the intersection of Machine Learning, DevOps, and Data Engineering. The concept is similar to DevOps;",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-29-at-1.05.51-PM.png"
+        },
+        {
+            "id": 9789,
+            "title": "A Computer Science Researcher At Aston University Has Used Artificial Intelligence (AI) To Show That We Are Not As Individual As We May Like To Think",
+            "url": "https://www.marktechpost.com/2022/10/29/a-computer-science-researcher-at-aston-university-has-used-artificial-intelligence-ai-to-show-that-we-are-not-as-individual-as-we-may-like-to-think/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-10-29T00:00:00",
+            "description": "The influence of one's peers significantly affects individual actions. The dynamics of a group affect its members' propensity to break the law, use violence, or aid those in need. Studies have shown that looking at a group of people has a powerful effect on people's focus. The things we pay attention to significantly impact how we react. The conventional explanation is that this behavior is adaptive; when we observe many people fixating on the same object, we reason that this must be significant and we decide to follow the group's gaze. Study after study on gaze cueing has shown that",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-5.png"
+        },
+        {
+            "id": 9790,
+            "title": "Researchers at Georgia Tech Propose \u2018LABOR\u2019 (LAyer-neighBOR sampling), A New Sampling Algorithm-Based on Machine Learning",
+            "url": "https://www.marktechpost.com/2022/10/28/researchers-at-georgia-tech-propose-labor-layer-neighbor-sampling-a-new-sampling-algorithm-based-on-machine-learning/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "The de facto models for representation learning on graph-structured data are Graph Neural Networks (GNN). As a result, they have begun to be implemented in production systems. These models pass messages along the direction of the edges in the given graph with nonlinearities between different layers, updating the node embeddings iteratively. The computed node embeddings for l layers include details from the seed vertex's l-hop neighborhood. The GNN models must be trained on billion-scale graphs to be used in production. Even on distributed systems, training these models can take days or even weeks. Although it is more difficult in this",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-2-2.jpg"
+        },
+        {
+            "id": 9791,
+            "title": "Latest Artificial Intelligence (AI) Research Uses Synthetic Patient Data To Simulate A Machine Learning Enabled Learning Health System (LHS)",
+            "url": "https://www.marktechpost.com/2022/10/28/latest-artificial-intelligence-ai-research-uses-synthetic-patient-data-to-simulate-a-machine-learning-enabled-learning-health-system-lhs/",
+            "authors": "Mahmoud Ghorbel",
+            "tags": null,
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "In recent years, machine learning (ML) techniques in the medical field have grown significantly. Thanks to the high performance of deep learning models, machines can detect and classify diseases precisely, sometimes even exceeding specialists. To do this, a model must use data like medical images by accessing patients' personal information. The use of this personal data causes a privacy problem. One of the most significant barriers to Learning Health Systems (LHS) research and development is the lack of access to EHR patient data. Thanks to synthetic patient data technology advancements, synthetic patient data have recently been accepted as alternative data",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-28-at-10.36.01-AM.png"
+        },
+        {
+            "id": 9792,
+            "title": "Researchers At MIT Propose A New Method That Uses Optics To Accelerate Machine Learning Computations On Smart Speakers And Other Low-Power Connected Devices",
+            "url": "https://www.marktechpost.com/2022/10/28/researchers-at-mit-propose-a-new-method-that-uses-optics-to-accelerate-machine-learning-computations-on-smart-speakers-and-other-low-power-connected-devices/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-10-28T00:00:00",
+            "description": "Researchers have developed a new technique for performing computations straight on smart home gadgets. Their method moves the memory-intensive machine-learning model operations to a central server. The data is encoded onto light waves rather than sent hundreds of miles away from the device. Fiber optics is used to transfer the waves to a connected device, allowing massive amounts of data to be sent via a network at incredible speeds. The receiver then uses a specific optical device to quickly compute the model's components delivered by those light waves. This technology significantly improves energy efficiency as compared to earlier methods\u2014more than",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/MIT-delocalized-learning-01-press_0.jpeg"
+        },
+        {
+            "id": 9793,
+            "title": "What is Data Governance? Top Data Governance Tools for Data Science and Machine Learning Research in 2022",
+            "url": "https://www.marktechpost.com/2022/10/27/what-is-data-governance-top-data-governance-tools-for-data-science-and-machine-learning-research-in-2022/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "What is Data Governance? The process of developing internal data standards and enacting rules governing who has access to data and how it is utilized for analytical applications and business operations is known as data governance. A good data governance program guarantees that data is reliable, consistent, and accessible and that its use complies with applicable rules and regulations regarding data protection. In addition to master data management (MDM) projects, it frequently includes data quality improvement initiatives. Organizations can automate several management tasks for a governance program with data governance solutions. Software of this type offers features that facilitate the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-1-3.jpg"
+        },
+        {
+            "id": 9794,
+            "title": "Meta Uses Artificial Intelligence (AI) To Compress Audio Files For Quick Sharing",
+            "url": "https://www.marktechpost.com/2022/10/27/meta-uses-artificial-intelligence-ai-to-compress-audio-files-for-quick-sharing/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Even with today's cutting-edge technology, it needs a fast internet connection and lots of storage space to enjoy rich multimedia experiences like sharing high-quality images, audio messages, and video streams. To overcome these barriers and provide high-quality, uninterrupted experiences for everyone, the Meta team feels that compression techniques are the way to go. Envision being able to listen to an audio message in a place with poor connectivity without interruptions. Their recent work reveals how AI can reach this goal.\u00a0 Meta's Fundamental AI Research (FAIR) group has made improvements in AI-driven audio hyper compression addressing the issues above. The team",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-27-at-7.49.41-PM.png"
+        },
+        {
+            "id": 9795,
+            "title": "What is Document AI? How Machine Learning Powers Some of the Document AI Platforms?",
+            "url": "https://www.marktechpost.com/2022/10/27/what-is-document-ai-how-machine-learning-powers-some-of-the-document-ai-platforms/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Technological breakthroughs have revolutionized the way individuals work and conduct business. For instance, people must develop skills that will enable them to find new jobs because it is predicted that automation could replace up to a third of all jobs by 2030. Consider the following to demonstrate how crucial document AI will be in the future: Did you know that 70% of enterprise documents are free-form text, such as written documents and emails? This indicates that the software used to automatically extract information and decode text from all of your documents has been processed (without human input). As a result,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-4.jpg"
+        },
+        {
+            "id": 9796,
+            "title": "IBM Research Introduces Artificial Intelligence Unit (AIU): It\u2019s First Complete System-on-Chip Designed to Run and Train Deep Learning Models Faster and More Efficiently than a General-Purpose CPU",
+            "url": "https://www.marktechpost.com/2022/10/27/ibm-research-introduces-artificial-intelligence-unit-aiu-its-first-complete-system-on-chip-designed-to-run-and-train-deep-learning-models-faster-and-more-efficiently-than-a-general-purpose-cpu/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Academic researchers' work over ten years ago was crucial in developing contemporary artificial intelligence as we see it today. It was demonstrated that training a deep learning model to recognize objects and animals in brand-new images required days of brute-force computing over millions of images. Deep learning now does thousands of other crucial and significant activities like finding malignancies in x-rays, translating languages, etc., in addition to how it was previously used to classify images of cats and dogs. Modern AI breakthroughs do, however, come with their own set of difficulties, with computational power being a prominent issue. Although the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-27-at-11.50.30-AM.png"
+        },
+        {
+            "id": 9797,
+            "title": "Researchers From China Propose DIFFUSEQ: A Diffusion Model Designed For Sequence-To-Sequence (SEQ2SEQ) Text Generation Tasks",
+            "url": "https://www.marktechpost.com/2022/10/27/researchers-from-china-propose-diffuseq-a-diffusion-model-designed-for-sequence-to-sequence-seq2seq-text-generation-tasks/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-27T00:00:00",
+            "description": "Existing generative models, such as GAN, VAE, and flow-based models, suffer from mode collapse and must rely on surrogate objectives to approximate maximum likelihood training. Diffusion models have overcome many of these constraints and emerged as a new paradigm for generative models, theoretically supported by non-equilibrium thermodynamics and a score-matching network. The most significant advances have been made in domains that use continuous signals, such as vision and audio. Figure 1 However, extending continuous diffusion models to natural language remains challenging because texts are inherently discrete. Existing efforts begin customizing diffusion models to text in discrete space on unconditional language",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-27-at-7.27.13-AM.png"
+        },
+        {
+            "id": 9798,
+            "title": "Top Data Warehousing Tools in 2022",
+            "url": "https://www.marktechpost.com/2022/10/26/top-data-warehousing-tools-in-2022/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "A data warehouse is a data management system for data reporting, analysis, and storage. It is an enterprise data warehouse and is part of business intelligence. Data from one or more diverse sources is stored in data warehouses, which are central repositories. Data warehouses are analytical tools designed to assist reporting users across multiple departments in making decisions. Data warehouses collect historical business and organizational data so that it can be evaluated and insights can be drawn from it. This helps develop a uniform system of truth for the entire organization. Due to cloud computing technologies, the cost and difficulty",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-2-2.png"
+        },
+        {
+            "id": 9799,
+            "title": "Meta AI Researchers Built The First\u00a0Artificial Intelligence AI-Powered Translation System Under Universal Speech Translator (UST) For A Primarily Oral Language \u2018Hokkien\u2019",
+            "url": "https://www.marktechpost.com/2022/10/26/meta-ai-researchers-built-the-first-artificial-intelligence-ai-powered-translation-system-under-universal-speech-translator-ust-for-a-primarily-oral-language-hokkien/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Although over half of the world's 7,000+ live languages are predominantly oral and lack a standardized writing system, recent technological advancements in AI translation have primarily concentrated on written languages. It is also mainly because of this reason that machine translation systems cannot be created using conventional methods because they require appreciable written content to train an AI model. In order to address this issue, Meta has created the first AI-powered Hokkien translation system. The Chinese diaspora speaks Hokkien widely, but no official written version of the language exists. As a part of Meta's Universal Speech Translator (UST) project, this",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-26-at-2.48.19-PM.png"
+        },
+        {
+            "id": 9800,
+            "title": "An Introduction to Automated Data Labeling",
+            "url": "https://www.marktechpost.com/2022/10/26/an-introduction-to-automated-data-labeling/",
+            "authors": "Caroline Lasorsa",
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "Artificial intelligence has made waves throughout the past decade, where advancements are showing up in everyday applications. But getting there requires a ton of data, and curating that data and putting it into action requires a lot of work. ML professionals have turned their attention to automated data labeling to implement ML models into real-world applications faster, and it\u2019s easy to understand why. Every ML practitioner knows that a successful model requires thousands of data labels. Doing that manually means putting in thousands of hours of work, streamlining strategy, and overseeing each step in the process. For most practitioners, automated",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-26-at-11.13.30-AM.png"
+        },
+        {
+            "id": 9801,
+            "title": "Latest Machine Learning Research at Apple Considers the Learning of Logical Functions with Gradient Descent (GD) on Neural Networks",
+            "url": "https://www.marktechpost.com/2022/10/26/latest-machine-learning-research-at-apple-considers-the-learning-of-logical-functions-with-gradient-descent-gd-on-neural-networks/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-10-26T00:00:00",
+            "description": "The pointer value retrieval (PVR) benchmark was recently established by researchers in the paper titled Pointer Value Retrieval: A novel benchmark for exploring the limitations of neural network generalization. This benchmark consists of a supervised learning task on MNIST digits that includes a 'logical' or reasoning component in label construction. The functions to be learned are defined on MNIST digits organized either sequentially or on a grid. A specific digit acts as a pointer on a subset of other digits from which a logical/Boolean function is computed to generate the label. The label is generated by applying some'reasoning' on these",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-1-2.png"
+        },
+        {
+            "id": 9802,
+            "title": "Meet Botminds AI: An AI Platform To Get The Most Out Of Your Complex Unstructured Data",
+            "url": "https://www.marktechpost.com/2022/10/25/meet-botminds-ai-an-ai-platform-to-get-the-most-out-of-your-complex-unstructured-data/",
+            "authors": "Mansi Rawat",
+            "tags": null,
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "Data is present everywhere and is constantly expanding. According to John Rydning, research vice president for IDC's Global DataSphere, 'The Global DataSphere is predicted to more than double in size from 2022 to 2026.' Much of this data is unusable by businesses because it is trapped in papers like contracts, tenders, invoices, annual report filings, etc. Most tools in the market are point solutions that can handle only semi-structured or structured data, and any modification to the document's format, template, or terminology causes the automation to fail. With an AI platform that can handle complex unstructured data, Botminds AI is",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-4.png"
+        },
+        {
+            "id": 9803,
+            "title": "Latest Computer Vision Research From Cornell and Adobe Proposes An Artificial Intelligence (AI) Method To Transfer The Artistic Features Of An Arbitrary Style Image To A 3D Scene",
+            "url": "https://www.marktechpost.com/2022/10/25/latest-computer-vision-research-from-cornell-and-adobe-proposes-an-artificial-intelligence-ai-method-to-transfer-the-artistic-features-of-an-arbitrary-style-image-to-a-3d-scene/",
+            "authors": "Daniele Lorenzi",
+            "tags": null,
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "Art is a fascinating yet extremely complex discipline. Indeed, the creation of artistic images is often not only a time-consuming problem but also requires a significant amount of expertise. If this problem holds for 2D artworks, imagine extending it to dimensions beyond the image plane, such as time (in animated content) or 3D space (with sculptures or virtual environments). This introduces new constraints and challenges, which are addressed by this paper. Previous results involving 2D stylization focus on video contents split frame by frame. The result is that the generated individual frames achieve high-quality stylization but often lead to flickering",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-3.49.20-PM.png"
+        },
+        {
+            "id": 9804,
+            "title": "Google AI\u00a0Propose A Patch-Based Multi-Scale Image Quality\u00a0Transformer\u00a0(MUSIQ) To Bypass The Convolutional Neural Network\u00a0(CNN) Constraints On Fixed Input Size And Predict The Image Quality Effectively On Native-Resolution Images",
+            "url": "https://www.marktechpost.com/2022/10/25/google-ai-propose-a-patch-based-multi-scale-image-quality-transformer-musiq-to-bypass-the-convolutional-neural-network-cnn-constraints-on-fixed-input-size-and-predict-the-image/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-10-25T00:00:00",
+            "description": "The evaluation of image quality (IQA) is a crucial area of study for comprehending and enhancing the visual experience. In order to give users a better visual experience, it is vital to understand images' aesthetic and technical quality. IQA uses models to create a link between an image and the user's assessment of its quality. Modern, cutting-edge IQA techniques like NIMA are built on convolutional neural networks (CNNs). However, the batch training constraint regarding fixed shape input frequently degrades their performance. The input photographs are typically enlarged and cropped to a set shape to accommodate this, compromising the image quality.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-9.48.26-AM.png"
+        },
+        {
+            "id": 9805,
+            "title": "What is Artificial Intelligence (AI)? Understanding the Past, Present, and Future of AI",
+            "url": "https://www.marktechpost.com/2022/10/24/what-is-artificial-intelligence-ai-understanding-the-past-present-and-future-of-ai/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-10-24T00:00:00",
+            "description": "What exactly is artificial intelligence (AI)? The replication of human intellectual processes by machines, particularly computer systems, is known as artificial intelligence. Expert systems, natural language processing, speech recognition, and machine vision are examples of AI applications. How does artificial intelligence work? As the excitement surrounding AI has grown, businesses have been scurrying to showcase how their goods and services include AI. What they call AI is frequently just one component of AI, such as machine learning. AI requires specialized hardware and software to write and train machine learning algorithms. No single programming language is synonymous with AI, but a",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/Blog-Banner-2-1.jpg"
+        }
+    ]
+}

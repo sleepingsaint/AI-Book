@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8872,
+            "title": "How to Fix k-Fold Cross-Validation for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/cross-validation-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-13T00:00:00",
+            "description": "Model evaluation involves using the available dataset to fit a model and estimate its performance when making predictions on unseen examples. It is a challenging problem as both the training dataset used to fit the model and the test set used to evaluate it must be sufficiently large and representative of the underlying problem so [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/How-to-Use-k-Fold-Cross-Validation-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8873,
+            "title": "A Gentle Introduction to Probability Metrics for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/probability-metrics-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-10T00:00:00",
+            "description": "Classification predictive modeling involves predicting a class label for examples, although some problems require the prediction of a probability of class membership. For these problems, the crisp class labels are not required, and instead, the likelihood that each example belonging to each class is required and later interpreted. As such, small relative probabilities can carry [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/A-Gentle-Introduction-to-Probability-Metrics-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8874,
+            "title": "Tour of Evaluation Metrics for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-08T00:00:00",
+            "description": "A classifier is only as good as the metric used to evaluate it. If you choose the wrong metric to evaluate your models, you are likely to choose a poor model, or in the worst case, be misled about the expected performance of your model. Choosing an appropriate metric is challenging generally in applied machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Choose-a-Metric-for-Imbalanced-Classification-latest.png"
+        },
+        {
+            "id": 8875,
+            "title": "ROC Curves and Precision-Recall Curves for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-06T00:00:00",
+            "description": "Most imbalanced classification problems involve two classes: a negative case with the majority of examples and a positive case with a minority of examples. Two diagnostic tools that help in the interpretation of binary (two-class) classification predictive models are ROC Curves and Precision-Recall curves. Plots from the curves can be created and used to understand [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Precision-Recall-Curve-of-a-Logistic-Regression-Model-and-a-No-Skill-Classifier2.png"
+        },
+        {
+            "id": 8876,
+            "title": "How to Calculate Precision, Recall, and F-Measure for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-03T00:00:00",
+            "description": "Classification accuracy is the total number of correct predictions divided by the total number of predictions made for a dataset. As a performance measure, accuracy is inappropriate for imbalanced classification problems. The main reason is that the overwhelming number of examples from the majority class (or classes) will overwhelm the number of examples in the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/How-to-Calculate-Precision-Recall-and-F-Measure-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8877,
+            "title": "Failure of Classification Accuracy for Imbalanced Class Distributions",
+            "url": "https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2020-01-01T00:00:00",
+            "description": "Classification accuracy is a metric that summarizes the performance of a classification model as the number of correct predictions divided by the total number of predictions. It is easy to calculate and intuitive to understand, making it the most common metric used for evaluating classifier models. This intuition breaks down when the distribution of examples [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Scatter-Plot-of-Binary-Classification-Dataset-With-1-to-100-Class-Distribution.png"
+        },
+        {
+            "id": 8878,
+            "title": "Standard Machine Learning Datasets for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2019-12-30T00:00:00",
+            "description": "An imbalanced classification problem is a problem that involves predicting a class label where the distribution of class labels in the training dataset is skewed. Many real-world classification problems have an imbalanced class distribution, therefore it is important for machine learning practitioners to get familiar with working with these types of problems. In this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Standard-Machine-Learning-Datasets-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8879,
+            "title": "Develop an Intuition for Severely Skewed Class Distributions",
+            "url": "https://machinelearningmastery.com/how-to-develop-an-intuition-skewed-class-distributions/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2019-12-27T00:00:00",
+            "description": "An imbalanced classification problem is a problem that involves predicting a class label where the distribution of class labels in the training dataset is not equal. A challenge for beginners working with imbalanced classification problems is what a specific skewed class distribution means. For example, what is the difference and implication for a 1:10 vs. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Scatter-Plot-of-Binary-Classification-Dataset-With-Provided-Class-Distribution.png"
+        },
+        {
+            "id": 8880,
+            "title": "Best Resources for Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/resources-for-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2019-12-25T00:00:00",
+            "description": "Classification is a predictive modeling problem that involves predicting a class label for a given example. It is generally assumed that the distribution of examples in the training dataset is even across all of the classes. In practice, this is rarely the case. Those classification predictive models where the distribution of examples across class labels [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Best-Resources-for-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8881,
+            "title": "A Gentle Introduction to Imbalanced Classification",
+            "url": "https://machinelearningmastery.com/what-is-imbalanced-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Imbalanced Classification",
+            "publishedOn": "2019-12-23T00:00:00",
+            "description": "Classification predictive modeling involves predicting a class label for a given observation. An imbalanced classification problem is an example of a classification problem where the distribution of examples across the known classes is biased or skewed. The distribution can vary from a slight bias to a severe imbalance where there is one example in the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/A-Gentle-Introduction-to-Imbalanced-Classification.jpg"
+        },
+        {
+            "id": 8882,
+            "title": "How to Use the ColumnTransformer for Data Preparation",
+            "url": "https://machinelearningmastery.com/columntransformer-for-numerical-and-categorical-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2019-12-20T00:00:00",
+            "description": "You must prepare your raw data using data transforms prior to fitting a machine learning model. This is required to ensure that you best expose the structure of your predictive modeling problem to the learning algorithms. Applying data transforms like scaling or encoding categorical variables is straightforward when all input variables are the same type. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Use-the-ColumnTransformer-for-Numerical-and-Categorical-Data-in-Python.jpg"
+        },
+        {
+            "id": 8883,
+            "title": "TensorFlow 2 Tutorial: Get Started in Deep Learning with tf.keras",
+            "url": "https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2019-12-19T00:00:00",
+            "description": "Predictive modeling with deep learning is a skill that modern developers need to know. TensorFlow is the premier open-source deep learning framework developed and maintained by Google. Although using TensorFlow directly can be challenging, the modern tf.keras API brings Keras\u2019s simplicity and ease of use to the TensorFlow project. Using tf.keras allows you to design, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Learning-Curves-of-Cross-Entropy-Loss-for-a-Deep-Learning-Model.png"
+        },
+        {
+            "id": 8884,
+            "title": "Best Results for Standard Machine Learning Datasets",
+            "url": "https://machinelearningmastery.com/results-for-standard-classification-and-regression-machine-learning-datasets/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2019-12-18T00:00:00",
+            "description": "It is important that beginner machine learning practitioners practice on small real-world datasets. So-called standard machine learning datasets contain actual observations, fit into memory, and are well studied and well understood. As such, they can be used by beginner practitioners to quickly test, explore, and practice data preparation and modeling techniques. A practitioner can confirm [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Results-for-Standard-Classification-and-Regression-Machine-Learning-Datasets.jpg"
+        },
+        {
+            "id": 8885,
+            "title": "Arithmetic, Geometric, and Harmonic Means for Machine Learning",
+            "url": "https://machinelearningmastery.com/arithmetic-geometric-and-harmonic-means-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2019-12-17T00:00:00",
+            "description": "Calculating the average of a variable or a list of numbers is a common operation in machine learning. It is an operation you may use every day either directly, such as when summarizing data, or indirectly, such as a smaller step in a larger procedure when fitting a model. The average is a synonym for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/Arithmetic-Geometric-and-Harmonic-Means-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8886,
+            "title": "How to Transform Target Variables for Regression in Python",
+            "url": "https://machinelearningmastery.com/how-to-transform-target-variables-for-regression-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2019-12-16T00:00:00",
+            "description": "Data preparation is a big part of applied machine learning. Correctly preparing your training data can mean the difference between mediocre and extraordinary results, even with very simple linear algorithms. Performing data preparation operations, such as scaling, is relatively straightforward for input variables and has been made routine in Python via the Pipeline scikit-learn class. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Transform-Target-Variables-for-Regression-With-Scikit-Learn.jpg"
+        },
+        {
+            "id": 8887,
+            "title": "Tune Hyperparameters for Classification Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2019-12-13T00:00:00",
+            "description": "Machine learning algorithms have hyperparameters that allow you to tailor the behavior of the algorithm to your specific dataset. Hyperparameters are different from parameters, which are the internal coefficients or weights for a model found by the learning algorithm. Unlike parameters, hyperparameters are specified by the practitioner when configuring the model. Typically, it is challenging [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/10/Hyperparameters-for-Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 8888,
+            "title": "How to Develop Super Learner Ensembles in Python",
+            "url": "https://machinelearningmastery.com/super-learner-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2019-12-11T00:00:00",
+            "description": "Selecting a machine learning algorithm for a predictive modeling problem involves evaluating many different models and model configurations using k-fold cross-validation. The super learner is an ensemble machine learning algorithm that combines all of the models and model configurations that you might investigate for a predictive modeling problem and uses them to make a prediction [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Develop-Super-Learner-Ensembles-in-Python.jpg"
+        },
+        {
+            "id": 8889,
+            "title": "Develop an Intuition for Bayes Theorem With Worked Examples",
+            "url": "https://machinelearningmastery.com/intuition-for-bayes-theorem-with-worked-examples/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-12-09T00:00:00",
+            "description": "Bayes Theorem provides a principled way for calculating a conditional probability. It is a deceptively simple calculation, providing a method that is easy to use for scenarios where our intuition often fails. The best way to develop an intuition for Bayes Theorem is to think about the meaning of the terms in the equation and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Develop-an-Intuition-for-Bayes-Theorem-With-Worked-Examples.jpg"
+        },
+        {
+            "id": 8890,
+            "title": "How to Use Out-of-Fold Predictions in Machine Learning",
+            "url": "https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2019-12-06T00:00:00",
+            "description": "Machine learning algorithms are typically evaluated using resampling techniques such as k-fold cross-validation. During the k-fold cross-validation process, predictions are made on test sets comprised of data not used to train the model. These predictions are referred to as out-of-fold predictions, a type of out-of-sample predictions. Out-of-fold predictions play an important role in machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/How-to-Use-Out-of-Fold-Predictions-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8891,
+            "title": "A Gentle Introduction to the Bayes Optimal Classifier",
+            "url": "https://machinelearningmastery.com/bayes-optimal-classifier/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-12-04T00:00:00",
+            "description": "The Bayes Optimal Classifier is a probabilistic model that makes the most probable prediction for a new example. It is described using the Bayes Theorem that provides a principled way for calculating a conditional probability. It is also closely related to the Maximum a Posteriori: a probabilistic framework referred to as MAP that finds the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/A-Gentle-Introduction-to-the-Bayes-Optimal-Classifier.jpg"
+        },
+        {
+            "id": 8892,
+            "title": "A Gentle Introduction to Model Selection for Machine Learning",
+            "url": "https://machinelearningmastery.com/a-gentle-introduction-to-model-selection-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2019-12-02T00:00:00",
+            "description": "Given easy-to-use machine learning libraries like scikit-learn and Keras, it is straightforward to fit many different machine learning models on a given predictive modeling dataset. The challenge of applied machine learning, therefore, becomes how to choose among a range of different models that you can use for your problem. Naively, you might believe that model [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/12/A-Gentle-Introduction-to-Model-Selection-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8893,
+            "title": "How to Use an Empirical Distribution Function in Python",
+            "url": "https://machinelearningmastery.com/empirical-distribution-function-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-29T00:00:00",
+            "description": "An empirical distribution function provides a way to model and sample cumulative probabilities for a data sample that does not fit a standard probability distribution. As such, it is sometimes called the empirical cumulative distribution function, or ECDF for short. In this tutorial, you will discover the empirical probability distribution function. After completing this tutorial, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/Empirical-Probability-Density-Function-for-the-Bimodal-Data-Sample.png"
+        },
+        {
+            "id": 8894,
+            "title": "How to Choose a Feature Selection Method For Machine Learning",
+            "url": "https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2019-11-27T00:00:00",
+            "description": "Feature selection is the process of reducing the number of input variables when developing a predictive model. It is desirable to reduce the number of input variables to both reduce the computational cost of modeling and, in some cases, to improve the performance of the model. Statistical-based feature selection methods involve evaluating the relationship between [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png"
+        },
+        {
+            "id": 8895,
+            "title": "How to Perform Feature Selection with Categorical Data",
+            "url": "https://machinelearningmastery.com/feature-selection-with-categorical-data/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2019-11-25T00:00:00",
+            "description": "Feature selection is the process of identifying and selecting a subset of input features that are most relevant to the target variable. Feature selection is often straightforward when working with real-valued data, such as using the Pearson\u2019s correlation coefficient, but can be challenging when working with categorical data. The two most commonly used feature selection [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/09/Bar-Chart-of-the-Input-Features-x-vs-The-Chi-Squared-Feature-Importance-y.png"
+        },
+        {
+            "id": 8896,
+            "title": "3 Ways to Encode Categorical Variables for Deep Learning",
+            "url": "https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2019-11-22T00:00:00",
+            "description": "Machine learning and deep learning models, like those in Keras, require all input and output variables to be numeric. This means that if your data contains categorical data, you must encode it to numbers before you can fit and evaluate a model. The two most popular techniques are an integer encoding and a one hot [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Encode-Categorical-Data-for-Deep-Learning-in-Keras.jpg"
+        },
+        {
+            "id": 8897,
+            "title": "How to Save and Reuse Data Preparation Objects in Scikit-Learn",
+            "url": "https://machinelearningmastery.com/how-to-save-and-load-models-and-data-preparation-in-scikit-learn-for-later-use/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2019-11-20T00:00:00",
+            "description": "It is critical that any data preparation performed on a training dataset is also performed on a new dataset in the future. This may include a test dataset when evaluating a model or new data from the domain when using a model to make predictions. Typically, the model fit on the training dataset is saved [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Save-and-Load-Models-and-Data-Preparation-in-Scikit-Learn-for-Later-Use.jpg"
+        },
+        {
+            "id": 8898,
+            "title": "What Does Stochastic Mean in Machine Learning?",
+            "url": "https://machinelearningmastery.com/stochastic-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Probability",
+            "publishedOn": "2019-11-18T00:00:00",
+            "description": "The behavior and performance of many machine learning algorithms are referred to as stochastic. Stochastic refers to a variable process where the outcome involves some randomness and has some uncertainty. It is a mathematical term and is closely related to \u201crandomness\u201d and \u201cprobabilistic\u201d and can be contrasted to the idea of \u201cdeterministic.\u201d The stochastic nature [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/A-Gentle-Introduction-to-Stochastic-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8899,
+            "title": "How to Connect Model Input Data With Predictions for Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-connect-model-input-data-with-predictions-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2019-11-15T00:00:00",
+            "description": "Fitting a model to a training dataset is so easy today with libraries like scikit-learn. A model can be fit and evaluated on a dataset in just a few lines of code. It is so easy that it has become a problem. The same few lines of code are repeated again and again and it [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Connect-Model-Input-Data-With-Predictions-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8900,
+            "title": "How to Save a NumPy Array to File for Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-save-a-numpy-array-to-file-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2019-11-13T00:00:00",
+            "description": "Developing machine learning models in Python often requires the use of NumPy arrays. NumPy arrays are efficient data structures for working with data in Python, and machine learning models like those in the scikit-learn library, and deep learning models like those in the Keras library, expect input data in the format of NumPy arrays and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Save-a-NumPy-Array-to-File-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8901,
+            "title": "14 Different Types of Learning in Machine Learning",
+            "url": "https://machinelearningmastery.com/types-of-learning-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2019-11-11T00:00:00",
+            "description": "Machine learning is a large field of study that overlaps with and inherits ideas from many related fields such as artificial intelligence. The focus of the field is learning, that is, acquiring skills or knowledge from experience. Most commonly, this means synthesizing useful concepts from historical data. As such, there are many different types of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/11/Types-of-Learning-in-Machine-Learning.jpg"
+        }
+    ]
+}

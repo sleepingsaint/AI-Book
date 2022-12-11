@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10217,
+            "title": "The Joys of Sharing Models on OpenCV's Modelplace",
+            "url": "https://blog.roboflow.com/sharing-models-on-modelplace/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-06-16T00:00:00",
+            "description": "If we could all get together and share our model creation and deployments, that would be a very good thing for the computer vision community. Modelplace is a big step in that direction.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/modelplace.001.jpeg"
+        },
+        {
+            "id": 10218,
+            "title": "How to Train MobileNetV2 On a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/",
+            "authors": "Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "In this post, we will walk through how you can train MobileNetV2 to recognize image classification data for your custom use case.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/mobilenetV2_class.001.jpeg"
+        },
+        {
+            "id": 10219,
+            "title": "Building vs. Buying a Computer Vision Platform",
+            "url": "https://blog.roboflow.com/build-vs-buy/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-06-14T00:00:00",
+            "description": "\u201cYou could do what Roboflow does yourself but\u2026why would you?\u201d-Jack Clark, Co-Founder of Anthropic, former Policy Directory at OpenAI,  It\u2019s no secret that building a computer vision model on your own is hard work. It requires wrangling together different platforms, open-source tools, and developer notebooks to create",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/blog_images_v2_pptx.pptx--3-.jpg"
+        },
+        {
+            "id": 10220,
+            "title": "How to Train with Microsoft Azure Custom Vision and Roboflow",
+            "url": "https://blog.roboflow.com/how-to-train-microsoft-azure-custom-vision/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-06-13T00:00:00",
+            "description": "Roboflow is a tool for building robust machine learning operations pipelines for computer vision: from collecting and organizing images, annotating, training, deploying, and creating active learning pipelines to rapidly create improved model performance. When it comes to the training step, developers should optimize for ease. Roboflow Train enables teams to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/azure-custom-vision-thumbnail.jpeg"
+        },
+        {
+            "id": 10221,
+            "title": "Your Comprehensive Guide to the YOLO Family of Models",
+            "url": "https://blog.roboflow.com/guide-to-yolo-models/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-06-07T00:00:00",
+            "description": "The original YOLO (You Only Look Once) was written by Joseph Redmon and has produced a the best realtime object detectors in computer vision.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/yolo-guide-thumbnail.jpeg"
+        },
+        {
+            "id": 10222,
+            "title": "How to Train the Hugging Face Vision Transformer On a Custom Dataset",
+            "url": "https://blog.roboflow.com/how-to-train-vision-transformer/",
+            "authors": "Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2021-06-06T00:00:00",
+            "description": "HuggingFace has recently published a Vision Transfomer model. In this post, we will walk through how you can train a Vision Transformer to recognize classification data for your custom use case. Learn more about Transformers in Computer Vision on our YouTube channel.We use a public rock, paper, scissors classification",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/huggingface-vit.jpg"
+        },
+        {
+            "id": 10223,
+            "title": "Roboflow Changelog: June 2021",
+            "url": "https://blog.roboflow.com/changelog-june-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-06-02T00:00:00",
+            "description": "Each month, we publish a list of recent features and additions to the Roboflow suite of products. The previous month's update is here. In May there has been a bevy of backend changes to support a huge user-facing release coming next month. The most noticeable updates this month were the",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/06/june-changelog.jpg"
+        },
+        {
+            "id": 10224,
+            "title": "What Does \"End to End\" Really Mean?",
+            "url": "https://blog.roboflow.com/what-does-end-to-end-really-mean/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-05-30T00:00:00",
+            "description": "Developing, deploying and optimizing computer vision models used to be a cumbersome, painful process. With Roboflow, we sought to democratize this technology, which (first and foremost) meant knocking down the barriers that we perceived were preventing everyday people from exploring and implementing computer vision in their work and daily lives.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/blog_images_v2_pptx.pptx--2-.jpg"
+        },
+        {
+            "id": 10225,
+            "title": "License Plate Detection and OCR on an NVIDIA Jetson",
+            "url": "https://blog.roboflow.com/license-plate-detection-jetson/",
+            "authors": "Samrat Sahoo, Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-05-27T00:00:00",
+            "description": "In this blog, we discuss how to train and deploy a custom license plate detection model to the NVIDIA Jetson. While we focus on the detection of license plates in particular, this guide also provides an end-to-end guide on deploying custom computer vision models to your NVIDIA Jetson on the edge.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/license_plate_detection_jetson.001.jpeg"
+        },
+        {
+            "id": 10226,
+            "title": "Roboflow Competitors and Alternatives",
+            "url": "https://blog.roboflow.com/competitors/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-05-25T00:00:00",
+            "description": "We think it's important for users to make a fully informed decision, so we're committed to maintaining a comparison between our software and our competitors' so you can make the best purchasing decision for your business. Where does Roboflow fit in?Roboflow is an end-to-end computer vision platform. We enable",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/competitors.jpg"
+        },
+        {
+            "id": 10227,
+            "title": "What is a Cutout Augmentation and When Can it Help?",
+            "url": "https://blog.roboflow.com/what-is-cutout-augmentation-and-when-can-it-help/",
+            "authors": "Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "Applying data augmentations is one of the most essential steps when developing your dataset. Roboflow offers a wide variety of augmentations that you can apply to your dataset including an augmentation called the cutout augmentation. In this blog you will learn:  What cutout augmentations are When you should use cutout",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/cutout-occlusion-blog-image-overview.jpeg"
+        },
+        {
+            "id": 10228,
+            "title": "Why Roboflow Train?",
+            "url": "https://blog.roboflow.com/why-roboflow-train/",
+            "authors": "Kaylee Williams",
+            "tags": null,
+            "publishedOn": "2021-05-24T00:00:00",
+            "description": "If deployment is the magic of computer vision, then the act of training a model is the proverbial wave of that wand. Training a computer vision model is the process by which a computer learns to detect specific objects within images - put simply (and more elegantly), it\u2019s how",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/blog_images_v2_pptx.pptx--1-.jpg"
+        },
+        {
+            "id": 10229,
+            "title": "How Computer Vision Streamlines Risk Avoidance Workflows in Oil & Gas",
+            "url": "https://blog.roboflow.com/computer-vision-satellite-imagery-energy/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-05-19T00:00:00",
+            "description": "The below is a guest post by Douglas Long, a full stack developer in Calgary, Canada. Douglas previously worked in oil and gas.  In the oil and gas industry, providing advanced notification for the development of energy infrastructure is a regulatory requirement. New pipelines can overlap with private landowner property.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/o-g_headline_image.001.jpeg"
+        },
+        {
+            "id": 10230,
+            "title": "Prompt Engineering: The Magic Words to using OpenAI's CLIP",
+            "url": "https://blog.roboflow.com/openai-clip-prompt-engineering/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-05-17T00:00:00",
+            "description": "Featuring rock, paper, scissors.  OpenAI's CLIP model (Contrastive Language-Image Pre-Training) is a powerful zero-shot classifier that leverages knowledge of the English language to classify images without having to be trained on any specific dataset. In other words, CLIP already knows a lot about the content of images without needing to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/prompt-engineering-rock-paper-scissors-thumbnail-1.png"
+        },
+        {
+            "id": 10231,
+            "title": "License Plate Detection and OCR using Roboflow Inference API",
+            "url": "https://blog.roboflow.com/license-plate-detection-and-ocr/",
+            "authors": "Samrat Sahoo",
+            "tags": null,
+            "publishedOn": "2021-05-14T00:00:00",
+            "description": "In this post, we\u2019ll walk you through creating a license plate detection and OCR model using Roboflow that you can programmatically use for your own projects.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/license-plate-ocr-v2.001.jpeg"
+        },
+        {
+            "id": 10232,
+            "title": "PP-YOLO Strikes Again - Record Object Detection at 68.9FPS",
+            "url": "https://blog.roboflow.com/pp-yolo-strikes-again/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-05-11T00:00:00",
+            "description": "Object detection research is white hot! In the last year alone, we've seen the state of the art reached by YOLOv4, YOLOv5, PP-YOLO, and Scaled-YOLOv4. And now Baidu releases PP-YOLOv2, setting new heights in the object detection space.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/pp-yolov2.001.jpeg"
+        },
+        {
+            "id": 10233,
+            "title": "How to Train and Deploy Custom Models to Your OAK",
+            "url": "https://blog.roboflow.com/opencv-ai-kit-deployment/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "In this blog, we'll walk through the Roboflow custom model deployment process to the OAK and show just how seamless it can be.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/custom_models_oak.001.jpeg"
+        },
+        {
+            "id": 10234,
+            "title": "Partnering with Luxonis and OpenCV for Seamless Deployment to OpenCV AI Kit",
+            "url": "https://blog.roboflow.com/opencv-deploy-to-luxonis-oak/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-05-05T00:00:00",
+            "description": "Deploying computer vision models to the edge is critical to unlocking new use cases like in places with limited internet connectivity or where minimal latency is essential. That might be deploying to a rural field in agriculture or computer vision in high throughput manufacturing. As a part of our partnership",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/oak-opencv-luxonis-roboflow-1.png"
+        },
+        {
+            "id": 10235,
+            "title": "Roboflow Changelog: May 2021",
+            "url": "https://blog.roboflow.com/roboflow-changelog-may-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-05-04T00:00:00",
+            "description": "The changelog is our compendium of monthly updates. If you want to take a walk down memory lane, you can being your trip back in time with last month's edition. In April, our major product efforts centered around launching our brand new user interface. This redesign of our core flow",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/may-changelog.jpg"
+        },
+        {
+            "id": 10236,
+            "title": "The power of image augmentation: an experiment",
+            "url": "https://blog.roboflow.com/the-power-of-image-augmentation-experiment/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-05-03T00:00:00",
+            "description": "One of the amazing things about computer vision is using existing images plus random changes to increase your effective sample size. Suppose you have one photo containing a coffee mug. Then, copy that photo and rotate it 10 degrees clockwise. From your point of view, you haven\u2019t done very",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/05/power_of_image_augs.001.jpeg"
+        },
+        {
+            "id": 10237,
+            "title": "Getting Started with Roboflow",
+            "url": "https://blog.roboflow.com/getting-started-with-roboflow/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-29T00:00:00",
+            "description": "Roboflow eliminates boilerplate code when building object detection models. \n\nGet started with an example.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/getting-started.jpg"
+        },
+        {
+            "id": 10238,
+            "title": "Using videos as training data",
+            "url": "https://blog.roboflow.com/annotating-video/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-27T00:00:00",
+            "description": "Oftentimes, the visual data you'll want to analyze will come in the form of video. It may be security camera footage, YouTube videos, or webcam recordings. We know how to use Roboflow with images, but how does it work with video? For most computer vision models, the best way to",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/video-training.jpg"
+        },
+        {
+            "id": 10239,
+            "title": "Image Augmentations for Aerial Datasets",
+            "url": "https://blog.roboflow.com/image-augmentations-for-aerial-datasets/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-04-26T00:00:00",
+            "description": "When creating computer vision models, data augmentation can improve model performance with an existing image dataset. Image augmentation increases the size and variability of a dataset, thereby improving model generalizability. Want this post as a video walkthrough? See above and subscribe: https://bit.ly/rf-yt-subImage augmentations should be selected based",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/image-augmentation-aerial-thumbnail.png"
+        },
+        {
+            "id": 10240,
+            "title": "How We at Roboflow Do Remote Work",
+            "url": "https://blog.roboflow.com/how-roboflow-does-remote-work-sprint-scrum/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-04-25T00:00:00",
+            "description": "We'd like to think we've worked remotely pretty successfully: we raised a seed round, we've come in first place on the Pioneer leaderboard for a record-breaking 25-weeks in a row, we publish at least five pieces of content each week (check out our blog and YouTube channel!), and we\u2019ve",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/blog_images_v2.001.jpeg"
+        },
+        {
+            "id": 10241,
+            "title": "Computer Vision is Shaking Up Brick-and-Mortar Retail",
+            "url": "https://blog.roboflow.com/computer-vision-for-retail/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-21T00:00:00",
+            "description": "Computer vision is changing the landscape of retail storefronts. While it\u2019s most often experienced in places like self-checkout lines, innovative retailers have realized the potential that computer vision can offer them by rolling it out to other functions within their stores.  The largest retail companies on the bleeding edge",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/retail.jpg"
+        },
+        {
+            "id": 10242,
+            "title": "Roboflow's new User Interface",
+            "url": "https://blog.roboflow.com/new-user-interface/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-18T00:00:00",
+            "description": "When you log into your Roboflow account you'll notice a fresh look, but the features you know and love are all still just a click away. We've reorganized the app to make things easier to find, simpler to navigate, and primed for future enhancement. Video overview of our new UI.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/new-ui.jpg"
+        },
+        {
+            "id": 10243,
+            "title": "Top 5 Ways Computer Vision Can Improve Online Shopping and Boost Revenue",
+            "url": "https://blog.roboflow.com/computer-vision-for-ecommerce/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-18T00:00:00",
+            "description": "Few things are as natural a fit as ecommerce and computer vision. With the bulk of online retail experiences being built on quality image data uploaded by both storefronts and customers, computer vision has the power to use all of that data to elevate the online shopping experience.  Ecommerce marketplaces",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/ecommerce.jpg"
+        },
+        {
+            "id": 10244,
+            "title": "Using Computer Vision to Keep Stock of Inventory",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-keep-stock-of-inventory/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-04-18T00:00:00",
+            "description": "Many hospitals have an inefficient, analog way of managing their medical supplies. We used computer vision to dramatically improve how to track inventory.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/inventory_stock.001.jpeg"
+        },
+        {
+            "id": 10245,
+            "title": "How important is subject similarity  for transfer learning?",
+            "url": "https://blog.roboflow.com/transfer-learning-similarity/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-04-11T00:00:00",
+            "description": "Using transfer learning to initialize your computer vision model from pre-trained weights rather than starting from scratch (initializing randomly) has been shown to increase performance and decrease training time. It makes sense, by giving your model prior knowledge about basic concepts like lines, curves, textures, and \"things\" it should be",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/transfer-similarity.jpg"
+        },
+        {
+            "id": 10246,
+            "title": "Our Favorite Computer Vision Courses",
+            "url": "https://blog.roboflow.com/best-computer-vision-class/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-04-11T00:00:00",
+            "description": "A question we frequently receive at Roboflow is, \"What is the best class for learning computer vision?\"  Like most questions, the answer does depend on your background and what you're aiming to learn. Below, we've compiled a few of our favorite courses for learning computer vision, machine learning, and artificial",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/04/computer-vision-course-thumbnail.png"
+        }
+    ]
+}

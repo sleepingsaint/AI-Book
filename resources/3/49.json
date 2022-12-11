@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3414,
+            "title": "Applications of Convolutional Neural Networks(CNN)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/applications-of-convolutional-neural-networkscnn/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Deep Learning",
+            "publishedOn": "2021-10-04T00:00:00",
+            "description": "In this article, we going to we are going to explore the applications of Convolutional Neural Networks that data scientists should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Multi-label-Text-Classification.jpg"
+        },
+        {
+            "id": 3415,
+            "title": "Introduction to Feature Engineering \u2013 Everything You Need to Know!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/",
+            "authors": "Tithi Sreemany",
+            "tags": "Beginner, Machine Learning, Python",
+            "publishedOn": "2021-10-03T00:00:00",
+            "description": "Feature Engineering is the process of extracting and organizing the important features from raw data suchthat it fits the ML model",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92516data-extracting-feature-img.png"
+        },
+        {
+            "id": 3416,
+            "title": "A Comprehensive Guide on Market Basket Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-market-basket-analysis/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Beginner, Guide, Machine Learning, Python",
+            "publishedOn": "2021-10-02T00:00:00",
+            "description": "This comprehensive guide will instigate you to the world of Market Basket Analysis along with an implementation using Python on a dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/retail-in-ai-.png"
+        },
+        {
+            "id": 3417,
+            "title": "Introduction to Deep Learning in Julia",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/introduction-to-deep-learning-in-julia/",
+            "authors": "Nihal Singh",
+            "tags": "Advanced, Deep Learning, Julia",
+            "publishedOn": "2021-10-02T00:00:00",
+            "description": "IN this article we will explore deep learning with implementation in Julia programming language using some popular julia libraries",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/48058deep-learning.png"
+        },
+        {
+            "id": 3418,
+            "title": "Lambda Function \u2013 A better understanding",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/lambda-function-a-better-understanding/",
+            "authors": "Premanand S",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-10-02T00:00:00",
+            "description": "A Lambda function is simple and straightforward function, that requires only the argument(s) and expression, as well as the lambda keyword",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/featured_image-1.jpg"
+        },
+        {
+            "id": 3419,
+            "title": "An End-to-End Guide on Approaching an ML Problem and Deploying It Using Flask and Docker",
+            "url": "https://www.analyticsvidhya.com/blog/2021/10/an-end-to-end-guide-on-approaching-an-ml-problem-and-deploying-it-using-flask-and-docker/",
+            "authors": "Srivignesh R",
+            "tags": "Advanced, Data Engineering, Guide, Model Deployment",
+            "publishedOn": "2021-10-01T00:00:00",
+            "description": "This article is an End-to-End Guide on Approaching a supervised machine learning Problem and Deploying It Using Flask and Docker",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/math_machine_learning.jpg.jpg"
+        },
+        {
+            "id": 3420,
+            "title": "A Comprehensive Guide on Databricks for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-databricks-beginners/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Data Engineering, Data Visualization, Guide, Machine Learning, Python, SQL",
+            "publishedOn": "2021-09-30T00:00:00",
+            "description": "Databricks is a data warehousing, machine learning web-based platform developed by the creators of Spark. Let's understand in detail",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Data-Engineering-for-Beginners-%E2%80%93-Difference-Between-OLTP-and-OLAP-1.jpg"
+        },
+        {
+            "id": 3421,
+            "title": "Guide For Data Analysis: From Data Extraction to Dashboard",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Data Mining, Data Visualization, Guide, Power BI, Python",
+            "publishedOn": "2021-09-30T00:00:00",
+            "description": "Here, we will be developing a complete project for Analytics vidhya blogathon data analysis. It cover from data extraction to dashboard.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/33793Blogathon-Analysis.png"
+        },
+        {
+            "id": 3422,
+            "title": "Introduction to Artificial Intelligence for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/introduction-to-artificial-intelligence-for-beginners/",
+            "authors": "Gourav Singh",
+            "tags": "Artificial Intelligence, Beginner, Use Cases",
+            "publishedOn": "2021-09-30T00:00:00",
+            "description": "Artificial Intelligence is the process of intelligence in machines that are taught to learn, understand, and copy the actions of humans.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/5.png"
+        },
+        {
+            "id": 3423,
+            "title": "Graph Neural Network: An Introduction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/graph-neural-network-an-introduction/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-09-30T00:00:00",
+            "description": "Graph Neural Network are the Neural Network that operates on the Graph structure and makes the complex graph data easy to understand.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/graph-3033203_1280.jpg"
+        },
+        {
+            "id": 3424,
+            "title": "Guide for building an End-to-End Logistic Regression Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/guide-for-building-an-end-to-end-logistic-regression-model/",
+            "authors": "Yogita Bhor",
+            "tags": "Beginner, Guide, Machine Learning, Python, Supervised",
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "In this blog, we'll go over everything you need to know about Logistic Regression to get started and build a model in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/How-to-treat-Class-Imbalance-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 3425,
+            "title": "A Hands-On Discussion on Hyperparameter Optimization Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-hands-on-discussion-on-hyperparameter-optimization-techniques/",
+            "authors": "Nithyashree V",
+            "tags": "Beginner, Classification, Guide, Machine Learning, Python",
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "In this article we wil develop a random forest base model for classification and learn about different Hyperparameter Optimization techniques",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/91914feature-images-1.png"
+        },
+        {
+            "id": 3426,
+            "title": "Numpy Refresher for Beginners (with Anaconda Setup)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/numpy-refresher-for-beginners-with-anaconda-setup/",
+            "authors": "Gourav Singh",
+            "tags": "Beginner, Data Science, Libraries, Python",
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "This article is an introduction to machine learning fundamentals. The content is divided into two parts anaconda setup and Numpy operations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/NumPy-Introduction-for-Beginners.jpg"
+        },
+        {
+            "id": 3427,
+            "title": "A Comprehensive Guide on Neural Networks Performance Optimization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-neural-networks-performance-optimization/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Deep Learning, Python",
+            "publishedOn": "2021-09-29T00:00:00",
+            "description": "This is a comprehensive guide, That will introduce you to a number of methods you can use for Neural Networks Performance Optimization",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/74722Performance-of-Neural-Networks.png"
+        },
+        {
+            "id": 3428,
+            "title": "Complete Tutorial On Natural Language Processing using spaCy",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/complete-tutorial-on-natural-language-processing-using-spacy/",
+            "authors": "Siddharth Sachdeva",
+            "tags": "Beginner, Machine Learning, NLP, python",
+            "publishedOn": "2021-09-28T00:00:00",
+            "description": "Here, we will understand natural language processing using spacy. It provides production quality code and the most commonly used library for",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/69371Spacy-Tutorial-Feature-img.png"
+        },
+        {
+            "id": 3429,
+            "title": "40 Helpful Python tips to Boost your speed as a Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/40-helpful-python-tips-to-boost-your-speed-as-a-data-scientist/",
+            "authors": "Bahauddin Taha",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2021-09-28T00:00:00",
+            "description": "Python is one of the most demanding skills for data scientists. In this article we will introduce you to 40 python tips to boost your speed.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/57984Coding2.jpg"
+        },
+        {
+            "id": 3430,
+            "title": "A Comprehensive Guide on Using Azure Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-using-azure-machine-learning/",
+            "authors": "Akansha Khandelwal",
+            "tags": "Automl, AzureML, Beginner, Guide, Machine Learning, Python",
+            "publishedOn": "2021-09-28T00:00:00",
+            "description": "In this guide, we will go in-depth about Azure Machine Learning, its capabilities, the azure ecosystem that supports ML activities",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/576190_y1vE1Hdlri6XkDGL.jpg"
+        },
+        {
+            "id": 3431,
+            "title": "A Complete Guide To Tableau For Beginners in Data Visualization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-complete-guide-to-tableau-for-beginners-in-data-visualization/",
+            "authors": "Chris Dmello",
+            "tags": "Beginner, Data Visualization, Guide, Tableau",
+            "publishedOn": "2021-09-27T00:00:00",
+            "description": "Tableau is a well-known data visualization tool widely used in the industry. In this article we see how to develop a dashboard.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/data_visualization_python_r_tableau.jpg"
+        },
+        {
+            "id": 3432,
+            "title": "Automate Windows Applications using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/automate-windows-applications-using-python/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-27T00:00:00",
+            "description": "In this article, we are going to learn how to automate Windows applications using python to help you in repetitive tasks and save your time.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/86039Automation.jpg"
+        },
+        {
+            "id": 3433,
+            "title": "How To Create Dummy Data In Python Using Faker Package",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-create-dummy-data-in-python-using-faker-package/",
+            "authors": "Nasima Tamboli",
+            "tags": "Beginner, Libraries, Programming, Project, Python",
+            "publishedOn": "2021-09-26T00:00:00",
+            "description": "This article explores the importance of dummy data and the different ways of creating the dummy data using the Faker package in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Integrating-Python-in-Power-BI.jpg"
+        },
+        {
+            "id": 3434,
+            "title": "Maximum Likelihood Estimation -A Comprehensive Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/maximum-likelihood-estimation-a-comprehensive-guide/",
+            "authors": "Naman Agrawal",
+            "tags": "Guide, Maths, Probability, Statistics",
+            "publishedOn": "2021-09-25T00:00:00",
+            "description": "Maximum Likelihood Estimation is a process of using data to find estimators for different parameters characterizing a distribution.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/17817Cover-Image.jpg"
+        },
+        {
+            "id": 3435,
+            "title": "Building a Machine Learning Model for Title Generation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/building-a-machine-learning-model-for-title-generation/",
+            "authors": "Sharvari Santosh",
+            "tags": "Beginner, Deep Learning, NLP, Project, Python",
+            "publishedOn": "2021-09-24T00:00:00",
+            "description": "In this article we will develop a deep learning model for title generation. for the task we will be using youtube trends dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/35650markus-winkler-f57lx37DCM4-unsplash.jpg"
+        },
+        {
+            "id": 3436,
+            "title": "CNN based Dog Breed Classifier Using Stacked Pretrained Models",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/cnn-based-dog-breed-classifier-using-stacked-pretrained-models/",
+            "authors": "Gourav Singh",
+            "tags": "Advanced, Computer Vision, Deep Learning, Project, Technique",
+            "publishedOn": "2021-09-24T00:00:00",
+            "description": "In this article, we will learn about stacked pretrained models. Also, we will develop a CNN based Dog Breed Classifier Using Stacked Models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 3437,
+            "title": "Data Analysis and Price Prediction of Electric Vehicles",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/data-analysis-and-price-prediction-of-electric-vehicles/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Exploration, Machine Learning, Project, Python",
+            "publishedOn": "2021-09-23T00:00:00",
+            "description": "In this article we are going to analyze the data and develop a machine learning for model price prediction of electric vehicles.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/12665tesla1.jpeg"
+        },
+        {
+            "id": 3438,
+            "title": "Guide for Data Visualization With Bokeh Python Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-visualization-with-bokeh-python-library/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Exploration, Data Visualization, Guide, Python",
+            "publishedOn": "2021-09-22T00:00:00",
+            "description": "Bokeh is an interactive visualization library in python. The best feature which bokeh provides is highly interactive graphs and plots.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 3439,
+            "title": "A Complete Guide on Sampling Techniques for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-complete-guide-on-sampling-techniques/",
+            "authors": "Akansha Khandelwal",
+            "tags": "Beginner, Data Science, Guide, Statistics",
+            "publishedOn": "2021-09-22T00:00:00",
+            "description": "In this guide, we will share a detailed deep-dive of what is sampling, what are different sampling techniques, and their industry use cases.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/types_of_sampling.jpg"
+        },
+        {
+            "id": 3440,
+            "title": "Different Type of Correlation Metrics Used by Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/different-type-of-correlation-metrics-used-by-data-scientist/",
+            "authors": "Ashray Saini",
+            "tags": "Beginner, Data Science, Statistics",
+            "publishedOn": "2021-09-22T00:00:00",
+            "description": "The correlation is used to measure the relationship between two variables. Here, we will see the different types of correlation metrics.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.png"
+        },
+        {
+            "id": 3441,
+            "title": "Complete Guide to Feature Engineering: Zero to Hero",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/complete-guide-to-feature-engineering-zero-to-hero/",
+            "authors": "Gaurav Sharma",
+            "tags": "Beginner, Data Cleaning, Data Visualization, Guide, Machine Learning, Python",
+            "publishedOn": "2021-09-21T00:00:00",
+            "description": "The article will be explaining all the techniques of feature engineering using python and will also include code wherever necessary",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/17382aa.png"
+        },
+        {
+            "id": 3442,
+            "title": "Sentiment Analysis with LSTM and TorchText with Code and Explanation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/sentiment-analysis-with-lstm-and-torchtext-with-code-and-explanation/",
+            "authors": "Pritesh Prakash",
+            "tags": "Advanced, Deep Learning, NLP, Project, Python",
+            "publishedOn": "2021-09-21T00:00:00",
+            "description": "In this article, we will see every single details that you need to know for sentiment analysis using the LSTM and torchtext library",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Sentiment-Analysis-scaled.jpg"
+        },
+        {
+            "id": 3443,
+            "title": "Big Announcement \u2013 Analytics Vidhya Announces Strategic Funding from Fractal!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/big-announcement-analytics-vidhya-announces-strategic-funding-from-fractal/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2021-09-21T00:00:00",
+            "description": "Analytics Vidhya secures $5.5 million (INR 40 crores) strategic funding from Fractal. It will be used to scale up its operations and products",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/mathieu-stern-1zO4O3Z0UJA-unsplash-scaled.jpg"
+        }
+    ]
+}

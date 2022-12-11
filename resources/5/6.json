@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6622,
+            "title": "CREAD: Combined Resolution of Ellipses and Anaphora in Dialogues",
+            "url": "https://machinelearning.apple.com/research/combined-resolution-of-ellipses",
+            "authors": "Bo-Hsiang Tseng, Shruti Bhargava, Jiarui Lu, Joel Ruben Antony Moniz, Dhivya Piraviperumal, Lin Li, Hong Yu",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Anaphora and ellipses are two common phenomena in dialogues. Without resolving referring expressions and information omission, dialogue\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6623,
+            "title": "Dynamic Curriculum Learning Via Data Parameters for Noise Robust Keyword Spotting",
+            "url": "https://machinelearning.apple.com/research/dynamic-curriculum-learning",
+            "authors": "Takuya Higuchi, Shreyas Saxena, Mehrez Souden, Tien Dung Tran, Masood Delfarah, Chandra Dhir",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We propose dynamic curriculum learning via data parameters for noise robust keyword spotting. Data parameter learning has recently been\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6624,
+            "title": "Error-driven Pruning of Language Models for Virtual Assistants",
+            "url": "https://machinelearning.apple.com/research/error-driven-pruning",
+            "authors": "Sashank Gondala, Lyan Verwimp, Ernest Pusateri, Manos Tsagkias, Christophe Van Gysel",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Language models (LMs) for virtual assistants (VAs) are typically trained on large amounts of data, resulting in prohibitively large models\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6625,
+            "title": "Knowledge Transfer for Efficient On-device False Trigger Mitigation",
+            "url": "https://machinelearning.apple.com/research/on-device-false-trigger",
+            "authors": "Pranay Dighe, Erik Marchi, Srikanth Vishnubhotla, Sachin Kajarekar, Devang Naik",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "In this paper, we address the task of determining whether a given utterance is directed towards a voice-enabled smart-assistant device or\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6626,
+            "title": "Multimodal Punctuation Prediction with Contextual Dropout",
+            "url": "https://machinelearning.apple.com/research/multimodal-punctuation-prediction",
+            "authors": "Andrew Silva, Barry-John Theobald, Nicholas Apostoloff",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Automatic speech recognition (ASR) is widely used in consumer electronics. ASR greatly improves the utility and accessibility of technology\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6627,
+            "title": "Noise-robust Named Entity Understanding for Virtual Assistants",
+            "url": "https://machinelearning.apple.com/research/noise-robust-named-entity",
+            "authors": "Deepak Muralidharan*, Joel Ruben Antony Moniz*, Sida Gao*, Xiao Yang*, Justine Kao, Stephen Pulman, Atish Kothari, Ray Shen, Yinying Pan, Vivek Kaul, Mubarak Seyed Ibrahim, Gang Xiang, Nan Dun, Yidan Zhou, Andy O, Yuan Zhang, Pooja Chitkara, Xuan Wang, Alkesh Patel, Kushal Tayal, Roger Zheng, Peter Grasch, Jason D. Williams, Lin Li",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Named Entity Understanding (NEU) plays an essential role in interactions between users and voice assistants, since successfully identifying\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6628,
+            "title": "On the Transferability of Minimal Prediction Preserving Inputs in Question Answering",
+            "url": "https://machinelearning.apple.com/research/prediction-preserving-inputs",
+            "authors": "Shayne Longpre, Yi Lu, Christopher DuBois",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Shayne Longpre, Yi Lu, Christopher DuBois",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6629,
+            "title": "Open-Domain Question Answering Goes Conversational via Question Rewriting",
+            "url": "https://machinelearning.apple.com/research/open-domain-question-answering-goes-conversational",
+            "authors": "Raviteja Anantha*, Svitlana Vakulenko*, Zhucheng Tu, Shayne Longpre, Stephen Pulman, Srinivas Chappidi",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "We introduce a new dataset for Question Rewriting in Conversational Context (QReCC), which contains 14K conversations with 80K\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6630,
+            "title": "Optimize What Matters: Training DNN-HMM Keyword Spotting Model Using End Metric",
+            "url": "https://machinelearning.apple.com/research/training-dnn-hmm",
+            "authors": "Ashish Shrivastava, Arnav Kundu, Chandra Dhir, Devang Naik, Oncel Tuzel",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Deep Neural Network--Hidden Markov Model (DNN-HMM) based methods have been successfully used for many always-on keyword spotting algorithms\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6631,
+            "title": "Progressive Voice Trigger Detection: Accuracy vs Latency",
+            "url": "https://machinelearning.apple.com/research/progressive-voice-trigger",
+            "authors": "Siddharth Sigtia, John Bridle, Hywel Richards, Pascal Clark, Erik Marchi, Vineet Garg",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "We present an architecture for voice trigger detection for virtual assistants. The main idea in this work is to exploit information in words\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6632,
+            "title": "SapAugment: Learning A Sample Adaptive Policy for Data Augmentation",
+            "url": "https://machinelearning.apple.com/research/learning-sample-adaptive-policy",
+            "authors": "Ting-Yao Hu, Ashish Shrivastava, Jen-Hao Rick Chang, Hema Koppula, Stefan Braun, Kyuyeon Hwang, Ozlem Kalinli, Oncel Tuzel",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Data augmentation methods usually apply the same augmentation (or a mix of them) to all the training samples. For example, to perturb data\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6633,
+            "title": "Making Mobile Applications Accessible with Machine Learning",
+            "url": "https://machinelearning.apple.com/research/mobile-applications-accessible",
+            "authors": "",
+            "tags": "Article, Accessibility",
+            "publishedOn": null,
+            "description": "At Apple we use machine learning to teach our products to understand the world more as humans do. Of course, understanding the world better\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6634,
+            "title": "Video Frame Interpolation via Structure-Motion based Iterative Feature Fusion",
+            "url": "https://machinelearning.apple.com/research/video-frame-interpolation",
+            "authors": "Xi Li, Meng Cao, Yingying Tang, Scott Johnston, Zhendong Hong, Huimin Ma, Jiulong Shan",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Video Frame Interpolation synthesizes non-existent images between adjacent frames, with the aim of providing a smooth and consistent visual\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6635,
+            "title": "When Can Accessibility Help? An Exploration of Accessibility Feature Recommendation on Mobile Devices",
+            "url": "https://machinelearning.apple.com/research/recommending-accessibility",
+            "authors": "Jason Wu, Gabriel Reyes, Sam C. White, Xiaoyi Zhang, Jeffrey P. Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Numerous accessibility features have been developed and included in consumer operating systems to provide people with a variety of\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6636,
+            "title": "Streaming Models for Joint Speech Recognition and Translation",
+            "url": "https://machinelearning.apple.com/research/joint-speech-recognition-and-translation",
+            "authors": "Orion Weller, Matthias Sperber, Christian Gollan, Joris Kluivers",
+            "tags": "Paper, Speech and Natural Language Processing",
+            "publishedOn": null,
+            "description": "Using end-to-end models for speech translation (ST) has increasingly been the focus of the ST community. These models condense the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6637,
+            "title": "Neural Feature Selection for Learning to Rank",
+            "url": "https://machinelearning.apple.com/research/neural-feature-selection",
+            "authors": "Alberto Purpura, Karolina Buchner, Gianmaria Silvello, Gian Antonio Susto",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "LEarning TO Rank (LETOR) is a research area in the field of Information Retrieval (IR) where machine learning models are employed to rank a\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6638,
+            "title": "Generating Natural Questions from Images for Multimodal Assistants",
+            "url": "https://machinelearning.apple.com/research/generating-natural-questions",
+            "authors": "Alkesh Patel, Akanksha Bindal, Hadas Kotek, Christopher Klein, Jason Williams",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Generating natural, diverse, and meaningful questions from images is an essential task for multimodal assistants as it confirms whether they\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6639,
+            "title": "A Comparison of Question Rewriting Methods for Conversational Passage Retrieval",
+            "url": "https://machinelearning.apple.com/research/comparison-of-question-rewriting-methods",
+            "authors": "Svitlana Vakulenko, Nikos Voskarides, Zhucheng Tu, Shayne Longpre",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Conversational passage retrieval relies on question rewriting to modify the original question so that it no longer depends on the\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6640,
+            "title": "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels",
+            "url": "https://machinelearning.apple.com/research/creating-accessibility-metadata",
+            "authors": "Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P. Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "Many accessibility features available on mobile platforms require applications (apps) to provide complete and accurate metadata describing\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6641,
+            "title": "Set Distribution Networks: a Generative Model for Sets of Images",
+            "url": "https://machinelearning.apple.com/research/set-distribution-networks",
+            "authors": "Shuangfei Zhai, Walter Talbott, Miguel Angel Bautista, Carlos Guestrin, Josh M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "Shuangfei Zhai, Walter Talbott, Miguel Angel Bautista, Carlos Guestrin, Josh M. Susskind",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6642,
+            "title": "Sep-28k: A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter",
+            "url": "https://machinelearning.apple.com/research/stuttering-event-detection",
+            "authors": "Colin Lea, Vikramjit Mitra, Aparna Joshi, Sachin Kajarekar, Jeffrey Bigham",
+            "tags": "Paper, Accessibility",
+            "publishedOn": null,
+            "description": "The ability to automatically detect stuttering events in speech could help speech pathologists track an individual\u2019s fluency over time or\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6643,
+            "title": "Question Rewriting for End to End Conversational Question Answering",
+            "url": "https://machinelearning.apple.com/research/question-rewriting",
+            "authors": "Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, Raviteja Anantha",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "Conversational question answering (QA) requires the ability to correctly interpret a question in the context of previous conversation turns\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6644,
+            "title": "Leveraging Query Resolution and Reading Comprehension for Conversational Passage Retrieval",
+            "url": "https://machinelearning.apple.com/research/leveraging-query-resolution",
+            "authors": "Svitlana Vakulenko, Nikos Voskarides, Zhucheng Tu, Shayne Longpre",
+            "tags": "Paper, Knowledge Bases and Search",
+            "publishedOn": null,
+            "description": "This paper describes the participation of UvA.ILPS group at the TREC CAsT 2020 track. Our passage retrieval pipeline consists of (i) an\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6645,
+            "title": "Learning Soft Labels via Meta Learning",
+            "url": "https://machinelearning.apple.com/research/learning-soft-labels",
+            "authors": "Nidhi Vyas, Shreyas Saxena, Thomas Voice",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "One-hot labels do not represent soft decision boundaries among concepts, and hence, models trained on them are prone to overfitting. Using\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6646,
+            "title": "Whispered and Lombard Neural Speech Synthesis",
+            "url": "https://machinelearning.apple.com/research/lombard-neural-speech-synthesis",
+            "authors": "Qiong Hu, Tobias Bleisch, Petko Petkov, Tuomo Raitio, Erik Marchi, Varun Lakshminarasimhan",
+            "tags": "Paper, Human-Computer Interaction",
+            "publishedOn": null,
+            "description": "It is desirable for a text-to-speech system to take into account the environment where synthetic speech is presented, and provide\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6647,
+            "title": "Frame-level SpecAugment for Deep Convolutional Neural Networks in Hybrid ASR Systems",
+            "url": "https://machinelearning.apple.com/research/frame-level-specaugment",
+            "authors": "Xinwei Li, Yuanyuan Zhang, Xiaodan Zhuang, Daben Liu",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "We propose a frame-level SpecAugment method (f-SpecAugment) to improve the performance of deep convolutional neural networks (CNN) for\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6648,
+            "title": "Cinematic L1 Video Stabilization with a Log-Homography Model",
+            "url": "https://machinelearning.apple.com/research/cinematic-l1-video-stabilization",
+            "authors": "Arwen Bradley, Jason Klivington, Joseph Triscari, Rudolph van der Merwe",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "We present a method for stabilizing handheld video that simulates the camera motions cinematographers achieve with equipment like tripods\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6649,
+            "title": "On the Generalization of Learning-based 3D Reconstruction",
+            "url": "https://machinelearning.apple.com/research/learning-based-3d-reconstruction",
+            "authors": "Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, Nitish Srivastava, Joshua M. Susskind",
+            "tags": "Paper, Computer Vision",
+            "publishedOn": null,
+            "description": "State-of-the-art learning-based monocular 3D reconstruction methods learn priors over object categories on the training set, and as a result\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6650,
+            "title": "Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution",
+            "url": "https://machinelearning.apple.com/research/improving-human-labeled-data",
+            "authors": "David Q. Sun, Hadas Kotek, Christopher Klein, Mayank Gupta, William Li, Jason D. Williams",
+            "tags": "Paper, Data Science and Annotation",
+            "publishedOn": null,
+            "description": "This paper develops and implements a scalable methodology for (a) estimating the noisiness of labels produced by a typical crowdsourcing\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        },
+        {
+            "id": 6651,
+            "title": "What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation",
+            "url": "https://machinelearning.apple.com/research/what-neural-networks-memorize",
+            "authors": "Vitaly Feldman, Chiyuan Zhang",
+            "tags": "Paper, Methods and Algorithms",
+            "publishedOn": null,
+            "description": "Deep learning algorithms are well-known to have a propensity for fitting the training data very well and often fit even outliers and\u2026",
+            "thumbnail": "https://mlr.cdn-apple.com/media/open_Graph_d53fcef327.jpg"
+        }
+    ]
+}

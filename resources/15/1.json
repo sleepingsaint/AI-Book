@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 15029,
+            "title": "Google AI Introduces An Important Natural Language Understanding (NLU) Capability Called Natural Language Assessment (NLA)",
+            "url": "https://www.marktechpost.com/2022/12/02/google-ai-introduces-an-important-natural-language-understanding-nlu-capability-called-natural-language-assessment-nla/",
+            "authors": "Rishabh Jain",
+            "tags": null,
+            "publishedOn": "2022-12-02T00:00:00",
+            "description": "Everything a person learns, for example, a child learning to walk or a person learning to play guitar, requires assessment. Our educators and coaches mostly play this role. These interactions are unique in terms of their characteristics that set them apart from other forms of dialogue. This assessment is also required in the field of Natural Language processing. But, due to its relative freedom and infrequent adherence to rigid rules for computing spelling, syntax, and semantics, natural language input presents significant difficulty for assessment. This field is yet to be researched properly. Recently researchers at google research came up with",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-11.jpg"
+        },
+        {
+            "id": 15030,
+            "title": "Researchers at Stanford developed an Artificial Intelligence (AI) Model called \u2018RoentGen,\u2019 based on Stable Diffusion and fine-tuned on a Large Chest X-ray and Radiology Dataset",
+            "url": "https://www.marktechpost.com/2022/12/02/researchers-at-stanford-developed-an-artificial-intelligence-ai-model-called-roentgen-based-on-stable-diffusion-and-fine-tuned-on-a-large-chest-x-ray-and-radiology-dataset/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-12-02T00:00:00",
+            "description": "Latent diffusion models (LDMs), a subclass of denoising diffusion models, have recently acquired prominence because they make generating images with high fidelity, diversity, and resolution possible. These models enable fine-grained control of the image production process at inference time (e.g., by utilizing text prompts) when combined with a conditioning mechanism. Large, multi-modal datasets like LAION5B, which contain billions of real image-text pairs, are frequently used to train such models. Given the proper pre-training, LDMs can be used for many downstream activities and are sometimes referred to as foundation models (FM). LDMs can be deployed to end users more easily because",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-02-at-3.15.15-PM.png"
+        },
+        {
+            "id": 15031,
+            "title": "This AI Method from MIT and IBM Research Improves the Training and Inference Performance of Deep Learning Models on Large Graphs",
+            "url": "https://www.marktechpost.com/2022/12/02/this-ai-method-from-mit-and-ibm-research-improves-the-training-and-inference-performance-of-deep-learning-models-on-large-graphs/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-12-02T00:00:00",
+            "description": "Graphs, an abstract, non-linear data type, are frequently employed to illustrate links between different types of data, such as social media connections, hierarchies, financial transactions, etc. To conduct deep learning on these graphical images, researchers require faster and more computationally efficient algorithms as the amount of data represented as graphs is quite large. A neural network that directly manipulates graph structures is known as a Graph Neural Network (GNN). GNNs have become increasingly common in recent years, particularly in domains that involve social networks, recommender systems, etc. In contrast to ordinary neural networks, the exponential expansion of multi-hop graph neighborhoods",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Blog-Banner-1-1.jpg"
+        },
+        {
+            "id": 15005,
+            "title": "Meet Protopia AI: A Texas-based Company Bridging a Critical Gap in Artificial Intelligence (AI)",
+            "url": "https://www.marktechpost.com/2022/12/01/meet-protopia-ai-a-texas-based-company-bridging-a-critical-gap-in-artificial-intelligence-ai/",
+            "authors": "Asif Razzaq",
+            "tags": null,
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Imagine this: You run a data-driven driven fintech or healthcare company; you have access to a plethora of data, and could use new machine learning tools to better predict fraud or advance clinical research. Except, you can't: the value and insights from the data are entangled in privileged customer data that make it difficult to access for your AI model.\u00a0\u00a0 How can you drive innovation with AI if you can\u2019t use all of your data?\u00a0 This is a recurring gap in machine learning. In fact, IDC reports that 43% of enterprise data can go unused, which takes away from the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Untitled-1.png"
+        },
+        {
+            "id": 15018,
+            "title": "Latest Machine Learning (ML) Research From CMU Presents Causal Imitation Learning Under Temporally Correlated Noise",
+            "url": "https://www.marktechpost.com/2022/12/01/latest-machine-learning-ml-research-from-cmu-presents-causal-imitation-learning-under-temporally-correlated-noise/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "A form of social learning, imitation is how new behaviors are picked up. Understanding how to communicate, interact socially, and control one's emotions while also taking into account the feelings of others can all be aided by practicing imitation. Both humans and animals can mimic the behavior of others, and this form of learning, known as imitation, plays a significant role in how we as humans acquire and refine our cultural practices. While observational learning can occur when the student witnesses an unpleasant behavior and its subsequent consequences and learns to avoid that behavior, imitation learning differs because it requires",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Blog-Banner.jpg"
+        },
+        {
+            "id": 15023,
+            "title": "Latest AI Research Finds a Simple Self-Supervised Pruning Metric That Enables Them to Discard 20% of ImageNet Without Sacrificing Performance, Beating Neural Scaling Laws via Data Pruning",
+            "url": "https://www.marktechpost.com/2022/12/01/latest-ai-research-finds-a-simple-self-supervised-pruning-metric-that-enables-them-to-discard-20-of-imagenet-without-sacrificing-performance-beating-neural-scaling-laws-via-data-pruning/",
+            "authors": "Vineet Kumar",
+            "tags": null,
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Applying neural scaling laws to machine learning models, which means increasing the number of computations, the size of the model, and the number of training data points, can reduce errors and improve model performance. Since we have a lot of computing power available and collecting more data is easier than ever before, we should be able to reduce the test error to a very small value, right? Here is a catch, this methodology is far from ideal. Even though we have enough computational power, the benefits of scaling are fairly weak and unsustainable due to the huge additional computational costs.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Blog-Banner.png"
+        },
+        {
+            "id": 15024,
+            "title": "MIT Researchers Used A Powerful Deep Learning Model To Extract Important Data From Electronic Health Records That Could Assist With Personalized Medicine",
+            "url": "https://www.marktechpost.com/2022/12/01/mit-researchers-used-a-powerful-deep-learning-model-to-extract-important-data-from-electronic-health-records-that-could-assist-with-personalized-medicine/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-12-01T00:00:00",
+            "description": "Since the last few years, the clinical NLP community has worked incredibly hard to extract crucial variables hidden in digital records. This idea of digitizing medical records came up because of a law that the U.S. government approved almost ten years ago to modernize the healthcare industry. These computerized records contain a vast amount of valuable information outside the purview of clinical studies, such as the ideal dosage of a given medication for patients within a specific body mass index (BMI) and genetic history, among other things. Training several machine learning models is necessary for information extraction. However, the jargon",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/12/Blog-Banner-1.jpg"
+        },
+        {
+            "id": 14996,
+            "title": "Researchers at Allen Institute for AI Built a System Called\u00a0DREAM-FLUTE\u00a0to Explore Machine Learning \u2018Mental Models\u2019 for Figurative Language",
+            "url": "https://www.marktechpost.com/2022/11/30/researchers-at-allen-institute-for-ai-built-a-system-called-dream-flute-to-explore-machine-learning-mental-models-for-figurative-language/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "A particular human tendency is a desire to comprehend the complex world around them and to communicate that understanding to others. This is why people often use figurative language to express themselves. Figurative language uses idioms, personification, hyperbole, and metaphors to simplify a confusing topic. These figurative expressions are not to be taken literally. Cognitive research has shown that people often visualize a situation based on its textual description. Moreover, humans often tend to unconsciously add some extra information in addition to what is already mentioned in the text to help in tasks like recognizing figurative language and question answering.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-30-at-2.55.50-PM.png"
+        },
+        {
+            "id": 14997,
+            "title": "AI models from Tencent and Alibaba demonstrate a better understanding of the Chinese Language than humans on the CLUE benchmark",
+            "url": "https://www.marktechpost.com/2022/11/30/ai-models-from-tencent-and-alibaba-demonstrate-a-better-understanding-of-the-chinese-language-than-humans-on-the-clue-benchmark/",
+            "authors": "Yug Dedhia",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "Tencent Holdings and Alibaba own AI models that have successfully passed a benchmark test CLUE. These test results indicate that these AI models can understand the Chinese language better than humans. However, researchers claim that AI still has to go through many advancements before truly understanding languages. Until recently, no AI models have had significant scores in the Chinese Language Understanding Evaluation (CLUE) Benchmark, which gives a set of tasks to evaluate how well the models or machines can understand and respond to the Chinese language. But, the AI models of Tencent and Alibaba recently achieved all-time high scores in",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-3-1.jpg"
+        },
+        {
+            "id": 14998,
+            "title": "This Artificial Intelligence Paper Presents an Advanced Method for Differential Privacy in Image Recognition with Better Accuracy",
+            "url": "https://www.marktechpost.com/2022/11/30/this-artificial-intelligence-paper-presents-an-advanced-method-for-differential-privacy-in-image-recognition-with-better-accuracy/",
+            "authors": "Mahmoud Ghorbel",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "Machine learning has increased considerably in several areas due to its performance in recent years. Thanks to modern computers' computing capacity and graphics cards, deep learning has made it possible to achieve results that sometimes exceed those experts give. However, its use in sensitive areas such as medicine or finance causes confidentiality issues. A formal privacy guarantee called differential privacy (DP) prohibits adversaries with access to machine learning models from obtaining data on specific training points. The most common training approach for differential privacy in image recognition is differential private stochastic gradient descent (DPSGD). However, the deployment of differential privacy",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-4-1.jpg"
+        },
+        {
+            "id": 14999,
+            "title": "Top Natural Language Processing (NLP) Tools/Platforms",
+            "url": "https://www.marktechpost.com/2022/11/30/top-natural-language-processing-nlp-tools-platforms/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-30T00:00:00",
+            "description": "An essential area of artificial intelligence is natural language processing (NLP). The widespread use of smart devices (also known as human-to-machine communication), improvements in healthcare using NLP, and the uptake of cloud-based solutions are driving the widespread adoption of NLP in the industry. But what is NLP exactly, and why is it significant? Linguistics, computer science, and artificial intelligence all meet in NLP. A good NLP system can comprehend documents' contents, including their subtleties. Applications of NLP analyze and analyze vast volumes of natural language data\u2014all human languages, whether spoken in English, French, or Mandarin, are natural languages\u2014to replicate human",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/233-scaled.jpg"
+        },
+        {
+            "id": 14970,
+            "title": "What are Large Language Models (LLMs)? Applications and Types of LLMs",
+            "url": "https://www.marktechpost.com/2022/11/29/what-are-large-language-models-llms-applications-and-types-of-llms/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "Computer programs called large language models provide software with novel options for analyzing and creating text. It is not uncommon for large language models to be trained using petabytes or more of text data, making them tens of terabytes in size. A model's parameters are the components learned from previous training data and, in essence, establish the model's proficiency on a task, such as text generation. Natural language processing (NLP) activities, including speech-to-text, sentiment analysis, text summarization, spell-checking, token categorization, etc., rely on Language Models as their foundation. Language Models can analyze a text and predict the likelihood of the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-18.jpg"
+        },
+        {
+            "id": 14975,
+            "title": "Meet \u2018Magic3D\u2019: An AI-Based Text-to-3D Content Creation Tool That Creates 3D Mesh Models With Unprecedented Quality",
+            "url": "https://www.marktechpost.com/2022/11/29/meet-magic3d-an-ai-based-text-to-3d-content-creation-tool-that-creates-3d-mesh-models-with-unprecedented-quality/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "For a wide range of uses, including gaming, entertainment, architecture, and robotics simulation, 3D digital content has been in great demand. It is gradually making its way into almost every conceivable industry, including education, Internet conferencing, shopping, and virtual social presence. But not just anybody can produce great 3D material; it takes extensive training in the arts and aesthetics and 3D modeling skills. These skill sets need considerable time and effort to develop. Using natural language to augment 3D content creation could greatly aid in democratizing 3D content creation for beginners and accelerating professional artists. With the development of diffusion",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-29-at-8.18.04-AM.png"
+        },
+        {
+            "id": 14976,
+            "title": "Artificial Intelligence (AI) Researchers At UC Berkeley Propose A Method To Edit images From Human Instructions",
+            "url": "https://www.marktechpost.com/2022/11/29/artificial-intelligence-ai-researchers-at-uc-berkeley-propose-a-method-to-edit-images-from-human-instructions/",
+            "authors": "Daniele Lorenzi",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "Machine Learning (ML), or more precisely, Deep Learning (DL), has revolutionized the field of Artificial Intelligence (AI) and made tremendous breakthroughs in numerous areas, including computers. DL is a branch of ML that uses deep neural networks, i.e., neural networks composed of multiple hidden layers, to accomplish tasks that were previously impossible. It has opened up a whole new world of possibilities, allowing machines to 'learn' and make decisions in ways not seen before. Regarding computer vision, DL is nowadays the most powerful tool for image generation and editing. As a matter of fact, DL models are nowadays capable of",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-29-at-2.34.19-PM.png"
+        },
+        {
+            "id": 14978,
+            "title": "Deepmind Researchers Introduce NEVIS\u201922, A New AI Benchmark Developed Using 30 Years of Computer Vision Research",
+            "url": "https://www.marktechpost.com/2022/11/29/deepmind-researchers-introduce-nevis22-a-new-ai-benchmark-developed-using-30-years-of-computer-vision-research/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "The stationary batch scenario, where fixed training and test sets are sampled using a static, unchanging data distribution, has received much attention from the machine learning field. Over the past 40 years, this has led to extraordinary advances in various fields and permitted the thorough examination of learning systems. Researchers have invested a lot of time and resources into building algorithmic and architectural advancements, adapting approaches to new application domains, and gaining insights on applying their expertise to unique and more difficult circumstances throughout this journey. In this work, they explore the possibility of further automating and streamlining the conventional",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-19.jpg"
+        },
+        {
+            "id": 14979,
+            "title": "Top Tools/Platforms for Hyperparameter Optimization",
+            "url": "https://www.marktechpost.com/2022/11/29/top-tools-platforms-for-hyperparameter-optimization/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-29T00:00:00",
+            "description": "Hyper-parameters are parameters used to regulate how the algorithm behaves while it creates the model. These factors cannot be discovered by routine training. Before the model is trained, it must be allocated. The process of choosing the optimum combination of hyper-parameters that produce the greatest performance is known as hyperparameter optimization or tuning in machine learning. There are several automated optimization methods, each with advantages and disadvantages depending on the task. The number of tools available for optimizing hyperparameters grows along with the complexity of deep learning models. For hyperparameter optimization (HPO), there are typically two sorts of toolkits: open-source",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2-3.jpg"
+        },
+        {
+            "id": 14965,
+            "title": "Salesforce AI Introduces an Automated Method for Evaluating the Quality of Artificial Intelligence-Generated Text by Repurposing Prior Human Evaluation Data",
+            "url": "https://www.marktechpost.com/2022/11/28/salesforce-ai-introduces-an-automated-method-for-evaluating-the-quality-of-artificial-intelligence-generated-text-by-repurposing-prior-human-evaluation-data/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "The growth of over 100 remarkable language translation models and other advances linked to book summarizing or collaborative creative writing highlight recent advancements in text generation research. The ability of natural language generation (NLG) models to make original choices and produce unique content has become an attractive area of study in recent years. However, because text generation is an open-ended process, it might not be easy to gauge how well NLG tasks are progressing. Determining which output from a model is preferred over another frequently involves human evaluation. However, human evaluation has its own drawbacks as it is frequently pricy",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-28-at-9.22.05-AM.png"
+        },
+        {
+            "id": 14967,
+            "title": "Latest Artificial Intelligence (AI) Research From NVIDIA Shows How To Animate Portraits Using Speech And A Single Image",
+            "url": "https://www.marktechpost.com/2022/11/28/latest-artificial-intelligence-ai-research-from-nvidia-shows-how-to-animate-portraits-using-speech-and-a-single-image/",
+            "authors": "Daniele Lorenzi",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "Artificial Intelligence (AI) has been a topic of increasing importance in recent years. Technological advances have made it possible to solve tasks that were once considered intractable. As a result, AI is increasingly being used to automate decision-making in a wide range of domains. One of these tasks is animating portraits, which involves the automatic generation of realistic animations from single portraits. Given the complexity of the task, animating a portrait is an open problem in the field of computer vision. Recent works exploit speech signals to drive the animation process. These approaches try to learn how to map the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-28-at-3.09.49-PM.png"
+        },
+        {
+            "id": 14969,
+            "title": "This Artificial Intelligence (AI) Model Knows How to Detect Novel Objects During Object Detection",
+            "url": "https://www.marktechpost.com/2022/11/28/this-artificial-intelligence-ai-model-knows-how-to-detect-novel-objects-during-object-detection/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-28T00:00:00",
+            "description": "Object detection has been an important task in the computer vision domain in recent decades. The goal is to detect instances of objects, such as humans, cars, etc., in digital images. Hundreds of methods have been developed to answer a single question: What objects are where? Traditional methods tried to answer this question by extracting hand-crafted features like edges and corners within the image. Most of these approaches used a sliding-window approach, meaning that they kept checking small parts of the image in different scales to see if any of these parts contained the object they were looking for. This",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-17.jpg"
+        },
+        {
+            "id": 14945,
+            "title": "Top Tools To Log And Manage Machine Learning Models",
+            "url": "https://www.marktechpost.com/2022/11/27/top-tools-to-log-and-manage-machine-learning-models/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "In machine learning, experiment tracking stores all experiment metadata in a single location (database or a repository). Model hyperparameters, performance measurements, run logs, model artifacts, data artifacts, etc., are all included in this. There are numerous approaches to implementing experiment logging. Spreadsheets are one option (no one uses them anymore! ), or you can use GitHub to keep track of tests. Tracking machine learning experiments has always been a crucial step in ML development, but it used to be a labor-intensive, slow, and error-prone procedure. The market for contemporary experiment management and tracking solutions for machine learning has developed and",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/10/v882-aew-56-g-scaled.jpg"
+        },
+        {
+            "id": 14946,
+            "title": "MIT Researchers Introduce A Machine Learning Framework That Allows Cooperative Or Competitive AI Agents To Find An Optimal Long-Term Solution",
+            "url": "https://www.marktechpost.com/2022/11/27/mit-researchers-introduce-a-machine-learning-framework-that-allows-cooperative-or-competitive-ai-agents-to-find-an-optimal-long-term-solution/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "Reinforcement learning is a machine learning method in which an artificial agent learns from its mistakes. The agent receives a reward from the researchers when its 'positive' actions lead to the desired outcome. An expert-level performance is achieved when the agent modifies actions to maximize a reward. 'Multiagent reinforcement learning' involves multiple agents working together to solve a problem. Things grow more complicated when several cooperative or competitive agents are simultaneously learning. When agents take into account the future actions of their peers and the effects of their actions on those of their peers, the problem quickly becomes too computationally",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-6.jpg"
+        },
+        {
+            "id": 14950,
+            "title": "Astronomers at Caltech Have Used a Machine Learning Algorithm to Classify 1,000 Supernovae Completely Autonomously",
+            "url": "https://www.marktechpost.com/2022/11/27/astronomers-at-caltech-have-used-a-machine-learning-algorithm-to-classify-1000-supernovae-completely-autonomously/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "Caltech research introduces 'SNIascore,' a method for spectroscopically classifying thermonuclear supernovae (SNe Ia) based on very low-resolution (R 100) data based on deep learning. The goal of SNIascore is to fully automate the classification of SNe Ia with a very low false-positive rate (FPR) so that people don't have to do as much work. In the public Zwicky Transient Facility (ZTF), Bright Transient Surveys and other large-scale efforts to classify SNs (BTS). They use a recurrent neural network architecture with long-term memory that works both ways and recurrent unit layers controlled by gates. SNIascore has an FPR of 0.6% and",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-16.jpg"
+        },
+        {
+            "id": 14951,
+            "title": "What is Dataops (Data Operations)? Difference between DataOps and DevOps",
+            "url": "https://www.marktechpost.com/2022/11/27/what-is-dataops-data-operations-difference-between-dataops-and-devops/",
+            "authors": "Arham Islam",
+            "tags": null,
+            "publishedOn": "2022-11-27T00:00:00",
+            "description": "What is Dataops (Data Operations)? During an analytics project, companies spend 80% of their time on tasks like data preparation rather than data analysis. Businesses, therefore, focus on gaining the agility to improve the data processing speed and increase the data quality to derive key insights. This focus requires an agile data management approach like DataOps. DataOps is a process-oriented data management practice focused on improving communication, integration and automation of the data flowing between data managers and consumers within an organization. DataOps combines DevOps, agile management, personnel, and data management technology, providing a flexible data framework that delivers the",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-7.jpg"
+        },
+        {
+            "id": 14941,
+            "title": "This AI Model Integrates Feature Pyramids into Vision Transformers to Enhance Their Capability",
+            "url": "https://www.marktechpost.com/2022/11/26/this-ai-model-integrates-feature-pyramids-into-vision-transformers-to-enhance-their-capability/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-26T00:00:00",
+            "description": "Convolutional neural networks (CNNs) have dominated the computer vision domain for the last decade. From object detection to image classification;\u00a0 they were the state-of-the-art solutions in multiple tasks. CNNs have been the go-to method for any computer vision application. Things started to change with the introduction of the vision transformer (ViT). It was the first paper that showed how to move transformers, the structure that was performing state-of-the-art in natural language processing, to the computer vision domain and outperforms its CNN counterpart in classification tasks. Afterward, gradual improvements to the vision transformers were proposed. Despite its huge success in image",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-26-at-6.46.59-AM.png"
+        },
+        {
+            "id": 14942,
+            "title": "Google AmbiML Open-Sources \u2018KataOS,\u2019 A Secure Operating System For Embedded Machine Learning Hardware",
+            "url": "https://www.marktechpost.com/2022/11/26/google-ambiml-open-sources-kataos-a-secure-operating-system-for-embedded-machine-learning-hardware/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-26T00:00:00",
+            "description": "Due to recent technological breakthroughs, the number of always-on or ambient smart gadgets has proliferated in recent years. However, such technical developments also prompt worries about collecting private information for machine learning and other security and privacy risks. The collected personally identifiable data, such as pictures that can be used to recognize people's faces and voice recordings, could be made available to malicious software if personal devices cannot be mathematically verified to keep data private. There is still a risk to privacy from a compromised or hacked device, even if organizations like Google have progressed in this direction by developing",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-14.jpg"
+        },
+        {
+            "id": 14943,
+            "title": "This Python Library \u2018Imitation,\u2019 Provides Open-Source Implementations of Imitation and Reward Learning Algorithms in PyTorch",
+            "url": "https://www.marktechpost.com/2022/11/26/this-python-library-imitation-provides-open-source-implementations-of-imitation-and-reward-learning-algorithms-in-pytorch/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-26T00:00:00",
+            "description": "In areas with clearly defined reward functions, like games, reinforcement learning (RL) has outperformed human performance. Unfortunately, it is difficult or impossible for many tasks in the real world to design the reward function procedurally. Instead, they must immediately absorb a reward function or policy from user feedback. Furthermore, even when a reward function can be formulated, as in the case of an agent winning a game, the resulting objective may need to be more sparse for RL to solve effectively. Therefore, imitation learning is frequently used to initialize the policy in state-of-the-art results for RL. In this article, they",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-15.jpg"
+        },
+        {
+            "id": 14944,
+            "title": "Meet TAP-Vid: A Dataset of Videos Along With Point Tracks, Either Manually Annotated or Obtained From A Simulator",
+            "url": "https://www.marktechpost.com/2022/11/26/meet-tap-vid-a-dataset-of-videos-along-with-point-tracks-either-manually-annotated-or-obtained-from-a-simulator/",
+            "authors": "Vineet Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-26T00:00:00",
+            "description": "Imagine if we could study the motion of objects in videos by tracking their position and orientation and how different points on the object move. This information will be useful in making inferences about the 3D properties, physical properties, and interactions of various objects. So what is the most basic step in achieving the goal mentioned above? Suppose we can determine the position of a few marked points in every video frame and observe them. In that case, we can use this methodology to study the motion of objects by sticking those points to a particular object and then studying",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-26-at-8.19.12-PM.png"
+        },
+        {
+            "id": 14934,
+            "title": "Google Research Proposes an Artificial Intelligence (AI) Model to Utilize Vision Transformers on Videos",
+            "url": "https://www.marktechpost.com/2022/11/25/google-research-proposes-an-artificial-intelligence-ai-model-to-utilize-vision-transformers-on-videos/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "Transformers have played a crucial role in natural language processing tasks in the last decade. Their success attributes mainly to their ability to extract and exploit temporal information.\u00a0 When a certain method works well in a domain, it is normal to expect to see studies that try to bring that method to other domains. This was the case with transformers as well, and the domain was computer vision. Introducing transformers to vision tasks was a huge success, bringing numerous similar studies afterward.\u00a0 The vision transformer (ViT) was proposed in 2020, outperforming its convolutional neural network (CNN) counterpart in the image",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-5.jpg"
+        },
+        {
+            "id": 14938,
+            "title": "US FDA, Health Canada, and UK MHRA have Jointly Identified 10 Guiding Principles that can Inform the Development of Good Machine Learning Practice (GMLP)",
+            "url": "https://www.marktechpost.com/2022/11/25/us-fda-health-canada-and-uk-mhra-have-jointly-identified-10-guiding-principles-that-can-inform-the-development-of-good-machine-learning-practice-gmlp/",
+            "authors": "Avanthy Yeluri",
+            "tags": null,
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "The UK's MHRA, The U.S. Food and Drug Administration (FDA), and Health Canada have come together to work on the ten basic guiding principles to develop Good Machine Learning Practice (GMLP). These principles help us promote high-quality, safe, and effective devices using Artificial Intelligence and Machine Learning. AI/ML has the potential to grasp useful insights from the huge amount of data that is available from the everyday healthcare that is being delivered. Software Algorithms are used that are helpful to learn from the real world, which in turn helps us to improve product performance. These Software Algorithms are also data-driven",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-17.png"
+        },
+        {
+            "id": 14939,
+            "title": "This AI Paper Presents A Novel 3D Video Action Recognition Deep Learning Approach For Near Real-Time Epileptic Seizure Classifcation",
+            "url": "https://www.marktechpost.com/2022/11/25/this-ai-paper-presents-a-novel-3d-video-action-recognition-deep-learning-approach-for-near-real-time-epileptic-seizure-classifcation/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-25T00:00:00",
+            "description": "A significant portion of the world's population suffers from epilepsy, a chronic neurological disorder that is relatively frequent. The primary symptom is a seizure, and the kind of seizure (semiology) is crucial for differentiating diagnoses and pinpointing the location of the seizure start zone in the brain. This is crucial for individuals with drug-resistant epilepsy who are being considered for epilepsy surgery. Seizure analysis currently relies on highly specialized clinicians' visual interpretation of 2D video-EEG data in epilepsy monitoring units (EMUs), where semiology evaluation is constrained by high inter-rater variability. Quantitative seizure classification studies are relatively uncommon, despite the abundance",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-13.jpg"
+        }
+    ]
+}

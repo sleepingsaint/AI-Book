@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8962,
+            "title": "How to Develop a Conditional GAN (cGAN) From Scratch",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-07-05T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are an architecture for training generative models, such as deep convolutional neural networks for generating images. Although GAN models are capable of generating new random plausible examples for a given dataset, there is no way to control the types of images that are generated other than trying to figure out [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/Example-of-100-Generated-items-of-Clothing-using-an-Conditional-GAN.png"
+        },
+        {
+            "id": 8963,
+            "title": "How to Explore the GAN Latent Space When Generating Faces",
+            "url": "https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-07-03T00:00:00",
+            "description": "How to Use Interpolation and Vector Arithmetic to Explore the GAN Latent Space. Generative Adversarial Networks, or GANs, are an architecture for training generative models, such as deep convolutional neural networks for generating images. The generative model in the GAN architecture learns to map points in the latent space to generated images. The latent space [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/Plot-of-Randomly-Generated-Faces-Using-the-Loaded-GAN-Model.png"
+        },
+        {
+            "id": 8964,
+            "title": "How to Develop a GAN to Generate CIFAR10 Small Color Photographs",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-07-01T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are an architecture for training generative models, such as deep convolutional neural networks for generating images. Developing a GAN for generating images requires both a discriminator convolutional neural network model for classifying whether a given image is real or generated and a generator model that uses inverse convolutional layers to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/Example-of-100-GAN-Generated-CIFAR-10-Small-Object-Photographs.png"
+        },
+        {
+            "id": 8965,
+            "title": "How to Develop a GAN for Generating MNIST Handwritten Digits",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-28T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are an architecture for training generative models, such as deep convolutional neural networks for generating images. Developing a GAN for generating images requires both a discriminator convolutional neural network model for classifying whether a given image is real or generated and a generator model that uses inverse convolutional layers to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/Plot-of-100-GAN-Generated-MNIST-Figures-After-100-Epochs.png"
+        },
+        {
+            "id": 8966,
+            "title": "How to Develop a Deep Learning Photo Caption Generator from Scratch",
+            "url": "https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2019-06-27T00:00:00",
+            "description": "Develop a Deep Learning Model to Automatically Describe Photographs in Python with Keras, Step-by-Step. Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph. It requires both methods from computer vision to understand the content of the image and a language model from the field of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/example.jpg"
+        },
+        {
+            "id": 8967,
+            "title": "How to Develop a 1D Generative Adversarial Network From Scratch in Keras",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-26T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs for short, are a deep learning architecture for training powerful generator models. A generator model is capable of generating new artificial samples that plausibly could have come from an existing distribution of samples. GANs are comprised of both generator and discriminator models. The generator is responsible for generating new samples [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/Scatter-Plot-of-Real-and-Generated-Examples-for-the-Target-Function-After-10000-Iterations.png"
+        },
+        {
+            "id": 8968,
+            "title": "How to use the UpSampling2D and Conv2DTranspose Layers in Keras",
+            "url": "https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-24T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are an architecture for training generative models, such as deep convolutional neural networks for generating images. The GAN architecture is comprised of both a generator and a discriminator model. The generator is responsible for creating new outputs, such as images, that plausibly could have come from the original dataset. The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/A-Gentle-Introduction-to-Upsampling-and-Transpose-Convolution-Layers-for-Generative-Adversarial-Networks.jpg"
+        },
+        {
+            "id": 8969,
+            "title": "How to Implement GAN Hacks in Keras to Train Stable Models",
+            "url": "https://machinelearningmastery.com/how-to-code-generative-adversarial-network-hacks/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-21T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are challenging to train. This is because the architecture involves both a generator and a discriminator model that compete in a zero-sum game. It means that improvements to one model come at the cost of a degrading of performance in the other model. The result is a very unstable training [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/How-to-Implement-Hacks-to-Train-Stable-Generative-Adversarial-Networks.jpg"
+        },
+        {
+            "id": 8970,
+            "title": "Tips for Training Stable Generative Adversarial Networks",
+            "url": "https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-19T00:00:00",
+            "description": "The Empirical Heuristics, Tips, and Tricks That You Need to Know to Train Stable Generative Adversarial Networks (GANs). Generative Adversarial Networks, or GANs for short, are an approach to generative modeling using deep learning methods such as deep convolutional neural networks. Although the results generated by GANs can be remarkable, it can be challenging to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/How-to-Train-Stable-Generative-Adversarial-Networks.jpg"
+        },
+        {
+            "id": 8971,
+            "title": "A Gentle Introduction to Generative Adversarial Networks (GANs)",
+            "url": "https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-17T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs for short, are an approach to generative modeling using deep learning methods, such as convolutional neural networks. Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/A-Gentle-Introduction-to-General-Adversarial-Networks-GANs.jpg"
+        },
+        {
+            "id": 8972,
+            "title": "18 Impressive Applications of Generative Adversarial Networks (GANs)",
+            "url": "https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-14T00:00:00",
+            "description": "A Generative Adversarial Network, or GAN, is a type of neural network architecture for generative modeling. Generative modeling involves using a model to generate new examples that plausibly come from an existing distribution of samples, such as generating new photographs that are similar but specifically different from a dataset of existing photographs. A GAN is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/Example-of-GAN-Generated-Images-with-Super-Resolution.png"
+        },
+        {
+            "id": 8973,
+            "title": "Best Resources for Getting Started With GANs",
+            "url": "https://machinelearningmastery.com/resources-for-getting-started-with-generative-adversarial-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Generative Adversarial Networks",
+            "publishedOn": "2019-06-12T00:00:00",
+            "description": "Generative Adversarial Networks, or GANs, are a type of deep learning technique for generative modeling. GANs are the techniques behind the startlingly photorealistic generation of human faces, as well as impressive image translation tasks such as photo colorization, face de-aging, super-resolution, and more. It can be very challenging to get started with GANs. This is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-Photorealistic-Human-Faces-Generated-by-a-GAN.png"
+        },
+        {
+            "id": 8974,
+            "title": "One-Shot Learning for Face Recognition",
+            "url": "https://machinelearningmastery.com/one-shot-learning-with-siamese-networks-contrastive-and-triplet-loss-for-face-recognition/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-06-10T00:00:00",
+            "description": "One-shot learning is a classification task where one, or a few, examples are used to classify many new examples in the future. This characterizes tasks seen in the field of face recognition, such as face identification and face verification, where people must be classified correctly with different facial expressions, lighting conditions, accessories, and hairstyles given [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/One-Shot-Learning-with-Siamese-Networks-Contrastive-and-Triplet-Loss-for-Face-Recognition.jpg"
+        },
+        {
+            "id": 8975,
+            "title": "How to Develop a Face Recognition System Using FaceNet in Keras",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-06-07T00:00:00",
+            "description": "Face recognition is a computer vision task of identifying and verifying a person based on a photograph of their face. FaceNet is a face recognition system developed in 2015 by researchers at Google that achieved then state-of-the-art results on a range of face recognition benchmark datasets. The FaceNet system can be used broadly thanks to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Detected-Face-of-Jerry-Seinfeld-Correctly-Identified-by-the-SVM-Classifier.png"
+        },
+        {
+            "id": 8976,
+            "title": "How to Perform Face Recognition With VGGFace2 in Keras",
+            "url": "https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-06-05T00:00:00",
+            "description": "Face recognition is a computer vision task of identifying and verifying a person based on a photograph of their face. Recently, deep learning convolutional neural networks have surpassed classical methods and are achieving state-of-the-art results on standard face recognition datasets. One example of a state-of-the-art model is the VGGFace and VGGFace2 model developed by researchers [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Face-Detected-From-a-Photograph-of-Sharon-Stone-using-an-MTCNN-Model.png"
+        },
+        {
+            "id": 8977,
+            "title": "How to Perform Face Detection with Deep Learning",
+            "url": "https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-06-03T00:00:00",
+            "description": "Face detection is a computer vision problem that involves finding faces in photos. It is a trivial problem for humans to solve and has been solved reasonably well by classical feature-based techniques, such as the cascade classifier. More recently deep learning methods have achieved state-of-the-art results on standard benchmark face detection datasets. One example is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Swim-Team-Photograph-with-Bounding-Boxes-and-Facial-Keypoints-Drawn-For-Each-Detected-Face-using-MTCNN.png"
+        },
+        {
+            "id": 8978,
+            "title": "A Gentle Introduction to Deep Learning for Face Recognition",
+            "url": "https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-31T00:00:00",
+            "description": "Face recognition is the problem of identifying and verifying people in a photograph by their face. It is a task that is trivially performed by humans, even under varying light and when faces are changed by age or obstructed with accessories and facial hair. Nevertheless, it is remained a challenging computer vision problem for decades [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/A-Gentle-Introduction-to-Deep-Learning-for-Face-Recognition.jpg"
+        },
+        {
+            "id": 8979,
+            "title": "How to Train an Object Detection Model with Keras",
+            "url": "https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-29T00:00:00",
+            "description": "Object detection is a challenging computer vision task that involves predicting both where the objects are in the image and what type of objects were detected. The Mask Region-based Convolutional Neural Network, or Mask R-CNN, model is one of the state-of-the-art approaches for object recognition tasks. The Matterport Mask R-CNN project provides a library that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Photograph-Showing-Object-Detection-Masks-Bounding-Boxes-and-Class-Labels.png"
+        },
+        {
+            "id": 8980,
+            "title": "How to Perform Object Detection With YOLOv3 in Keras",
+            "url": "https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-27T00:00:00",
+            "description": "Object detection is a task in computer vision that involves identifying the presence, location, and type of one or more objects in a given photograph. It is a challenging problem that involves building upon methods for object recognition (e.g. where are they), object localization (e.g. what are their extent), and object classification (e.g. what are [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Photograph-of-Three-Zebra-Each-Detected-with-the-YOLOv3-Model-and-Localized-with-Bounding-Boxes.png"
+        },
+        {
+            "id": 8981,
+            "title": "How to Use Mask R-CNN in Keras for Object Detection in Photographs",
+            "url": "https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-24T00:00:00",
+            "description": "Object detection is a task in computer vision that involves identifying the presence, location, and type of one or more objects in a given photograph. It is a challenging problem that involves building upon methods for object recognition (e.g. where are they), object localization (e.g. what are their extent), and object classification (e.g. what are [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Photograph-of-an-Elephant-With-All-Objects-Detected-With-a-Bounding-Box-and-Mask.png"
+        },
+        {
+            "id": 8982,
+            "title": "A Gentle Introduction to Object Recognition With Deep Learning",
+            "url": "https://machinelearningmastery.com/object-recognition-with-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-22T00:00:00",
+            "description": "It can be challenging for beginners to distinguish between different related computer vision tasks. For example, image classification is straight forward, but the differences between object localization and object detection can be confusing, especially when all three tasks may be just as equally referred to as object recognition. Image classification involves assigning a class label [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/A-Gentle-Introduction-to-Object-Recognition-With-Deep-Learning.jpg"
+        },
+        {
+            "id": 8983,
+            "title": "Multi-Label Classification of Satellite Photos of the Amazon Rainforest",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-20T00:00:00",
+            "description": "The Planet dataset has become a standard computer vision benchmark that involves multi-label classification or tagging the contents satellite photos of Amazon tropical rainforest. The dataset was the basis of a data science competition on the Kaggle website and was effectively solved. Nevertheless, it can be used as the basis for learning and practicing how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/How-to-Develop-a-Convolutional-Neural-Network-to-Classify-Satellite-Photos-of-the-Amazon-Rainforest.jpg"
+        },
+        {
+            "id": 8984,
+            "title": "How to Classify Photos of Dogs and Cats (with 97% accuracy)",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-17T00:00:00",
+            "description": "Develop a Deep Convolutional Neural Network Step-by-Step to Classify Photographs of Dogs and Cats The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat. Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/03/Plot-of-the-First-Nine-Photos-of-Cats-in-the-Dogs-vs-Cats-Dataset.png"
+        },
+        {
+            "id": 8985,
+            "title": "Transfer Learning in Keras with Computer Vision Models",
+            "url": "https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-15T00:00:00",
+            "description": "Deep convolutional neural network models may take days or even weeks to train on very large datasets. A way to short-cut this process is to re-use the model weights from pre-trained models that were developed for standard computer vision benchmark datasets, such as the ImageNet image recognition tasks. Top performing models can be downloaded and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/How-to-Use-Transfer-Learning-when-Developing-Convolutional-Neural-Network-Models.jpg"
+        },
+        {
+            "id": 8986,
+            "title": "How to Develop a CNN From Scratch for CIFAR-10 Photo Classification",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-13T00:00:00",
+            "description": "Discover how to develop a deep convolutional neural network model from scratch for the CIFAR-10 object classification dataset. The CIFAR-10 small photo classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Line-Plots-of-Learning-Curves-for-Baseline-Model-With-Increasing-Dropout-Data-Augmentation-and-Batch-Normalization-on-the-CIFAR-10-Dataset.png"
+        },
+        {
+            "id": 8987,
+            "title": "Deep Learning CNN for Fashion-MNIST Clothing Classification",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-10T00:00:00",
+            "description": "The Fashion-MNIST clothing classification problem is a new standard dataset used in computer vision and deep learning. Although the dataset is relatively simple, it can be used as the basis for learning and practicing how to develop, evaluate, and use deep convolutional neural networks for image classification from scratch. This includes how to develop a [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/Loss-and-Accuracy-Learning-Curves-for-the-Baseline-Model-on-the-Fashion-MNIST-Dataset-During-k-Fold-Cross-Validation.png"
+        },
+        {
+            "id": 8988,
+            "title": "How to Develop a CNN for MNIST Handwritten Digit Classification",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-08T00:00:00",
+            "description": "How to Develop a Convolutional Neural Network From Scratch for MNIST Handwritten Digit Classification. The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset.png"
+        },
+        {
+            "id": 8989,
+            "title": "How to Visualize Filters and Feature Maps in Convolutional Neural Networks",
+            "url": "https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-06T00:00:00",
+            "description": "Deep learning neural networks are generally opaque, meaning that although they can make useful and skillful predictions, it is not clear how or why a given prediction was made. Convolutional neural networks, have internal structures that are designed to operate upon two-dimensional image data, and as such preserve the spatial relationships for what was learned [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Visualization-of-the-Feature-Maps-Extracted-from-the-First-Convolutional-Layer-in-the-VGG16-Model-.png"
+        },
+        {
+            "id": 8990,
+            "title": "Best Practices for Preparing and Augmenting Image Data for CNNs",
+            "url": "https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-03T00:00:00",
+            "description": "It is challenging to know how to best prepare image data when training a convolutional neural network. This involves both scaling the pixel values and use of image data augmentation techniques during both the training and evaluation of the model. Instead of testing a wide range of options, a useful shortcut is to consider the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/Best-Practices-for-Preparing-and-Augmenting-Image-Data-for-Convolutional-Neural-Networks.jpg"
+        },
+        {
+            "id": 8991,
+            "title": "A Gentle Introduction to the ImageNet Challenge (ILSVRC)",
+            "url": "https://machinelearningmastery.com/introduction-to-the-imagenet-large-scale-visual-recognition-challenge-ilsvrc/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2019-05-01T00:00:00",
+            "description": "The rise in popularity and use of deep learning neural network techniques can be traced back to the innovations in the application of convolutional neural networks to image classification tasks. Some of the most important innovations have sprung from submissions by academics and industry leaders to the ImageNet Large Scale Visual Recognition Challenge, or ILSVRC. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/05/A-Gentle-Introduction-to-ImageNet-and-the-Large-Scale-Visual-Recognition-Challenge-ILSVRC.jpg"
+        }
+    ]
+}

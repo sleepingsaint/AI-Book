@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1154,
+            "title": "Using model attributes to track your training runs on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-now-comes-with-new-capabilities-for-accelerating-machine-learning-experimentation/",
+            "authors": "Sumit Thakur",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2019-08-02T00:00:00",
+            "description": "With a few clicks in the Amazon SageMaker console or a few one-line API calls, you can now quickly search, filter, and sort your machine learning (ML) experiments using key model attributes, such as hyperparameter values and accuracy metrics, to help you more quickly identify the best models for your use case and get to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1155,
+            "title": "Announcing two new AWS DeepLens sample projects with step-by-step instructions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-two-new-aws-deeplens-sample-projects-with-step-by-step-instructions/",
+            "authors": "Jyothi Nookula",
+            "tags": "Artificial Intelligence, AWS DeepLens",
+            "publishedOn": "2019-08-01T00:00:00",
+            "description": "We are excited to announce the launch of two new sample projects: \u201cBuild a worker safety system\u201d and \u201cWho drinks the most coffee?\u201d for AWS DeepLens. These sample projects provide guided instructions on how to use computer vision to build a complete machine learning application on AWS. The applications span the edge and the cloud, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/01/deeplens-sample-projects.jpg"
+        },
+        {
+            "id": 1156,
+            "title": "AWS DeepRacer Scholarship Challenge from Udacity is now open for enrollment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-scholarship-challenge-from-udacity-is-now-open-for-enrollment/",
+            "authors": "Tara Shankar Jana",
+            "tags": "AWS DeepRacer",
+            "publishedOn": "2019-08-01T00:00:00",
+            "description": "The race is on! Start your engines! The AWS DeepRacer Scholarship Challenge from Udacity is now open for enrollment. As mentioned in our previous post, the AWS DeepRacer Scholarship Challenge program introduces you\u2014no matter what your developer skill levels are\u2014to essential machine learning (ML) concepts in a fun and engaging way. Each month, you put [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/01/udacity-2.gif"
+        },
+        {
+            "id": 1157,
+            "title": "Financially empowering Generation Z with behavioral economics, banking, and AWS machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/financially-empowering-generation-z-with-behavioral-economics-banking-and-aws-machine-learning/",
+            "authors": "Dante Monaldo",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-01T00:00:00",
+            "description": "This is a guest blog post by Dante Monaldo, co-founder and CTO of Pluto Money Pluto Money, a San Francisco-based startup, is a free money management app that combines banking, behavioral economics, and machine learning (ML) to guide Generation Z towards their financial goals in college and beyond. We\u2019re building the first mobile bank designed [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/26/pluto-money.gif"
+        },
+        {
+            "id": 1158,
+            "title": "Creating magical listening experiences with BlueToad and Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-magical-listening-experiences-with-bluetoad-and-amazon-polly/",
+            "authors": "Paul DeHart",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-08-01T00:00:00",
+            "description": "This is a guest blog post by\u00a0Paul DeHart, co-owner and CEO, BlueToad. BlueToad, one of the leading global providers of digital content solutions, prioritizes innovation. Since 2017, we have enabled publishers (our customers) to provide audio versions of articles found in their digital magazines using Amazon Polly. We see that novel content experiences engage today\u2019s [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/26/bluetoad.gif"
+        },
+        {
+            "id": 1159,
+            "title": "Breaking news: Amazon Polly\u2019s Newscaster voice and more authentic speech, launching today",
+            "url": "https://aws.amazon.com/blogs/machine-learning/breaking-news-amazon-pollys-newscaster-voice-and-more-authentic-speech-launching-today/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-07-30T00:00:00",
+            "description": "For a long time, it was only in science fiction that machines verbalized emotions. As of today, Amazon Polly is one step closer to changing that. As we work on Amazon Polly, we\u2019re constantly seeking to improve the voices. We hope you\u2019ll agree that today\u2019s announcement of not only Neural Text-to-Speech (NTTS) but also the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1160,
+            "title": "Running Amazon Elastic Inference Workloads on Amazon ECS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-amazon-elastic-inference-workloads-on-amazon-ecs/",
+            "authors": "Vladimir Mitrovic",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2019-07-30T00:00:00",
+            "description": "Amazon Elastic Inference (EI) is a new service launched at re:Invent 2018. Elastic Inference reduces the cost of running deep learning inference by up to 75% compared to using standalone GPU instances. Elastic Inference lets you attach accelerators to any Amazon SageMaker or Amazon EC2 instance type and run inference on TensorFlow, Apache MXNet, and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/30/TensorFlow-Inference-Cost-Efficiency-with-EI-v2.gif"
+        },
+        {
+            "id": 1161,
+            "title": "Building, training, and deploying fastai models with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-training-and-deploying-fastai-models-with-amazon-sagemaker/",
+            "authors": "Amit Mukherjee, Matthew McClean",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-25T00:00:00",
+            "description": "Deep learning is changing the world. However, much of the foundation work, such as building containers, can slow you down. This post describes how you can build, train, and deploy fastai models into Amazon SageMaker training and hosting by using the Amazon SageMaker Python SDK and a PyTorch base image. This helps you avoid the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/02/sagemaker-fastai-1.gif"
+        },
+        {
+            "id": 1162,
+            "title": "Machine learning for all developers with edX and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/machine-learning-for-all-developers-with-edx-and-amazon-sagemaker/",
+            "authors": "Jennifer Davis",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-25T00:00:00",
+            "description": "Customers often ask us how to get started when they do not have a\u00a0deep data science\u00a0and machine learning (ML) background.\u00a0At AWS, our goal is to put ML in the hands of every developer and data scientist. AWS Training and Certification has partnered with edX to help you get started quickly and easily with ML with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/25/edx.jpg"
+        },
+        {
+            "id": 1163,
+            "title": "Creating custom labeling jobs with AWS Lambda and Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-custom-labeling-jobs-with-aws-lambda-and-amazon-sagemaker-ground-truth/",
+            "authors": "Anjan Dash, Revekka Kostoeva",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-07-23T00:00:00",
+            "description": "Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning. It offers easy access to public and private human labelers, and provides them with built-in workflows and interfaces for common labeling tasks. Ground Truth can lower your labeling costs by up to 70% using automatic labeling. It works by training Ground [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1164,
+            "title": "Digging deep and solving problems: Well Data Labs applies machine learning to oil and gas challenges",
+            "url": "https://aws.amazon.com/blogs/machine-learning/digging-deep-and-solving-problems-well-data-labs-applies-machine-learning-to-oil-and-gas-challenges/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-19T00:00:00",
+            "description": "When CEO Josh Churlik co-founded Well Data Labs in 2014, he was acutely aware of a bizarre dichotomy in his industry: For oil and gas companies, \u201cdownhole\u201d innovation (that is, what happens underground) far exceeds the pace of data and analysis innovation. The data systems used then were relics of the 1990s \u2013 more homages [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/18/well-data-labs-image.png"
+        },
+        {
+            "id": 1165,
+            "title": "Full ML Engineer scholarships from Udacity and the AWS DeepRacer Scholarship Challenge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/full-ml-engineer-scholarships-from-udacity-and-the-aws-deepracer-scholarship-challenge/",
+            "authors": "Tara Shankar Jana",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-07-17T00:00:00",
+            "description": "The growth of artificial intelligence could create 58 million net new jobs in the next few years, states the World Economic Forum [1]. Yet, according to the Tencent Research Institute, it\u2019s estimated that currently there are 300,000 AI engineers worldwide, but millions are needed [2]. As you can tell, there is a unique and immediate [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/17/DeepRacer-Udacity.gif"
+        },
+        {
+            "id": 1166,
+            "title": "Pricing housing just right: Entrata enables apartments to fill capacity with Amazon SageMaker and 1Strategy",
+            "url": "https://aws.amazon.com/blogs/machine-learning/pricing-housing-just-right-entrata-enables-apartments-to-fill-capacity-with-amazon-sagemaker-and-1strategy/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-15T00:00:00",
+            "description": "The housing market is complex.\u00a0 There is a continuously changing supply of student housing units around any given education campus. Moreover, the accepted value of a unit continuously changes based on physical and social variables. These variables could include proximity to campus with regard to other available options, friend groups living nearby, and the availability [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/15/entrata-2.jpg"
+        },
+        {
+            "id": 1167,
+            "title": "Helping students learn with Course Hero, powered by Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-sages-course-hero-sagemaker-help-students-learn/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-11T00:00:00",
+            "description": "Course Hero is an online learning platform that provides students access to over 25 million course-specific study materials, including study guides, class notes, and practice problems for numerous subjects. The platform, which runs on AWS, is designed to enable every student to take on their courses feeling confident and prepared. To make that possible, Course [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/11/course-hero.gif"
+        },
+        {
+            "id": 1168,
+            "title": "Voicing play with Volley, where words are the gameboard and Amazon Polly brings the fun",
+            "url": "https://aws.amazon.com/blogs/machine-learning/voicing-play-volley-words-gameboard-amazon-polly-brings-fun/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon Polly, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-11T00:00:00",
+            "description": "Voice-powered experiences are gaining traction and customer love. Volley is at the cutting edge of voice-controlled entertainment with its series of popular smart-speaker games, and many aspects of Volley rely on Amazon Polly. Every day, more and more people switch on lights, check the weather, and play music not by pushing buttons but with verbal [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/11/volley-1.gif"
+        },
+        {
+            "id": 1169,
+            "title": "Optimizing costs in Amazon Elastic Inference with TensorFlow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-in-amazon-elastic-inference-with-amazon-tensorflow/",
+            "authors": "Cory Pruce, Srinivas Hanabe",
+            "tags": "Amazon Elastic Inference, Artificial Intelligence",
+            "publishedOn": "2019-07-10T00:00:00",
+            "description": "Amazon Elastic Inference\u00a0allows you to attach low-cost GPU-powered acceleration to\u00a0Amazon EC2 and Amazon SageMaker\u00a0instances, and reduce the cost of running deep learning inference by up to 75 percent. The EIPredictorAPI makes it easy to use Elastic Inference. In this post, we use the\u00a0EIPredictor\u00a0and describe a step-by-step example for using TensorFlow with Elastic Inference. Additionally, we [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/08/EIPredictor-2.gif"
+        },
+        {
+            "id": 1170,
+            "title": "Bring your own deep learning framework to Amazon SageMaker with Model Server for Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-deep-learning-framework-to-amazon-sagemaker-with-model-server-for-apache-mxnet/",
+            "authors": "Vamshidhar Dantu, Denis Davydenko",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-09T00:00:00",
+            "description": "Deep learning (DL) frameworks enable machine learning (ML) practitioners to build and train ML models. However, the process of deploying ML models in production to serve predictions (also known as inferences) in real time is more complex. It requires that ML practitioners build a scalable and performant model server, which can host these models and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/01/BYO-MMS-Diagram.gif"
+        },
+        {
+            "id": 1171,
+            "title": "Turning Microsoft Word documents into audio playlists using Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/turning-microsoft-word-documents-into-audio-playlists-using-amazon-polly/",
+            "authors": "Vinod Shukla",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-07-03T00:00:00",
+            "description": "Listening to your Microsoft Word documents as audio is a great way to save time or to be productive on a long commute. You can easily convert an entire block of text into MP3 format with Amazon Polly. But you can vastly improve your listening experience with just a few simple steps. In this blog [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/26/msword-polly-1.gif"
+        },
+        {
+            "id": 1172,
+            "title": "Build a custom vocabulary to enhance speech-to-text transcription accuracy with Amazon Transcribe",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-vocabulary-to-enhance-speech-to-text-transcription-accuracy-with-amazon-transcribe/",
+            "authors": "Paul Zhao, Yibin Wang",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2019-07-03T00:00:00",
+            "description": "Amazon Transcribe is a fully-managed automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capabilities to applications. Depending on your use case, you may have domain-specific terminology that doesn\u2019t transcribe properly (e.g. \u201cEBITDA\u201d or \u201cmyocardial infarction\u201d). In this post, we will show you how to leverage the custom vocabulary feature [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/27/custom-vocab-10.gif"
+        },
+        {
+            "id": 1173,
+            "title": "A personalized \u2018shop-by-style\u2019 experience using PyTorch on Amazon SageMaker and Amazon Neptune",
+            "url": "https://aws.amazon.com/blogs/machine-learning/a-personalized-shop-by-style-experience-using-pytorch-on-amazon-sagemaker-and-amazon-neptune/",
+            "authors": "Dylan Tong",
+            "tags": "Amazon Neptune, Amazon SageMaker, Artificial Intelligence, Database",
+            "publishedOn": "2019-07-03T00:00:00",
+            "description": "Remember the screech of the dial-up and plain-text websites? It was in that era that the Amazon.com website launched in the summer of 1995. Like the rest of the web, Amazon.com has gone through a digital experience makeover that includes slick web controls, rich media, multi-channel support, and intelligent content placement. Nonetheless, there are certain [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/27/personalized-shopping-3.gif"
+        },
+        {
+            "id": 1174,
+            "title": "Deploying PyTorch inference with MXNet Model Server",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploying-pytorch-inference-with-mxnet-model-server/",
+            "authors": "Gautam Kumar, Vamshidhar Dantu",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-07-02T00:00:00",
+            "description": "Training and inference are crucial components of a machine learning (ML) development cycle. During the training phase, you teach a model to address a specific problem. Through this process, you obtain binary model files ready for use in production. For inference, you can choose among several framework-specific solutions for model deployment, such as TensorFlow Serving [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/02/Pytorch.gif"
+        },
+        {
+            "id": 1175,
+            "title": "Associating prediction results with input data using Amazon SageMaker Batch Transform",
+            "url": "https://aws.amazon.com/blogs/machine-learning/associating-prediction-results-with-input-data-using-amazon-sagemaker-batch-transform/",
+            "authors": "Ro Mullier, Hannah Wang",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-01T00:00:00",
+            "description": "When you run predictions on large datasets, you may want to drop some input attributes before running the predictions. This is because those attributes don\u2019t carry any signal or were not part of the dataset used to train your machine learning (ML) model. Similarly, it can be helpful to map the prediction results to all [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/07/01/batch-io.gif"
+        },
+        {
+            "id": 1176,
+            "title": "Support for Apache MXNet 1.4 and Model Server in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/support-for-apache-mxnet-1-4-and-model-server-in-amazon-sagemaker/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-07-01T00:00:00",
+            "description": "Apache MXNet\u00a0is an open-source deep learning software framework used to train and deploy deep neural networks.\u00a0Data scientists and machine learning (ML) developers love MXNet due to its flexibility and efficiency when building deep learning models.\u00a0Amazon SageMaker\u00a0is committed to improving the customer experience for all ML frameworks and libraries, including MXNet. With the latest release of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1177,
+            "title": "The AWS DeepRacer League visits Hong Kong, bringing together developers of all skill levels!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deepracer-league-visits-hong-kong-bringing-together-developers-of-all-skill-levels/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2019-06-28T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league, open to anyone. Developers of all skill levels can compete in person at 22 AWS events globally, or online via the AWS DeepRacer console (no car required), for a chance to win an expenses paid trip to re:Invent 2019, where they will race [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif"
+        },
+        {
+            "id": 1178,
+            "title": "Empowering wheelchair users with a socially assistive robot running on Amazon Machine Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/empowering-wheelchair-users-with-a-socially-assistive-robot-running-on-amazon-machine-learning/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon Lex, Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-06-27T00:00:00",
+            "description": "Loro is a socially assistive robot that helps users with physical limitations to more robustly experience their worlds by assisting with seeing, sensing, speaking, and interacting with surroundings.\u00a0 Loro uses a range of AWS artificial intelligence (AI) and especially machine learning (ML) services to enable its broad range of use cases. Wheelchair users and others [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/27/loro-2.gif"
+        },
+        {
+            "id": 1179,
+            "title": "Amazon SageMaker Ground Truth: Using A Pre-Trained Model for Faster Data Labeling",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ground-truth-using-a-pre-trained-model-for-faster-data-labeling/",
+            "authors": "Prateek Jindal, Jonathan Buck",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-06-26T00:00:00",
+            "description": "With Amazon SageMaker Ground Truth,\u00a0you can build highly accurate training datasets for machine learning quickly. SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, SageMaker Ground Truth can lower your labeling costs by up to 70% using automatic labeling, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/07/groundtruth-pretrained-faster-1.gif"
+        },
+        {
+            "id": 1180,
+            "title": "Another triple for the DeepRacer League brings more world records and the first female winner!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/another-triple-for-the-deepracer-league-brings-more-world-records-and-the-first-female-winner/",
+            "authors": "Alexandra Bush",
+            "tags": "Amazon Machine Learning",
+            "publishedOn": "2019-06-21T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league, open to anyone. Developers of all skill levels can compete in person at 22 AWS events globally, or online via the AWS DeepRacer console, for a chance to win an expense paid trip to re:Invent 2019, where they will race to win the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif"
+        },
+        {
+            "id": 1181,
+            "title": "Train and deploy Keras models with TensorFlow and Apache MXNet on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/",
+            "authors": "Julien Simon",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-06-21T00:00:00",
+            "description": "Keras is a popular and well-documented open source library for deep learning, while Amazon SageMaker provides you with easy tools to train and optimize machine learning models. Until now, you had to build a custom container to use both, but Keras is now part of the built-in TensorFlow environments for TensorFlow and Apache MXNet. Not [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1182,
+            "title": "Schedule an appointment in Office 365 using an Amazon Lex bot",
+            "url": "https://aws.amazon.com/blogs/machine-learning/schedule-an-appointment-in-office-365-using-an-amazon-lex-bot/",
+            "authors": "Rahul Kulkarni",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-06-21T00:00:00",
+            "description": "You can use chatbots for automating tasks such as scheduling appointments to improve productivity in enterprise and small business environments. In this blog post, we show how you can build the backend integration for an appointment bot with the calendar software in Microsoft Office 365 Exchange Online. For scheduling appointments, the bot interacts with the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/13/Lex-o365-1120x630.gif"
+        },
+        {
+            "id": 1183,
+            "title": "Third time lucky for the winner of AWS DeepRacer League in Chicago and new world records at re:MARS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/third-time-lucky-for-the-winner-of-aws-deepracer-league-in-chicago-and-new-world-records-at-remars/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-06-17T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league, open to anyone. Developers of all skill levels can compete in person at 22 AWS events globally, or online via the AWS DeepRacer console, for a chance to win an expense paid trip to re:Invent 2019, where they will race to win the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/14/DeepRacer2-630x630.jpg"
+        }
+    ]
+}

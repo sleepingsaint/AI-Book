@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5484,
+            "title": "[Announcement] Launching Analytics Vidhya Certified Programs and new Courses portal",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/launching-analytics-vidhya-certified-programs-new-courses-portal/",
+            "authors": "Kunal Jain",
+            "tags": "Analytics Vidhya, Announcement, Beginner, Interview Questions",
+            "publishedOn": "2019-02-27T00:00:00",
+            "description": "Announcing the launch of Analytics Vidhya Courses portal and Certified Programs. Our courses and programs provide easy to understand, applied data science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/Screenshot-2019-02-27-at-9.41.19-AM-768x365.png"
+        },
+        {
+            "id": 5485,
+            "title": "Semantic Segmentation: Introduction to the Deep Learning Technique Behind Google Pixel\u2019s Camera!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/",
+            "authors": "Saurabh Pal",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Python, Supervised, Technique, Unstructured Data",
+            "publishedOn": "2019-02-26T00:00:00",
+            "description": "In this semantic segmentation tutorial learn about image segmentation and then build a semantic segmentation model using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/semantic-segmentation1.png"
+        },
+        {
+            "id": 5486,
+            "title": "7 Steps to crack your first Data Science Internship (Tips, Tricks and Resources!)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/ultimate-guide-first-data-science-internship-tips-tricks-resources/",
+            "authors": "Aishwarya Singh",
+            "tags": "Beginner, Data Science, Interview Questions, Interviews, Interviews, Machine Learning",
+            "publishedOn": "2019-02-25T00:00:00",
+            "description": "This article contains tips, tricks & resources to help you land your first data science internship! It's the most comprehensive internship guide you'll find",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/How-to-Get-a-Data-Science-Internship.jpg"
+        },
+        {
+            "id": 5487,
+            "title": "DataHack Radio #18: Andriy Burkov\u2019s Journey to Writing the Ultimate 100-Page Machine Learning Book",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/datahack-radio-hundred-page-machine-learning-book-andriy-burkov/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Machine Learning, Podcast",
+            "publishedOn": "2019-02-21T00:00:00",
+            "description": "In this episode, we talk to Andriy Burkov about his bestselling book, the idea behind it, his work in NLP, advice to data scientists, and much more!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/andriy-podcast-cover2.png"
+        },
+        {
+            "id": 5488,
+            "title": "Don\u2019t Miss this Comprehensive 7 Step Process to Ace Data Science Interviews!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/7-step-process-ace-data-science-interviews/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Interview Questions, Interviews, Interviews, Structured Thinking",
+            "publishedOn": "2019-02-19T00:00:00",
+            "description": "Struggling to crack data science interviews? Don\u2019t know what to expect? Here is a 7 step process to ace data science interview before sitting for interview.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/7-steps-ace-ds-preview.png"
+        },
+        {
+            "id": 5489,
+            "title": "It\u2019s a Record-Breaking Crowd! A Must-Read Tutorial to Build your First Crowd Counting Model using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/",
+            "authors": "Pulkit Sharma",
+            "tags": "Algorithm, Computer Vision, Deep Learning, Image, Image Analysis, Project, Python, Technique, Unstructured Data, Unsupervised",
+            "publishedOn": "2019-02-18T00:00:00",
+            "description": "Crowd counting has been an inexact science for decades. Learn about crowd counting algorithms in deep learning and build crowd counting models using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/crowd-at-a-stadium-in-johannesburg-south-africa-for-rugby-768x514.jpg"
+        },
+        {
+            "id": 5490,
+            "title": "An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/",
+            "authors": "Lakshay Arora",
+            "tags": "Data Exploration, Intermediate, Libraries, Machine Learning, Programming, Python, Structured Data",
+            "publishedOn": "2019-02-14T00:00:00",
+            "description": "PyOD is an awesome outlier detection library. In this article learn what is outlier and how to use PyOD library for outlier detection in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/feature1-e1549364575906.png"
+        },
+        {
+            "id": 5491,
+            "title": "Introduction to Flair for NLP: A Simple yet Powerful State-of-the-Art NLP Library",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/",
+            "authors": "Sharoon Saxena",
+            "tags": "Classification, Intermediate, Libraries, NLP, Programming, Python, PyTorch, Supervised, Text, Unstructured Data",
+            "publishedOn": "2019-02-11T00:00:00",
+            "description": "Introduction to a simple yet amazing NLP library called Flair. See how it works and get the code to implement it in Python yourself!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/NLP_Abstract_BG_1200X800_02.jpg"
+        },
+        {
+            "id": 5492,
+            "title": "DataHack Radio #17: Reinforcement Learning with Professor Balaraman Ravindran",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/datahack-radio-reinforcement-learning-professor-balaraman-ravindran/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Podcast, Reinforcement Learning, Reinforcement Learning",
+            "publishedOn": "2019-02-07T00:00:00",
+            "description": "We welcome Professor B. Ravidran to talk about his passion for reinforcement learning, the current state of the field, and how it all actually works!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/prof-b-ravindran1.png"
+        },
+        {
+            "id": 5493,
+            "title": "Top 5 Data Science GitHub Repositories and Reddit Discussions (January 2019)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/top-5-data-science-github-reddit-january-2019/",
+            "authors": "Sharoon Saxena",
+            "tags": "Computer Vision, Data Science, Deep Learning, Github, Intermediate, Listicle, NLP, Python, Reddit",
+            "publishedOn": "2019-02-05T00:00:00",
+            "description": "The top 5 data science GitHub repositories and Reddit discussions from January 2019. It includes links to awesome NLP and computer vision libraries.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/github1.jpg"
+        },
+        {
+            "id": 5494,
+            "title": "MyStory: How I Successfully Switched from Application Development to Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/mystory-how-learned-data-science-successfully-switched-careers/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Interview Questions, Job Roles",
+            "publishedOn": "2019-02-05T00:00:00",
+            "description": "This is an article about how a mid-career IT professional successfully learned data science to make a career switch into this wonderful domain.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/dscareer.png"
+        },
+        {
+            "id": 5495,
+            "title": "Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/",
+            "authors": "[email\u00a0protected] Sanad",
+            "tags": "Deep Learning, Intermediate, Libraries, NLP, Programming, Python, Text, Unstructured Data",
+            "publishedOn": "2019-02-03T00:00:00",
+            "description": "StanfordNLP is a collection of pre-trained state-of-the-art models. This tutorial is an introduction to Stanford NLP in Python and its implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/multi-languages.jpg"
+        },
+        {
+            "id": 5496,
+            "title": "A Must-Read NLP Tutorial on Neural Machine Translation \u2013 The Technique Powering Google Translate",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, Deep Learning, NLP, Project, Python, Sequence Modeling, Supervised, Text, Unstructured Data",
+            "publishedOn": "2019-01-31T00:00:00",
+            "description": "Machine translation is one of the biggest applications of NLP. Learn about neural machine translation and its implementation in Python using keras.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/MT.jpeg"
+        },
+        {
+            "id": 5497,
+            "title": "Build a Recurrent Neural Network from Scratch in Python \u2013 An Essential Read for Data Scientists",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Algorithm, Deep Learning, Python, Sequence Modeling, Structured Data, Supervised",
+            "publishedOn": "2019-01-28T00:00:00",
+            "description": "Recurrent neural networks are one of the fundamental concepts of deep learning. Learn rnn from scratch and how to build and code a RNN model in Python.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/03/ann3.jpg"
+        },
+        {
+            "id": 5498,
+            "title": "[Big Announcement] Your favourite hackathons now open for practice on DataHack!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/big-announcement-your-favourite-hackathons-now-open-for-practice-on-datahack/",
+            "authors": "Ankit Choudhary",
+            "tags": "Analytics Vidhya, Announcement, Beginner",
+            "publishedOn": "2019-01-28T00:00:00",
+            "description": "Analytics Vidhya DataHack platform will now have more hackathons problems from past open as practice problem. You can now continue to learn on them",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/09/28230934/code.jpeg"
+        },
+        {
+            "id": 5499,
+            "title": "How Coursera uses Data Visualization and Clustering to Categorize Content",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/coursera-data-driven-content-categorization-algorithm/",
+            "authors": "guest_blog",
+            "tags": "Data Science, Data Visualization, Intermediate, Resource",
+            "publishedOn": "2019-01-28T00:00:00",
+            "description": "In this article, Coursera's engineering team explains how they categorize their content (courses) using data visualization and clustering.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/0_MKkkbhhYA7Tcus_L.png"
+        },
+        {
+            "id": 5500,
+            "title": "DataHack Radio #16: Kaggle Grandmaster SRK\u2019s Journey and Advice for Data Science Competitions",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/datahack-radio-tips-crack-data-science-competitions-kaggle-grandmaster/",
+            "authors": "Pranav Dar",
+            "tags": "Intermediate, Podcast",
+            "publishedOn": "2019-01-24T00:00:00",
+            "description": "Who better to learn data science tips and tricks from than a Kaggle grandmaster? Join SRK as he provides invaluable advice for all data scientists!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/podacast1.jpg"
+        },
+        {
+            "id": 5501,
+            "title": "Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind\u2019s AlphaGo",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/monte-carlo-tree-search-introduction-algorithm-deepmind-alphago/",
+            "authors": "Ankit Choudhary",
+            "tags": "Intermediate, Python, Reinforcement Learning, Reinforcement Learning, Technique",
+            "publishedOn": "2019-01-24T00:00:00",
+            "description": "Monte Carlo Tree Search Tutorial the game changing algorithm behind deepmind alphago. In this article, learn about how Alphago and alphago program works.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/34594817990_ed4e269c3c_b.jpg"
+        },
+        {
+            "id": 5502,
+            "title": "Top 10 Presentations from rstudio::conf 2019 \u2013 The Best R Conference of the Year!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Conferences, Data Science, Listicle, R",
+            "publishedOn": "2019-01-22T00:00:00",
+            "description": "Check out the top highlights from rstudio::conf 2019 - what's new in the world of R? This article lists down all that, plus links, resources, and much more!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/rstudio-conf.jpg"
+        },
+        {
+            "id": 5503,
+            "title": "Must-Read Tutorial to Learn Sequence Modeling (deeplearning.ai Course #5)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/sequence-models-deeplearning/",
+            "authors": "Pulkit Sharma",
+            "tags": "Advanced, Algorithm, Deep Learning, NLP, Resource, Technique",
+            "publishedOn": "2019-01-21T00:00:00",
+            "description": "This article is inspired by Deeplearning.ai course where we learn to solve sequence modeling problems and building attention models.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/DL.jpg"
+        },
+        {
+            "id": 5504,
+            "title": "27 Amazing Data Science Books Every Data Scientist Should Read",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/27-amazing-data-science-books-every-data-scientist-should-read/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Books, Data Science, Interview Questions, Listicle, Machine Learning",
+            "publishedOn": "2019-01-17T00:00:00",
+            "description": "Data science books every data scientist should read. Here is the list of 27 best data science books for aspiring data scientists.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/10/8314929977_28fd740070_b.jpg"
+        },
+        {
+            "id": 5505,
+            "title": "Get Started with PyTorch \u2013 Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/",
+            "authors": "Shivam5992 Bansal",
+            "tags": "Classification, Computer Vision, Deep Learning, Image, Intermediate, Libraries, NLP, Programming, Python, PyTorch, Supervised, Unstructured Data",
+            "publishedOn": "2019-01-14T00:00:00",
+            "description": "An introduction to pytorch and pytorch build neural networks. Get started with pytorch, how it works and learn how to build a neural network.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/pytorch-logo.png"
+        },
+        {
+            "id": 5506,
+            "title": "Build your First Image Classification Model in just 10 Minutes!",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/",
+            "authors": "Pulkit Sharma",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Project, Python, Supervised, Unstructured Data",
+            "publishedOn": "2019-01-10T00:00:00",
+            "description": "Learn about image classification and its use cases. This article explains how to build an image classification model in python using case study.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/deep-learning-image-classification.png"
+        },
+        {
+            "id": 5507,
+            "title": "A Hands-On Introduction to Time Series Classification (with Python Code)",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/",
+            "authors": "Aishwarya Singh",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Supervised, Technique, Time Series, Time Series Forecasting",
+            "publishedOn": "2019-01-07T00:00:00",
+            "description": "An introduction to time series classification. In this article learn about its applications and how to build time series classification models with python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/time-series-.jpg"
+        },
+        {
+            "id": 5508,
+            "title": "DataHack Radio #15: Exploring the Applications & Potential of Reinforcement Learning with Xander Steenbrugge",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/datahack-radio-reinforcement-learning-xander/",
+            "authors": "Pranav Dar",
+            "tags": "Deep Learning, Intermediate, Podcast, Reinforcement Learning, Reinforcement Learning",
+            "publishedOn": "2019-01-06T00:00:00",
+            "description": "Introduction \u201cIf intelligence was a cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake.\u201d \u2013 Yann LeCun,\u00a0Founding Father of Convolutional Nets Reinforcement learning algorithms have been knocking on the door of industrial applications in recent years. Will they finally blow the door wide open [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/xander-graphics-.jpg"
+        },
+        {
+            "id": 5509,
+            "title": "A Comprehensive Learning Path for Deep Learning in 2019",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/comprehensive-learning-path-deep-learning-2019/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Computer Vision, Deep Learning, Infographics, Interview Questions, Learning Path, Python",
+            "publishedOn": "2019-01-02T00:00:00",
+            "description": "Interested in deep learning but don\u2019t know where to start? This article contains a learning path for deep learning to get started in 2019.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/deep-learning-preview.jpg"
+        },
+        {
+            "id": 5510,
+            "title": "The Ultimate Learning Path to Become a Data Scientist and Master Machine Learning in 2019",
+            "url": "https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Data Science, Deep Learning, Infographics, Interview Questions, Learning Path, Machine Learning, NLP, Python, Statistics",
+            "publishedOn": "2019-01-01T00:00:00",
+            "description": "Complete learning path to become a data scientist in 2019. This article contains resources that will lead you down the path to be a data scientist.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/datascience-path.jpg"
+        },
+        {
+            "id": 5511,
+            "title": "The 15 Most Popular Data Science and Machine Learning Articles on Analytics Vidhya in 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/12/most-popular-articles-analytics-vidhya-2018/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Deep Learning, Interview Questions, Listicle, Machine Learning, NLP, Resource",
+            "publishedOn": "2018-12-31T00:00:00",
+            "description": "List of top 12 best and most popular data and machine learning articles for aspiring data scientists that were published on Analytics Vidhya in 2018.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/analytics-2158454_960_720.png"
+        },
+        {
+            "id": 5512,
+            "title": "The 25 Best Data Science and Machine Learning GitHub Repositories from 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Computer Vision, Data Science, Deep Learning, Github, JS, Listicle, Machine Learning, NLP, Python",
+            "publishedOn": "2018-12-26T00:00:00",
+            "description": "List of 25 best machine learning and data science github repositories from 2018 with projects divided into different categories.",
+            "thumbnail": "https://www.analyticsvidhya.com/wp-content/uploads/2016/09/Github.png"
+        },
+        {
+            "id": 5513,
+            "title": "A Comprehensive Tutorial to learn Convolutional Neural Networks from Scratch (deeplearning.ai Course #4)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/",
+            "authors": "Pulkit Sharma",
+            "tags": "Algorithm, Deep Learning, Image, Intermediate, Python, Unstructured Data",
+            "publishedOn": "2018-12-26T00:00:00",
+            "description": "A complete CNN tutorial to learn about what they are and how they work. In this tutorial on convolutional neural networks learn the fundamentals of it.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/UNDERSTANDING-CONVOLUTIONAL-NEURAL-NETWORKS-CNNs.jpg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3534,
+            "title": "Understand The Internal Working of Apache Spark",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/understand-the-internal-working-of-apache-spark/",
+            "authors": "Dhanya Thailappan",
+            "tags": "Beginner, Data Engineering, Programming, Python, Spark",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "Apache Spark is an open-source distributed big data processing engine. In this article, we will understand internal working of apache spark.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/11150sp.jpg"
+        },
+        {
+            "id": 3535,
+            "title": "An Introduction to Natural Language Processing with Transformers",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/an-introduction-to-natural-language-processing-with-transformers/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Beginner, Deep Learning, Libraries, NLP, Python, Text",
+            "publishedOn": "2021-08-26T00:00:00",
+            "description": "NLP is a field of linguistics and deep learning related to understanding human language. natural language processing with transformers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pytorch-transformers.jpg"
+        },
+        {
+            "id": 3536,
+            "title": "Announcing Machine Learning Certification Course for Beginners!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/announcing-free-machine-learning-certification-course-for-beginners/",
+            "authors": "avcontentteam",
+            "tags": "Analytics Vidhya, Announcement, Courses, Machine Learning",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "If you are someone, trying to start your Machine Learning journey, the answer is Free Machine Learning Certification Course for Beginners!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/featuring.jpg"
+        },
+        {
+            "id": 3537,
+            "title": "Advanced OpenCV: Blurring An Image using the Renowned OpenCV Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/advanced-opencv-blurring-an-image-using-the-renowned-opencv-library/",
+            "authors": "Shiv Maharaj",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python, Unsupervised",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "This article will aim to introduce us to, and teach us the technique of an interesting concept known as blurring an image",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Blur-Detection-with-OpenCV.jpg"
+        },
+        {
+            "id": 3538,
+            "title": "Must know Pandas Functions for Machine Learning Journey",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/must-know-pandas-functions-for-machine-learning-journey/",
+            "authors": "Pavan Kalyan",
+            "tags": "Beginner, Data Cleaning, Data Exploration, Libraries, Machine Learning, Pandas, Programming, Python, Structured Data",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "Pandas is a widely used python package by data analysts/ scientists. This article will introduce you to some important pandas functions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/74331joan-gamell-XmZ4GDAp9G0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3539,
+            "title": "Hierarchical Clustering Algorithm Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/hierarchical-clustering-algorithm-python/",
+            "authors": "Hardikkumar Dhaduk",
+            "tags": "Beginner, Clustering, Data Science, Machine Learning, Python, Unsupervised",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "In this article, we'll look at a different approach to K Means clustering called Hierarchical Clustering. Let's explore it further.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/21231Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 3540,
+            "title": "Python Tutorial: Object-Oriented Programming system (OOPs) \u2013 Part 2",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/python-tutorial-object-oriented-programming-system-oops-part-2/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "The python is an Object-Oriented Programming language. In this article we will see some Oops concepts such as inheritance, abstraction etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 3541,
+            "title": "Load Dataset Directly into Colab from anywhere on the Browser using CurlWget Extension",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/load-dataset-directly-into-colab-from-anywhere-on-the-browser-using-curlwget-extension/",
+            "authors": "SHREYA SHUKLA",
+            "tags": "Cloud Computing, Intermediate",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "CurlWget extension is a lifesaver and makes it easy to load data from anywhere on the browser to colab directly making it efficient",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-2.jpg"
+        },
+        {
+            "id": 3542,
+            "title": "Developing A Course Recommender System using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/developing-a-course-recommender-system-using-python/",
+            "authors": "Siddharth Sachdeva",
+            "tags": "Beginner, Data Science, Machine Learning, Project, Python, Recommendation, Structured Data",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "Recommender System is a software system that provides specific suggestions to users according to their preferences. Let's Further explore.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/recommendation-system.png"
+        },
+        {
+            "id": 3543,
+            "title": "Python and MySQL: A Practical Introduction for Data Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/python-and-mysql-a-practical-introduction-for-data-analysis/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Data Engineering, Database, Programming, Python, SQL, Structured Data",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "For a data analyst python and mysql are fundamental tools. Here, develop a small MySQL database and learn to grab data from it using Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Data-analysis-using-SQL.jpg"
+        },
+        {
+            "id": 3544,
+            "title": "NLPAUG \u2013 A Python library to Augment Your Text Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/nlpaug-a-python-library-to-augment-your-text-data/",
+            "authors": "Nithilaa Umasankar",
+            "tags": "Beginner, NLP, Python, Text, Word Embeddings",
+            "publishedOn": "2021-08-25T00:00:00",
+            "description": "NLPAug is a python library to augment your text data in machine learning experiments. The goal is to improve deep learning model performance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/nlp_speech.jpg"
+        },
+        {
+            "id": 3545,
+            "title": "All You Need to Know About Skip Connections",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/all-you-need-to-know-about-skip-connections/",
+            "authors": "Sivaram T",
+            "tags": "Advanced, Computer Vision, Deep Learning, Libraries, Python, PyTorch",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "In this article, we\u2019ve discussed the importance of skip connections for the training of deep neural nets and how skip connections were used",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg"
+        },
+        {
+            "id": 3546,
+            "title": "Everything a Beginner should know about Classes and Objects in Python Before Starting Your Data Science Journey[With Examples]",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/everything-a-beginner-should-know-about-classes-and-objects-in-python-before-starting-your-data-science-journeywith-examples/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "This article will help you understand the nuances of Python objects and classes and how to start creating and working with your own classes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Integrating-Python-in-Power-BI.jpg"
+        },
+        {
+            "id": 3547,
+            "title": "Speech Separation by Facebook AI Research",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/speech-separation-by-facebook-ai-research/",
+            "authors": "Rooban Sappani",
+            "tags": "Advanced, Audio Processing, Deep Learning, NLP, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "speech separation or Audio Source Separation is; decomposing an input mixed audio signal into the sources that it originally came from.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/35152Deep_Learning.jpeg"
+        },
+        {
+            "id": 3548,
+            "title": "Churn Prediction- Commercial use of Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/churn-prediction-commercial-use-of-data-science/",
+            "authors": "Soham Naik",
+            "tags": "Beginner, Classification, Data Science, Machine Learning, Python, Structured Data, Telecom",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "Churn is defined in business terms as 'when a client cancels a subscription to a service. Here we will perform churn prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Churn-Prediction-scaled.jpg"
+        },
+        {
+            "id": 3549,
+            "title": "Caching in Python: the LRU algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/caching-in-python-the-lru-algorithm/",
+            "authors": "Shikha Gupta",
+            "tags": "Intermediate, Programming, Python, Technique",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "Caching is an important optimization technique that improves the performance of any software. Here we will explore LRU Caching in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/81090Techniques-for-Proper-API-Caching.png"
+        },
+        {
+            "id": 3550,
+            "title": "How nested functions are used in Python?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/how-nested-functions-are-used-in-python/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "Nested (or inner, nested) functions are functions that we define inside other functions. Here, we will understand nested functions in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 3551,
+            "title": "Python Tutorial: Object-Oriented Programming system (OOPs) \u2013 Part 1",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/python-tutorial-object-oriented-programming-system-oops-part-1/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-24T00:00:00",
+            "description": "OOPs is a notion that depends on the concept of objects. We will try to understand the concept of Python Object-Oriented Programming",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 3552,
+            "title": "Gradient Descent: Design Your First Machine Learning\u00a0Model",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/",
+            "authors": "Abid Ali Awan",
+            "tags": "Beginner, Data Science, Machine Learning, Python",
+            "publishedOn": "2021-08-23T00:00:00",
+            "description": "Gradient descent is an optimization algorithm that is used to train machine learning models and is now used in a neural network.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/31657shutterstock_681234718.jpg"
+        },
+        {
+            "id": 3553,
+            "title": "Granger Causality in Time Series \u2013 Explained using Chicken and Egg problem",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/granger-causality-in-time-series-explained-using-chicken-and-egg-problem/",
+            "authors": "Pallavi Padav",
+            "tags": "Advanced, Algorithm, Machine Learning, Project, Python, Structured Data, Supervised, Technique, Time Series Forecasting",
+            "publishedOn": "2021-08-22T00:00:00",
+            "description": "The purpose of this\u00a0article is to understand what is granger causality and its application in Time series forecasting for better prediction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/76389time-series-forecasting-feature-img.png"
+        },
+        {
+            "id": 3554,
+            "title": "Python Tutorial: Working with CSV file for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/python-tutorial-working-with-csv-file-for-data-science/",
+            "authors": "Harika Bonthu",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-21T00:00:00",
+            "description": "CSV stands for \"Comma Separated Values.\". In this article, let's see the different ways of reading and writing CSV file for data science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Basic-Concepts-of-Object-Oriented-Programming-in-Python.jpg"
+        },
+        {
+            "id": 3555,
+            "title": "Beginner\u2019s Guide To Text Classification Using PyCaret",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/beginners-guide-to-text-classification-using-pycaret/",
+            "authors": "Nithilaa Umasankar",
+            "tags": "Advanced, Classification, Libraries, NLP, Project, Python, Text, Topic Modeling, Word Embeddings",
+            "publishedOn": "2021-08-20T00:00:00",
+            "description": "In this article, let us understand how to build a text classification model within a few lines of code using an AutoML library, PyCaret.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Multi-label-Text-Classification.jpg"
+        },
+        {
+            "id": 3556,
+            "title": "Exploratory Data Analysis and Visualization Techniques in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/exploratory-data-analysis-and-visualization-techniques-in-data-science/",
+            "authors": "Pratik Nabriya",
+            "tags": "Beginner, Data Exploration, Data Visualization, Project, Python, Structured Data",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "Exploratory Data Analysis is the process of describing the data by means of statistical and visualization techniques for deeper analytics",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/58552pexels-fauxels-3183153-scaled.jpg"
+        },
+        {
+            "id": 3557,
+            "title": "Hands-On Stock Price Time Series Forecasting using Deep Convolutional Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/hands-on-stock-price-time-series-forecasting-using-deep-convolutional-networks/",
+            "authors": "Avinash Kumar Pandey",
+            "tags": "Advanced, Deep Learning, Project, Python, Stock Trading, Technique, Time Series Forecasting",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "In this article, we will learn how to make Stock Price Time Series Forecasting using Deep CNN Networks in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/24521Advance-stats-feature-img.png"
+        },
+        {
+            "id": 3558,
+            "title": "Computer Vision and How It is Shaping the World Around Us",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/computer-vision-and-how-it-is-shaping-the-world-around-us/",
+            "authors": "Kshitij Gangwar",
+            "tags": "Beginner, Computer Vision",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "Let's discuss some applications of computer vision, and how companies are implementing scalable vision systems to solve problems",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/30308061CyMCZV6G2sXUmreKHvXS-1..1581020108.jpg"
+        },
+        {
+            "id": 3559,
+            "title": "Complete guide on How to learn Scikit-Learn for Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/complete-guide-on-how-to-learn-scikit-learn-for-data-science/",
+            "authors": "B_95_Ankita Roy",
+            "tags": "Advanced, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "Scikit-Learn is the most important library for Data Science. This article is a Complete guide on How to learn Scikit-Learn for Data Science.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Scikit-learn.jpg"
+        },
+        {
+            "id": 3560,
+            "title": "A friendly guide to NLP: Bag-of-Words with Python\u00a0example",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/",
+            "authors": "Eugenia Anello",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "This guide will let you understand step by step how to implement Bag-Of-Words in NLPand compare the results obtained in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/word.jpg"
+        },
+        {
+            "id": 3561,
+            "title": "A friendly guide to NLP: Text pre-processing with Python\u00a0Example",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/",
+            "authors": "Eugenia Anello",
+            "tags": "Advanced, NLP, Pandas, Python, Text, Unstructured Data",
+            "publishedOn": "2021-08-19T00:00:00",
+            "description": "This guide will let you understand text pre-processing, how to work with it, clean it, create new features using state-of-art methods",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/featured_image-3.jpg"
+        },
+        {
+            "id": 3562,
+            "title": "How to add watermark on images using OpenCV in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/how-to-add-watermark-on-images-using-opencv-in-python/",
+            "authors": "Arnab Mondal",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Libraries, Project, Python, Unstructured Data, Unsupervised",
+            "publishedOn": "2021-08-18T00:00:00",
+            "description": "Watermarks are an important part of businesses. In this article, learn how to add watermark on images using OpenCV in Python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/49120arseny-togulev-MECKPoKJYjM-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3563,
+            "title": "Complete Guide to use Loop, xrange and Generator functions in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/08/complete-guide-to-use-loop-xrange-and-generator-functions-in-python/",
+            "authors": "Arnab Mondal",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-08-18T00:00:00",
+            "description": "This article is a full fledged guide on how to use Complete Guide to use Loop, xrange and Generator functions in Python language",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/26285joshua-reddekopp-GkFQEOubrCo-unsplash-scaled.jpg"
+        }
+    ]
+}

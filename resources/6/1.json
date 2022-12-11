@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 6788,
+            "title": "Unlocking High-Accuracy Differentially Private Image Classification through Scale",
+            "url": "https://www.deepmind.com/blog/unlocking-high-accuracy-differentially-private-image-classification-through-scale",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-06-17T00:00:00",
+            "description": "According to empirical evidence from prior works, utility degradation in DP-SGD becomes more severe on larger neural network models \u2013 including the ones regularly used to achieve the best performance on challenging image classification benchmarks. Our work investigates this phenomenon and proposes a series of simple modifications to both the training procedure and model architecture, yielding a significant improvement on the accuracy of DP training on standard image classification benchmarks.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6789,
+            "title": "Bridging DeepMind research with Alphabet products",
+            "url": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-06-15T00:00:00",
+            "description": "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world\u2019s largest AI events for business.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg"
+        },
+        {
+            "id": 6790,
+            "title": "Advocating for the LGBTQ+ community in AI research",
+            "url": "https://www.deepmind.com/blog/advocating-for-the-lgbtq-community-in-ai-research",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-06-01T00:00:00",
+            "description": "Research scientist, Kevin McKee, tells how his early love of science fiction and social psychology inspired his career, and how he\u2019s helping advance research in \u2018queer fairness\u2019, support human-AI collaboration, and study the effects of AI on the LGBTQ+ community.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62974fe02b612c38d144ccea_Kevin_McKee__Blog_Header__16x9.jpg"
+        },
+        {
+            "id": 6791,
+            "title": "Evaluating Multimodal Interactive Agents",
+            "url": "https://www.deepmind.com/blog/evaluating-multimodal-interactive-agents",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-05-27T00:00:00",
+            "description": "In this paper, we assess the merits of these existing evaluation metrics and present a novel approach to evaluation called the Standardised Test Suite (STS). The STS uses behavioural scenarios mined from real human interaction data.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6792,
+            "title": "Kyrgyzstan to King\u2019s Cross: the star baker cooking up code",
+            "url": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "My day can vary, it really depends on which phase of the project I'm on. Let\u2019s say we want to add a feature to our product \u2013 my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I\u2019ll communicate changes to our stakeholders, write docs, code and test solutions, build analytics dashboards, clean-up old code, and fix bugs.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62d6c7857b5609ca712f2aaa_image%20(2).png"
+        },
+        {
+            "id": 6793,
+            "title": "Dynamic language understanding: adaptation to new knowledge in parametric and semi-parametric models",
+            "url": "https://www.deepmind.com/blog/dynamic-language-understanding-adaptation-to-new-knowledge-in-parametric-and-semi-parametric-models",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "To study how semi-parametric QA models and their underlying parametric language models (LMs) adapt to evolving knowledge, we construct a new large-scale dataset, StreamingQA, with human written and generated questions asked on a given date, to be answered from 14 years of time-stamped news articles. We evaluate our models quarterly as they read new articles not seen in pre-training. We show that parametric models can be updated without full retraining, while avoiding catastrophic forgetting.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6794,
+            "title": "Building a culture of pioneering responsibly",
+            "url": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-05-24T00:00:00",
+            "description": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people\u2019s daily lives: pioneering responsibly. I believe pioneering responsibly should be a priority for anyone working in tech. But I also recognise that it\u2019s especially important when it comes to powerful, widespread technologies like artificial intelligence. AI is arguably the most impactful technology being developed today. It has the potential to benefit humanity in innumerable ways \u2013 from combating climate change to preventing and treating disease. But it\u2019s essential that we account for both its positive and negative downstream impacts.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg"
+        },
+        {
+            "id": 6795,
+            "title": "Open-sourcing MuJoCo",
+            "url": "https://www.deepmind.com/blog/open-sourcing-mujoco",
+            "authors": null,
+            "tags": "Open source",
+            "publishedOn": "2022-05-23T00:00:00",
+            "description": "In October 2021, we announced that we acquired the MuJoCo physics simulator, and made it freely available for everyone to support research everywhere. We also committed to developing and maintaining MuJoCo as a free, open-source, community-driven project with best-in-class capabilities. Today, we\u2019re thrilled to report that open sourcing is complete and the entire codebase is on GitHub!\u00a0Here, we explain why MuJoCo is a great platform for open-source collaboration and share a preview of our roadmap going forward.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6796,
+            "title": "From LEGO competitions to DeepMind's robotics lab",
+            "url": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-05-19T00:00:00",
+            "description": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn\u2019t mean you can\u2019t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves \u2013 I\u2019ve never felt like the smartest person in the room. I\u2019ve often felt the opposite. But I\u2019ve learned that, despite those feelings, I do belong and I do deserve to work at a place like this. And that journey, for me, started with just trying.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg"
+        },
+        {
+            "id": 6797,
+            "title": "Emergent Bartering Behaviour in Multi-Agent Reinforcement Learning",
+            "url": "https://www.deepmind.com/blog/emergent-bartering-behaviour-in-multi-agent-reinforcement-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-05-16T00:00:00",
+            "description": "In our recent paper, we explore how populations of deep reinforcement learning (deep RL) agents can learn microeconomic behaviours, such as production, consumption, and trading of goods. We find that artificial agents learn to make economically rational decisions about production, consumption, and prices, and react appropriately to supply and demand changes.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6798,
+            "title": "A Generalist Agent",
+            "url": "https://www.deepmind.com/blog/a-generalist-agent",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-05-12T00:00:00",
+            "description": "Inspired by progress in large-scale language modelling, we apply a similar approach towards building a single generalist agent beyond the realm of text outputs. The agent, which we refer to as Gato, works as a multi-modal, multi-task, multi-embodiment generalist policy. The same network with the same weights can play Atari, caption images, chat, stack blocks with a real robot arm and much more, deciding based on its context whether to output text, joint torques, button presses, or other tokens.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6799,
+            "title": "Active offline policy selection",
+            "url": "https://www.deepmind.com/blog/active-offline-policy-selection",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-05-06T00:00:00",
+            "description": "To make RL more applicable to real-world applications like robotics, we propose using an intelligent evaluation procedure to select the policy for deployment, called active offline policy selection (A-OPS). In A-OPS, we make use of the prerecorded dataset and allow limited interactions with the real environment to boost the selection quality.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6800,
+            "title": "Tackling multiple tasks with a single visual language model",
+            "url": "https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-04-28T00:00:00",
+            "description": "We introduce Flamingo, a single visual language model (VLM) that sets a new state of the art in few-shot learning on a wide range of open-ended multimodal tasks.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62698380492f73d063be7edb_falimgo.jpeg"
+        },
+        {
+            "id": 6801,
+            "title": "When a passion for bass and brass help build better tools",
+            "url": "https://www.deepmind.com/blog/when-a-passion-for-bass-and-brass-help-build-better-tools",
+            "authors": null,
+            "tags": "Life at DeepMind",
+            "publishedOn": "2022-04-28T00:00:00",
+            "description": "We caught up with Kevin Millikin, a software engineer on the DevTools team. He\u2019s in Salt Lake City this week to present at PyCon US, the largest annual gathering for those using and developing the open-source Python programming language.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/626abcd44249b2b5920371e1_kevin-millikin-05.jpg"
+        },
+        {
+            "id": 6802,
+            "title": "DeepMind\u2019s latest research at ICLR 2022",
+            "url": "https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022",
+            "authors": null,
+            "tags": "Events",
+            "publishedOn": "2022-04-25T00:00:00",
+            "description": "Beyond supporting the event as sponsors and regular workshop organisers, our research teams are presenting 29 papers, including 10 collaborations this year. Here\u2019s a brief glimpse into our upcoming oral, spotlight, and poster presentations.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6803,
+            "title": "An empirical analysis of compute-optimal large language model training",
+            "url": "https://www.deepmind.com/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-04-12T00:00:00",
+            "description": "We ask the question: \u201cWhat is the optimal model size and number of training tokens for a given compute budget?\u201d To answer this question, we train models of various sizes and with various numbers of tokens, and estimate this trade-off empirically. Our main finding is that the current large language models are far too large for their compute budget and are not being trained on enough data.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6804,
+            "title": "GopherCite: Teaching language models to support answers with verified quotes",
+            "url": "https://www.deepmind.com/blog/gophercite-teaching-language-models-to-support-answers-with-verified-quotes",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-03-16T00:00:00",
+            "description": "Language models like Gopher can \u201challucinate\u201d facts that appear plausible but are actually fake. Those who are familiar with this problem know to do their own fact-checking, rather than trusting what language models say. Those who are not, may end up believing something that isn\u2019t true. This paper describes GopherCite, a model which aims to address the problem of language model hallucination. GopherCite attempts to back up all of its factual claims with evidence from the web.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6805,
+            "title": "Predicting the past with Ithaca",
+            "url": "https://www.deepmind.com/blog/predicting-the-past-with-ithaca",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2022-03-09T00:00:00",
+            "description": "The birth of human writing marked the dawn of History and is crucial to our understanding of past civilisations and the world we live in today. For example, more than 2,500 years ago, the Greeks began writing on stone, pottery, and metal to document everything from leases and laws to calendars and oracles, giving a detailed insight into the Mediterranean region. Unfortunately, it\u2019s an incomplete record. Many of the surviving inscriptions have been damaged over the centuries or moved from their original location. In addition, modern dating techniques, such as radiocarbon dating, cannot be used on these materials, making inscriptions difficult and time-consuming to interpret.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6231e42c37dcdc284d8142f0_ancient_texts.jpg"
+        },
+        {
+            "id": 6806,
+            "title": "Learning Robust Real-Time Cultural Transmission without Human Data",
+            "url": "https://www.deepmind.com/blog/learning-robust-real-time-cultural-transmission-without-human-data",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-03-03T00:00:00",
+            "description": "In this work, we use deep reinforcement learning to generate artificial agents capable of test-time cultural transmission. Once trained, our agents can infer and recall navigational knowledge demonstrated by experts. This knowledge transfer happens in real time and generalises across a vast space of previously unseen tasks.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6807,
+            "title": "Probing Image-Language Transformers for Verb Understanding",
+            "url": "https://www.deepmind.com/blog/probing-image-language-transformers-for-verb-understanding",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-02-23T00:00:00",
+            "description": "Multimodal Image-Language transformers have achieved impressive results on a variety of tasks that rely on fine-tuning (e.g., visual question answering and image retrieval). We are interested in shedding light on the quality of their pretrained representations--in particular, if these models can distinguish verbs or they only use the nouns in a given sentence. To do so, we collect a dataset of image-sentence pairs consisting of 447 verbs that are either visual or commonly found in the pretraining data (i.e., the Conceptual Captions dataset). We use this dataset to evaluate the pretrained models in a zero-shot way.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6808,
+            "title": "Accelerating fusion science through learned plasma control",
+            "url": "https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-02-16T00:00:00",
+            "description": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221542cc35fbd6c1e95bc15_Fusion_16-9.jpg"
+        },
+        {
+            "id": 6809,
+            "title": "MuZero\u2019s first step from research into the real world",
+            "url": "https://www.deepmind.com/blog/muzeros-first-step-from-research-into-the-real-world",
+            "authors": null,
+            "tags": "Applied",
+            "publishedOn": "2022-02-11T00:00:00",
+            "description": "Collaborating with YouTube to optimise video compression in the open source VP9 codec.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e65a2dc35668312cc876_MuZero_YouTube_01.jpg"
+        },
+        {
+            "id": 6810,
+            "title": "Red Teaming Language Models with Language Models",
+            "url": "https://www.deepmind.com/blog/red-teaming-language-models-with-language-models",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-02-07T00:00:00",
+            "description": "In our recent paper, we show that it is possible to automatically find inputs that elicit harmful text from language models by generating inputs using language models themselves. Our approach provides one tool for finding harmful model behaviours before users are impacted, though we emphasize that it should be viewed as one component alongside many other techniques that will be needed to find harms and mitigate them once found.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6811,
+            "title": "Competitive programming with AlphaCode",
+            "url": "https://www.deepmind.com/blog/competitive-programming-with-alphacode",
+            "authors": null,
+            "tags": "Blog",
+            "publishedOn": "2022-02-02T00:00:00",
+            "description": "Solving novel problems and setting a new milestone in competitive programming.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
+        },
+        {
+            "id": 6812,
+            "title": "DeepMind: The Podcast returns for Season 2",
+            "url": "https://www.deepmind.com/blog/deepmind-the-podcast-returns-for-season-2",
+            "authors": null,
+            "tags": "Company",
+            "publishedOn": "2022-01-25T00:00:00",
+            "description": "We believe artificial intelligence (AI) is one of the most significant technologies of our age and we want to help people understand its potential and how it\u2019s being created.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e7e9a4293bbe1edbbf25_The%20Podcast.jpg"
+        },
+        {
+            "id": 6813,
+            "title": "Spurious normativity enhances learning of compliance and enforcement behavior in artificial agents",
+            "url": "https://www.deepmind.com/blog/spurious-normativity-enhances-learning-of-compliance-and-enforcement-behavior-in-artificial-agents",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2022-01-18T00:00:00",
+            "description": "In our recent paper we explore how multi-agent deep reinforcement learning can serve as a model of complex social interactions, like the formation of social norms. This new class of models could provide a path to create richer, more detailed simulations of the world.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6814,
+            "title": "Simulating matter on the quantum scale with AI",
+            "url": "https://www.deepmind.com/blog/simulating-matter-on-the-quantum-scale-with-ai",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-12-09T00:00:00",
+            "description": "Solving some of the major challenges of the 21st Century, such as producing clean electricity or developing high temperature superconductors, will require us to design new materials with specific properties. To do this on a computer requires the simulation of electrons, the subatomic particles that govern how atoms bond to form molecules and are also responsible for the flow of electricity in solids.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e82a6274a91d6b24c3a6_Simulating%20Matter.jpg"
+        },
+        {
+            "id": 6815,
+            "title": "Language modelling at scale: Gopher, ethical considerations, and retrieval",
+            "url": "https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval",
+            "authors": null,
+            "tags": "Research",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "Language, and its role in demonstrating and facilitating comprehension - or intelligence - is a fundamental part of being human. It gives people the ability to communicate thoughts and concepts, express ideas, create memories, and build mutual understanding. These are foundational parts of social intelligence. It\u2019s why our teams at DeepMind study aspects of language processing and communication, both in artificial agents and in humans.",
+            "thumbnail": "https://assets-global.website-files.com/621e749a546b7592125f38ed/622216be01a2ee7d876bba4f_LLM.jpg"
+        },
+        {
+            "id": 6816,
+            "title": "Creating Interactive Agents with Imitation Learning",
+            "url": "https://www.deepmind.com/blog/creating-interactive-agents-with-imitation-learning",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "We show that imitation learning of human-human interactions in a simulated world, in conjunction with self-supervised learning, is sufficient to produce a multimodal interactive agent, which we call MIA, that successfully interacts with non-adversarial humans 75% of the time. We further identify architectural and algorithmic techniques that improve performance, such as hierarchical action selection.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        },
+        {
+            "id": 6817,
+            "title": "Improving language models by retrieving from trillions of tokens",
+            "url": "https://www.deepmind.com/blog/improving-language-models-by-retrieving-from-trillions-of-tokens",
+            "authors": null,
+            "tags": "Technical blog",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "We explore an alternate path for improving language models: we augment transformers with retrieval over a database of text passages including web pages, books, news and code. We call our method RETRO, for \u201cRetrieval Enhanced TRansfOrmers\u201d.",
+            "thumbnail": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d346e395c98fb65f1185c_brand__symbol_white.svg"
+        }
+    ]
+}

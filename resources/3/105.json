@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5094,
+            "title": "5 Popular NoSQL Databases Every Data Science Professional Should Know About",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/",
+            "authors": "Lakshay Arora",
+            "tags": "Beginner, Big data, Data Engineering, Database, NoSQL",
+            "publishedOn": "2020-09-21T00:00:00",
+            "description": "NoSQL databases are important due to the sheer volume of data we produce in the present times. Learn about different types of NoSQL Databases",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Different-NoSQL-Databases.jpg"
+        },
+        {
+            "id": 5095,
+            "title": "A Detailed Study of Self Supervised Contrastive Loss and Supervised Contrastive Loss",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/a-detailed-study-of-self-supervised-contrastive-loss-and-supervised-contrastive-loss/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-19T00:00:00",
+            "description": "Understand in detail, Self-Supervised Contrastive Loss and Supervised Contrastive Loss and how to implement it in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Self-Supervised-Contrastive-Loss-and-Supervised-Contrastive-Loss.jpg"
+        },
+        {
+            "id": 5096,
+            "title": "Alternative Hyperparameter Optimization Technique You need to Know \u2013 Hyperopt",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/alternative-hyperparameter-optimization-technique-you-need-to-know-hyperopt/",
+            "authors": "guest_blog",
+            "tags": "Algorithm, Beginner, Data Science, Python, Structured Data, Technique",
+            "publishedOn": "2020-09-18T00:00:00",
+            "description": "Hyperopt uses a form of Bayesian Hyperparameter optimization technique that allows you to get the best parameters for a given model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Alternative-Hyperparameter-Optimization-Techniques-You-Need-to-Know.jpg"
+        },
+        {
+            "id": 5097,
+            "title": "5 Must-Watch Talks Before your Next Data Science Hackathon (featuring SRK, Dipanjan Sarkar, and more!)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/5-talks-data-science-hackathons/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Listicle",
+            "publishedOn": "2020-09-17T00:00:00",
+            "description": "Top data scientists share their journey and their hacks, tips, and tricks in these talks to help us excel in data science hackathons.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/participating-in-a-Data-Science-Competition.jpg"
+        },
+        {
+            "id": 5098,
+            "title": "How to create your AI Virtual Assistant using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/ai-virtual-assistant-using-python/",
+            "authors": "guest_blog",
+            "tags": "Intermediate, Python, Technique",
+            "publishedOn": "2020-09-17T00:00:00",
+            "description": "AI virtual assistant, is an application program that understands natural language voice commands and completes tasks for the user.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/AI-Virtual-Assistant-using-Python.jpg"
+        },
+        {
+            "id": 5099,
+            "title": "11 Easy-to-Achieve Steps to Transition into Data Science (for Reporting and BI Professionals!)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/11-steps-data-science-transition-reporting-mis-bi-professionals/",
+            "authors": "Sunil Ray",
+            "tags": "Beginner, Data Science, Interview Questions, Interviews",
+            "publishedOn": "2020-09-16T00:00:00",
+            "description": "Are you a MIS/Reporting/BI professional trying to transition into data science? Here are 11 steps you should follow!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/11-Steps-to-Transition-1.png"
+        },
+        {
+            "id": 5100,
+            "title": "TensorFlow Object Detection \u2014 1.0 & 2.0: Train, Export, Optimize (TensorRT), Infer (Jetson Nano)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/tensorflow-object-detection-1-0-2-0-train-export-optimize-tensorrt-infer-jetson-nano/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Object Detection, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-16T00:00:00",
+            "description": "Object detection is seeing widespread adoption presently with diverse applications. Learn TensorFlow Object Detection in versions 1.0 & 2.0.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 5101,
+            "title": "Machine Learning in Cyber Security \u2014 Malicious Software Installation",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/machine-learning-in-cyber-security-malicious-software-installation/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Machine Learning, NLP, Python, Technique",
+            "publishedOn": "2020-09-16T00:00:00",
+            "description": "Understand how Machine learning in Cyber Security works by detecting Malicious Software Installation in this article using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Machine-Learning-in-Cyber-Security-%E2%80%94-Malicious-Software-Installation-1.jpg"
+        },
+        {
+            "id": 5102,
+            "title": "Pneumonia Detection using CNN with Implementation in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/pneumonia-detection-using-cnn-with-implementation-in-python/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-16T00:00:00",
+            "description": "In this article, learn how to detect pneumonia, using the popular CNN(Convolutional neural network) framework in Python with ease.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Pneumonia-Detection-using-CNN.jpg"
+        },
+        {
+            "id": 5103,
+            "title": "Learning Database for Data Science Tutorial \u2013 Perform MongoDB Indexing using PyMongo",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/mongodb-indexes-pymongo-tutorial/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Big data, Data Engineering, Intermediate, MongoDB, NoSQL, Python, Technique",
+            "publishedOn": "2020-09-15T00:00:00",
+            "description": "Learn the various indexes and their properties in MongoDB and how to appropritely use them using PyMongo library in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-in-MongoDB-using-PyMongo.jpg"
+        },
+        {
+            "id": 5104,
+            "title": "Seam Carving Algorithm : A Seemingly Impossible Way of Resizing An Image",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/seam-carving-algorithm-a-seemingly-impossible-way-to-resize-an-image/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-15T00:00:00",
+            "description": "Seam Carving does a seemingly impossible task of resizing an image without cropping it or distorting its contents with ease.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/PAINT.jpg"
+        },
+        {
+            "id": 5105,
+            "title": "All Aboard the Pandas Express \u2013 How to Speed up Data Preprocessing using Pandas in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/pandas-speed-up-preprocessing/",
+            "authors": "Purva Huilgol",
+            "tags": "Beginner, Data Science, Libraries, Pandas, Programming, Python",
+            "publishedOn": "2020-09-14T00:00:00",
+            "description": "Pandas is an excellent Python library for data preprocessing. Learn how to speed up Pandas operations in this article and save time.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Speeding-up-Pandas-in-Python.jpg"
+        },
+        {
+            "id": 5106,
+            "title": "How to perform Blur Detection using OpenCV in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/how-to-perform-blur-detection-using-opencv-in-python/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Python, Unstructured Data",
+            "publishedOn": "2020-09-14T00:00:00",
+            "description": "In this article we explain blur detection in a proect with ease using OpenCV in python and have a clean gallery of photos",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Blur-Detection-with-OpenCV.jpg"
+        },
+        {
+            "id": 5107,
+            "title": "How to Build a Sales Forecast using Microsoft Excel in Just 10 Minutes!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/how-to-build-forecast-excel/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Business Analytics, Excel, Linear Regression",
+            "publishedOn": "2020-09-13T00:00:00",
+            "description": "Forecasting in Excel is a remarkably easy operation but you need to know how to perform it. Learn forecasting in Excel here.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Advanced-charts-in-excel-part-2-1.jpg"
+        },
+        {
+            "id": 5108,
+            "title": "Create your first Video Face Recognition app + Bonus (Happiness Recognition)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/create-your-first-video-face-recognition-app-bonus-happiness-recognition/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Computer Vision, Deep Learning, Project, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-13T00:00:00",
+            "description": "This tutorial will teach you how to create your own video face detection app in an easy way so using the popular Open CV library in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Face-Recognition-app.jpg"
+        },
+        {
+            "id": 5109,
+            "title": "Start Using The timeit Library in Python!",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/timeit-in-python/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Libraries, Python, Technique",
+            "publishedOn": "2020-09-11T00:00:00",
+            "description": "Python has a timeit module that is meant to measure the execution times of small and large code snippets. We explore timeit in this article.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Start-Using-The-timeit-Library-in-Python1.png"
+        },
+        {
+            "id": 5110,
+            "title": "When Graphic Designers Meet Matplotlib \u2013 Creating Colormaps using Matplotlib in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Visualization, Python, Structured Data, Technique",
+            "publishedOn": "2020-09-11T00:00:00",
+            "description": "Matplotlib provides some nice colormaps, such as Sequential colormaps, Diverging colormaps, Cyclic colormaps, and Qualitative colormaps.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/When-Graphic-Designers-Meet-Matplotlib.png"
+        },
+        {
+            "id": 5111,
+            "title": "10 Adventurous AI-Based TV Shows You Should Watch Next",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/10-adventurous-data-science-tv-series/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Beginner, Entertainment, Listicle",
+            "publishedOn": "2020-09-10T00:00:00",
+            "description": "In this article, I have put together a list of 10 classic AI based TV-shows that show us a whole new world beyond our imagination",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-Mind-Blowing-TV-Shows-on-Machine-Learning-you-Might-Have-Missed.jpg"
+        },
+        {
+            "id": 5112,
+            "title": "Busted! 11 Data Science Myths You Should Avoid at All Costs",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/11-data-science-myths/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Data Science, Interview Questions, Job Roles, Listicle",
+            "publishedOn": "2020-09-09T00:00:00",
+            "description": "In this article, we bust 11 common myths people have about data science. We have divided the myths into career, tools and role related categories.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/01/developer-3461405_960_720.png"
+        },
+        {
+            "id": 5113,
+            "title": "Why GPUs are more suited for Deep Learning?",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/why-gpus-are-more-suited-for-deep-learning/",
+            "authors": "guest_blog",
+            "tags": "Deep Learning, Intermediate",
+            "publishedOn": "2020-09-09T00:00:00",
+            "description": "The scope of GPUs in upcoming years is huge as we make new innovations and breakthroughs in deep learning, machine learning, and HPC.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/gpu-dl-1.jpg"
+        },
+        {
+            "id": 5114,
+            "title": "18 All-Time Classic Open Source Computer Vision Projects for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/",
+            "authors": "Shipra Saxena",
+            "tags": "Computer Vision, Deep Learning, Intermediate, Interview Questions, Listicle",
+            "publishedOn": "2020-09-08T00:00:00",
+            "description": "We have coalesced a list of 18 open source Computer Vision projects based on its various applications of computer vision.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-incredible-open-source-computer-vision-projects-for-beginner.jpg"
+        },
+        {
+            "id": 5115,
+            "title": "Developing New Machine Learning Algorithm using OpenAI Gym",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/developing-new-machine-learning-using-openai-gym/",
+            "authors": "guest_blog",
+            "tags": "Intermediate, Python, Reinforcement Learning, Technique",
+            "publishedOn": "2020-09-08T00:00:00",
+            "description": "OpenAI Gym is a toolkit that provides a variety of simulated environments so you can train and compare agents, or develop new ML algorithms",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/0RrpoiKmLnxD2RXtW.jpeg"
+        },
+        {
+            "id": 5116,
+            "title": "How to Master the Popular DBSCAN Clustering Algorithm for Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/",
+            "authors": "Abhishek Sharma",
+            "tags": "Algorithm, Beginner, Clustering, Machine Learning, Python, Structured Data, Unsupervised",
+            "publishedOn": "2020-09-08T00:00:00",
+            "description": "DBSCAN clustering is a popular unsupervised learning algorithm in machine learning. Learn how DBSCAN clustering works here.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/DBSCAN-Clustering-Algorithm.jpg"
+        },
+        {
+            "id": 5117,
+            "title": "How to Treat Overfitting in Convolutional Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/overfitting-in-cnn-show-to-treat-overfitting-in-convolutional-neural-networks/",
+            "authors": "guest_blog",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-09-07T00:00:00",
+            "description": "Overfitting indicates that your model is too complex for the problem that it is solving. Learn different ways to Treat Overfitting in CNNs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Treating-Overfitting-in-CNNs.jpg"
+        },
+        {
+            "id": 5118,
+            "title": "Starting your First Data Science Project? Here are 10 Things You Must Absolutely Know",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/10-things-know-before-first-data-science-project/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Interview Questions, Listicle",
+            "publishedOn": "2020-09-06T00:00:00",
+            "description": "Are you preparing your first data science project? Insulate yourself from failure by learning these 10 key things that a beginner should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-Things-to-know-before-starting-your-first-Data-Science-Project.jpg"
+        },
+        {
+            "id": 5119,
+            "title": "How to Integrate Machine Learning into Web Applications with Flask",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/integrating-machine-learning-into-web-applications-with-flask/",
+            "authors": "guest_blog",
+            "tags": "Advanced, Machine Learning, Project, Python, Regression, Structured Data, Supervised",
+            "publishedOn": "2020-09-05T00:00:00",
+            "description": "In this article, I will teach you how to embed an machine learning model in your Web Application with Flask in the and deploy it on Heroku.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Image-Classification-Model-Deployed-Using-Flask-1.jpg"
+        },
+        {
+            "id": 5120,
+            "title": "Indexing and Selecting Data in Python \u2013 How to slice, dice for Pandas Series and DataFrame",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/indexing-and-selecting-data-in-python-how-to-slice-dice-for-pandas-series-and-dataframe/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Exploration, Pandas, Programming, Python",
+            "publishedOn": "2020-09-05T00:00:00",
+            "description": "Pandas supports three types of multi-axis indexing that helps in selecting data in python. Lets see pandas indexing and selecting data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Indexing-and-Selecting-Data-in-Python.jpg"
+        },
+        {
+            "id": 5121,
+            "title": "Precision vs. Recall \u2013 An Intuitive Guide for Every Machine Learning Person",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/",
+            "authors": "Purva Huilgol",
+            "tags": "Beginner, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2020-09-04T00:00:00",
+            "description": "Precision vs recall are two crucial topics in machine learning. In this article learn about precision and recall in machine learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Precision-vs-Recall.jpg"
+        },
+        {
+            "id": 5122,
+            "title": "9 Key Skills Every Business Analytics Professional Should Have",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/9-key-skills-business-analytics-professional/",
+            "authors": "Abhiraj Suresh",
+            "tags": "Beginner, Business Analytics, Data Visualization, Listicle, Python, R, Statistics, Structured Thinking, Tableau",
+            "publishedOn": "2020-09-03T00:00:00",
+            "description": "Here is the difference between business analyst and business analytics professional and skills required for business analytics professionals",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/a-good-Business-Analytics.jpg"
+        },
+        {
+            "id": 5123,
+            "title": "The 8 Largest Data Centers in the World in 2020",
+            "url": "https://www.analyticsvidhya.com/blog/2020/09/8-largest-data-centers-world-2020/",
+            "authors": "MUKUL850",
+            "tags": "Beginner, Big data, Cloud Computing, Data Science, E-Commerce, Information Security, Listicle",
+            "publishedOn": "2020-09-02T00:00:00",
+            "description": "Data generation has increased in the past few years, giving rise to data centers. Here are the 8 largest data centers in the world",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Largest-Data-Centers-in-the-World.jpg"
+        }
+    ]
+}

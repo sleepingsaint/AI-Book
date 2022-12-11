@@ -1,0 +1,245 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 1574,
+            "title": "Fast CNN Tuning with AWS GPU Instances and SigOpt",
+            "url": "https://aws.amazon.com/blogs/machine-learning/fast-cnn-tuning-with-aws-gpu-instances-and-sigopt/",
+            "authors": "Steven Tartakovsky",
+            "tags": null,
+            "publishedOn": "2017-05-01T00:00:00",
+            "description": "Update: SigOpt was acquired by Intel in October of 2020 By Steven Tartakovsky, Michael McCourt, and Scott Clark of SigOpt Compared with traditional machine learning models, neural networks are computationally more complex and introduce many additional parameters. This often prevents machine learning engineers and data scientists from getting the best performance from their models. In [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/04/30/SigOpt_01.gif"
+        },
+        {
+            "id": 1575,
+            "title": "Amazon and Facebook Collaborate to Optimize Caffe2 for the AWS Cloud",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-and-facebook-collaborate-to-optimize-caffe2-for-the-aws-cloud/",
+            "authors": "Joseph Spisak, Yangqing Jia",
+            "tags": null,
+            "publishedOn": "2017-04-25T00:00:00",
+            "description": "From Apache MXNet to Torch, there is no shortage of frameworks for deep learners to leverage. The various offerings each excel at different aspects of the deep learning pipeline and each meets different developer needs. The research-centric community tends to gravitate toward frameworks such as Theano, Torch and most recently PyTorch, while many in the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1576,
+            "title": "Running BigDL, Deep Learning for Apache Spark, on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-bigdl-deep-learning-for-apache-spark-on-aws/",
+            "authors": "Joseph Spisak, Jason Dai, Radhika Rangarajan",
+            "tags": null,
+            "publishedOn": "2017-04-21T00:00:00",
+            "description": "In recent years, deep learning has significantly improved several AI applications, such as recommendation engines, voice and speech recognition, and image and video recognition. Many customers process the massive amounts of data that feed these deep neural networks in Apache Spark, only to later feed it into a separate infrastructure to train models using popular [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1577,
+            "title": "Deep Learning AMI for Ubuntu v1.3_Apr2017 Now Supports Caffe2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deep-learning-ami-for-ubuntu-v1-3_apr2017-now-supports-caffe2/",
+            "authors": "Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-04-18T00:00:00",
+            "description": "We are excited to announce that the AWS Deep Learning AMI for Ubuntu now supports the newly launched Caffe2 project led by Facebook. AWS is the best and most open place for developers to run deep learning, and the addition of Caffe2 adds yet another choice. To learn more about Caffe2, check out the the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1578,
+            "title": "AI Tech Talk: An Overview of AI on the AWS Platform",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ai-tech-talk-an-overview-of-ai-on-the-aws-platform-2/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": null,
+            "publishedOn": "2017-04-14T00:00:00",
+            "description": "AWS offers a family of intelligent services that provide cloud-native machine learning and deep learning technologies to address your different use cases and needs. For developers looking to add managed AI services to their applications, AWS brings natural language understanding (NLU) and automatic speech recognition (ASR) with Amazon Lex, visual search and image recognition with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/02/17/ConnectedHeads_800_o.jpg"
+        },
+        {
+            "id": 1579,
+            "title": "AWS AI Blog Month in Review: March 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/month-in-review-march-2017/",
+            "authors": "Derek Young",
+            "tags": null,
+            "publishedOn": "2017-04-07T00:00:00",
+            "description": "We\u2019ve just finished another month of AI solutions on the AWS AI Blog. Please take a look at our summaries below and learn, comment, and share. Thanks for reading! NEW POSTS Deploy Deep Learning Models on Amazon ECS In this post, learn how to connect the workflow between the data scientists and DevOps. Using a [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1580,
+            "title": "Deploy Deep Learning Models on Amazon ECS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-deep-learning-models-on-amazon-ecs/",
+            "authors": "Asif Khan",
+            "tags": null,
+            "publishedOn": "2017-03-31T00:00:00",
+            "description": "Artificial intelligence (AI) is the computer science field dedicated to solving cognitive problems commonly associated with human intelligence, such as learning, problem solving, and pattern recognition. Machine learning (ML) and deep learning (DL) are computer science fields derived from the AI discipline. Most ML and DL systems have two distinct parts: training (or learning) and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/03/31/ddl_2.gif"
+        },
+        {
+            "id": 1581,
+            "title": "Amazon at WMT: Improving Machine Translation with User Feedback",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-at-wmt-improving-machine-translation-with-user-feedback/",
+            "authors": "Kellen Sunderland",
+            "tags": null,
+            "publishedOn": "2017-03-30T00:00:00",
+            "description": "Machine translation is one of the most exciting and important applications of machine learning.\u00a0 It\u2019s a widely researched topic, both in the academic community and within major technology companies, such as Amazon.\u00a0 At Amazon, we use machine translation to do things like document the same products in multiple languages.\u00a0 This helps us to offer additional [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/03/29/alignments_thin.png"
+        },
+        {
+            "id": 1582,
+            "title": "Build your own text-to-speech applications with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-your-own-text-to-speech-applications-with-amazon-polly/",
+            "authors": "Tomasz Stachlewski",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-03-24T00:00:00",
+            "description": "In general, speech synthesis isn\u2019t easy.\u00a0 You can\u2019t just assume that when an application reads each letter of a sentence the output will make sense. A few common challenges for text-to-speech applications include: Words that are written the same way, but that are pronounced differently: I live in Las Vegas. vs. This presentation broadcasts live [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1583,
+            "title": "AI Tech Talk: How to Get the Most Out of Amazon Polly, a Text-to-Speech Service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ai-tech-talk-how-to-get-the-most-out-of-amazon-polly-a-text-to-speech-service/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-03-20T00:00:00",
+            "description": "Although there are many ways to optimize the speech generated by Amazon Polly\u2018s text-to-speech voices, new customers may find it challenging to quickly learn how to apply the most effective enhancements in each situation. The objective of this webinar is to educate customers about all of the ways in which they can modify the speech [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1584,
+            "title": "Updated AWS CloudFormation Deep Learning Template Adds New Features and Capabilities",
+            "url": "https://aws.amazon.com/blogs/machine-learning/updated-aws-cloudformation-deep-learning-template-adds-new-features-and-capabilities/",
+            "authors": "Naveen Swamy",
+            "tags": null,
+            "publishedOn": "2017-03-17T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly AWS CloudFormation, which creates and configures Amazon Web Services resources with a template, simplifies the process of setting up a distributed deep learning cluster. The AWS CloudFormation Deep Learning template uses the latest updated\u00a0Amazon Deep Learning AMI (which provides Apache MXNet, TensorFlow, Caffe, Theano, Torch, and CNTK [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1585,
+            "title": "Use Amazon Rekognition to Build an End-to-End Serverless Photo Recognition System",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-rekognition-to-build-an-end-to-end-serverless-photo-recognition-system/",
+            "authors": "Vladimir Budilov",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-03-17T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Imagine you work for a marketing agency that has tens of thousands of stock images. You find that many images don\u2019t have descriptive file names and others are completely mislabeled. You don\u2019t want to spend hours and hours relabeling them [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/03/17/ServerlessPhotoRecognition_Search_Image.png"
+        },
+        {
+            "id": 1586,
+            "title": "AWS Collaborates With the National Science Foundation to Foster Innovation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-collaborates-with-the-national-science-foundation-to-foster-innovation/",
+            "authors": "Sanjay Padhi",
+            "tags": null,
+            "publishedOn": "2017-03-15T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly Amazon Web Services and the National Science Foundation (NSF) are collaborating to foster innovation in big data research. Under the AWS Research Initiative (ARI) program, AWS and NSF will respectively support innovative research in the field of Big Data. With the advancements of techniques and technologies such [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1587,
+            "title": "Month in Review: February 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/month-in-review-february-2017/",
+            "authors": "Derek Young",
+            "tags": null,
+            "publishedOn": "2017-03-14T00:00:00",
+            "description": "The AWS AI Blog launched in February! Take a look at our summaries below and learn, comment, and share. Thanks for reading! NEW POSTS Welcome to the New AWS AI Blog! If you ask 100 people for the definition of \u201cartificial intelligence,\u201d you\u2019ll get at least 100 answers, if not more. At AWS, we define [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1588,
+            "title": "Predicting Customer Churn with Amazon Machine Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-amazon-machine-learning/",
+            "authors": "Denis V. Batalov",
+            "tags": null,
+            "publishedOn": "2017-03-09T00:00:00",
+            "description": "Note: This post has a companion talk that was delivered at AWS re:Invent 2016. Losing customers is costly for any business. Identifying unhappy customers early on gives you a chance to offer them incentives to stay. This post describes using machine learning (ML) for the automated identification of unhappy customers, also known as customer churn [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1589,
+            "title": "Deep Learning AMI release v2.0 now Available for Amazon Linux",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deep-learning-ami-release-v2-0-now-available-for-amazon-linux/",
+            "authors": "Dominic Divakaruni",
+            "tags": null,
+            "publishedOn": "2017-03-08T00:00:00",
+            "description": "Listen to this post Voiced by Amazon Polly You can now use upgraded versions of Apache MXNet, TensorFlow, CNTK, and Caffe, on the AWS Deep Learning AMI v2.0 for Amazon Linux, including Keras, available in the AWS Marketplace. The Deep Learning AMI v2.0 for Amazon Linux is designed to continue to provide a stable, secure, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1590,
+            "title": "AI Tech Talk: Introducing Amazon Lex \u2013 A Service for Building Voice or Text Chatbots",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ai-tech-talk-introducing-amazon-lex-a-service-for-building-voice-or-text-chatbots/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-03-01T00:00:00",
+            "description": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1591,
+            "title": "Building Better Bots Using Amazon Lex (Part 2)",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-better-bots-part-2/",
+            "authors": "Niranjan Hira, Harshal Pimpalkhute",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-02-28T00:00:00",
+            "description": "In Part 1 we reviewed some elementary bot design considerations, built the Amazon Lex CoffeeBot chatbot, and used the Amazon Lex Test console to confirm that CoffeeBot reacted to text input as expected.\u00a0 In this post, we make some more design decisions to take CoffeeBot to the next level, including voice interaction. Note: The code [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1592,
+            "title": "Building Better Bots Using Amazon Lex (Part 1)",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-better-bots/",
+            "authors": "Niranjan Hira, Harshal Pimpalkhute",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-02-24T00:00:00",
+            "description": "As Jeff Barr showed in his introductory blog post, Amazon Lex is a service that allows developers to build conversational interfaces for voice and text into applications. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, so you can quickly and easily build sophisticated, natural language [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1593,
+            "title": "AI Tech Talk: An Overview of AI on the AWS Platform",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ai-tech-talk-an-overview-of-ai-on-the-aws-platform/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex, Amazon Polly, Amazon Rekognition",
+            "publishedOn": "2017-02-17T00:00:00",
+            "description": "AWS offers a family of intelligent services that provide cloud-native machine learning and deep learning technologies to address your different use cases and needs. For developers looking to add managed AI services to their applications, AWS brings natural language understanding (NLU) and automatic speech recognition (ASR) with Amazon Lex, visual search and image recognition with [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1594,
+            "title": "AWS Podcast #175: Artificial Intelligence with Dr. Matt Wood",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-podcast-175-artificial-intelligence-with-dr-matt-wood/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-02-17T00:00:00",
+            "description": "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At AWS, we\u2019re continuing to innovate to simplify the MLOps workflow. In this post, we discuss some [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/16/build-an-across-account-mlops-workflow.jpg"
+        },
+        {
+            "id": 1595,
+            "title": "Classify a Large Number of Images with Amazon Rekognition and AWS Batch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/classify-a-large-number-of-images-with-amazon-rekognition-and-aws-batch/",
+            "authors": "Matthew McClean",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-02-15T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Amazon Rekognition, one of the first AWS AI services, makes it easy to quickly add sophisticated deep-learning-based visual search and image classification to your applications. With the Rekognition API, you can detect objects, scenes, and faces in images, and search [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1596,
+            "title": "Welcome to the New AWS AI Blog!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/welcome-to-the-new-aws-ai-blog/",
+            "authors": "Swami Sivasubramanian, Dr. Matt Wood, Alexander Smola",
+            "tags": null,
+            "publishedOn": "2017-02-10T00:00:00",
+            "description": "If you ask 100 people for the definition of \u201cartificial intelligence,\u201d you\u2019ll get at least 100 answers, if not more. At AWS, we define it as a service or system which can perform tasks that usually require human-level intelligence such as visual perception, speech recognition, decision making, or translation. On this new AWS blog, we\u2019ll [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1597,
+            "title": "The AWS Deep Learning AMI, Now with Ubuntu",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deep-learning-ami-now-with-ubuntu/",
+            "authors": "Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-02-10T00:00:00",
+            "description": "We are excited to announce that an AWS Deep Learning AMI for Ubuntu\u00a0is now available in the AWS Marketplace in addition to the Amazon Linux version. The AWS Deep Learning AMI, now available on AWS Marketplace, lets you run deep learning in the Cloud, at any scale. Launch instances of pre-installed, open source deep learning [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

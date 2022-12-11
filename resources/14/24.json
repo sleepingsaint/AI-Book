@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9202,
+            "title": "Caption Generation with the Inject and Merge Encoder-Decoder Models",
+            "url": "https://machinelearningmastery.com/caption-generation-inject-merge-architectures-encoder-decoder-model/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-12-27T00:00:00",
+            "description": "Caption generation is a challenging artificial intelligence problem that draws on both computer vision and natural language processing. The encoder-decoder recurrent neural network architecture has been shown to be effective at this problem. The implementation of this architecture can be distilled into inject and merge based models, and both make different assumptions about the role [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/Caption-Generation-with-the-Inject-and-Merge-Architectures-for-the-Encoder-Decoder-Model.jpg"
+        },
+        {
+            "id": 9203,
+            "title": "A Gentle Introduction to Applied Machine Learning as a Search Problem",
+            "url": "https://machinelearningmastery.com/applied-machine-learning-as-a-search-problem/",
+            "authors": "Jason Brownlee",
+            "tags": "Optimization",
+            "publishedOn": "2017-12-25T00:00:00",
+            "description": "Applied machine learning is challenging because the designing of a perfect learning system for a given problem is intractable. There is no best training data or best algorithm for your problem, only the best that you can discover. The application of machine learning is best thought of as search problem for the best mapping of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Effect-of-a-learning-algorithm-iteratively-training-on-data.png"
+        },
+        {
+            "id": 9204,
+            "title": "Why Applied Machine Learning Is Hard",
+            "url": "https://machinelearningmastery.com/applied-machine-learning-is-hard/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2017-12-22T00:00:00",
+            "description": "How to Handle the Intractability of Applied Machine Learning. Applied machine learning is challenging. You must make many decisions where there is no known \u201cright answer\u201d for your specific problem, such as: What framing of the problem to use? What input and output data to use? What learning algorithm to use? What algorithm configuration to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Depiction-of-Choices-in-Designing-a-Checker-Playing-Learning-System.png"
+        },
+        {
+            "id": 9205,
+            "title": "A Gentle Introduction to Transfer Learning for Deep Learning",
+            "url": "https://machinelearningmastery.com/transfer-learning-for-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Computer Vision",
+            "publishedOn": "2017-12-20T00:00:00",
+            "description": "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task. It is a popular approach in deep learning where pre-trained models are used as the starting point on computer vision and natural language processing tasks given the vast [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/A-Gentle-Introduction-to-Transfer-Learning-with-Deep-Learning.jpg"
+        },
+        {
+            "id": 9206,
+            "title": "A Gentle Introduction to Exploding Gradients in Neural Networks",
+            "url": "https://machinelearningmastery.com/exploding-gradients-in-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-12-18T00:00:00",
+            "description": "Exploding gradients are a problem where large error gradients accumulate and result in very large updates to neural network model weights during training. This has the effect of your model being unstable and unable to learn from your training data. In this post, you will discover the problem of exploding gradients with deep artificial neural [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/A-Gentle-Introduction-to-Exploding-Gradients-in-Recurrent-Neural-Networks.jpg"
+        },
+        {
+            "id": 9207,
+            "title": "A Gentle Introduction to Concept Drift in Machine Learning",
+            "url": "https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2017-12-15T00:00:00",
+            "description": "Data can change over time. This can result in poor and degrading predictive performance in predictive models that assume a static relationship between input and output variables. This problem of the changing underlying relationships in the data is called concept drift in the field of machine learning. In this post, you will discover the problem [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/A-Gentle-Introduction-to-Concept-Drift-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9208,
+            "title": "How to Visualize a Deep Learning Neural Network Model in Keras",
+            "url": "https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-12-13T00:00:00",
+            "description": "The Keras Python deep learning library provides tools to visualize and better understand your neural network models. In this tutorial, you will discover exactly how to summarize and visualize your deep learning models in Keras. After completing this tutorial, you will know: How to create a textual summary of your deep learning model. How to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/How-to-Visualize-a-Deep-Learning-Neural-Network-Model-in-Keras.jpg"
+        },
+        {
+            "id": 9209,
+            "title": "Difference Between Classification and Regression in Machine Learning",
+            "url": "https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2017-12-11T00:00:00",
+            "description": "There is an important difference between classification and regression problems. Fundamentally, classification is about predicting a label and regression is about predicting a quantity. I often see questions such as: How do I calculate accuracy for my regression problem? Questions like this are a symptom of not truly understanding the difference between classification and regression [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/Difference-Between-Classification-and-Regression-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 9210,
+            "title": "Encoder-Decoder Models for Text Summarization in Keras",
+            "url": "https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-12-08T00:00:00",
+            "description": "Text summarization is a problem in natural language processing of creating a short, accurate, and fluent summary of a source document. The Encoder-Decoder recurrent neural network architecture developed for machine translation has proven effective when applied to the problem of text summarization. It can be difficult to apply this architecture in the Keras deep learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/Encoder-Decoder-Models-for-Text-Summarization-in-Keras.jpg"
+        },
+        {
+            "id": 9211,
+            "title": "What is Teacher Forcing for Recurrent Neural Networks?",
+            "url": "https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-12-06T00:00:00",
+            "description": "Teacher forcing is a method for quickly and efficiently training recurrent neural network models that use the ground truth from a prior time step as input. It is a network training method critical to the development of deep learning language models used in machine translation, text summarization, and image captioning, among many other applications. In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/What-is-Teacher-Forcing-for-Recurrent-Neural-Networks.jpg"
+        },
+        {
+            "id": 9212,
+            "title": "How to Prepare News Articles for Text Summarization",
+            "url": "https://machinelearningmastery.com/prepare-news-articles-text-summarization/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-12-04T00:00:00",
+            "description": "Text summarization is the task of creating a short, accurate, and fluent summary of an article. A popular and free dataset for use in text summarization experiments with deep learning methods is the CNN News story dataset. In this tutorial, you will discover how to prepare the CNN News Dataset for text summarization. After completing [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/How-to-Prepare-News-Articles-for-Text-Summarization.jpg"
+        },
+        {
+            "id": 9213,
+            "title": "Encoder-Decoder Deep Learning Models for Text Summarization",
+            "url": "https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-12-01T00:00:00",
+            "description": "Text summarization is the task of creating short, accurate, and fluent summaries from larger text documents. Recently deep learning methods have proven effective at the abstractive approach to text summarization. In this post, you will discover three different models that build on top of the effective Encoder-Decoder architecture developed for sequence-to-sequence prediction in machine translation. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/12/Encoder-Decoder-Deep-Learning-Models-for-Text-Summarization.jpg"
+        },
+        {
+            "id": 9214,
+            "title": "A Gentle Introduction to Text Summarization",
+            "url": "https://machinelearningmastery.com/gentle-introduction-text-summarization/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-29T00:00:00",
+            "description": "Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document. Automatic text summarization methods are greatly needed to address the ever-growing amount of text data available online to both better help discover relevant information and to consume relevant information faster. In this post, you will discover the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/A-Gentle-Introduction-to-Text-Summarization.jpg"
+        },
+        {
+            "id": 9215,
+            "title": "How to Use Small Experiments to Develop a Caption Generation Model in Keras",
+            "url": "https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-24T00:00:00",
+            "description": "Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a photograph. It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Use-Small-Experiments-to-Develop-a-Caption-Generation-Model-in-Keras.jpg"
+        },
+        {
+            "id": 9216,
+            "title": "A Gentle Introduction to Deep Learning Caption Generation Models",
+            "url": "https://machinelearningmastery.com/deep-learning-caption-generation-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-22T00:00:00",
+            "description": "Caption generation is the challenging artificial intelligence problem of generating a human-readable textual description given a photograph. It requires both image understanding from the domain of computer vision and a language model from the field of natural language processing. It is important to consider and test multiple ways to frame a given predictive modeling problem [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/09/Model-3-Generate-Word-From-Sequence.png"
+        },
+        {
+            "id": 9217,
+            "title": "A Gentle Introduction to Calculating the BLEU Score for Text in Python",
+            "url": "https://machinelearningmastery.com/calculate-bleu-score-for-text-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-20T00:00:00",
+            "description": "BLEU, or the Bilingual Evaluation Understudy, is a score for comparing a candidate translation of text to one or more reference translations. Although developed for translation, it can be used to evaluate text generated for a suite of natural language processing tasks. In this tutorial, you will discover the BLEU score for evaluating and scoring [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/A-Gentle-Introduction-to-Calculating-the-BLEU-Score-for-Text-in-Python.jpg"
+        },
+        {
+            "id": 9218,
+            "title": "How to Prepare Univariate Time Series Data for Long Short-Term Memory Networks",
+            "url": "https://machinelearningmastery.com/prepare-univariate-time-series-data-long-short-term-memory-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Time Series",
+            "publishedOn": "2017-11-17T00:00:00",
+            "description": "It can be hard to prepare data when you\u2019re just getting started with deep learning. Long Short-Term Memory, or LSTM, recurrent neural networks expect three-dimensional input in the Keras Python deep learning library. If you have a long sequence of thousands of observations in your time series data, you must split your time series into [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Prepare-Univariate-Time-Series-Data-for-Long-Short-Term-Memory-Networks.jpg"
+        },
+        {
+            "id": 9219,
+            "title": "How to Prepare a Photo Caption Dataset for Training a Deep Learning Model",
+            "url": "https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-15T00:00:00",
+            "description": "Automatic photo captioning is a problem where a model must generate a human-readable textual description given a photograph. It is a challenging problem in artificial intelligence that requires both image understanding from the field of computer vision as well as language generation from the field of natural language processing. It is now possible to develop [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Prepare-a-Photo-Caption-Dataset-for-Training-a-Deep-Learning-Model.jpg"
+        },
+        {
+            "id": 9220,
+            "title": "How to Automatically Generate Textual Descriptions for Photographs with Deep Learning",
+            "url": "https://machinelearningmastery.com/how-to-caption-photos-with-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-13T00:00:00",
+            "description": "Captioning an image involves generating a human readable textual description given an image, such as a photograph. It is an easy problem for a human, but very challenging for a machine as it involves both understanding the content of an image and how to translate this understanding into natural language. Recently, deep learning methods have [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Example-of-annotation-regions-of-an-image-with-descriptions.png"
+        },
+        {
+            "id": 9221,
+            "title": "How to Develop a Word-Level Neural Language Model and Use it to Generate Text",
+            "url": "https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-10T00:00:00",
+            "description": "A language model can predict the probability of the next word in the sequence, based on the words already observed in the sequence. Neural network models are a preferred method for developing statistical language models because they can use a distributed representation where different words with similar meanings have similar representation and because they can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Develop-a-Word-Level-Neural-Language-Model-and-Use-it-to-Generate-Text.jpg"
+        },
+        {
+            "id": 9222,
+            "title": "How to Use The Pre-Trained VGG Model to Classify Objects in Photographs",
+            "url": "https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-11-08T00:00:00",
+            "description": "Convolutional neural networks are now capable of outperforming humans on some computer vision tasks, such as classifying images. That is, given a photograph of an object, answer the question as to which of 1,000 specific objects the photograph shows. A competition-winning model for this task is the VGG model by researchers at Oxford. What is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/Sample-of-Images-from-the-ImageNet-Dataset-used-in-the-ILSVRC-Challenge-1024x974.png"
+        },
+        {
+            "id": 9223,
+            "title": "How to Get Started with Deep Learning for Natural Language Processing",
+            "url": "https://machinelearningmastery.com/crash-course-deep-learning-natural-language-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-07T00:00:00",
+            "description": "Deep Learning for NLP Crash Course. Bring Deep Learning methods to Your Text Data project in 7 Days. We are awash with text, from books, papers, blogs, tweets, news, and increasingly text from spoken utterances. Working with text is hard as it requires drawing upon knowledge from diverse domains such as linguistics, machine learning, statistical [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Get-Started-with-Deep-Learning-for-Natural-Language-Processing.jpg"
+        },
+        {
+            "id": 9224,
+            "title": "How to Develop a Character-Based Neural Language Model in Keras",
+            "url": "https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-06T00:00:00",
+            "description": "A language model predicts the next word in the sequence based on the specific words that have come before it in the sequence. It is also possible to develop language models at the character level using neural networks. The benefit of character-based language models is their small vocabulary and flexibility in handling any words, punctuation, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Develop-a-Character-Based-Neural-Language-Model-in-Keras.jpg"
+        },
+        {
+            "id": 9225,
+            "title": "How to Develop Word-Based Neural Language Models in Python with Keras",
+            "url": "https://machinelearningmastery.com/develop-word-based-neural-language-models-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-03T00:00:00",
+            "description": "Language modeling involves predicting the next word in a sequence given the sequence of words already present. A language model is a key element in many natural language processing models such as machine translation and speech recognition. The choice of how the language model is framed must match how the language model is intended to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Develop-Word-Based-Neural-Language-Models-in-Python-with-Keras.jpg"
+        },
+        {
+            "id": 9226,
+            "title": "How to Develop an Encoder-Decoder Model for Sequence-to-Sequence Prediction in Keras",
+            "url": "https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-11-02T00:00:00",
+            "description": "The encoder-decoder model provides a pattern for using recurrent neural networks to address challenging sequence-to-sequence prediction problems such as machine translation. Encoder-decoder models can be developed in the Keras Python deep learning library and an example of a neural machine translation system developed with this model has been described on the Keras blog, with sample [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/How-to-Develop-an-Encoder-Decoder-Model-for-Sequence-to-Sequence-Prediction-in-Keras.jpg"
+        },
+        {
+            "id": 9227,
+            "title": "Gentle Introduction to Statistical Language Modeling and Neural Language Models",
+            "url": "https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-11-01T00:00:00",
+            "description": "Language modeling is central to many important natural language processing tasks. Recently, neural-network-based language models have demonstrated better performance than classical methods both standalone and as part of more challenging natural language processing tasks. In this post, you will discover language modeling for natural language processing. After reading this post, you will know: Why language [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/11/Gentle-Introduction-to-Statistical-Language-Modeling-and-Neural-Language-Models.jpg"
+        },
+        {
+            "id": 9228,
+            "title": "Gentle Introduction to Global Attention for Encoder-Decoder Recurrent Neural Networks",
+            "url": "https://machinelearningmastery.com/global-attention-for-encoder-decoder-recurrent-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2017-10-31T00:00:00",
+            "description": "The encoder-decoder model provides a pattern for using recurrent neural networks to address challenging sequence-to-sequence prediction problems such as machine translation. Attention is an extension to the encoder-decoder model that improves the performance of the approach on longer sequences. Global attention is a simplification of attention that may be easier to implement in declarative deep [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/Gentle-Introduction-to-Global-Attention-for-Encoder-Decoder-Recurrent-Neural-Networks.jpg"
+        },
+        {
+            "id": 9229,
+            "title": "Deep Convolutional Neural Network for Sentiment Analysis (Text Classification)",
+            "url": "https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-30T00:00:00",
+            "description": "Develop a Deep Learning Model to Automatically Classify Movie Reviews as Positive or Negative in Python with Keras, Step-by-Step. Word embeddings are a technique for representing text where different words with similar meaning have a similar real-valued vector representation. They are a key breakthrough that has led to great performance of neural network models on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Develop-a-Word-Embedding-Model-for-Predicting-Movie-Review-Sentiment.jpg"
+        },
+        {
+            "id": 9230,
+            "title": "How to Use the Keras Functional API for Deep Learning",
+            "url": "https://machinelearningmastery.com/keras-functional-api-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2017-10-27T00:00:00",
+            "description": "The Keras Python library makes creating deep learning models fast and easy. The sequential API allows you to create models layer-by-layer for most problems. It is limited in that it does not allow you to create models that share layers or have multiple inputs or outputs. The functional API in Keras is an alternate way [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/08/multiple_inputs.png"
+        },
+        {
+            "id": 9231,
+            "title": "How to Develop a Seq2Seq Model for Neural Machine Translation in Keras",
+            "url": "https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning for Natural Language Processing",
+            "publishedOn": "2017-10-26T00:00:00",
+            "description": "The encoder-decoder model provides a pattern for using recurrent neural networks to address challenging sequence-to-sequence prediction problems, such as machine translation. Encoder-decoder models can be developed in the Keras Python deep learning library and an example of a neural machine translation system developed with this model has been described on the Keras blog, with sample [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2017/10/How-to-Define-an-Encoder-Decoder-Sequence-to-Sequence-Model-for-Neural-Machine-Translation-in-Keras.jpg"
+        }
+    ]
+}

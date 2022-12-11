@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3174,
+            "title": "Intent Classification with Convolutional Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/intent-classification-with-convolutional-neural-networks/",
+            "authors": "Koushiki Dasgupta Chaudhuri",
+            "tags": "Advanced, Classification, Datasets, NLP, Python, Text",
+            "publishedOn": "2021-12-21T00:00:00",
+            "description": "Intent classification with CNN is where spam and non-spam email classification, detection of hate speech in social media posts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/46079cnn.jpg"
+        },
+        {
+            "id": 3175,
+            "title": "A Comprehensive Guide on Fourier Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-fourier-analysis/",
+            "authors": "Subhasis Sanyal",
+            "tags": "Data Science, Data Visualization, Datasets, Guide, Python",
+            "publishedOn": "2021-12-21T00:00:00",
+            "description": "The importance of the Fourier analysis is paramount. It is one of the pillars of engineering. We can say it is a study of \"atoms of waves\".",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/fourier.png"
+        },
+        {
+            "id": 3176,
+            "title": "Traffic Signs Recognition using CNN and Keras in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/traffic-signs-recognition-using-cnn-and-keras-in-python/",
+            "authors": "Shikha Gupta",
+            "tags": "Beginner, Deep Learning, Python",
+            "publishedOn": "2021-12-21T00:00:00",
+            "description": "In this Deep Learning project, we will build a model for the classification of traffic signs recognition using CNN and Keras library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/traffic.jpg"
+        },
+        {
+            "id": 3177,
+            "title": "12 Data Plot Types for Visualisation from Concept to Code",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/",
+            "authors": "Sameer Mahajan",
+            "tags": "Beginner, Data Visualization, Python",
+            "publishedOn": "2021-12-21T00:00:00",
+            "description": "This article will study about the different data plot types for visualisation which draws these plots in plotly and seaborn / matplotlib.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/graphics2.jpg"
+        },
+        {
+            "id": 3178,
+            "title": "A Comprehensive Guide on Types of Generative Adversarial Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-types-of-generative-adversarial-networks/",
+            "authors": "Syed Abdul Gaffar Shakhadri",
+            "tags": "Advanced, Computer Vision, Guide, Python",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "This article provides a step-by-step approach to Generative Adversarial Networks. It determines the patterns and similarities in the data.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/70860test.png"
+        },
+        {
+            "id": 3179,
+            "title": "What is Customer Analytics and Why is it important?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/what-is-customer-analytics-and-why-is-it-important/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Visualization, Guide, Listicle, Python",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "In this article we are going to learn what is Customer Analytics and why is it important. It helps businesses make better business decisions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/customer_support_machine_learning.jpg"
+        },
+        {
+            "id": 3180,
+            "title": "Tensorflow For GPU Computations",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/tensorflow-for-gpu-computations/",
+            "authors": "Purnendu Shukla",
+            "tags": "Advanced, Deep Learning",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "In this blog, we will learn to enable Tensorflow For GPU Computations. It helps leverage your GPU in a simple way.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/52-1.png"
+        },
+        {
+            "id": 3181,
+            "title": "Multiclass Classification Using Transformers for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/multiclass-classification-using-transformers/",
+            "authors": "Thetechwriters",
+            "tags": "Advanced, Python, PyTorch",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "In this article, we will cover Multiclass Classification using transformers. The implementation of the BERT model using the TensorFlow hub.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/45111multi-core-cpu.shutterstock_251423881.jpg"
+        },
+        {
+            "id": 3182,
+            "title": "Malaria Cell Image Classification \u2013 An End-to-End Prediction",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/malaria-cell-image-classification-an-end-to-end-prediction/",
+            "authors": "Abdiel Goni",
+            "tags": "Beginner, Classification, Deep Learning, Python",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "Let's learn how to build a system that can detect malaria cell image classification. The system will be in the form of a web application.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/microscopic.png"
+        },
+        {
+            "id": 3183,
+            "title": "A practical Guide on Google Sheet API Integration with python API using Google Cloud Platform",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-practical-guide-on-google-sheet-api-integration-with-python-api-using-google-cloud-platform/",
+            "authors": "LAVANYA S",
+            "tags": "Advanced, Excel, Guide, Python",
+            "publishedOn": "2021-12-20T00:00:00",
+            "description": "In this article we'll use Google sheet and Google Drive APIs from the Google cloud platform to combine this Google sheet with Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/80139json.png"
+        },
+        {
+            "id": 3184,
+            "title": "Complete NLP Landscape from 1960 to 2020",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/complete-nlp-landscape-from-1960-to-2020/",
+            "authors": "Raghav Agrawal",
+            "tags": "Beginner, NLP",
+            "publishedOn": "2021-12-19T00:00:00",
+            "description": "In this article, we will learn what exactly is NLP, what makes it complex to learn and what challenges do we face while solving NLP problems",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/language_model.png"
+        },
+        {
+            "id": 3185,
+            "title": "Everything a Beginner Should Know About Polymorphism in Python[With Examples]",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/everything-a-beginner-should-know-about-polymorphism-in-pythonwith-examples/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-12-19T00:00:00",
+            "description": "Polymorphism is a term used in Python to refer to a generic function name that may be used for several kinds.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/python_tricks.jpg"
+        },
+        {
+            "id": 3186,
+            "title": "What\u2019s Happening in Backpropagation? A Behind the Scenes Look at Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/whats-happening-in-backpropagation/",
+            "authors": "Ashwin Prasad",
+            "tags": "Beginner, Deep Learning, Maths",
+            "publishedOn": "2021-12-18T00:00:00",
+            "description": "In this article, we are going to see what backpropagation is, how it works and why it is absolutely important for deep learning projects",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg"
+        },
+        {
+            "id": 3187,
+            "title": "Disaster Tweet Classification using BERT & Neural Network",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/disaster-tweet-classification-using-bert-neural-network/",
+            "authors": "Swati Rajwal",
+            "tags": "Beginner, Classification, NLP, Python, Text",
+            "publishedOn": "2021-12-18T00:00:00",
+            "description": "This article is purely demonstration-based to help you understand how to apply BERT and for Disaster Tweet Classification easily",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/Classification-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 3188,
+            "title": "Step by Step Guide to Build Image Caption Generator using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/step-by-step-guide-to-build-image-caption-generator-using-deep-learning/",
+            "authors": "Shikha Gupta",
+            "tags": "Advanced, Computer Vision, Deep Learning, Guide, Image, Image Analysis, NLP, Python",
+            "publishedOn": "2021-12-18T00:00:00",
+            "description": "Image caption generator is a process of recognizing the context of an image and annotating it with relevant captions using deep learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/11/88693feature_image.jpg"
+        },
+        {
+            "id": 3189,
+            "title": "A Review of 2021 and Trends in 2022 \u2013 A Technical Overview of the Data Industry!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-review-of-2021-and-trends-in-2022-a-technical-overview-of-the-data-industry/",
+            "authors": "Sakshi Raheja",
+            "tags": "Beginner, Computer Vision, Deep Learning, Listicle, Machine Learning, NLP, Resource",
+            "publishedOn": "2021-12-15T00:00:00",
+            "description": "In this blog, we will discuss the top trends of 2021 and predictions for 2022 in the data science industry.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/Data-science-trends.png"
+        },
+        {
+            "id": 3190,
+            "title": "Sentiment Analysis on tweets with LSTM for Beginners",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/sentiment-analysis-on-tweets-with-lstm-for-beginners/",
+            "authors": "Shri Varsheni R",
+            "tags": "Advanced, NLP, Python",
+            "publishedOn": "2021-12-15T00:00:00",
+            "description": "Sentiment analysis refers to the idea of predicting the sentiment ( happy, sad, neutral) from a particular text.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/35800output-onlinepngtools-5.png"
+        },
+        {
+            "id": 3191,
+            "title": "How to Use Yolo v5 Object Detection Algorithm for Custom Object Detection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/how-to-use-yolo-v5-object-detection-algorithm-for-custom-object-detection-an-example-use-case/",
+            "authors": "Aryan Garg",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, Python",
+            "publishedOn": "2021-12-14T00:00:00",
+            "description": "In this article, we will explain you about Yolo v5 Algorithm for Detecting & Classifying different types of 60+\u00a0Road Traffic Signs",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/70860test.png"
+        },
+        {
+            "id": 3192,
+            "title": "Custom Object Detection on the browser using TensorFlow.js",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/custom-object-detection-on-the-browser-using-tensorflow-js/",
+            "authors": "Nitin Tiwari",
+            "tags": "Advanced, Computer Vision, Object Detection, Python",
+            "publishedOn": "2021-12-14T00:00:00",
+            "description": "Custom object detection is one of the highly used techniques to identify and locate objects in images and videos.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Tensorflow-Object-Detection.jpg"
+        },
+        {
+            "id": 3193,
+            "title": "End to End Potato Leaf Disease Prediction Project \u2013 A Complete Guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/end-to-end-potato-leaf-disease-prediction-project-a-complete-guide/",
+            "authors": "Ronil Patil",
+            "tags": "Beginner, Classification, Deep Learning, Guide, Python",
+            "publishedOn": "2021-12-14T00:00:00",
+            "description": "In this article, we will develop an End to End Potato Leaf Disease Prediction project which will be based on Pure Deep Learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/tree-2787760_1920.png"
+        },
+        {
+            "id": 3194,
+            "title": "Introduction to Artificial Neural Network with Implementation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/artificial-neural-network-impementations/",
+            "authors": "Andre Vianna",
+            "tags": "Beginner, Deep Learning",
+            "publishedOn": "2021-12-14T00:00:00",
+            "description": "Artificial Neural Networks will conceptualize input neurons, functions, and activation functions for the calculation of the output neuron.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/35800output-onlinepngtools-5.png"
+        },
+        {
+            "id": 3195,
+            "title": "Top Data Science Projects to add to your Portfolio in 2021",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/top-data-science-projects-to-add-to-your-portfolio-in-2021/",
+            "authors": "Sakshi Raheja",
+            "tags": "Data Engineering, Data Mining, Data Science, Data Visualization, Datasets, Deep Learning, Education, Listicle",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "We have listed projects of data science 2021 that will help you polish your resume and gain practical experience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/26630linear_Regression.jpeg"
+        },
+        {
+            "id": 3196,
+            "title": "An End-End Guide for Speech Recognition in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/guide-for-speech-recognition/",
+            "authors": "Kashish Rastogi",
+            "tags": "Advanced, Audio, Guide, NLP, Python, Text",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "In this article, we are going to understand how speech recognition works. There are many packages available for speech recognition on PyPI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/speech-recognition.jpg"
+        },
+        {
+            "id": 3197,
+            "title": "An End-to-End Guide on Google\u2019s BERT",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/googles-bert/",
+            "authors": "Thetechwriters",
+            "tags": "Advanced, NLP, Python",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "In this guide, We will learn about Google's BERT (Bidirectional Encoder Representations from Transformers).",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/28005Featured.png"
+        },
+        {
+            "id": 3198,
+            "title": "PyeChart Data Visualization Library for Enhanced Visuals",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/pyechart-data-visualization-library-for-enhanced-visuals/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Visualization, Libraries, Python",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "The Pyechart Data library uses Echarts to generate charts. Pyecharts library provides the interface between Python and Echarts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/84934data-viz-scaled.jpg"
+        },
+        {
+            "id": 3199,
+            "title": "Time Series Forecasting with Extreme Learning Machines",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/time-series-forecasting-with-extreme-learning-machines/",
+            "authors": "Koushiki Dasgupta Chaudhuri",
+            "tags": "Beginner, Python, Time Series Forecasting",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "Making predictions about the future from historical data available (time series forecasting) is a very important tool.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/82241time_series.jpg"
+        },
+        {
+            "id": 3200,
+            "title": "A Brief Introduction To Yandex-Catboost Regressor",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/a-brief-introduction-to-yandex-catboost-regressor/",
+            "authors": "Chris Dmello",
+            "tags": "Advanced, Guide, Python, Regression",
+            "publishedOn": "2021-12-13T00:00:00",
+            "description": "CATBOOST is an open-source machine learning library developed by the search engine giant Yandex. It makes feature engineering tasks easier.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/492090_CKJ8iNahS6LCg7Ee-scaled.jpeg"
+        },
+        {
+            "id": 3201,
+            "title": "Artificial Intelligence (AI): The Ultimate Solution in Agriculture",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/artificial-intelligence-ai-the-ultimate-solution-in-agriculture/",
+            "authors": "Sonia Singla",
+            "tags": "Agriculture, Beginner, Python",
+            "publishedOn": "2021-12-11T00:00:00",
+            "description": "In this blog application of Blockchain and AI in agriculture is mentioned. ARIMA model for time series forecasting and the efforts done",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/tree-2787760_1920.png"
+        },
+        {
+            "id": 3202,
+            "title": "10 Most Popular Guest Authors on Analytics Vidhya in 2021",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/",
+            "authors": "Sakshi Raheja",
+            "tags": "Analytics Vidhya, Artificial Intelligence, Data Science, Data Visualization, Datasets, Deep Learning, Listicle, Machine Learning, python, SQL",
+            "publishedOn": "2021-12-10T00:00:00",
+            "description": "Our guest authors of 2021 AKA data science enthusiasts wrote numerous articles on our platform and added value to our community.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/av-premium-writer-club.jpg"
+        },
+        {
+            "id": 3203,
+            "title": "Introduction to TIBCO Spotfire for Interactive Data Visualization and Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2021/12/introduction-to-tibco-spotfire-for-interactive-data-visualization-and-analysis/",
+            "authors": "Prvnkmr_tamil Tamilarasan",
+            "tags": "Beginner, Data Exploration",
+            "publishedOn": "2021-12-10T00:00:00",
+            "description": "This article was published as a part of the\u00a0Data Science Blogathon Introduction\u00a0\u00a0 This article will introduce you to the Spotfire Business Intelligence tool for creating interactive visualization, performing data analysis, and data science. Spotfire a major player in the BI space is a product from TIBCO. The latest version is Spotfire 11. Spotfire Beginner-friendly and [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/12/46771intro_1.png"
+        }
+    ]
+}

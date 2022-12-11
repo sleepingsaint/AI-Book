@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14605,
+            "title": "Natural Language Processing with Hugging Face and Transformers",
+            "url": "https://neptune.ai/blog/natural-language-processing-with-hugging-face-and-transformers",
+            "authors": "Aymane Hachcham",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "NLP is a branch of machine learning that is about helping computers and intelligent systems to understand text and spoken words in the same way that humans do. NLP drives computer programs to perform a wide range of incredibly useful tasks, like text translation, responding to spoken commands, or summarizing large volumes of text in\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/NLP-with-huggingface.jpg"
+        },
+        {
+            "id": 14849,
+            "title": "Optuna vs Hyperopt: Which Hyperparameter Optimization Library Should You Choose?",
+            "url": "https://neptune.ai/blog/optuna-vs-hyperopt",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "Thinking which library should you choose for hyperparameter optimization? Been using Hyperopt for a while and feel like changing? Just heard about\u00a0Optuna\u00a0and you want to see how it works? Good! In this article I will: Let\u2019s do it. Evaluation criteria Ease of use and API In this section I want to see how to run\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Optuna-vs-Hyperopt-Which-Hyperparameter-Optimization-Library-Should-You-Choose.jpg"
+        },
+        {
+            "id": 14855,
+            "title": "Neptune.ai Named to the 2022 CB Insights AI 100 List of Most Promising AI Startups",
+            "url": "https://neptune.ai/blog/cb-insights-100-most-promising-ai-startups",
+            "authors": "Piotr Niedzwiedz",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "It\u2019s been only a couple of weeks since I announced that we raised an $8M series A, and here I am with more good news. Neptune.ai has been named to the 2022 CB Insights AI 100 List of Most Promising AI Startups. We\u2019ve been recognized in the experiment tracking and version control category. The CB\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Neptune-ai-CB-Insights-AI-100-1.jpg"
+        },
+        {
+            "id": 14857,
+            "title": "Top 12 Machine Learning Podcasts That You Want to Check as a Data Scientist",
+            "url": "https://neptune.ai/blog/top-machine-learning-podcasts",
+            "authors": "Gopal Singh Panwar",
+            "tags": null,
+            "publishedOn": "2022-11-17T00:00:00",
+            "description": "As we know, education in this digital age is available in many forms like videos, PDFs, e-books, and podcasts. Podcasts have become more popular among students or learners due to easy accessibility with electronic devices and the ability to make a good connection between the listener and speaker. \u201cThe medium of podcasting and the personal\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Top-12-Machine-Learning-Podcasts-That-You-Want-to-Check-as-a-Data-Scientist.jpg"
+        },
+        {
+            "id": 14609,
+            "title": "In-depth Guide to ML Model Debugging and Tools You Need to Know",
+            "url": "https://neptune.ai/blog/ml-model-debugging-and-tools",
+            "authors": "Akruti Acharya",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "Everyone is excited about machine learning, but only a few know and understand the limitations that keep ML from widespread adoption. ML models are great at specific tasks, but they can also get a lot of things wrong. The key to a successful project is understanding how your model(s) can fail, and preparing appropriate solutions\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Model-debugging-tools.jpg"
+        },
+        {
+            "id": 14614,
+            "title": "MLOps Architecture Guide",
+            "url": "https://neptune.ai/blog/mlops-architecture-guide",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "A successful machine learning project isn\u2019t just about deploying a working app. It\u2019s about delivering positive business value and making sure that you keep delivering it. When you work on a lot of machine learning projects, you find that some of them work well during development but never reach production. Other projects make it to\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/MLOps_architecture.jpg"
+        },
+        {
+            "id": 14615,
+            "title": "MLOps vs AIOps \u2013 What\u2019s the Difference?",
+            "url": "https://neptune.ai/blog/mlops-vs-aiops-differences",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "When we\u2019re building a product or service as a team, we need to follow specific steps to produce high-quality software in a systematic, organized, and cost-effective way. Many frameworks can help us do so, often with similar phases (from requirement elicitation to maintenance in production).\u00a0 Some frameworks are for multiple teams that work separately, and\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/MLOps-vs-AIOps-\u2013-Whats-the-Difference.jpg"
+        },
+        {
+            "id": 14618,
+            "title": "How to Make a Machine Learning Project More Likely to Succeed?",
+            "url": "https://neptune.ai/blog/how-to-make-machine-learning-project-more-likely-to-succeed",
+            "authors": "Brain John",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "The speed of innovation is extreme. It seems like every day you hear about artificial intelligence disrupting another industry or profession. Let\u2019s talk about what happens when project management meets Artificial Learning. Unlike standard products and services, productized solutions (like AI software served as a product) are never completed or fully turned over to the\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/How-to-Make-a-Machine-Learning-Project-More-Likely-to-Succeed-High-Quality.jpg"
+        },
+        {
+            "id": 14620,
+            "title": "Model Debugging Strategies: Machine Learning Guide",
+            "url": "https://neptune.ai/blog/model-debugging-strategies-machine-learning",
+            "authors": "Harshil Patel",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "You can\u2019t deploy software based on a buggy model. Debugging is a big part of model development and deployment in machine learning.\u00a0 Is there one silver-bullet strategy that works for all types of models and applications? Not really, there are plenty of different strategies for model debugging, and we\u2019re going to explore 10 of them\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/Model-Debugging-Strategies-Machine-Learning-Guide-High-Quality.jpg"
+        },
+        {
+            "id": 14860,
+            "title": "MLOps Challenges and How to Face Them",
+            "url": "https://neptune.ai/blog/mlops-challenges-and-how-to-face-them",
+            "authors": "Samadrita Ghosh",
+            "tags": null,
+            "publishedOn": "2022-11-16T00:00:00",
+            "description": "Somewhere around 2018, enterprise organizations started experimenting with Machine Learning (ML) features to build add-ons to their pre-existing solutions, or to create brand new solutions for their clients. At that time it wasn\u2019t about speed, but more about gaining an extra edge over the competition. If you threw in a few sci-fi-sounding ML features in\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/2022/10/MLOps-challenges.jpg"
+        },
+        {
+            "id": 14463,
+            "title": "Argo vs Airflow vs Prefect: How Are They Different",
+            "url": "https://neptune.ai/blog/argo-vs-airflow-vs-prefect-differences",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "We live at a stage where ML and DL software are everywhere. New startups and various other companies are adapting and integrating AI systems into their new and already existing workflows to be much more productive and efficient. These systems reduce manual tasks and deliver smart and intelligent solutions. Although they are quite proficient in\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/argo-vs-airflow-vs-prefect-1-924x1024.png"
+        },
+        {
+            "id": 14477,
+            "title": "15 Best Tools for ML Experiment Tracking and Management",
+            "url": "https://neptune.ai/blog/best-ml-experiment-tracking-tools",
+            "authors": "Patrycja Jenkner",
+            "tags": null,
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "While working on a machine learning project, getting good results from a single model-training run is one thing. But keeping all of your machine learning experiments well organized and having a process that lets you draw valid conclusions from them is quite another.\u00a0 The answer to these needs is experiment tracking. In machine learning, experiment\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Experiment-tracking-Experiment-management.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14693,
+            "title": "Best End-to-End MLOps Platforms: Leading Machine Learning Platforms That Every Data Scientist Need to Know",
+            "url": "https://neptune.ai/blog/end-to-end-mlops-platforms",
+            "authors": "Amal Menzli",
+            "tags": null,
+            "publishedOn": "2022-11-15T00:00:00",
+            "description": "Every machine learning model always has a model life cycle behind the scenes \u2013 it starts with data versioning, then data validation, often some pre-processing (to map real-world data to something that our model understands), model training, architecture, some tuning, validation for analysis, and finally deployment. If you\u2019re a data scientist, you will be repeating\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-End-to-End-MLOps-Platforms-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14455,
+            "title": "This Week in Machine Learning: Why ML Models Fail, AI & Plastic Waste, Vatican Library, and Bears",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-why-ml-models-fail-ai-plastic-waste-vatican-library-and-bears-2",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning is fascinating. New things happen every second while we\u2019re busy performing our daily tasks. If you want to know what big things have happened over the last two weeks, don\u2019t go anywhere. Here are the best picks from the last two weeks from the world of the machine learning. Enjoy the read! Weekly\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-1611.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14456,
+            "title": "This Week in Machine Learning: Algorithms to Know in 2021, Underspecification, Saving Food, and Removing Bias in ML",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-algorithms-to-know-in-2021-underspecification-saving-food-and-removing-bias-in-ml",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Welcome back, Neptuners! It\u2019s been a week so it\u2019s time for our weekly roundup. Here\u2019s a dose of the latest news from the world of machine learning and AI. We hope you find something of interest. Check out our propositions and learn new things. Enjoy the read! Weekly Roundup: November 17 \u2013 23 \u00bb\u00a0Neptune.ai blog\u00a0\u2013\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-2511.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14457,
+            "title": "This Week in Machine Learning: C.N.N in Archeology, Best Laptops, Voiceitt & Alexa, Major Scientific Breakthrough, and More!",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-c-n-n-in-archeology-best-laptops-voiceitt-alexa-major-scientific-breakthrough-and-more",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The world is an everchanging place. It evolves every day and brings so many new, exciting discoveries that it can be difficult to stay on top. The same goes for machine learning and AI. It\u2019s been two weeks since the latest weekly roundup and many new things have happened. Check out the weekly roundup for\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-0712.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14458,
+            "title": "This Week in Machine Learning: Depression Treatment, 2021 Trends, Supernova Explosions, and More",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-depression-treatment-2021-trends-supernova-explosions-and-more",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "It\u2019s almost Christmas time and the Holiday season is just around the corner! So before you indulge yourself in the great Holiday spirit, let\u2019s see what\u2019s been happening in the world of machine learning. Here\u2019s our bi-weekly summary of the best articles on the ML. Stories, news, discoveries. Let\u2019s see what\u2019s on the plate. Enjoy\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-2212.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14459,
+            "title": "This Week in Machine Learning: Language & Robotics, 10 Underappreciated Python Packages, Avocado Armchair, and More",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-language-robotics-10-underappreciated-python-packages-avocado-armchair-and-more",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The new year brings new opportunities, news, and discoveries. Today, we\u2019re bringing you the first weekly roundup in the new year 2021. What\u2019s new? What\u2019s waiting ahead? And what the past year has changed? Check our short summary of the latest news. Here are the best articles from the first one and a half of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-1201.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14460,
+            "title": "This Week in Machine Learning: ML & Language, Top AI Labs, NASA, and More!",
+            "url": "https://neptune.ai/blog/this-week-in-machine-learning-ml-language-top-ai-labs-nasa",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning and artificial intelligence help to discover new things, push the boundaries, and cross the limits of science. Every week brings tons of news, opinions, and discoveries in the world of machine learning and AI. But with our Weekly Roundup, you can easily catch up with the most important information and learn what\u2019s happened\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-roundup-2701.jpg?fit=1920%2C1377&ssl=1"
+        },
+        {
+            "id": 14462,
+            "title": "How to Track and Organize ML Experiments That You Run in Google Colab",
+            "url": "https://neptune.ai/blog/how-to-use-google-colab-in-machine-learning-deep-learning-projects",
+            "authors": "Rita Bodepudi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Have you ever tried working with a large dataset of machine learning or deep learning algorithms on Jupyter Notebooks? Well, then you probably ran into the all \u2013 too familiar and annoying \u2018memory-error.\u2019 Let\u2019s also not forget the financial pain of owning a decent enough GPU.\u00a0 Luckily for us, Google Colab comes to the rescue\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Track-and-Organize-ML-Experiments-That-You-Run-in-Google-Colab.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14464,
+            "title": "Good Design in ML Applications With Konrad Piercey",
+            "url": "https://neptune.ai/blog/good-design-machine-learning",
+            "authors": "Patrycja Jenkner, Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Some time ago, Konrad Piercey, a Lead Product Designer at Delivery Hero, was one of the speakers on the MLOps Community meetup in Berlin. He talked about good design in ML applications \u2013 why it\u2019s a growing topic, what it actually means and how to start implementing it.\u00a0 And we thought that it\u2019s a very\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/uploads/good-design-in-ml-applications-with-Konrad-Piercey-1-607x1024.png"
+        },
+        {
+            "id": 14465,
+            "title": "How to Set Up Continuous Integration for Machine Learning With Github Actions and Neptune: Step by Step Guide",
+            "url": "https://neptune.ai/blog/continuous-integration-for-machine-learning-with-github-actions-and-neptune",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In software development, Continuous Integration (CI) is a practice of merging code changes from the entire team to the shared codebase often. Before any new code can be merged it is tested and checked for quality automatically.\u00a0 CI makes the codebase up-to-date, clean, and tested by design and helps to find any problems with it\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Set-Up-Continuous-Integration-for-Machine-Learning-with-Github-Actions-and-Neptune-Step-by-Step-Guide.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14466,
+            "title": "Your First MLOps System: What Does Good Look Like? With Andy McMahon",
+            "url": "https://neptune.ai/blog/first-mlops-system-with-andy-mcmahon",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This article was originally an episode of the MLOps Live, an interactive Q&A session where ML practitioners answer questions from other ML practitioners.\u00a0 Every episode is focused on one specific ML topic, and during this one, we talked to Andy McMahon about your first MLOps system.\u00a0 You can watch it on YouTube: Or listen to\u2026",
+            "thumbnail": "https://neptune.ai/wp-content/themes/neptune/img/icon-meta-time.svg"
+        },
+        {
+            "id": 14467,
+            "title": "Time Series Projects: Tools, Packages, and Libraries That Can Help",
+            "url": "https://neptune.ai/blog/time-series-tools-packages-libraries",
+            "authors": "Enes Zvorni\u010danin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Since you are here, you probably know that time series data is a bit different than static ML data. So when working on time series projects, oftentimes, Data Scientists or ML Engineers use specific tools and libraries. Or they use commonly known tools that have proved to be well adjusted to time series projects. We\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Time-series-tools-packages-libraries.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14468,
+            "title": "Best Machine Learning Model Management Tools That You Need to Know",
+            "url": "https://neptune.ai/blog/best-machine-learning-model-management-tools",
+            "authors": "Aayush Bajaj",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Working with Machine Learning models requires a different set of organizational capabilities as opposed to building software. These new sets of capabilities are driven by MLOps \u2013 which is further divided into different ML model processes, one of which is Model Management.\u00a0 Machine Learning model management is a class of technologies and processes that work\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Machine-Learning-Model-Management-Tools-That-You-Need-to-Know-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14469,
+            "title": "How to Make Your Sacred Projects Easy to Share and Collaborate On",
+            "url": "https://neptune.ai/blog/sacred-projects-easy-to-share-and-collaborate-on",
+            "authors": "Rita Bodepudi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Gone are the days of drawn-out spreadsheets detailing chaotic ML experiments. With platforms such as Sacred, you can log experiments with peace of mind. Sacred does the good work for you: it keeps track of your parameters, model architectures, dataset changes, training jobs, artifacts, metrics, meta, debugging, and more.\u00a0 In essence, Sacred is a Python\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/How-to-Make-Your-Sacred-Projects-Easy-to-Share-and-Collaborate-On-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14470,
+            "title": "Knowledge Graphs With Machine Learning [Guide]",
+            "url": "https://neptune.ai/blog/web-scraping-and-knowledge-graphs-machine-learning",
+            "authors": "Aravind CR",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "You need to get some information online. For example, a few paragraphs about Usain Bolt. You can copy and paste the information from Wikipedia, it won\u2019t be much work.\u00a0 But what if you needed to get information about all competitions that Usain Bolt had taken part in, and all related stats about him and his\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Knowledge-graphs.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14471,
+            "title": "Hugging Face Pre-trained Models: Find the Best One for Your Task",
+            "url": "https://neptune.ai/blog/hugging-face-pre-trained-models-find-the-best",
+            "authors": "Natasha Sharma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "When you are working on a Machine learning problem, adapting an existing solution and repurposing it can help you get to a solution much faster. Using existing models, not just aid machine learning engineers or data scientists but also helps companies to save computational costs as it requires less training. There are many companies that\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Hugging-Face-pre-trained-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14472,
+            "title": "Serving Machine Learning Models With Docker: 5 Mistakes You Should Avoid",
+            "url": "https://neptune.ai/blog/serving-ml-models-with-docker-mistakes",
+            "authors": "Akinwande Komolafe",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "As you would already know that Docker is a tool that allows you to create and deploy isolated environments using containers for running your applications along with their dependencies. While we are at it let us briefly brush up on some basic concepts around Docker before we make way for the main topic. Why should\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Serving-ML-models-with-Docker.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14473,
+            "title": "Most Popular Programming Languages & Why They\u2019re Useful in Machine Learning",
+            "url": "https://neptune.ai/blog/programming-languages-machine-learning",
+            "authors": "Rita Bodepudi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Online forums and data science blogs have plenty of recommendations: learn that language, keep up with that framework, have you looked at that library? It can be hard to keep up with all the latest technologies, especially in machine learning, a field that changes almost daily.\u00a0 In this article, we will take it back to\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Most-Popular-Programming-Languages-Why-Theyre-Useful-in-Machine-Learning-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1394,
+            "title": "Amazon Polly introduces a new French female voice, L\u00e9a",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-introduces-a-new-french-female-voice-lea/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2018-06-05T00:00:00",
+            "description": "Amazon Polly now offers a choice of a second female French voice, L\u00e9a, in addition to the current female voice, C\u00e9line. Amazon Polly also has a French male voice, Mathieu. L\u00e9a is a warm and natural-sounding voice with Parisian accent. Listen to the spoken introduction from L\u00e9a. Listen\u00a0now Voiced by Amazon Polly With the addition [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1395,
+            "title": "How to scale sentiment analysis using Amazon Comprehend, AWS Glue and Amazon Athena",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-to-scale-sentiment-analysis-using-amazon-comprehend-aws-glue-and-amazon-athena/",
+            "authors": "Roy Hasson",
+            "tags": "Amazon Comprehend, Amazon QuickSight, Analytics, Artificial Intelligence",
+            "publishedOn": "2018-06-04T00:00:00",
+            "description": "Today consumers are encouraged to express their satisfaction or frustration with a company or product through social media, blogs, and review platforms. Sentiment analysis can help companies better understand their customers\u2019 opinions and needs and make more informed business decisions. Amazon released a dataset to the public with over 130 million product reviews in multiple [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/01/glue-comprehend-sentiment-6.gif"
+        },
+        {
+            "id": 1396,
+            "title": "Use Amazon Translate to create multilingual content on WordPress sites",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-to-create-multilingual-content-on-wordpress-sites/",
+            "authors": "Tomasz Stachlewski",
+            "tags": "Amazon Polly, Amazon Translate",
+            "publishedOn": "2018-06-04T00:00:00",
+            "description": "At the beginning of this year, we launched an Amazon Polly plugin for WordPress with the help of our partner, WP Engine. This plugin enabled creators/bloggers who publish their posts or sites using WordPress to easily add Text-to-Speech capabilities and convert their web content into high-quality audio formats. Since then, we\u2019ve improved the plugin by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/04/Translate7-1.png"
+        },
+        {
+            "id": 1397,
+            "title": "Some quick thoughts on the public discussion regarding facial recognition and Amazon Rekognition this past week",
+            "url": "https://aws.amazon.com/blogs/machine-learning/some-quick-thoughts-on-the-public-discussion-regarding-facial-recognition-and-amazon-rekognition-this-past-week/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon Rekognition, Amazon Rekognition Video",
+            "publishedOn": "2018-06-01T00:00:00",
+            "description": "We have seen a lot of discussion this past week about the role of Amazon Rekognition in facial recognition, surveillance, and civil liberties, and we wanted to share some thoughts.\r\n\r\nAmazon Rekognition is a service we announced in 2016. It makes use of new technologies \u2013 such as deep learning \u2013 and puts them in the hands of developers in an easy-to-use, low-cost way. Since then, we have seen customers use the image and video analysis capabilities of Amazon Rekognition in ways that materially benefit both society (e.g. preventing human trafficking, inhibiting child exploitation, reuniting missing children with their families, and building educational apps for children), and organizations (enhancing security through multi-factor authentication, finding images more easily, or preventing package theft). Amazon Web Services (AWS) is not the only provider of services like these, and we remain excited about how image and video analysis can be a driver for good in the world, including in the public sector and law enforcement.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1398,
+            "title": "The importance of hyperparameter tuning for scaling deep learning training to multiple GPUs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/",
+            "authors": "Sina Afrooze",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-06-01T00:00:00",
+            "description": "Parallel processing with multiple GPUs is an important step in scaling training of deep models. In each training iteration, typically a small subset of the dataset, called a mini-batch, is processed. When a single GPU is available, processing of the mini-batch in each training iteration is handled by this GPU. When training with multiple GPUs, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1399,
+            "title": "Building your personal translator with Amazon Translate and Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-your-personal-translator-with-amazon-translate-and-amazon-polly/",
+            "authors": "Sinisa Mikasinovic",
+            "tags": "Amazon Polly, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-05-31T00:00:00",
+            "description": "The most common challenge we can face when traveling abroad is the language barrier. Whether lost or not, we\u2019ll have to say at least one of these: \u201cWhere is the best place to eat and drink?\u201d, \u201cWhere is this hotel?\u201d, and \u201cWhere is the bathroom?\u201d Now imagine a more difficult scenario: We\u2019re traveling to Spain [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1400,
+            "title": "Load test and optimize an Amazon SageMaker endpoint using automatic scaling",
+            "url": "https://aws.amazon.com/blogs/machine-learning/load-test-and-optimize-an-amazon-sagemaker-endpoint-using-automatic-scaling/",
+            "authors": "BK Chaurasiya",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-05-30T00:00:00",
+            "description": "Once you have trained, optimized and deployed your machine learning (ML) model, the next challenge is to host it in such a way that consumers can easily invoke and get predictions from it. Many customers have consumers who are either external or internal to their organizations and want to use the model for predictions (ML [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/17/load-test-sagemaker-7.gif"
+        },
+        {
+            "id": 1401,
+            "title": "Using R with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-r-with-amazon-sagemaker/",
+            "authors": "Ryan Garner",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-05-29T00:00:00",
+            "description": "July, 2022: This post was reviewed and updated for relevancy and accuracy, with an updated AWS CloudFormation Template. December 2020: Post updated with changes required for Amazon SageMaker SDK v2 This blog post describes how to train, deploy, and retrieve predictions from a machine learning (ML) model using\u00a0Amazon SageMaker\u00a0and R. The model predicts abalone age [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/18/sagemaker-r-6.gif"
+        },
+        {
+            "id": 1402,
+            "title": "Amazon Translate is now supported in AWS Mobile SDK for Android and iOS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-is-now-supported-in-aws-mobile-sdk-for-android-and-ios/",
+            "authors": "Woo Kim",
+            "tags": "Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2018-05-25T00:00:00",
+            "description": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Support for Amazon Translate API is now available in the AWS Mobile SDK for Android and iOS. Now, you can use the AWS Mobile SDK to develop and publish multilingual mobile apps quickly and easily with Amazon Translate. By [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1403,
+            "title": "Model Server for Apache MXNet adds support for serving Gluon models",
+            "url": "https://aws.amazon.com/blogs/machine-learning/model-server-for-apache-mxnet-adds-support-for-serving-gluon-models/",
+            "authors": "Rakesh Vasudevan, Vamshidhar Dantu, Hagay Lupesko",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2018-05-25T00:00:00",
+            "description": "Today AWS released Model Server for Apache MXNet (MMS) v0.4, which adds support for serving Gluon models. Gluon is an imperative and dynamic interface for MXNet, which enables rapid model development, while maintaining MXNet performance. With this release, MMS adds support for packaging and serving Gluon models at scale. In this blog post, we will [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1404,
+            "title": "Using Pipe input mode for Amazon SageMaker algorithms",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-pipe-input-mode-for-amazon-sagemaker-algorithms/",
+            "authors": "Can Balioglu, David Arpin, Ishaaq Chandy",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-05-23T00:00:00",
+            "description": "Today, we are introducing Pipe input mode support for the Amazon SageMaker built-in algorithms. With Pipe input mode, your dataset is streamed directly to your training instances instead of being downloaded first. This means that your training jobs start sooner, finish quicker, and need less disk space. Amazon SageMaker algorithms have been engineered to be [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/23/pipe-mode-social.gif"
+        },
+        {
+            "id": 1405,
+            "title": "Apache MXNet (incubating) adds support for Keras 2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apache-mxnet-incubating-adds-support-for-keras-2/",
+            "authors": "Lai Wei, Kalyanee Chendke, Aaron Markham, Sandeep Krishnamurthy",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-05-21T00:00:00",
+            "description": "The Keras-MXNet deep learning backend is available now, thanks to contributors to the Keras and Apache MXNet (incubating) open source projects. Keras is a high-level neural network API written in Python. It\u2019s popular for its fast and easy prototyping of CNNs and RNNs. Keras developers can now use the high-performance MXNet deep learning engine for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1406,
+            "title": "Perform a large-scale principal component analysis faster using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/perform-a-large-scale-principal-component-analysis-faster-using-amazon-sagemaker/",
+            "authors": "Elena Ehrlich, Hanif Mahboobi",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-05-17T00:00:00",
+            "description": "In this blog post, we conduct a performance comparison for PCA using Amazon SageMaker, Spark ML, and Scikit-Learn on high-dimensional datasets. SageMaker consistently showed faster computational performance. Refer Figures (1) and (2) at the bottom to see the speed improvements. Principal Component Analysis Principal Component Analysis (PCA) is an unsupervised learning algorithm that attempts to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/16/pca-sagemaker-3-2.jpg"
+        },
+        {
+            "id": 1407,
+            "title": "New Developer Preview: Use Amazon Polly voices in Alexa skills",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-developer-preview-use-amazon-polly-voices-in-alexa-skills/",
+            "authors": "Woo Kim",
+            "tags": "Alexa, Amazon Polly",
+            "publishedOn": "2018-05-16T00:00:00",
+            "description": "<a href=\"https://aws.amazon.com/polly\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon Polly</a> is a service that turns text into lifelike speech. Using Amazon Polly you can create applications that talk and build entirely new categories of speech-enabled products. Starting today, you can <a href=\"https://alexa.au1.qualtrics.com/jfe/form/SV_bruwDnML6hZCKmp\" target=\"_blank\" rel=\"noopener noreferrer\">apply</a> to participate in a developer preview that allows you to use eight English (U.S.) Amazon Polly voices to narrate your Alexa skills.\r\n\r\nIf your skill uses only a single voice today, you can try changing the voice or adding different voices in the right places to provide an even more engaging experience. Developers in the preview can select a different voice for any utterance by constructing output speech using the Structured Speech Markup Language (SSML) and specifying an Amazon Polly voice using the <code class=\"lang-code\">voice</code> tag for free in Alexa skills. Note that SSML tags that are only available through the Amazon Polly service and not through Alexa skills will not be available when you use this new capability.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/15/Polly-in-Alexa-Skills_Social.png"
+        },
+        {
+            "id": 1408,
+            "title": "Optimized TensorFlow 1.8 now available in the AWS Deep Learning AMIs to accelerate training on Amazon EC2 C5 and P3 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimized-tensorflow-1-8-now-available-in-the-aws-deep-learning-amis-to-accelerate-training-on-amazon-ec2-c5-and-p3-instances/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-05-15T00:00:00",
+            "description": "The\u00a0AWS Deep Learning AMIs\u00a0for\u00a0Ubuntu\u00a0and\u00a0Amazon Linux\u00a0now come with advanced optimizations for TensorFlow 1.8 to deliver higher-performance training for Amazon EC2 C5 and P3 instances. For CPU-based training scenarios, the Amazon Machine Images (AMIs) now include TensorFlow 1.8, built with Intel\u2019s Advanced Vector Instructions (AVX), SSE, and FMA instruction sets to accelerate vector and floating-point computations. The [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1409,
+            "title": "Running fast.ai notebooks with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-fast-ai-notebooks-with-amazon-sagemaker/",
+            "authors": "Matthew McClean",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-05-15T00:00:00",
+            "description": "Update 25 JAN 2019:\u00a0fast.ai has released a new version of their library and MOOC making the following blog post outdated. For the latest instructions on setting up the library and course on a SageMaker Notebook instance please refer to the instructions outlined here:\u00a0https://course.fast.ai/start_sagemaker.html fast.ai\u00a0is an organization dedicated to making the power of deep learning accessible [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/10/running-fast-ai-sagemaker-10.gif"
+        },
+        {
+            "id": 1410,
+            "title": "Simulate quantum systems on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simulate-quantum-systems-on-amazon-sagemaker/",
+            "authors": "Eric Kessler",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-05-08T00:00:00",
+            "description": "Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. But besides streamlining the machine learning (ML) workflow, Amazon SageMaker also provides a serverless, powerful, and easy-to-use compute environment to execute and parallelize a large spectrum of scientific computing [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/04/Quantum2-2.png"
+        },
+        {
+            "id": 1411,
+            "title": "Amazon Pinpoint campaigns driven by machine learning on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-pinpoint-campaigns-driven-by-machine-learning-on-amazon-sagemaker/",
+            "authors": "Dylan Tong",
+            "tags": "Amazon Pinpoint, Amazon SageMaker",
+            "publishedOn": "2018-05-04T00:00:00",
+            "description": "In this blog post, I want to continue the theme of demonstrating agility, cost efficiency, and how AWS can help you innovate through your customer analytics practice. Many of you are exploring how AI can enhance their customer 360o initiatives. I\u2019ll demonstrate how targeted campaigns can be driven by machine learning (ML) through solutions that leverage Amazon SageMaker and Amazon Pinpoint.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/01/Pinpoint2.png"
+        },
+        {
+            "id": 1412,
+            "title": "Use pre-trained models with Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-pre-trained-models-with-apache-mxnet/",
+            "authors": "Julien Simon",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2018-05-03T00:00:00",
+            "description": "In this blog post, I\u2019ll show you how to use multiple pre-trained models with Apache MXNet. Why would you want to try multiple models? Why not just pick the one with the best accuracy? As we will see later in the blog post, even though these models have been trained on the same data set and optimized for maximum accuracy, they do behave slightly differently on specific images.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/01/Julien.png"
+        },
+        {
+            "id": 1413,
+            "title": "Policybazaar.com adopts Amazon Polly to enhance efficiency and customer experience",
+            "url": "https://aws.amazon.com/blogs/machine-learning/policybazaar-com-adopts-amazon-polly-to-enhance-efficiency-and-customer-experience/",
+            "authors": "Ashish Gupta",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-05-02T00:00:00",
+            "description": "Through the adoption of Amazon Polly, we have taken our customer service to the next level, resulting in higher output and greater productivity.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/02/PolicyBazaar.png"
+        },
+        {
+            "id": 1414,
+            "title": "Maximize training performance with Gluon data loader workers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/maximize-training-performance-with-gluon-data-loader-workers/",
+            "authors": "Sina Afrooze",
+            "tags": "Apache MXNet on AWS, AWS Data Pipeline",
+            "publishedOn": "2018-04-30T00:00:00",
+            "description": "With recent advances in CPU and GPU technology, training complex and deep neural network models in a few hours is within reach for many state of-the-art deep models. However, when you use a system with such high processing throughput potential, the required data for the processing pipeline must be ready before each iteration.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/23/Gluon1.jpg"
+        },
+        {
+            "id": 1415,
+            "title": "Use the Amazon SageMaker local mode to train on your notebook instance",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance/",
+            "authors": "David Arpin, Eitan Sela",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-04-27T00:00:00",
+            "description": "This blog post shows you how to use the Amazon SageMaker Python SDK local mode on a recently launched multi-GPU notebook instance type to quickly test a large scale image classification model.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/20/SageMakerLocal1-480x630.jpg"
+        },
+        {
+            "id": 1416,
+            "title": "AWS Deep Learning AMIs now with optimized Chainer 4 and CNTK 2.5.1 to accelerate deep learning on Amazon EC2 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-with-optimized-chainer-4-and-cntk-2-5-1-to-accelerate-deep-learning-on-amazon-ec2-instances/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2018-04-26T00:00:00",
+            "description": "The AWS Deep Learning AMIs for Ubuntu and Amazon Linux now come with Chainer 4 and Microsoft Cognitive Toolkit (CNTK) 2.5.1 configured with optimizations for higher performance execution across Amazon EC2 instances. ",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/25/DeepLearningAMIs1.jpg"
+        },
+        {
+            "id": 1417,
+            "title": "Use the built-in Amazon SageMaker Random Cut Forest algorithm for anomaly detection",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/",
+            "authors": "Chris Swierczewski, Julio Delgado Mangas, Luka Krajcar, Madhav Jha",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-04-25T00:00:00",
+            "description": "Today, we are launching support for Random Cut Forest (RCF) as the latest built-in algorithm for Amazon SageMaker. RCF is an unsupervised learning algorithm for detecting anomalous data points or outliers within a dataset. This blog post introduces the anomaly detection problem, describes the Amazon SageMaker RCF algorithm, and demonstrates the use of the Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/25/AnomalyDetection7.png"
+        },
+        {
+            "id": 1418,
+            "title": "Amazon Polly achieves HIPAA eligibility",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-achieves-hipaa-eligibility/",
+            "authors": "Binny Peh",
+            "tags": "Amazon Polly",
+            "publishedOn": "2018-04-24T00:00:00",
+            "description": "Amazon Polly is a service that turns text into lifelike speech, allowing you to create applications that talk, and build entirely new categories of speech-enabled products. The API-based Text-to-Speech service is now HIPAA eligible.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1419,
+            "title": "Easily perform facial analysis on live feeds by creating a serverless video analytics environment using Amazon Rekognition Video and Amazon Kinesis Video Streams",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easily-perform-facial-analysis-on-live-feeds-by-creating-a-serverless-video-analytics-environment-with-amazon-rekognition-video-and-amazon-kinesis-video-streams/",
+            "authors": "Ben Snively",
+            "tags": "Amazon Rekognition Video, Kinesis Video Streams",
+            "publishedOn": "2018-04-23T00:00:00",
+            "description": "In this blog post, we\u2019ll use your webcam on your laptop to send a live feed to an Amazon Kinesis Video Stream. From there, a processor within Amazon Rekognition Video analyzes the feed and compares it to a collection we create.  The output matches will get sent to us via an email through an integration with AWS Lambda and Amazon Simple Notification Service (Amazon SNS).",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/21/FacialRekognition1.png"
+        },
+        {
+            "id": 1420,
+            "title": "Build text analytics solutions with Amazon Comprehend and Amazon Relational Database Service",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-text-analytics-solutions-with-amazon-comprehend-and-amazon-relational-database-service/",
+            "authors": "Ben Snively, Natasha Alexeeva",
+            "tags": "Amazon Aurora, Amazon Comprehend, Amazon RDS, Amazon Simple Storage Service (S3), AWS Lambda",
+            "publishedOn": "2018-04-19T00:00:00",
+            "description": "In this blog post, we will show you how to get started building rich text analytics views from your database, without having to learn anything about machine learning for natural language processing models. We\u2019ll do this by leveraging Amazon Comprehend, paired with Amazon Aurora-MySQL and AWS Lambda.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/13/Comprehend1.png"
+        },
+        {
+            "id": 1421,
+            "title": "Build automatic analysis of body language to gauge attention and engagement using Amazon Kinesis Video Streams and Amazon AI Services",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-automatic-analysis-of-body-language-to-gauge-attention-and-engagement-using-amazon-kinesis-video-streams-and-amazon-ai-services/",
+            "authors": "Ned Sahin, Runpeng Liu, Joseph Salisbury, Lillian Bu",
+            "tags": "Amazon Rekognition Video, AWS Lambda, Kinesis Video Streams",
+            "publishedOn": "2018-04-12T00:00:00",
+            "description": "This is a guest blog post by Ned T. Sahin, PhD (Brain Power LLC and Harvard University), Runpeng Liu (Brain Power LLC and MIT), Joseph Salisbury, PhD (Brain Power LLC), and Lillian Bu (Brain Power LLC and MIT).\u00a0 Producers of content (from ads to games to teaching materials) usually judge the success of their content [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/08/fidgetology-social.jpg"
+        },
+        {
+            "id": 1422,
+            "title": "Use facial recognition to deliver high-end consumer experience with Amazon Kinesis Video Streams and Amazon Rekognition Video",
+            "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-customer-service-using-amazon-kinesis-video-streams-and-amazon-rekognition-video/",
+            "authors": "Nick Corbett",
+            "tags": "Amazon Rekognition Video, Kinesis Video Streams",
+            "publishedOn": "2018-04-11T00:00:00",
+            "description": "Whatever your use case, real-time face recognition with Kinesis Video Streams and Rekognition Video is easy to set up and doesn\u2019t require expensive hardware. The entire system built here is serverless and Rekognition Video qualifies for the AWS Free Tier.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/04/10/AmazonCom-647x630.png"
+        },
+        {
+            "id": 1423,
+            "title": "AWS Deep Learning AMIs now with optimized TensorFlow 1.7 for faster training on Amazon EC2 C5 and P3 instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-now-with-optimized-tensorflow-1-7-for-faster-training-on-amazon-ec2-c5-and-p3-instances/",
+            "authors": "Sumit Thakur",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-04-10T00:00:00",
+            "description": "The AWS Deep Learning AMIs for Ubuntu and Amazon Linux now come with TensorFlow 1.7, which is built with advanced optimizations for high-performance training across Amazon EC2 instance families. This is an update to the optimized build of TensorFlow 1.6 that we launched in late March. Faster training with optimized TensorFlow 1.7 The Amazon Machine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        }
+    ]
+}

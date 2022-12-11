@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 14474,
+            "title": "8 Best Data Science and Machine Learning Platforms For MLOps",
+            "url": "https://neptune.ai/blog/8-best-data-science-and-machine-learning-platforms-for-mlops",
+            "authors": "Pawel Kijko",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "From gathering a team and preparing data to deployment, monitoring, and management of machine learning models, MLOps takes a lot of time, resources, and technology. It\u2019s a complex network of processes and practices that require a certain type of technology. Statistics show that AI technology adoption is still low in businesses as only 14.6% of\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/8-Best-Data-Science-and-Machine-Learning-Platforms-For-MLOps-in-2021-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14475,
+            "title": "Where Can You Learn About MLOps? The Best Courses, Books, Articles, and Podcasts to Learn MLOps",
+            "url": "https://neptune.ai/blog/learn-mlops-books-articles-podcasts",
+            "authors": "Pawel Kijko, Abhishek Jha",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "MLOps is not a piece of cake. Especially in today\u2019s changing environment. There are many challenges\u2014construction, integrating, testing, releasing, deployment, and infrastructure management. You need to follow good practices and know how to adjust to the challenges. And if you don\u2019t learn and develop your knowledge, you\u2019ll fall out of the loop. The right resources\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Books-Articles-and-Podcasts-to-Learn-MLOps-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14476,
+            "title": "The Best MLOps Tools and How to Evaluate Them",
+            "url": "https://neptune.ai/blog/best-mlops-tools",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In one of our articles\u2014The Best Tools, Libraries, Frameworks and Methodologies that Machine Learning Teams Actually Use \u2013 Things We Learned from 41 ML Startups\u2014Jean-Christophe Petkovich, CTO at Acerta, explained how their ML team approaches MLOps. According to him, there are several ingredients for a complete MLOps system: It\u2019s a great high-level summary of how\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-MLOps-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14478,
+            "title": "Best ML Model Registry Tools",
+            "url": "https://neptune.ai/blog/ml-model-registry-best-tools",
+            "authors": "Gourav Bais",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "A model registry is a central repository that is used to version control Machine Learning (ML) models. It simply tracks the models while they move between training, production, monitoring, and deployment. It stores all the predominant information such as: metadata, lineage, model versions, annotations, and training jobs. As the model registry is shared by multiple\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-registry-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14479,
+            "title": "5 Tools That Will Help You Setup Production ML Model Testing",
+            "url": "https://neptune.ai/blog/tools-ml-model-testing",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Developing a machine learning or a deep learning model seems like a relatively straightforward task. It usually involves research, collecting and preprocessing the data, extracting features, building and training the model, evaluation, and inference. Most of the time is consumed in the data-preprocessing phase, followed by the modeling-building phase. If the accuracy is not up\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-model-testing-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14480,
+            "title": "Leveraging Unlabeled Image Data With Self-Supervised Learning or Pseudo Labeling With Mateusz Opala",
+            "url": "https://neptune.ai/blog/self-supervised-learning-pseudo-labeling-with-mateusz-opala",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This article was originally an episode of MLOps Live, an interactive Q&A session where ML practitioners answer questions from other ML practitioners.\u00a0 Every episode is focused on one specific ML topic, and during this one, we talked to Mateusz Opala about leveraging unlabeled image data with self-supervised learning or pseudo-labeling.\u00a0 You can watch it on\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Mateusz-Opala-Featured-Image.jpg?fit=2400%2C1260&ssl=1"
+        },
+        {
+            "id": 14482,
+            "title": "ML Model Testing: 4 Teams Share How They Test Their Models",
+            "url": "https://neptune.ai/blog/ml-model-testing-teams-share-how-they-test-models",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Despite the progress of the machine learning industry in developing solutions that help data teams and practitioners operationalize their machine learning models, testing these models to make sure they\u2019ll work as intended remains one of the most challenging aspects of putting them into production.\u00a0 Most processes used to test ML models for production usage are\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-model-testing-teams.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14483,
+            "title": "4 Ways Machine Learning Teams Use CI/CD in Production",
+            "url": "https://neptune.ai/blog/ways-ml-teams-use-ci-cd-in-production",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "One of the core concepts in DevOps that is now making its way to machine learning operations (MLOps) is CI/CD\u2014Continuous Integration and Continuous Delivery or Continuous Deployment. CI/CD as a core DevOps practice embraces tools and methods to deliver software applications reliably by streamlining the building, testing, and deployment of your applications to production. Let\u2019s\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/CICD-in-production-teams.jpg?fit=1200%2C628"
+        },
+        {
+            "id": 14484,
+            "title": "How to Solve the Data Ingestion and Feature Store Component of the MLOps Stack",
+            "url": "https://neptune.ai/blog/data-ingestion-and-feature-store-component-mlops-stack",
+            "authors": "Manuel Martin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "As every practitioner in the Data Science space knows, Data is the primary fuel for Machine Learning. A trustworthy data sourcing and high-quality data collection and processing can empower a vast range of potential ML use cases. But having a well-governed Data Warehouse requires a thorough devotion from every team in the organization to look\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Feature-store-and-data-ingestion-mlops.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14485,
+            "title": "ARIMA vs Prophet vs LSTM for Time Series Prediction",
+            "url": "https://neptune.ai/blog/arima-vs-prophet-vs-lstm",
+            "authors": "Konstantin Kutzkov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Assuming we subscribe to a linear understanding of time and causality, as Dr. Sheldon Cooper says, then representing historical events as a series of values and features observed over time provides the foundations for learning from the past. However, time series are somewhat different from other datasets, including sequential data like text or DNA sequences.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ARIMA-Prophet-LSTM-for-time-series.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14486,
+            "title": "How to Select a Model For Your Time Series Prediction Task [Guide]",
+            "url": "https://neptune.ai/blog/select-model-for-time-series-prediction-task",
+            "authors": "Joos Korstanje",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Working with time series data? Here\u2019s a guide for you. In this article, you will learn how to compare and select time series models based on predictive performance. In the first part, you will be introduced to numerous models for time series. This part is divided into three parts: classical time series models, supervised models,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Select-time-series-models.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14487,
+            "title": "Best Tools to Do ML Model Monitoring",
+            "url": "https://neptune.ai/blog/ml-model-monitoring-best-tools",
+            "authors": "Jakub Czakon",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you deploy models to production sooner or later, you will start looking for ML model monitoring tools. When your ML models impact the business (and they should), you just need visibility into \u201chow things work\u201d. The first moment you really feel this is when things stop working. With no model monitoring set up, you\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-monitoring-tools.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14488,
+            "title": "Feature Selection Methods and How to Choose Them",
+            "url": "https://neptune.ai/blog/feature-selection-methods",
+            "authors": "Micha\u0142 Oleszak",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Have you ever found yourself sitting in front of the screen wondering what kind of features will help your machine learning model learn its task best? I bet you have. Data preparation tends to consume vast amounts of data scientists\u2019 and machine learning engineers\u2019 time and energy, and making the data ready to be fed\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Feature-selection-methods.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14489,
+            "title": "Exploratory Data Analysis for Tabular Data",
+            "url": "https://neptune.ai/blog/exploratory-data-analysis-for-tabular-data",
+            "authors": "Mirza Mujtaba",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Often on having a look at any dataset, we see a bunch of rows and columns filled with numbers or even with some alphabets, words, or abbreviations. Understanding this data and attempting to gain as many insights as possible is a smart strategy to begin the process of model development. In this article, we will\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/EDA-for-tabular-data.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14490,
+            "title": "Building ML Pipeline: 6 Problems & Solutions [From a Data Scientist\u2019s Experience]",
+            "url": "https://neptune.ai/blog/building-ml-pipeline-problems-solutions",
+            "authors": "Thomas Epelbaum",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Long gone is the time where ML jobs start and end with a jupyter notebook.\u00a0\u00a0 Since all companies want to deploy their models into production, having an efficient and rigorous MLOps pipeline to do so is a real challenge that ML engineers have to face nowadays.\u00a0 But creating such a pipeline is not an easy\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-pipeline-problems-solutions.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14491,
+            "title": "Best Workflow and Pipeline Orchestration Tools: Machine Learning Guide",
+            "url": "https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools",
+            "authors": "Krissanawat Kaewsanmua",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning is rampaging through the IT world, and driving a lot of high-end tech. It created a revolution of automation and flexibility for researchers and businesses.\u00a0 When it comes to machine learning, workflows (or pipelines) are an essential component that drives the overall project.\u00a0 In this article, we\u2019ll explore what exactly workflows and pipelines\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Best-Workflow-and-Pipeline-Orchestration-Tools-Machine-Learning-Guide-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14492,
+            "title": "Model Deployment Challenges: 6 Lessons From 6 ML Engineers",
+            "url": "https://neptune.ai/blog/model-deployment-challenges-lessons-from-ml-engineers",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Deploying machine learning models is hard! If you don\u2019t believe me, ask any ML engineer or data team that has been asked to put their models into production. To further back up this claim, Algorithima\u2019s \u201c2021 State of Enterprise ML\u201d reports that the time required for organizations to deploy a machine learning model is increasing,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-Deployment-Challenges-\u2013-6-Lessons-From-6-ML-Engineers-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14493,
+            "title": "Recommender Systems: Lessons From Building and Deployment",
+            "url": "https://neptune.ai/blog/recommender-systems-lessons-from-building-and-deployment",
+            "authors": "Dhruvil Karani",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "If you look at recommender systems papers, a large number of them come from the industry instead of academia. This is because RecSys is actually a practical problem. RecSys for e-commerce could be considerably different than RecSys for social media, as the business objectives differ. In addition, every novel idea needs to be tested in\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Recommender-system-lessons.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14494,
+            "title": "Pillars of MLOps and How to Implement Them",
+            "url": "https://neptune.ai/blog/pillars-of-mlops-and-how-to-implement-them",
+            "authors": "Mateusz Kwasniak",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine Learning Operations or MLOps is a topic that is increasingly gaining traction over the last few years. As companies keep investing in Artificial Intelligence and Machine Learning after seeing the potential benefits of using ML applications in their products, the number of machine learning solutions is growing. Moreover, many projects that have been started,\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-pillars.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14495,
+            "title": "Machine Learning Model Management: What It Is, Why You Should Care, and How to Implement It",
+            "url": "https://neptune.ai/blog/machine-learning-model-management",
+            "authors": "Prince Canuma",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Machine learning is on the rise. With that, new issues keep popping up, and ML developers along with tech companies keep building new tools to take care of these issues.\u00a0 If we look at ML in a very basic way, we can say that ML is conceptually software with a bit of added intelligence but\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-model-management-1.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14496,
+            "title": "Object Detection with YOLO: Hands-on Tutorial",
+            "url": "https://neptune.ai/blog/object-detection-with-yolo-hands-on-tutorial",
+            "authors": "Anton Morgunov",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Object Detection as a task in Computer Vision We encounter objects every day in our life. Look around, and you\u2019ll find multiple objects surrounding you. As a human being you can easily detect and identify each object that you see. It\u2019s natural and doesn\u2019t take much effort.\u00a0 For computers, however, detecting objects is a task\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Object-detection-YOLO.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14497,
+            "title": "Deploying ML Models: How to Make Sure the New Model Is Better Than the One in Production? [Practical Guide]",
+            "url": "https://neptune.ai/blog/deploying-ml-models-make-sure-new-model-is-better",
+            "authors": "Enes Zvorni\u010danin",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Let\u2019s assume that we\u2019re working on an ML-related project and that the first ML model is successfully deployed in production, following most of the MLOps practices. Okay, but what now? Have we finished our work? Well, I assume that most of you know what the answer is, and of course, the answer is negative. We\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Deploying-ML-models-new-old.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14498,
+            "title": "Setting up MLOps at a Reasonable Scale With Jacopo Tagliabue",
+            "url": "https://neptune.ai/blog/mlops-reasonable-scale-jacopo-tagliabue",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "This article was originally the second episode of MLOps Live, an interactive Q&A session where ML practitioners answer questions from other ML practitioners.\u00a0 Every episode is focused on one specific ML topic, and during this one, we talked to Jacopo Tagliabue about reasonable scale MLOps.\u00a0 You can watch it on YouTube: Or listen to it\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-LIve-Jacopo-Tagliabue-Featured-Image.jpg?fit=2400%2C1260&ssl=1"
+        },
+        {
+            "id": 14499,
+            "title": "How to Solve the Model Serving Component of the MLOps Stack",
+            "url": "https://neptune.ai/blog/model-serving-component-mlops-stack",
+            "authors": "Alexandru Burlacu",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Model serving and deployment is one of the pillars of the MLOps stack. In this article, I\u2019ll dive into it and talk about what a basic, intermediate, and advanced setup for model serving look like. Let\u2019s start by covering some basics. What is ML model serving? Training a machine learning model may seem like a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Model-serving-component-MLOps.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14500,
+            "title": "Active Learning: Strategies, Tools, and Real-World Use Cases",
+            "url": "https://neptune.ai/blog/active-learning-strategies-tools-use-cases",
+            "authors": "Arun C John",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "In this article, you\u2019ll learn: what is active learning, why do we need active learning how it works what techniques are there where it\u2019s used in the real world and what frameworks can help with active learning. Let\u2019s begin! What is active learning? Active learning is a special case of machine learning in which a\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Active-learning.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14501,
+            "title": "A Comprehensive Guide on How to Monitor Your Models in Production",
+            "url": "https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "*Record scratch*\u00a0 *Freeze frame*\u00a0 Yup, that\u2019s me being plowed to the ground because the business just lost more than $500,000 with our fraud detection system by wrongly flagging fraudulent transactions as legitimate, and my boss\u2019s career is probably over. And that guy in the chair? That\u2019s our DevOps Engineer. You\u2019re probably wondering how we got\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/A-Comprehensive-Guide-on-How-to-Monitor-Your-Models-in-Production-High-Quality.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14503,
+            "title": "ML Model Registry: What It Is, Why It Matters, How to Implement It",
+            "url": "https://neptune.ai/blog/ml-model-registry",
+            "authors": "Stephen Oladele",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "Why do you have to know more about model registry? If you were once the only data scientist on your team you can probably relate to this: you start working on a machine learning project and perform a series of experiments that produce various models (and artifacts) that you \u201ctrack\u201d through non-standard naming conventions. Since\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/ML-Model-Registry.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14504,
+            "title": "Building MLOps Pipeline for Computer Vision: Image Classification Task [Tutorial]",
+            "url": "https://neptune.ai/blog/mlops-pipeline-for-computer-vision-image-classification",
+            "authors": "Nilesh Barla",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The introduction of Transformers in 2018 by Vaswani and the team brought a significant transformation in the research and development of deep learning models for various tasks. The transformer leverages a self-attention mechanism that was adopted from the attention mechanism by Bahdanau and the team. With this mechanism, one input could interact with other inputs\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/MLOps-pipeline-for-computer-vision.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14505,
+            "title": "AutoML Solutions: What I Like and Don\u2019t Like About AutoML as a Data Scientist",
+            "url": "https://neptune.ai/blog/automl-solutions",
+            "authors": "Alexandru Burlacu",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "There\u2019s a sentiment that AutoML could leave a lot of Data Scientists jobless. Will it? Short answer \u2013 Nope. In fact, even if AutoML solutions become 10x better, it will not make Machine Learning specialists of any trade irrelevant.\u00a0 Why the optimism, you may ask? Because although a technical marvel, AutoML is no silver bullet.\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/AutoML-solutions-pros-and-cons.jpg?fit=1200%2C628&ssl=1"
+        },
+        {
+            "id": 14507,
+            "title": "The Best Tools for Machine Learning Model Visualization",
+            "url": "https://neptune.ai/blog/the-best-tools-for-machine-learning-model-visualization",
+            "authors": "Siddhant Sadangi",
+            "tags": null,
+            "publishedOn": "2022-11-14T00:00:00",
+            "description": "The phrase \u201cEvery model is wrong, but some are useful\u201d is especially true in Machine Learning. When developing machine learning models, you should always understand where it works as expected and where it fails miserably. An important method of understanding a model is through model visualization. Visualizing the model architecture is important for: Model explainability\u2026",
+            "thumbnail": "https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/The-Best-Tools-for-Machine-Learning-Model-Visualization.jpg?fit=1200%2C628&ssl=1"
+        }
+    ]
+}

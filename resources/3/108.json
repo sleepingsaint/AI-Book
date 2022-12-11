@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5184,
+            "title": "Time Series Forecasting using Microsoft Power BI",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/time-series-forecasting-using-microsoft-power-bi/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Visualization, Power BI, Structured Data, Technique, Time Series Forecasting",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "In this article learn about time series forecasting using microsoft power BI and how to build time series forecasting charts and models using power BI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/1yb6F1imitlIc8MSWt9V5vw.png"
+        },
+        {
+            "id": 5185,
+            "title": "Top 10 Applications of Natural Language Processing (NLP)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/top-10-applications-of-natural-language-processing-nlp/",
+            "authors": "Abhishek Sharma",
+            "tags": "Beginner, Listicle, NLP",
+            "publishedOn": "2020-07-08T00:00:00",
+            "description": "Top 10 Application of Natural Language Processing (NLP). In this article learn about the top NLP applications in business.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image.png"
+        },
+        {
+            "id": 5186,
+            "title": "Build Text Categorization Model with Spark NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/build-text-categorization-model-with-spark-nlp/",
+            "authors": "guest_blog",
+            "tags": "Advanced, NLP, Project, Python, Supervised, Text, Unstructured Data",
+            "publishedOn": "2020-07-08T00:00:00",
+            "description": "Use Spark NLP on AWS EMR and do text categorization of BBC data. We examine different evaluation metrics in Spark MLlib and see how to store a model.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Distributed-Text-Categorization-using-Spark-NLP-on-AWS-EMR1.jpg"
+        },
+        {
+            "id": 5187,
+            "title": "Tableau Tip: Visualize a Single Value Against Others",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/visualize-a-single-value-against-others-in-tableau/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Visualization, Structured Data, Tableau, Technique",
+            "publishedOn": "2020-07-07T00:00:00",
+            "description": "Tableau is a premium Business Intelligence tool. Learn to visualize the comparison between single values against a range of values using Tableau tips.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Visualize-a-Single-Value-Against-Others-in-Tableau.jpg"
+        },
+        {
+            "id": 5188,
+            "title": "Key Difference between R-squared and Adjusted R-squared for Regression Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/difference-between-r-squared-and-adjusted-r-squared/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Python, Regression, Technique",
+            "publishedOn": "2020-07-07T00:00:00",
+            "description": "Learn the concepts of R-squared and adjusted r squared. Understand the difference between r squared and adjusted r squared and why you need them.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/R-squared-vs-Adjusted-R-squared.jpg"
+        },
+        {
+            "id": 5189,
+            "title": "Deploy an Image Classification Model Using Flask",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/deploy-an-image-classification-model-using-flask/",
+            "authors": "Lakshay Arora",
+            "tags": "Advanced, Computer Vision, Deep Learning, Image, Python, Unstructured Data",
+            "publishedOn": "2020-07-07T00:00:00",
+            "description": "Flask is a web application framework written in Python. Learn model deployment and build an image classification model in PyTorch, deploy it using Flask.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Image-Classification-Model-Deployed-Using-Flask.jpg"
+        },
+        {
+            "id": 5190,
+            "title": "Statistics for Data Science: What is Skewness and Why is it Important?",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/what-is-skewness-statistics/",
+            "authors": "Abhishek Sharma",
+            "tags": "Beginner, Statistics",
+            "publishedOn": "2020-07-06T00:00:00",
+            "description": "Skewness is a key concept in statistics for data science. In this article learn what is skewness in statistics, its types and why skewness is important.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/featured_image.jpg"
+        },
+        {
+            "id": 5191,
+            "title": "Python Style Guide | How to Write Neat and Impressive Python Code",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/python-style-guide/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Programming, Python, Technique",
+            "publishedOn": "2020-07-03T00:00:00",
+            "description": "Python style guide enables you to write impressive python code. In this article learn the different Python conventions mentioned in the python PEP8 style guide.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/python-coding.jpg"
+        },
+        {
+            "id": 5192,
+            "title": "Real-World Machine Learning Case Study: Clustering Transactions Based on Text Descriptions",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/machine-learning-study-clustering-transactions-text-descriptions/",
+            "authors": "guest_blog",
+            "tags": "Banking, Intermediate, Machine Learning, Topic Modeling, Unsupervised, Use Cases",
+            "publishedOn": "2020-07-03T00:00:00",
+            "description": "Machine learning in finance is a big thing these days. Here\u2019s a real world machine learning case study of using clustering on financial transactions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/finane_clustering.jpg"
+        },
+        {
+            "id": 5193,
+            "title": "7 Open Source Data Science Projects you Should Add to your Resume",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Datasets, Github, Interview Questions, Listicle, Profile Building, Project, Resource",
+            "publishedOn": "2020-07-02T00:00:00",
+            "description": "Open source data science projects add a lot of shine to your resume. Here are 7 such open source projects you can use to impress your interviewer.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/open_source_projects_data_science.jpg"
+        },
+        {
+            "id": 5194,
+            "title": "8 SQL Techniques to Perform Data Analysis for Analytics and Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/",
+            "authors": "Ram Dewani",
+            "tags": "Data Science, Intermediate, Retail, SQL, Structured Data",
+            "publishedOn": "2020-07-01T00:00:00",
+            "description": "SQL is a key language for analytics, data science. Learn SQL techniques to find out how to perform data analysis using SQL in analytics, data science domain",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Data-analysis-using-SQL.jpg"
+        },
+        {
+            "id": 5195,
+            "title": "4 Simple Ways to Split a Decision Tree in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/",
+            "authors": "Abhishek Sharma",
+            "tags": "Algorithm, Beginner, Machine Learning, Technique",
+            "publishedOn": "2020-06-30T00:00:00",
+            "description": "Learn about different decision tree split methods to split a decision tree in machine learning : Information Gain, Gini Impurity, Reduction in Variance etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/featured-image.jpg"
+        },
+        {
+            "id": 5196,
+            "title": "Hands-on NLP Project: A Comprehensive Guide to Information Extraction using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/nlp-project-information-extraction/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Intermediate, NLP, Project, Python, Text",
+            "publishedOn": "2020-06-29T00:00:00",
+            "description": "Learn to extract meaningful data from text in NLP. A practical guide for information extraction from text using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Extraction-using-Python.jpg"
+        },
+        {
+            "id": 5197,
+            "title": "Hugging Face Releases New NLP \u2018Tokenizers\u2019 Library Version (v0.8.0)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/hugging-face-tokenizers-nlp-library/",
+            "authors": "Prateek Joshi",
+            "tags": "Beginner, Libraries, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2020-06-27T00:00:00",
+            "description": "Hugging Face has released a brand new Tokenizer libray version for NLP. This Tokenizer version bring a ton of updates for NLP enthusiasts.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/transformer_feat_img.png"
+        },
+        {
+            "id": 5198,
+            "title": "22 Widely Used Data Science and Machine Learning Tools in 2020",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/22-tools-data-science-machine-learning/",
+            "authors": "Ram Dewani",
+            "tags": "Artificial Intelligence, Beginner, Big data, Business Analytics, Business Intelligence, Data Science, Database, Listicle, Machine Learning",
+            "publishedOn": "2020-06-27T00:00:00",
+            "description": "Which tools for data science to choose for your career? Here\u2019s a comprehensive list of 20 plus data science tools and machine learning tools you should know",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Tools-used-for-Data-Science-and-Big-Data.jpg"
+        },
+        {
+            "id": 5199,
+            "title": "3 Building Blocks of Machine Learning you Should Know as a Data Scientist",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/3-building-blocks-machine-learning-data-scientist/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Machine Learning",
+            "publishedOn": "2020-06-26T00:00:00",
+            "description": "In this article discovers 3 machine learning building blocks. Learn about ML components to build AI system. These components are key to implementing AI.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/building_blocks_machine_learning.jpg"
+        },
+        {
+            "id": 5200,
+            "title": "10 Compelling Reasons you Should Use JupyterLab for Data Science Coding",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/10-powerful-reasons-jupyterlab-data-science/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Python, Technique",
+            "publishedOn": "2020-06-25T00:00:00",
+            "description": "10 reasons why its time to say goodbye to the old Jupyter Notebooks and move on to JupyterLab for a more enjoyable coding experience!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/JupyterLab-Featured-Image.jpg"
+        },
+        {
+            "id": 5201,
+            "title": "3 Ambitious Excel Charts to Boost your Analytics and Visualization Portfolio",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/3-ambitious-excel-charts-boost-analytics-visualization/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Business Analytics, Data Visualization, Excel, Intermediate, Listicle",
+            "publishedOn": "2020-06-24T00:00:00",
+            "description": "Excel charts enable analysts to create powerful and ambitious visualizations. Here are 3 Excel charts: Waterfall, Funnel and Pareto for analytics domain.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Advanced-charts-in-excel-part-2-1.jpg"
+        },
+        {
+            "id": 5202,
+            "title": "New to Kaggle? Here\u2019s How you can Get Started with Kaggle Competitions",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/get-started-kaggle-competitions/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Machine Learning, Python, Regression, Structured Data, Technique",
+            "publishedOn": "2020-06-23T00:00:00",
+            "description": "New to Kaggle and don't know how to start? Get started with Kaggle competitions with this article to know how to make your first Kaggle submission",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Your-Guide-to-Getting-Started-with-Kaggle-Competitions-Featured-image.jpg"
+        },
+        {
+            "id": 5203,
+            "title": "Predictive Modeling in Excel \u2013 How to Create a Linear Regression Model from Scratch",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/predictive-modeling-excel-linear-regression/",
+            "authors": "Ram Dewani",
+            "tags": "Business Analytics, Excel, Intermediate, Linear Regression, Regression",
+            "publishedOn": "2020-06-22T00:00:00",
+            "description": "You can perform predictive modeling in Excel by following a few simple steps. In this article learn how to create a linear regression model in Excel.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Linear-regression-in-Excel-1.jpg"
+        },
+        {
+            "id": 5204,
+            "title": "UnLock 2020 \u2013 Announcing Starter Programs in Machine Learning and Business Analytics at an Unmissable Price",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/unlock-2020-machine-learning-business-analytics-programs/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Announcement, Interview Questions",
+            "publishedOn": "2020-06-18T00:00:00",
+            "description": "UnLock 2020 is an unmissable initiative that will help you launch your machine learning and business analytics journey!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/UnLock_2020.jpg"
+        },
+        {
+            "id": 5205,
+            "title": "Statistics for Analytics and Data Science: Hypothesis Testing and Z-Test vs. T-Test",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/statistics-analytics-hypothesis-testing-z-test-t-test/",
+            "authors": "Subhash Meena",
+            "tags": "Beginner, Python, Statistics, Technique",
+            "publishedOn": "2020-06-18T00:00:00",
+            "description": "In this article learn the fundamentals of Hypothesis testing and difference between the Z-Test and T-Test with the case study on coronavirus in python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/3-1.jpg"
+        },
+        {
+            "id": 5206,
+            "title": "3 Advanced Excel Charts Every Analytics Professional Should Try",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/3-advanced-excel-charts-every-analytics-professional-should-try/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Business Analytics, Data Visualization, Excel, Listicle",
+            "publishedOn": "2020-06-17T00:00:00",
+            "description": "Advanced excel charts tutorials explains 3 advanced excel charts sparklines, gantt charts and thermometer charts that every analytics professional should try",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Advanced-charts-in-excel.jpg"
+        },
+        {
+            "id": 5207,
+            "title": "AUC-ROC Curve in Machine Learning Clearly Explained",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Python, Technique",
+            "publishedOn": "2020-06-16T00:00:00",
+            "description": "Learn about the AUC-ROC curve evaluation metric for binary and multi-class classification problems with practical examples!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/AUC-ROC-curve-1.png"
+        },
+        {
+            "id": 5208,
+            "title": "A Classic Computer Vision Project \u2013 How to Add an Image Behind Objects in a Video",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/deep-learning-project-image-object-opencv/",
+            "authors": "Prateek Joshi",
+            "tags": "Advanced, Computer Vision, Image, Python, Technique, Unstructured Data",
+            "publishedOn": "2020-06-15T00:00:00",
+            "description": "Working with videos is a challenging deep learning task. Learn how to add an image to a dynamic video using OpenCV and deep learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/featured_image-1.jpg"
+        },
+        {
+            "id": 5209,
+            "title": "Build your own Animated Data Visualization in Tableau in Just 5 Minutes",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/animated-data-visualization-tableau-5-minutes/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Data Visualization, Structured Data, Tableau, Technique",
+            "publishedOn": "2020-06-12T00:00:00",
+            "description": "Animated visualizations are a pwoerful way of showing your data and results. Learn how to use Tableau to created animated visualizations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/viz-in-tableau.jpg"
+        },
+        {
+            "id": 5210,
+            "title": "5 Powerful Excel Dashboards for Analytics Professionals",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/5-excel-dashboards-analytics/",
+            "authors": "Ram Dewani",
+            "tags": "Beginner, Business Intelligence, Data Visualization, Excel, Listicle",
+            "publishedOn": "2020-06-11T00:00:00",
+            "description": "Excel dashboards are a powerful way of showcasing our data. Here are 5 powerful Excel dashboards to learn and use in your analytics career.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/amazing-Dashboard-templates-for-excel.jpg"
+        },
+        {
+            "id": 5211,
+            "title": "Your Guide to Getting Started with Geospatial Analysis using Folium (with multiple case studies)",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/guide-geospatial-analysis-folium-python/",
+            "authors": "Abhishek Sharma",
+            "tags": "Beginner, Data Visualization, Healthcare, Libraries, Project, Python, Structured Data, Transport",
+            "publishedOn": "2020-06-10T00:00:00",
+            "description": "Folium is a simple yet pwoerful Python library for geospatial analysis. Learn how Folium works here and work on two real-world case studies.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Folium_Python.png"
+        },
+        {
+            "id": 5212,
+            "title": "Everything you Should Know About Data Structures in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/data-structures-python/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2020-06-09T00:00:00",
+            "description": "Data structures are important for storing data efficiently. In this article, learn about Python's built-in data structures-lists, tuples, dictionary and set",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Python-Iterators-and-Generators.jpg"
+        },
+        {
+            "id": 5213,
+            "title": "SQL for Beginners and Analysts \u2013 Get Started with SQL using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2020/06/sql-for-beginners-analysts-sqlite-database-python/",
+            "authors": "Aniruddha Bhandari",
+            "tags": "Beginner, Data Mining, Database, Programming, Python, SQL, Structured Data",
+            "publishedOn": "2020-06-08T00:00:00",
+            "description": "SQL is an important skill to master for any analyst. Therefore, we explore the basics of SQL in this article using the SQLite database in Python!",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/SQLite-Database-in-Python.jpg"
+        }
+    ]
+}

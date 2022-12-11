@@ -1,0 +1,255 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 8440,
+            "title": "Staggered Attention Mechanism - Long Input Transformers",
+            "url": "https://jarvislabs.ai/blogs/attention/",
+            "authors": "Varun Yerram",
+            "tags": "NLP, Attention, Transformers",
+            "publishedOn": "2022-08-24T00:00:00",
+            "description": "Speed up pytorch script with huggingface accelerate by using multiple gpus and mixed precision.",
+            "thumbnail": "https://pbs.twimg.com/profile_images/1491770960256847878/AQKJSYMr_400x400.jpg"
+        },
+        {
+            "id": 8441,
+            "title": "Huggingface Accelerate to train on multiple GPUs.",
+            "url": "https://jarvislabs.ai/blogs/accelerate/",
+            "authors": "Vishnu Subramanian",
+            "tags": "GPU, Multi GPU, Hugging Face, Transformers",
+            "publishedOn": "2022-08-03T00:00:00",
+            "description": "Speed up pytorch script with huggingface accelerate by using multiple gpus and mixed precision.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8442,
+            "title": "DeBerta is the new King!",
+            "url": "https://jarvislabs.ai/blogs/deberta/",
+            "authors": "Tanul Singh",
+            "tags": "PyTorch, NLP, Transformers",
+            "publishedOn": "2022-07-05T00:00:00",
+            "description": "Learn about DeBerta architecture and find out how it outperforms the SOTA Bert and RoBerta.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/48856885?v=4"
+        },
+        {
+            "id": 8443,
+            "title": "PolyNLoss for Image Classification",
+            "url": "https://jarvislabs.ai/blogs/vin-poly-loss/",
+            "authors": "Vinayak Nayak",
+            "tags": "PyTorch",
+            "publishedOn": "2022-05-30T00:00:00",
+            "description": "Understanding and implementing PolyLoss in PyTorch and using it with fastai.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/45599762?v=4"
+        },
+        {
+            "id": 8444,
+            "title": "Huggingface \ud83e\udd17 is all you need for NLP and beyond",
+            "url": "https://jarvislabs.ai/blogs/hf-getting-started/",
+            "authors": "Atharva Ingle",
+            "tags": "PyTorch, Transformers",
+            "publishedOn": "2022-05-26T00:00:00",
+            "description": "A brief intro to the world of HuggingFace. Explore how to use Huggingface Datasets, Trainer, Dynamic Padding, Writing a custom callback and integrating with Weights and Biases.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/52319020?v=4"
+        },
+        {
+            "id": 8445,
+            "title": "Deploy your AI app on Jarvislabs.ai using Gradio",
+            "url": "https://jarvislabs.ai/blogs/gradio-setup/",
+            "authors": "Vishnu Subramanian",
+            "tags": "fastai, gradio",
+            "publishedOn": "2022-05-03T00:00:00",
+            "description": "Lets build a marvel character classifier app using fastai and share it with our friends using Gradio",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8446,
+            "title": "Metric Learning",
+            "url": "https://jarvislabs.ai/blogs/vin-metric-learning/",
+            "authors": "Vinayak Nayak",
+            "tags": "PyTorch, fastai, Metric Learning",
+            "publishedOn": "2022-05-02T00:00:00",
+            "description": "In this post, we understand Metric learning and implement Classification is a strong baseline for deep metric learning using Fastai",
+            "thumbnail": "https://avatars.githubusercontent.com/u/45599762?v=4"
+        },
+        {
+            "id": 8447,
+            "title": "Understanding PyTorch Module",
+            "url": "https://jarvislabs.ai/blogs/pytorch-modules/",
+            "authors": "Vishnu Subramanian",
+            "tags": "PyTorch",
+            "publishedOn": "2022-04-20T00:00:00",
+            "description": "Understand how PyTorch module works",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8448,
+            "title": "Managing and Tracking ML experiments",
+            "url": "https://jarvislabs.ai/blogs/ml-tracking/",
+            "authors": "Atharva Ingle",
+            "tags": "PyTorch",
+            "publishedOn": "2022-04-12T00:00:00",
+            "description": "Learn how Weights and Biases, Hydra fits in your Machine learning experiments.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/52319020?v=4"
+        },
+        {
+            "id": 8449,
+            "title": "PyTorch Lazy modules",
+            "url": "https://jarvislabs.ai/blogs/PyTorch-lazy-modules/",
+            "authors": "Vishnu Subramanian",
+            "tags": "PyTorch",
+            "publishedOn": "2022-04-04T00:00:00",
+            "description": "Use PyTorch lazy modules to rewrite network architectures",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8450,
+            "title": "Jarvislabs.ai \u2014 Updates and features",
+            "url": "https://jarvislabs.ai/blogs/jarvislabsai-april-updates/",
+            "authors": "Vishnu Subramanian",
+            "tags": "updates",
+            "publishedOn": "2022-04-01T00:00:00",
+            "description": "Learn about some of the new features like Spot instances, API to manage GPU Instance life cycle, Startup scripts, weekly and monthly GPU discounts.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8451,
+            "title": "Longformer \u2014 The Long Document Transformer",
+            "url": "https://jarvislabs.ai/blogs/longformer/",
+            "authors": "Tanul Singh",
+            "tags": "NLP, Transformers, Hugging Face",
+            "publishedOn": "2022-02-18T00:00:00",
+            "description": "Understanding LongFormer and its building blocks like Sliding window attention, dilated sliding window attention and global attention. My notes from the training procedure, training objective, attention pattern and position embeddings.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/48856885?v=4"
+        },
+        {
+            "id": 8452,
+            "title": "Training Large NLP Models Efficiently with DeepSpeed Hugging Face",
+            "url": "https://jarvislabs.ai/blogs/deepspeed/",
+            "authors": "Tanul Singh",
+            "tags": "NLP, Hugging Face, Transformers",
+            "publishedOn": "2022-02-01T00:00:00",
+            "description": "Learn to use HuggingFace Trainer along with DeepSpeed to fit larger batches in GPU.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/48856885?v=4"
+        },
+        {
+            "id": 8453,
+            "title": "Understanding Google EfficientDet, BiFPN for Object Detection",
+            "url": "https://jarvislabs.ai/blogs/efficientdet/",
+            "authors": "Nischay Dhankhar",
+            "tags": "Computer Vision, Object Detection",
+            "publishedOn": "2022-01-31T00:00:00",
+            "description": "Lets explore the EfficientDet backbone, multi scale features fusion block (BiFPN) and class bounding box network block. We will also implement an timm efficientdet pipeline in PyTorch.",
+            "thumbnail": "https://storage.googleapis.com/kaggle-avatars/images/4712534-kg.jpeg"
+        },
+        {
+            "id": 8454,
+            "title": "Rate Severity of Toxic Comments using RoBERTa in PyTorch Lightning",
+            "url": "https://jarvislabs.ai/blogs/jigsaw/",
+            "authors": "Ishan Dutta",
+            "tags": "NLP, Multi GPU, Transformers",
+            "publishedOn": "2021-12-08T00:00:00",
+            "description": "Learn how to find toxicity in comments using PyTorch lightning. Also learn how to use mixed precision , use multiple gpus in pytorch lightning and use Weights and Biases as a logger.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/47643789?v=4"
+        },
+        {
+            "id": 8455,
+            "title": "PetFinder Pawpularity Kaggle Competition Starter",
+            "url": "https://jarvislabs.ai/blogs/petfinder/",
+            "authors": "Nischay Dhankhar",
+            "tags": "Computer Vision, fastai",
+            "publishedOn": "2021-11-09T00:00:00",
+            "description": "Fastai pipeline training and inference for identifying pets popularity",
+            "thumbnail": "https://storage.googleapis.com/kaggle-avatars/images/4712534-kg.jpeg"
+        },
+        {
+            "id": 8456,
+            "title": "Understanding Question Answering problem in NLP",
+            "url": "https://jarvislabs.ai/blogs/chaii/",
+            "authors": "Nischay Dhankhar",
+            "tags": "NLP",
+            "publishedOn": "2021-10-25T00:00:00",
+            "description": "Ideas on getting started with Question Answering problem for Hindi, and Tamil Questions.",
+            "thumbnail": "https://storage.googleapis.com/kaggle-avatars/images/4712534-kg.jpeg"
+        },
+        {
+            "id": 8457,
+            "title": "Resnet Strikes Back | Improving Resnet model",
+            "url": "https://jarvislabs.ai/blogs/resnetstrikesback/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision",
+            "publishedOn": "2021-10-18T00:00:00",
+            "description": "How to improve resnet model performance by using different loss functions, data augmentation techniques, regularization and optimization techniques.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8458,
+            "title": "Train using multiple GPUs in fastai",
+            "url": "https://jarvislabs.ai/blogs/multiGPUs/",
+            "authors": "Vishnu Subramanian",
+            "tags": "GPU, Multi GPU, fastai",
+            "publishedOn": "2021-02-26T00:00:00",
+            "description": "A simple example, demonstrating how to train models on multiple GPUs in fast.ai",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8459,
+            "title": "Resnet implementation using Pytorch",
+            "url": "https://jarvislabs.ai/blogs/resnet/",
+            "authors": "Poonam Ligade",
+            "tags": "Computer Vision",
+            "publishedOn": "2020-06-03T00:00:00",
+            "description": "Resnets are an important architecture in computer vision. Learn how a resnet architecturs is implemented.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/8023214?v=4"
+        },
+        {
+            "id": 8460,
+            "title": "Identifying people without Masks - Using Deep Learning/AI",
+            "url": "https://jarvislabs.ai/blogs/mask-identification/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision",
+            "publishedOn": "2020-06-01T00:00:00",
+            "description": "Use fasterrcnn model to quickly detect whether a person is wearing mask or not.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8461,
+            "title": "Understanding Autoencoders and Variational Autoencoders",
+            "url": "https://jarvislabs.ai/blogs/autoencoders/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision",
+            "publishedOn": "2020-05-04T00:00:00",
+            "description": "Building autoencoders using pytorch.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8462,
+            "title": "PyTorch transfer learning",
+            "url": "https://jarvislabs.ai/blogs/transfer-learning/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision",
+            "publishedOn": "2020-05-03T00:00:00",
+            "description": "Learn different tips and tricks to transfer learning that affects model performance.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8463,
+            "title": "Building image segmentation model using fastai and PyTorch | Part-2",
+            "url": "https://jarvislabs.ai/blogs/tgs-salt-model/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision, Segmentation, fastai",
+            "publishedOn": "2020-04-05T00:00:00",
+            "description": "Understanding building blocks of Unet model like encoder, decoder, skip connections and hypercolumns. Use fastai to train the unet model.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        },
+        {
+            "id": 8464,
+            "title": "Building image segmentation model using fastai and PyTorch | Part-1",
+            "url": "https://jarvislabs.ai/blogs/tgs-salt/",
+            "authors": "Vishnu Subramanian",
+            "tags": "Computer Vision, Segmentation, fastai",
+            "publishedOn": "2020-04-02T00:00:00",
+            "description": "Learn how to build a fastai datablock for solving image segmentation using a unet architecture.",
+            "thumbnail": "https://avatars.githubusercontent.com/u/3419879?v=4"
+        }
+    ]
+}

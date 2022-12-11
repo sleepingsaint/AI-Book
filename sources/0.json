@@ -1,0 +1,143 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 1,
+            "title": "Amazon ML Blog",
+            "url": "https://aws.amazon.com/blogs/machine-learning/",
+            "numResources": 1644
+        },
+        {
+            "id": 2,
+            "title": "Amazon Science Blog",
+            "url": "https://www.amazon.science/blog",
+            "numResources": 395
+        },
+        {
+            "id": 3,
+            "title": "Analytics Vidhya Blog",
+            "url": "https://www.analyticsvidhya.com/blog-archive/",
+            "numResources": 4390
+        },
+        {
+            "id": 4,
+            "title": "BAIR Blog",
+            "url": "https://bair.berkeley.edu/blog/",
+            "numResources": 108
+        },
+        {
+            "id": 5,
+            "title": "Apple ML Research Blog",
+            "url": "https://machinelearning.apple.com/research",
+            "numResources": 327
+        },
+        {
+            "id": 6,
+            "title": "Deepmind Blog",
+            "url": "https://www.deepmind.com/blog",
+            "numResources": 226
+        },
+        {
+            "id": 7,
+            "title": "Depends On The Definition Blog",
+            "url": "https://www.depends-on-the-definition.com/",
+            "numResources": 45
+        },
+        {
+            "id": 8,
+            "title": "Dragan.rocks Blog",
+            "url": "https://dragan.rocks",
+            "numResources": 78
+        },
+        {
+            "id": 9,
+            "title": "Google AI Blog",
+            "url": "https://ai.googleblog.com/",
+            "numResources": 1157
+        },
+        {
+            "id": 10,
+            "title": "Distill Pub Blog",
+            "url": "https://distill.pub/",
+            "numResources": 32
+        },
+        {
+            "id": 11,
+            "title": "Huggingface Blog",
+            "url": "https://huggingface.co/blog",
+            "numResources": 166
+        },
+        {
+            "id": 12,
+            "title": "Jarvis Labs AI Blog",
+            "url": "https://jarvislabs.ai/blogs/",
+            "numResources": 25
+        },
+        {
+            "id": 13,
+            "title": "Koaning.io Blog",
+            "url": "https://koaning.io/",
+            "numResources": 28
+        },
+        {
+            "id": 14,
+            "title": "Machine Learning Mastery Blog",
+            "url": "https://machinelearningmastery.com/blog/",
+            "numResources": 1237
+        },
+        {
+            "id": 15,
+            "title": "MarkTechPost",
+            "url": "https://www.marktechpost.com/category/technology/",
+            "numResources": 193
+        },
+        {
+            "id": 16,
+            "title": "Neural Magic Blog",
+            "url": "https://neuralmagic.com/blog/",
+            "numResources": 73
+        },
+        {
+            "id": 17,
+            "title": "OpenAI Blog",
+            "url": "https://openai.com/blog/",
+            "numResources": 166
+        },
+        {
+            "id": 18,
+            "title": "Roboflow Blog",
+            "url": "https://blog.roboflow.com/latest/",
+            "numResources": 393
+        },
+        {
+            "id": 19,
+            "title": "Towards AI Blog",
+            "url": "https://towardsai.net/p",
+            "numResources": 2823
+        },
+        {
+            "id": 20,
+            "title": "O`Reilly AI & ML Radar Blog",
+            "url": "https://www.oreilly.com/radar/topics/ai-ml/",
+            "numResources": 530
+        },
+        {
+            "id": 21,
+            "title": "ML@CMU Blog",
+            "url": "https://blog.ml.cmu.edu/",
+            "numResources": 76
+        },
+        {
+            "id": 22,
+            "title": "Hunch.net Blog",
+            "url": "https://hunch.net/",
+            "numResources": 545
+        },
+        {
+            "id": 23,
+            "title": "Neptune AI Blog",
+            "url": "https://neptune.ai/blog",
+            "numResources": 443
+        }
+    ]
+}

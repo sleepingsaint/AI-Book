@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1484,
+            "title": "AWS and Caltech Partner to Accelerate AI and Machine Learning Through a New Research Collaboration",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-and-caltech-partner-to-accelerate-ai-and-machine-learning-through-a-new-research-collaboration/",
+            "authors": "Joseph Spisak, Adam Wierman",
+            "tags": null,
+            "publishedOn": "2017-11-30T00:00:00",
+            "description": "From autonomous robotics to state of-the-art computer vision, Caltech and Amazon have a lot in common, including the belief that pushing the boundaries of artificial intelligence (AI) and machine learning (ML) will not only disrupt industries, but it will fundamentally change the nature of scientific research. We believe these technologies have the potential to transform [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/30/aws_caltech-600.gif"
+        },
+        {
+            "id": 1485,
+            "title": "AWS DeepLens Extensions: Build Your Own Project",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deeplens-extensions-build-your-own-project/",
+            "authors": "Guy Ernest",
+            "tags": "Amazon SageMaker, AWS DeepLens, AWS IoT Greengrass",
+            "publishedOn": "2017-11-29T00:00:00",
+            "description": "AWS DeepLens provides a great opportunity to learn new technologies, such as deep learning and Internet of Things (IoT), as well as to build innovative systems that can solve real-world problems. The device and service comes with a set of predefined projects that make it easy to hit the ground running. It is designed as [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/30/deeplens-build-your-own-4.gif"
+        },
+        {
+            "id": 1486,
+            "title": "Customize and Display AWS DeepLens Project Output on Your Laptop",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customize-and-display-aws-deeplens-project-output-on-your-laptop/",
+            "authors": "Guy Ernest, Sunil Mallya",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2017-11-29T00:00:00",
+            "description": "Use this Python module to integrate Kinesis Video Streams with an AWS DeepLens device.",
+            "thumbnail": "https://d1ge0kk1l5kms0.cloudfront.net/images/G/01/webservices/console/warning.png"
+        },
+        {
+            "id": 1487,
+            "title": "Extend AWS DeepLens to Send SMS Notifications with AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extend-aws-deeplens-to-send-sms-notifications-with-aws-lambda/",
+            "authors": "Guy Ernest",
+            "tags": "AWS DeepLens",
+            "publishedOn": "2017-11-29T00:00:00",
+            "description": "AWS DeepLens is a deep learning enabled developer toolkit with a video camera. It enables you to develop machine learning skills using hands-on computer vision tutorials, pre-built models and allows you to extend them. This blog post explains how to extend the local functionality of DeepLens with cloud functionality using the AWS IoT Rule Engine [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/28/extend-deeplens-2.gif"
+        },
+        {
+            "id": 1488,
+            "title": "Introducing the Inaugural AWS Machine Learning Competency Partners",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-inaugural-aws-machine-learning-competency-partners/",
+            "authors": "Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-11-28T00:00:00",
+            "description": "Out of all of the innovations that are being driven by cloud, the areas of artificial intelligence (AI) and machine learning (ML) are perhaps the most exciting.\u00a0IDC, as an example, is forecasting that the market for AI systems to be $46 billion by 2020. This is up from $12.5 billion in 2017 and growing at [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1489,
+            "title": "Distributed Inference Using Apache MXNet and Apache Spark on Amazon EMR",
+            "url": "https://aws.amazon.com/blogs/machine-learning/distributed-inference-using-apache-mxnet-and-apache-spark-on-amazon-emr/",
+            "authors": "Naveen Swamy",
+            "tags": "Amazon EMR, Apache MXNet on AWS",
+            "publishedOn": "2017-11-27T00:00:00",
+            "description": "In this blog post we demonstrate how to run distributed offline inference on large datasets using Apache MXNet (incubating) and Apache Spark on Amazon EMR. We explain how offline inference is useful, why it is challenging, and how you can leverage MXNet and Spark on Amazon EMR to overcome these challenges. Distributed inference on large [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/27/distributed-inference-4.gif"
+        },
+        {
+            "id": 1490,
+            "title": "Announcing AWS Machine Learning Research Awards",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-machine-learning-research-awards/",
+            "authors": "Sebouh Der Kiureghian",
+            "tags": null,
+            "publishedOn": "2017-11-27T00:00:00",
+            "description": "Collaborating with scientists around the globe to fund research, share knowledge and encourage innovation.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/78630dd/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa6%2F84%2Fe766d8f84e95baa7e1c96169448d%2Famazon-research-awards-logo.png"
+        },
+        {
+            "id": 1491,
+            "title": "Receive Phone Call Alerts for AWS Account Security Events With Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/phone-call-alerts-on-aws-account-security-events-using-amazon-polly/",
+            "authors": "Sudhanshu Malhotra",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-11-24T00:00:00",
+            "description": "Security of your AWS account is paramount. Staying up to date with any security-related events in your AWS account is important. There are various ways to get alerts- via email or SMS, however in this blog post I\u2019m going to show you how to get a voice alert on your phone using Amazon AI services like Amazon Polly and any cloud-based communications platform like Twilio.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/22/polly-voice-alerts-1.gif"
+        },
+        {
+            "id": 1492,
+            "title": "Introducing the Amazon ML Solutions Lab",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-ml-solutions-lab/",
+            "authors": "Vinayak Agarwal",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Artificial Intelligence",
+            "publishedOn": "2017-11-22T00:00:00",
+            "description": "We are excited to announce the Amazon ML Solutions Lab, a new program that connects machine learning experts from across Amazon with AWS customers to help identify novel uses of machine learning inside customers\u2019 businesses, and guide them in developing new machine learning-enabled features, products, and processes. Amazon has been investing in machine learning for more than 20 years, innovating in areas such as fulfilment and logistics, personalization and recommendations, forecasting, fraud prevention, and supply chain optimization. The Amazon ML Solutions Lab provides you access to the same talent that built many of Amazon\u2019s machine learning-powered products and services.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1493,
+            "title": "Amazon Rekognition Announces Real-Time Face Recognition, Support for Recognition of Text in Image, and Improved Face Detection",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-announces-real-time-face-recognition-support-for-recognition-of-text-in-image-and-improved-face-detection/",
+            "authors": "Ranju Das",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-11-21T00:00:00",
+            "description": "Amazon Rekognition today announces three new features: detection and recognition of text in images, real-time face recognition across tens of millions of faces, and detection of up to 100 faces in challenging crowded photos. Customers who are already using Amazon Rekognition for face verification and identification will experience up to a 10% accuracy improvement in most cases.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/rekognition-text-detection-1.jpg"
+        },
+        {
+            "id": 1494,
+            "title": "Run Deep Learning Frameworks with GPU Instance Types on Amazon EMR",
+            "url": "https://aws.amazon.com/blogs/machine-learning/run-deep-learning-frameworks-with-gpu-instance-types-on-amazon-emr/",
+            "authors": "Jonathan Fritz",
+            "tags": "Amazon EMR, Apache MXNet on AWS",
+            "publishedOn": "2017-11-20T00:00:00",
+            "description": "Today, AWS is excited to announce support for Apache MXNet and new generation GPU instance types on Amazon EMR, which enables you to run distributed deep neural networks alongside your machine learning workflows and big data processing. Additionally, you can install and run custom deep learning libraries on your EMR clusters with GPU hardware. Through [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/EMRLaunch_2.png"
+        },
+        {
+            "id": 1495,
+            "title": "Building an Autonomous Vehicle, Part 4: \u00a0Using Behavioral Cloning with Apache MXNet for Your Self-Driving Car",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-autonomous-vehicle-part-4-using-behavioral-cloning-with-apache-mxnet-for-your-self-driving-car/",
+            "authors": "Sunil Mallya, Justin De Castri",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-11-20T00:00:00",
+            "description": "In the first blog post\u00a0of our autonomous vehicle series, you built your Donkey vehicle and deployed your pilot server onto an Amazon EC2 instance.\u00a0In the second blog post, you learned to drive the Donkey car, and the Donkey car learned to self-drive. In the third blog post, you learned about the process of streaming telemetry [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/20/simcar10.gif"
+        },
+        {
+            "id": 1496,
+            "title": "Announcing ONNX Support for Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-onnx-support-for-apache-mxnet/",
+            "authors": "Hagay Lupesko, Roshani Nagmote",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-11-16T00:00:00",
+            "description": "Today, AWS announces the availability of ONNX-MXNet, an open source Python package to import Open Neural Network Exchange (ONNX) deep learning models into Apache MXNet. MXNet is a fully featured and scalable deep learning framework that offers APIs across popular languages such as Python, Scala, and R. With ONNX format support for MXNet, developers can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/16/dog-merged-2.jpg"
+        },
+        {
+            "id": 1497,
+            "title": "Amazon Polly Adds 9 AWS Regions, Korean Language Support, and a New Indian English Voice",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-adds-9-aws-regions-korean-language-support-and-a-new-indian-english-voice/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-11-15T00:00:00",
+            "description": "Amazon Polly is an AWS service that turns text into lifelike speech. Today, we are excited to announce that Amazon Polly is available in nine additional Regions, expanding the total number of Regions where Polly is available to 14. We are also excited to announce the release of \u00a0Korean language support, and that we have [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1498,
+            "title": "New AWS Deep Learning AMIs for Machine Learning Practitioners",
+            "url": "https://aws.amazon.com/blogs/machine-learning/new-aws-deep-learning-amis-for-machine-learning-practitioners/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2017-11-15T00:00:00",
+            "description": "We\u2019re excited to announce the availability of two new versions of the AWS Deep Learning AMI. The first is\u00a0a Conda-based AMI with separate Python environments for deep learning frameworks created using Conda\u2014a popular open source package and environment management tool. The second is a Base AMI with GPU drivers and libraries to deploy your own [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1499,
+            "title": "Getting Started with the AWS Deep Learning Conda and Base AMIs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-aws-deep-learning-conda-and-base-amis/",
+            "authors": "Sumit Thakur",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2017-11-15T00:00:00",
+            "description": "Today AWS announced the availability of two new versions of the AWS Deep Learning AMI: a Conda-based AMI and a Base AMI. This post will walk you through the instructions and additional resources for making the most of your new AMIs. New Deep Learning AMI with Conda-managed environments The new Deep Learning AMIs for Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/15/step-by-step-conda-3.gif"
+        },
+        {
+            "id": 1500,
+            "title": "Building an Autonomous Vehicle Part 3: Connecting Your Autonomous Vehicle",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-autonomous-vehicle-part-3-connecting-your-autonomous-vehicle/",
+            "authors": "Justin De Castri",
+            "tags": null,
+            "publishedOn": "2017-11-14T00:00:00",
+            "description": "In the first blog post in our autonomous vehicle series, you built your Donkey vehicle and deployed your pilot server onto an Amazon EC2 instance. In the second blog, you learned to drive the Donkey car, and the Donkey car learned to drive itself. In this blog post, we\u2019ll cover the process of streaming telemetry [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/08/Robocar-3-21.gif"
+        },
+        {
+            "id": 1501,
+            "title": "Matrix Analytics Uses Deep Learning on AWS to Boost Early Cancer Detection",
+            "url": "https://aws.amazon.com/blogs/machine-learning/matrix-analytics-uses-deep-learning-on-aws-to-boost-early-cancer-detection/",
+            "authors": "Cynthya Peranandam",
+            "tags": null,
+            "publishedOn": "2017-11-10T00:00:00",
+            "description": "Matrix Analytics is helping to save lives. The Colorado-based startup uses deep learning on Amazon Web Services (AWS) to track disease progression for patients diagnosed with pulmonary nodules in their lungs. While often benign, careful monitoring and follow-up care are critical to knowing if and when those nodules will turn into malignant tumors. The company\u2019s [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/08/matrix-2.gif"
+        },
+        {
+            "id": 1502,
+            "title": "Modify the Timbre of Amazon Polly Voices with the New Vocal Tract SSML Feature",
+            "url": "https://aws.amazon.com/blogs/machine-learning/modify-the-timbre-of-amazon-polly-voices-with-the-new-vocal-tract-ssml-feature/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-11-09T00:00:00",
+            "description": "Today, the Amazon Polly team is pleased to announce the release of a new Speech Synthesis Markup Language (SSML) feature that allows developers to modify the timbre of any Text-to-Speech (TTS) voice. This is a compelling feature for customers who want to customize an existing voice in the Amazon Polly portfolio to make it sound [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/09/timbre-social-954x630.jpg"
+        },
+        {
+            "id": 1503,
+            "title": "Apache MXNet Version 0.12 Extends Gluon Functionality to Support Cutting Edge Research",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apache-mxnet-version-0-12-extends-gluon-functionality-to-support-cutting-edge-research/",
+            "authors": "Vikram Madan",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-11-08T00:00:00",
+            "description": "Last week, the Apache MXNet community released version 0.12 of MXNet. The major features were support for NVIDIA Volta GPUs and sparse tensors. The release also included a number of new features for the Gluon programming interface. In particular, these features make it easier to implement cutting-edge research in your deep learning models: Variational dropout, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/07/mxnet-cutting-edge-research-2.gif"
+        },
+        {
+            "id": 1504,
+            "title": "Understand Movie Star Social Networks Using Amazon Rekognition and Graph Databases",
+            "url": "https://aws.amazon.com/blogs/machine-learning/understand-movie-star-social-networks-using-amazon-rekognition-and-graph-databases/",
+            "authors": "Derek Graeber, Kyle Johnson",
+            "tags": "Amazon Rekognition, AWS Quest",
+            "publishedOn": "2017-11-06T00:00:00",
+            "description": "Amazon Rekognition is an AWS service that makes it easy to add image analysis to your applications. The latest feature added to the API for this deep-learning-powered computer vision is Celebrity Recognition. This simple-to-use functionality detects and recognizes thousands of individuals who are famous, noteworthy, or prominent in their field. Users can harness the tool [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/16/movie-stars-3.gif"
+        },
+        {
+            "id": 1505,
+            "title": "AWS Collaborates with Emory University to Develop Cloud-Based NLP Research Platform Using Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-collaborates-with-emory-university-to-develop-cloud-based-nlp-research-platform-using-apache-mxnet/",
+            "authors": "Jinho Choi, Joseph Spisak",
+            "tags": null,
+            "publishedOn": "2017-11-06T00:00:00",
+            "description": "Natural Language Processing (NLP) is a research field in artificial intelligence that aims to develop computer programs\u2019 understanding of human (natural) language. Even if you don\u2019t know much about NLP, there is a good chance that you have been using it daily. Whenever you type a word using the virtual keyboard on your phone, it [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/02/emory-nlp-8.gif"
+        },
+        {
+            "id": 1506,
+            "title": "Monitoring GPU Utilization with Amazon CloudWatch",
+            "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-gpu-utilization-with-amazon-cloudwatch/",
+            "authors": "Keji Xu",
+            "tags": "Amazon CloudWatch, Apache MXNet on AWS",
+            "publishedOn": "2017-11-03T00:00:00",
+            "description": "Deep learning requires a large amount of matrix multiplications and vector operations that can be parallelized by GPUs (graphics processing units) because GPUs have thousands of cores. Amazon Web Services allows you to spin up P2\u00a0or P3 instances that are great for running Deep Learning frameworks such as MXNet, which emphasizes speeding up the deployment [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/31/gpumon-2.gif"
+        },
+        {
+            "id": 1507,
+            "title": "Apache MXNet Release Adds Support for New NVIDIA Volta GPUs and Sparse Tensor",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apache-mxnet-release-adds-support-for-new-nvidia-volta-gpus-and-sparse-tensor/",
+            "authors": "Sukwon Kim",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-11-01T00:00:00",
+            "description": "We are excited about the availability of Apache MXNet version 0.12. Contributors in the MXNet community have collaborated to bring new feature enhancements to users. With this release, MXNet adds two new important features: Support for NVIDIA Volta GPUs, which enable users to dramatically reduce the training and inference time for a neural network model. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/31/mxnet-nvidia-volta-1.gif"
+        },
+        {
+            "id": 1508,
+            "title": "Announcing New AWS Deep Learning AMI for Amazon EC2 P3 Instances",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-aws-deep-learning-ami-for-amazon-ec2-p3-instances/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS Deep Learning AMIs",
+            "publishedOn": "2017-10-25T00:00:00",
+            "description": "We\u2019re pleased to announce a new set of AWS Deep Learning AMIs, which come pre-installed with deep learning frameworks optimized for the NVIDIA Volta V100 GPUs in the new Amazon EC2 P3 instance family. The new P3 instances are perfect for deep learning, with eight NVIDIA Volta GPUs available in a single p3.16xlarge instance, which [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1509,
+            "title": "Research Spotlight:\u00a0BMXNet \u2013 An Open Source Binary Neural Network Implementation Based On MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/research-spotlight-bmxnet-an-open-source-binary-neural-network-implementation-based-on-mxnet/",
+            "authors": "Haojin Yang, Christian Bartz, Martin Fritzsche, Christoph Meinel",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-10-25T00:00:00",
+            "description": "This is guest post by Haojin Yang, Martin Fritzsche, Christian Bartz, Christoph Meinel from the Hasso-Plattner-Institut, Potsdam Germany.\u00a0We are excited to see research drive practical implementation of deep learning on low power devices. This work plays an important part in expanding powerful intelligent capabilities into our everyday lives. In recent years, deep learning technologies have [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/25/bmxnet-5.gif"
+        },
+        {
+            "id": 1510,
+            "title": "Build an Autonomous Vehicle Part 2: Driving Your Vehicle",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-autonomous-vehicle-part-2-driving-your-vehicle/",
+            "authors": "Justin De Castri, Keji Xu",
+            "tags": "AWS re:Invent",
+            "publishedOn": "2017-10-23T00:00:00",
+            "description": "This is the second blog post in our series that teaches you how to build a 1/16th scale autonomous car. You can also tune in to our Twitch streams to review concepts discussed in these blogs. After following along with us, you can bring your own car to race at the re:Invent Robocar Rally 2017, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/23/robocar-2-2.jpg"
+        },
+        {
+            "id": 1511,
+            "title": "How Astro Built Astrobot Voice, a Chatbot for Email",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-astro-built-astrobot-voice-a-chatbot-for-email/",
+            "authors": "Roland Schemers",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-10-20T00:00:00",
+            "description": "This is a guest post by Roland Schemers, CTO of Astro Technology, Inc. Astro, in\u00a0their own words, \u201ccreates modern email apps for Mac, iOS and Android, powered by artificial intelligence, built for people and teams. With Astrobot Voice, an in-app email voice assistant, you can now read, manage, and reply to emails without leaving Astro\u2019s [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/18/astron-inc-2-678x630.gif"
+        },
+        {
+            "id": 1512,
+            "title": "Convert Your Text into an MP3 File with Amazon Polly and a Simple Python Script",
+            "url": "https://aws.amazon.com/blogs/machine-learning/convert-your-text-into-an-mp3-file-with-amazon-polly-and-a-simple-python-script/",
+            "authors": "Dzidas Martinaitis",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-10-19T00:00:00",
+            "description": "Text-to-speech technology can turn any digital text into a multimedia experience, so people can listen to news, blog articles, or even a PDF document, while multitasking or on-the-go. With Amazon Polly, you can convert your RSS feed or email, and store the synthesized speech in the form of audio files. Currently, the Amazon Polly console [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1513,
+            "title": "AWS Deep Learning AMI Now Supports PyTorch, Keras 2 and Latest Deep Learning Frameworks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2017-10-18T00:00:00",
+            "description": "Today, we\u2019re pleased to announce an update to the AWS Deep Learning AMI. The AWS Deep Learning AMI, which lets you spin up a complete deep learning environment on AWS in a single click, now includes PyTorch, Keras 1.2 and 2.0 support, along with popular machine learning frameworks such as TensorFlow, Caffe2 and Apache MXNet. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

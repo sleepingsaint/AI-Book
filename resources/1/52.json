@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1514,
+            "title": "Your Guide to Machine Learning at re:Invent 2017",
+            "url": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-machine-learning-at-reinvent-2017/",
+            "authors": "Cynthya Peranandam",
+            "tags": "AWS re:Invent",
+            "publishedOn": "2017-10-17T00:00:00",
+            "description": "re:Invent 2017 is almost here! As you plan your agenda, machine learning is undoubtedly a hot topic on your list. This year we have a lot of great technical content in the Machine Learning track, with over 50 breakout sessions, hands-on workshops, labs, and deep-dive chalk talks. You\u2019ll hear first-hand from customers and partners about [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/13/reinvent2017.jpg"
+        },
+        {
+            "id": 1515,
+            "title": "Amazon Polly Expands to the Asia Pacific (Tokyo) Region and Adds Two New Voices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-expands-to-the-asia-pacific-tokyo-region-and-adds-two-new-voices/",
+            "authors": "Robin Dautricourt",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-10-12T00:00:00",
+            "description": "Amazon Polly is an AWS service that turns text into lifelike speech. Today, we are excited to announce the expansion to the Asia Pacific (Tokyo) Region, as well as the release of two new Text-to-Speech voices. We are pleased to present Takumi, a new Japanese male voice, and Matthew, a new US English male voice. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1516,
+            "title": "Introducing Gluon \u2014 An Easy-to-Use Programming Interface for Flexible Deep Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/",
+            "authors": "Vikram Madan",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-10-12T00:00:00",
+            "description": "Today, AWS and\u00a0Microsoft announced\u00a0a new specification\u00a0that focuses on improving the speed, flexibility, and accessibility of machine learning technology for all developers, regardless of their deep learning\u00a0framework of choice. The first result of this collaboration is the new Gluon interface, an open source library in Apache MXNet that allows developers of all skill levels to prototype, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/06/intro-gluon-1.gif"
+        },
+        {
+            "id": 1517,
+            "title": "Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/",
+            "authors": "Mu Li",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-10-06T00:00:00",
+            "description": "You can choose among multiple artificial intelligence (AI) frameworks to develop AI algorithms. You also have a choice of a wide range of hardware to train and deploy AI models. The diversity of frameworks and hardware is crucial to maintaining the health of the AI ecosystem. This diversity, however, also introduces several challenges to AI [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1518,
+            "title": "Capture and Analyze Customer Demographic Data Using Amazon Rekognition & Amazon Athena",
+            "url": "https://aws.amazon.com/blogs/machine-learning/capture-and-analyze-customer-demographic-data-using-amazon-rekognition-amazon-athena/",
+            "authors": "Amit Agrawal",
+            "tags": "Amazon Athena, Amazon Rekognition, Artificial Intelligence, AWS Lambda",
+            "publishedOn": "2017-10-05T00:00:00",
+            "description": "Millions of customers shop in brick and mortar stores every day. Currently, most of these retailers have no efficient way to identify these shoppers and understand their purchasing behavior. They rely on third-party market research firms to provide customer demographic and purchase preference information.\r\n\r\nThis blog post walks you how you can use AWS services to identify purchasing behavior of your customers. We show you:\r\n\r\nHow retailers can use captured images in real time.\r\nHow Amazon Rekognition can be used to retrieve face attributes like age range, emotions, gender, etc.\r\nHow you can use Amazon Athena and Amazon QuickSight to analyze the face attributes.\r\nHow you can create unique insights and learn about customer emotions and demographics.\r\nHow to implement serverless architecture using AWS managed services.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/10/03/customer-demographic-rekognition-30.gif"
+        },
+        {
+            "id": 1519,
+            "title": "Using Amazon Polly to Provide Real-Time Home Monitoring Alerts",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-polly-to-provide-real-time-home-monitoring-alerts/",
+            "authors": "Siva Syamala",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-09-29T00:00:00",
+            "description": "This is a guest blog post by Siva K. Syamala, Senior Developer from Y-cam Solutions. In their own words, \u201cY-cam is a provider of high quality security video solutions, our vision is to make smart home security easy and accessible to all.\u201d Home security is a very important constituent in home automation and the use [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1520,
+            "title": "Build an Autonomous Vehicle on AWS and Race It at the re:Invent Robocar Rally",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-an-autonomous-vehicle-on-aws-and-race-it-at-the-reinvent-robocar-rally/",
+            "authors": "Justin De Castri, Sunil Mallya",
+            "tags": "Apache MXNet on AWS, AWS Deep Learning AMIs",
+            "publishedOn": "2017-09-28T00:00:00",
+            "description": "Autonomous vehicles are poised to take to our roads in massive numbers in the coming years. This has been made possible due to advances in deep learning and its application to autonomous driving. In this post, we take you through a tutorial that shows you how to build a remote control (RC) vehicle that uses [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/20/robocar-4-1.jpg"
+        },
+        {
+            "id": 1521,
+            "title": "Build a Voice Kit with Amazon Lex and a Raspberry Pi",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-kit-with-amazon-lex-and-a-raspberry-pi/",
+            "authors": "Andrew Lafranchise",
+            "tags": "Amazon Lex, AWS Quest",
+            "publishedOn": "2017-09-25T00:00:00",
+            "description": "In this post, we show how you can embed Amazon Lex into custom hardware using widely available components. We demonstrate how you can build a simple voice-based AI kit and connect it to Amazon Lex. We\u2019ll use a Raspberry Pi and a few off-the-shelf components totaling less than $60. By the end of this blog [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/21/lex_ai_kit_1.jpg"
+        },
+        {
+            "id": 1522,
+            "title": "Two New Courses are Now Available for Machine Learning and Deep Learning on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/two-new-courses-are-now-available-for-machine-learning-and-deep-learning-on-aws/",
+            "authors": "Sara Houston",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2017-09-22T00:00:00",
+            "description": "AWS Training and Certification helps you advance your knowledge with practical skills so you can get more out of the AWS Cloud. We now have two new courses to help you learn about how to leverage artificial intelligence (AI) solutions using AWS: Introduction to Machine Learning web-based training and Deep Learning on AWS instructor-led training. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/21/machine-learning-training-400.jpg"
+        },
+        {
+            "id": 1523,
+            "title": "Create a Question and Answer Bot with Amazon Lex and Amazon Alexa",
+            "url": "https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/",
+            "authors": "Bob Strahan, John Calhoun, Bob Potterveld",
+            "tags": "Alexa, Amazon Lex, Amazon OpenSearch Service",
+            "publishedOn": "2017-09-21T00:00:00",
+            "description": "Your users have questions and you have answers, but you need a better way for your users to ask their questions and get the right answers. They often call your help desk, or post to your support forum, but over time this adds stress and cost to your organization. Could a chat bot add value for your customers? Interestingly, a recent poll shows that 44% of people would rather talk to a chat bot than to a human! In this post we provide a sample solution, called QnABot (pronounced \u201cQ and A Bot\u201d). The QnABot uses Amazon Lex and Amazon Alexa to provide a conversational interface for your \u201cQuestions and Answers.\u201d This allows your users to ask their questions and get quick and relevant answers.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/19/QnABot-1.jpg"
+        },
+        {
+            "id": 1524,
+            "title": "AWS Deep Learning AMI Now Includes Apache MXNet 0.11 and TensorFlow 1.3",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-ami-now-includes-apache-mxnet-0-11-and-tensorflow-1-3/",
+            "authors": "Sumit Thakur",
+            "tags": "Apache MXNet on AWS, AWS Deep Learning AMIs",
+            "publishedOn": "2017-09-18T00:00:00",
+            "description": "The AWS Deep Learning Amazon Machine Image (AMI) is designed to help you build stable, secure, and scalable deep learning applications on AWS. The AMI comes pre-installed with popular deep learning frameworks. It has GPU drivers and libraries that let you train sophisticated AI models and scale them in the cloud. The latest release of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1525,
+            "title": "Get Started with Deep Learning Using the AWS Deep Learning AMI",
+            "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2017-09-13T00:00:00",
+            "description": "Whether you\u2019re new to deep learning or want to build advanced deep learning projects in the cloud, it\u2019s easy to get started by using AWS. For users of all levels, AWS recommends Amazon SageMaker, a fully managed machine learning (ML) platform. The platform makes it straightforward to quickly and easily build, train, and deploy ML [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1526,
+            "title": "Enhancements to the Amazon Lex Console Let You Test Your Bot for Better Troubleshooting",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enhancements-to-the-amazon-lex-console-let-you-test-your-bot-for-better-troubleshooting/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2017-09-13T00:00:00",
+            "description": "Building your chatbot in the Amazon Lex console takes just a few steps, and testing your bot is just as easy. We\u2019ve made enhancements to the Test window of the Amazon Lex console which now provides you more details during testing and enables easier bot troubleshooting. Once you\u2019ve built a bot to test, the Test [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/09/timbre-social-954x630.jpg"
+        },
+        {
+            "id": 1527,
+            "title": "NIPS 2017 Challenge Pushes Deep Learning to Improve Surgical Outcomes",
+            "url": "https://aws.amazon.com/blogs/machine-learning/nips-2017-challenge-pushes-deep-learning-to-improve-surgical-outcomes/",
+            "authors": "Lukasz Kidzinski, Sunil Mallya",
+            "tags": null,
+            "publishedOn": "2017-09-12T00:00:00",
+            "description": "AWS, NVIDIA, Stanford, EPFL, and UC Berkeley have joined forces to tackle clinical problems in biomechanics. The NIPS 2017 Learning to Run challenge brings together over 300 researchers, engineers, and enthusiasts from around the world to apply deep learning to medical research. The challenge will culminate at the international AI conference Neural Information Processing Systems [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/11/nips2017_2.jpg"
+        },
+        {
+            "id": 1528,
+            "title": "Combining Deep Learning Networks (GAN and Siamese) to Generate High-Quality, Life-Like Images",
+            "url": "https://aws.amazon.com/blogs/machine-learning/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/",
+            "authors": "Guy Ernest",
+            "tags": null,
+            "publishedOn": "2017-09-11T00:00:00",
+            "description": "Because deep learning relies on the amount and quality of the data that is used to train it, companies spend a lot to get good image data. Typically, they use either expensive human annotation or other labor-intensive tasks, such as taking more photos of products or people. This approach is costly, and it doesn\u2019t scale. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/07/practical_gan_1.jpg"
+        },
+        {
+            "id": 1529,
+            "title": "Export your Amazon Lex bot schema to the Alexa Skills Kit",
+            "url": "https://aws.amazon.com/blogs/machine-learning/export-your-amazon-lex-bot-schema-to-the-alexa-skills-kit/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-09-07T00:00:00",
+            "description": "You can now export your\u00a0Amazon Lex\u00a0chatbot schema into the Alexa Skills Kit to simplify the process of creating an Alexa skill. Amazon Lex now provides the ability to export your Amazon Lex chatbot definition as a JSON file that can be added to the Alexa Skills Kit (ASK). Once you add the bot schema file [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/07/lex_bot_schema_3.gif"
+        },
+        {
+            "id": 1530,
+            "title": "Bring Machine Learning to iOS apps using Apache MXNet and Apple Core ML",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/",
+            "authors": "Sebastien Menant, Pracheer Gupta",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-09-06T00:00:00",
+            "description": "With the release of Core ML by Apple at WWDC 2017, iOS, macOS, watchOS and tvOS developers can now easily integrate a machine learning model into their app. This enables developers to bring intelligent new features to users with just a few lines of code. Core ML makes machine learning more accessible to mobile developers. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/06/AppleCoreML_1.png"
+        },
+        {
+            "id": 1531,
+            "title": "Apple Core ML and Keras Support Now Available for Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apple-core-ml-and-keras-support-now-available-for-apache-mxnet/",
+            "authors": "Dominic Divakaruni",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-09-06T00:00:00",
+            "description": "We\u2019re excited about the availability of Apache MXNet version 0.11. With this release, MXNet hit major milestones, both in terms of community development and as an incubating Apache project. Contributors\u2014including developers from Apple, Samsung and Microsoft\u2014committed code to this release. There are over 400 contributors on the project so far. The project has now fully [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/09/06/AppleCoreML_3_2.png"
+        },
+        {
+            "id": 1532,
+            "title": "Use Synonyms and Slot Value Validation in your Amazon Lex Chatbots",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-synonyms-and-slot-value-validation-in-your-amazon-lex-chatbots/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex",
+            "publishedOn": "2017-09-05T00:00:00",
+            "description": "You can now provide synonyms for slot values in Amazon Lex. With the synonym functionality, you can specify multiple synonyms for a slot value in your chatbot. The synonyms specified are resolved to the corresponding slot values. For example, if the slot value is \u201ccomedy\u201d, with \u201cfunny\u201d and \u201chumorous\u201d specified as synonyms, then user input [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1533,
+            "title": "How Amazon Polly Breathed Life into Dan Brown\u2019s Digital Assistant",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-polly-breathed-life-into-dan-browns-digital-assistant/",
+            "authors": "Damian Dutton",
+            "tags": "Amazon Polly",
+            "publishedOn": "2017-08-30T00:00:00",
+            "description": "This is a guest post by Damian Dutton, CEO and Founder of Beeliked. Beeliked is, in their own words, \u201ca digital marketing platform offering a wide range of campaigns to help brands engage with their existing audiences and reach new customers through the viral and social nature of the contests and games.\u201d To support the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1534,
+            "title": "Benchmarking Training Time for CNN-based Detectors with Apache MXNet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/benchmarking-training-time-for-cnn-based-detectors-with-apache-mxnet/",
+            "authors": "Iris Fu, Cambron Carter",
+            "tags": null,
+            "publishedOn": "2017-08-26T00:00:00",
+            "description": "This is a guest post by Cambron Carter, Director of Engineering, and Iris Fu, Computer Vision Scientist at GumGum. In their own words, \u201cGumGum is an artificial intelligence company with deep expertise in computer vision, which helps their customers unlock the value of images and videos produced daily across the web, social media, and broadcast [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/01/mxnet-600.gif"
+        },
+        {
+            "id": 1535,
+            "title": "AWS CloudTrail Integration is Now Available in Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-cloudtrail-integration-is-now-available-in-amazon-lex/",
+            "authors": "Victoria Kouyoumjian",
+            "tags": "Amazon Lex, AWS CloudTrail",
+            "publishedOn": "2017-08-18T00:00:00",
+            "description": "Amazon Lex is now integrated with AWS CloudTrail, a service that enables you to log, continuously monitor, and retain events related to API calls across your AWS infrastructure, to provide a history of API calls for your account. Amazon Lex API calls are captured from the Amazon Lex console or from your API operations using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1536,
+            "title": "A/B Testing at Scale \u2013 Amazon Machine Learning Research",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ab-testing-at-scale-amazon-machine-learning-research/",
+            "authors": "Guy Ernest",
+            "tags": null,
+            "publishedOn": "2017-08-17T00:00:00",
+            "description": "This week, Amazon presented an academic paper at KDD 2017, the prestigious machine learning and big data conference. The paper shows Amazon\u2019s research into tools that help us measure customers\u2019 satisfaction and better learn how we can implement ideas that delight them. Specifically, we show an efficient bandit algorithm for multivariate testing, where one seeks [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1537,
+            "title": "Apache MXNet Release Candidate Introduces Support for Apple\u2019s Core ML and Keras v1.2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/apache-mxnet-release-candidate-now-supports-apple-core-ml-and-keras-v1-2/",
+            "authors": "Cynthya Peranandam",
+            "tags": "Apache MXNet on AWS",
+            "publishedOn": "2017-08-16T00:00:00",
+            "description": "Apache MXNet is an effort undergoing incubation at the Apache Software Foundation (ASF). Last week, the MXNet community introduced a release candidate for MXNet v0.11.0, its first as an incubating project, and the community is now voting on whether to accept this candidate as a release. It includes the following major feature enhancements: A Core [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/01/mxnet-600.gif"
+        },
+        {
+            "id": 1538,
+            "title": "Build Your Own Face Recognition Service Using Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-your-own-face-recognition-service-using-amazon-rekognition/",
+            "authors": "Christian Petters",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-08-14T00:00:00",
+            "description": "Amazon Rekognition is a service that makes it easy to add image analysis to your applications. It\u2019s based on the same proven, highly scalable, deep learning technology developed by Amazon\u2019s computer vision scientists to analyze billions of images daily for Amazon Prime Photos. Facial recognition enables you to find similar faces in a large collection [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/08/15/face_recognition_1_1_1.gif"
+        },
+        {
+            "id": 1539,
+            "title": "Estimating the Location of Images Using Apache MXNet and Multimedia Commons Dataset on AWS EC2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2/",
+            "authors": "Jaeyoung Choi, Kevin Li",
+            "tags": null,
+            "publishedOn": "2017-08-10T00:00:00",
+            "description": "This is a guest post by Jaeyoung Choi of the International Computer Science Institute and Kevin Li of the University of California, Berkeley. This project demonstrates how academic researchers can leverage our\u00a0AWS Cloud Credits for Research Program\u00a0to support their scientific breakthroughs. Modern mobile devices can automatically assign geo-coordinates to images when you take pictures of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/08/08/tokyotower-1-946x630.jpg"
+        },
+        {
+            "id": 1540,
+            "title": "Analyze Emotion in Video Frame Samples Using Amazon Rekognition on AWS",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyze-emotion-in-video-frame-samples-using-amazon-rekognition-on-aws/",
+            "authors": "Cyrus Wong",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-08-04T00:00:00",
+            "description": "This guest post is by AWS Community Hero Cyrus Wong. Cyrus is a Data Scientist at the Hong Kong Vocational Education (Lee Wai Lee) Cloud Innovation Centre. He has achieved all 7 AWS Certifications and enjoys sharing his AWS knowledge with others through open-source projects, blog posts, and events. HowWhoFeelInVideo is an application that analyzes [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/08/01/HowWhoFeel_7.jpg"
+        },
+        {
+            "id": 1541,
+            "title": "Exploiting the Unique Features of the Apache MXNet Deep Learning Framework with a Cheat Sheet",
+            "url": "https://aws.amazon.com/blogs/machine-learning/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet/",
+            "authors": "Sunil Mallya",
+            "tags": null,
+            "publishedOn": "2017-07-28T00:00:00",
+            "description": "Apache MXNet\u00a0(incubating)\u00a0is a full-featured, highly scalable deep learning framework that supports creating and training state-of-the-art deep learning models. With it, you can create convolutional neural networks (CNNs), long short-term memory networks (LSTMs), and others. It supports a variety of languages, including, but not limited to, Python, Scala, R, and Julia. In this post, we showcase [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/02/01/mxnet-600.gif"
+        },
+        {
+            "id": 1542,
+            "title": "Create a Serverless Solution for Video Frame Analysis and Alerting",
+            "url": "https://aws.amazon.com/blogs/machine-learning/create-a-serverless-solution-for-video-frame-analysis-and-alerting/",
+            "authors": "Moataz Anany",
+            "tags": "Amazon Rekognition",
+            "publishedOn": "2017-07-28T00:00:00",
+            "description": "Imagine capturing frames off of live video streams, identifying objects within the frames, and then triggering actions or notifications based on the identified objects. Now imagine accomplishing all of this with low latency and without a single server to manage In this post, I present a serverless solution that uses Amazon Rekognition and other AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/07/27/serverless_video_frame_analysis_1.gif"
+        },
+        {
+            "id": 1543,
+            "title": "The AWS Deep Learning AMI for Ubuntu is Now Available with CUDA 8, Ubuntu 16, and the Latest Versions of Deep Learning Frameworks",
+            "url": "https://aws.amazon.com/blogs/machine-learning/the-aws-deep-learning-ami-for-ubuntu-is-now-available-with-cuda-8-ubuntu-16-and-the-latest-versions-of-deep-learning-frameworks/",
+            "authors": "Cynthya Peranandam",
+            "tags": null,
+            "publishedOn": "2017-07-24T00:00:00",
+            "description": "The AWS Deep Learning AMI lets you build and scale deep learning applications in the cloud, at any scale. The AMI comes pre-installed with popular deep learning frameworks, to let you to train sophisticated, custom AI models, experiment with new algorithms, or to learn new skills and techniques. The latest release of the AWS Deep [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 5634,
+            "title": "Highlights of TensorFlow Developer Summit 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/04/tensorflow-developer-summit-2018-highlights/",
+            "authors": "Aishwarya Singh",
+            "tags": "Data Science, Deep Learning, Intermediate, Listicle, Machine Learning, Python, Videos",
+            "publishedOn": "2018-04-04T00:00:00",
+            "description": "The TF Dev Summit had many exciting announcements and tech talks. We have covered the most interesting excerpts from the day\u2019s interaction.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/Screenshot-from-2018-04-04-10-24-46-e1522818283840.png"
+        },
+        {
+            "id": 5635,
+            "title": "Automatic Image Captioning using Deep Learning (CNN and LSTM) in PyTorch",
+            "url": "https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Deep Learning, Image, NLP, Project, Python, PyTorch, Sequence Modeling, Supervised, Text, Unstructured Data",
+            "publishedOn": "2018-04-02T00:00:00",
+            "description": "This article covers automatic Image Captioning. It also explains how to solve the image captioning problem using deep learning along with an implementation.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/04/new_featured.png"
+        },
+        {
+            "id": 5636,
+            "title": "25 Open Datasets for Deep Learning Every Data Scientist Must Work With",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Computer Vision, Datasets, Deep Learning, Image, Listicle, NLP, Research & Technology, Text, Unstructured Data",
+            "publishedOn": "2018-03-29T00:00:00",
+            "description": "A complete guide for datasets for deep learning. Here is the list of 25 open datasets for deep learning you should work with to improve your DL skills.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/NN.png"
+        },
+        {
+            "id": 5637,
+            "title": "AVBytes: AI & ML Developments this week \u2013 IBM\u2019s Library 46 Times Faster than TensorFlow, Baidu\u2019s Massive Self-Driving Dataset, the Technology behind AWS SageMaker, etc.",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/avbytes-ai-ml-developments-this-week-260318/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Data Science, Deep Learning, Intermediate, Machine Learning, News, Research & Technology",
+            "publishedOn": "2018-03-26T00:00:00",
+            "description": "AVBytes keeps you updated with all the major developments and advancements in the world of #AI, #MachineLearning & #DataScience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/AVBytes.png"
+        },
+        {
+            "id": 5638,
+            "title": "Introduction to k-Nearest Neighbors: A powerful Machine Learning Algorithm (with implementation in Python & R)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/",
+            "authors": "Tavish Srivastava",
+            "tags": "Algorithm, Big data, Business Analytics, Classification, Intermediate, Machine Learning, Python, R, Structured Data, Supervised",
+            "publishedOn": "2018-03-26T00:00:00",
+            "description": "K Nearest Neighbor (KNN) algorithm is a machine learning algorithm. This article is an introduction to how KNN works and how to implement KNN in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/knn2.png"
+        },
+        {
+            "id": 5639,
+            "title": "Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Classification, Deep Learning, Image, Python, Supervised, Technique, Unstructured Data",
+            "publishedOn": "2018-03-22T00:00:00",
+            "description": "Learn the importance of CNN visualization. This article covers visualizing Convolutional Neural Network and methods of visualization in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/example.01.png"
+        },
+        {
+            "id": 5640,
+            "title": "Introduction to Regression Splines (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/",
+            "authors": "Gurchetan1000 Singh",
+            "tags": "Intermediate, Linear Regression, Machine Learning, Python, Regression, Structured Data, Supervised, Technique",
+            "publishedOn": "2018-03-20T00:00:00",
+            "description": "This article explains regression splines and their benefits over linear and polynomial regression. It also includes a Python case study of spline regression",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-22-at-4.24.22-PM.png"
+        },
+        {
+            "id": 5641,
+            "title": "AVBytes: AI & ML Developments this week \u2013 Microsoft\u2019s NLP AI, Build your Own Face Emoji, Google\u2019s Music Making Model, Reuter\u2019s AI Redefining Journalism, etc.",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/avbytes-ai-ml-developments-this-week-190318/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Data Science, Deep Learning, Machine Learning, News",
+            "publishedOn": "2018-03-19T00:00:00",
+            "description": "AVBytes keeps you updated with all the major developments and advancements in the world of #AI, #MachineLearning & #DataScience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/AVBytes.png"
+        },
+        {
+            "id": 5642,
+            "title": "Essentials of Deep Learning \u2013 Sequence to Sequence modelling with Attention (using python)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Algorithm, Deep Learning, Python, Sequence Modeling, Supervised, Text, Unstructured Data",
+            "publishedOn": "2018-03-15T00:00:00",
+            "description": "This article covers Seq2Seq models and Attention models. This seq2seq tutorial explains Sequence to Sequence modelling with Attention.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/flight-1179587_1920.jpg"
+        },
+        {
+            "id": 5643,
+            "title": "Top 5 Data Science & Machine Learning Repositories on GitHub in Feb 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/top-5-github-repositories-february-2018/",
+            "authors": "Pranav Dar",
+            "tags": "Data Science, Deep Learning, Github, Intermediate, Listicle, Machine Learning, Python",
+            "publishedOn": "2018-03-15T00:00:00",
+            "description": "Take a look at the top 5 machine learning and data science github repositories that were created in February, 2018.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/github1.png"
+        },
+        {
+            "id": 5644,
+            "title": "A Guide to Building an Intelligent Chatbot for Slack using Dialogflow API",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/how-to-build-an-intelligent-chatbot-for-slack-using-dialogflow-api/",
+            "authors": "[email\u00a0protected] Sanad",
+            "tags": "Intermediate, NLP, Project, Python, Sequence Modeling, Supervised, Text, Unstructured Data",
+            "publishedOn": "2018-03-13T00:00:00",
+            "description": "This tutorial teaches you to build an AI chatbot for Slack using Google's DialogFlow (previously api.ai) from scratch and in a beginner friendly manner.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/Dnews-files-2014-07-wiki-bot-140715-670-jpg.jpg"
+        },
+        {
+            "id": 5645,
+            "title": "AVBytes: AI & ML Developments this week \u2013 Pandas on Ray, Windows ML, TensorFlow code for Google\u2019s AstroNet, An online tool for Dirty Data, etc.",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/avbytes-ai-ml-developments-this-week-120318/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Data Science, Deep Learning, Intermediate, Machine Learning, News",
+            "publishedOn": "2018-03-12T00:00:00",
+            "description": "AVBytes keeps you updated with all the major developments and advancements in the world of #AI, #MachineLearning & #DataScience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/AVBytes.png"
+        },
+        {
+            "id": 5646,
+            "title": "Interview with Margherita Pagani and Cl\u00e9ment Levallois, Program Co-Directors, MSc in Digital Marketing and Data Science, emlyon business school",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/interview-margherita-pagani-clement-levallois-program-co-directors-msc-digital-marketing-data-science-emlyon-business-school/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Digital Marketing, Interview Questions, Interviews",
+            "publishedOn": "2018-03-08T00:00:00",
+            "description": "Introduction emlyon business school, founded in 1872, stands out among the top few business schools worldwide. It has been awarded three international accreditations and is ranked in the top 100 for Global Employability by the Times Higher Education \u2013 University Rankings 2016. Choosing to study at emlyon business school is choosing to study in a [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/logo-emlyon-business-school.jpg"
+        },
+        {
+            "id": 5647,
+            "title": "How to create a poet / writer using Deep Learning (Text Generation using Python)?",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/",
+            "authors": "Pranj52 Srivastava",
+            "tags": "Advanced, Deep Learning, Machine Learning, NLP, Project, Python, Sequence Modeling, Supervised, Text, Unstructured Data",
+            "publishedOn": "2018-03-06T00:00:00",
+            "description": "Learn about text generators, text generation using python to build a machine learning model that can write sonnets in the style of William Shakespeare.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/pexels-photo-261763.jpeg"
+        },
+        {
+            "id": 5648,
+            "title": "AVBytes: AI & ML Developments this week \u2013 Google Brain\u2019s Image Manipulation, Record-Breaking AI, Stanford\u2019s ML Model Predicts Poverty",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/avbytes-developments-machine-learning/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Deep Learning, Machine Learning, News",
+            "publishedOn": "2018-03-04T00:00:00",
+            "description": "AVBytes keeps you updated with all the major developments and advancements in the world of #AI, #MachineLearning & #DataScience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/AVBytes.png"
+        },
+        {
+            "id": 5649,
+            "title": "A Step-by-Step Guide to learn Advanced Tableau \u2013 for Data Science and Business Intelligence Professionals",
+            "url": "https://www.analyticsvidhya.com/blog/2018/03/tableau-for-advanced-users-easy-expertise-in-data-visualisation/",
+            "authors": "Pavleenk Kaur",
+            "tags": "Business Analytics, Business Intelligence, Data Visualization, Infographics, Intermediate, Libraries, Programming, R, Structured Data, Tableau",
+            "publishedOn": "2018-03-01T00:00:00",
+            "description": "Learn how to create advanced charts like Donut, Pareto and Waterfall in Tableau and to integrate R programming in Tableau to create dynamic visualisations",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/50267785_ml-min.jpg"
+        },
+        {
+            "id": 5650,
+            "title": "Ultimate guide to deal with Text Data (using Python) \u2013 for Data Scientists and Engineers",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/",
+            "authors": "Shubham.jain Jain",
+            "tags": "Classification, Intermediate, Machine Learning, NLP, Python, Supervised, Technique, Text, Unstructured Data",
+            "publishedOn": "2018-02-27T00:00:00",
+            "description": "Text data has become a common thing these days. This article is an ultimate guide to deal with text data for data scientists.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/text.jpg"
+        },
+        {
+            "id": 5651,
+            "title": "AVBytes: Developments this week \u2013 Automated Feature Engineering, Baidu\u2019s voice cloning AI, JupyterLab Release, Google\u2019s Heart Disease Predicting AI, etc.",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/avbytes-developments-deep-learning-machine-learning-data-science/",
+            "authors": "Pranav Dar",
+            "tags": "Analytics Vidhya, Beginner, Deep Learning, Machine Learning, News",
+            "publishedOn": "2018-02-26T00:00:00",
+            "description": "AVBytes keeps you updated with all the major developments and advancements in the world of #AI, #MachineLearning & #DataScience.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/AVBytes.png"
+        },
+        {
+            "id": 5652,
+            "title": "An Introduction to PyTorch \u2013 A Simple yet Powerful Deep Learning Library",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Libraries, Programming, Python, PyTorch, Supervised, Unstructured Data",
+            "publishedOn": "2018-02-22T00:00:00",
+            "description": "Pytorch tutorial that covers basics and working of pytorch. This article is an introduction to pytorch and deep learning with pytorch.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat.png"
+        },
+        {
+            "id": 5653,
+            "title": "Top 5 Data Science & Machine Learning Repositories on GitHub in Jan 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Data Science, Deep Learning, Github, Listicle, Machine Learning, Python",
+            "publishedOn": "2018-02-19T00:00:00",
+            "description": "Take a look at the top 5 machine learning and data science github repositories that were created in January, 2018 - DeepReinforcementLearning, detectron etc",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/github1.png"
+        },
+        {
+            "id": 5654,
+            "title": "10 Free Must-Read Machine Learning E-Books For Data Scientists & AI Engineers",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/10-free-must-read-machine-learning-e-books/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Books, Data Science, Deep Learning, Listicle, Machine Learning, Python, R, Statistics",
+            "publishedOn": "2018-02-16T00:00:00",
+            "description": "This is the list of 10 free machine learning ebooks for data scientists and AI engineers. In this article we cover basic states to advanced machine learning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/books-bookstore-book-reading-159711.jpeg"
+        },
+        {
+            "id": 5655,
+            "title": "Learn Audio Beat Tracking for Music Information Retrieval (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/",
+            "authors": "JalFaizy Shaikh",
+            "tags": "Advanced, Audio, Audio Processing, Deep Learning, Project, Python, Sound Processing, Unstructured Data",
+            "publishedOn": "2018-02-14T00:00:00",
+            "description": "In this article learn about beat tracking and how to solve an audio beat tracking problem for music information retrieval with python codes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/pexels-photo-277463.jpeg"
+        },
+        {
+            "id": 5656,
+            "title": "Natural Language Processing for Beginners: Using TextBlob",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/",
+            "authors": "Shubham.jain Jain",
+            "tags": "Classification, Intermediate, Libraries, NLP, Programming, Python, Supervised, Text, Unstructured Data",
+            "publishedOn": "2018-02-11T00:00:00",
+            "description": "A guide to NLP for beginners on TextBlob, a python library which provides an interface for basic NLP tasks like sentiment analysis, POS tagging",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/textblob-logo.png"
+        },
+        {
+            "id": 5657,
+            "title": "7 methods to perform Time Series forecasting (with Python codes)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/",
+            "authors": "Gurchetan1000 Singh",
+            "tags": "Intermediate, Machine Learning, Python, Statistics, Structured Data, Supervised, Technique, Time Series, Time Series Forecasting",
+            "publishedOn": "2018-02-08T00:00:00",
+            "description": "An introduction to time series forecasting and various forecasting techniques such ARIMA, Holt\u2019s linear trend and winter seasonal methods etc.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/feature.png"
+        },
+        {
+            "id": 5658,
+            "title": "An Introductory Guide to Regularized Greedy Forests (RGF) with a case study in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/",
+            "authors": "Ankit Choudhary",
+            "tags": "Algorithm, Classification, Intermediate, Machine Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2018-02-05T00:00:00",
+            "description": "Introduction As a data scientist participating in multiple machine learning competition, I am always on the lookout for \u201cnot-yet-popular\u201d algorithms. The way I define them is that these algorithms by themselves may not end up becoming a competition winner. But they bring different way for doing predictions on table. Why I am interested in these [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/forest-trees-ecology-environment-60062.jpeg"
+        },
+        {
+            "id": 5659,
+            "title": "Demystifying Information Security Using Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/demystifying-security-data-science/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Science, Information Security, Resource",
+            "publishedOn": "2018-02-02T00:00:00",
+            "description": "Introduction When you search for security data science on the internet, it\u2019s difficult to find resources with crisp and clear information about the use cases, methods and limitations in Information Security (hereby referred to as InfoSec). There\u2019s usually always some marketing material attached to it. So, I thought of summarising my knowledge and InfoSec experience [\u2026]",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/security.jpeg"
+        },
+        {
+            "id": 5660,
+            "title": "Using Data? Master the Science in Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2018/02/using-data-master-the-science-in-data-science/",
+            "authors": "guest_blog",
+            "tags": "Beginner, Data Science, Structured Thinking, Technique",
+            "publishedOn": "2018-02-02T00:00:00",
+            "description": "Have a look at what the science in data science actually means. It's an integral understanding every data scientist should have in their field of work.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/data-secience-1.png"
+        },
+        {
+            "id": 5661,
+            "title": "A Collection of 10 Data Visualizations You Must See",
+            "url": "https://www.analyticsvidhya.com/blog/2018/01/collection-data-visualizations-you-must-see/",
+            "authors": "Pranav Dar",
+            "tags": "Beginner, Business Analytics, Business Intelligence, Data Visualization, Infographics, Listicle, Python, R, Resource",
+            "publishedOn": "2018-01-31T00:00:00",
+            "description": "This is a collection of 10 exquisite data visualizations from around the internet. Also included are links to the source codes and research papers.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/last.jpg"
+        },
+        {
+            "id": 5662,
+            "title": "A Beginner\u2019s Guide to Channel Attribution Modeling in Marketing (using Markov Chains, with a case study in R)",
+            "url": "https://www.analyticsvidhya.com/blog/2018/01/channel-attribution-modeling-using-markov-chains-in-r/",
+            "authors": "guest_blog",
+            "tags": "Business Analytics, Business Intelligence, Classification, E-Commerce, Graphs & Networks, Intermediate, R, Structured Data, Supervised, Technique, Use Cases",
+            "publishedOn": "2018-01-28T00:00:00",
+            "description": "What is channel attribution and how does it tie into Markov Chains? Understand channel attribution modeling with case study of an e-commerce company.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/attribution-colby-1200-800x450.png"
+        },
+        {
+            "id": 5663,
+            "title": "The Ultimate Learning Path to Becoming a Data Scientist in 2018",
+            "url": "https://www.analyticsvidhya.com/blog/2018/01/ultimate-learning-path-becoming-data-scientist-2018/",
+            "authors": "Kunal Jain",
+            "tags": "Beginner, Business Analytics, Data Science, Deep Learning, Interview Questions, Learning Path, Machine Learning, NLP, Python, Statistics",
+            "publishedOn": "2018-01-25T00:00:00",
+            "description": "This article is aimed at how to become a data scientist. This article contains the ultimate learning path to become a data scientist in 2018.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/01/datascience-path.jpg"
+        }
+    ]
+}

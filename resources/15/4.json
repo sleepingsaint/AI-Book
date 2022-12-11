@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9746,
+            "title": "Researchers At Stanford Have Developed An Artificial Intelligence (AI) Approach Called \u2018MEND\u2019 For Fast Model Editing At Scale",
+            "url": "https://www.marktechpost.com/2022/11/09/researchers-at-stanford-have-developed-an-artificial-intelligence-ai-approach-called-mend-for-fast-model-editing-at-scale/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Large models have improved performance on a wide range of modern computer vision and, in particular, natural language processing problems. However, issuing patches to adjust model behavior after deployment is a significant challenge in deploying and maintaining such models. Because of the distributed nature of the model's representations, when a neural network produces an undesirable output, making a localized update to correct its behavior for a single or small number of inputs is difficult. A large language model trained in 2019 might assign a higher probability to Theresa May than Boris Johnson when prompted. Who is the Prime Minister of",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-7.png"
+        },
+        {
+            "id": 9747,
+            "title": "Latest Artificial Intelligence (AI) Research Proposes A Method To Transform Faces Through Time",
+            "url": "https://www.marktechpost.com/2022/11/09/latest-artificial-intelligence-ai-research-proposes-a-method-to-transform-faces-through-time/",
+            "authors": "Daniele Lorenzi",
+            "tags": null,
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Artificial Intelligence (AI) and Deep Learning (DL) techniques are recently becoming the foundation of applications such as text-to-image generation, super-resolution, and in-image painting. Indeed, it is possible to give them as input the high-detailed description of an image and receive a realistic picture corresponding to the given text as output. Furthermore, they can transpose an image from a low resolution to a higher resolution, generating a new series of realistic high-frequency details. They can even help remove artifacts or undesired objects from an input image. The variety of tasks and capabilities of neural networks seem to be unlimited. What if",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-09-at-2.06.29-PM.png"
+        },
+        {
+            "id": 9748,
+            "title": "Meet MagicMix: An AI Model That Brings Semantic Mixing Capability to Image Diffusion Models",
+            "url": "https://www.marktechpost.com/2022/11/09/meet-magicmix-an-ai-model-that-brings-semantic-mixing-capability-to-image-diffusion-models/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-09T00:00:00",
+            "description": "Large-scale text-conditioned image generation models have shown impressive results in recent years. They can generate realistic-looking images given a text prompt. These models are trained with extremely large image-text caption pairs. Because of the strong semantic prior learned from a huge collection of image-caption pairings, such models may even produce new concepts by combining different compositions. For example, you can ask them to generate \u201cPikachu as a gladiator, riding a horse in space,\u201d and they will produce a relatively realistic image, despite the concept being totally new. Regardless of the new combination, each object instance is known, given the learned",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-09-at-10.18.52-AM.png"
+        },
+        {
+            "id": 9749,
+            "title": "Top Innovative Artificial Intelligence (AI) Powered Startups Based in Denmark (2022)",
+            "url": "https://www.marktechpost.com/2022/11/08/top-innovative-artificial-intelligence-ai-powered-startups-based-in-denmark-2022/",
+            "authors": "Mansi Rawat",
+            "tags": null,
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "The world of now and tomorrow depends on artificial intelligence. Corporate leaders have firsthand knowledge of AI's influence and potential in the startup arena. Because of this, businesses all over the world are attempting to use AI to find solutions to a variety of challenges. In this article, let's look at some of Denmark's most promising artificial intelligence startups. Veo Veo is a sports video production and broadcasting application that provides high-quality automated video streaming, production, editing, and recording solutions to revolutionize sports broadcasting and streaming. Veo Cam 2 is a portable AI camera that can automatically live-stream matches. It",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-6.png"
+        },
+        {
+            "id": 9750,
+            "title": "Microsoft AI Proposes \u2018FocalNets\u2019 Where Self-Attention is Completely Replaced by a Focal Modulation Module, Enabling To Build New Computer Vision Systems For high-Resolution Visual Inputs More Efficiently",
+            "url": "https://www.marktechpost.com/2022/11/08/microsoft-ai-proposes-focalnets-where-self-attention-is-completely-replaced-by-a-focal-modulation-module-enabling-to-build-new-computer-vision-systems-for-high-resolution-visual-inputs-more-effic/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Human eyes allow us to see finely and coarsely objects by quickly adjusting their focal points to allow us to observe our surroundings from all angles. In the area of computer vision, simulating this behavior using a neural network is still a work in progress because it is challenging to create a model that can effectively concentrate on varied granularities of visual inputs for various tasks. Transformers and Vision Transformers have allowed for recent NLP and vision technology advancements. Transformers' self-attention (SA) mechanism, which enables each inquiry token to gather information from others nimbly, makes them stand out in terms",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-08-at-3.20.10-PM.png"
+        },
+        {
+            "id": 9751,
+            "title": "AI Researchers From China Propose (Diffusion Probabilistic Model) DPM-Solver++, A Training-Free Fast Diffusion ODE Solver For Guided Sampling",
+            "url": "https://www.marktechpost.com/2022/11/08/ai-researchers-from-china-propose-diffusion-probabilistic-model-dpm-solver-a-training-free-fast-diffusion-ode-solver-for-guided-sampling/",
+            "authors": "Vineet Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "Nowadays, text-to-image synthesis is gaining a lot of popularity. A diffusion probabilistic model is a class of latent variable models that have arisen to be state-of-the-art on this task. Different models have been proposed lately, like DALLE-2, Imagen, Stable Diffusion, etc., which are surprisingly good at generating hyper-realistic images from a given text prompt. But how are they able to do so? Why are some models better than others in terms of image quality, speed, and reliability? How can we further improve these models? These are some questions the author of the paper has tried to answer.\u00a0 Diffusion probabilistic models",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-08-at-1.41.01-PM.png"
+        },
+        {
+            "id": 9752,
+            "title": "Meta AI Researchers Propose \u2018JUICER,\u2019 a Framework to Make Use of Both Binary and Free-Form Textual Human Feedback to Improve Dialogue Models After Deployment",
+            "url": "https://www.marktechpost.com/2022/11/08/meta-ai-researchers-propose-juicer-a-framework-to-make-use-of-both-binary-and-free-form-textual-human-feedback-to-improve-dialogue-models-after-deployment/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-08T00:00:00",
+            "description": "The machine learning community has recently concentrated a lot of its research on the best ways to leverage human feedback to enhance the performance and answers of chatbots and other language dialogue models. Deployed dialogue agents may use user feedback to enhance their performance over time. Although rare, human feedback in the wild usually takes the form of up or down votes, unstructured text comments, and 'gold' edits. However, humans cannot always give transparent or trustworthy cues indicating the same when a chatbot makes errors during encounters. In the recently published study: 'When Life Gives You Lemons, Make Cherryade: Converting",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-08-at-8.57.24-AM.png"
+        },
+        {
+            "id": 9753,
+            "title": "Meet Prompt-to-Prompt: An Artificial Intelligence AI Model That Brings Image Editing Capabilities to Text-to-Image Models",
+            "url": "https://www.marktechpost.com/2022/11/07/meet-prompt-to-prompt-an-artificial-intelligence-ai-model-that-brings-image-editing-capabilities-to-text-to-image-models/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "It is okay to assume everybody has heard about the Stable Diffusion or DALL-E at this point. The huge craze about text-to-image models has taken over the entire AI domain in the last couple of months, and we have seen really cool executions.\u00a0 Large-scale language-image (LLI) models have shown extremely pleasing performance in image generation and semantic understanding. They are trained on extremely large datasets (that is where the Large-scale comes from, not the model size) and use advanced image generation methods like auto-encoders or diffusion models.\u00a0 These models can generate impressive-looking images or even videos. All you need to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-07-at-8.31.17-PM.png"
+        },
+        {
+            "id": 9754,
+            "title": "According To This New AI Research At MIT, Machine Learning Models Trained On Synthetic Data Can Outperform Models Trained On Real Data In Some Cases, Which Could Eliminate Some Privacy, Copyright, And Ethical Concerns",
+            "url": "https://www.marktechpost.com/2022/11/07/according-to-this-new-ai-research-at-mit-machine-learning-models-trained-on-synthetic-data-can-outperform-models-trained-on-real-data-in-some-cases-which-could-eliminate-some-privacy-copyright-and/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "Action recognition, or teaching a machine to recognize human actions, has a wide range of potential applications. For example, it may be used to automatically detect workers who trip and fall on a construction site or teach a smart home robot to understand a user's gestures. To do this, massive video databases, including footage of people acting naturally, are used to train machine-learning models. However, gathering and labeling millions or billions of movies is costly and time-consuming. The clips sometimes include private data like license plate numbers or the faces of real individuals. Additionally, using these videos can be against",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-07-at-3.09.51-PM.png"
+        },
+        {
+            "id": 9755,
+            "title": "AI Researchers At Mayo Clinic Introduce A Machine Learning-Based Method For Leveraging Diffusion Models To Construct A Multitask Brain Tumor Inpainting Algorithm",
+            "url": "https://www.marktechpost.com/2022/11/07/ai-researchers-at-mayo-clinic-introduce-a-machine-learning-based-method-for-leveraging-diffusion-models-to-construct-a-multitask-brain-tumor-inpainting-algorithm/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "The number of AI and, in particular, machine learning (ML) publications related to medical imaging has increased dramatically in recent years. A current PubMed search using the Mesh keywords 'artificial intelligence' and 'radiology' yielded 5,369 papers in 2021, more than five times the results found in 2011. ML models are constantly being developed to improve healthcare efficiency and outcomes, from classification to semantic segmentation, object detection, and image generation. Numerous published reports in diagnostic radiology, for example, indicate that ML models have the capability to perform as good as or even better than medical experts in specific tasks, such as",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-4.jpg"
+        },
+        {
+            "id": 9756,
+            "title": "Use of Artificial Intelligence AI in Financial Transaction Processing and Payment Gateway Applications",
+            "url": "https://www.marktechpost.com/2022/11/07/use-of-artificial-intelligence-ai-in-financial-transaction-processing-and-payment-gateway-applications/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-07T00:00:00",
+            "description": "The widespread availability of digital payment systems hastened the transition from traditional currency. In recent years, artificial intelligence (AI) has been a focal point for gateway solutions for online payments. Some of the most successful companies have found that using AI for payments may be beneficial. As a result, more and more payment processors are using AI in their practices to enhance learning, simplify transactions and fortify safety.\u00a0 A payment gateway is a software module that facilitates safe and secure financial transactions between a customer and a merchant. Among these include checking if a customer has sufficient cash in their",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/4482405-scaled.jpg"
+        },
+        {
+            "id": 9757,
+            "title": "PDEBENCH: A Benchmark Suite of Time-Dependent Simulation to Benchmark The Performance of Novel Machine Learning Models",
+            "url": "https://www.marktechpost.com/2022/11/06/pdebench-a-benchmark-suite-of-time-dependent-simulation-to-benchmark-the-performance-of-novel-machine-learning-models/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-06T00:00:00",
+            "description": "Recent advances in the emerging field of Scientific Machine Learning (also known as machine learning for physical sciences or data-driven science) have expanded the scope of traditional machine learning (ML) methods to include the time evolution of physical systems. Rapid progress has been made in this field in using neural networks to make predictions using available observations over continuous domains or with challenging constraints and physically motivated conservation laws. These neural networks offer a method for solving PDEs that complements traditional numerical solvers. Data-driven ML methods, for example, are helpful when observations are noisy or the underlying physical model needs",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-2.png"
+        },
+        {
+            "id": 9758,
+            "title": "Researchers from ETH Zurich and Microsoft Propose \u2018LaMAR,\u2019 a New Benchmark for Localization and Mapping for Augmented Reality",
+            "url": "https://www.marktechpost.com/2022/11/06/researchers-from-eth-zurich-and-microsoft-propose-lamar-a-new-benchmark-for-localization-and-mapping-for-augmented-reality/",
+            "authors": "Ekrem C\u0327etinkaya",
+            "tags": null,
+            "publishedOn": "2022-11-06T00:00:00",
+            "description": "Augmented reality (AR) is on its way to becoming a part of our daily lives. We can define it as placing a virtual object in the real world and making sure it preserves its location and shape over time until it is removed from the scene. These scenarios necessitate AR devices properly determining their 6-DoF position at any moment in time in order to consistently overlay virtual material in the real environment with pixel-level precision.\u00a0 Visual localization and mapping have been studied intensively in the computer vision domain. However, their application to AR can be tricky and presents unique challenges.\u00a0",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/fig1.png"
+        },
+        {
+            "id": 9759,
+            "title": "Google AI Introduces Reincarnating Reinforcement Learning RL That Reuses Prior Computation to Accelerate Progress",
+            "url": "https://www.marktechpost.com/2022/11/06/google-ai-introduces-reincarnating-reinforcement-learning-rl-that-reuses-prior-computation-to-accelerate-progress/",
+            "authors": "Avanthy Yeluri",
+            "tags": null,
+            "publishedOn": "2022-11-06T00:00:00",
+            "description": "Reinforcement Learning RL, which falls under the Machine Learning umbrella, focuses on training intelligent agents to make decisions by using related experiences. This could include flying a stratospheric balloon, designing a hardware chip, or playing a video game. RL is very generalized, and one common trend in RL research is designing agents that can learn from an idea without any prior knowledge about the problem. tabula rasa RL systems are an exception for solving large-scale RL problems rather than a norm. Large-scale RL systems such as OpenAI Five have achieved human-level performance on Dota2 after undergoing multiple algorithmic/architectural changes during",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-06-at-8.47.51-AM.png"
+        },
+        {
+            "id": 9760,
+            "title": "Top Tools For Machine Learning Simplification And Standardization",
+            "url": "https://www.marktechpost.com/2022/11/05/top-tools-for-machine-learning-simplification-and-standardization/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-05T00:00:00",
+            "description": "Artificial intelligence and machine learning are two innovative leaders as the world benefits from technology's draw to sectors globally. Choosing which tool to use can be difficult because so many have gained popularity in the market to stay competitive. You choose your future when you select a machine learning tool. Since everything in the field of artificial intelligence develops so quickly, it's critical to maintain a balance between 'old dog, old tricks' and 'just made it yesterday.' The number of machine learning tools is expanding; with it, the requirement is to evaluate them and comprehend how to select the best",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-5.png"
+        },
+        {
+            "id": 9761,
+            "title": "What is AIOps (Artificial Intelligence for IT Operations)?AIOps Use Cases",
+            "url": "https://www.marktechpost.com/2022/11/05/what-is-aiops-artificial-intelligence-for-it-operationsaiops-use-cases/",
+            "authors": "Arham Islam",
+            "tags": null,
+            "publishedOn": "2022-11-05T00:00:00",
+            "description": "What is AIOps (Artificial Intelligence for IT Operations) The volume of data that IT systems generate nowadays is overwhelming, and without intelligent monitoring and analysis tools, it can result in missed opportunities, alerts, and expensive downtime. However, with the advent of Machine Learning and Big Data, a new category of IT operations tool has emerged called AIOps. AIOps can be defined as the practical application of Artificial Intelligence to augment, support, and automate IT processes. It leverages Machine Learning, Natural Language Processing, and Analytics to monitor and analyze complex real-time data, helping teams quickly detect and resolve issues. With AIOps,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner.gif"
+        },
+        {
+            "id": 9762,
+            "title": "CMU and MIT Researchers Developed a Machine Learning System Called Neural Acoustic Fields (NAFs) That can Simulate How a Listener Would Hear a Sound From Any Point in a Room",
+            "url": "https://www.marktechpost.com/2022/11/05/cmu-and-mit-researchers-developed-a-machine-learning-system-called-neural-acoustic-fields-nafs-that-can-simulate-how-a-listener-would-hear-a-sound-from-any-point-in-a-room/",
+            "authors": "Rishabh Jain",
+            "tags": null,
+            "publishedOn": "2022-11-05T00:00:00",
+            "description": "Our environment is filled with acoustic information. When we walk into a hall, the acoustic and visual information can help us map the hall and tell how big the theater is. If we drop a glass, the sound can tell us if it's broken or not.\u00a0 The creation of continuous, differentiable representations of the visual world directly from raw picture observations has been made possible by recent advancements in implicit neural representations. But there has been less research in the field of acoustic models of the world. However, we perceive the world both in visual and acoustic input. Past works",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-05-at-2.33.12-PM.png"
+        },
+        {
+            "id": 9763,
+            "title": "Researchers at Michigan State University Developed \u2018DANCE,\u2019 a Python Library to Support Deep Learning Models for Analyzing Single-Cell Gene Expression at Scale",
+            "url": "https://www.marktechpost.com/2022/11/05/researchers-at-michigan-state-university-developed-dance-a-python-library-to-support-deep-learning-models-for-analyzing-single-cell-gene-expression-at-scale/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-05T00:00:00",
+            "description": "From single-modality profiling (RNA, protein, and open chromatin) to multimodal profiling and spatial transcriptomics, the technology for analyzing single cells has advanced rapidly in recent years. A proliferation of computational approaches, especially those based on machine learning, has been thus prompted by the rapid expansion of this subject.\u00a0 Researchers state that it is challenging to replicate the results as shown in the original articles due to the diversity and complexity of current approaches. Hyperparameter tweaking, incompatibilities between programming languages, and the lack of a publicly available codebase all provide significant obstacles. Since most existing works have only reported their performance",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-05-at-9.33.57-AM.png"
+        },
+        {
+            "id": 9764,
+            "title": "Top Innovative Artificial Intelligence (AI) Powered Startups Based in Finland (2022)",
+            "url": "https://www.marktechpost.com/2022/11/04/top-innovative-artificial-intelligence-ai-powered-startups-based-in-finland-2022/",
+            "authors": "Mansi Rawat",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Artificial intelligence is experiencing exponential growth and is being used by thousands of businesses worldwide. It is easing our daily lives and offering solutions to the most challenging issues. Let's look at some of the most cutting-edge AI startups established in Finland. Claned Although digital or online learning is developing quickly, it still has many shortcomings, including a lack of simplicity and personalization. Claned is a personalized online learning platform revolutionizing the digital learning arena. The platform is integrated with learning design components that naturally help teachers make better online courses. Additionally, Claned automatically collects and analyzes learning data from",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-1.jpg"
+        },
+        {
+            "id": 9765,
+            "title": "Latest Machine Learning Study Explains Background Bias in Deep Metric Learning DML by Conducting Multiple Experiments on Three Standard DML Datasets And Five Different DML Loss Functions",
+            "url": "https://www.marktechpost.com/2022/11/04/latest-machine-learning-study-explains-background-bias-in-deep-metric-learning-dml-by-conducting-multiple-experiments-on-three-standard-dml-datasets-and-five-different-dml-loss-functions/",
+            "authors": "Mahmoud Ghorbel",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "A computer system known as an image retrieval system is used to browse, search for, and retrieve images from a large database of digital images. Feature extraction is the most crucial aspect of image retrieval. The features match the representation of an image and should also make it possible to retrieve the images effectively. Deep Metric Learning (DML) is a technique used to train a neural network to map input images to a lower-dimensional embedding space so that similar images are closer than dissimilar ones. Unfortunately, DML does not resolve background bias which causes irrelevant feature extraction. In the literature,",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2-1.png"
+        },
+        {
+            "id": 9766,
+            "title": "Researchers at KAUST Propose a Data-Driven Artificial Intelligence (AI) Framework to Design Liquid Fuels Exhibiting Tailor-Made Properties for Combustion Engine Applications to Improve Efficiency and Lower Carbon Emissions",
+            "url": "https://www.marktechpost.com/2022/11/04/researchers-at-kaust-propose-a-data-driven-artificial-intelligence-ai-framework-to-design-liquid-fuels-exhibiting-tailor-made-properties-for-combustion-engine-applications-to-improve-efficiency-and/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "High-performance fuel design is essential to create cleaner burning and more efficient engine systems. To increase efficiency and reduce carbon emissions while designing liquid fuels for combustion engine applications, they present a data-driven artificial intelligence (AI) framework. The fuel design approach is a limited optimization challenge that combines two components: \u00a0A deep learning (DL) model to forecast the attributes of single components and mixes. Search algorithms to quickly move about the chemical space.\u00a0 Their method incorporates the mixing operator (MO) into the network architecture and provides the mixture-hidden vector as a linear combination of the vectors of each individual component",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-3.jpg"
+        },
+        {
+            "id": 9767,
+            "title": "The Impact of Artificial Intelligence (AI) on the Financial Technology (FinTech) Industry",
+            "url": "https://www.marktechpost.com/2022/11/04/the-impact-of-artificial-intelligence-ai-on-the-financial-technology-fintech-industry/",
+            "authors": "Dhanshree Shripad Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Innovation is crucial in several industries, like financial technology, artificial intelligence, and machine learning. The advent of AI and ML is no longer anticipated as a precursor to ground-breaking new technologies. They were once widely used in the context of technology but have since become indispensable to the progress of artificial intelligence and machine learning in the online world. Statistics predict meteoric growth for AI-driven fintech solutions over the coming years. Artificial intelligence (AI) permeates every facet of modern life, from the workplace to the household. Investors from every corner of the globe have used an electronic financial platforms. The",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1-1.png"
+        },
+        {
+            "id": 9768,
+            "title": "Meta AI Introduces A Machine Learning-Based Model That Predicts Protein Folding 60x Faster Than The State of The Art",
+            "url": "https://www.marktechpost.com/2022/11/04/meta-ai-introduces-a-machine-learning-based-model-that-predicts-protein-folding-60x-faster-than-the-state-of-the-art/",
+            "authors": "Khushboo Gupta",
+            "tags": null,
+            "publishedOn": "2022-11-04T00:00:00",
+            "description": "Proteins are complex biological molecules that play a vital role in numerous essential and diverse life processes. They carry out a variety of biological tasks in organisms, from enabling human vision to the intricate molecular machinery that transforms solar energy into chemical energy in plants. Proteins consisting of 20 different types of amino acids may fold into complex 3D structures. Because of their structure, they have more room to move around, and scientists can better understand how they work, allowing them to develop strategies to mimic, change, or inhibit that behavior. However, using the amino acid formula alone will not",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-1.png"
+        },
+        {
+            "id": 9769,
+            "title": "Top Artificial Intelligence (AI) And Machine Learning-Related Subreddits To Follow in 2022",
+            "url": "https://www.marktechpost.com/2022/11/03/top-artificial-intelligence-ai-and-machine-learning-related-subreddits-to-follow-in-2022/",
+            "authors": "Mansi Rawat",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Reddit is a top-rated social media platform among Millenials and Gen Z. This is a result of its transparency and user-friendliness. It offers customers a smooth, ad-free experience while holding some of the best content available. It's one of the most popular platforms for tech enthusiasts, offering up-to-date news and information. Let's look at some of the top AI subreddits to find the best content on the latest advancements in Artificial Intelligence.\u00a0 r/artificial r/artificial is the largest subreddit dedicated to all issues related to Artificial Intelligence or AI. With over 167k members, one can find the latest news, examples of",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-4.png"
+        },
+        {
+            "id": 9770,
+            "title": "Researchers From MIT Have Developed A New Machine Learning Based Approach With 90 Percent Accuracy To Screen Candidate Materials If They Are Topological For Next-Generation Computer Chips or Quantum Devices",
+            "url": "https://www.marktechpost.com/2022/11/03/researchers-from-mit-have-developed-a-new-machine-learning-based-approach-with-90-percent-accuracy-to-screen-candidate-materials-if-they-are-topological-for-next-generation-computer-chips-or-quantum-d/",
+            "authors": "Vineet Kumar",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Topological materials are a special kind of material that have different functional properties on their surfaces than on their interiors. One of these properties is electrical. These materials have the potential to make electronic and optical devices much more efficient or serve as key components of quantum computers. But recent theories and calculations have shown that there can be thousands of compounds that have topological properties, and testing all of them to determine their topological properties through experiments will take years of work and analysis. Hence, there is a dire need for faster methods to test and study topological materials.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2.png"
+        },
+        {
+            "id": 9771,
+            "title": "How Instagram is Using Causal Inference and Machine Learning to Improve Instagram Notification Management",
+            "url": "https://www.marktechpost.com/2022/11/03/how-instagram-is-using-causal-inference-and-machine-learning-to-improve-instagram-notification-management/",
+            "authors": "Avanthy Yeluri",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "Instagram is one of the most happening places on social media, and it is quite important to provide a personalized experience by sending most important notifications to the users. Instagram notifications bridge the communication gap between its users. Avoiding less important content in notifications is very much important to enhance user experience. By prioritizing the quality over quantity approach, engineers at Instagram found ways to send fewer notifications that are more important and interesting to them. A daily digest push notification about stories is a type of notification that lists down stories that are shared and ready to view, and",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner-2.jpg"
+        },
+        {
+            "id": 9772,
+            "title": "Baidu AI Researchers Propose ERNIE-ViLG 2.0, A Large-Scale Chinese Text-To-Image Diffusion Model That Gradually Improves Image Quality",
+            "url": "https://www.marktechpost.com/2022/11/03/baidu-ai-researchers-propose-ernie-vilg-2-0-a-large-scale-chinese-text-to-image-diffusion-model-that-gradually-improves-image-quality/",
+            "authors": "Aneesh Tickoo",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "The text-to-image generation has come a long way in recent years. Text-to-image generation models that use large-scale training data and model parameters can now vividly depict the visual scene described by a text prompt, allowing anyone to create exquisite images without sophisticated drawing skills. Diffusion models are gaining popularity among image generation approaches due to their ability to generate highly photorealistic images based on text prompts. Text-to-image diffusion models such as LDM, GLIDE, DALL-E 2, and Imagen have demonstrated impressive performance in both text relevance and image fidelity in recent years. Given a text prompt, the models use iterative denoising",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-03-at-10.06.10-AM.png"
+        },
+        {
+            "id": 9773,
+            "title": "Google AI Researchers Develop\u00a0Code as Policies\u00a0(CaP), a Robot-Centric Formulation of Language Model-Generated Programs Executed on Physical Systems",
+            "url": "https://www.marktechpost.com/2022/11/03/google-ai-researchers-develop-code-as-policies-cap-a-robot-centric-formulation-of-language-model-generated-programs-executed-on-physical-systems/",
+            "authors": "Ashish kumar",
+            "tags": null,
+            "publishedOn": "2022-11-03T00:00:00",
+            "description": "What if, in response to human commands, robots could develop their programming to interact with the outside world? It turns out that the most modern language models, like PaLM, are capable of complex reasoning because they have been trained on millions of lines of code. They demonstrate that current language models are effective at producing code that can control robot behavior in addition to ordinary code. When provided with numerous sample instructions and their accompanying code, language models may take in new instructions and automatically generate new code that reassembles API calls, creates new functions, and expresses feedback loops to",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-03-at-8.58.07-AM.png"
+        },
+        {
+            "id": 9774,
+            "title": "Amazon AI Researchers Propose A New Deep Learning-Based Method For Adapting An MDE Model Trained On One Labeled Dataset To Another, Unlabeled Dataset",
+            "url": "https://www.marktechpost.com/2022/11/02/amazon-ai-researchers-propose-a-new-deep-learning-based-method-for-adapting-an-mde-model-trained-on-one-labeled-dataset-to-another-unlabeled-dataset/",
+            "authors": "Tanushree Shenwai",
+            "tags": null,
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Depth data is crucial for various robot uses, including navigation, mapping, and obstacle avoidance. Monocular depth estimation (MDE), which makes depth predictions using only a single image, can be more useful in particular situations. It is inexpensive, compact, power-efficient, and requires no calibration over its long service life. Due to hardware and software variations, the photographs captured by various cameras look slightly different. To take advantage of a camera's unique aesthetic qualities, an MDE model trained using photos from a single camera could use machine learning. As a result, the model's applicability to photos captured by other cameras is questionable.",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-02-at-10.42.50-PM.png"
+        },
+        {
+            "id": 9775,
+            "title": "Top C++ Based Data Science And Machine Learning Libraries",
+            "url": "https://www.marktechpost.com/2022/11/02/top-c-based-data-science-and-machine-learning-libraries/",
+            "authors": "Prathamesh Ingle",
+            "tags": null,
+            "publishedOn": "2022-11-02T00:00:00",
+            "description": "Dynamic load balancing, adaptive caching, and the creation of comprehensive big data frameworks and libraries are all best done in C++. The vast majority of the deep learning libraries listed below, including MongoDB and Google's MapReduce, have been developed in C++. Scylla is a database management system developed in C++ and an alternative to Apache Cassandra and Amazon DynamoDB because of its incredibly low latency and high throughput. C++ is the finest language to use when developing large big data frameworks and libraries, dynamic load balancing, and adaptive caching. MongoDB and Google's MapReduce are examples of C++-developed deep-learning libraries included",
+            "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2022/11/Blog-Banner.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1064,
+            "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule/",
+            "authors": "Zhixing Ma, Srinivas Chakravarthi Thandu, Rohit Menon, Vivek Ramamoorthy, Bernie Wang",
+            "tags": "Amazon Forecast, Artificial Intelligence",
+            "publishedOn": "2020-02-19T00:00:00",
+            "description": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, energy demand, workforce planning, computing cloud infrastructure usage, traffic demand, supply chain optimization, and financial planning. Forecast is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/19/forecast-workflow.gif"
+        },
+        {
+            "id": 1065,
+            "title": "Winners of AWS Machine Learning Research Awards announced",
+            "url": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
+            "authors": "An Luo",
+            "tags": "Amazon Machine Learning, Artificial Intelligence",
+            "publishedOn": "2020-02-18T00:00:00",
+            "description": "The AWS Machine Learning Research Awards (MLRA) is pleased to announce the 13 recipients for the 2019 Q2/Q3 call-for-proposal cycle.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8c8698f/2147483647/strip/true/crop/5394x2832+133+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F24%2F46%2F216637bf48419e6cb2d994583153%2Fmlra-2019-q2-3.jpg"
+        },
+        {
+            "id": 1066,
+            "title": "Customers Achieve Machine Learning Success with AWS\u2019s Machine Learning Solutions Lab",
+            "url": "https://aws.amazon.com/blogs/machine-learning/customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab/",
+            "authors": "Michelle K. Lee",
+            "tags": "Amazon Machine Learning, Amazon ML Solutions Lab, Artificial Intelligence",
+            "publishedOn": "2020-02-18T00:00:00",
+            "description": "AWS introduced the Machine Learning (ML) Solutions Lab a little over two years ago to connect our machine learning experts and data scientists with AWS customers.\u00a0 Our goal was to help our customers solve their most pressing business problems using ML. We\u2019ve helped our customers increase fraud detection rates, improved forecasting and predictions for more [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1067,
+            "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+            "url": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+            "authors": "Cade Daniel, Alex Chung",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-02-14T00:00:00",
+            "description": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. Machine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through Flask that will load the model and then run the endpoint, which requires [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png"
+        },
+        {
+            "id": 1068,
+            "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/",
+            "authors": "Sean Wilkinson, Julia Soscia",
+            "tags": "Amazon SageMaker, Application Services, Artificial Intelligence, AWS Step Functions",
+            "publishedOn": "2020-02-12T00:00:00",
+            "description": "As machine learning (ML) becomes a larger part of companies\u2019 core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to create Step Functions-based machine learning workflows [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif"
+        },
+        {
+            "id": 1069,
+            "title": "Lowering total cost of ownership for machine learning and increasing productivity with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/lowering-total-cost-of-ownership-for-machine-learning-and-increasing-productivity-with-amazon-sagemaker/",
+            "authors": "Kimberly Madia",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-02-11T00:00:00",
+            "description": "You have many choices for building, training, and deploying machine learning (ML) models. Weighing the financial considerations of different cloud solutions requires detailed analysis. You must consider the infrastructure, operational, and security costs for each step of the ML workflow, as well as the size and expertise of your data science teams. The Total Cost [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1070,
+            "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
+            "authors": "Vikrant Kahlir, Elena Ehrlich, Hanif Mahboobi",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-02-10T00:00:00",
+            "description": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually\u20143% of the nation\u2019s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure, or $230 billion. Healthcare fraud inevitably results in higher premiums and out-of-pocket expenses [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif"
+        },
+        {
+            "id": 1071,
+            "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations/",
+            "authors": "Vaibhav Sethi",
+            "tags": "Amazon Personalize, Artificial Intelligence",
+            "publishedOn": "2020-02-07T00:00:00",
+            "description": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now supports ten times more item attributes for modeling in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1072,
+            "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
+            "authors": "Anubhav Mishra",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2020-02-06T00:00:00",
+            "description": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary to address customer requests. Identifiers are typically a combination of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif"
+        },
+        {
+            "id": 1073,
+            "title": "Registration for Amazon re:MARS is Now Open",
+            "url": "https://aws.amazon.com/blogs/machine-learning/registration-for-amazon-remars-is-now-open/",
+            "authors": "Laura Jones",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, Events",
+            "publishedOn": "2020-02-05T00:00:00",
+            "description": "Editor\u2019s Note: We have been closely monitoring the situation with COVID-19, and after much consideration, we have made the decision to cancel re:MARS 2020. Our top priority is the well-being of our employees, customers, partners, and event attendees. Over the course of the coming weeks, we will explore other ways to engage the community. To [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/AWS-blog_reMARS-2020_800x400-1260x630.png"
+        },
+        {
+            "id": 1074,
+            "title": "Build a unique Brand Voice with Amazon Polly",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unique-brand-voice-with-amazon-polly/",
+            "authors": "Rafal Kuklinski, Ankit Dhawan",
+            "tags": "Amazon Polly, Artificial Intelligence, Top Posts",
+            "publishedOn": "2020-02-04T00:00:00",
+            "description": "AWS is pleased to announce a new feature in Amazon Polly called Brand Voice, a capability in which you can work with the Amazon Polly team of AI research scientists and linguists to build an exclusive, high-quality, Neural Text-to-Speech (NTTS) voice that represents your brand\u2019s persona. Brand Voice allows you to differentiate your brand by [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1075,
+            "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
+            "authors": "Dharani Srinivasan, Geremy Cohen",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2020-02-03T00:00:00",
+            "description": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the \u00a0labeling team is \u00a0accurately labeling data? One way is to manually sift through the results one worker at [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif"
+        },
+        {
+            "id": 1076,
+            "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
+            "authors": "Aaron Fagan",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-02-03T00:00:00",
+            "description": "This is a guest post from Millennium Management. In their own words, \u201cMillennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.\u201d Millennium Management is comprised of a large number of specialized trading teams across the United States, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif"
+        },
+        {
+            "id": 1077,
+            "title": "Amazon Comprehend now supports multi-label custom classification",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
+            "authors": "Sameer Karnik",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2020-01-29T00:00:00",
+            "description": "Amazon Comprehend\u00a0is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the need for any ML expertise. Previously, custom classification supported multi-class classification, which is [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif"
+        },
+        {
+            "id": 1078,
+            "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
+            "authors": "Brian Yost, Michal Marshall",
+            "tags": "Amazon Lex, Amazon QuickSight, Analytics, Artificial Intelligence",
+            "publishedOn": "2020-01-28T00:00:00",
+            "description": "You\u2019ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it\u2019s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their interactions [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif"
+        },
+        {
+            "id": 1079,
+            "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/",
+            "authors": "Jason Zhu, Kyle Brubaker, Xiaofei Ma",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-01-23T00:00:00",
+            "description": "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language model to a new dataset and fine-tune it for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif"
+        },
+        {
+            "id": 1080,
+            "title": "NeurIPS competition tackles climate data challenges",
+            "url": "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/",
+            "authors": "Rebecca Wolff",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2020-01-21T00:00:00",
+            "description": "The Earth\u2019s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability of large-scale climate data and increasing computational power via the cloud, there [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/neurips-f.jpg"
+        },
+        {
+            "id": 1081,
+            "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/",
+            "authors": "Mehdi Far",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-01-20T00:00:00",
+            "description": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model for the interpretation of geological features on [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif"
+        },
+        {
+            "id": 1082,
+            "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
+            "authors": "Ankit Dhawan",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2020-01-15T00:00:00",
+            "description": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard voices available in 29 languages in the Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1083,
+            "title": "Cinnamon AI saves 70% on ML model training costs with Amazon SageMaker Managed Spot Training",
+            "url": "https://aws.amazon.com/blogs/machine-learning/cinnamon-ai-saves-70-on-ml-model-training-costs-with-amazon-sagemaker-managed-spot-training/",
+            "authors": "Sundar Ranganathan, Yoshitaka Haribara",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2020-01-08T00:00:00",
+            "description": "Developers are constantly training and re-training machine learning (ML) models so they can continuously improve model predictions. Depending on the dataset size, model training jobs can take anywhere from a few minutes to multiple hours or days. ML development can be a complex, expensive, and iterative process. Being compute intensive, keeping compute costs low for [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/24/cinnamon-3.gif"
+        },
+        {
+            "id": 1084,
+            "title": "Building machine learning workflows with AWS Data Exchange and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-machine-learning-workflows-with-aws-data-exchange-and-amazon-sagemaker/",
+            "authors": "Ben Fields",
+            "tags": "Amazon SageMaker, Analytics, Artificial Intelligence, AWS Data Exchange",
+            "publishedOn": "2020-01-06T00:00:00",
+            "description": "Thanks to cloud services such as Amazon SageMaker and AWS Data Exchange, machine learning (ML) is now easier than ever. This post explains how to build a model that predicts restaurant grades of NYC restaurants using AWS Data Exchange and Amazon SageMaker. We use a dataset of 23,372 restaurant inspection grades and scores from AWS [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/19/sagemaker-dataexchange-2.gif"
+        },
+        {
+            "id": 1085,
+            "title": "Building a custom classifier using Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-classifier-using-amazon-comprehend/",
+            "authors": "Herve Nivon",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2019-12-24T00:00:00",
+            "description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in texts. Amazon Comprehend identifies the language of the text; extracts key phrases, places, people, brands, or events; and understands how positive or negative the text is. For more information about everything Amazon Comprehend can do, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1086,
+            "title": "Using Amazon Lex Conversation logs to monitor and improve interactions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/",
+            "authors": "Anubhav Mishra, Hammad Mirza, Goutham Venkatesan",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-12-19T00:00:00",
+            "description": "As a product owner for a conversational interface, understanding and improving the user experience without the corresponding visibility or telemetry can feel like driving a car blindfolded. It is important to understand how users are interacting with your bot so that you can continuously improve the bot based on past interactions. You can gain these [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif"
+        },
+        {
+            "id": 1087,
+            "title": "Amazon Textract becomes PCI DSS certified, and retrieves even more data from tables and forms",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-becomes-pci-dss-certified-and-retrieves-even-more-data-from-tables-and-forms/",
+            "authors": "Kriti Bharti",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2019-12-18T00:00:00",
+            "description": "Amazon Textract automatically extracts text and data from scanned documents, and goes beyond simple optical character recognition (OCR) to also identify the contents of fields and information in tables, without templates, configuration, or machine learning experience required. Customers such as Intuit, PitchBook, Change Healthcare, Alfresco, and more are already using Amazon Textract to automate their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png"
+        },
+        {
+            "id": 1088,
+            "title": "Running distributed TensorFlow training with Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/running-distributed-tensorflow-training-with-amazon-sagemaker/",
+            "authors": "Ajay Vohra",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2019-12-17T00:00:00",
+            "description": "TensorFlow is an open-source machine learning (ML) library widely used to develop heavy-weight deep neural networks (DNNs) that require distributed training using multiple GPUs across multiple hosts. Amazon SageMaker is a managed service that simplifies the ML workflow, starting with labeling data using active learning, hyperparameter tuning, distributed training of models, monitoring of training progression, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/17/tensorflow-sagemaker-social.png"
+        },
+        {
+            "id": 1089,
+            "title": "Auto-segmenting objects when performing semantic segmentation labeling with Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/auto-segmenting-objects-when-performing-semantic-segmentation-labeling-with-amazon-sagemaker-ground-truth/",
+            "authors": "Krzysztof Chalupka, Vikram Madan",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-12-12T00:00:00",
+            "description": "Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning (ML) quickly. Ground Truth offers easy access to third-party and your own human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, Ground Truth can lower your labeling costs by up to 70% using automatic labeling, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/11/auto-segmenting-sgt-2.gif"
+        },
+        {
+            "id": 1090,
+            "title": "Amazon Polly Neural Text-to-Speech voices now available in Sydney Region",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-neural-text-to-speech-voices-now-available-in-sydney-region/",
+            "authors": "Ankit Dhawan",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-12-11T00:00:00",
+            "description": "Amazon Polly turns text into lifelike speech for voice-enabled applications. AWS is excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in the Asia Pacific (Sydney) Region. These voices deliver groundbreaking improvements in speech quality through a new machine learning approach. If you are in the Sydney Region, you can now synthesize [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg"
+        },
+        {
+            "id": 1091,
+            "title": "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/",
+            "authors": "Miro Masat",
+            "tags": "Amazon Lex, Amazon Polly, Amazon Sumerian, AR & VR, Artificial Intelligence",
+            "publishedOn": "2019-12-10T00:00:00",
+            "description": "Amazon Sumerian makes it easy to create engaging 3D front-end experiences and is integrated with AWS services to provide easy access to machine learning, chatbots, code execution and more. As a web-based platform, your immersive experiences are accessible via a simple browser URL and are able to run on popular hardware for AR/VR.",
+            "thumbnail": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+            "id": 1092,
+            "title": "AWS announces the Machine Learning Embark program to help customers train their workforce in machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-announces-the-machine-learning-embark-program-to-help-customers-train-their-workforce-in-machine-learning/",
+            "authors": "Michelle K. Lee",
+            "tags": "Artificial Intelligence, AWS re:Invent, Top Posts",
+            "publishedOn": "2019-12-05T00:00:00",
+            "description": "Today at AWS re:Invent 2019, I\u2019m excited to announce the AWS Machine Learning (ML) Embark program to help companies transform their development teams into machine learning practitioners. AWS ML Embark is based on Amazon\u2019s own experience scaling the use of machine learning inside its own operations as well as the lessons learned through thousands of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/05/embark-social-1211x630.png"
+        },
+        {
+            "id": 1093,
+            "title": "Amazon Web Services achieves fastest training times for BERT and Mask R-CNN",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-web-services-achieves-fastest-training-times-for-bert-and-mask-r-cnn/",
+            "authors": "Aditya Bindal, Kevin Haas, Indu Thangakrishnan",
+            "tags": "Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2019-12-03T00:00:00",
+            "description": "Two of the most popular machine learning models used today are BERT, for natural language processing (NLP), and Mask R-CNN, for image recognition. Over the past several months, AWS has significantly improved the underlying infrastructure, network, machine learning (ML) framework, and model code to achieve the best training time for these two popular state-of-the-art models. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

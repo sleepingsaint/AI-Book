@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 10277,
+            "title": "Using Computer Vision to Win at Duck Hunt",
+            "url": "https://blog.roboflow.com/computer-vision-win-games-duck-hunt/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-01-31T00:00:00",
+            "description": "Abhinav Mandava leverages object detection models and Roboflow to create an aimbot (which automates aiming and firing for the player) for Duck Hunt.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2022/03/yolov5_gaming.webp"
+        },
+        {
+            "id": 10278,
+            "title": "Using Unity Perception to train an object detection model with synthetically generated images",
+            "url": "https://blog.roboflow.com/unity-perception-synthetic-dataset-tutorial/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-26T00:00:00",
+            "description": "Collecting images and annotating them with high-quality labels can be an expensive and time-consuming process. The promise of generating synthetic data to reduce the burden is alluring. In the past we have covered techniques such as augmentation, context synthesis, and model assisted labeling to improve the process. In this post,",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/synthetic.jpg"
+        },
+        {
+            "id": 10279,
+            "title": "Computer Vision Use Cases in Healthcare and Medicine",
+            "url": "https://blog.roboflow.com/computer-vision-in-healthcare/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-01-25T00:00:00",
+            "description": "Computer vision technology continues to expand its use cases in healthcare and medicine. In this post, we will touch on some exciting example use cases for vision in healthcare and medicine and provide some resources on getting started applying vision to these problems.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/hc_med.001.jpeg"
+        },
+        {
+            "id": 10280,
+            "title": "Announcing Model Assisted Labeling",
+            "url": "https://blog.roboflow.com/announcing-label-assist/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-25T00:00:00",
+            "description": "Now you can use trained models to speed up your annotation flow.One of the most time-consuming parts of the computer vision workflow is curating a high-quality dataset. When we launched Roboflow Annotate last month we aimed to streamline this process by launching an easy to use image annotation tool",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/label-assist.jpg"
+        },
+        {
+            "id": 10281,
+            "title": "Using Computer Vision to Detect Package Deliveries",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-detect-package-deliveries/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-01-19T00:00:00",
+            "description": "My concern is getting to packages before my dog opens one. There are monthly subscriptions, but with Roboflow and a couple of tools, I can do this locally.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/blog_images_v2.001.jpeg"
+        },
+        {
+            "id": 10282,
+            "title": "Teams for All: Create Free Teams on Roboflow",
+            "url": "https://blog.roboflow.com/teams-for-all/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-01-17T00:00:00",
+            "description": "Machine learning is a team sport, and getting a computer vision model to production is no exception. All parts of the process are improved with a team: collecting data from multiple sources; annotating data with colleagues; sharing versioned datasets; and using deployed models. We're pleased to introduce free teams on",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/team-sharing-header.png"
+        },
+        {
+            "id": 10283,
+            "title": "A Primer on Transfer Learning",
+            "url": "https://blog.roboflow.com/a-primer-on-transfer-learning/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-01-13T00:00:00",
+            "description": "Transfer learning is using what a given model has learned about one domain and applying those learnings to attempt to learn a related problem.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/transfer-learning-header.png"
+        },
+        {
+            "id": 10284,
+            "title": "Announcing Roboflow\u2019s Seed Round",
+            "url": "https://blog.roboflow.com/seed-round/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2021-01-12T00:00:00",
+            "description": "Computer vision is a generational technology. Like the PC, internet, and mobile phones, computer vision\u2019s impact will reshape every industry.  In transportation, for example, the advent of machine vision gives rise to self-driving cars, rewiring how we navigate the world around us. Manufacturing companies are finding and reducing visual",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/seed_round.jpg"
+        },
+        {
+            "id": 10285,
+            "title": "How to Try CLIP: OpenAI's Zero-Shot Image Classifier",
+            "url": "https://blog.roboflow.com/how-to-use-openai-clip/",
+            "authors": "Jacob Solawetz, Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-08T00:00:00",
+            "description": "Earlier this week, OpenAI dropped a bomb on the computer vision world.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/openai_CLIP.jpg"
+        },
+        {
+            "id": 10286,
+            "title": "Using the Upload API to Collect Images from the Wild",
+            "url": "https://blog.roboflow.com/upload-api/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-06T00:00:00",
+            "description": "The key to production quality machine learning models is continuous iteration and improvement. The first step is getting a model that is \"good enough\" for your first version. But once you deploy to the real world you'll invariably find edge cases that confuse your model. Collecting data from the field",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/upload-api.jpg"
+        },
+        {
+            "id": 10287,
+            "title": "Using Public Datasets to Improve your Computer Vision Models",
+            "url": "https://blog.roboflow.com/using-public-datasets/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-06T00:00:00",
+            "description": "Ok, so you've trained a model and it's not doing as well as you'd hoped. Now what? You could experiment with augmentation, try a different architecture, or check your training data for errors. But what if those all fail? Oftentimes, the single most impactful thing you can do to improve",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/improving-with-public-datasets.jpg"
+        },
+        {
+            "id": 10288,
+            "title": "Introducing the Object Count Histogram",
+            "url": "https://blog.roboflow.com/object-count-histogram-analysis/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2021-01-04T00:00:00",
+            "description": "We are excited to announce the introduction of object count histograms, now available in the Roboflow dataset health check.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/object_count_histogram.001.jpeg"
+        },
+        {
+            "id": 10289,
+            "title": "Using Computer Vision to Boost Cities' Efficiency by Reallocating Police Resources",
+            "url": "https://blog.roboflow.com/using-computer-vision-to-boost-cities-efficiency-reallocating-police-resources/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2021-01-04T00:00:00",
+            "description": "Data scientist Joseph Rosenblum leverages his past law enforcement experience and details how to make cities more efficient while minimizing bias.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/police.001.jpeg"
+        },
+        {
+            "id": 10290,
+            "title": "Roboflow Changelog: January 2021",
+            "url": "https://blog.roboflow.com/changelog-january-2021/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2021-01-03T00:00:00",
+            "description": "Welcome to our monthly changelog where we catalog our recent feature additions and improvements. If you missed it, you can find last month's changelog here. This month we launched Roboflow Annotate, an integrated image annotation tool included in all Roboflow plans. In the first few weeks, over 1500 users have",
+            "thumbnail": "https://blog.roboflow.com/content/images/2021/01/january-changelog.jpg"
+        },
+        {
+            "id": 10291,
+            "title": "Football, Kaggle, Roboflow: Using Computer Vision to Tackle Helmet Safety",
+            "url": "https://blog.roboflow.com/football-kaggle-computer-vision-safety-scaled-yolov4/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-12-28T00:00:00",
+            "description": "If you're searching for a dataset to use or are looking to improve your data science modeling skills, Kaggle is a great resource for free data and for competitions. For example, there's currently an open Kaggle competition detecting American football helmet impacts (crashes) in which you can compete through early",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/football.001.jpeg"
+        },
+        {
+            "id": 10292,
+            "title": "Get a Hosted API for your Object Detection Model",
+            "url": "https://blog.roboflow.com/hosted-model-api/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-12-28T00:00:00",
+            "description": "Roboflow provides tools for labeling, organizing, and training a computer vision model. Once you finish running one of the Jupyter notebooks from our Computer Vision tutorials you can download a weights file optimized for making predictions on your custom dataset. The Current State of AffairsBut what next? How do you",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/inference.jpg"
+        },
+        {
+            "id": 10293,
+            "title": "How To Annotate Images with Your Team Using Roboflow",
+            "url": "https://blog.roboflow.com/team-image-annotation-workflow/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-12-25T00:00:00",
+            "description": "Dataset annotation is better with teams: you can move more quickly, keep everyone on the same page, track annotation progress, and easier provide examples of what the ultimate dataset should look like. In this post, we'll walkthrough an example workflow of annotating data with your team using Roboflow Pro.  The",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/team-annotation.png"
+        },
+        {
+            "id": 10294,
+            "title": "Tackling the Internet of Things with Roboflow: Object Detection Apps on Android",
+            "url": "https://blog.roboflow.com/tackling-iot-object-detection-application-android/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-12-21T00:00:00",
+            "description": "Joo chan Kim, PhD student, is developing an object detection application for Android devices that can identify specific IoT sensors by using a custom detection model.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/iot.001-1.jpeg"
+        },
+        {
+            "id": 10295,
+            "title": "How to Train Scaled-YOLOv4 to Detect Custom Objects",
+            "url": "https://blog.roboflow.com/how-to-train-scaled-yolov4/",
+            "authors": "Jacob Solawetz",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "Object detection technology advances with the release of Scaled-YOLOv4. This blog is written to help you apply Scaled-YOLOv4 to your custom object detection task, to detect any object in the world, given the right training data.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/scaled_yolov4_blog.001.jpg"
+        },
+        {
+            "id": 10296,
+            "title": "Apple's M1 is up to 3.6x as fast at training machine learning models",
+            "url": "https://blog.roboflow.com/apple-m1-for-machine-learning/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-12-15T00:00:00",
+            "description": "We compared the Apple M1 chip to the Intel Core i5 chip on an object detection task using Create ML.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/m1vsintel.jpg"
+        },
+        {
+            "id": 10297,
+            "title": "Unveiling Our New Limited Edition T-Shirt",
+            "url": "https://blog.roboflow.com/limited-edition-von-deon-shirt/",
+            "authors": "Amanda Morrow",
+            "tags": null,
+            "publishedOn": "2020-12-09T00:00:00",
+            "description": "A huge benefit of working for Roboflow is interacting with all the builders and creators using our platform. Every day, Roboflow users are experimenting with computer vision to solve fascinating problems and we're always impressed with their creativity. We especially love it when we can feature their work on our",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/limited_edition.jpeg"
+        },
+        {
+            "id": 10298,
+            "title": "Introducing Roboflow Annotate",
+            "url": "https://blog.roboflow.com/labeling/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-12-08T00:00:00",
+            "description": "Since we launched Roboflow in early 2020, our vision has always been to improve and streamline the workflow of computer vision projects so that developers can focus on the parts of their project that are unique, not on reinventing the wheel. But there's been one part of the process that",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/labeling.small-1.gif"
+        },
+        {
+            "id": 10299,
+            "title": "5 Strategies for Handling Unbalanced Classes",
+            "url": "https://blog.roboflow.com/handling-unbalanced-classes/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-12-07T00:00:00",
+            "description": "Suppose you're trying to teach an alien \u2013 like one of the crewmates from the wildly popular game Among Us \u2013 to tell the difference between a human and a dog. \"Purp is sus.\" Three aliens from the game Among Us.What you might do is show the alien 100 pictures of",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/strategies_unbalanced_classes.001.jpeg"
+        },
+        {
+            "id": 10300,
+            "title": "Share Your Datasets with the Computer Vision Community",
+            "url": "https://blog.roboflow.com/host-your-computer-vision-dataset/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-12-06T00:00:00",
+            "description": "Roboflow users share their datasets with the public to improve computer vision research and contribute to the broader computer vision community.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/share-public-thumbnail.png"
+        },
+        {
+            "id": 10301,
+            "title": "Roboflow Changelog: December 2020",
+            "url": "https://blog.roboflow.com/changelog-december-2020/",
+            "authors": "Brad Dwyer",
+            "tags": null,
+            "publishedOn": "2020-12-04T00:00:00",
+            "description": "Welcome to the first of our monthly changelogs where we will be cataloging our recent feature additions and improvements. Roboflow Organize  Added ability to rebalance train/test split Clarified pro plan features in-app Sped up thumbnail generation Added image upload by URL to the upload API Paginated the image listing",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/changelog-1.jpg"
+        },
+        {
+            "id": 10302,
+            "title": "Scaled-YOLOv4 is Now the Best Model for Object Detection",
+            "url": "https://blog.roboflow.com/scaled-yolov4-tops-efficientdet/",
+            "authors": "Jacob Solawetz, Joseph Nelson, Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-12-03T00:00:00",
+            "description": "(based on Microsoft COCO benchmarks) The object detection space remains white hot with the recent publication of Scaled-YOLOv4, establishing a new state of the art in object detection.      Looking to train a Scaled-YOLOv4 model?     Skip this post and jump straight to our Scaled-YOLOv4 training tutorial. You'll have a trained model",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/scaled_yolov4.jpg"
+        },
+        {
+            "id": 10303,
+            "title": "How to Run Jupyter Notebooks on an Apple M1 Mac",
+            "url": "https://blog.roboflow.com/how-to-run-jupyter-notebooks-on-a-mac-m1/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Opening a notebook and your kernel instantly dies, or you haven't been able to get a notebook running on M1 yet. That's why we're here!",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/blog_images_v3.001-2.jpeg"
+        },
+        {
+            "id": 10304,
+            "title": "Generating Renaissance Art with Computer Vision",
+            "url": "https://blog.roboflow.com/gan-generating-art-computer-vision/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-11-30T00:00:00",
+            "description": "Data scientists Samay Lakhani and Sujay Sundar use Roboflow and computer vision to generate Renaissance-style abstractions.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/blog_images_v2.002-2.jpeg"
+        },
+        {
+            "id": 10305,
+            "title": "Seven Tips for Labeling Images for Computer Vision",
+            "url": "https://blog.roboflow.com/tips-for-how-to-label-images/",
+            "authors": "Joseph Nelson",
+            "tags": null,
+            "publishedOn": "2020-11-28T00:00:00",
+            "description": "This guide walks through tactics to ensure your dataset is as high quality as possible for computer vision tasks.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/11/labeling-thumbnail-1.png"
+        },
+        {
+            "id": 10306,
+            "title": "What is Computer Vision? An Introduction for Beginners",
+            "url": "https://blog.roboflow.com/intro-to-computer-vision/",
+            "authors": "Matt Brems",
+            "tags": null,
+            "publishedOn": "2020-11-23T00:00:00",
+            "description": "After reading this post, you should have a good understanding of computer vision without a strong technical background and you should know the steps needed to solve a computer vision problem.",
+            "thumbnail": "https://blog.roboflow.com/content/images/2020/12/blog_paddy.001-2.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1124,
+            "title": "Verifying and adjusting your data labels to create higher quality training datasets with Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/verifying-and-adjusting-your-data-labels-to-create-higher-quality-training-datasets-with-amazon-sagemaker-ground-truth/",
+            "authors": "Sifan Wang, Vikram Madan, Carter Williams",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-10-10T00:00:00",
+            "description": "Building a highly accurate training dataset for your machine learning (ML) algorithm is an iterative process. It is common to review and continuously adjust your labels until you are satisfied that the labels accurately represent the ground truth, or what is directly observable in the real world. ML practitioners often built custom systems to review [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1125,
+            "title": "Amazon Textract is now HIPAA eligible",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-hipaa-eligible/",
+            "authors": "Kriti Bharti",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2019-10-10T00:00:00",
+            "description": "Today, Amazon Web Services (AWS) announced that Amazon Textract, a machine learning service that quickly and easily extracts text and data from forms and tables in scanned documents, is now eligible for healthcare and life science workloads that require HIPAA compliance. This launch builds upon the existing portfolio of AWS artificial intelligence services that are [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png"
+        },
+        {
+            "id": 1126,
+            "title": "Managing conversation flow with a fallback intent on Amazon Lex",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-conversation-flow-with-a-fallback-intent-on-amazon-lex/",
+            "authors": "Kartik Rustagi",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-10-03T00:00:00",
+            "description": "Ever been stumped by a question? Imagine you\u2019re in a business review going over weekly numbers and someone asks, \u201cWhat about expenses?\u201d Your response might be, \u201cI don\u2019t know. I wasn\u2019t prepared to have that discussion right now.\u201d Bots aren\u2019t fortunate enough to have the same comprehension capabilities, so how should they respond when they [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/03/lex-fallback-intent-2.gif"
+        },
+        {
+            "id": 1127,
+            "title": "Generating searchable PDFs from scanned documents automatically with Amazon Textract",
+            "url": "https://aws.amazon.com/blogs/machine-learning/generating-searchable-pdfs-from-scanned-documents-automatically-with-amazon-textract/",
+            "authors": "Kashif Imran",
+            "tags": "Amazon Textract, Artificial Intelligence",
+            "publishedOn": "2019-10-02T00:00:00",
+            "description": "Amazon Textract is a machine learning service that makes it easy to extract text and data from virtually any document. Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to instantly \u201cread\u201d virtually any type [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1128,
+            "title": "Transcribe speech to text in real time using Amazon Transcribe with WebSocket",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transcribe-speech-to-text-in-real-time-using-amazon-transcribe-with-websocket/",
+            "authors": "Bhaskar Bagchi, Karan Grover, Paul Zhao",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2019-09-27T00:00:00",
+            "description": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to applications. In November 2018, we added streaming transcriptions over HTTP/2 to Amazon Transcribe. This enabled users to pass a live audio stream to our service and, in return, receive text transcripts in real time. We [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg"
+        },
+        {
+            "id": 1129,
+            "title": "Using Amazon Polly in Windows Applications",
+            "url": "https://aws.amazon.com/blogs/machine-learning/using-amazon-polly-in-windows-applications/",
+            "authors": "Troy Larson",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-09-26T00:00:00",
+            "description": "AWS offers a vast array of services that allow developers to build applications in the cloud. At the same time, Windows desktop applications can take advantage of these services as well. Today, we are releasing Amazon Polly for Windows, an open-source engine that allows users to take advantage of Amazon Polly voices in SAPI-compliant Windows [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/27/polly-in-windows-1.gif"
+        },
+        {
+            "id": 1130,
+            "title": "Build your ML skills with AWS Machine Learning on Coursera",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-ml-skills-with-aws-machine-learning-on-coursera/",
+            "authors": "Tara Shankar Jana",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2019-09-19T00:00:00",
+            "description": "Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today\u2019s job market. Today, I am excited to announce a new education course, built in collaboration with Coursera, to help you build your ML skills: Getting started with AWS Machine Learning. You can access the course [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/09/19/coursera-social.png"
+        },
+        {
+            "id": 1131,
+            "title": "Build, test, and deploy your Amazon Sagemaker inference models to AWS Lambda",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-test-and-deploy-your-amazon-sagemaker-inference-models-to-aws-lambda/",
+            "authors": "Diego Natali",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS Lambda, Compute",
+            "publishedOn": "2019-09-17T00:00:00",
+            "description": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. When you deploy an ML model, Amazon SageMaker leverages ML hosting instances to host the model and provides an API endpoint to provide inferences. It may also [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/30/sagemaker-lambda-1.gif"
+        },
+        {
+            "id": 1132,
+            "title": "Multiregion serverless distributed training with AWS Batch and Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/multiregion-serverless-distributed-training-with-aws-batch-and-amazon-sagemaker/",
+            "authors": "Amr Ragab",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-09-16T00:00:00",
+            "description": "Creating a global footprint and access to scale are one of the many best practices at AWS. By creating architectures that take advantage of that scale and also efficient data utilization (in both performance and cost), you can start to see how\u00a0important access is at\u00a0scale. For example, within autonomous vehicles (AV) development, data is geographically [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/30/ddl-training-multiregion-2.gif"
+        },
+        {
+            "id": 1133,
+            "title": "Building a deep neural net\u2013based surrogate function for global optimization using PyTorch on Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/building-a-deep-neural-net-based-surrogate-function-for-global-optimization-using-pytorch-on-amazon-sagemaker/",
+            "authors": "Shreyas Subramanian",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-09-16T00:00:00",
+            "description": "Optimization is the process of finding the minimum (or maximum) of a function that depends on some inputs, called design variables. Customer X has the following problem: They are about to release a new car model to be designed for maximum fuel efficiency. In reality, thousands of parameters that represent tuning parameters relating to the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/20/neural-net-based-function-3.gif"
+        },
+        {
+            "id": 1134,
+            "title": "Launching TensorFlow distributed training easily with Horovod or Parameter Servers in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/launching-tensorflow-distributed-training-easily-with-horovod-or-parameter-servers-in-amazon-sagemaker/",
+            "authors": "Rama Thamman, Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence, Tensorflow on AWS",
+            "publishedOn": "2019-09-13T00:00:00",
+            "description": "Amazon SageMaker supports all the popular deep learning frameworks, including TensorFlow. Over 85% of TensorFlow projects in the cloud run on AWS. Many of these projects already run in Amazon SageMaker. This is due to the many conveniences Amazon SageMaker provides for TensorFlow model hosting and training, including fully managed distributed training with Horovod and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/28/distributed-tensorflow-sagemaker-2.gif"
+        },
+        {
+            "id": 1135,
+            "title": "Performing batch inference with TensorFlow Serving in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/performing-batch-inference-with-tensorflow-serving-in-amazon-sagemaker/",
+            "authors": "Andre Moeller, Brent Rabowsky",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-09-06T00:00:00",
+            "description": "After you\u2019ve trained and exported a TensorFlow model, you can use Amazon SageMaker to perform inferences using your model. You can either: Deploy your model to an endpoint to obtain real-time inferences from your model. Use batch transform to obtain inferences on an entire dataset stored in Amazon S3. In the case of batch transform, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/21/inference-with-tensorflow-1.gif"
+        },
+        {
+            "id": 1136,
+            "title": "Optimizing TensorFlow model serving with Kubernetes and Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-tensorflow-model-serving-with-kubernetes-and-amazon-elastic-inference/",
+            "authors": "Ryan Nitz, Brent Rabowsky",
+            "tags": "Amazon Elastic Inference, Amazon Elastic Kubernetes Service, Artificial Intelligence, Compute",
+            "publishedOn": "2019-09-06T00:00:00",
+            "description": "This post offers a dive deep into how to use Amazon Elastic Inference with Amazon Elastic Kubernetes Service. When you combine Elastic Inference with EKS, you can run low-cost, scalable inference workloads with your preferred container orchestration system. Elastic Inference is an increasingly popular way to run low-cost inference workloads on AWS. It allows you [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/09/05/EI-Kubernetes-1.gif"
+        },
+        {
+            "id": 1137,
+            "title": "Tracking the throughput of your private labeling team through Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/tracking-the-throughput-of-your-private-labeling-team-through-amazon-sagemaker-ground-truth/",
+            "authors": "Vikram Madan, Pranav Sachdeva",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-09-05T00:00:00",
+            "description": "Launched at AWS re:Invent 2018, Amazon SageMaker Ground Truth helps you quickly build highly accurate training datasets for your machine learning models. Amazon SageMaker Ground Truth offers easy access to public and private human labelers, and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, Amazon SageMaker Ground Truth can lower your [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/09/04/worker-throughput-3.gif"
+        },
+        {
+            "id": 1138,
+            "title": "Enable smart text analytics using Amazon OpenSearch Service and Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/enable-smart-text-analytics-using-amazon-elasticsearch-search-and-amazon-comprehend/",
+            "authors": "Sameer Karnik",
+            "tags": "Amazon Comprehend, Amazon OpenSearch Service, Analytics, Artificial Intelligence",
+            "publishedOn": "2019-09-04T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. We\u2019re excited to announce an end-to-end solution that leverages natural language processing to analyze and visualize unstructured text in your Amazon OpenSearch Service domain with Amazon Comprehend in the AWS Cloud. You can deploy this solution in minutes with an [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/09/04/elasticsearch-comprehend-2-2.gif"
+        },
+        {
+            "id": 1139,
+            "title": "Build a custom entity recognizer using Amazon Comprehend",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-using-amazon-comprehend/",
+            "authors": "Phi Nguyen, Ro Mullier",
+            "tags": "Amazon Comprehend, Artificial Intelligence",
+            "publishedOn": "2019-09-03T00:00:00",
+            "description": "Amazon Comprehend\u00a0is a natural language processing service that can extract key phrases, places, names, organizations, events, and even sentiment from unstructured text, and more. Customers usually want to add their own entity types unique to their business, like proprietary part codes or industry-specific terms. In November 2018, enhancements to Amazon Comprehend added the ability to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/20/custom-entity-recognizer-m2.gif"
+        },
+        {
+            "id": 1140,
+            "title": "Power contextual bandits using continual learning with Amazon SageMaker RL",
+            "url": "https://aws.amazon.com/blogs/machine-learning/power-contextual-bandits-using-continual-learning-with-amazon-sagemaker-rl/",
+            "authors": "Saurabh Gupta, Anna Luo, Bharathan Balaji, Siddhartha Agarwal, Vineet Khare, Yijie Zhuang",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-29T00:00:00",
+            "description": "Amazon SageMaker is a modular, fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale.\u00a0Training models is quick and easy using a set of built-in high-performance algorithms, pre-built deep learning frameworks, or using your own framework.\u00a0To help select your machine learning (ML) algorithm, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/29/contextual-bandits-sagemaker-2.gif"
+        },
+        {
+            "id": 1141,
+            "title": "Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems",
+            "url": "https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/",
+            "authors": "Vidhi Kastuar, Will Ochandarena, Tushar Saxena",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-27T00:00:00",
+            "description": "April 2021 \u2013 The Amazon FSx section of this post has been updated to cover changes introduced to mount point names with scratch_2 and persistent_1 deployment options. Amazon SageMaker\u00a0provides a fully managed service for data science and machine learning workflows. One of the most important capabilities of Amazon SageMaker is its ability to run fully [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1142,
+            "title": "Serving deep learning at Curalate with Apache MXNet, AWS Lambda, and Amazon Elastic Inference",
+            "url": "https://aws.amazon.com/blogs/machine-learning/serving-deep-learning-at-curalate-with-apache-mxnet-aws-lambda-and-amazon-elastic-inference/",
+            "authors": "Jesse Brizzi",
+            "tags": "Amazon Elastic Inference, Apache MXNet on AWS, Artificial Intelligence",
+            "publishedOn": "2019-08-26T00:00:00",
+            "description": "This is a guest blog post by Jesse Brizzi, a computer vision research engineer at Curalate. At Curalate, we\u2019re always coming up with new ways to use deep learning and computer vision to find and leverage user-generated content (UGC) and activate influencers. Some of these applications, like Intelligent Product Tagging, require deep learning models to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1143,
+            "title": "Making daily dinner easy with Deliveroo meals and Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/making-daily-dinner-easy-with-deliveroo-meals-and-amazon-rekognition/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon Rekognition, Artificial Intelligence",
+            "publishedOn": "2019-08-21T00:00:00",
+            "description": "When Software Engineer Florian Thomas describes Deliveroo, he is talking about a rapidly growing, highly in-demand company. Everyone must eat, after all, and Deliveroo is, in his words, \u201con a mission to transform the way you order food.\u201d\u00a0 Specifically, Deliveroo\u2019s business is partnering with restaurants to bring customers their favorite eats, right to their doorsteps. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/21/dinner.jpg"
+        },
+        {
+            "id": 1144,
+            "title": "Parallelizing across multiple CPU/GPUs to speed up deep learning inference at the edge",
+            "url": "https://aws.amazon.com/blogs/machine-learning/parallelizing-across-multiple-cpu-gpus-to-speed-up-deep-learning-inference-at-the-edge/",
+            "authors": "Angela Wang",
+            "tags": "AWS IoT Greengrass, Internet of Things",
+            "publishedOn": "2019-08-20T00:00:00",
+            "description": "AWS customers often choose to run machine learning (ML) inferences at the edge to minimize\u00a0latency. In many of these situations, ML predictions must be run on a large number of inputs independently. \u00a0For example, running an object detection model on each frame of a video. In these cases, parallelizing ML inferences across all available CPU/GPUs [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/12/parallelizing-2.gif"
+        },
+        {
+            "id": 1145,
+            "title": "Modernizing wound care with Spectral MD, powered by Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-wound-care-with-spectral-md-powered-by-amazon-sagemaker/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-15T00:00:00",
+            "description": "Spectral MD, Inc. is a clinical research stage medical device company that describes itself as \u201cbreaking the barriers of light to see deep inside the body.\u201d Recently designated by the FDA as a \u201cBreakthrough Device,\u201d Spectral MD provides an impressive solution to wound care using cutting edge multispectral imaging and deep learning technologies. This Dallas-based [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/15/spectralMD.jpg"
+        },
+        {
+            "id": 1146,
+            "title": "Authenticate users with one-time passwords in Amazon Lex chatbots",
+            "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-users-with-one-time-passwords-in-amazon-lex-chatbots/",
+            "authors": "Kun Qian",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-08-14T00:00:00",
+            "description": "Today, many companies use one-time passwords (OTP) to authenticate users. An application asks you for a password to proceed. This password is sent to you via text message to a registered phone number. You enter the password to authenticate. It is an easy and secure approach to verifying user identity. In this blog post, we\u2019ll [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/05/09/updatedarchixml.gif"
+        },
+        {
+            "id": 1147,
+            "title": "AWS DeepRacer League weekly challenges \u2013 compete in the AWS DeepRacer League virtual circuit to win cash prizes and a trip to re:Invent 2019!",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-weekly-challenges-compete-in-the-aws-deepracer-league-virtual-circuit-to-win-cash-prizes-and-a-trip-to-reinvent-2019/",
+            "authors": "Alexandra Bush",
+            "tags": "Artificial Intelligence, AWS DeepRacer",
+            "publishedOn": "2019-08-14T00:00:00",
+            "description": "The AWS DeepRacer League is the world\u2019s first global autonomous racing league, open to anyone. Developers of all skill levels can get hands-on with machine learning in a fun and exciting way, racing for prizes and glory at 21 events globally and online using the AWS DeepRacer console. The Virtual Circuit launched at the end [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/14/deepracer-weekly.gif"
+        },
+        {
+            "id": 1148,
+            "title": "Kinect Energy uses Amazon SageMaker to Forecast energy prices with Machine Learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/kinect-energy-uses-amazon-sagemaker-to-forecast-energy-prices-with-machine-learning/",
+            "authors": "Han Man, Arkajyoti Misra, Matthew McKenna",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence, Case Study",
+            "publishedOn": "2019-08-08T00:00:00",
+            "description": "The Amazon ML Solutions Lab worked with Kinect Energy recently to build a pipeline to predict future energy prices based on machine learning (ML). We created an automated data ingestion and inference pipeline using Amazon SageMaker and AWS Step Functions to automate and schedule energy price prediction. The process makes special use of the Amazon [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/26/forecasting-energy-1.gif"
+        },
+        {
+            "id": 1149,
+            "title": "Managing Amazon Lex session state using APIs on the client",
+            "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-lex-session-state-using-apis-on-the-client/",
+            "authors": "Minaxi Singla, Pratik Raichura",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-08-08T00:00:00",
+            "description": "Anyone who has tried building a bot to support interactions knows that managing the conversation flow can be tricky. Real users (people who obviously haven\u2019t rehearsed your script) can digress in the middle of a conversation. They could ask a question related to the current topic or take the conversation in an entirely new direction. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/08/lex-sessions-3.gif"
+        },
+        {
+            "id": 1150,
+            "title": "Adding a data labeling workflow for named entity recognition with Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/adding-a-data-labeling-workflow-for-named-entity-recognition-with-amazon-sagemaker-ground-truth/",
+            "authors": "Vikram Madan",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-08-07T00:00:00",
+            "description": "Launched at AWS re:Invent 2018, Amazon SageMaker Ground Truth enables you to efficiently and accurately label the datasets required to train machine learning (ML) systems. Ground Truth provides built-in labeling workflows that take human labelers step-by-step through tasks and provide tools to help them produce good results. Built-in workflows are currently available for object detection, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/07/data-labeling-workflow-1.gif"
+        },
+        {
+            "id": 1151,
+            "title": "Use Amazon Lex as a conversational interface with Twilio Media Streams",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-amazon-lex-as-a-conversational-interface-with-twilio-media-streams/",
+            "authors": "Praveen Veerath",
+            "tags": "Amazon Lex, Artificial Intelligence",
+            "publishedOn": "2019-08-06T00:00:00",
+            "description": "Businesses use the Twilio platform to build new ways to communicate with their customers: whether it\u2019s fully automating a restaurant\u2019s food orders with a conversational Interactive Voice Response (IVR) or building a next generation advanced contact center. With the launch of Media Streams, Twilio is opening up their Voice platform by providing businesses access to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/06/lex-twilio-7.gif"
+        },
+        {
+            "id": 1152,
+            "title": "Harvesting success using Amazon SageMaker to power Bayer\u2019s digital farming unit",
+            "url": "https://aws.amazon.com/blogs/machine-learning/harvesting-success-using-amazon-sagemaker-to-power-bayers-digital-farming-unit/",
+            "authors": "Marisa Messina",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-05T00:00:00",
+            "description": "By the year 2050, our planet will need to feed ten billion people. We can\u2019t expand the earth to create more agricultural land, so the solution to growing more food is to make agriculture more productive and less resource-dependent. In other words, there is no room for crop losses or resource waste. Bayer is using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/08/05/bayer.gif"
+        },
+        {
+            "id": 1153,
+            "title": "Git integration now available for the Amazon SageMaker Python SDK",
+            "url": "https://aws.amazon.com/blogs/machine-learning/git-integration-now-available-for-amazon-sagemaker-python-sdk/",
+            "authors": "Yue Tu, Chuyang Deng",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-08-02T00:00:00",
+            "description": "Git integration is now available in the Amazon SageMaker Python SDK. You no longer have to download scripts from a Git repository for training jobs and hosting models. With this new feature, you can use training scripts stored in Git repos directly when training a model in the Python SDK. You can also use hosting [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

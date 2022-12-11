@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 2394,
+            "title": "Artificial Intelligence on Data Labelling",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/artificial-intelligence-on-data-labelling/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Algorithm, Artificial Intelligence, Beginner, Machine Learning",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "In this article, you will learn about data labelling as a concept which is an important branch of the artificial intelligence.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/artificial-intelligence-comp42.jpg"
+        },
+        {
+            "id": 2395,
+            "title": "Know All About Smart Contracts!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/know-all-about-smart-contracts/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Blockchain, Web 3.0",
+            "publishedOn": "2022-07-25T00:00:00",
+            "description": "In this article, learn all about smart contracts wherein you will study how it relates to blockchain, its advantages and limitations.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/joshua-woroniecki-_hcBtOKOOo0-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2396,
+            "title": "Classifying Sanskrit Shlokas using an LSTM-based model",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/classifying-sanskrit-shlokas-using-an-lstm-based-model/",
+            "authors": "Suvrat Arora",
+            "tags": "Beginner, Deep Learning, Machine Learning, Python",
+            "publishedOn": "2022-07-24T00:00:00",
+            "description": "This article will help you in building Sanskrit Shlokas Classification model using LSTM-based model from scratch",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/deep_learning_learning_path.jpg"
+        },
+        {
+            "id": 2397,
+            "title": "Top 10 Questions to Test your Data Science Skills on Transfer Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-10-questions-to-test-your-data-science-skills-on-transfer-learning/",
+            "authors": "Pradeep T",
+            "tags": "Data Science, Deep Learning, Intermediate",
+            "publishedOn": "2022-07-24T00:00:00",
+            "description": "Transfer learning has become one of the most important abilities for data scientists enhancing the technical advantage.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/transfer-learning.png"
+        },
+        {
+            "id": 2398,
+            "title": "Top 5 SQL JOIN FAQs for Data Science Interview",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-5-sql-join-faqs-for-data-science-interview/",
+            "authors": "Suraj Gurav",
+            "tags": "Beginner, Interview Questions, Interviews, SQL",
+            "publishedOn": "2022-07-24T00:00:00",
+            "description": "When the data you need resides in different tables, SQL JOIN allows you to combine these tables in one or more common columns.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2399,
+            "title": "Pandas Functions you Should Know for Data\u00a0Analysis",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/pandas-functions-you-should-know-for-data-analysis/",
+            "authors": "Suraj Gurav",
+            "tags": "Beginner, Machine Learning, Pandas, Python",
+            "publishedOn": "2022-07-24T00:00:00",
+            "description": "This article covers top 21 pandas functions, which cover 80% of your data exploration tasks, which you will use in your data analysis tasks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/GroupBy-function-in-Pandas-Featured-Image.jpg"
+        },
+        {
+            "id": 2400,
+            "title": "Introduction to Apache CouchDB using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-apache-couchdb-using-python/",
+            "authors": "TK Kaushik Jegannathan",
+            "tags": "Beginner, Data Engineering, Python",
+            "publishedOn": "2022-07-23T00:00:00",
+            "description": "The functions described in this article are good enough for getting started with CouchDB, but this is not the end.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/44517REDESIGN-TensorFlow-Python-Tutorial-Luke_Social-2cf55c3af1af1358481739320f86dce0.png"
+        },
+        {
+            "id": 2401,
+            "title": "Introduction to BlockChain The Distributed Ledger Technology",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/introduction-to-blockchain-the-distributed-ledger-technology/",
+            "authors": "Anusha Meghawat",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-07-23T00:00:00",
+            "description": "learn about the building blocks of BlockChain with the help of a few examples and draw parallels to real-world scenarios.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/Screenshot-2022-03-28-at-11.00.09-PM.png"
+        },
+        {
+            "id": 2402,
+            "title": "Implementing FinOps \u2013 Should I invest in a vendor software?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/implementing-finops-should-i-invest-in-a-vendor-software/",
+            "authors": "Kiran Rane",
+            "tags": "Artificial Intelligence, Banking, Beginner",
+            "publishedOn": "2022-07-23T00:00:00",
+            "description": "FinOps is an important focus area for several organizations, and many\u00a0 are increasing their investments in 2022 and beyond.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/Finance-scaled.jpg"
+        },
+        {
+            "id": 2403,
+            "title": "How is AWS Athena different from other databases?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/how-is-aws-athena-different-from-other-databases/",
+            "authors": "Gitesh Dhore",
+            "tags": "Data Engineering, Database, Intermediate, SQL",
+            "publishedOn": "2022-07-23T00:00:00",
+            "description": "Athena is a service offered by Amazon that is an interactive query service, easy for the user to directly analyze data in Amazon S3.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/christian-wiediger-rymh7EZPqRs-unsplash-scaled.jpg"
+        },
+        {
+            "id": 2404,
+            "title": "Python Coding Interview Questions for Freshers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/python-coding-interview-questions-for-freshers/",
+            "authors": "Saumyab271",
+            "tags": "Beginner, Interview Questions, Interviews, Python",
+            "publishedOn": "2022-07-23T00:00:00",
+            "description": "This article discusses some important and frequently asked questions related to Python coding in the interview.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/05/hr-process-4783430_1920.png"
+        },
+        {
+            "id": 2405,
+            "title": "Apache Kafka Architecture and Use Cases Explained",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/apache-kafka-architecture-and-use-cases-explained/",
+            "authors": "Gitesh Dhore",
+            "tags": "Beginner, Big data, Data Engineering",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "Apache Kafka is a publish-subscribe messaging system that you can use to build distributed applications like ordering messages.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/Apache-Kafka-A-metaphorical-introduction-to-event-streaming.jpg"
+        },
+        {
+            "id": 2406,
+            "title": "Application of AI in Predictive Maintenance of Vehicles",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/application-of-ai-in-predictive-maintenance-of-vehicles/",
+            "authors": "Drishti Sharma",
+            "tags": "Artificial Intelligence, Beginner",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "AI based predictive analytics is becoming valuable technology where predictive maintenance saves money & labor time, reducing stress levels.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/48943AI-Vs-ML-blog-post-header.png"
+        },
+        {
+            "id": 2407,
+            "title": "The DataHour: Real-world Applications of Data Science",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-datahour-real-world-applications-of-data-science/",
+            "authors": "Sanjana Rajpal",
+            "tags": "Analytics Vidhya, Announcement",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "Come, register yourself for this DataHour where you can learn the application of data science in real life.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/og28.png"
+        },
+        {
+            "id": 2408,
+            "title": "Google BigQuery Architecture for Data Engineers",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/google-bigquery-architecture-for-data-engineers/",
+            "authors": "Trupti Dekate",
+            "tags": "Data Visualization, Intermediate, SQL, Structured Data",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "BigQuery is designed to query structured and semi-structured data using standard SQL. It is highly optimized for query performance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/googlenet.png"
+        },
+        {
+            "id": 2409,
+            "title": "The DataHour: Bias and Fairness in NLP",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-datahour-bias-and-fairness-in-nlp/",
+            "authors": "Dhruv Aggarwal",
+            "tags": "Analytics Vidhya, Announcement, Graphs & Networks, Videos",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "In this DataHour session, Shantam Saxena will discuss the bias and fairness in NLP, followed by a Q&A session.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/og29.png"
+        },
+        {
+            "id": 2410,
+            "title": "Find External Data for Machine Learning Pipelines",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/find-external-data-for-my-machine-learning-pipelines/",
+            "authors": "Maxim .",
+            "tags": "Intermediate, Libraries, Machine Learning, Python",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "The article contains a description with python code of the way of developing of machine learning pipelines with the best accuracy.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 2411,
+            "title": "OpenAI Taught RL Agent How to Play Minecraft by Watching Videos",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/openai-taught-rl-agent-how-to-play-minecraft-by-watching-videos/",
+            "authors": "Drishti Sharma",
+            "tags": "Advanced, Artificial Intelligence, Datasets, Reinforcement Learning, Videos",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "In this article, learn about OpenAI which will teach you RL agent that will help you to understand how to play Minecraft by watching videos.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/08/openai-23.png"
+        },
+        {
+            "id": 2412,
+            "title": "Cryptographic Primitives in Blockchain",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/cryptographic-primitives-in-blockchain/",
+            "authors": "BIDISHA CHAKRABORTY",
+            "tags": "Beginner, Blockchain",
+            "publishedOn": "2022-07-22T00:00:00",
+            "description": "In this article, you will learn about Cryptographic Primitives which are building blocks of Blockchain security.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/06/2.jpg"
+        },
+        {
+            "id": 2413,
+            "title": "Natural Language Processing for Indic Languages",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/natural-language-processing-for-indic-languages/",
+            "authors": "Suvrat Arora",
+            "tags": "Deep Learning, Intermediate, Libraries, NLP, Structured Data",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "In this article, you will learn how to use natural language processing for common Indic languages like Hindi.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/36882NLP-e1595362635214.jpg"
+        },
+        {
+            "id": 2414,
+            "title": "Most Frequently Asked PostgreSQL Interview Questions",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/most-frequently-asked-postgresql-interview-questions/",
+            "authors": "Prashant Sharma",
+            "tags": "Beginner, Database, Interview Questions, Interviews, SQL",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "In this article, you will learn and develop basic understanding of the concepts of PostgreSQL which will help you prepare for interviews.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/interview.png"
+        },
+        {
+            "id": 2415,
+            "title": "The DataHour: Feature Engineering on Images using CNN",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-datahour-feature-engineering-on-images-using-cnn/",
+            "authors": "Dhruv Aggarwal",
+            "tags": "Analytics Vidhya, Announcement, Image, Machine Learning, Object Detection, Python",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "In this DataHour, the fundamental ideas of CNN will be discussed along with various examples utilising Python and Tensorflow/Keras",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/og27.png"
+        },
+        {
+            "id": 2416,
+            "title": "Dapps 101 \u2013 Build and Deploy Your 1st Dapp!",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/dapps-101-build-and-deploy-your-1st-dapp/",
+            "authors": "Purnendu Shukla",
+            "tags": "Beginner, Blockchain, Guide",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "In this article, you will learn basics of Dapps and understand the process of how to deploy your first Dapp.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/2-2.jpg"
+        },
+        {
+            "id": 2417,
+            "title": "Effective Virtual Assistants Implementation Strategy for your Business",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/effective-virtual-assistants-implementation-strategy-for-your-business/",
+            "authors": "Raghuvardhan Reddy Suram",
+            "tags": "Artificial Intelligence, Beginner, chatbot",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "This article will help you to deploy and optimize virtual assistants to automate most customer queries for your business.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/83608avatarmind-ipal-social-robot.jpg"
+        },
+        {
+            "id": 2418,
+            "title": "Image Classification Model Trained using Google Colab",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/image-classification-model-trained-using-google-colab/",
+            "authors": "Parthiban Marimuthu",
+            "tags": "Beginner, Computer Vision, Deep Learning, Image Analysis, Python",
+            "publishedOn": "2022-07-21T00:00:00",
+            "description": "Image classification classifies and labels sets of pixels inside an image using set of specified tags that an algorithm has been trained on.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Image-Classification-Model-Deployed-Using-Flask-1.jpg"
+        },
+        {
+            "id": 2419,
+            "title": "Developing an End-to-End Automated Data\u00a0Pipeline",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/developing-an-end-to-end-automated-data-pipeline/",
+            "authors": "Jayachandra Reddy",
+            "tags": "Beginner, Data Engineering, Data Warehouse, Database",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "ETL is the pillar of building a Data pipeline. Learn to integrate multiple tools to optimally extract value with cost-effective approaches.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/01/data-lake-2-adobe.jpg"
+        },
+        {
+            "id": 2420,
+            "title": "Data Science Interview Series: Random Forest and SVM",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/data-science-interview-series-part-2-random-forest-and-svm/",
+            "authors": "Kavish111",
+            "tags": "Beginner, Data Science, Interview Questions, Interviews",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "This article will discuss the data science interview questions asked in Random Forest, SVM, bias-variance tradeoff, and ensemble methods.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Data-Science-in-Marketing.png"
+        },
+        {
+            "id": 2421,
+            "title": "The DataHour: Building AI Applications in Minutes",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/the-datahour-building-ai-applications-in-minutes/",
+            "authors": "Dhruv Aggarwal",
+            "tags": "Analytics Vidhya, Announcement, Artificial Intelligence, Machine Learning, Videos",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "In this DataHour session, you will learn on a live session with Rajiv Shah how to build AI applications in minutes.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/og26.png"
+        },
+        {
+            "id": 2422,
+            "title": "How is Web 3.0 Shaping the Future of Finance?",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/how-is-web-3-0-shaping-the-future-of-finance/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Blockchain, Cryptocurrency, Research & Technology, Web 3.0",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "In this article, we will discuss how Web 3.0 and cryptocurrency play a role in shaping up the future of finance.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/07/1.jpg"
+        },
+        {
+            "id": 2423,
+            "title": "Top Interview Questions on Dictionary in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/top-interview-questions-on-dictionary-in-python/",
+            "authors": "Saumyab271",
+            "tags": "Beginner, Interview Questions, Interviews, Python",
+            "publishedOn": "2022-07-20T00:00:00",
+            "description": "Some theoretical and practical interview questions will be discussed to understand the Dictionary in python better.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Start-Using-The-timeit-Library-in-Python1.png"
+        }
+    ]
+}

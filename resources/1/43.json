@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1244,
+            "title": "Some Thoughts on Facial Recognition Legislation",
+            "url": "https://aws.amazon.com/blogs/machine-learning/some-thoughts-on-facial-recognition-legislation/",
+            "authors": "Michael Punke",
+            "tags": null,
+            "publishedOn": "2019-02-07T00:00:00",
+            "description": "Facial recognition technology significantly reduces the amount of time it takes to identify people or objects in photos and video. This makes it a powerful tool for business purposes, but just as importantly, for law enforcement and government agencies to catch criminals, prevent crime, and find missing people. We\u2019ve already seen the technology used to [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1245,
+            "title": "Bridgeman Images uses Amazon Translate to establish their business globally",
+            "url": "https://aws.amazon.com/blogs/machine-learning/bridgeman-images-uses-amazon-translate-to-establish-their-business-globally/",
+            "authors": "Shafreen Sayyed",
+            "tags": "Amazon Comprehend, Amazon Translate, Artificial Intelligence",
+            "publishedOn": "2019-02-06T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Many businesses aspire to expand globally to reach new customer and accelerate growth. For Bridgeman Images, this meant engaging customers who spoke languages other than English. They needed a scalable solution to overcoming the language barrier since having everything translated [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/06/Bridgeman-1120x630.gif"
+        },
+        {
+            "id": 1246,
+            "title": "Annotate data for less with Amazon SageMaker Ground Truth and automated data labeling",
+            "url": "https://aws.amazon.com/blogs/machine-learning/annotate-data-for-less-with-amazon-sagemaker-ground-truth-and-automated-data-labeling/",
+            "authors": "Krzysztof Chalupka, Fedor Zhdanov, Tristan McKinney",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2019-02-06T00:00:00",
+            "description": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build more accurately labeled machine learning datasets. To decrease labeling costs, use Ground Truth machine learning to choose \u201cdifficult\u201d images that require human annotation and \u201ceasy\u201d images that can be automatically labeled with machine learning. This post explains how automated data labeling works and how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/01/31/sagemaker-gt-annotate-data-8-social.gif"
+        },
+        {
+            "id": 1247,
+            "title": "DXC Technology automates triage of support tickets using AWS machine learning",
+            "url": "https://aws.amazon.com/blogs/machine-learning/dxc-technology-automates-triage-of-support-tickets-using-aws-machine-learning/",
+            "authors": "Sougata Biswas, Sofian Hamiti",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-02-05T00:00:00",
+            "description": "DXC Technology is a global IT service leader providing end-to-end services on Digital Transformation to businesses and governments. They also provide service management to their clients on-premises and in the cloud.\u00a0 The incident tickets raised as part of the process need to be resolved quickly to meet their service level agreements (SLA).\u00a0 DXC has \u00a0goals [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/02/01/dxc-6.gif"
+        },
+        {
+            "id": 1248,
+            "title": "Deploy trained Keras or TensorFlow models using Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-trained-keras-or-tensorflow-models-using-amazon-sagemaker/",
+            "authors": "Priya Ponnapalli, Federico Piccinini, Jasleen Grewal, Selvan Senthivel",
+            "tags": "Amazon ML Solutions Lab, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-01-30T00:00:00",
+            "description": "This post was reviewed and updated May 2022, to enforce model results reproducibility, add reproducibility checks, and to add a batch transform example for model predictions. Previously, this post was updated March 2021 to include SageMaker Neo compilation. Updated the compatibility for model trained using Keras 2.2.x with h5py 2.10.0 and TensorFlow 1.15.3. Amazon SageMaker [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1249,
+            "title": "Thoughts on Recent Research Paper and Associated Article on Amazon Rekognition",
+            "url": "https://aws.amazon.com/blogs/machine-learning/thoughts-on-recent-research-paper-and-associated-article-on-amazon-rekognition/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2019-01-26T00:00:00",
+            "description": "A research paper and associated article published yesterday made claims about the accuracy of Amazon Rekognition. We welcome feedback, and indeed get feedback from folks all the time, but this research paper and article are misleading and draw false conclusions. This blog post shares details which we hope will help clarify several \u200emisperceptions and inaccuracies. [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1250,
+            "title": "Deploy TensorFlow models with Amazon Elastic Inference using a flexible new Python API available in EI-enabled TensorFlow 1.12",
+            "url": "https://aws.amazon.com/blogs/machine-learning/deploy-tensorflow-models-with-amazon-elastic-inference-using-a-flexible-new-python-api-available-in-ei-enabled-tensorflow-1-12/",
+            "authors": "Dominic Divakaruni",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2019-01-23T00:00:00",
+            "description": "Amazon Elastic Inference (EI) now supports the latest version of TensorFlow\u00ad\u20131.12. It provides EIPredictor, a new easy-to-use Python API function for deploying TensorFlow models using EI accelerators. You can now use this new Python API function within your inference scripts as an alternative to using TensorFlow Serving when running TensorFlow models with EI. EIPredictor allows [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1251,
+            "title": "AWS launches open source Neo-AI project to accelerate ML deployments on edge devices",
+            "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-open-source-neo-ai-project-to-accelerate-ml-deployments-on-edge-devices/",
+            "authors": "Sukwon Kim, Vin Sharma",
+            "tags": "Amazon SageMaker Neo, Artificial Intelligence",
+            "publishedOn": "2019-01-23T00:00:00",
+            "description": "\u00a0At re:Invent 2018, we announced Amazon SageMaker Neo, a new machine learning feature that you can use to train a machine learning model once and then run it anywhere in the cloud and at the edge. Today, we are releasing the code as the open source Neo-AI project under the Apache Software License. This release [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        },
+        {
+            "id": 1252,
+            "title": "Identifying and working with sensitive healthcare data with Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/identifying-and-working-with-sensitive-healthcare-data-with-amazon-comprehend-medical/",
+            "authors": "Aaron Friedman, PhD",
+            "tags": "Amazon Comprehend Medical, Artificial Intelligence",
+            "publishedOn": "2019-01-23T00:00:00",
+            "description": "At AWS, I regularly speak with AWS customers and AWS Partner Network (APN) partners about how they are using technology to transform human health. These companies often generate large amounts of health data that they use in\u00a0a variety of applications, such as population health management and electronic health records.\u00a0Developers need to find ways to use [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/19/Social-AmazonComprehendDocumentClassificationAPI_800x400.png"
+        },
+        {
+            "id": 1253,
+            "title": "Extract and visualize clinical entities using Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/extract-and-visualize-clinical-entities-using-amazon-comprehend-medical/",
+            "authors": "Ujjwal Ratan",
+            "tags": "Amazon Comprehend Medical, Artificial Intelligence",
+            "publishedOn": "2019-01-23T00:00:00",
+            "description": "September 8, 2021: Amazon Elasticsearch Service has been renamed to Amazon OpenSearch Service. See details. Amazon Comprehend Medical is a new HIPAA-eligible service that uses machine learning (ML) to extract medical information with high accuracy. This reduces the cost, time, and effort of processing large amounts of unstructured medical text. You can extract entities and [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/27/social-comprehend.jpg"
+        },
+        {
+            "id": 1254,
+            "title": "Ensure consistency in data processing code between training and inference in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/ensure-consistency-in-data-processing-code-between-training-and-inference-in-amazon-sagemaker/",
+            "authors": "Thomas Hughes, Urvashi Chowdhary",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2019-01-11T00:00:00",
+            "description": "In this blog post, we\u2019ll show you how to deploy an inference pipeline consisting of pre-processing using SparkML, inferences using XGBoost, and post-processing using SparkML. For this particular example, we are using the Car Evaluation Data Set from UCI\u2019s Machine Learning Repository and training an XGBoost model to predict the condition of a car (i.e. unacceptable, acceptable, good, or very good).",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/21/SageMakerInferencePipelines1.png"
+        },
+        {
+            "id": 1255,
+            "title": "How simpleshow uses Amazon Polly to voice stories in their explainer videos",
+            "url": "https://aws.amazon.com/blogs/machine-learning/how-simpleshow-uses-amazon-polly-to-voice-stories-in-their-explainer-videos/",
+            "authors": "Hans-Christian Pahlig",
+            "tags": "Amazon Polly, Artificial Intelligence",
+            "publishedOn": "2019-01-11T00:00:00",
+            "description": "More than ten years ago, simpleshow started to help their customers explain materials, ideas, and products by using three-minute animated explainer videos. These explainer videos use two hands and simple, black and white illustration to lead viewers through a story. Today, the company also provides mysimpleshow.com, a platform that allows anyone to produce high-quality explainer [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/01/09/simpleshow-3.gif"
+        },
+        {
+            "id": 1256,
+            "title": "Automated and continuous deployment of Amazon SageMaker models with AWS Step Functions",
+            "url": "https://aws.amazon.com/blogs/machine-learning/automated-and-continuous-deployment-of-amazon-sagemaker-models-with-aws-step-functions/",
+            "authors": "John Calhoun",
+            "tags": "Amazon SageMaker, Application Services, Artificial Intelligence, AWS Step Functions",
+            "publishedOn": "2019-01-10T00:00:00",
+            "description": "Amazon SageMaker is a complete machine learning (ML) workflow service for developing, training, and deploying models, lowering the cost of building solutions, and increasing the productivity of data science teams. Amazon SageMaker comes with many predefined algorithms. You can also create your own algorithms by supplying Docker images, a training image to train your model [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/10/10/continuous-sagemaker-deployment-8.gif"
+        },
+        {
+            "id": 1257,
+            "title": "Use AWS Machine Learning to Analyze Customer Calls from Contact Centers (Part 2): Automate, Deploy, and Visualize Analytics using Amazon Transcribe, Amazon Comprehend, AWS CloudFormation, and Amazon QuickSight",
+            "url": "https://aws.amazon.com/blogs/machine-learning/use-aws-machine-learning-to-analyze-customer-calls-from-contact-centers-part-2-automate-deploy-and-visualize-analytics-using-amazon-transcribe-amazon-comprehend-aws-cloudformation-and-amazon-q/",
+            "authors": "Deenadayaalan Thirugnanasambandam, Revanth Anireddy, Loc Trinh, Paul Zhao, Piyush Patel",
+            "tags": "Amazon Comprehend, Amazon Transcribe",
+            "publishedOn": "2018-12-28T00:00:00",
+            "description": "In the previous blog post,\u00a0we showed you how to string together Amazon Transcribe and Amazon Comprehend to be able to conduct sentiment analysis on call conversations from contact centers. Here, we demonstrate how to leverage AWS CloudFormation to automate the process and deploy your solution at scale. Solution Architecture The following diagram illustrates architecture that [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/21/analyze-contact-center-19.gif"
+        },
+        {
+            "id": 1258,
+            "title": "Transcribe speech in three new languages: French, Italian, and Brazilian Portuguese",
+            "url": "https://aws.amazon.com/blogs/machine-learning/transcribe-speech-in-three-new-languages-french-italian-and-brazilian-portuguese/",
+            "authors": "Paul Zhao",
+            "tags": "Amazon Transcribe",
+            "publishedOn": "2018-12-21T00:00:00",
+            "description": "We\u2019re excited to announce that Amazon Transcribe now supports automatic speech recognition in three new languages: French, Italian, and Brazilian Portuguese. These new languages expand upon the 5 languages already available in Amazon Transcribe: US English, US Spanish, Australian English, British English, and Canadian French. Using the Amazon Transcribe API, you can analyze audio files [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/21/Featured.png"
+        },
+        {
+            "id": 1259,
+            "title": "Amazon SageMaker adds Scikit-Learn support",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-adds-scikit-learn-support/",
+            "authors": "Laurence Rouesnel, Eric Kim",
+            "tags": "Amazon SageMaker",
+            "publishedOn": "2018-12-20T00:00:00",
+            "description": "Amazon SageMaker now comes pre-configured with the Scikit-Learn machine learning library in a Docker container. Scikit-Learn is popular choice for data scientists and developers because it provides efficient tools for data analysis and high quality implementations of popular machine learning algorithms through a consistent Python interface and well documented APIs. Scikit-Learn executes quickly and can [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/20/SageMaker1.png"
+        },
+        {
+            "id": 1260,
+            "title": "Power your website with on-demand translated reviews using Amazon Translate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/power-your-website-with-on-demand-translated-reviews-using-amazon-translate/",
+            "authors": "Giuseppe Angelo Porcelli, Diego Natali",
+            "tags": "Amazon Translate",
+            "publishedOn": "2018-12-20T00:00:00",
+            "description": "Amazon Translate is a high-quality neural machine translation service that uses advanced deep learning techniques to provide fast language translation of content from a source language to a target language, chosen among the supported pairs. It enables developers to easily invoke an API providing the text to be translated and obtain its translated version in real-time, hiding the complexity of building a neural machine translation model.",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/13/TranslateReviews3.png"
+        },
+        {
+            "id": 1261,
+            "title": "Easily train models using datasets labeled by Amazon SageMaker Ground Truth",
+            "url": "https://aws.amazon.com/blogs/machine-learning/easily-train-models-using-datasets-labeled-by-amazon-sagemaker-ground-truth/",
+            "authors": "Sumit Thakur",
+            "tags": "Amazon SageMaker Ground Truth, Artificial Intelligence",
+            "publishedOn": "2018-12-19T00:00:00",
+            "description": "Data scientists and developers can now easily train machine learning models on datasets labeled by Amazon SageMaker Ground Truth. Amazon SageMaker Training now accepts the labeled datasets produced in augmented manifest format as input through both AWS Management Console and Amazon SageMaker Python SDK APIs. Last month during AWS re:Invent, we launched Amazon SageMaker Ground [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/18/SageMakerGroundTruth2.jpg"
+        },
+        {
+            "id": 1262,
+            "title": "Analyzing contact center calls\u2014Part 1: Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment",
+            "url": "https://aws.amazon.com/blogs/machine-learning/analyzing-contact-center-calls-part-1-use-amazon-transcribe-and-amazon-comprehend-to-analyze-customer-sentiment/",
+            "authors": "Deenadayaalan Thirugnanasambandam, Revanth Anireddy, Loc Trinh, Paul Zhao, Piyush Patel",
+            "tags": "Amazon Transcribe, Artificial Intelligence",
+            "publishedOn": "2018-12-18T00:00:00",
+            "description": "Contact centers aiming to improve overall operational efficiency have an imperative to understand caller-agent dynamics. In part one of this two-part blog post series we\u2019ll show you how you can use Amazon Transcribe and Amazon Comprehend to transform call recordings from audio to text and then run sentiment analysis on the transcripts.\u00a0We will demonstrate how [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1263,
+            "title": "Scalable multi-node training with TensorFlow",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scalable-multi-node-training-with-tensorflow/",
+            "authors": "Aaron Markham",
+            "tags": "Artificial Intelligence, AWS Deep Learning AMIs",
+            "publishedOn": "2018-12-17T00:00:00",
+            "description": "We\u2019ve heard from customers that scaling TensorFlow training jobs to multiple nodes and GPUs successfully is hard. TensorFlow has distributed training built-in, but it can be difficult to use. Recently, we made optimizations to TensorFlow and Horovod\u00a0to help AWS customers scale TensorFlow training jobs to multiple nodes and GPUs. With these improvements, any AWS customer [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/14/tensorflow-256-1.jpg"
+        },
+        {
+            "id": 1264,
+            "title": "Amazon SageMaker Automatic Model Tuning now supports early stopping of training jobs",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-early-stopping-of-training-jobs/",
+            "authors": "Huibin Shen, Fan Li, Miroslav Miladinovic",
+            "tags": "Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-12-13T00:00:00",
+            "description": "In June 2018, we launched Amazon SageMaker Automatic Model Tuning, a feature that automatically finds well-performing hyperparameters to train a machine learning model with. Unlike model parameters learned during training, hyperparameters are set before the learning process begins. A typical example of the use of hyperparameters is the learning rate of stochastic gradient procedures. Using [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/12/sagemaker-early-stopping-5.gif"
+        },
+        {
+            "id": 1265,
+            "title": "Build a serverless Twitter reader using AWS Fargate",
+            "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-twitter-reader-using-aws-fargate/",
+            "authors": "Raja Mani, Luis Pineda",
+            "tags": "AWS Fargate, Compute",
+            "publishedOn": "2018-12-06T00:00:00",
+            "description": "In a previous post, Ben Snively and Viral Desai showed us how to build a social media dashboard using serverless technology. The social media dashboard reads tweets with the #AWS hashtag, uses machine learning based services to do translation, and natural language processing (NLP) to determine topics, entities, and sentiment analysis. Finally, it aggregates this [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/05/twitter-fargate-2.gif"
+        },
+        {
+            "id": 1266,
+            "title": "Anomaly detection on Amazon DynamoDB Streams using the Amazon SageMaker Random Cut Forest algorithm",
+            "url": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-on-amazon-dynamodb-streams-using-the-amazon-sagemaker-random-cut-forest-algorithm/",
+            "authors": "YongSeong Lee",
+            "tags": "Amazon DynamoDB, Amazon SageMaker, Artificial Intelligence",
+            "publishedOn": "2018-12-05T00:00:00",
+            "description": "Have you considered introducing anomaly detection technology to your business? Anomaly detection is a technique used to identify rare items, events, or observations which raise suspicion by differing significantly from the majority of the data you are analyzing.\u00a0 The applications of anomaly detection are wide-ranging including the detection of abnormal purchases or cyber intrusions in [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/30/anomaly-detection-sagemaker-1.gif"
+        },
+        {
+            "id": 1267,
+            "title": "Announcing the Winners of the 2018 AWS AI Hackathon",
+            "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winners-of-the-2018-aws-ai-hackathon/",
+            "authors": "Cameron Peron",
+            "tags": "Artificial Intelligence",
+            "publishedOn": "2018-12-05T00:00:00",
+            "description": "We\u2019re excited to announce the winners of the 2018 AWS AI Hackathon.\u00a0 Horacio Canales has won first place with his \u201cSecond Alert\u201d project. This project enables users from around the world to identify missing persons, including human trafficking victims, children too young to remember their family members\u2019 names, and mentally handicapped individuals. Horacio built the [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/12/05/ai-hackathon-1.jpg"
+        },
+        {
+            "id": 1268,
+            "title": "Amazon SageMaker notebooks now support Git integration for increased persistence, collaboration, and reproducibility",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebooks-now-support-git-integration-for-increased-persistence-collaboration-and-reproducibility/",
+            "authors": "Erkan Tas",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-28T00:00:00",
+            "description": "It\u2019s now possible to associate GitHub, AWS CodeCommit, and any self-hosted Git repository with Amazon SageMaker notebook\u00a0instances to easily and securely collaborate and ensure version-control with Jupyter Notebooks. In this blog\u00a0post, I\u2019ll elaborate on the benefits of using Git-based version-control systems and how to set up your notebook instances to work with Git repositories. Data [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/27/sagemaker-git-13.gif"
+        },
+        {
+            "id": 1269,
+            "title": "Semantic Segmentation algorithm is now available in Amazon SageMaker",
+            "url": "https://aws.amazon.com/blogs/machine-learning/semantic-segmentation-algorithm-is-now-available-in-amazon-sagemaker/",
+            "authors": "Ragav Venkatesan, Hang Zhang, Luka Krajcar, Saksham Saini, Satyaki Chakraborty, Xiong Zhou",
+            "tags": "Amazon SageMaker, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-28T00:00:00",
+            "description": "Amazon SageMaker is a managed and infinitely scalable machine learning (ML) platform. With this platform, it is easy to build, train, and deploy machine learning models. Amazon SageMaker already has two popular built-in computer vision algorithms for\u00a0image classification and object detection. The Amazon SageMaker image classification algorithm learns to categorize images into a set of [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/26/semantic-segmentation-1-1260x415.jpg"
+        },
+        {
+            "id": 1270,
+            "title": "Introducing Amazon Translate Custom Terminology",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-translate-custom-terminology/",
+            "authors": "Yoni Friedman",
+            "tags": "Amazon Translate, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-27T00:00:00",
+            "description": "Amazon Translate\u00a0is a neural machine translation service that delivers fast, high-quality, and affordable language translation. Today, we are introducing Custom Terminology, a feature that customers can use to customize Amazon Translate output to use company- and domain-specific vocabulary. By uploading and invoking Custom Terminology with translation requests, customers have the ability to ensure that their [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png"
+        },
+        {
+            "id": 1271,
+            "title": "Introducing medical language processing with Amazon Comprehend Medical",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-medical-language-processing-with-amazon-comprehend-medical/",
+            "authors": "Dr. Taha A. Kass-Hout, Dr. Matt Wood",
+            "tags": "Amazon Comprehend Medical, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-27T00:00:00",
+            "description": "We are excited to announce Amazon Comprehend Medical, a new HIPAA-eligible machine learning service that allows developers to process unstructured medical text and identify information such as patient diagnosis, treatments, dosages, symptoms and signs, and more. Comprehend Medical helps health care providers, insurers, researchers, and clinical trial investigators as well as health care IT, biotech, [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+            "id": 1272,
+            "title": "Introducing Dynamic Training for deep learning with Amazon EC2",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-dynamic-training-for-deep-learning-with-amazon-ec2/",
+            "authors": "Vikas Kumar, Hagay Lupesko, Haibin Lin, Mu Li, Andrea Olgiati",
+            "tags": "Apache MXNet on AWS, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-26T00:00:00",
+            "description": "Today we are excited to announce the availability of Dynamic Training (DT) for deep learning models, or DT for short. DT allows\u00a0deep learning practitioners to reduce model training cost and time by leveraging the cloud\u2019s elasticity and economies of scale. Our first reference implementation of DT is based on Apache MXNet, and is open sourced [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/11/26/dynamic-training-1-1.jpg"
+        },
+        {
+            "id": 1273,
+            "title": "Amazon\u2019s own \u2018Machine Learning University\u2019 now available to all developers",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/",
+            "authors": "Dr. Matt Wood",
+            "tags": "Amazon Machine Learning, Artificial Intelligence, AWS re:Invent",
+            "publishedOn": "2018-11-26T00:00:00",
+            "description": "Today, I\u2019m excited to share that, for the first time, the same machine learning courses used to train engineers at Amazon are now available to all developers through AWS. We\u2019ve been using machine learning across Amazon for more than 20 years. With thousands of engineers focused on machine learning across the company, there are very [\u2026]",
+            "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/21/Social_Graphics_1.png"
+        }
+    ]
+}

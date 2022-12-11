@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9442,
+            "title": "How To Estimate The Performance of Machine Learning Algorithms in Weka",
+            "url": "https://machinelearningmastery.com/estimate-performance-machine-learning-algorithms-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-18T00:00:00",
+            "description": "The problem of predictive modeling is to create models that have good performance making predictions on new unseen data. Therefore it is critically important to use robust techniques to train and evaluate your models on your available training data. The more reliable the estimate of the performance on your model, the further you can push [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/How-To-Estimate-The-Performance-of-Machine-Learning-Algorithms-in-Weka.jpg"
+        },
+        {
+            "id": 9443,
+            "title": "How to Use Machine Learning Algorithms in Weka",
+            "url": "https://machinelearningmastery.com/use-machine-learning-algorithms-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-15T00:00:00",
+            "description": "A big benefit of using the Weka platform\u00a0is the large number of supported machine learning algorithms. The more algorithms that you can try on your problem the more you will learn about your problem and likely closer you will get to discovering the one or few algorithms that perform best. In this post you will [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/How-to-Use-Machine-Learning-Algorithms-in-Weka.jpg"
+        },
+        {
+            "id": 9444,
+            "title": "8 Inspirational Applications of Deep Learning",
+            "url": "https://machinelearningmastery.com/inspirational-applications-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-07-14T00:00:00",
+            "description": "It is hyperbole to say deep learning is achieving state-of-the-art results across a range of difficult problem domains. A\u00a0fact, but also hyperbole. There\u00a0is a lot of excitement\u00a0around artificial intelligence, machine learning and deep learning at the moment. It is also an amazing opportunity to get on on the ground floor of some really powerful tech. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Automatic-Object-Detection.png"
+        },
+        {
+            "id": 9445,
+            "title": "How to Perform Feature Selection With Machine Learning Data in Weka",
+            "url": "https://machinelearningmastery.com/perform-feature-selection-machine-learning-data-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-13T00:00:00",
+            "description": "Raw machine learning data contains a mixture of attributes, some of which are relevant to making predictions. How do you know which features to use and which to remove?\u00a0The process of selecting features in your data to model your problem is called feature selection. In this post you will discover how to perform feature selection [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/How-to-Perform-Feature-Selection-With-Machine-Learning-Data-in-Weka.jpg"
+        },
+        {
+            "id": 9446,
+            "title": "Deep Learning Courses",
+            "url": "https://machinelearningmastery.com/deep-learning-courses/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-07-12T00:00:00",
+            "description": "It can be difficult to get started in deep learning. Thankfully, a number of universities have opened up their deep learning course material for free, which can be a great jump-start when you are looking to better understand the foundations of deep learning. In this post you will discover the deep learning courses that you [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/How-To-Estimate-The-Performance-of-Machine-Learning-Algorithms-in-Weka.jpg"
+        },
+        {
+            "id": 9447,
+            "title": "How To Handle Missing Values In Machine Learning Data With Weka",
+            "url": "https://machinelearningmastery.com/how-to-handle-missing-values-in-machine-learning-data-with-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-11T00:00:00",
+            "description": "Data is rarely clean and often you can have corrupt or missing values. It is important to identify, mark and handle missing data when developing machine learning models in order to get the very best performance. In this post you will discover how to handle missing values in your machine learning data using Weka. After [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/How-To-Handle-Missing-Data-For-Machine-Learning-in-Weka.jpg"
+        },
+        {
+            "id": 9448,
+            "title": "How to Transform Your Machine Learning Data in Weka",
+            "url": "https://machinelearningmastery.com/transform-machine-learning-data-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-08T00:00:00",
+            "description": "Often your raw data for machine learning is not in an ideal form for modeling. You need to prepare or reshape it to meet the expectations of different machine learning algorithms. In this post you will discover two techniques that you can use to transform your machine learning data ready for modeling. After reading this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Weka-Discretized-Attribute.png"
+        },
+        {
+            "id": 9449,
+            "title": "Crash Course in Recurrent Neural Networks for Deep Learning",
+            "url": "https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Long Short-Term Memory Networks",
+            "publishedOn": "2016-07-07T00:00:00",
+            "description": "Another type of neural network is dominating difficult machine learning problems involving sequences of inputs: recurrent neural networks. Recurrent neural networks have connections that have loops, adding feedback and memory to the networks over time. This memory allows this type of network to learn and generalize across sequences of inputs rather than individual patterns. A [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Crash-Course-in-Recurrent-Neural-Networks-for-Deep-Learning.jpg"
+        },
+        {
+            "id": 9450,
+            "title": "Applied Deep Learning in Python Mini-Course",
+            "url": "https://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-07-06T00:00:00",
+            "description": "Deep learning is a fascinating field of study and the techniques are achieving world class results in a range of challenging machine learning problems. It can be hard\u00a0to get started in deep learning. Which library should you use and which techniques should you focus on? In this post you will discover a 14-part crash course [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Applied-Deep-Learning-in-Python-Mini-Course.jpg"
+        },
+        {
+            "id": 9451,
+            "title": "How to Normalize and Standardize Your Machine Learning Data in Weka",
+            "url": "https://machinelearningmastery.com/normalize-standardize-machine-learning-data-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-07-05T00:00:00",
+            "description": "Machine learning algorithms make assumptions about the dataset you are modeling. Often, raw data is comprised of attributes with varying scales. For example, one attribute may be in kilograms and another may be a count. Although not required, you can often get a boost in performance by carefully choosing methods to rescale your data. In [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Weka-Select-Standardize-Data-Filter.png"
+        },
+        {
+            "id": 9452,
+            "title": "How to Predict Sentiment from Movie Reviews Using Deep Learning (Text Classification)",
+            "url": "https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-07-04T00:00:00",
+            "description": "Sentiment analysis is a natural language processing problem where text is understood, and the underlying intent is predicted. In this post, you will discover how you can predict the sentiment of movie reviews as either positive or negative in Python using the Keras deep learning library. After reading this post, you will know: About the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/07/Predict-Sentiment-From-Movie-Reviews-Using-Deep-Learning.jpg"
+        },
+        {
+            "id": 9453,
+            "title": "Object Classification with CNNs Using the Keras Deep Learning Library",
+            "url": "https://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-07-01T00:00:00",
+            "description": "Keras is a Python library for deep learning that wraps the powerful numerical libraries Theano and TensorFlow. A difficult problem where traditional neural networks fall down is called object recognition. It is where a model is able to identify the objects in images. In this post, you will discover how to develop and evaluate deep [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/cifar10-sample-images.png"
+        },
+        {
+            "id": 9454,
+            "title": "How to Better Understand Your Machine Learning Data in Weka",
+            "url": "https://machinelearningmastery.com/better-understand-machine-learning-data-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-30T00:00:00",
+            "description": "It is important to take your time to learn about your data when starting on a new machine learning problem. There are key things that you can look at to very quickly learn more about your dataset, such as descriptive statistics and data visualizations. In this post you will discover how you can learn more [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Weka-All-Univariate-Attribute-Distributions.png"
+        },
+        {
+            "id": 9455,
+            "title": "Standard Machine Learning Datasets To Practice in Weka",
+            "url": "https://machinelearningmastery.com/standard-machine-learning-datasets-used-practice-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-28T00:00:00",
+            "description": "It is a good idea to have small well understood datasets when getting started in machine learning and learning a new tool. The Weka machine learning workbench provides a directory of small well understood datasets in the installed directory. In this post you will discover some of these small well understood datasets distributed with Weka, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Standard-Machine-Learning-Datasets-Used-For-Practice-in-Weka.jpg"
+        },
+        {
+            "id": 9456,
+            "title": "Handwritten Digit Recognition Using Convolutional Neural Networks in Python with Keras",
+            "url": "https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-06-27T00:00:00",
+            "description": "A popular demonstration of the capability of deep learning techniques is object recognition in image data. The \u201chello world\u201d of object recognition for machine learning and deep learning is the MNIST dataset for handwritten digit recognition. In this post, you will discover how to develop a deep learning model to achieve near state-of-the-art performance on [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png"
+        },
+        {
+            "id": 9457,
+            "title": "Crash Course in Convolutional Neural Networks for Machine Learning",
+            "url": "https://machinelearningmastery.com/crash-course-convolutional-neural-networks/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-06-24T00:00:00",
+            "description": "Convolutional neural networks are a powerful artificial neural network technique. These networks preserve the spatial structure of the problem and were developed for object recognition tasks such as handwritten digit recognition. They are popular because people can achieve state-of-the-art results on challenging computer vision and natural language processing tasks. In this post, you will discover [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Crash-Course-in-Convolutional-Neural-Networks-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 9458,
+            "title": "How To Load CSV Machine Learning Data in Weka",
+            "url": "https://machinelearningmastery.com/load-csv-machine-learning-data-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-23T00:00:00",
+            "description": "You must be able to load your data before you can start modeling it. In this post you will discover how you can load your CSV dataset in Weka. After reading this post, you will know: About the ARFF file format and how it is the default way to represent data in Weka. How to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/How-To-Load-CSV-Machine-Learning-Data-in-Weka.jpg"
+        },
+        {
+            "id": 9459,
+            "title": "A Tour of the Weka Machine Learning Workbench",
+            "url": "https://machinelearningmastery.com/tour-weka-machine-learning-workbench/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-21T00:00:00",
+            "description": "Weka is an easy to use and powerful machine learning platform. It provides a large number of machine learning algorithms, feature selection methods and data preparation filters. In this post you will discover the Weka machine learning workbench and take\u00a0a tour of the key interfaces that you can use on your machine learning projects. After [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Weka-Explorer-Preprocess-Tab.png"
+        },
+        {
+            "id": 9460,
+            "title": "Display Deep Learning Model Training History in Keras",
+            "url": "https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-06-17T00:00:00",
+            "description": "You can learn a lot about neural networks and deep learning models by observing their performance over time during training. Keras is a powerful library in Python that provides a clean interface for creating deep learning models and wraps the more technical TensorFlow and Theano backends. In this post, you will discover how you can [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Display-Deep-Learning-Model-Training-History-in-Keras.jpg"
+        },
+        {
+            "id": 9461,
+            "title": "How to Download and Install the Weka Machine Learning Workbench",
+            "url": "https://machinelearningmastery.com/download-install-weka-machine-learning-workbench/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-16T00:00:00",
+            "description": "The Weka machine learning workbench is a powerful and yet easy to use platform for predictive modeling. In this post you will discover how you can install Weka on your workstation fast, and get started with machine learning. After reading this post you will know: How to install the all-in-one version of Weka for Windows [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/How-to-Download-and-Install-the-Weka-Machine-Learning-Workbench.jpg"
+        },
+        {
+            "id": 9462,
+            "title": "Rapidly Accelerate Your Progress in Applied Machine Learning With Weka",
+            "url": "https://machinelearningmastery.com/applied-machine-learning-with-weka/",
+            "authors": "Jason Brownlee",
+            "tags": "Weka Machine Learning",
+            "publishedOn": "2016-06-14T00:00:00",
+            "description": "Why start with Weka over another tool like the R environment or Python for applied machine learning? In this post you will discover why Weka is the perfect platform for beginners interested\u00a0in rapidly getting good at applied machine learning. After reading this post you will know: Why getting started in applied machine learning is hard. [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Rapidly-Accelerate-Your-Progress-in-Applied-Machine-Learning-With-Weka.jpg"
+        },
+        {
+            "id": 9463,
+            "title": "Regression Tutorial with the Keras Deep Learning Library in Python",
+            "url": "https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-06-09T00:00:00",
+            "description": "Keras is a deep learning library that wraps the efficient numerical libraries Theano and TensorFlow. In this post, you will discover how to develop and evaluate neural network models using Keras for a regression problem. After completing this step-by-step tutorial, you will know: How to load a CSV dataset and make it available to Keras [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Regression-Tutorial-with-Keras-Deep-Learning-Library-in-Python.jpg"
+        },
+        {
+            "id": 9464,
+            "title": "Save and Load Machine Learning Models in Python with scikit-learn",
+            "url": "https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-06-08T00:00:00",
+            "description": "Finding an accurate machine learning model is not the end of the project. In this post you will discover how to save and load your machine learning model in Python using scikit-learn. This allows you to save your model to file and load it later in order to make predictions. Let\u2019s get started. Update Jan/2017: [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Save-and-Load-Machine-Learning-Models-in-Python-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9465,
+            "title": "Automate Machine Learning Workflows with Pipelines in Python and scikit-learn",
+            "url": "https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-06-06T00:00:00",
+            "description": "There are standard workflows in a machine learning project that can be automated. In Python scikit-learn, Pipelines help to to clearly define and automate these workflows. In this post you will discover Pipelines in scikit-learn and how you can automate common machine learning workflows. Let\u2019s get started. Update Jan/2017: Updated to reflect changes to the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Automate-Machine-Learning-Workflows-with-Pipelines-in-Python-and-scikit-learn.jpg"
+        },
+        {
+            "id": 9466,
+            "title": "Ensemble Machine Learning Algorithms in Python with scikit-learn",
+            "url": "https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-06-03T00:00:00",
+            "description": "Ensembles can give you a boost in accuracy on your dataset. In this post you will discover how you can create some of the most powerful types of ensembles in Python using scikit-learn. This case study will step you through Boosting, Bagging and Majority Voting and show you how you can continue to ratchet up [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Ensemble-Machine-Learning-Algorithms-in-Python-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9467,
+            "title": "Multi-Class Classification Tutorial with the Keras Deep Learning Library",
+            "url": "https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-06-02T00:00:00",
+            "description": "Keras is a Python library for deep learning that wraps the efficient numerical libraries Theano and TensorFlow. In this tutorial, you will discover how to use Keras to develop and evaluate neural network models for multi-class classification problems. After completing this step-by-step tutorial, you will know: How to load data from CSV and make it [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/Multi-Class-Classification-Tutorial-with-the-Keras-Deep-Learning-Library.jpg"
+        },
+        {
+            "id": 9468,
+            "title": "How To Compare Machine Learning Algorithms in Python with scikit-learn",
+            "url": "https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-06-01T00:00:00",
+            "description": "It is important to compare the performance of multiple different machine learning algorithms consistently. In this post you will discover how you can create a test harness to compare multiple different machine learning algorithms in Python with scikit-learn. You can use this test harness as a template on your own machine learning problems and add [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/06/How-To-Compare-Machine-Learning-Algorithms-in-Python-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9469,
+            "title": "Use Keras Deep Learning Models with Scikit-Learn in Python",
+            "url": "https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2016-05-31T00:00:00",
+            "description": "Keras is one of the most popular deep learning libraries in Python for research and development because of its simplicity and ease of use. The scikit-learn library is the most popular library for general machine learning in Python. In this post, you will discover how you can use deep learning models from Keras with the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Use-Keras-Deep-Learning-Models-with-Scikit-Learn-in-Python.jpg"
+        },
+        {
+            "id": 9470,
+            "title": "Spot-Check Regression Machine Learning Algorithms in Python with scikit-learn",
+            "url": "https://machinelearningmastery.com/spot-check-regression-machine-learning-algorithms-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-30T00:00:00",
+            "description": "Spot-checking is a way of discovering which algorithms perform well on your machine learning problem. You cannot know which algorithms are best suited to your problem before hand. You must trial a number of methods and focus attention on those that prove themselves the most promising. In this post you will discover 6 machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Spot-Check-Regression-Machine-Learning-Algorithms-in-Python-with-scikit-learn.jpg"
+        },
+        {
+            "id": 9471,
+            "title": "Spot-Check Classification Machine Learning Algorithms in Python with scikit-learn",
+            "url": "https://machinelearningmastery.com/spot-check-classification-machine-learning-algorithms-python-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2016-05-27T00:00:00",
+            "description": "Spot-checking is a way of discovering which algorithms perform well on your machine learning problem. You cannot know which algorithms are best suited to your problem before hand. You must trial a number of methods and focus attention on those that prove themselves the most promising. In this post you will discover 6 machine learning [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/05/Spot-Check-Classification-Machine-Learning-Algorithms-in-Python-with-scikit-learn.jpg"
+        }
+    ]
+}

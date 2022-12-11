@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 8812,
+            "title": "How to Scale Data With Outliers for Machine Learning",
+            "url": "https://machinelearningmastery.com/robust-scaler-transforms-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-27T00:00:00",
+            "description": "Many machine learning algorithms perform better when numerical input variables are scaled to a standard range. This includes algorithms that use a weighted sum of the input, like linear regression, and algorithms that use distance measures, like k-nearest neighbors. Standardizing is a popular scaling technique that subtracts the mean from values and divides by the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plots-of-Robust-Scaler-IQR-Range-vs-Classification-Accuracy-of-KNN-on-the-Sonar-Dataset.png"
+        },
+        {
+            "id": 8813,
+            "title": "Recursive Feature Elimination (RFE) for Feature Selection in Python",
+            "url": "https://machinelearningmastery.com/rfe-feature-selection-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-25T00:00:00",
+            "description": "Recursive Feature Elimination, or RFE for short, is a popular feature selection algorithm. RFE is popular because it is easy to configure and use and because it is effective at selecting those features (columns) in a training dataset that are more or most relevant in predicting the target variable. There are two important configuration options [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-RFE-Number-of-Selected-Features-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8814,
+            "title": "How to Use Discretization Transforms for Machine Learning",
+            "url": "https://machinelearningmastery.com/discretization-transforms-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-22T00:00:00",
+            "description": "Numerical input variables may have a highly skewed or non-standard distribution. This could be caused by outliers in the data, multi-modal distributions, highly exponential distributions, and more. Many machine learning algorithms prefer or perform better when numerical input variables have a standard probability distribution. The discretization transform provides an automatic way to change a numeric [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Histogram-of-Data-With-a-Gaussian-Distribution.png"
+        },
+        {
+            "id": 8815,
+            "title": "How to Use Quantile Transforms for Machine Learning",
+            "url": "https://machinelearningmastery.com/quantile-transforms-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-20T00:00:00",
+            "description": "Numerical input variables may have a highly skewed or non-standard distribution. This could be caused by outliers in the data, multi-modal distributions, highly exponential distributions, and more. Many machine learning algorithms prefer or perform better when numerical input variables and even output variables in the case of regression have a standard probability distribution, such as [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Histogram-of-Skewed-Gaussian-Data-After-Quantile-Transform.png"
+        },
+        {
+            "id": 8816,
+            "title": "How to Use Power Transforms for Machine Learning",
+            "url": "https://machinelearningmastery.com/power-transforms-with-scikit-learn/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-18T00:00:00",
+            "description": "Machine learning algorithms like Linear Regression and Gaussian Naive Bayes assume the numerical variables have a Gaussian probability distribution. Your data may not have a Gaussian distribution and instead may have a Gaussian-like distribution (e.g. nearly Gaussian but with outliers or a skew) or a totally different distribution (e.g. exponential). As such, you may be [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Histogram-of-Skewed-Gaussian-Data-After-Power-Transform.png"
+        },
+        {
+            "id": 8817,
+            "title": "Statistical Imputation for Missing Values in Machine Learning",
+            "url": "https://machinelearningmastery.com/statistical-imputation-for-missing-values-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-15T00:00:00",
+            "description": "Datasets may have missing values, and this can cause problems for many machine learning algorithms. As such, it is good practice to identify and replace missing values for each column in your input data prior to modeling your prediction task. This is called missing data imputation, or imputing for short. A popular approach for data [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Box-and-Whisker-Plot-of-Statistical-Imputation-Strategies-Applied-to-the-Horse-Colic-Dataset2.png"
+        },
+        {
+            "id": 8818,
+            "title": "Linear Discriminant Analysis for Dimensionality Reduction in Python",
+            "url": "https://machinelearningmastery.com/linear-discriminant-analysis-for-dimensionality-reduction-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-13T00:00:00",
+            "description": "Reducing the number of input variables for a predictive model is referred to as dimensionality reduction. Fewer input variables can result in a simpler predictive model that may have better performance when making predictions on new data. Linear Discriminant Analysis, or LDA for short, is a predictive modeling algorithm for multi-class classification. It can also [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-LDA-Number-of-Components-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8819,
+            "title": "Singular Value Decomposition for Dimensionality Reduction in Python",
+            "url": "https://machinelearningmastery.com/singular-value-decomposition-for-dimensionality-reduction-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-11T00:00:00",
+            "description": "Reducing the number of input variables for a predictive model is referred to as dimensionality reduction. Fewer input variables can result in a simpler predictive model that may have better performance when making predictions on new data. Perhaps the more popular technique for dimensionality reduction in machine learning is Singular Value Decomposition, or SVD for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/Singular-Value-Decomposition-for-Dimensionality-Reduction-in-Python.jpg"
+        },
+        {
+            "id": 8820,
+            "title": "Principal Component Analysis for Dimensionality Reduction in Python",
+            "url": "https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-08T00:00:00",
+            "description": "Reducing the number of input variables for a predictive model is referred to as dimensionality reduction. Fewer input variables can result in a simpler predictive model that may have better performance when making predictions on new data. Perhaps the most popular technique for dimensionality reduction in machine learning is Principal Component Analysis, or PCA for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-PCA-Number-of-Components-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8821,
+            "title": "Introduction to Dimensionality Reduction for Machine Learning",
+            "url": "https://machinelearningmastery.com/dimensionality-reduction-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-05-06T00:00:00",
+            "description": "The number of input variables or features for a dataset is referred to as its dimensionality. Dimensionality reduction refers to techniques that reduce the number of input variables in a dataset. More input features often make a predictive modeling task more challenging to model, more generally referred to as the curse of dimensionality. High-dimensionality statistics [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/05/A-Gentle-Introduction-to-Dimensionality-Reduction-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8822,
+            "title": "How to Develop a Gradient Boosting Machine Ensemble in Python",
+            "url": "https://machinelearningmastery.com/gradient-boosting-machine-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-05-04T00:00:00",
+            "description": "The Gradient Boosting Machine is a powerful ensemble machine learning algorithm that uses decision trees. Boosting is a general ensemble technique that involves sequentially adding models to the ensemble where subsequent models correct the performance of prior models. AdaBoost was the first algorithm to deliver on the promise of boosting. Gradient boosting is a generalization [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-Gradient-Boosting-Ensemble-Tree-Depth-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8823,
+            "title": "How to Develop an AdaBoost Ensemble in Python",
+            "url": "https://machinelearningmastery.com/adaboost-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-05-01T00:00:00",
+            "description": "Boosting is a class of ensemble machine learning algorithms that involve combining the predictions from many weak learners. A weak learner is a model that is very simple, although has some skill on the dataset. Boosting was a theoretical concept long before a practical algorithm could be developed, and the AdaBoost (adaptive boosting) algorithm was [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-AdaBoost-Ensemble-Weak-Learner-Depth-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8824,
+            "title": "Difference Between Algorithm and Model in Machine Learning",
+            "url": "https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2020-04-29T00:00:00",
+            "description": "Machine learning involves the use of machine learning algorithms and models. For beginners, this is very confusing as often \u201cmachine learning algorithm\u201d is used interchangeably with \u201cmachine learning model.\u201d Are they the same thing or something different? As a developer, your intuition with \u201calgorithms\u201d like sort algorithms and search algorithms will help to clear up [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Difference-Between-Algorithm-and-Model-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8825,
+            "title": "How to Develop a Bagging Ensemble with Python",
+            "url": "https://machinelearningmastery.com/bagging-ensemble-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-27T00:00:00",
+            "description": "Bagging is an ensemble machine learning algorithm that combines the predictions from many decision trees. It is also easy to implement given that it has few key hyperparameters and sensible heuristics for configuring these hyperparameters. Bagging performs well in general and provides the basis for a whole field of ensemble of decision tree algorithms such [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Box-Plot-of-Random-Subspace-Ensemble-Number-of-Features-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8826,
+            "title": "A Gentle Introduction to Degrees of Freedom in Machine Learning",
+            "url": "https://machinelearningmastery.com/degrees-of-freedom-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Statistics",
+            "publishedOn": "2020-04-24T00:00:00",
+            "description": "Degrees of freedom is an important concept from statistics and engineering. It is often employed to summarize the number of values used in the calculation of a statistic, such as a sample statistic or in a statistical hypothesis test. In machine learning, the degrees of freedom may refer to the number of parameters in the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/A-Gentle-Introduction-to-Degrees-of-Freedom-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8827,
+            "title": "How to Develop an Extra Trees Ensemble with Python",
+            "url": "https://machinelearningmastery.com/extra-trees-ensemble-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-22T00:00:00",
+            "description": "Extra Trees is an ensemble machine learning algorithm that combines the predictions from many decision trees. It is related to the widely used random forest algorithm. It can often achieve as-good or better performance than the random forest algorithm, although it uses a simpler algorithm to construct the decision trees used as members of the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-Extra-Trees-Minimum-Samples-Per-Split-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8828,
+            "title": "How to Develop a Random Forest Ensemble in Python",
+            "url": "https://machinelearningmastery.com/random-forest-ensemble-in-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-20T00:00:00",
+            "description": "Random forest is an ensemble machine learning algorithm. It is perhaps the most popular and widely used machine learning algorithm given its good or excellent performance across a wide range of classification and regression predictive modeling problems. It is also easy to use given that it has few key hyperparameters and sensible heuristics for configuring [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Box-Plot-of-Random-Forest-Bootstrap-Sample-Size-vs-Classification-Accuracy.png"
+        },
+        {
+            "id": 8829,
+            "title": "How to Develop Voting Ensembles With Python",
+            "url": "https://machinelearningmastery.com/voting-ensembles-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-17T00:00:00",
+            "description": "Voting is an ensemble machine learning algorithm. For regression, a voting ensemble involves making a prediction that is the average of multiple other regression models. In classification, a hard voting ensemble involves summing the votes for crisp class labels from other models and predicting the class with the most votes. A soft voting ensemble involves [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-Soft-Voting-Ensemble-Compared-to-Standalone-Models-for-Binary-Classification.png"
+        },
+        {
+            "id": 8830,
+            "title": "How to Handle Big-p, Little-n (p >> n) in Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-handle-big-p-little-n-p-n-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2020-04-15T00:00:00",
+            "description": "What if I have more Columns than Rows in my dataset? Machine learning datasets are often structured or tabular data comprised of rows and columns. The columns that are fed as input to a model are called predictors or \u201cp\u201d and the rows are samples \u201cn\u201c. Most machine learning algorithms assume that there are many [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/How-to-Handle-Big-p-Little-n-p-n-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8831,
+            "title": "One-vs-Rest and One-vs-One for Multi-Class Classification",
+            "url": "https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-13T00:00:00",
+            "description": "Not all classification predictive models support multi-class classification. Algorithms such as the Perceptron, Logistic Regression, and Support Vector Machines were designed for binary classification and do not natively support classification tasks with more than two classes. One approach for using binary classification algorithms for multi-classification problems is to split the multi-class classification dataset into multiple [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/How-to-Use-One-vs-Rest-and-One-vs-One-for-Multi-Class-Classification.jpg"
+        },
+        {
+            "id": 8832,
+            "title": "Stacking Ensemble Machine Learning With Python",
+            "url": "https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-10T00:00:00",
+            "description": "Stacking or Stacked Generalization is an ensemble machine learning algorithm. It uses a meta-learning algorithm to learn how to best combine the predictions from two or more base machine learning algorithms. The benefit of stacking is that it can harness the capabilities of a range of well-performing models on a classification or regression task and [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/02/Box-Plot-of-Standalone-And-Stacking-Model-Accuracies-for-Binary-Classification.png"
+        },
+        {
+            "id": 8833,
+            "title": "4 Types of Classification Tasks in Machine Learning",
+            "url": "https://machinelearningmastery.com/types-of-classification-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-04-08T00:00:00",
+            "description": "Machine learning is a field of study and is concerned with algorithms that learn from examples. Classification is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as \u201cspam\u201d or \u201cnot spam.\u201d [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/01/Scatter-Plot-of-Multi-Class-Classification-Dataset.png"
+        },
+        {
+            "id": 8834,
+            "title": "10 Clustering Algorithms With Python",
+            "url": "https://machinelearningmastery.com/clustering-algorithms-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-04-06T00:00:00",
+            "description": "Clustering or cluster analysis is an unsupervised learning problem. It is often used as a data analysis technique for discovering interesting patterns in data, such as groups of customers based on their behavior. There are many clustering algorithms to choose from and no single best clustering algorithm for all cases. Instead, it is a good [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Scatter-Plot-of-Synthetic-Clustering-Dataset-With-Points-Colored-By-Known-Cluster.png"
+        },
+        {
+            "id": 8835,
+            "title": "What Is Argmax in Machine Learning?",
+            "url": "https://machinelearningmastery.com/argmax-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Linear Algebra",
+            "publishedOn": "2020-04-03T00:00:00",
+            "description": "Argmax is a mathematical function that you may encounter in applied machine learning. For example, you may see \u201cargmax\u201d or \u201carg max\u201d used in a research paper used to describe an algorithm. You may also be instructed to use the argmax function in your algorithm implementation. This may be the first time that you encounter [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/What-Is-argmax-in-Machine-Learning.jpg"
+        },
+        {
+            "id": 8836,
+            "title": "Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoost",
+            "url": "https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-04-01T00:00:00",
+            "description": "Gradient boosting is a powerful ensemble machine learning algorithm. It\u2019s popular for structured predictive modeling problems, such as classification and regression on tabular data, and is often the main algorithm or one of the main algorithms used in winning solutions to machine learning competitions, like those on Kaggle. There are many implementations of gradient boosting [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/04/Gradient-Boosting-with-Scikit-Learn-XGBoost-LightGBM-and-CatBoost.jpg"
+        },
+        {
+            "id": 8837,
+            "title": "How to Calculate Feature Importance With Python",
+            "url": "https://machinelearningmastery.com/calculate-feature-importance-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-03-30T00:00:00",
+            "description": "Feature importance refers to techniques that assign a score to input features based on how useful they are at predicting a target variable. There are many types and sources of feature importance scores, although popular examples include statistical correlation scores, coefficients calculated as part of linear models, decision trees, and permutation importance scores. Feature importance [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Bar-Chart-of-XGBClassifier-Feature-Importance-Scores.png"
+        },
+        {
+            "id": 8838,
+            "title": "How to Develop Multi-Output Regression Models with Python",
+            "url": "https://machinelearningmastery.com/multi-output-regression-models-with-python/",
+            "authors": "Jason Brownlee",
+            "tags": "Ensemble Learning",
+            "publishedOn": "2020-03-27T00:00:00",
+            "description": "Multioutput regression are regression problems that involve predicting two or more numerical values given an input example. An example might be to predict a coordinate given an input, e.g. predicting x and y values. Another example would be multi-step time series forecasting that involves predicting multiple future time series of a given variable. Many machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/How-to-Develop-Multioutput-Regression-Models-in-Python.jpg"
+        },
+        {
+            "id": 8839,
+            "title": "4 Distance Measures for Machine Learning",
+            "url": "https://machinelearningmastery.com/distance-measures-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Python Machine Learning",
+            "publishedOn": "2020-03-25T00:00:00",
+            "description": "Distance measures play an important role in machine learning. They provide the foundation for many popular and effective machine learning algorithms like k-nearest neighbors for supervised learning and k-means clustering for unsupervised learning. Different distance measures must be chosen and used depending on the types of the data. As such, it is important to know [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Distance-Measures-for-Machine-Learning.jpg"
+        },
+        {
+            "id": 8840,
+            "title": "PyTorch Tutorial: How to Develop Deep Learning Models with Python",
+            "url": "https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/",
+            "authors": "Jason Brownlee",
+            "tags": "Deep Learning",
+            "publishedOn": "2020-03-23T00:00:00",
+            "description": "Predictive modeling with deep learning is a skill that modern developers need to know. PyTorch is the premier open-source deep learning framework developed and maintained by Facebook. At its core, PyTorch is a mathematical library that allows you to perform efficient computation and automatic differentiation on graph-based models. Achieving this directly is challenging, although thankfully, [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/PyTorch-Tutorial-How-to-Develop-Deep-Learning-Models.jpg"
+        },
+        {
+            "id": 8841,
+            "title": "How to Perform Data Cleaning for Machine Learning with Python",
+            "url": "https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2020-03-20T00:00:00",
+            "description": "Data cleaning is a critically important step in any machine learning project. In tabular data, there are many different statistical analysis and data visualization techniques you can use to explore your data in order to identify data cleaning operations you may want to perform. Before jumping to the sophisticated methods, there are some very basic [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2020/03/Line-Plot-of-Variance-Threshold-X-Versus-Number-of-Selected-Features-Y.png"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 9592,
+            "title": "Inteview: Discover the Methodology and Mindset of a Kaggle Master",
+            "url": "https://machinelearningmastery.com/discover-the-methodology-and-mindset-of-a-kaggle-master-an-interview-with-diogo-ferreira/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-10-03T00:00:00",
+            "description": "What does it take to do well in competitive machine learning? To really dig into this question, you need to dig into the people that do well. In 2010 I participated in a Kaggle competition to predict the outcome of chess games in the future. It was a fascinating problem because it required you to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/White-versus-Black.jpg"
+        },
+        {
+            "id": 9593,
+            "title": "How to Build an Intuition for Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/how-to-build-an-intuition-for-machine-learning-algorithms/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-10-01T00:00:00",
+            "description": "Machine learning algorithms are complex. To get good at applying a given algorithm you need to study it from multiple perspectives: algorithmic, mathematical and empirical. It\u2019s this last point I want to stress. You need to build up an intuition or how an algorithm behaves on real data. You need to work on lots of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/10/Wrapping-your-head-around-data.jpg"
+        },
+        {
+            "id": 9594,
+            "title": "A Data-Driven Approach to Choosing Machine Learning Algorithms",
+            "url": "https://machinelearningmastery.com/a-data-driven-approach-to-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-09-29T00:00:00",
+            "description": "If You Knew Which\u00a0Algorithm or Algorithm Configuration To Use, You Would Not Need To Use Machine Learning There is no best machine learning algorithm or algorithm parameters. I want to cure you of this type of silver bullet mindset. I see these questions a lot, even daily: Which is the best machine learning algorithm? What [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/data-driven-approach-to-machine-learning.jpg"
+        },
+        {
+            "id": 9595,
+            "title": "Discover Feature Engineering, How to Engineer Features and How to Get Good at It",
+            "url": "https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2014-09-26T00:00:00",
+            "description": "Feature engineering is an informal topic, but one that is absolutely known and agreed to be key to success in applied machine learning. In creating this guide I went wide and deep and synthesized all of the material I could. You will discover what feature engineering is, what problem it solves, why it matters, how [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/feature-engineering-is-hard.jpg"
+        },
+        {
+            "id": 9596,
+            "title": "Compare Models And Select The Best Using The Caret R Package",
+            "url": "https://machinelearningmastery.com/compare-models-and-select-the-best-using-the-caret-r-package/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-24T00:00:00",
+            "description": "The Caret R package allows you to easily construct many different model types and tune their parameters. After creating and tuning many model types, you may want know and select the best model so that you can use it to make predictions, perhaps in an operational environment. In this post you discover how to compare [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/boxplot_compare_models.png"
+        },
+        {
+            "id": 9597,
+            "title": "Feature Selection with the Caret R Package",
+            "url": "https://machinelearningmastery.com/feature-selection-with-the-caret-r-package/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-22T00:00:00",
+            "description": "Selecting the right features in your data can mean the difference between mediocre performance with long training times and great performance with short training times. The caret R package provides tools to automatically report on the relevance and importance of attributes in your data and even select the most important features for you. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/variable_importance.png"
+        },
+        {
+            "id": 9598,
+            "title": "Tuning Machine Learning Models Using the Caret R Package",
+            "url": "https://machinelearningmastery.com/tuning-machine-learning-models-using-the-caret-r-package/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-19T00:00:00",
+            "description": "Machine learning algorithms are parameterized so that they can be best adapted for a given problem. A difficulty is that configuring an algorithm for a given problem can be a project in and of itself. Like selecting \u2018the best\u2019 algorithm for a problem you cannot know before hand which algorithm parameters will be best for [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/size-vs-k.png"
+        },
+        {
+            "id": 9599,
+            "title": "Data Visualization with the Caret R package",
+            "url": "https://machinelearningmastery.com/data-visualization-with-the-caret-r-package/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-17T00:00:00",
+            "description": "The caret package in R is designed to streamline the process of applied machine learning. A key part of solving data problems in understanding the data that you have available. You can do this very quickly by summarizing the attributes with data visualizations. There are a lot of packages and functions for summarizing data in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/scatterplot_matrix.png"
+        },
+        {
+            "id": 9600,
+            "title": "Caret R Package for Applied Predictive Modeling",
+            "url": "https://machinelearningmastery.com/caret-r-package-for-applied-predictive-modeling/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-15T00:00:00",
+            "description": "The R platform for statistical computing is perhaps the most popular and powerful platform for applied machine learning. The caret package in R has been called \u201cR\u2019s competitive advantage\u201c. It makes the process of training, tuning and evaluating machine learning models in R consistent, easy and even fun. In this post you will discover the [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/Caret-package-in-R.png"
+        },
+        {
+            "id": 9601,
+            "title": "Benefits of Implementing Machine Learning Algorithms From Scratch",
+            "url": "https://machinelearningmastery.com/benefits-of-implementing-machine-learning-algorithms-from-scratch/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Algorithms",
+            "publishedOn": "2014-09-10T00:00:00",
+            "description": "Machine Learning can be difficult to understand when getting started. There are a lot of algorithms and processes that are prescribed and used, many with difficult to penetrate explanations for how and why the work. It can feel overwhelming. An approach that you can use to get handle on machine learning algorithms and practices is [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/Follow-Tutorials-to-Implement-Machine-Learning-Algorithms.jpg"
+        },
+        {
+            "id": 9602,
+            "title": "Review of Applied Predictive Modeling",
+            "url": "https://machinelearningmastery.com/review-of-applied-predictive-modeling/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-09-08T00:00:00",
+            "description": "The book Applied Predictive Modeling teaches practical machine learning theory with code examples in R. It is an excellent book and highly recommended to machine learning practitioners and users of R for machine learning. In this post you will discover the benefits of this book and how it can help you become a better machine [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/06/applied-predictive-modeling.png"
+        },
+        {
+            "id": 9603,
+            "title": "How To Get Started With Machine Learning Algorithms in R",
+            "url": "https://machinelearningmastery.com/how-to-get-started-with-machine-learning-algorithms-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-05T00:00:00",
+            "description": "R is the most popular platform for applied machine learning. When you want to get serious with applied machine learning you will find your way into R. It is very powerful because so many machine learning algorithms are provided. A problem is that the algorithms are all provided by third parties, which makes their usage [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2016/03/How-To-Get-Started-With-Machine-Learning-in-R.jpg"
+        },
+        {
+            "id": 9604,
+            "title": "How To Estimate Model Accuracy in R Using The Caret Package",
+            "url": "https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-09-03T00:00:00",
+            "description": "When you are building a predictive model, you need a way to evaluate the capability of the model on unseen data. This is typically done by estimating accuracy using data that was not used to train the model such as a test set, or using cross validation. The caret package in R provides a number [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/Caret-package-in-R.png"
+        },
+        {
+            "id": 9605,
+            "title": "Machine Learning Newsletters",
+            "url": "https://machinelearningmastery.com/machine-learning-newsletters/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Resources",
+            "publishedOn": "2014-09-01T00:00:00",
+            "description": "In this post you will learn how subscribing to machine learning newsletters can save you time and keep you up-to-date.",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/09/Data-Science-Weekly.jpg"
+        },
+        {
+            "id": 9606,
+            "title": "Convex Optimization in R",
+            "url": "https://machinelearningmastery.com/convex-optimization-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-08-29T00:00:00",
+            "description": "Optimization is a big part of machine learning. It is the core of most popular methods, from least squares regression to artificial neural networks. In this post you will discover recipes for 5 optimization algorithms in R. These methods might be useful in the core of your own implementation of a machine learning algorithm. You [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/BFGS-Results.png"
+        },
+        {
+            "id": 9607,
+            "title": "Non-Linear Classification in R with Decision Trees",
+            "url": "https://machinelearningmastery.com/non-linear-classification-in-r-with-decision-trees/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-08-27T00:00:00",
+            "description": "In this post you will discover 7 recipes for non-linear classification with decision trees in R. All recipes in this post use the iris flowers dataset provided with R in the datasets package. The dataset describes the measurements if iris flowers and requires classification of each observation to one of three flower species. Let\u2019s get [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/classification-with-decision-trees.jpg"
+        },
+        {
+            "id": 9608,
+            "title": "What is R",
+            "url": "https://machinelearningmastery.com/what-is-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-08-25T00:00:00",
+            "description": "R is perhaps one of the most powerful and most popular platforms for statistical programming and applied machine learning. When you get serious about machine learning, you will find your way into R. In this post, you will discover what R is, where it came from and some of its most important features. Let\u2019s get [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/R-Logo.jpg"
+        },
+        {
+            "id": 9609,
+            "title": "5 Benefits of Competitive Machine Learning",
+            "url": "https://machinelearningmastery.com/5-benefits-of-competitive-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-08-22T00:00:00",
+            "description": "Jeremy Howard, formally of Kaggle gave a presentation at the University of San Francisco in mid 2013. In that presentation he touched on some of the broader benefits of machine learning competitions like those held on Kaggle. In this post you will discover 5 points I extracted from this talk that will motivate you to [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/Competitive-Machine-Learning-is-a-Meritocracy.jpg"
+        },
+        {
+            "id": 9610,
+            "title": "Master Kaggle By Competing Consistently",
+            "url": "https://machinelearningmastery.com/master-kaggle-by-competing-consistently/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-08-20T00:00:00",
+            "description": "How do you get good at Kaggle competitions? It is a common question I get asked. The best advice for getting started and getting good is to consistently participate in competitions. You cannot help but get better at machine learning. A recent post by Triskelion titled \u201cReflecting back on one year of Kaggle contests\u201d bares [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/compete-consistently.jpg"
+        },
+        {
+            "id": 9611,
+            "title": "Going Beyond Predictions",
+            "url": "https://machinelearningmastery.com/going-beyond-predictions/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-08-18T00:00:00",
+            "description": "The predictions you make with a predictive model do not matter, it is the use of those predictions that matters. Jeremy Howard was the President and Chief Scientist of Kaggle, the competitive machine learning platform. In 2012 he presented at the O\u2019reilly Strata conference on what he called the Drivetrain Approach for building \u201cdata products\u201d [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/drivetrain-approach.jpg"
+        },
+        {
+            "id": 9612,
+            "title": "How to Kick Ass in Competitive Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-kick-ass-in-competitive-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-08-15T00:00:00",
+            "description": "David Kofoed Wind posted an article to the Kaggle blog No Free Hunch titled \u201cLearning from the best\u201c. In the post, David summarized 6 key areas related to participating and doing well in competitive machine learning with quotes from top performing kagglers. In this post you will discover the key heuristics for doing well in [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/learning-from-the-best.jpg"
+        },
+        {
+            "id": 9613,
+            "title": "How To Get Better At Machine Learning",
+            "url": "https://machinelearningmastery.com/how-to-get-better-at-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Start Machine Learning",
+            "publishedOn": "2014-08-13T00:00:00",
+            "description": "Colorado Reed from Metacademy wrote a great post recently titled \u201cLevel-Up Your Machine Learning\u201d to answer the question he often receives of: What should I do if I want to get \u2018better\u2019 at machine learning, but I don\u2019t know what I want to learn? In this post you will discover a summary of Colorado recommendations [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/level-up-machine-learning.jpg"
+        },
+        {
+            "id": 9614,
+            "title": "Non-Linear Classification in R",
+            "url": "https://machinelearningmastery.com/non-linear-classification-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-08-11T00:00:00",
+            "description": "In this post you will discover 8 recipes for non-linear classification in R. Each recipe is ready for you to copy and paste and modify for your own problem. All recipes in this post use the\u00a0iris flowers dataset\u00a0provided with R in the\u00a0datasets package. The dataset describes the measurements if iris flowers and requires classification of [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/03/irises.jpg"
+        },
+        {
+            "id": 9615,
+            "title": "Linear Classification in R",
+            "url": "https://machinelearningmastery.com/linear-classification-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-08-08T00:00:00",
+            "description": "In this post you will discover recipes for 3 linear classification algorithms in R. All recipes in this post use the iris flowers dataset provided with R in the datasets package. The dataset describes the measurements if iris flowers and requires classification of each observation to one of three flower species. Let\u2019s get started. Logistic [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/binary-classification.jpg"
+        },
+        {
+            "id": 9616,
+            "title": "Clever Application Of A Predictive Model",
+            "url": "https://machinelearningmastery.com/clever-application-of-a-predictive-model/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-08-06T00:00:00",
+            "description": "What if you could use a predictive model to find new combinations of attributes that do not exist in the data but could be valuable. In Chapter 10 of Applied Predictive Modeling, Kuhn and Johnson provide a case study that does just this. It\u2019s a fascinating and creative example of how to use a predictive [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/wet-concrete.jpg"
+        },
+        {
+            "id": 9617,
+            "title": "Improve Model Accuracy with Data Pre-Processing",
+            "url": "https://machinelearningmastery.com/improve-model-accuracy-with-data-pre-processing/",
+            "authors": "Jason Brownlee",
+            "tags": "Data Preparation",
+            "publishedOn": "2014-08-04T00:00:00",
+            "description": "Data preparation can make or break the predictive ability of your model. In Chapter 3 of their book Applied Predictive Modeling, Kuhn and Johnson introduce the process of data preparation. They refer to it as the addition, deletion or transformation of training set data. In this post you will discover the data pre-process steps that [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/08/i-love-spreadsheets.jpg"
+        },
+        {
+            "id": 9618,
+            "title": "Model Prediction Accuracy Versus Interpretation in Machine Learning",
+            "url": "https://machinelearningmastery.com/model-prediction-versus-interpretation-in-machine-learning/",
+            "authors": "Jason Brownlee",
+            "tags": "Machine Learning Process",
+            "publishedOn": "2014-08-01T00:00:00",
+            "description": "In their book Applied Predictive Modeling, Kuhn and Johnson comment early on the trade-off of model prediction accuracy versus model interpretation. For a given problem, it is critical to have a clear idea of the which is a priority, accuracy or explainability so that this trade-off can be made explicitly rather than implicitly. In this [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/model-accuracy.jpg"
+        },
+        {
+            "id": 9619,
+            "title": "Non-Linear Regression in R with Decision Trees",
+            "url": "https://machinelearningmastery.com/non-linear-regression-in-r-with-decision-trees/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-07-30T00:00:00",
+            "description": "In this post, you will discover 8 recipes for non-linear regression with decision trees in R. Each example in this post uses the\u00a0longley\u00a0dataset provided in the\u00a0datasets package\u00a0that comes with R. The longley dataset describes 7 economic variables observed from 1947 to 1962 used to predict the number of people employed yearly. Let\u2019s get started. Classification [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/decision-tree.jpg"
+        },
+        {
+            "id": 9620,
+            "title": "Non-Linear Regression in R",
+            "url": "https://machinelearningmastery.com/non-linear-regression-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-07-28T00:00:00",
+            "description": "In this post you will discover 4 recipes for non-linear regression in R. There are many advanced methods you can use for non-linear regression, and these recipes are but a sample of the methods you could use. Let\u2019s get started. Each example in this post uses the\u00a0longley\u00a0dataset provided in the\u00a0datasets package\u00a0that comes with R. The [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/non-linear-regression.jpg"
+        },
+        {
+            "id": 9621,
+            "title": "Penalized Regression in R",
+            "url": "https://machinelearningmastery.com/penalized-regression-in-r/",
+            "authors": "Jason Brownlee",
+            "tags": "R Machine Learning",
+            "publishedOn": "2014-07-25T00:00:00",
+            "description": "In this post you will discover 3 recipes for penalized\u00a0regression for the R platform. You can copy and paste the recipes in this post to make a jump-start on your own problem or to learn and practice with linear regression in R. Let\u2019s get started. Each example in this post uses the\u00a0longley\u00a0dataset provided in the\u00a0datasets [\u2026]",
+            "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2014/07/Penalized-Regression.jpg"
+        }
+    ]
+}

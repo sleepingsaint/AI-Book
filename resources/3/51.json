@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3474,
+            "title": "Ordinary Differential Equations Made Easy with Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/ordinary-differential-equations-made-easy-with-deep-learning/",
+            "authors": "Nihal Singh",
+            "tags": "Advanced, Maths",
+            "publishedOn": "2021-09-10T00:00:00",
+            "description": "Here, we will be dealing with Ordinary Differential Equations. be helpful to those beginning their journey in mathematical modelling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/21665MathematicsSubjectImage-e1586461204136.jpg"
+        },
+        {
+            "id": 3475,
+            "title": "How to Create Stunning and Interactive Dashboards in Excel?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Beginner, Business Analytics, Data Visualization, Excel, Technique",
+            "publishedOn": "2021-09-10T00:00:00",
+            "description": "Here, we will show you how to create interactive and stunning dashboards in Excel. It is a powerful tool that doesn't require coding",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/82126Excel-Dashboard.png"
+        },
+        {
+            "id": 3476,
+            "title": "Simple Image Classification Using FastAI.jl",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/simple-image-classification-using-fastai-jl/",
+            "authors": "Abid Ali Awan",
+            "tags": "Advanced, Classification, Computer Vision, Deep Learning, Image, Julia, Libraries, Project, Python",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "In this project, we are going to train the Resnet-18 model for image classification using FastAI.jl from the ImageNet dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/80721Fastaijl.jpg"
+        },
+        {
+            "id": 3477,
+            "title": "An Explanatory Guide to BERT Tokenizer",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/an-explanatory-guide-to-bert-tokenizer/",
+            "authors": "Pritesh Prakash",
+            "tags": "Advanced, Data Science, Deep Learning, Libraries, NLP, Python, Text",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "In this article we will understand the Bert tokenizer. For transformers the input is an important aspect and tokenizer libraries are crucial.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/720010_vN2RWJeMxES45QC5.jpg"
+        },
+        {
+            "id": 3478,
+            "title": "Everything you need to know about Hypothesis Testing in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/hypothesis-testing-in-machine-learning-everything-you-need-to-know/",
+            "authors": "Akansha Khandelwal",
+            "tags": "Beginner, Machine Learning, Maths, Python, Statistics, Structured Data",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "Hypothesis testing is done to confirm our observation about the population using sample data, within the desired error level.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/Inferential-Statistics-for-beginners.jpg"
+        },
+        {
+            "id": 3479,
+            "title": "Guide to Web Traffic Forecasting Using Deep Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/web-traffic-forecasting-using-deep-learning/",
+            "authors": "Kajal Kumari",
+            "tags": "Deep Learning, Intermediate, Project, Python, Structured Data, Time Series Forecasting",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "In this article we will pick the use case of sequence modelling. We will perform web traffic forecasting with the help of deep learning models",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/Web-Application-for-Prediction.jpg"
+        },
+        {
+            "id": 3480,
+            "title": "A Complete guide to Understand Classification in Machine Learning",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-complete-guide-to-understand-classification-in-machine-learning/",
+            "authors": "Arnab Mondal",
+            "tags": "Beginner, Classification, Machine Learning, Python, Supervised",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "Classification is a task of ML which assigns a label value to a specific class .Here, we will see types of classification in machine learning.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/46002andrew-coop-zLJgfG2tSwA-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3481,
+            "title": "Pycaret vs Catboost on Soccer Fever Classification Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/pycaret-vs-catboost-on-soccer-fever-classification-dataset/",
+            "authors": "Pavan Kalyan",
+            "tags": "Automl, Beginner, Classification, Libraries, Machine Learning, Project, Python, Technique",
+            "publishedOn": "2021-09-09T00:00:00",
+            "description": "The main goal of this post is to compare the performance of the Pycaret vs Catboost library by solving a binary classification problem.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/61135will-francis-Rm3nWQiDTzg-unsplash-scaled.jpg"
+        },
+        {
+            "id": 3482,
+            "title": "Convolutional Neural Network \u2013 PyTorch implementation on CIFAR-10 Dataset",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/convolutional-neural-network-pytorch-implementation-on-cifar10-dataset/",
+            "authors": "Siddharth M",
+            "tags": "Computer Vision, Deep Learning, Image, Intermediate, Programming, Python, PyTorch",
+            "publishedOn": "2021-09-08T00:00:00",
+            "description": "In this article we will develop a Convolutional neural networks model in PyTorch for the classification of Cifar10 dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/89366photo-1563209259-2819dbb22d93.jpg"
+        },
+        {
+            "id": 3483,
+            "title": "A Beginner\u2019s Guide to Image Processing With OpenCV and Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-beginners-guide-to-image-processing-with-opencv-and-python/",
+            "authors": "Jissdeodates",
+            "tags": "Beginner, Computer Vision, Image, Libraries, Python",
+            "publishedOn": "2021-09-08T00:00:00",
+            "description": "Image processing is the basics of computer vision. In this blog, we will learn about Image processing using OpenCV and python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84497https___specials-images.forbesimg.com_imageserve_5ee30129d8bc730007cc701c_0x0.jpg"
+        },
+        {
+            "id": 3484,
+            "title": "Using The Right File Format For Storing Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/using-the-right-file-format-for-storing-data/",
+            "authors": "Ayush Gupta",
+            "tags": "Beginner, Programming, Python",
+            "publishedOn": "2021-09-08T00:00:00",
+            "description": "Here, we will learn about different file formats available for storing data and how to choose a format, best suitable for your application,",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/92516data-extracting-feature-img.png"
+        },
+        {
+            "id": 3485,
+            "title": "Why Geometric Intuition of Logistic Regression Matters More Than Other Intuitions?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/why-geometric-intuition-of-logistic-regression-matters-more-than-other-intuitions/",
+            "authors": "Mayur Badole",
+            "tags": "Beginner, Machine Learning, Maths, Regression",
+            "publishedOn": "2021-09-08T00:00:00",
+            "description": "In this article, we will try to understand Why Geometric Intuition of Logistic Regression Matters More Than Other Intuitions.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/assumption-of-linear-regression.png"
+        },
+        {
+            "id": 3486,
+            "title": "Torch Dataset and Dataloader \u2013 Early Loading of Data",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/torch-dataset-and-dataloader-early-loading-of-data/",
+            "authors": "Pritesh Prakash",
+            "tags": "Deep Learning, Intermediate, Libraries, Programming, Python, Technique",
+            "publishedOn": "2021-09-07T00:00:00",
+            "description": "The deep learning algorithms required the data in a specific order or shape. Here, we will learn about the torch dataset and dataloader class.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/53282DeepLearning.jpg"
+        },
+        {
+            "id": 3487,
+            "title": "Build Your First Discord Bot Using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/build-your-first-discord-bot-using-python/",
+            "authors": "Pinak Datta",
+            "tags": "Beginner, chatbot, NLP, Programming, Python",
+            "publishedOn": "2021-09-07T00:00:00",
+            "description": "Discord is basically a one-stop voice and text communication platform. in this tutorial we will see how to create a discord bot using python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/99224resize-16302979892143195713alexandershatovsIFCJHrUWPMunsplash.jpg"
+        },
+        {
+            "id": 3488,
+            "title": "An Introductory Guide to Big Data Analytics",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/an-introductory-guide-to-big-data-analytics/",
+            "authors": "Gourav Singh",
+            "tags": "Beginner, Big data",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "Big Data Analytics is the process of finding important insights in data, patterns, market trends, relationships, and user needs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/03/24061532/big-data.jpg"
+        },
+        {
+            "id": 3489,
+            "title": "Introduction to Artificial Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/introduction-to-artificial-neural-networks/",
+            "authors": "Gourav Singh",
+            "tags": "Beginner, Classification, Deep Learning, Python, Structured Data, Supervised",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "The Artificial Neural Network (ANN) is a deep learning method that arose from the concept of the human brain Biological Neural Networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/11127ANN.jpg"
+        },
+        {
+            "id": 3490,
+            "title": "Q-Q plot \u2013 Ensure Your ML Model is Based on the Right Distribution",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/q-q-plot-ensure-your-ml-model-is-based-on-the-right-distributions/",
+            "authors": "Akansha Khandelwal",
+            "tags": "Beginner, Data Exploration, Probability, Statistics, Structured Data",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "Q-Q plot ,AKA Quantile-Quantile plots, plots the quantiles of a sample distribution against quantiles of a theoretical distribution.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg"
+        },
+        {
+            "id": 3491,
+            "title": "A Deep Dive Into Transformers Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/a-deep-dive-into-transformers-library/",
+            "authors": "Narasimha Jwalapuram",
+            "tags": "Advanced, Deep Learning, Libraries, NLP, Python, Unstructured Data",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "Here, we will deep dive into the Transformers library and explore how to use available pre-trained models and tokenizers from ModelHub.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/pytorch-transformers.jpg"
+        },
+        {
+            "id": 3492,
+            "title": "Creating a Movie Reviews Classifier Using TF-IDF in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Classification, NLP, Project, Python, Text",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "TF-IDF is used to find the important words and phrases in a larger text. Here, we will build a movie reviews classifier using TF-IDF.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/48554pexels-photo-373543.jpeg"
+        },
+        {
+            "id": 3493,
+            "title": "Understanding Image Contrast With OpenCV in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/understanding-image-contrast-with-opencv-in-python/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Computer Vision, Image, Python",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "This article will help us to understand the technique of enhancing image contrast using opencv and python. Let's explore the concept.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/84497https___specials-images.forbesimg.com_imageserve_5ee30129d8bc730007cc701c_0x0.jpg"
+        },
+        {
+            "id": 3494,
+            "title": "Advanced Image Contrast \u2013 The Pixel Intensity Histogram",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/advanced-image-contrast-the-pixel-intensity-histogram/",
+            "authors": "Shiv Maharaj",
+            "tags": "Beginner, Computer Vision, Image, Libraries, Python, Technique",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "In this article we will learn about Advanced Image Contrast using the pixel intensity histogram using opencv an open source CV library.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/23610touchscreen-canstockphoto3600921-e1605990178781-1200x899-1.jpg"
+        },
+        {
+            "id": 3495,
+            "title": "Getting Started with Graph Neural Networks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/getting-started-with-graph-neural-networks/",
+            "authors": "Srijita Tiwari",
+            "tags": "Advanced, Artificial Intelligence, Deep Learning, Graphs & Networks, Programming",
+            "publishedOn": "2021-09-06T00:00:00",
+            "description": "Graph neural networks (GNNs) are deep learning-based methods that operate on graph domains. Here, we will see an introduction to GNNs.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/man-nueral-network-red-.jpg"
+        },
+        {
+            "id": 3496,
+            "title": "PCA And It\u2019s Underlying Mathematical Principles",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/pca-and-its-underlying-mathematical-principles/",
+            "authors": "K Sumanth",
+            "tags": "Beginner, Data Exploration, Machine Learning, Maths, Python",
+            "publishedOn": "2021-09-05T00:00:00",
+            "description": "In this article we will try to understand what PCA is all about the mathematics behind and why do we need to perform PCA on a given dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/66001when-to-use-data-science-in-seo-5def8e5b1c22c-760x400-1.png"
+        },
+        {
+            "id": 3497,
+            "title": "Posture Detection using PoseNet with Real-time Deep Learning project",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/posture-detection-using-posenet-with-real-time-deep-learning-project/",
+            "authors": "Raghav Agrawal",
+            "tags": "Advanced, Artificial Intelligence, Computer Vision, Deep Learning, Libraries, Project, Python, Technique",
+            "publishedOn": "2021-09-05T00:00:00",
+            "description": "Posenet is a real-time pose detection technique with which you can detect human poses in Image or Video. let's make a real-time project.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/15382Posture-detection-using-Posenet-Feature_img.png"
+        },
+        {
+            "id": 3498,
+            "title": "10 Automated Machine Learning for Supervised Learning (Part 2)",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/10-automated-machine-learning-for-supervised-learning-part-2/",
+            "authors": "Rendyk",
+            "tags": "Automl, Beginner, Data Science, Libraries, Machine Learning, Python",
+            "publishedOn": "2021-09-05T00:00:00",
+            "description": "If you are tired of finding best Ml model for your problem, This post will discuss 10 Automated Machine Learning packages in Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/99687wp3205278-machine-learning-wallpapers-1.jpg"
+        },
+        {
+            "id": 3499,
+            "title": "Some Amazing Applications of OpenCV Library",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/some-amazing-applications-of-opencv-library/",
+            "authors": "Ayush Gupta",
+            "tags": "Beginner, Computer Vision, Image, Libraries, Python",
+            "publishedOn": "2021-09-04T00:00:00",
+            "description": "It is an open-source library that can be used for computer vision related tasks. Here we will see some amazing applications of opencv.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/computer_vision_learning_path.jpg"
+        },
+        {
+            "id": 3500,
+            "title": "Deep learning model to predict mRNA Degradation",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/",
+            "authors": "Abid Ali Awan",
+            "tags": "Advanced, Data Science, Deep Learning, Project, Python, Regression",
+            "publishedOn": "2021-09-04T00:00:00",
+            "description": "Here we will be Designing a deep learning model that will predict mRNA degradation rates for each base of an RNA molecule with Eterna dataset.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/97520mRNA-illustration2_6502500-900x600-1.jpg"
+        },
+        {
+            "id": 3501,
+            "title": "Performing EDA of Netflix Dataset with Plotly",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/performing-eda-of-netflix-dataset-with-plotly/",
+            "authors": "Kashish Rastogi",
+            "tags": "Beginner, Data Exploration, Data Visualization, Libraries, Programming, Python, Structured Data",
+            "publishedOn": "2021-09-04T00:00:00",
+            "description": "In this article we will be performing EDA on Netflix dataset using plotly. Plotly is an open source widely used visualization library .",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/08/50572DATAVISUAL.jpg"
+        },
+        {
+            "id": 3502,
+            "title": "Color Perception \u2013 How To Produce Dark Blue Without a Hint of Purple",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/color-perception-how-to-produce-dark-blue-without-a-hint-of-purple/",
+            "authors": "Priya Kalyanakrishnan",
+            "tags": "Beginner, Image, Programming, Python, Technique",
+            "publishedOn": "2021-09-04T00:00:00",
+            "description": "In this article, we discuss color perception. Also, we will see how to create dark blue color without the hint of purple.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/06105534/back-to-school-paper-colored-paper-stationery-159519-1.jpeg"
+        },
+        {
+            "id": 3503,
+            "title": "Optimize your optimizations using Optuna",
+            "url": "https://www.analyticsvidhya.com/blog/2021/09/optimize-your-optimizations-using-optuna/",
+            "authors": "Sion Chakrabarti",
+            "tags": "Advanced, Deep Learning, Libraries, Python",
+            "publishedOn": "2021-09-03T00:00:00",
+            "description": "Optuna is a state-of-the-art automatic hyperparameter tuning framework that is completely written in Python. It is widely used.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/09/76460o.jpg"
+        }
+    ]
+}

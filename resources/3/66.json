@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 3924,
+            "title": "Memory Networks for Q&A(Question and Answer) Applications",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/memory-networks-for-qaquestion-and-answer-applications/",
+            "authors": "Vedha Nayagam",
+            "tags": "Advanced, conversational AI, NLP",
+            "publishedOn": "2021-06-23T00:00:00",
+            "description": "This article shows the power of Memory Networks for Question and Answer applications in the context of natural language-based reasoning",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image.png"
+        },
+        {
+            "id": 3925,
+            "title": "Spotify Recommendation System using Pyspark and Kafka streaming",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/spotify-recommendation-system-using-pyspark-and-kafka-streaming/",
+            "authors": "Siddharth M",
+            "tags": "Advanced, Data Engineering, Python",
+            "publishedOn": "2021-06-23T00:00:00",
+            "description": "Spotify has become one of the popular audio app globally. Let's create a Spotify Recommendation System using Pyspark and Kafka streaming",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/27873photo-1580943942792-63264a446b45.jpg"
+        },
+        {
+            "id": 3926,
+            "title": "Text detection from images using EasyOCR: Hands-on guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/text-detection-from-images-using-easyocr-hands-on-guide/",
+            "authors": "Aman Preet Gulati",
+            "tags": "Advanced, Computer Vision, Image, Image Analysis, NLP, Project, Python, Unstructured Data",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "EasyOCR is actually a python package that holds PyTorch as a backend handler. Let's learn about extracting text from images using EasyOCR",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/36865text_recognition2x.png"
+        },
+        {
+            "id": 3927,
+            "title": "Why and how to use BERT for NLP Text Classification?",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/why-and-how-to-use-bert-for-nlp-text-classification/",
+            "authors": "Shri Varsheni R",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "BERT is a multi-layered encoder. In this blog learn about BERT transformers and its applications and text classification using BERT.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/BERT_ARTICLE.jpg"
+        },
+        {
+            "id": 3928,
+            "title": "Part 8: Step by Step Guide to Master NLP \u2013 Useful Natural Language Processing Tasks",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-8-step-by-step-guide-to-master-nlp-useful-natural-language-processing-tasks/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Science, NLP, Python, Text, Word Embeddings",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "In this part of this blog series, we will discuss some of the very useful Natural Language Processing Tasks such as Text classification",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39164nlp.jpg"
+        },
+        {
+            "id": 3929,
+            "title": "Part 7: Step by Step Guide to Master NLP \u2013 Word Embedding in Detail",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-7-step-by-step-guide-to-master-nlp-word-embedding/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Data Science, Intermediate, NLP, Python, Text, Unstructured Data",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "In this article, firstly we will discuss the co-occurrence matrix, we will be discussing new concepts related to the Word embedding",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/24614nlp.jpg"
+        },
+        {
+            "id": 3930,
+            "title": "Natural Language Processing \u2013 Sentiment Analysis using LSTM",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/natural-language-processing-sentiment-analysis-using-lstm/",
+            "authors": "Santhosh Kumar T",
+            "tags": "Advanced, Data Science, NLP, Project, Python, Text",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "This article aims to explain the concepts of NLP and how to build a model using LSTM a deep learning algorithm for performing sentiment analysis",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/92270power_of_lstms_2.jpg"
+        },
+        {
+            "id": 3931,
+            "title": "Learn to Develop Simple Chatbots using Python and Deep Learning!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/",
+            "authors": "Amruta Kadlaskar",
+            "tags": "Advanced, NLP, Project, Python, Text, Unstructured Data, Use Cases",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "In this article, we are going to learn to Develop a Simple Chatbot using Python and Deep Learning so as to automate customer redresal",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/7573412-Best-Artificial-Intelligence-Chatbots-For-Android-1.png"
+        },
+        {
+            "id": 3932,
+            "title": "A Gentle Introduction To MuRIL : Multilingual Representations for Indian Languages",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-gentle-introduction-to-muril-multilingual-representations-for-indian-languages/",
+            "authors": "Lakshmi Panneerselvam",
+            "tags": "Advanced, Data Science, NLP, Python, Text",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "MuRIL, short for Multilingual Representations for Indian Languages, a open-source ML tool specifically designed for Indian languages.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/66618download.jpg"
+        },
+        {
+            "id": 3933,
+            "title": "MLOps \u2013 Operationalizing Machine Learning Models in Production",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/mlops-operationalizing-machine-learning-models-in-production/",
+            "authors": "PATTABHIRAMAN SRINIVASAN",
+            "tags": "Advanced, Machine Learning, MLops, Programming, Project, Python",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "In this blog, we will be briefly explaining the concepts of MLOps and how to productionize ML models in laymen and easy-to-understand ways.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/45209MLOPs-scaled.jpg"
+        },
+        {
+            "id": 3934,
+            "title": "Classification Problem: Relation between Sensitivity, Specificity and Accuracy",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/classification-problem-relation-between-sensitivity-specificity-and-accuracy/",
+            "authors": "Mohit Khanna",
+            "tags": "Beginner, Classification, Machine Learning, Maths",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "This article explains the relation between sensitivity, specificity, and accuracy and how together they help to determine optimum boundary",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Web-Page-Classification-scaled.jpg"
+        },
+        {
+            "id": 3935,
+            "title": "NLP: Answer Retrieval from Document using Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/nlp-answer-retrieval-from-document-using-python/",
+            "authors": "Sajal Rastogi",
+            "tags": "Beginner, Data Science, NLP, Python, Text",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "This article focuses on answer retrieval from a document by using similarity and difference metrics. This task falls under NLP.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/04/featured_image.png"
+        },
+        {
+            "id": 3936,
+            "title": "Tuning Hyperparameters of An Artificial Neural Network Leveraging Keras Tuner",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/tuning-hyperparameters-of-an-artificial-neural-network-leveraging-keras-tuner/",
+            "authors": "Srivignesh R",
+            "tags": "Advanced, Deep Learning, Libraries, Project, Python, Structured Data",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "Keras tuner is an open-source python library. Let us learn about hyperparameter tuning with Keras Tuner for artificial Neural Networks.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/42494kt.png"
+        },
+        {
+            "id": 3937,
+            "title": "Building a Convolutional Neural Network Using TensorFlow \u2013 Keras",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/building-a-convolutional-neural-network-using-tensorflow-keras/",
+            "authors": "Jitendra Sharma",
+            "tags": "Beginner, Data Science, Deep Learning, Python, Unstructured Data",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "In this article, we explan the working of CNN and how to Build a Convolutional Neural Network using Keras and TensorFlow",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Face-Detection-Using-Pre-trained-MTCNN.jpg"
+        },
+        {
+            "id": 3938,
+            "title": "Running Pandas on GPU and Taking It To The Moon",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/running-pandas-on-gpu-taking-it-to-the-moon/",
+            "authors": "Kaustubh Gupta",
+            "tags": "Data Science, Intermediate, Libraries, Machine Learning, Pandas, Profile Building, Python",
+            "publishedOn": "2021-06-22T00:00:00",
+            "description": "Nvidia Rapids is an open-source library for Running pandas on GPUs. Let's will explore Nvidia Rapids and see how the GPU is better",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/14544Pandas-on-GPU.png"
+        },
+        {
+            "id": 3939,
+            "title": "Evaluate Your Model \u2013 Metrics for Image Classification and Detection",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/evaluate-your-model-metrics-for-image-classification-and-detection/",
+            "authors": "Shri Varsheni R",
+            "tags": "Advanced, Classification, Computer Vision, Maths, Object Detection",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "In this article, we will go through Image Classification and object detection Metrics in depth so that model evaluation becomes easy for you",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/03/evaluate.jpg"
+        },
+        {
+            "id": 3940,
+            "title": "Build Web App instantly for Machine Learning using Streamlit",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/build-web-app-instantly-for-machine-learning-using-streamlit/",
+            "authors": "Srivignesh R",
+            "tags": "Advanced, Data Engineering, Data Visualization, Project, Python, Streamlit",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Streamlit is an open-source python framework for building web app. Learn how to build streamlit web app for ML and Data Science",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg"
+        },
+        {
+            "id": 3941,
+            "title": "Part 6: Step by Step Guide to Master NLP \u2013 Word2Vec",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-6-step-by-step-guide-to-master-nlp-word2vec/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Cleaning, NLP, Python, Text, Unstructured Data, Word Embeddings",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "This article is part of an ongoing blog series on Natural Language Processing (NLP).we will discuss the recent word-era embedding techniques.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/52490nlp-5.jpg"
+        },
+        {
+            "id": 3942,
+            "title": "Detailed Guide to Ensemble Deep Learning in Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/ensemble-deep-learning-an-ensemble-of-deep-learning-models/",
+            "authors": "Simi Sanya",
+            "tags": "Advanced, Computer Vision, Deep Learning, Programming, Python",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Ensembling is the process of combining multiple learning algorithms to obtain their collective performance. Let's understand it here",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/21231Deep-Learning-vs-Machine-Learning.jpg"
+        },
+        {
+            "id": 3943,
+            "title": "Image Processing using CNN: A beginners guide",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/image-processing-using-cnn-a-beginners-guide/",
+            "authors": "Mohit Tripathi",
+            "tags": "Advanced, Algorithm, Deep Learning, Image, Image Analysis, Project, Python, Structured Data",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "CNN is a powerful algorithm for image processing. This article is a beginners guide to image processing using Convolutional Neural Networks",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/793797-Best-Image-Recognition-APIs-e1587080882739.jpg"
+        },
+        {
+            "id": 3944,
+            "title": "Defining, Analysing, and Implementing Imputation Techniques",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/defining-analysing-and-implementing-imputation-techniques/",
+            "authors": "Shashank Singhal",
+            "tags": "Beginner, Data Cleaning, Machine Learning, Python, Structured Data, Technique",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Imputation techniques are used for replacing the missing data with some substitute value. Learn these imputation Techniques in python",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/missing.jpg"
+        },
+        {
+            "id": 3945,
+            "title": "Part 5: Step by Step Guide to Master NLP \u2013 Word Embedding and Text Vectorization",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/",
+            "authors": "CHIRAG GOYAL",
+            "tags": "Beginner, Data Cleaning, Machine Learning, NLP, Python, Text, Word Embeddings",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "In this article, we will understand the Word Embeddings in NLP with their types and discuss the techniques of Text Vectorization",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/52490nlp-5.jpg"
+        },
+        {
+            "id": 3946,
+            "title": "TV Shows Analysis: Netflix, Prime Video, Hulu and Disney",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/tv-shows-analysis-netflix-prime-video-hulu-and-disney/",
+            "authors": "Prateek Majumder",
+            "tags": "Beginner, Data Exploration, Data Visualization, Project, Python, Structured Data",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "We shall have a look at the TV Shows data set and perform some Data Exploration and analysis to see various viewing patterns",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/10-Mind-Blowing-TV-Shows-on-Machine-Learning-you-Might-Have-Missed.jpg"
+        },
+        {
+            "id": 3947,
+            "title": "Performing Exploratory Data Analysis with SAS and Python",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/exploratory-data-analysis-with-sas-and-python/",
+            "authors": "Anurag Singh",
+            "tags": "Beginner, Data Exploration, Python, python, SAS",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "In this blog, we will try to understand the process of EDA and we will also perform a demo of how to do Exploratory data analysis with SAS and Python.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/67989eda-image.png"
+        },
+        {
+            "id": 3948,
+            "title": "What is Predictive Analytics | An Introductory Guide For Data Science Beginners!",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/what-is-predictive-analytics-an-introductory-guide-for-data-science-beginners/",
+            "authors": "Keerthana V",
+            "tags": "Beginner, Classification, Data Science, Machine Learning, Statistics",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "In predictive analytics, we find the factors responsible, gather data, apply techniques from machine learning, data mining, predictive modeling.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/53836Crystal-ball-currency-money-price-business-predict-future.jpg"
+        },
+        {
+            "id": 3949,
+            "title": "Beginner\u2019s Guide to Flajolet Martin Algorithm",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-to-flajolet-martin-algorithm/",
+            "authors": "Pearl Miglani",
+            "tags": "Advanced, Algorithm, Data Engineering, Maths, Programming, Python",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Flajolet Martin Algorithm or the FM Algorithm is used to approximate the number of unique elements in a data stream or database in one pass",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/boosting_algorithms.png"
+        },
+        {
+            "id": 3950,
+            "title": "Top 15 Pandas Data Exploration functions !",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/top-15-pandas-data-exploration-functions/",
+            "authors": "Mohit Tripathi",
+            "tags": "Beginner, Data Exploration, Pandas, Python, Structured Data",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Pandas is a widely used Python library. It is used in multiple stages of data analytics. Here, we will see some functions used for data exploration.",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/26918pandas.png"
+        },
+        {
+            "id": 3951,
+            "title": "Data Extraction from Unstructured PDFs",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/data-extraction-from-unstructured-pdfs/",
+            "authors": "Ashish",
+            "tags": "Beginner, Libraries, Pandas, Python, Unstructured Data",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Here, I will show you a most successful technique & a python library through which Data extraction can be performed from bounding boxes in unstructured PDFs",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/5653515.jpg"
+        },
+        {
+            "id": 3952,
+            "title": "5 Techniques to Handle Imbalanced Data For a Classification Problem",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/",
+            "authors": "Saikat Mazumder",
+            "tags": "Beginner, Data Science, Machine Learning, Python",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "Techniques to handle imbalanced data for a classification problem. Here we discuss what is imbalanced data, and how to handle Imbalanced data",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/19939blog-scaled.jpg"
+        },
+        {
+            "id": 3953,
+            "title": "A Quick Overview Of AROC vs Accuracy vs ROC",
+            "url": "https://www.analyticsvidhya.com/blog/2021/06/a-quick-overview-of-aroc-vs-accuracy-vs-roc/",
+            "authors": "Mrinal Singh Walia",
+            "tags": "Beginner, Classification, Machine Learning, Maths",
+            "publishedOn": "2021-06-21T00:00:00",
+            "description": "In today's post, we will discuss the merits of ROC curves and accuracy estimation and do a comparison envolving AROC vs Accuracy vs ROC",
+            "thumbnail": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/07/na9-scaled.jpg"
+        }
+    ]
+}

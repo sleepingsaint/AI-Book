@@ -1,0 +1,165 @@
+{
+    "hasNextPage": false,
+    "data": [
+        {
+            "id": 8424,
+            "title": "Hugging Face on PyTorch / XLA TPUs",
+            "url": "https://huggingface.co/blog/pytorch-xla",
+            "authors": "jysohn23",
+            "tags": null,
+            "publishedOn": "2021-02-09T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/13_pytorch_xla/pytorch_xla_thumbnail.png"
+        },
+        {
+            "id": 8425,
+            "title": "Faster TensorFlow models in Hugging Face Transformers",
+            "url": "https://huggingface.co/blog/tf-serving",
+            "authors": "jplu",
+            "tags": null,
+            "publishedOn": "2021-01-26T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/10_tf-serving/thumbnail.png"
+        },
+        {
+            "id": 8426,
+            "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+            "url": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+            "authors": "stas",
+            "tags": null,
+            "publishedOn": "2021-01-19T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/11_zero_deepspeed_fairscale/zero-partitioning.png"
+        },
+        {
+            "id": 8427,
+            "title": "How we sped up transformer inference 100x for \ud83e\udd17 API customers",
+            "url": "https://huggingface.co/blog/accelerated-inference",
+            "authors": "Narsil",
+            "tags": null,
+            "publishedOn": "2021-01-18T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/09_accelerated_inference/thumbnail.png"
+        },
+        {
+            "id": 8428,
+            "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+            "url": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2020-11-09T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/08_warm_starting_encoder_decoder/thumbnail.png"
+        },
+        {
+            "id": 8429,
+            "title": "Porting fairseq wmt19 translation system to transformers",
+            "url": "https://huggingface.co/blog/porting-fsmt",
+            "authors": "stas",
+            "tags": null,
+            "publishedOn": "2020-11-03T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/07_porting_fsmt/thumbnail.png"
+        },
+        {
+            "id": 8430,
+            "title": "Hyperparameter Search with Transformers and Ray Tune",
+            "url": "https://huggingface.co/blog/ray-tune",
+            "authors": "ray-project",
+            "tags": null,
+            "publishedOn": "2020-11-02T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/06_ray_tune/ray-hf.jpg"
+        },
+        {
+            "id": 8431,
+            "title": "Transformer-based Encoder-Decoder Models",
+            "url": "https://huggingface.co/blog/encoder-decoder",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2020-10-10T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/05_encoder_decoder/thumbnail.png"
+        },
+        {
+            "id": 8432,
+            "title": "Retrieval Augmented Generation (RAG)",
+            "url": "https://huggingface.cohttps://huggingface.co/rag",
+            "authors": "yjernite",
+            "tags": null,
+            "publishedOn": "2020-09-28T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 8433,
+            "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+            "url": "https://huggingface.co/blog/pytorch_block_sparse",
+            "authors": "madlag",
+            "tags": null,
+            "publishedOn": "2020-09-10T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/04_pytorch_block_sparse/thumbnail.png"
+        },
+        {
+            "id": 8434,
+            "title": "The Reformer - Pushing the limits of language modeling",
+            "url": "https://huggingface.co/blog/reformer",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2020-07-03T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/03_reformer/thumbnail.png"
+        },
+        {
+            "id": 8435,
+            "title": "Long Form Question Answering with ELI5",
+            "url": "https://huggingface.cohttps://yjernite.github.io/lfqa.html",
+            "authors": "yjernite",
+            "tags": null,
+            "publishedOn": "2020-06-17T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 8436,
+            "title": "How Big Should My Language Model Be?",
+            "url": "https://huggingface.cohttps://huggingface.co/calculator",
+            "authors": "teven",
+            "tags": null,
+            "publishedOn": "2020-06-08T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 8437,
+            "title": "Zero Shot Topic Classification",
+            "url": "https://huggingface.cohttps://huggingface.co/zero-shot",
+            "authors": "joeddav",
+            "tags": null,
+            "publishedOn": "2020-05-29T00:00:00",
+            "description": null,
+            "thumbnail": null
+        },
+        {
+            "id": 8438,
+            "title": "How to generate text: using different decoding methods for language generation with Transformers",
+            "url": "https://huggingface.co/blog/how-to-generate",
+            "authors": "patrickvonplaten",
+            "tags": null,
+            "publishedOn": "2020-03-01T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/02_how-to-generate/thumbnail.png"
+        },
+        {
+            "id": 8439,
+            "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+            "url": "https://huggingface.co/blog/how-to-train",
+            "authors": "julien-c",
+            "tags": null,
+            "publishedOn": "2020-02-14T00:00:00",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "thumbnail": "https://huggingface.co/blog/assets/01_how-to-train/how-to-train_blogpost.png"
+        }
+    ]
+}

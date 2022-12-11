@@ -1,0 +1,305 @@
+{
+    "hasNextPage": true,
+    "data": [
+        {
+            "id": 1826,
+            "title": "The science behind Echo Show 10",
+            "url": "https://www.amazon.science/blog/the-science-behind-echo-show-10",
+            "authors": "Prakash Iyer",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-09-24T00:00:00",
+            "description": "A combination of audio and visual signals guide the device\u2019s movement, so the screen is always in view.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/72f99ef/2147483647/strip/true/crop/998x524+0+94/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ff5%2F32%2Fde0cb0164c56bf44da4a88ec7da0%2Fecho-show-10-x-ray-small.png"
+        },
+        {
+            "id": 1827,
+            "title": "New Alexa features: Speaking style adaptation",
+            "url": "https://www.amazon.science/blog/new-text-to-speech-generator-and-rephraser-move-alexa-toward-concept-to-speech",
+            "authors": "Antonio Bonafonte",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-09-24T00:00:00",
+            "description": "Adjusting prosody and speaking style to conversational context is a first step toward \u201cconcept-to-speech\u201d.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/6fb40bf/2147483647/strip/true/crop/2400x1260+0+120/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F40%2Fdd%2F70b243f74e068cc21dc4b08c16fd%2Fglobal-control.png"
+        },
+        {
+            "id": 1828,
+            "title": "New Alexa features: Natural turn-taking",
+            "url": "https://www.amazon.science/blog/change-to-alexa-wake-word-process-adds-natural-turn-taking",
+            "authors": "Pradeep Natarajan, Arindam Mandal, Nikko Str\u00f6m",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-09-24T00:00:00",
+            "description": "Natural turn-taking uses multiple cues \u2014 acoustic, linguistic, and visual \u2014 to help Alexa interact more naturally, without the need to repeat the wake word.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/66216e7/2147483647/strip/true/crop/981x515+169+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F34%2Fbb%2F868811424050a3b7877ca9c57f22%2Fntt-pipeline.small.png"
+        },
+        {
+            "id": 1829,
+            "title": "New Alexa features: Interactive teaching by customers",
+            "url": "https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers",
+            "authors": "Govind Thattai, Gokhan Tur, Prem Natarajan",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-09-24T00:00:00",
+            "description": "Deep learning and reasoning enable customers to explicitly teach Alexa how to interpret their novel requests.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/4ff27b8/2147483647/strip/true/crop/1500x788+0+28/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F1f%2Fff%2Fa1c910d0468fa62ccdf5c79494bd%2Fentity-concepts-small.png"
+        },
+        {
+            "id": 1830,
+            "title": "How to reduce annotation when evaluating AI systems",
+            "url": "https://www.amazon.science/blog/how-to-reduce-annotation-when-evaluating-ai-systems",
+            "authors": "Srinivasan Jagannathan",
+            "tags": "Machine learning",
+            "publishedOn": "2020-09-23T00:00:00",
+            "description": "By exploiting consistencies across components of ensemble classifiers, a new approach reduces data requirements by up to 89%.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/6e7f931/2147483647/strip/true/crop/1294x679+0+210/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F74%2Fa8%2F9526b2664d1ab9c99e987bdd5b51%2Fset-intersections.png"
+        },
+        {
+            "id": 1831,
+            "title": "How to reduce communication overhead for database queries by up to 97%",
+            "url": "https://www.amazon.science/blog/how-to-reduce-communication-overhead-for-database-queries-by-up-to-97",
+            "authors": "Panos Parchas",
+            "tags": "Information and knowledge management",
+            "publishedOn": "2020-09-17T00:00:00",
+            "description": "Amazon researchers describe new method for distributing database tables across servers.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/670d48e/2147483647/strip/true/crop/1638x860+0+370/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F15%2Ffd%2F5525c7fb4991abb03bf34d39f3fa%2Freal-join-multigraph.png"
+        },
+        {
+            "id": 1832,
+            "title": "The importance of forgetting in artificial and animal intelligence",
+            "url": "https://www.amazon.science/blog/the-importance-of-forgetting-in-artificial-and-animal-intelligence",
+            "authors": "Alessandro Achille",
+            "tags": "Machine learning",
+            "publishedOn": "2020-09-15T00:00:00",
+            "description": "The surprising dynamics related to learning that are common to artificial and biological systems.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/f3dff93/2147483647/strip/true/crop/1279x671+0+78/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F8d%2F71%2F9c8e04b74421a9f5ca793b6bd7b7%2Ftask2vec.JPG"
+        },
+        {
+            "id": 1833,
+            "title": "Amazon Scholar John Preskill on the AWS quantum computing effort",
+            "url": "https://www.amazon.science/blog/amazon-scholar-john-preskill-on-the-aws-quantum-computing-effort",
+            "authors": "Larry Hardesty",
+            "tags": "Quantum technologies",
+            "publishedOn": "2020-09-10T00:00:00",
+            "description": "The noted physicist answers 3 questions about the challenges of quantum computing and why he\u2019s excited to be part of a technology development project.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/91381c1/2147483647/strip/true/crop/960x504+0+99/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F48%2F82%2F6102d8304cd28648b080351de93b%2Fpreskill-john.cropped.png"
+        },
+        {
+            "id": 1834,
+            "title": "Machine learning tools increase power of hypothesis testing",
+            "url": "https://www.amazon.science/blog/machine-learning-tools-increase-power-of-hypothesis-testing",
+            "authors": "Shiyun Chen, Shiva Kasiviswanathan",
+            "tags": "Machine learning",
+            "publishedOn": "2020-09-09T00:00:00",
+            "description": "Context vectors that capture \u201cside information\u201d can make experiments more informative.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/b755cc0/2147483647/strip/true/crop/4000x2100+0+75/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F21%2F59%2Fd5750d7643a48b65edf66b5d29fb%2Fstreamofhypotheses-01.png"
+        },
+        {
+            "id": 1835,
+            "title": "Amazon helps fund NSF high-priority AI research initiative",
+            "url": "https://www.amazon.science/blog/amazon-supports-nsf-research-in-human-ai-interaction-collaboration",
+            "authors": "Prem Natarajan",
+            "tags": "Machine learning",
+            "publishedOn": "2020-09-02T00:00:00",
+            "description": "Company supports research theme related to human-AI interaction and collaboration.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/dc89f0a/2147483647/strip/true/crop/1440x756+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F3f%2F8a%2Fc0dff25b45fdb3d666a2f4cfe216%2Fnational-science-foundation-nsf-amazon-science.png"
+        },
+        {
+            "id": 1836,
+            "title": "Learning to segment images without manually segmented training data",
+            "url": "https://www.amazon.science/blog/learning-to-segment-images-without-manually-segmented-training-data",
+            "authors": "Siddhartha Chandra",
+            "tags": "Computer vision",
+            "publishedOn": "2020-09-01T00:00:00",
+            "description": "Machine learning method relies on coarse \u201cbounding-box\u201d image labels but still delivers state-of-the-art segmentation results.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/08d55f7/2147483647/strip/true/crop/945x496+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F55%2F18%2Fb4be592c465eb9136dfc74c3848c%2Fsample-segmentations.png"
+        },
+        {
+            "id": 1837,
+            "title": "Amazon Scholar wins \u201chighest honor\u201d in knowledge discovery and data mining",
+            "url": "https://www.amazon.science/blog/thorsten-joachims-amazon-scholar-knowledge-discovery-and-data-mining-conference-honor",
+            "authors": "Larry Hardesty",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2020-08-27T00:00:00",
+            "description": "Thorsten Joachims answers 3 questions about the work that earned him the award.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/86ea34d/2147483647/strip/true/crop/300x158+0+37/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fd5%2Fbb%2Fa4ed6f9847b59f98acd50d657ad8%2Fthorsten-joachims.jpg"
+        },
+        {
+            "id": 1838,
+            "title": "Amazon researchers win best-paper award at KDD",
+            "url": "https://www.amazon.science/blog/amazon-researchers-win-best-paper-award-at-kdd",
+            "authors": "Staff writer",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2020-08-26T00:00:00",
+            "description": "Research involves making recommender systems more aware of changing trends and more scalable.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/72df007/2147483647/strip/true/crop/1736x911+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ffa%2F72%2F1098c5b545c29c1f7913c86fc709%2Ftemporal-contextual-recommendation-in-real-time.png"
+        },
+        {
+            "id": 1839,
+            "title": "ECCV: Where does computer vision go from here?",
+            "url": "https://www.amazon.science/european-conference-on-computer-vision-2020-amazon-scholar-thomas-brox",
+            "authors": "Larry Hardesty",
+            "tags": "Computer vision",
+            "publishedOn": "2020-08-25T00:00:00",
+            "description": "Amazon Scholar Thomas Brox sees promise in unsupervised learning, generative models, and integrating machine learning and geometry.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/0a7c6d8/2147483647/strip/true/crop/750x394+0+156/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fdf%2F48%2Fef3eb6df4d7aad6fa4af851a3866%2Fbrox2017b.small.png"
+        },
+        {
+            "id": 1840,
+            "title": "Amazon Research Awards opens call for proposals",
+            "url": "https://www.amazon.science/research-awards/program-updates/amazon-research-awards-opens-call-for-proposals",
+            "authors": "Nikole McCollum",
+            "tags": null,
+            "publishedOn": "2020-08-20T00:00:00",
+            "description": "Deadline for submissions is October 11, 2020.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/48ff324/2147483647/strip/true/crop/874x459+0+17/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F63%2F20%2F7eeea3f2439d8a8d4b2d566c18f6%2Famazon-research-awards-2020-call-for-proposals.png"
+        },
+        {
+            "id": 1841,
+            "title": "Amazon team takes first place in Interspeech 2020 Deep Noise Suppression Challenge",
+            "url": "https://www.amazon.science/blog/amazon-team-takes-first-place-in-interspeech-2020-deep-noise-suppression-challenge",
+            "authors": "Arvindh Krishnaswamy",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-08-20T00:00:00",
+            "description": "The team\u2019s non-real-time system is the top performer, while its real-time system finishes third overall and second among real-time systems \u2014 despite using only 4% of a CPU core.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/6610ffa/2147483647/strip/true/crop/800x420+0+84/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fb6%2F48%2F034b96154095887d1e77bf53f134%2Fspeech-enhancement-thumbnail.small.png"
+        },
+        {
+            "id": 1842,
+            "title": "KDD: Where linear methods still have their place",
+            "url": "https://www.amazon.science/blog/kdd-where-linear-methods-still-have-their-place",
+            "authors": "Larry Hardesty",
+            "tags": "Information and knowledge management",
+            "publishedOn": "2020-08-19T00:00:00",
+            "description": "In the field of knowledge discovery, says Amazon Scholar Christos Faloutsos, \u201cWe want to choose the right tool for the given application.\u201d",
+            "thumbnail": "https://assets.amazon.science/dims4/default/18537c5/2147483647/strip/true/crop/600x315+0+117/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fbc%2F9e%2F000d14a14ff8aa14af50590a198f%2Ffaloutsos-small.png"
+        },
+        {
+            "id": 1843,
+            "title": "Taming Transformers for text classification with millions of classes",
+            "url": "https://www.amazon.science/blog/natural-language-processing-techniques-text-classification-with-Transformers-at-scale",
+            "authors": "Hsiang-Fu Yu",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-08-18T00:00:00",
+            "description": "New approach scales manageably while achieving state-of-the-art results.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/a5e8de3/2147483647/strip/true/crop/3000x1575+0+57/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ff1%2Ff8%2F294204e34a83902f225ddc521b25%2Fextreme-classifier.png"
+        },
+        {
+            "id": 1844,
+            "title": "Building product graphs automatically",
+            "url": "https://www.amazon.science/blog/building-product-graphs-automatically",
+            "authors": "Xin Luna Dong",
+            "tags": "Information and knowledge management",
+            "publishedOn": "2020-08-13T00:00:00",
+            "description": "Automated system tripled the number of facts in a product graph.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/7ee8110/2147483647/strip/true/crop/2500x1313+0+47/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fd0%2Fe3%2Fb1bb5656434e827bd014298faac5%2Fautoknow.png"
+        },
+        {
+            "id": 1845,
+            "title": "Teaching computers to recognize humor",
+            "url": "https://www.amazon.science/blog/teaching-computers-to-recognize-humor",
+            "authors": "David Carmel",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-08-10T00:00:00",
+            "description": "Detecting comic product-related questions could improve customer engagement and Amazon recommendations.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/ea9020d/2147483647/strip/true/crop/737x387+0+117/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F16%2F41%2F766f394b4733acf1476fd5f3e6b9%2Funicorn-meat.png"
+        },
+        {
+            "id": 1846,
+            "title": "Amazon\u2019s open-source tools make embedding knowledge graphs much more efficient",
+            "url": "https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient",
+            "authors": "Da Zheng",
+            "tags": "Information and knowledge management",
+            "publishedOn": "2020-08-06T00:00:00",
+            "description": "Tools include optimizations for multicore, multiple-GPU, and distributed-training settings.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/33625a1/2147483647/strip/true/crop/962x505+506+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F8f%2F76%2Fca6dcb354a6386fdf75ce219793d%2Fdgl-ke-implementations.png"
+        },
+        {
+            "id": 1847,
+            "title": "How to teach Transformers to care about word order",
+            "url": "https://www.amazon.science/blog/how-to-teach-transformers-to-care-about-word-order",
+            "authors": "Hsiang-Fu Yu",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-07-24T00:00:00",
+            "description": "New position encoding scheme improves state-of-the-art performance on several natural-language-processing tasks.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8f3e5f8/2147483647/strip/true/crop/4000x2100+0+75/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa7%2Ffe%2Fb29f05d4426498194ccec1621910%2Fposition-embedding-4-3-ratio.png"
+        },
+        {
+            "id": 1848,
+            "title": "SIGIR: How information retrieval and natural-language processing overcame their rivalry",
+            "url": "https://www.amazon.science/blog/sigir-how-information-retrieval-and-natural-language-processing-overcame-their-rivalry",
+            "authors": "Larry Hardesty",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2020-07-23T00:00:00",
+            "description": "Alexa principal scientist Alessandro Moschitti describes the changes that have swept both fields in the 20 years since he first attended the conference.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/2f4333d/2147483647/strip/true/crop/2750x1444+0+52/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F14%2F85%2F5c8e93294ff782ac918b2e04224c%2Fretrieval-strategies.png"
+        },
+        {
+            "id": 1849,
+            "title": "Amazon scientists applying deep neural networks to custom skills",
+            "url": "https://www.amazon.science/blog/amazon-scientists-applying-deep-neural-networks-to-custom-skills",
+            "authors": "Shankar Ananthakrishnan",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "Amazon scientists are seeing increases in accuracy from an approach that uses a new scalable embedding scheme.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/187000b/2147483647/strip/true/crop/1496x785+0+27/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fbe%2F41%2Ffbff7e6840c78f81db2ca54608f1%2Fword-embeddings.png"
+        },
+        {
+            "id": 1850,
+            "title": "Science innovations power Alexa Conversations dialogue management",
+            "url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
+            "authors": "Angeliki Metallinou",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-07-22T00:00:00",
+            "description": "Dialogue simulator and conversations-first modeling architecture provide ability for customers to interact with Alexa in a natural and conversational manner.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/dd5828e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F13%2F3d%2Fd6c532c740819f8e9226dca8204e%2Falexa-conversations-dialogue-mgmt.jpg"
+        },
+        {
+            "id": 1851,
+            "title": "Amazon researchers win best-paper award for helping promote fairness in AI",
+            "url": "https://www.amazon.science/blog/amazon-researchers-win-best-paper-award-for-helping-promote-fairness-in-ai",
+            "authors": "Larry Hardesty",
+            "tags": "Machine learning",
+            "publishedOn": "2020-07-20T00:00:00",
+            "description": "Method presented to ICML workshop works with any machine learning model and fairness criterion.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/494410f/2147483647/strip/true/crop/1956x1027+0+186/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F9d%2F4b%2F0051a7e747d2935f73dbfa4667fe%2Faccuracy-fairness-trade-off.png"
+        },
+        {
+            "id": 1852,
+            "title": "When does transfer learning work?",
+            "url": "https://www.amazon.science/blog/when-does-transfer-learning-work",
+            "authors": "Cuong Nguyen",
+            "tags": "Machine learning",
+            "publishedOn": "2020-07-15T00:00:00",
+            "description": "New transferability metric is more accurate and more generally applicable than predecessors.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/39aff8f/2147483647/strip/true/crop/2000x1050+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F68%2F6b%2F8ec10fde4d4a8a67b0e8768df56b%2Fconditional-probability.png"
+        },
+        {
+            "id": 1853,
+            "title": "ICML: \u201cTest of time\u201d paper shows how times have changed",
+            "url": "https://www.amazon.science/blog/icml-test-of-time-paper-shows-how-times-have-changed",
+            "authors": "Larry Hardesty",
+            "tags": "Machine learning",
+            "publishedOn": "2020-07-09T00:00:00",
+            "description": "Amazon scientist\u2019s award-winning paper predates \u2014 but later found applications in \u2014 the deep-learning revolution.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/3c9dfe5/2147483647/strip/true/crop/922x484+0+82/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ff5%2F7e%2F4f57fefa4befb6847a6b75b506fb%2Ftemperature-samples.png"
+        },
+        {
+            "id": 1854,
+            "title": "Using unlabeled data to improve sequence labeling",
+            "url": "https://www.amazon.science/blog/using-unlabeled-data-to-improve-sequence-labeling",
+            "authors": "Luoxin Chen",
+            "tags": "Conversational AI / Natural-language processing",
+            "publishedOn": "2020-07-08T00:00:00",
+            "description": "New method extends virtual adversarial training to sequence-labeling tasks, which assign different labels to different words of an input sentence.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/8ebdb8a/2147483647/strip/true/crop/1224x643+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F3f%2F1d%2Fdd0ff7214092ae1c5acc0d319948%2Fseqvat-architecture.png"
+        },
+        {
+            "id": 1855,
+            "title": "Adversarial training improves product discovery",
+            "url": "https://www.amazon.science/blog/adversarial-training-improves-product-discovery",
+            "authors": "Nikhil Rao",
+            "tags": "Search and information retrieval",
+            "publishedOn": "2020-07-02T00:00:00",
+            "description": "Method automatically generates negative training examples for deep-learning model.",
+            "thumbnail": "https://assets.amazon.science/dims4/default/4b56fbe/2147483647/strip/true/crop/1250x656+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fa4%2Ff6%2F9088038248abbe3d57baf407fa2d%2Fhard-examples.png"
+        }
+    ]
+}
